@@ -232,14 +232,12 @@ function groupResultsBySource(items) {
 // GitHub API 工具
 // ============================================================
 
-async function dispatchWorkflow(searchQuery, timeRange, sortBy) {
+async function dispatchWorkflow(searchQuery) {
   const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`;
   const payload = {
     ref: 'main',
     inputs: { search_query: searchQuery }
   };
-  if (timeRange) payload.inputs.time_range = timeRange;
-  if (sortBy) payload.inputs.sort = sortBy;
 
   const resp = await fetch(url, {
     method: 'POST',
@@ -252,7 +250,8 @@ async function dispatchWorkflow(searchQuery, timeRange, sortBy) {
   });
 
   if (!resp.ok && resp.status !== 204) {
-    throw new Error(`GitHub API ${resp.status}`);
+    const text = await resp.text().catch(() => '');
+    throw new Error(`GitHub API ${resp.status}: ${text.slice(0, 200)}`);
   }
   return true;
 }
@@ -319,14 +318,11 @@ async function performSearch(keyword) {
   searchBtn.disabled = true;
   searchBtn.innerHTML = '<span class="loading-cat">🐱</span> 提交中...';
 
-  const timeRange = selectedTimePeriod.value;
-  const sortBy = 'date'; // Always sort by date from API
-
   showSearchStart(keyword);
 
   try {
     updateSearchStatus('🚀', '正在提交搜索请求...');
-    await dispatchWorkflow(keyword, timeRange, sortBy);
+    await dispatchWorkflow(keyword);
 
     if (mySessionId !== searchSessionId) return;
 
