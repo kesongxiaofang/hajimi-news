@@ -272,8 +272,6 @@ async function dispatchWorkflow(searchQuery) {
 }
 
 async function pollSearchResults(sessionId, maxAttempts, intervalMs) {
-  const url = `data/search-results.json`;
-
   for (let i = 0; i < maxAttempts; i++) {
     await sleep(intervalMs);
 
@@ -283,27 +281,48 @@ async function pollSearchResults(sessionId, maxAttempts, intervalMs) {
     }
 
     try {
-      const resp = await fetch(url + '?t=' + Date.now(), { cache: 'no-store' });
+      // Use random cache-buster to avoid CDN caching
+      const cacheBuster = Date.now() + '_' + Math.random();
+      const resp = await fetch(`data/search-results.json?_v=${cacheBuster}`, {
+        cache: 'no-store',
+        headers: { 'Cache-Control': 'no-cache' }
+      });
+      
       if (resp.status === 200) {
         const data = await resp.json();
         if (sessionId !== searchSessionId) throw new Error('SESSION_EXPIRED');
-        if (data && data.query === currentKeyword) return data;
+        
+        console.log(`[Poll ${i+1}/${maxAttempts}] Got response: query="${data.query}", count=${data.count}, update_time=${data.update_time}`);
+        
+        if (data && data.query === currentKeyword) {
+          console.log(`[Search] Success! Found ${data.count} results for "${currentKeyword}"`);
+          return data;
+        }
         console.log(`Poll ${i+1}/${maxAttempts}: old result (query="${data.query||'unknown'}"), waiting...`);
+      } else {
+        console.log(`Poll ${i+1}/${maxAttempts}: HTTP ${resp.status}`);
       }
     } catch (e) {
       if (e.message === 'SESSION_EXPIRED') throw e;
-      console.log(`Poll ${i+1}/${maxAttempts}: not ready`);
+      console.log(`Poll ${i+1}/${maxAttempts}: not ready (${e.message})`);
     }
   }
 
-  // Last attempt
-  try {
-    const resp = await fetch(url + '?t=' + Date.now(), { cache: 'no-store' });
-    if (resp.status === 200) {
-      const data = await resp.json();
-      if (data && data.query === currentKeyword) return data;
-    }
-  } catch (e) { /* ignore */ }
+    // Last attempt - try one more time with forced cache bypass
+    try {
+      const cacheBuster = Date.now() + '_' + Math.random();
+      const resp = await fetch(`data/search-results.json?_v=${cacheBuster}`, {
+        cache: 'no-store',
+        headers: { 'Cache-Control': 'no-cache' }
+      });
+      if (resp.status === 200) {
+        const data = await resp.json();
+        if (data && data.query === currentKeyword) {
+          console.log(`[Search] Last attempt success: ${data.count} results`);
+          return data;
+        }
+      }
+    } catch (e) { /* ignore */ }
 
   throw new Error('搜索超时');
 }
@@ -473,6 +492,8 @@ function displaySearchResults(data, keyword) {
   resultsContainer.innerHTML = html;
 
   if (count > 0) renderFilteredResults();
+
+  console.log(`[Search] Displaying ${count} results for "${keyword}"`);
 }
 
 function renderEmptyState(keyword) {
