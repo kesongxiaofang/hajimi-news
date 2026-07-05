@@ -190,12 +190,52 @@ function extractDomain(source) {
   return domain;
 }
 
-function getSourceInfo(source) {
+const DOMAIN_ALIASES = {
+  // 微博
+  'm.weibo.cn': 'weibo.com',
+  'weibo.cn': 'weibo.com',
+  'm.weibo.com': 'weibo.com',
+  // B站
+  'b23.tv': 'bilibili.com',
+  'm.bilibili.com': 'bilibili.com',
+  // 小红书
+  'xhslink.com': 'xiaohongshu.com',
+  'm.xiaohongshu.com': 'xiaohongshu.com',
+  // 知乎
+  'm.zhihu.com': 'zhihu.com',
+  'zhuanlan.zhihu.com': 'zhihu.com',
+  // 抖音
+  'm.douyin.com': 'douyin.com',
+  'iesdouyin.com': 'douyin.com',
+  'www.douyin.com': 'douyin.com',
+  // 豆瓣
+  'm.douban.com': 'douban.com',
+  'book.douban.com': 'douban.com',
+  'movie.douban.com': 'douban.com',
+  'music.douban.com': 'douban.com',
+  // 头条
+  'm.toutiao.com': 'toutiao.com',
+  'so.toutiao.com': 'toutiao.com',
+  'toutiao.com.cn': 'toutiao.com',
+  'www.toutiao.com': 'toutiao.com',
+  // 澎湃
+  'm.thepaper.cn': 'thepaper.cn',
+  'www.thepaper.cn': 'thepaper.cn',
+  // 凤凰
+  'm.ifeng.com': 'ifeng.com',
+  'www.ifeng.com': 'ifeng.com',
+};
+
+function normalizeDomain(source) {
   const domain = extractDomain(source);
+  return DOMAIN_ALIASES[domain] || domain;
+}
+
+function getSourceInfo(source) {
+  const domain = normalizeDomain(source);
   // 精确匹配
   if (ALLOWED_SOURCES[domain]) return ALLOWED_SOURCES[domain];
-  // 子域名匹配: news.qq.com → 检查 qq.com 不在列表中，不匹配
-  // 检查后缀匹配
+  // 子域名匹配
   for (const [key, info] of Object.entries(ALLOWED_SOURCES)) {
     if (domain.endsWith('.' + key)) return info;
   }
@@ -204,7 +244,7 @@ function getSourceInfo(source) {
 }
 
 function getSourceKey(source) {
-  const domain = extractDomain(source);
+  const domain = normalizeDomain(source);
   if (ALLOWED_SOURCES[domain]) return domain;
   for (const key of Object.keys(ALLOWED_SOURCES)) {
     if (domain.endsWith('.' + key)) return key;
