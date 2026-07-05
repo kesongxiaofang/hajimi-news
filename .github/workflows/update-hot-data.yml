@@ -2,11 +2,11 @@ name: Update Hot Data
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Every 30 minutes
+    - cron: '*/30 * * * *'
   workflow_dispatch:
     inputs:
       search_query:
-        description: 'Search query (for manual trigger)'
+        description: 'Search query'
         required: false
         default: ''
       time_range:
@@ -14,7 +14,7 @@ on:
         required: false
         default: ''
       sort:
-        description: 'Sort order (date)'
+        description: 'Sort by (date)'
         required: false
         default: ''
 
@@ -22,40 +22,43 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Run hot data fetch script
-        run: |
-          cd scripts
-          python fetch_hot_data.py
+      - name: Install dependencies
+        run: pip install urllib3
 
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add ../data/*.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update hot data [skip ci]"; git push)
-        working-directory: ./scripts
+      - name: Run hot data fetch
+        run: python scripts/fetch_hot_data.py
+        working-directory: ./
 
-      - name: Run search (if triggered manually)
+      - name: Commit hot data
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'actions@github.com'
+          git add data/*.json
+          git commit -m "Update hot data" || echo "No changes"
+          git push
+        continue-on-error: true
+
+      - name: Run search (if triggered)
         if: ${{ github.event.inputs.search_query != '' }}
-        run: |
-          cd scripts
-          python fetch_hot_data.py --search "${{ github.event.inputs.search_query }}" --time-range "${{ github.event.inputs.time_range }}" --sort "${{ github.event.inputs.sort }}"
+        run: python scripts/fetch_hot_data.py --search "${{ github.event.inputs.search_query }}" --time-range "${{ github.event.inputs.time_range }}" --sort "${{ github.event.inputs.sort }}"
+        working-directory: ./
         env:
           SEARCH_ONLY: "1"
 
       - name: Commit search results
         if: ${{ github.event.inputs.search_query != '' }}
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add ../data/search-results.json ../data/search-cache.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update search results [skip ci]"; git push)
-        working-directory: ./scripts
+          git config user.name 'github-actions'
+          git config user.email 'actions@github.com'
+          git add data/search-results.json data/search-cache.json
+          git commit -m "Update search results" || echo "No changes"
+          git push
+        continue-on-error: true
