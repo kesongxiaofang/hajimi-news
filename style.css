@@ -488,6 +488,99 @@ body {
   margin-top: 4px !important;
 }
 
+/* Search Step Progress */
+.search-step-container {
+  text-align: center;
+  padding: 40px 20px;
+}
+.search-step-icon {
+  font-size: 48px;
+  margin-bottom: 12px;
+  animation: mascotFloat 3s ease-in-out infinite;
+}
+.search-step-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--accent-deep);
+  margin-bottom: 20px;
+}
+.search-step-progress {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 16px;
+}
+.progress-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  opacity: 0.35;
+  transition: opacity 0.3s;
+}
+.progress-step.active {
+  opacity: 1;
+}
+.progress-step.done {
+  opacity: 0.8;
+}
+.ps-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--border-light);
+  color: var(--text-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: 700;
+}
+.progress-step.active .ps-icon {
+  background: var(--gold-gradient);
+  color: white;
+  box-shadow: 0 0 12px rgba(255,165,0,0.4);
+}
+.progress-step.done .ps-icon {
+  background: var(--accent);
+  color: white;
+}
+.ps-text {
+  font-size: 12px;
+  color: var(--text-light);
+  font-weight: 600;
+}
+.search-step-hint {
+  font-size: 14px;
+  color: var(--text-light);
+  margin-bottom: 12px;
+}
+.search-step-spinner {
+  margin-top: 8px;
+}
+.search-step-spinner .loading-spinner {
+  width: 32px;
+  height: 32px;
+  margin: 0 auto;
+  border: 3px solid var(--accent-light);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+/* Search Results Header */
+.search-results-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 0;
+  border-bottom: 2px solid var(--border);
+  margin-bottom: 20px;
+}
+.srh-icon { font-size: 24px; }
+.srh-title { font-size: 16px; font-weight: 700; color: var(--accent-deep); flex: 1; }
+.srh-count { font-size: 13px; color: var(--text-lighter); background: var(--accent-light); padding: 4px 12px; border-radius: 16px; font-weight: 600; }
+
 /* Loading State */
 .loading-grid {
   display: grid;
