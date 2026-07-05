@@ -1,8 +1,7 @@
 // ============================================================
-// 哈基米新闻 V7.2 - 全网热搜聚合 + GitHub Actions 搜索
+// 哈基米新闻 V8 - 9平台来源 + 时间筛选 + 按日期排序
 // 热榜: GitHub Actions 定时抓取 → 本地 JSON (同域加载)
 // 搜索: 前端触发 GitHub Actions → uapis.cn 搜索 → 轮询结果
-// 新增: 来源分类筛选 + 连续搜索 session 管理
 // ============================================================
 
 // ===== GitHub 配置 =====
@@ -11,44 +10,29 @@ const GITHUB_REPO = 'hajimi-news';
 const GITHUB_TOKEN = 'ghp_mDLijSVTzLwLSSLniiYtmuabrSfm6' + 'Q2rj2r3';
 const WORKFLOW_FILE = 'update-hot-data.yml';
 
-// ===== 来源域名 → 友好名称映射 =====
-const SOURCE_NAME_MAP = {
-  'sina.com.cn':      { name: '新浪',      color: '#E6162D', emoji: '📰' },
-  'weibo.com':        { name: '微博',      color: '#E6162D', emoji: '🔥' },
-  'zhihu.com':        { name: '知乎',      color: '#0084FF', emoji: '💡' },
-  'douyin.com':       { name: '抖音',      color: '#161823', emoji: '🎵' },
-  'bilibili.com':     { name: 'B站',       color: '#FB7299', emoji: '📺' },
-  'xiaohongshu.com':  { name: '小红书',    color: '#FF2442', emoji: '📕' },
-  'kuaishou.com':     { name: '快手',      color: '#FF4906', emoji: '⚡' },
-  'baidu.com':        { name: '百度',      color: '#2932E1', emoji: '🔍' },
-  'toutiao.com':      { name: '头条',      color: '#FF5722', emoji: '🗞️' },
-  'thepaper.cn':      { name: '澎湃',      color: '#FF6600', emoji: '🌊' },
-  'ifeng.com':        { name: '凤凰',      color: '#C30820', emoji: '🦅' },
-  '163.com':          { name: '网易',      color: '#D32F2F', emoji: '📬' },
-  'qq.com':           { name: '腾讯',      color: '#12B7F5', emoji: '🐧' },
-  'sohu.com':         { name: '搜狐',      color: '#FDD000', emoji: '🦊' },
-  'guancha.cn':       { name: '观察者网',  color: '#B71C1C', emoji: '👁️' },
-  'huanqiu.com':      { name: '环球网',    color: '#0D47A1', emoji: '🌍' },
-  'people.com.cn':    { name: '人民网',    color: '#C62828', emoji: '🏛️' },
-  'cctv.com':         { name: '央视网',    color: '#1565C0', emoji: '📺' },
-  'chinanews.com':    { name: '中国新闻网',color: '#2E7D32', emoji: '📢' },
-  'xinhuanet.com':    { name: '新华网',    color: '#C62828', emoji: '📡' },
-  'guancha.sina.com.cn': { name: '新浪观察', color: '#E6162D', emoji: '📰' },
-  'news.qq.com':      { name: '腾讯新闻',  color: '#12B7F5', emoji: '🐧' },
-  'news.163.com':     { name: '网易新闻',  color: '#D32F2F', emoji: '📬' },
-  'tech.sina.com.cn': { name: '新浪科技',  color: '#E6162D', emoji: '💻' },
-  'finance.sina.com.cn': { name: '新浪财经', color: '#E6162D', emoji: '💰' },
-  '36kr.com':         { name: '36氪',      color: '#2196F3', emoji: '🚀' },
-  'ithome.com':       { name: 'IT之家',    color: '#F44336', emoji: '💻' },
-  'cnbeta.com':       { name: 'cnBeta',   color: '#FF9800', emoji: '📟' },
-  'jiemian.com':      { name: '界面新闻',  color: '#00BCD4', emoji: '📋' },
-  'thepaper.cn':      { name: '澎湃',      color: '#FF6600', emoji: '🌊' },
-  'caixin.com':       { name: '财新',      color: '#FFC107', emoji: '💼' },
-  'yicai.com':        { name: '第一财经',  color: '#FF5722', emoji: '📊' },
-  'cls.cn':           { name: '财联社',    color: '#FF6F00', emoji: '📈' },
-  'wallstreetcn.com': { name: '华尔街见闻',color: '#37474F', emoji: '🏦' },
-  'ce.cn':            { name: '中国经济网',color: '#C62828', emoji: '🏭' },
+// ===== 9大平台来源映射 =====
+const ALLOWED_SOURCES = {
+  'douban.com':      { name: '豆瓣',    color: '#00B51D', emoji: '📚' },
+  'zhihu.com':       { name: '知乎',    color: '#0084FF', emoji: '💡' },
+  'xiaohongshu.com': { name: '小红书',  color: '#FF2442', emoji: '📕' },
+  'weibo.com':       { name: '微博',    color: '#E6162D', emoji: '🔥' },
+  'douyin.com':      { name: '抖音',    color: '#161823', emoji: '🎵' },
+  'bilibili.com':    { name: 'B站',     color: '#FB7299', emoji: '📺' },
+  'toutiao.com':     { name: '头条',    color: '#FF5722', emoji: '🗞️' },
+  'thepaper.cn':     { name: '澎湃',    color: '#FF6600', emoji: '🌊' },
+  'ifeng.com':       { name: '凤凰',    color: '#C30820', emoji: '🦅' },
 };
+
+const OTHER_SOURCE = { name: '其他来源', color: '#888', emoji: '🌐' };
+
+// ===== 时间段选项 =====
+const TIME_PERIODS = [
+  { label: '24小时内', value: 'd',  ms: 24 * 60 * 60 * 1000 },
+  { label: '3天内',    value: 'w',  ms: 3 * 24 * 60 * 60 * 1000 },
+  { label: '7天内',    value: 'w',  ms: 7 * 24 * 60 * 60 * 1000 },
+  { label: '30天内',   value: 'm',  ms: 30 * 24 * 60 * 60 * 1000 },
+  { label: '全部时间', value: '',   ms: 0 },
+];
 
 // ===== 热榜平台配置 =====
 const HOT_PLATFORMS = [
@@ -63,13 +47,14 @@ const HOT_PLATFORMS = [
   { id: 'thepaper', name: '澎湃', color: '#FF6600', emoji: '🌊' },
 ];
 
-// ===== 状态 =====
+// ===== 全局状态 =====
 let currentTab = 'search';
 let isSearching = false;
-let searchSessionId = 0;        // 每次搜索递增，防止旧 session 干扰
+let searchSessionId = 0;
 let currentKeyword = '';
-let allSearchResults = null;    // 缓存所有结果（用于筛选）
-let activeSourceFilters = [];   // 当前选中的来源筛选
+let allSearchResults = null;
+let activeSourceFilters = [];
+let selectedTimePeriod = TIME_PERIODS[TIME_PERIODS.length - 1]; // 默认"全部时间"
 
 // 热榜状态
 let currentHotPlatform = 'all';
@@ -94,14 +79,113 @@ if (serverStatus) {
 }
 
 // ============================================================
-// 来源域名解析
+// 日期解析：将各种格式的 publish_time 转为 Unix 时间戳(ms)
+// ============================================================
+
+function parsePublishTime(dateStr) {
+  if (!dateStr) return 0;
+
+  const s = String(dateStr).trim();
+
+  // 1. 纯数字时间戳（秒或毫秒）
+  if (/^\d+$/.test(s)) {
+    const num = parseInt(s);
+    if (num > 1e12) return num;          // 毫秒
+    if (num > 1e9)  return num * 1000;   // 秒
+    return 0;
+  }
+
+  // 2. ISO 8601 / 标准日期格式
+  let ts = Date.parse(s);
+  if (!isNaN(ts)) return ts;
+
+  // 3. 中文相对时间: "3小时前", "1天前", "2周前", "1个月前"
+  const relMatch = s.match(/(\d+)\s*(小时|天|周|月|分钟|年|秒)前/);
+  if (relMatch) {
+    const num = parseInt(relMatch[1]);
+    const unit = relMatch[2];
+    const now = Date.now();
+    const multipliers = {
+      '秒': 1000, '分钟': 60000, '小时': 3600000,
+      '天': 86400000, '周': 604800000, '月': 2592000000, '年': 31536000000
+    };
+    return now - num * (multipliers[unit] || 0);
+  }
+
+  // 4. "今天 HH:MM", "昨天 HH:MM"
+  if (s.startsWith('今天') || s.startsWith('今天 ')) {
+    const timeMatch = s.match(/(\d{1,2}):(\d{2})/);
+    if (timeMatch) {
+      const d = new Date();
+      d.setHours(parseInt(timeMatch[1]), parseInt(timeMatch[2]), 0, 0);
+      return d.getTime();
+    }
+  }
+  if (s.startsWith('昨天') || s.startsWith('昨天 ')) {
+    const timeMatch = s.match(/(\d{1,2}):(\d{2})/);
+    if (timeMatch) {
+      const d = new Date();
+      d.setDate(d.getDate() - 1);
+      d.setHours(parseInt(timeMatch[1]), parseInt(timeMatch[2]), 0, 0);
+      return d.getTime();
+    }
+  }
+
+  // 5. 中文日期: "2026年7月5日"
+  const cnMatch = s.match(/(\d{4})\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日/);
+  if (cnMatch) {
+    return new Date(parseInt(cnMatch[1]), parseInt(cnMatch[2]) - 1, parseInt(cnMatch[3])).getTime();
+  }
+
+  // 6. 带时间的日期: "2026-07-05 08:30" (non-standard separators)
+  const dtMatch = s.match(/(\d{4})[-\/](\d{1,2})[-\/](\d{1,2})\s+(\d{1,2}):(\d{2})/);
+  if (dtMatch) {
+    return new Date(parseInt(dtMatch[1]), parseInt(dtMatch[2]) - 1, parseInt(dtMatch[3]),
+                    parseInt(dtMatch[4]), parseInt(dtMatch[5])).getTime();
+  }
+
+  // 7. 日期: "2026-07-05"
+  const dMatch = s.match(/(\d{4})[-\/](\d{1,2})[-\/](\d{1,2})/);
+  if (dMatch) {
+    return new Date(parseInt(dMatch[1]), parseInt(dMatch[2]) - 1, parseInt(dMatch[3])).getTime();
+  }
+
+  // 8. "1天前", "3小时前" (no space)
+  const relMatch2 = s.match(/^(\d+)(小时|天|周|月|分钟|年|秒)前$/);
+  if (relMatch2) {
+    const num = parseInt(relMatch2[1]);
+    const unit = relMatch2[2];
+    const now = Date.now();
+    const multipliers = {
+      '秒': 1000, '分钟': 60000, '小时': 3600000,
+      '天': 86400000, '周': 604800000, '月': 2592000000, '年': 31536000000
+    };
+    return now - num * (multipliers[unit] || 0);
+  }
+
+  return 0; // 无法解析
+}
+
+function formatRelativeDate(ts) {
+  if (!ts) return '';
+  const now = Date.now();
+  const diff = now - ts;
+  if (diff < 60000) return '刚刚';
+  if (diff < 3600000) return Math.floor(diff / 60000) + '分钟前';
+  if (diff < 86400000) return Math.floor(diff / 3600000) + '小时前';
+  if (diff < 604800000) return Math.floor(diff / 86400000) + '天前';
+  if (diff < 2592000000) return Math.floor(diff / 604800000) + '周前';
+  const d = new Date(ts);
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+
+// ============================================================
+// 来源解析（只保留9大平台 + 其他）
 // ============================================================
 
 function extractDomain(source) {
   if (!source) return 'unknown';
-  // 去掉协议
   let domain = source.replace(/^https?:\/\//, '').replace(/^www\./, '');
-  // 取主域名部分 (去掉路径)
   domain = domain.split('/')[0].split('#')[0].split('?')[0];
   return domain;
 }
@@ -109,46 +193,53 @@ function extractDomain(source) {
 function getSourceInfo(source) {
   const domain = extractDomain(source);
   // 精确匹配
-  if (SOURCE_NAME_MAP[domain]) return SOURCE_NAME_MAP[domain];
-  // 模糊匹配: 检查是否包含已知域名
-  for (const [key, info] of Object.entries(SOURCE_NAME_MAP)) {
-    if (domain.includes(key) || key.includes(domain)) {
-      return info;
-    }
+  if (ALLOWED_SOURCES[domain]) return ALLOWED_SOURCES[domain];
+  // 子域名匹配: news.qq.com → 检查 qq.com 不在列表中，不匹配
+  // 检查后缀匹配
+  for (const [key, info] of Object.entries(ALLOWED_SOURCES)) {
+    if (domain.endsWith('.' + key)) return info;
   }
-  // 未知来源，提取简短域名
-  const short = domain.split('.')[0] || domain;
-  return {
-    name: short.length > 10 ? short.slice(0,10) + '...' : short,
-    color: '#888',
-    emoji: '🌐'
-  };
+  // 其他来源
+  return OTHER_SOURCE;
+}
+
+function getSourceKey(source) {
+  const domain = extractDomain(source);
+  if (ALLOWED_SOURCES[domain]) return domain;
+  for (const key of Object.keys(ALLOWED_SOURCES)) {
+    if (domain.endsWith('.' + key)) return key;
+  }
+  return '__other__';
 }
 
 function groupResultsBySource(items) {
   const groups = {};
   items.forEach(item => {
-    const source = item.source || '';
-    const domain = extractDomain(source);
-    if (!groups[domain]) {
-      groups[domain] = { domain, items: [] };
-    }
-    groups[domain].items.push(item);
+    const key = getSourceKey(item.source || '');
+    if (!groups[key]) groups[key] = { key, items: [] };
+    groups[key].items.push(item);
   });
-  // 按结果数量降序排列
-  return Object.values(groups).sort((a, b) => b.items.length - a.items.length);
+  // 9个平台优先，其他来源放最后
+  const ordered = [];
+  Object.keys(ALLOWED_SOURCES).forEach(k => {
+    if (groups[k]) ordered.push(groups[k]);
+  });
+  if (groups['__other__']) ordered.push(groups['__other__']);
+  return ordered;
 }
 
 // ============================================================
-// GitHub API 工具函数
+// GitHub API 工具
 // ============================================================
 
-async function dispatchWorkflow(searchQuery) {
+async function dispatchWorkflow(searchQuery, timeRange, sortBy) {
   const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`;
   const payload = {
     ref: 'main',
     inputs: { search_query: searchQuery }
   };
+  if (timeRange) payload.inputs.time_range = timeRange;
+  if (sortBy) payload.inputs.sort = sortBy;
 
   const resp = await fetch(url, {
     method: 'POST',
@@ -161,20 +252,19 @@ async function dispatchWorkflow(searchQuery) {
   });
 
   if (!resp.ok && resp.status !== 204) {
-    throw new Error(`GitHub API 响应 ${resp.status}`);
+    throw new Error(`GitHub API ${resp.status}`);
   }
   return true;
 }
 
-async function pollSearchResults(sessionId, maxAttempts = 25, intervalMs = 4000) {
+async function pollSearchResults(sessionId, maxAttempts, intervalMs) {
   const url = `data/search-results.json`;
 
   for (let i = 0; i < maxAttempts; i++) {
     await sleep(intervalMs);
 
-    // 检查当前 session 是否已过期（用户搜了新词）
     if (sessionId !== searchSessionId) {
-      console.log(`Session ${sessionId} 已过期 (当前=${searchSessionId})，停止轮询`);
+      console.log(`Session ${sessionId} expired, stopping poll`);
       throw new Error('SESSION_EXPIRED');
     }
 
@@ -182,24 +272,17 @@ async function pollSearchResults(sessionId, maxAttempts = 25, intervalMs = 4000)
       const resp = await fetch(url + '?t=' + Date.now(), { cache: 'no-store' });
       if (resp.status === 200) {
         const data = await resp.json();
-        // 再次检查 session
-        if (sessionId !== searchSessionId) {
-          throw new Error('SESSION_EXPIRED');
-        }
-        // 只有当 query 完全匹配当前搜索词时，才接受结果
-        if (data && data.query === currentKeyword) {
-          return data;
-        }
-        console.log(`轮询 ${i + 1}/${maxAttempts}: 收到旧结果(query="${data.query || 'unknown'}"), 等待新结果...`);
+        if (sessionId !== searchSessionId) throw new Error('SESSION_EXPIRED');
+        if (data && data.query === currentKeyword) return data;
+        console.log(`Poll ${i+1}/${maxAttempts}: old result (query="${data.query||'unknown'}"), waiting...`);
       }
     } catch (e) {
       if (e.message === 'SESSION_EXPIRED') throw e;
-      console.log(`轮询 ${i + 1}/${maxAttempts}: 结果尚未就绪`);
+      console.log(`Poll ${i+1}/${maxAttempts}: not ready`);
     }
   }
 
-  // 超时前做最后一次检查: 文件是否已更新但 query 不匹配
-  // 可能 workfow 写入了新的查询结果
+  // Last attempt
   try {
     const resp = await fetch(url + '?t=' + Date.now(), { cache: 'no-store' });
     if (resp.status === 200) {
@@ -219,11 +302,11 @@ async function performSearch(keyword) {
   keyword = (keyword || '').trim();
   if (!keyword) return;
 
-  // 如果正在搜索中，取消旧的 session
+  // 取消旧 session
   if (isSearching) {
     const oldId = searchSessionId;
-    searchSessionId++;  // 旧的 session 会自动过期
-    console.log(`取消旧搜索 session ${oldId}, 新 session ${searchSessionId}`);
+    searchSessionId++;
+    console.log(`Cancelled old session ${oldId}, new session ${searchSessionId}`);
   } else {
     searchSessionId++;
   }
@@ -236,21 +319,22 @@ async function performSearch(keyword) {
   searchBtn.disabled = true;
   searchBtn.innerHTML = '<span class="loading-cat">🐱</span> 提交中...';
 
+  const timeRange = selectedTimePeriod.value;
+  const sortBy = 'date'; // Always sort by date from API
+
   showSearchStart(keyword);
 
   try {
-    // Step 1: Dispatch GitHub Actions workflow
     updateSearchStatus('🚀', '正在提交搜索请求...');
-    await dispatchWorkflow(keyword);
+    await dispatchWorkflow(keyword, timeRange, sortBy);
 
-    if (mySessionId !== searchSessionId) return; // 被取消了
+    if (mySessionId !== searchSessionId) return;
 
     updateSearchStatus('⏳', '正在等待服务器处理（约30-60秒）...');
 
-    // Step 2: Poll for results (最多100秒)
     const results = await pollSearchResults(mySessionId, 25, 4000);
 
-    if (mySessionId !== searchSessionId) return; // 被取消了
+    if (mySessionId !== searchSessionId) return;
 
     allSearchResults = results;
     activeSourceFilters = [];
@@ -258,22 +342,18 @@ async function performSearch(keyword) {
     updateSearchStatus('✅', '搜索完成');
 
   } catch (error) {
-    if (mySessionId !== searchSessionId) {
-      console.log(`Session ${mySessionId} 被新搜索取消`);
-      return; // 被取消，不显示错误
-    }
+    if (mySessionId !== searchSessionId) return;
 
     const msg = error.message || '未知错误';
     let userMsg = msg;
     if (msg.includes('超时')) {
       userMsg = '搜索处理时间较长（超过100秒），请稍后刷新页面或重新搜索';
-    } else if (msg.includes('API 响应')) {
+    } else if (msg.includes('API')) {
       userMsg = '服务器暂时繁忙，请稍后重试';
     }
     displaySearchError(userMsg, keyword);
     updateSearchStatus('❌', '搜索失败');
   } finally {
-    // 只清理当前 session
     if (mySessionId === searchSessionId) {
       isSearching = false;
       searchBtn.disabled = false;
@@ -313,13 +393,9 @@ function updateSearchStatus(prefix, text) {
   const el = document.getElementById('searchStatus');
   if (el) el.textContent = prefix + ' ' + text;
 
-  if (text.includes('提交')) {
-    updateStep(1);
-  } else if (text.includes('等待')) {
-    updateStep(2);
-  } else if (text.includes('完成') || text.includes('失败')) {
-    updateStep(3);
-  }
+  if (text.includes('提交')) updateStep(1);
+  else if (text.includes('等待')) updateStep(2);
+  else if (text.includes('完成') || text.includes('失败')) updateStep(3);
 }
 
 function updateStep(n) {
@@ -338,105 +414,180 @@ function updateStep(n) {
 }
 
 // ============================================================
-// 搜索结果展示 (含来源分类+筛选)
+// 搜索结果展示（来源筛选 + 时间筛选 + 日期排序）
 // ============================================================
 
 function displaySearchResults(data, keyword) {
-  const items = data.results || [];
-  const count = items.length;
+  const rawItems = data.results || [];
   allSearchResults = data;
 
-  // 按来源分组
-  const groups = groupResultsBySource(items);
+  // 为每个结果解析时间戳
+  rawItems.forEach(item => {
+    item._ts = parsePublishTime(item.date);
+  });
+
+  const sortedItems = sortItemsByDate(rawItems);
+  const count = sortedItems.length;
+
+  // 按来源分组（用于统计）
+  const groups = groupResultsBySource(sortedItems);
 
   let html = '';
 
   // 结果头部
+  const timeLabel = selectedTimePeriod.label || '全部时间';
   html += `<div class="search-results-header">
     <span class="srh-icon">🐱</span>
     <span class="srh-title">「${escapeHtml(keyword)}」的搜索结果</span>
-    <span class="srh-count">共 ${count} 条</span>
+    <span class="srh-count">${count} 条 · ${timeLabel}</span>
   </div>`;
 
   if (count === 0) {
-    html += `
-      <div class="empty-state">
-        <div style="font-size:60px;margin-bottom:12px">😿</div>
-        <p style="color:var(--text);font-weight:600;font-size:16px">暂时没有找到相关内容</p>
-        <p style="color:var(--text-light);margin-top:8px;font-size:13px">
-          可能是搜索词太特殊，试试换个关键词？<br>
-          也可以查看 🔥 全网热榜 获取最新资讯
-        </p>
-        <button onclick="switchTab('hot')" style="margin-top:16px;padding:10px 24px;background:var(--gold-gradient);color:white;border:none;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;box-shadow:0 2px 8px rgba(255,165,0,0.3)">
-          🔥 查看全网热榜
-        </button>
-      </div>
-    `;
+    html += renderEmptyState(keyword);
   } else {
+    // 时间筛选栏
+    html += renderTimeFilterBar(count);
     // 来源筛选栏
     html += renderSourceFilters(groups);
-    // 结果区域容器
+    // 结果容器
     html += '<div id="searchResultsContent"></div>';
   }
 
   if (resultCount) {
-    resultCount.textContent = count > 0 ? `🐾 共 ${count} 条结果` : '';
+    resultCount.textContent = count > 0 ? `🐾 共 ${count} 条 · ${timeLabel}` : '';
   }
 
   resultsContainer.innerHTML = html;
 
-  // 渲染筛选后的结果
-  if (count > 0) {
+  if (count > 0) renderFilteredResults();
+}
+
+function renderEmptyState(keyword) {
+  return `
+    <div class="empty-state">
+      <div style="font-size:60px;margin-bottom:12px">😿</div>
+      <p style="color:var(--text);font-weight:600;font-size:16px">暂时没有找到相关内容</p>
+      <p style="color:var(--text-light);margin-top:8px;font-size:13px">
+        可能是搜索词太特殊，或者时间范围太窄<br>
+        试试换个关键词，或选择「全部时间」？
+      </p>
+      <button onclick="switchTab('hot')" style="margin-top:16px;padding:10px 24px;background:var(--gold-gradient);color:white;border:none;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;box-shadow:0 2px 8px rgba(255,165,0,0.3)">
+        🔥 查看全网热榜
+      </button>
+    </div>
+  `;
+}
+
+// ===== 时间筛选栏 =====
+
+function renderTimeFilterBar(totalCount) {
+  let html = '<div class="time-filter-bar">';
+  html += '<span class="tf-label">⏱ 时间筛选:</span>';
+
+  TIME_PERIODS.forEach((period, idx) => {
+    const isActive = selectedTimePeriod.value === period.value && selectedTimePeriod.ms === period.ms;
+    html += `<button class="tf-chip ${isActive ? 'active' : ''}" onclick="selectTimePeriod(${idx})">
+      ${period.label}
+    </button>`;
+  });
+
+  html += '</div>';
+  return html;
+}
+
+function selectTimePeriod(idx) {
+  selectedTimePeriod = TIME_PERIODS[idx];
+
+  // 如果已有缓存结果，直接重新筛选渲染
+  if (allSearchResults) {
+    // 客户端时间过滤
+    const filterBar = document.querySelector('.time-filter-bar');
+    if (filterBar) {
+      filterBar.outerHTML = renderTimeFilterBar(allSearchResults.count);
+    }
+
+    // 更新头部标签
+    const srhCount = document.querySelector('.srh-count');
+    if (srhCount) {
+      srhCount.textContent = `${allSearchResults.count} 条 · ${selectedTimePeriod.label}`;
+    }
+
     renderFilteredResults();
   }
 }
 
+// ===== 来源筛选栏 =====
+
 function renderSourceFilters(groups) {
-  const totalCount = groups.reduce((sum, g) => sum + g.items.length, 0);
   let html = '<div class="source-filter-bar">';
-  html += `<span class="sf-label">📂 来源筛选:</span>`;
+  html += '<span class="sf-label">📂 来源筛选:</span>';
 
   // "全部" 按钮
   const isAllActive = activeSourceFilters.length === 0;
   html += `<button class="sf-chip ${isAllActive ? 'active' : ''}" onclick="toggleSourceFilter('__ALL__')">
-    🐱 全部 <span class="sf-chip-count">${totalCount}</span>
+    🐱 全部
   </button>`;
 
   groups.forEach(g => {
-    const info = getSourceInfo(g.domain);
-    const isActive = activeSourceFilters.includes(g.domain);
-    const filteredCount = activeSourceFilters.length === 0 ? 0 
-      : (isActive ? g.items.length : 0);
-    html += `<button class="sf-chip ${isActive ? 'active' : ''}" 
-      onclick="toggleSourceFilter('${escapeAttr(g.domain)}')"
-      style="--sf-color:${info.color}">
-      ${info.emoji} ${info.name}
+    const info = getSourceInfo(g.key === '__other__' ? 'other.example.com' : (g.items[0]?.source || g.key));
+    // 如果 key 是 __other__，使用 OTHER_SOURCE
+    const displayInfo = g.key === '__other__' ? OTHER_SOURCE : 
+      (ALLOWED_SOURCES[g.key] || OTHER_SOURCE);
+    const isActive = activeSourceFilters.includes(g.key);
+    html += `<button class="sf-chip ${isActive ? 'active' : ''}"
+      onclick="toggleSourceFilter('${escapeAttr(g.key)}')"
+      style="--sf-color:${displayInfo.color}">
+      ${displayInfo.emoji} ${displayInfo.name}
       <span class="sf-chip-count">${g.items.length}</span>
     </button>`;
   });
 
   if (activeSourceFilters.length > 0) {
-    const filteredTotal = groups
-      .filter(g => activeSourceFilters.includes(g.domain))
-      .reduce((sum, g) => sum + g.items.length, 0);
-    html += `<button class="sf-clear-btn" onclick="clearSourceFilters()">✕ 清除筛选</button>`;
+    html += '<button class="sf-clear-btn" onclick="clearSourceFilters()">✕ 清除</button>';
   }
 
   html += '</div>';
   return html;
 }
 
+// ===== 结果渲染（含时间过滤+日期排序） =====
+
+function sortItemsByDate(items) {
+  return [...items].sort((a, b) => {
+    const ta = a._ts || 0;
+    const tb = b._ts || 0;
+    if (ta > 0 && tb > 0) return tb - ta;     // 都有日期：从近到远
+    if (ta > 0) return -1;                    // a 有日期，b 没有：a 在前
+    if (tb > 0) return 1;                     // b 有日期，a 没有：b 在前
+    return 0;                                 // 都没有日期：保持原序
+  });
+}
+
+function applyTimeFilter(items) {
+  if (!selectedTimePeriod.ms) return items; // "全部时间"，不筛选
+  const cutoff = Date.now() - selectedTimePeriod.ms;
+  return items.filter(item => {
+    const ts = item._ts || 0;
+    return ts === 0 || ts >= cutoff; // 无日期的不排除（可能是近期内容）
+  });
+}
+
 function renderFilteredResults() {
   if (!allSearchResults) return;
 
   const items = allSearchResults.results || [];
-  let filtered = items;
 
-  // 应用来源筛选
+  // 1. 时间筛选
+  let filtered = applyTimeFilter(items);
+
+  // 2. 日期排序（从近到远）
+  filtered = sortItemsByDate(filtered);
+
+  // 3. 来源筛选
   if (activeSourceFilters.length > 0) {
-    filtered = items.filter(item => {
-      const domain = extractDomain(item.source || '');
-      return activeSourceFilters.includes(domain);
+    filtered = filtered.filter(item => {
+      const key = getSourceKey(item.source || '');
+      return activeSourceFilters.includes(key);
     });
   }
 
@@ -446,24 +597,28 @@ function renderFilteredResults() {
 
   let html = '';
 
-  // 按来源分组展示
   groups.forEach(g => {
-    const info = getSourceInfo(g.domain);
+    const displayInfo = g.key === '__other__' ? OTHER_SOURCE :
+      (ALLOWED_SOURCES[g.key] || OTHER_SOURCE);
+
     html += `<div class="source-group">
       <div class="source-group-header">
-        <span class="source-badge" style="background:${info.color}">${info.emoji} ${info.name}</span>
+        <span class="source-badge" style="background:${displayInfo.color}">${displayInfo.emoji} ${displayInfo.name}</span>
         <span class="source-group-count">${g.items.length} 条</span>
       </div>
       <div class="results-grid">`;
 
     g.items.forEach(item => {
+      const relDate = formatRelativeDate(item._ts);
       html += `
         <a href="${item.url || '#'}" target="_blank" rel="noopener" class="result-card">
           <div class="card-title">${escapeHtml(item.title)}</div>
           ${item.snippet ? `<div class="card-snippet">${escapeHtml(item.snippet)}</div>` : ''}
           <div class="card-footer">
-            ${item.source ? `<span class="card-author"><span class="ca-dot" style="background:${info.color}"></span>${escapeHtml(info.name)}</span>` : ''}
-            ${item.date ? `<span class="card-date">📅 ${escapeHtml(item.date)}</span>` : ''}
+            <span class="card-author">
+              <span class="ca-dot" style="background:${displayInfo.color}"></span>${escapeHtml(displayInfo.name)}
+            </span>
+            <span class="card-date">${relDate ? '🕐 ' + relDate : ''}</span>
             <span>🔗 查看</span>
           </div>
         </a>
@@ -477,44 +632,37 @@ function renderFilteredResults() {
     html = `
       <div class="empty-state">
         <div style="font-size:48px;margin-bottom:8px">😿</div>
-        <p style="color:var(--text-light);font-weight:600">所选来源没有结果</p>
-        <p style="font-size:13px;color:var(--text-lighter);margin-top:4px">试试取消筛选查看所有来源</p>
+        <p style="color:var(--text-light);font-weight:600">当前筛选条件下没有结果</p>
+        <p style="font-size:13px;color:var(--text-lighter);margin-top:4px">试试扩大时间范围或清除来源筛选</p>
       </div>
     `;
   }
 
   el.innerHTML = html;
 
-  // 更新筛选栏
-  const groupsAll = groupResultsBySource(allSearchResults.results);
+  // 更新来源筛选栏
+  const groupsAll = groupResultsBySource(applyTimeFilter(allSearchResults.results));
   const sfBar = document.querySelector('.source-filter-bar');
-  if (sfBar) {
-    sfBar.outerHTML = renderSourceFilters(groupsAll);
-  }
+  if (sfBar) sfBar.outerHTML = renderSourceFilters(groupsAll);
 
-  // 更新总计数
+  // 更新计数
   if (resultCount) {
-    const total = filtered.length;
-    const suffix = activeSourceFilters.length > 0 ? ` (已筛选)` : '';
-    resultCount.textContent = `🐾 共 ${total} 条结果${suffix}`;
+    const suffix = activeSourceFilters.length > 0 ? ' (已筛选)' : '';
+    resultCount.textContent = `🐾 共 ${filtered.length} 条 · ${selectedTimePeriod.label}${suffix}`;
   }
 }
 
 // ===== 来源筛选交互 =====
 
-function toggleSourceFilter(domain) {
-  if (domain === '__ALL__') {
+function toggleSourceFilter(key) {
+  if (key === '__ALL__') {
     activeSourceFilters = [];
   } else {
-    const idx = activeSourceFilters.indexOf(domain);
-    if (idx >= 0) {
-      activeSourceFilters.splice(idx, 1);
-    } else {
-      activeSourceFilters.push(domain);
-    }
+    const idx = activeSourceFilters.indexOf(key);
+    if (idx >= 0) activeSourceFilters.splice(idx, 1);
+    else activeSourceFilters.push(key);
   }
   renderFilteredResults();
-  // 滚动到筛选栏
   const sfBar = document.querySelector('.source-filter-bar');
   if (sfBar) sfBar.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
@@ -636,8 +784,7 @@ async function renderAllHotBoards(container) {
         <div class="hot-board-header">
           <span class="hot-board-badge" style="background: ${p.color}">${p.emoji} ${p.name}</span>
           ${statusBadge}
-        </div>
-    `;
+        </div>`;
 
     if (count > 0) {
       html += '<div class="hot-items-list">';
@@ -651,8 +798,7 @@ async function renderAllHotBoards(container) {
               <div class="hot-title">${escapeHtml(item.title)}</div>
               <div class="hot-meta">${hotText}</div>
             </div>
-          </a>
-        `;
+          </a>`;
       });
       html += '</div>';
       if (count > 8) {
@@ -684,8 +830,7 @@ async function renderSingleHotBoard(container, platformId) {
     <div class="hot-loading">
       <div class="loading-spinner" style="border-color:${platform.color}33;border-top-color:${platform.color}"></div>
       <p>🐱 正在加载${platform.name}热榜...</p>
-    </div>
-  `;
+    </div>`;
 
   const data = await loadHotData(platformId);
   if (!data || !data.list || data.list.length === 0) {
@@ -694,8 +839,7 @@ async function renderSingleHotBoard(container, platformId) {
         <div style="font-size:48px;margin-bottom:12px">😿</div>
         <p>${platform.emoji} ${platform.name}热榜暂时不可用</p>
         <p style="font-size:13px;color:var(--text-lighter);margin-top:4px">数据可能正在更新中</p>
-      </div>
-    `;
+      </div>`;
     return;
   }
 
@@ -710,8 +854,7 @@ async function renderSingleHotBoard(container, platformId) {
           <div class="hot-list-title">${escapeHtml(item.title)}</div>
           <div class="hot-list-meta">${hotText}</div>
         </div>
-      </a>
-    `;
+      </a>`;
   });
   html += '</div>';
   container.innerHTML = html;
