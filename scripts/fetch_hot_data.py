@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
 """
-Enhanced search script with multiple free search sources.
-Combines results from uapis.cn, DuckDuckGo, and Wikipedia to get more results.
+Enhanced multi-source search with site-specific scraping.
 
 Strategy:
-1. Try uapis.cn first (primary source)
-2. If results < 50, try DuckDuckGo HTML API
-3. If still < 50, try Wikipedia API
-4. Aggregate and deduplicate all results
+1. Use uapis.cn API for initial results
+2. Use DuckDuckGo site: search for each platform
+3. Aggregate and deduplicate
 """
 
 import argparse
@@ -15,34 +13,35 @@ import json
 import os
 import time
 import urllib.request
-import urllib.error
+import urllib.parse
 import re
-from datetime import datetime, timedelta
+from datetime import datetime
 
-# Platforms to fetch (all via uapis.cn)
-PLATFORMS = [
-    ("weibo", "微博热搜"),
-    ("zhihu", "知乎热榜"),
-    ("douyin", "抖音热搜"),
-    ("bilibili", "B站热搜"),
-    ("xiaohongshu", "小红书热搜"),
-    ("kuaishou", "快手热搜"),
-    ("baidu", "百度热搜"),
-    ("toutiao", "今日头条"),
-    ("thepaper", "澎湃新闻"),
-]
+# Platform site mappings (for site: search)
+PLATFORM_SITES = {
+    "weibo": "weibo.com",
+    "zhihu": "zhihu.com",
+    "douyin": "douyin.com",
+    "bilibili": "bilibili.com",
+    "xiaohongshu": "xiaohongshu.com",
+    "kuaishou": "kuaishou.com",
+    "baidu": "baidu.com",
+    "toutiao": "toutiao.com",
+    "thepaper": "thepaper.cn",
+}
 
-# Resolve data directory (repo_root/data)
+# Reverse mapping (domain -> platform)
+SITE_TO_PLATFORM = {v: k for k, v in PLATFORM_SITES.items()}
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(SCRIPT_DIR)
 DATA_DIR = os.path.join(REPO_ROOT, "data")
 
-UAPIS_BASE = "https://uapis.cn/api/v1/misc/hotboard"
 UAPIS_SEARCH = "https://uapis.cn/api/v1/search/aggregate"
 
 # Cache settings
 CACHE_FILE = os.path.join(DATA_DIR, "search-cache.json")
-CACHE_DURATION = 86400  # 24 hours in seconds (longer cache to avoid rate limits)
+CACHE_DURATION = 86400  # 24 hours
 
 
 def fetch_url(url, timeout=10, headers=None):
@@ -50,23 +49,12 @@ def fetch_url(url, timeout=10, headers=None):
     if headers is None:
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "Accept": "application/json, text/html, */*",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
         }
     req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
-
-
-def fetch_post(url, data, timeout=8):
-    """POST JSON to URL and get response."""
-    payload = json.dumps(data).encode("utf-8")
-    req = urllib.request.Request(url, data=payload, headers={
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "Content-Type": "application/json",
-        "Accept": "application/json",
-    })
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return json.loads(resp.read().decode("utf-8"))
 
 
 def search_uapis(query, site=None, time_range="", max_results=100):
@@ -79,7 +67,18 @@ def search_uapis(query, site=None, time_range="", max_results=100):
         if time_range:
             payload["time_range"] = time_range
         
-        result = fetch_post(UAPIS_SEARCH, payload, timeout=15)
+        data = json.dumps(payload).encode("utf-8")
+        req = urllib.request.Request(
+            UAPIS_SEARCH,
+            data=data,
+            headers={
+                "User-Agent": "Mozilla/5.0",
+                "Content-Type": "application/json",
+            }
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            result = json.loads(resp.read().decode("utf-8"))
+        
         items = result.get("results", [])
         
         search_items = []
@@ -96,102 +95,73 @@ def search_uapis(query, site=None, time_range="", max_results=100):
         print(f"    [uapis.cn] Found {len(search_items)} results")
         return search_items
         
-    except urllib.error.HTTPError as e:
-        if e.code == 429:
-            print(f"    [uapis.cn] Rate limited (429)")
-        else:
-            print(f"    [uapis.cn] HTTP Error {e.code}")
-        return []
     except Exception as e:
         print(f"    [uapis.cn] Error: {e}")
         return []
 
 
-def search_duckduckgo(query, max_results=50):
-    """Search via DuckDuckGo HTML API (no API key required)."""
-    print(f"    [DuckDuckGo] Searching for '{query}'...")
+def search_duckduckgo_site(query, site_domain, max_results=30):
+    """Search via DuckDuckGo HTML API with site: operator.
+    
+    This gets results SPECIFICALLY from the given site domain.
+    """
+    print(f"    [DuckDuckGo] Searching site:{site_domain} for '{query}'...")
     try:
-        url = f'https://html.duckduckgo.com/html/?q={urllib.request.quote(query)}&kl=wt-wt'
+        # Construct site: search query
+        site_query = f"site:{site_domain} {query}"
+        url = f'https://html.duckduckgo.com/html/?q={urllib.parse.quote(site_query)}&kl=wt-wt'
+        
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
         }
         
         html = fetch_url(url, timeout=15, headers=headers).decode('utf-8')
         
-        # Parse DuckDuckGo HTML results
-        # Results are in <div class="result__body">
         results = []
         
-        # Extract result blocks
-        # Pattern: <div class="result__body">...</div>
-        result_blocks = re.findall(r'<div class="result__body">(.*?)</div>\s*</div>', html, re.DOTALL)
+        # Parse DuckDuckGo HTML results
+        # Results are in <div class="result__body">
+        result_pattern = r'<div class="result__body">(.*?)</div>\s*</div>'
+        result_blocks = re.findall(result_pattern, html, re.DOTALL)
         
         for block in result_blocks[:max_results]:
             # Extract title and URL
-            title_match = re.search(r'<a[^>]*class="result__a"[^>]*>([^<]*)</a>', block)
+            title_match = re.search(r'<a[^>]*class="result__a"[^>]*>([^<]*)</a>', block, re.DOTALL)
             url_match = re.search(r'<a[^>]*class="result__a"[^>]*href="([^"]*)"', block)
-            snippet_match = re.search(r'<a[^>]*class="result__snippet"[^>]*>([^<]*)</a>', block)
+            snippet_match = re.search(r'<a[^>]*class="result__snippet"[^>]*>([^<]*)</a>', block, re.DOTALL)
             
             if title_match and url_match:
-                title = title_match.group(1).strip()
+                title = re.sub(r'<[^>]+>', '', title_match.group(1)).strip()
                 url = url_match.group(1).strip()
                 
                 # Decode DuckDuckGo redirect URLs
                 if url.startswith('//duckduckgo.com/l/?'):
-                    # Extract actual URL from redirect
                     actual_url_match = re.search(r'uddg=(.*?)&', url)
                     if actual_url_match:
-                        url = urllib.request.unquote(actual_url_match.group(1))
+                        url = urllib.parse.unquote(actual_url_match.group(1))
                 
-                snippet = snippet_match.group(1).strip() if snippet_match else ""
-                
-                results.append({
-                    "title": title,
-                    "url": url,
-                    "snippet": snippet[:300],
-                    "source": "duckduckgo",
-                    "date": "",
-                    "search_source": "DuckDuckGo"
-                })
+                # Remove DuckDuckGo proxy URLs
+                if url.startswith('http://') or url.startswith('https://'):
+                    snippet = ""
+                    if snippet_match:
+                        snippet = re.sub(r'<[^>]+>', '', snippet_match.group(1)).strip()
+                    
+                    results.append({
+                        "title": title,
+                        "url": url,
+                        "snippet": snippet[:300],
+                        "source": site_domain,
+                        "date": "",
+                        "search_source": "DuckDuckGo"
+                    })
         
-        print(f"    [DuckDuckGo] Found {len(results)} results")
+        print(f"    [DuckDuckGo] Found {len(results)} results from {site_domain}")
         return results
         
     except Exception as e:
-        print(f"    [DuckDuckGo] Error: {e}")
-        return []
-
-
-def search_wikipedia(query, max_results=50):
-    """Search via Wikipedia API (no API key required)."""
-    print(f"    [Wikipedia] Searching for '{query}'...")
-    try:
-        # Search Wikipedia
-        url = f'https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch={urllib.request.quote(query)}&srlimit={max_results}&format=json'
-        headers = {
-            'User-Agent': 'HajimiNews/1.0 (educational project; contact: example@example.com)'
-        }
-        
-        data = json.loads(fetch_url(url, timeout=15, headers=headers).decode('utf-8'))
-        search_results = data.get('query', {}).get('search', [])
-        
-        results = []
-        for item in search_results:
-            title = item['title']
-            results.append({
-                "title": title,
-                "url": f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}",
-                "snippet": re.sub(r'<[^>]+>', '', item.get('snippet', ''))[:300],
-                "source": "wikipedia",
-                "date": "",
-                "search_source": "Wikipedia"
-            })
-        
-        print(f"    [Wikipedia] Found {len(results)} results")
-        return results
-        
-    except Exception as e:
-        print(f"    [Wikipedia] Error: {e}")
+        print(f"    [DuckDuckGo] Error for {site_domain}: {e}")
         return []
 
 
@@ -212,14 +182,14 @@ def check_search_cache(query, time_range="", sort_by=""):
         if cache.get("time_range") != time_range:
             return None
         
-        # Check if cache is still valid (within CACHE_DURATION)
+        # Check if cache is still valid
         update_time = cache.get("update_time", "")
         if update_time:
             try:
                 update_dt = datetime.strptime(update_time, "%Y-%m-%dT%H:%M:%SZ")
                 age = (datetime.utcnow() - update_dt).total_seconds()
                 if age > CACHE_DURATION:
-                    print(f"  Cache expired ({age:.0f}s old, max {CACHE_DURATION}s)")
+                    print(f"  Cache expired ({age:.0f}s old)")
                     return None
             except:
                 return None
@@ -256,23 +226,21 @@ def save_search_cache(query, time_range, sort_by, results, count):
 
 
 def do_search(query, site=None, time_range="", sort_by=""):
-    """Multi-source search aggregation.
+    """Enhanced multi-source search.
     
     Strategy:
     1. Check cache first
-    2. Search uapis.cn (primary)
-    3. If results < 50, search DuckDuckGo
-    4. If still < 50, search Wikipedia
-    5. Aggregate and deduplicate
+    2. Search uapis.cn (primary source)
+    3. For each platform, search via DuckDuckGo site: operator
+    4. Aggregate and deduplicate
     """
-    print(f"\n  Multi-source search: {query}")
+    print(f"\n  🔍 Enhanced search: {query}")
     if time_range:
         print(f"  Time range: {time_range}")
     
     # Check cache first
     cached = check_search_cache(query, time_range, sort_by)
     if cached:
-        # Save cached results to search-results.json
         filepath = os.path.join(DATA_DIR, "search-results.json")
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(cached, f, ensure_ascii=False, indent=2)
@@ -282,7 +250,7 @@ def do_search(query, site=None, time_range="", sort_by=""):
     all_items = []
     seen_urls = set()
     
-    # Strategy 1: Search uapis.cn
+    # Step 1: Search uapis.cn
     print(f"\n  Step 1: Searching uapis.cn...")
     uapis_results = search_uapis(query, site, time_range)
     for item in uapis_results:
@@ -293,37 +261,58 @@ def do_search(query, site=None, time_range="", sort_by=""):
     
     print(f"  After uapis.cn: {len(all_items)} unique results")
     
-    # Strategy 2: If results < 50, try DuckDuckGo
-    if len(all_items) < 50:
-        print(f"\n  Step 2: Searching DuckDuckGo (current: {len(all_items)} results)...")
-        time.sleep(2)  # Be polite
-        ddg_results = search_duckduckgo(query, max_results=50)
-        for item in ddg_results:
-            url = item.get('url', '')
-            if url and url not in seen_urls:
-                seen_urls.add(url)
-                all_items.append(item)
+    # Step 2: Search each platform via DuckDuckGo site: operator
+    if len(all_items) < 100:  # Only if we need more results
+        print(f"\n  Step 2: Searching each platform via DuckDuckGo...")
         
-        print(f"  After DuckDuckGo: {len(all_items)} unique results")
-    
-    # Strategy 3: If still < 50, try Wikipedia
-    if len(all_items) < 50:
-        print(f"\n  Step 3: Searching Wikipedia (current: {len(all_items)} results)...")
-        time.sleep(2)  # Be polite
-        wiki_results = search_wikipedia(query, max_results=50)
-        for item in wiki_results:
-            url = item.get('url', '')
-            if url and url not in seen_urls:
-                seen_urls.add(url)
-                all_items.append(item)
+        # Determine which platforms to search
+        if site:
+            # Search only specified platform
+            platforms_to_search = [s.strip() for s in site.split(",")]
+        else:
+            # Search all 9 platforms
+            platforms_to_search = list(PLATFORM_SITES.keys())
         
-        print(f"  After Wikipedia: {len(all_items)} unique results")
+        print(f"  Will search {len(platforms_to_search)} platforms...")
+        
+        for i, platform in enumerate(platforms_to_search):
+            if platform not in PLATFORM_SITES:
+                print(f"  Skipping unknown platform: {platform}")
+                continue
+            
+            site_domain = PLATFORM_SITES[platform]
+            
+            # Check if we already have enough results
+            if len(all_items) >= 200:
+                print(f"  Already have {len(all_items)} results, skipping remaining platforms")
+                break
+            
+            # Be polite: delay between requests
+            if i > 0:
+                time.sleep(3)
+            
+            try:
+                ddg_results = search_duckduckgo_site(query, site_domain, max_results=30)
+                for item in ddg_results:
+                    url = item.get('url', '')
+                    if url and url not in seen_urls:
+                        seen_urls.add(url)
+                        all_items.append(item)
+                
+                print(f"  Progress: {len(all_items)} total results after {platform}")
+                
+            except Exception as e:
+                print(f"  Error searching {platform}: {e}")
+                continue
+        
+        print(f"\n  After DuckDuckGo site: search: {len(all_items)} unique results")
     
-    print(f"\n  Total: {len(all_items)} unique results from {len(seen_urls)} URLs")
-    
-    # Sort by date (newest first)
+    # Step 3: Sort by date (newest first)
+    print(f"\n  Step 3: Sorting results...")
     all_items.sort(key=lambda x: parse_date(x.get("date", "")), reverse=True)
     
+    # Step 4: Save results
+    print(f"\n  Step 4: Saving {len(all_items)} results...")
     now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     data = {
         "query": query,
@@ -331,15 +320,16 @@ def do_search(query, site=None, time_range="", sort_by=""):
         "sort": sort_by,
         "update_time": now,
         "count": len(all_items),
-        "results": all_items[:300],  # Cap at 300 results (increased from 200)
-        "search_sources": ["uapis.cn", "DuckDuckGo", "Wikipedia"]
+        "results": all_items[:300],  # Cap at 300 results
+        "search_sources": ["uapis.cn", "DuckDuckGo"],
+        "platforms_searched": list(PLATFORM_SITES.keys())
     }
     
     filepath = os.path.join(DATA_DIR, "search-results.json")
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
-    print(f"  Search done: {len(all_items)} results saved (deduplicated)")
+    print(f"  ✅ Search complete: {len(all_items)} results saved")
     
     # Save to cache
     save_search_cache(query, time_range, sort_by, all_items[:300], len(all_items))
@@ -353,18 +343,16 @@ def parse_date(date_str):
         return 0
     try:
         import datetime
-        # Handle various formats
         for fmt in ["%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d"]:
             try:
                 return datetime.datetime.strptime(date_str, fmt).timestamp() * 1000
             except:
                 pass
-        # Try timestamp
         if date_str.isdigit():
             ts = int(date_str)
-            if ts > 1e12:  # milliseconds
+            if ts > 1e12:
                 return ts
-            return ts * 1000  # seconds to milliseconds
+            return ts * 1000
     except:
         pass
     return 0
@@ -372,7 +360,7 @@ def parse_date(date_str):
 
 def fetch_uapis(platform_type):
     """Fetch hot list from uapis.cn."""
-    url = f"{UAPIS_BASE}?type={platform_type}"
+    url = f"https://uapis.cn/api/v1/misc/hotboard?type={platform_type}"
     data = fetch_url(url)
     data = json.loads(data.decode("utf-8"))
     raw_list = data.get("list", [])
@@ -389,6 +377,18 @@ def fetch_uapis(platform_type):
 
 def run_hot_update():
     """Fetch hot lists from all platforms."""
+    PLATFORMS = [
+        ("weibo", "微博热搜"),
+        ("zhihu", "知乎热榜"),
+        ("douyin", "抖音热搜"),
+        ("bilibili", "B站热搜"),
+        ("xiaohongshu", "小红书热搜"),
+        ("kuaishou", "快手热搜"),
+        ("baidu", "百度热搜"),
+        ("toutiao", "今日头条"),
+        ("thepaper", "澎湃新闻"),
+    ]
+    
     now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     meta = {"update_time": now, "platforms": []}
     success_count = 0
@@ -440,25 +440,20 @@ def run_hot_update():
     print(f"\n{'='*50}")
     print(f"Done! {success_count} ok, {fail_count} failed")
     print(f"Updated at: {now}")
-    for p in meta["platforms"]:
-        status = "OK" if p["count"] > 0 else "FAIL"
-        print(f"  [{status}] {p['name']}: {p['count']} items")
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--search", type=str, default="", help="Search query")
-    parser.add_argument("--site", type=str, default="", help="Search within site")
+    parser.add_argument("--site", type=str, default="", help="Search within site (comma-separated)")
     parser.add_argument("--time-range", type=str, default="", help="Time range filter")
     parser.add_argument("--sort", type=str, default="", help="Sort order")
     args = parser.parse_args()
 
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    # If search mode
     if args.search:
         do_search(args.search, args.site or None, args.time_range, args.sort)
-        # Still update hot data afterwards (for regular interval runs)
         if not os.environ.get("SEARCH_ONLY"):
             run_hot_update()
     else:
