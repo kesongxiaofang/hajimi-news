@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-Fetch hot search data from multiple platforms via uapis.cn
-and save as JSON files for GitHub Pages to serve.
+Fetch hot search data from multiple platforms + handle search queries.
+Runs on GitHub Actions every 30 minutes, or on-demand for search.
 """
 
+import argparse
 import json
 import os
 import time
@@ -29,13 +30,26 @@ REPO_ROOT = os.path.dirname(SCRIPT_DIR)
 DATA_DIR = os.path.join(REPO_ROOT, "data")
 
 UAPIS_BASE = "https://uapis.cn/api/v1/misc/hotboard"
+UAPIS_SEARCH = "https://uapis.cn/api/v1/search/aggregate"
 
 
 def fetch_url(url, timeout=15):
     """Fetch JSON from URL."""
     req = urllib.request.Request(url, headers={
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "Accept": "application/json, text/html, */*",
+    })
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def fetch_post(url, data, timeout=20):
+    """POST JSON to URL and get response."""
+    payload = json.dumps(data).encode("utf-8")
+    req = urllib.request.Request(url, data=payload, headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Content-Type": "application/json",
+        "Accept": "application/json",
     })
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return json.loads(resp.read().decode("utf-8"))
@@ -57,12 +71,62 @@ def fetch_uapis(platform_type):
     return items
 
 
-def main():
-    os.makedirs(DATA_DIR, exist_ok=True)
+def do_search(query, site=None):
+    """Search via uapis.cn search API, save results to JSON."""
+    print(f"\n  Searching: {query}")
+    payload = {"query": query}
+    if site:
+        payload["site"] = site
+
+    result = fetch_post(UAPIS_SEARCH, payload)
+    items = result.get("data", {}).get("results", [])
+    search_items = []
+    for item in items:
+        search_items.append({
+            "title": item.get("title", ""),
+            "url": item.get("url", ""),
+            "snippet": item.get("snippet", item.get("content", ""))[:300],
+            "source": item.get("source", ""),
+            "date": item.get("date", ""),
+        })
 
     now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
-    meta = {"update_time": now, "platforms": []}
+    data = {
+        "query": query,
+        "update_time": now,
+        "count": len(search_items),
+        "results": search_items[:20],
+    }
 
+    filepath = os.path.join(DATA_DIR, "search-results.json")
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print(f"  Search done: {len(search_items)} results saved")
+    return len(search_items)
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--search", type=str, default="", help="Search query")
+    parser.add_argument("--site", type=str, default="", help="Search within site")
+    args = parser.parse_args()
+
+    os.makedirs(DATA_DIR, exist_ok=True)
+
+    # If search mode
+    if args.search:
+        do_search(args.search, args.site or None)
+        # Still update hot data afterwards (for regular interval runs)
+        if not os.environ.get("SEARCH_ONLY"):
+            run_hot_update()
+    else:
+        run_hot_update()
+
+
+def run_hot_update():
+    now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    meta = {"update_time": now, "platforms": []}
     success_count = 0
     fail_count = 0
 
@@ -70,8 +134,6 @@ def main():
         try:
             print(f"  Fetching {name}...", end=" ", flush=True)
             items = fetch_uapis(platform_type)
-
-            # Keep top 30
             items = items[:30]
 
             data = {
@@ -105,9 +167,8 @@ def main():
             })
             fail_count += 1
 
-        time.sleep(1.5)  # Be nice to the API
+        time.sleep(1.5)
 
-    # Save metadata
     meta_path = os.path.join(DATA_DIR, "meta.json")
     with open(meta_path, "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
