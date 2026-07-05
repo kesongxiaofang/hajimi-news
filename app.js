@@ -1,37 +1,55 @@
 // ============================================================
-// 哈基米新闻 V5 - 搜狗搜索 + 热榜 API
-// CORS 代理: cors.eu.org (支持 CORS *)
-// 搜索引擎: 搜狗搜索 (site: 限定)
-// 热榜数据: 百度热搜 + 头条热榜 + 澎湃新闻
+// 哈基米新闻 V6 - 全网热搜聚合
+// 热榜数据: GitHub Actions 定时抓取 → 本地 JSON (无CORS问题)
+// 搜索引擎: 搜狗搜索 (site: 限定) + 多CORS代理容错
+// 热榜平台: 微博/知乎/抖音/B站/小红书/快手/百度/头条/澎湃 (9个)
 // ============================================================
 
-// ===== 平台配置 =====
-const PLATFORMS = [
+// ===== 热榜平台配置 (数据来自GitHub Actions) =====
+const HOT_PLATFORMS = [
+  { id: 'weibo', name: '微博', color: '#E6162D', emoji: '🔥' },
+  { id: 'zhihu', name: '知乎', color: '#0084FF', emoji: '💡' },
+  { id: 'douyin', name: '抖音', color: '#161823', emoji: '🎵' },
+  { id: 'bilibili', name: 'B站', color: '#FB7299', emoji: '📺' },
+  { id: 'xiaohongshu', name: '小红书', color: '#FF2442', emoji: '📕' },
+  { id: 'kuaishou', name: '快手', color: '#FF4906', emoji: '⚡' },
+  { id: 'baidu', name: '百度', color: '#2932E1', emoji: '🔍' },
+  { id: 'toutiao', name: '头条', color: '#FF5722', emoji: '📰' },
+  { id: 'thepaper', name: '澎湃', color: '#FF6600', emoji: '🌊' },
+];
+
+// ===== 搜索平台配置 =====
+const SEARCH_PLATFORMS = [
   { id: 'douban', name: '豆瓣', color: '#007722', emoji: '📚', site: 'douban.com', searchUrl: 'https://www.douban.com/search?q=' },
   { id: 'zhihu', name: '知乎', color: '#0084FF', emoji: '💡', site: 'zhihu.com', searchUrl: 'https://www.zhihu.com/search?q=' },
   { id: 'xiaohongshu', name: '小红书', color: '#FF2442', emoji: '📕', site: 'xiaohongshu.com', searchUrl: 'https://www.xiaohongshu.com/search_result?keyword=' },
-  { id: 'weibo', name: '微博', color: '#E6162D', emoji: '📡', site: 'weibo.com', searchUrl: 'https://s.weibo.com/weibo?q=' },
+  { id: 'weibo', name: '微博', color: '#E6162D', emoji: '🔥', site: 'weibo.com', searchUrl: 'https://s.weibo.com/weibo?q=' },
   { id: 'douyin', name: '抖音', color: '#161823', emoji: '🎵', site: 'douyin.com', searchUrl: 'https://www.douyin.com/search/' },
-  { id: 'toutiao', name: '今日头条', color: '#F04142', emoji: '📰', site: 'toutiao.com', searchUrl: 'https://so.toutiao.com/search?keyword=' },
-  { id: 'ifeng', name: '凤凰新闻', color: '#C30820', emoji: '🦅', site: 'ifeng.com', searchUrl: 'https://search.ifeng.com/?q=' },
-  { id: 'thepaper', name: '澎湃新闻', color: '#F05051', emoji: '🌊', site: 'thepaper.cn', searchUrl: 'https://www.thepaper.cn/searchResult?id=' },
-  { id: 'daxiang', name: '大象新闻', color: '#FF6600', emoji: '🐘', site: 'dxntv.com', searchUrl: 'https://www.dxntv.com/search?keyword=' },
+  { id: 'bilibili', name: 'B站', color: '#FB7299', emoji: '📺', site: 'bilibili.com', searchUrl: 'https://search.bilibili.com/all?keyword=' },
+  { id: 'toutiao', name: '头条', color: '#FF5722', emoji: '📰', site: 'toutiao.com', searchUrl: 'https://so.toutiao.com/search?keyword=' },
+  { id: 'thepaper', name: '澎湃', color: '#FF6600', emoji: '🌊', site: 'thepaper.cn', searchUrl: 'https://www.thepaper.cn/searchResult?id=' },
+  { id: 'ifeng', name: '凤凰', color: '#C30820', emoji: '🦅', site: 'ifeng.com', searchUrl: 'https://search.ifeng.com/?q=' },
 ];
 
-// ===== CORS 代理 =====
+// ===== CORS 代理 (多代理容错) =====
 const CORS_PROXIES = [
   (url) => `https://cors.eu.org/${url}`,
   (url) => `https://proxy.cors.sh/${url}`,
+  (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+  (url) => `https://api.codetabs.com/v1/proxy/?quest=${url}`,
 ];
 
 // ===== 状态管理 =====
 let currentKeyword = '';
 let currentResults = {};
-let activePlatform = 'all';
+let activeSearchPlatform = 'all';
 let autoRefreshTimer = null;
 let isSearching = false;
 let currentTab = 'search';
-let hotBoardsCache = null;
+let currentHotPlatform = 'all';
+let hotDataCache = {};
+let hotMetaCache = null;
+let hotLoaded = false;
 
 // ===== DOM 元素 =====
 const searchInput = document.getElementById('searchInput');
@@ -49,20 +67,254 @@ const hotSection = document.getElementById('hotSection');
 
 // ===== 初始化状态显示 =====
 if (serverStatus) {
-  serverStatus.textContent = '🟢 云端搜索就绪';
+  serverStatus.textContent = '🟢 云端运行中';
   serverStatus.style.color = '#2e7d32';
 }
 
 // ============================================================
-// CORS 代理请求
+// 热榜: 从本地 JSON 加载 (同域, 无CORS问题)
 // ============================================================
-async function fetchViaProxy(targetUrl, timeoutMs = 20000) {
+async function loadHotData(platformId) {
+  if (hotDataCache[platformId]) return hotDataCache[platformId];
+  try {
+    const resp = await fetch(`data/hot-${platformId}.json`);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    hotDataCache[platformId] = data;
+    return data;
+  } catch (e) {
+    console.error(`加载 ${platformId} 热榜失败:`, e.message);
+    return null;
+  }
+}
+
+async function loadHotMeta() {
+  if (hotMetaCache) return hotMetaCache;
+  try {
+    const resp = await fetch('data/meta.json');
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    hotMetaCache = await resp.json();
+    return hotMetaCache;
+  } catch (e) {
+    console.error('加载热榜元数据失败:', e.message);
+    return null;
+  }
+}
+
+async function loadAllHotData() {
+  const promises = HOT_PLATFORMS.map(p => loadHotData(p.id));
+  const results = await Promise.all(promises);
+  const data = {};
+  HOT_PLATFORMS.forEach((p, i) => {
+    data[p.id] = results[i];
+  });
+  return data;
+}
+
+// ============================================================
+// 热榜: 渲染平台选择标签
+// ============================================================
+function renderHotPlatformTabs() {
+  const container = document.getElementById('hotPlatformTabs');
+  if (!container) return;
+
+  let html = `<button class="hot-tab ${currentHotPlatform === 'all' ? 'active' : ''}" data-platform="all">🐱 全部</button>`;
+  HOT_PLATFORMS.forEach(p => {
+    html += `<button class="hot-tab ${currentHotPlatform === p.id ? 'active' : ''}" data-platform="${p.id}" style="--tab-color: ${p.color}">${p.emoji} ${p.name}</button>`;
+  });
+  container.innerHTML = html;
+
+  container.querySelectorAll('.hot-tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      currentHotPlatform = btn.dataset.platform;
+      renderHotPlatformTabs();
+      renderHotContent();
+    });
+  });
+}
+
+// ============================================================
+// 热榜: 渲染内容
+// ============================================================
+async function renderHotContent() {
+  const container = document.getElementById('hotResults');
+  if (!container) return;
+
+  if (currentHotPlatform === 'all') {
+    await renderAllHotBoards(container);
+  } else {
+    await renderSingleHotBoard(container, currentHotPlatform);
+  }
+}
+
+async function renderAllHotBoards(container) {
+  container.innerHTML = `
+    <div class="hot-loading">
+      <div class="loading-spinner" style="border-color:#FFD70033;border-top-color:#FFD700"></div>
+      <p>🐱 正在加载全网热榜...</p>
+    </div>
+  `;
+
+  const allData = await loadAllHotData();
+
+  let html = '<div class="hot-boards-grid">';
+
+  HOT_PLATFORMS.forEach(p => {
+    const data = allData[p.id];
+    const items = data ? data.list : [];
+    const count = items.length;
+
+    let statusBadge = '';
+    if (count > 0) {
+      statusBadge = `<span class="hot-status ok">✅ ${count} 条</span>`;
+    } else {
+      statusBadge = `<span class="hot-status fail">❌ 暂无数据</span>`;
+    }
+
+    html += `
+      <div class="hot-board-section">
+        <div class="hot-board-header">
+          <span class="hot-board-badge" style="background: ${p.color}">
+            ${p.emoji} ${p.name}
+          </span>
+          ${statusBadge}
+        </div>
+    `;
+
+    if (count > 0) {
+      html += '<div class="hot-items-list">';
+      items.slice(0, 8).forEach((item, idx) => {
+        const rankClass = idx < 3 ? 'hot-rank-top' : '';
+        const hotText = item.hot_value ? `<span class="hot-value">🔥 ${formatHot(item.hot_value)}</span>` : '';
+        html += `
+          <a href="${item.url || '#'}" target="_blank" rel="noopener" class="hot-item ${rankClass}">
+            <span class="hot-rank">${idx + 1}</span>
+            <div class="hot-content">
+              <div class="hot-title">${escapeHtml(item.title)}</div>
+              <div class="hot-meta">${hotText}</div>
+            </div>
+          </a>
+        `;
+      });
+      html += '</div>';
+      if (count > 8) {
+        html += `<button class="hot-view-more" data-platform="${p.id}">查看全部 ${count} 条 →</button>`;
+      }
+    } else {
+      html += '<div class="hot-empty">🐱 暂时获取不到数据</div>';
+    }
+
+    html += '</div>';
+  });
+
+  html += '</div>';
+  container.innerHTML = html;
+
+  container.querySelectorAll('.hot-view-more').forEach(btn => {
+    btn.addEventListener('click', () => {
+      currentHotPlatform = btn.dataset.platform;
+      renderHotPlatformTabs();
+      renderHotContent();
+    });
+  });
+}
+
+async function renderSingleHotBoard(container, platformId) {
+  const platform = HOT_PLATFORMS.find(p => p.id === platformId);
+  if (!platform) return;
+
+  container.innerHTML = `
+    <div class="hot-loading">
+      <div class="loading-spinner" style="border-color:${platform.color}33;border-top-color:${platform.color}"></div>
+      <p>🐱 正在加载${platform.name}热榜...</p>
+    </div>
+  `;
+
+  const data = await loadHotData(platformId);
+  if (!data || !data.list || data.list.length === 0) {
+    container.innerHTML = `
+      <div class="hot-empty-state">
+        <div style="font-size:48px;margin-bottom:12px">😿</div>
+        <p>${platform.emoji} ${platform.name}热榜暂时不可用</p>
+        <p style="font-size:13px;color:var(--text-lighter);margin-top:4px">数据可能正在更新中，请稍后再试</p>
+      </div>
+    `;
+    return;
+  }
+
+  let html = `<div class="hot-single-list">`;
+  data.list.forEach((item, idx) => {
+    const rankClass = idx < 3 ? `top-${idx + 1}` : '';
+    const hotText = item.hot_value ? `<span class="hot-list-value">🔥 ${formatHot(item.hot_value)}</span>` : '';
+    html += `
+      <a href="${item.url || '#'}" target="_blank" rel="noopener" class="hot-list-item ${rankClass}">
+        <span class="hot-list-rank">${idx + 1}</span>
+        <div class="hot-list-content">
+          <div class="hot-list-title">${escapeHtml(item.title)}</div>
+          <div class="hot-list-meta">${hotText}</div>
+        </div>
+      </a>
+    `;
+  });
+  html += '</div>';
+
+  container.innerHTML = html;
+}
+
+// ============================================================
+// 热榜: 初始化
+// ============================================================
+async function initHotBoards() {
+  if (hotLoaded) return;
+  hotLoaded = true;
+
+  renderHotPlatformTabs();
+
+  // 加载元数据并显示更新时间
+  const meta = await loadHotMeta();
+  const updateTimeEl = document.getElementById('hotUpdateTime');
+  if (updateTimeEl) {
+    if (meta && meta.update_time) {
+      const date = new Date(meta.update_time);
+      const beijingTime = new Date(date.getTime() + 8 * 3600 * 1000);
+      const timeStr = beijingTime.toISOString().slice(0, 16).replace('T', ' ');
+      updateTimeEl.textContent = `📅 ${timeStr} (北京时间)`;
+    } else {
+      updateTimeEl.textContent = '📅 加载中...';
+    }
+  }
+
+  // 统计平台数量
+  if (meta && meta.platforms) {
+    const activeCount = meta.platforms.filter(p => p.count > 0).length;
+    const totalCount = meta.platforms.length;
+    if (serverStatus) {
+      serverStatus.textContent = `🟢 ${activeCount}/${totalCount} 平台在线`;
+    }
+  }
+
+  await renderHotContent();
+}
+
+// ============================================================
+// 热榜: 刷新
+// ============================================================
+async function refreshHotBoards() {
+  hotDataCache = {};
+  hotMetaCache = null;
+  hotLoaded = false;
+  await initHotBoards();
+}
+
+// ============================================================
+// CORS 代理请求 (多代理容错)
+// ============================================================
+async function fetchViaProxy(targetUrl, timeoutMs = 15000) {
   for (let i = 0; i < CORS_PROXIES.length; i++) {
     const proxyUrl = CORS_PROXIES[i](targetUrl);
     try {
       const controller = new AbortController();
       const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
-
       const resp = await fetch(proxyUrl, { signal: controller.signal });
       clearTimeout(timeoutId);
 
@@ -72,13 +324,12 @@ async function fetchViaProxy(targetUrl, timeoutMs = 20000) {
       }
 
       const text = await resp.text();
-      if (text && text.length > 100) return text;
-
+      if (text && text.length > 100 && !text.includes('rate limited')) return text;
     } catch (e) {
       console.log(`代理 ${i} 失败:`, e.message);
     }
   }
-  throw new Error('所有代理均失败');
+  throw new Error('所有CORS代理均不可用');
 }
 
 // ============================================================
@@ -86,77 +337,54 @@ async function fetchViaProxy(targetUrl, timeoutMs = 20000) {
 // ============================================================
 function parseSogouResults(html, maxResults = 8) {
   const results = [];
-
-  // 按 vrwrap 分割结果块
   const blocks = html.split(/<div[^>]*class="[^"]*vrwrap[^"]*"/);
-  
+
   for (let i = 1; i < blocks.length && results.length < maxResults; i++) {
     const block = blocks[i];
-    
-    // 跳过"大家还在搜"等非结果块
     if (block.includes('大家还在搜') || block.includes('hint-mid')) continue;
-    
-    // 提取标题和链接
+
     let title = '';
     let link = '';
     let realUrl = '';
-    
-    // 从 h3 > a 中提取
+
     const titleMatch = block.match(/<h3[^>]*class="[^"]*vr-title[^"]*"[^>]*>[\s\S]*?<a[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/);
     if (titleMatch) {
       link = titleMatch[1];
       title = cleanText(titleMatch[2]);
     }
-    
+
     if (!title) {
-      // 尝试其他格式
       const altTitleMatch = block.match(/<a[^>]*name="dttl"[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/);
       if (altTitleMatch) {
         link = altTitleMatch[1];
         title = cleanText(altTitleMatch[2]);
       }
     }
-    
+
     if (!title) continue;
-    
-    // 提取真实 URL (data-url 属性)
+
     const dataUrlMatch = block.match(/data-url="([^"]+)"/);
-    if (dataUrlMatch) {
-      realUrl = dataUrlMatch[1];
-    }
-    
-    // 如果没有 data-url，检查 citeLinkClass 中的 URL
+    if (dataUrlMatch) realUrl = dataUrlMatch[1];
+
     if (!realUrl) {
       const citeUrlMatch = block.match(/citeLinkClass[^>]*>[\s\S]*?<span[^>]*>(https?:\/\/[^<]+)<\/span>/);
-      if (citeUrlMatch) {
-        realUrl = citeUrlMatch[1].replace(/\.\.\./g, '');
-      }
+      if (citeUrlMatch) realUrl = citeUrlMatch[1].replace(/\.\.\./g, '');
     }
-    
-    // 如果还是没有，用搜狗链接
+
     if (!realUrl) {
-      if (link.startsWith('/link?')) {
-        realUrl = 'https://www.sogou.com' + link;
-      } else if (link.startsWith('http')) {
-        realUrl = link;
-      }
+      if (link.startsWith('/link?')) realUrl = 'https://www.sogou.com' + link;
+      else if (link.startsWith('http')) realUrl = link;
     }
-    
-    // 提取摘要
+
     let snippet = '';
     const snippetMatch = block.match(/<div[^>]*class="[^"]*fz-mid[^"]*"[^>]*>([\s\S]*?)<\/div>/);
-    if (snippetMatch) {
-      snippet = cleanText(snippetMatch[1]);
-    }
-    
-    // 提取来源
+    if (snippetMatch) snippet = cleanText(snippetMatch[1]);
+
     let source = '';
     let date = '';
     const citeMatch = block.match(/citeLinkClass[^>]*>([\s\S]*?)<\/a>/);
     if (citeMatch) {
-      const citeText = citeMatch[1];
-      // 来源名称在 <span> 中
-      const spans = citeText.match(/<span[^>]*>([^<]+)<\/span>/g);
+      const spans = citeMatch[1].match(/<span[^>]*>([^<]+)<\/span>/g);
       if (spans) {
         spans.forEach((span, idx) => {
           const text = cleanText(span);
@@ -165,18 +393,15 @@ function parseSogouResults(html, maxResults = 8) {
         });
       }
     }
-    
-    if (title) {
-      results.push({
-        title: truncate(title, 100),
-        snippet: truncate(snippet, 300),
-        url: realUrl || link,
-        author: source || '',
-        date: date || '',
-      });
-    }
+
+    results.push({
+      title: truncate(title, 100),
+      snippet: truncate(snippet, 300),
+      url: realUrl || link,
+      author: source || '',
+      date: date || '',
+    });
   }
-  
   return results;
 }
 
@@ -188,8 +413,7 @@ async function searchPlatform(platform, keyword) {
   try {
     const sogouUrl = `https://www.sogou.com/web?query=${encodeURIComponent(keyword + ' site:' + platform.site)}&num=10`;
     const html = await fetchViaProxy(sogouUrl, 20000);
-    
-    // 检查是否被反爬
+
     if (html.includes('安全验证') || html.includes('antispider') || html.length < 500) {
       console.log(`${platform.name} 搜狗搜索被反爬`);
     } else {
@@ -199,179 +423,20 @@ async function searchPlatform(platform, keyword) {
   } catch (e) {
     console.log(`${platform.name} 搜狗site搜索失败:`, e.message);
   }
-  
+
   // 策略2: 搜狗不限站点搜索，然后过滤
   try {
     const sogouUrl2 = `https://www.sogou.com/web?query=${encodeURIComponent(keyword + ' ' + platform.name)}&num=10`;
     const html2 = await fetchViaProxy(sogouUrl2, 20000);
-    const results2 = parseSogouResults(html2, 8).filter(r => 
+    const results2 = parseSogouResults(html2, 8).filter(r =>
       r.url.includes(platform.site) || r.author.includes(platform.name)
     );
     if (results2.length > 0) return { results: results2, status: 'success' };
   } catch (e) {
     console.log(`${platform.name} 搜狗兜底搜索失败:`, e.message);
   }
-  
+
   return { results: [], status: 'empty' };
-}
-
-// ============================================================
-// 热榜获取
-// ============================================================
-async function fetchBaiduHot() {
-  try {
-    const url = 'https://top.baidu.com/api/board?platform=wise&tab=realtime';
-    const html = await fetchViaProxy(url, 15000);
-    const data = JSON.parse(html);
-    const cards = data.data?.cards || [];
-    const items = [];
-    
-    if (cards[0]?.content) {
-      const content = cards[0].content;
-      // content 可能是嵌套数组
-      const flatContent = Array.isArray(content[0]) ? content[0] : content;
-      flatContent.forEach(item => {
-        if (item.word) {
-          items.push({
-            title: item.word,
-            url: item.url || '',
-            hot: item.hotScore || '',
-            rank: item.index || items.length + 1,
-          });
-        }
-      });
-    }
-    return items.slice(0, 20);
-  } catch (e) {
-    console.log('百度热搜获取失败:', e.message);
-    return [];
-  }
-}
-
-async function fetchToutiaoHot() {
-  try {
-    const url = 'https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc';
-    const html = await fetchViaProxy(url, 15000);
-    const data = JSON.parse(html);
-    const items = (data.data || []).map((item, idx) => ({
-      title: item.Title || '',
-      url: item.Url || '',
-      hot: item.HotValue || '',
-      rank: idx + 1,
-      image: item.Image || '',
-    }));
-    return items.slice(0, 20);
-  } catch (e) {
-    console.log('头条热榜获取失败:', e.message);
-    return [];
-  }
-}
-
-async function fetchPaperHot() {
-  try {
-    const url = 'https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar';
-    const html = await fetchViaProxy(url, 15000);
-    const data = JSON.parse(html);
-    const hotNews = data.data?.hotNews || [];
-    const items = hotNews.map((item, idx) => ({
-      title: item.name || '',
-      url: item.link || `https://www.thepaper.cn/newsDetail_forward_${item.contId}`,
-      hot: item.praiseTimes || '',
-      rank: idx + 1,
-      date: item.pubTime || '',
-      image: item.pic || '',
-    }));
-    return items.slice(0, 20);
-  } catch (e) {
-    console.log('澎湃新闻获取失败:', e.message);
-    return [];
-  }
-}
-
-async function fetchAllHotBoards() {
-  const [baidu, toutiao, paper] = await Promise.allSettled([
-    fetchBaiduHot(),
-    fetchToutiaoHot(),
-    fetchPaperHot(),
-  ]);
-  
-  return {
-    baidu: baidu.status === 'fulfilled' ? baidu.value : [],
-    toutiao: toutiao.status === 'fulfilled' ? toutiao.value : [],
-    paper: paper.status === 'fulfilled' ? paper.value : [],
-  };
-}
-
-// ============================================================
-// 渲染热榜
-// ============================================================
-function renderHotBoards(data) {
-  const sections = [
-    { id: 'baidu', name: '百度热搜', emoji: '🔥', color: '#2932E1', items: data.baidu },
-    { id: 'toutiao', name: '今日头条', emoji: '📰', color: '#F04142', items: data.toutiao },
-    { id: 'paper', name: '澎湃新闻', emoji: '🌊', color: '#F05051', items: data.paper },
-  ];
-  
-  let html = '<div class="hot-boards-grid">';
-  
-  sections.forEach(section => {
-    const count = section.items.length;
-    let statusBadge = '';
-    if (count > 0) {
-      statusBadge = `<span class="hot-status ok">✅ ${count} 条</span>`;
-    } else {
-      statusBadge = `<span class="hot-status fail">❌ 获取失败</span>`;
-    }
-    
-    html += `
-      <div class="hot-board-section">
-        <div class="hot-board-header">
-          <span class="hot-board-badge" style="background: ${section.color}">
-            ${section.emoji} ${section.name}
-          </span>
-          ${statusBadge}
-        </div>
-    `;
-    
-    if (count > 0) {
-      html += '<div class="hot-items-list">';
-      section.items.slice(0, 15).forEach((item, idx) => {
-        const rankClass = idx < 3 ? 'hot-rank-top' : '';
-        const hotText = item.hot ? `<span class="hot-value">🔥 ${formatHot(item.hot)}</span>` : '';
-        const dateText = item.date ? `<span class="hot-date">${item.date}</span>` : '';
-        
-        html += `
-          <a href="${item.url || '#'}" target="_blank" rel="noopener" class="hot-item ${rankClass}">
-            <span class="hot-rank">${idx + 1}</span>
-            <div class="hot-content">
-              <div class="hot-title">${escapeHtml(item.title)}</div>
-              <div class="hot-meta">${hotText}${dateText}</div>
-            </div>
-          </a>
-        `;
-      });
-      html += '</div>';
-    } else {
-      html += '<div class="hot-empty">🐱 暂时获取不到数据，稍后再试</div>';
-    }
-    
-    html += '</div>';
-  });
-  
-  html += '</div>';
-  
-  const hotResults = document.getElementById('hotResults');
-  if (hotResults) {
-    hotResults.innerHTML = html;
-  }
-}
-
-function formatHot(hot) {
-  const num = parseInt(hot);
-  if (isNaN(num)) return hot;
-  if (num >= 10000000) return (num / 10000000).toFixed(1) + '千万';
-  if (num >= 10000) return (num / 10000).toFixed(1) + '万';
-  return num.toString();
 }
 
 // ============================================================
@@ -387,8 +452,8 @@ function renderPlatformResult(platform, results, status) {
     status: status,
     results: results,
   };
-  
-  if (activePlatform === 'all' || activePlatform === platform.id) {
+
+  if (activeSearchPlatform === 'all' || activeSearchPlatform === platform.id) {
     renderResults();
   }
   updateResultCount();
@@ -396,7 +461,7 @@ function renderPlatformResult(platform, results, status) {
 }
 
 function updateChipCounts() {
-  PLATFORMS.forEach(p => {
+  SEARCH_PLATFORMS.forEach(p => {
     const data = currentResults[p.id];
     const countEl = document.querySelector(`[data-count="${p.id}"]`);
     if (countEl && data) {
@@ -413,25 +478,26 @@ function updateChipCounts() {
 async function performSearch(keyword) {
   keyword = (keyword || '').trim();
   if (!keyword || isSearching) return;
-  
+
   isSearching = true;
   currentKeyword = keyword;
   currentResults = {};
   searchBtn.disabled = true;
   searchBtn.innerHTML = '<span class="loading-cat">🐱</span> 搜索中...';
-  
+
   showLoadingState();
-  
+
   const searchStartTime = Date.now();
-  
+  let allFailed = true;
+
   try {
-    // 并行搜索所有平台（每批3个）
     const batchSize = 3;
-    for (let i = 0; i < PLATFORMS.length; i += batchSize) {
-      const batch = PLATFORMS.slice(i, i + batchSize);
+    for (let i = 0; i < SEARCH_PLATFORMS.length; i += batchSize) {
+      const batch = SEARCH_PLATFORMS.slice(i, i + batchSize);
       const promises = batch.map(async (platform) => {
         try {
           const { results, status } = await searchPlatform(platform, keyword);
+          if (status === 'success') allFailed = false;
           renderPlatformResult(platform, results, status);
         } catch (e) {
           renderPlatformResult(platform, [], 'empty');
@@ -439,14 +505,30 @@ async function performSearch(keyword) {
       });
       await Promise.allSettled(promises);
     }
-    
+
     updateLastUpdate();
-    
+
     const elapsed = ((Date.now() - searchStartTime) / 1000).toFixed(1);
     console.log(`搜索完成，耗时 ${elapsed}s`);
-    
+
+    // 如果所有平台都失败了，显示提示
+    if (allFailed) {
+      resultsContainer.innerHTML = `
+        <div class="empty-state">
+          <div style="font-size:60px;margin-bottom:12px">😿</div>
+          <p style="color:var(--accent-deep);font-weight:600;font-size:16px">搜索服务暂时不可用</p>
+          <p style="color:var(--text-light);margin-top:8px;font-size:13px">
+            所有CORS代理均不可用，请稍后重试<br>
+            💡 你也可以查看 <strong>全网热榜</strong> 获取最新资讯
+          </p>
+          <button onclick="switchTab('hot')" style="margin-top:16px;padding:10px 24px;background:var(--gold-gradient);color:white;border:none;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;box-shadow:0 2px 8px rgba(255,165,0,0.3)">
+            🔥 查看全网热榜
+          </button>
+        </div>
+      `;
+    }
+
     updateResultCount();
-    
   } catch (error) {
     showError('搜索出错：' + error.message);
   } finally {
@@ -462,7 +544,7 @@ async function performSearch(keyword) {
 function showLoadingState() {
   const html = `
     <div class="loading-grid">
-      ${PLATFORMS.map(p => `
+      ${SEARCH_PLATFORMS.map(p => `
         <div class="loading-card" id="loading-${p.id}">
           <div class="loading-spinner" style="border-color: ${p.color}33;border-top-color: ${p.color}"></div>
           <div>
@@ -480,9 +562,9 @@ function showLoadingState() {
 // 渲染搜索结果
 // ============================================================
 function renderResults() {
-  const orderedIds = activePlatform === 'all'
-    ? PLATFORMS.map(p => p.id)
-    : [activePlatform];
+  const orderedIds = activeSearchPlatform === 'all'
+    ? SEARCH_PLATFORMS.map(p => p.id)
+    : [activeSearchPlatform];
 
   if (Object.keys(currentResults).length === 0) return;
 
@@ -496,7 +578,7 @@ function renderResults() {
     const count = platformData.results.length;
     total += count;
 
-    const platformInfo = PLATFORMS.find(p => p.id === platformId);
+    const platformInfo = SEARCH_PLATFORMS.find(p => p.id === platformId);
     const emoji = platformInfo ? platformInfo.emoji : '🐾';
 
     let statusClass = 'status-empty';
@@ -504,9 +586,6 @@ function renderResults() {
     if (platformData.status === 'success') {
       statusClass = 'status-success';
       statusText = `✅ ${count} 条结果`;
-    } else if (platformData.status === 'empty') {
-      statusClass = 'status-empty';
-      statusText = '🐱 暂无结果';
     }
 
     html += `
@@ -527,9 +606,9 @@ function renderResults() {
       platformData.results.forEach(item => {
         const dateHtml = item.date ? `<span class="card-date">📅 ${escapeHtml(item.date)}</span>` : '';
         const sourceHtml = item.author ? `<span class="card-author">${escapeHtml(item.author)}</span>` : '';
-        
+
         html += `
-          <a href="${item.url}" target="_blank" rel="noopener" class="result-card" style="--card-color: ${platformData.color}">
+          <a href="${item.url}" target="_blank" rel="noopener" class="result-card">
             <div class="card-title">${escapeHtml(item.title)}</div>
             ${item.snippet ? `<div class="card-snippet">${escapeHtml(item.snippet)}</div>` : '<div class="card-snippet"></div>'}
             <div class="card-footer">
@@ -601,15 +680,27 @@ function escapeHtml(text) {
   return div.innerHTML;
 }
 
+function formatHot(hot) {
+  const num = parseInt(hot);
+  if (isNaN(num)) return hot;
+  if (num >= 10000000) return (num / 10000000).toFixed(1) + '千万';
+  if (num >= 10000) return (num / 10000).toFixed(1) + '万';
+  return num.toString();
+}
+
 function updateLastUpdate() {
   const now = new Date();
-  lastUpdate.textContent = `更新于 ${now.getHours().toString().padStart(2,'0')}:${now.getMinutes().toString().padStart(2,'0')}:${now.getSeconds().toString().padStart(2,'0')}`;
+  if (lastUpdate) {
+    lastUpdate.textContent = `更新于 ${now.getHours().toString().padStart(2,'0')}:${now.getMinutes().toString().padStart(2,'0')}:${now.getSeconds().toString().padStart(2,'0')}`;
+  }
 }
 
 function updateResultCount() {
   let total = 0;
   Object.values(currentResults).forEach(p => { total += p.results.length; });
-  resultCount.textContent = total > 0 ? `🐾 共 ${total} 条结果` : '';
+  if (resultCount) {
+    resultCount.textContent = total > 0 ? `🐾 共 ${total} 条结果` : '';
+  }
 }
 
 // ============================================================
@@ -627,31 +718,7 @@ function switchTab(tab) {
     if (tabHot) tabHot.classList.add('active');
     if (searchSection) searchSection.style.display = 'none';
     if (hotSection) hotSection.style.display = '';
-    // 自动加载热榜
-    if (!hotBoardsCache) {
-      loadHotBoards();
-    }
-  }
-}
-
-async function loadHotBoards() {
-  const hotResults = document.getElementById('hotResults');
-  if (hotResults) {
-    hotResults.innerHTML = `
-      <div class="hot-loading">
-        <div class="loading-spinner" style="border-color:#FFD70033;border-top-color:#FFD700"></div>
-        <p>🐱 正在获取各平台热榜...</p>
-      </div>
-    `;
-  }
-  
-  try {
-    hotBoardsCache = await fetchAllHotBoards();
-    renderHotBoards(hotBoardsCache);
-  } catch (e) {
-    if (hotResults) {
-      hotResults.innerHTML = `<div class="hot-loading"><p>😿 获取热榜失败：${escapeHtml(e.message)}</p></div>`;
-    }
+    initHotBoards();
   }
 }
 
@@ -684,7 +751,7 @@ function initFloatingPaws() {
   const container = document.getElementById('floatingPaws');
   if (!container) return;
   const pawChars = ['🐾', '🐱', '✨', '🐾'];
-  
+
   for (let i = 0; i < 12; i++) {
     const paw = document.createElement('div');
     paw.className = 'paw';
@@ -698,10 +765,10 @@ function initFloatingPaws() {
 }
 
 // ============================================================
-// 初始化平台筛选
+// 初始化搜索平台筛选
 // ============================================================
 function initPlatformFilters() {
-  PLATFORMS.forEach(p => {
+  SEARCH_PLATFORMS.forEach(p => {
     const chip = document.createElement('button');
     chip.className = 'platform-chip';
     chip.dataset.platform = p.id;
@@ -716,11 +783,11 @@ function initPlatformFilters() {
   platformFilters.addEventListener('click', (e) => {
     const chip = e.target.closest('.platform-chip');
     if (!chip) return;
-    
+
     document.querySelectorAll('.platform-chip').forEach(c => c.classList.remove('active'));
     chip.classList.add('active');
-    activePlatform = chip.dataset.platform;
-    
+    activeSearchPlatform = chip.dataset.platform;
+
     if (Object.keys(currentResults).length > 0) {
       renderResults();
     }
@@ -747,6 +814,11 @@ if (tabSearch) {
 }
 if (tabHot) {
   tabHot.addEventListener('click', () => switchTab('hot'));
+}
+
+const refreshHotBtn = document.getElementById('refreshHotBtn');
+if (refreshHotBtn) {
+  refreshHotBtn.addEventListener('click', refreshHotBoards);
 }
 
 // ============================================================
