@@ -128,8 +128,8 @@ def search_single_platform(query, platform_site, time_range="", sort_by="", max_
 def do_search(query, site=None, time_range="", sort_by=""):
     """Search via uapis.cn search API, save results to JSON.
     
-    Searches across multiple platforms with rate limiting protection.
-    Each platform returns up to 25 results.
+    By default, searches without specifying site (uapis.cn returns multi-source results).
+    If site is specified, only searches that site.
     
     Args:
         query: Search keyword
@@ -143,57 +143,105 @@ def do_search(query, site=None, time_range="", sort_by=""):
     if sort_by:
         print(f"  Sort: {sort_by}")
     
-    # Define 9 major platforms to search
-    PLATFORM_SITES = [
-        "zhihu.com",
-        "weibo.com", 
-        "bilibili.com",
-        "xiaohongshu.com",
-        "douyin.com",
-        "toutiao.com",
-        "thepaper.cn",
-        "douban.com",
-        "ifeng.com",
-    ]
-    
-    # If specific site is requested, only search that site
-    if site:
-        sites_to_search = [s.strip() for s in site.split(",")]
-    else:
-        sites_to_search = PLATFORM_SITES
-    
-    print(f"  Searching {len(sites_to_search)} platforms (with rate limit protection)...")
-    
     all_items = []
     seen_urls = set()
-    failed_platforms = []
     
-    # Search platforms serially with delays to avoid rate limiting
-    for i, platform_site in enumerate(sites_to_search):
-        # Add delay between requests (except for the first one)
-        if i > 0:
-            delay = 3
-            print(f"    Waiting {delay}s before next request...")
-            time.sleep(delay)
+    # If specific site is requested, search only that site
+    if site:
+        sites_to_search = [s.strip() for s in site.split(",")]
+        print(f"  Searching {len(sites_to_search)} specific platforms...")
         
-        items = search_single_platform(query, platform_site, time_range, sort_by, max_retries=3)
+        # Search each specified site
+        for i, platform_site in enumerate(sites_to_search):
+            if i > 0:
+                time.sleep(2)  # Delay between requests
+            
+            try:
+                payload = {"query": query}
+                payload["site"] = platform_site
+                if time_range:
+                    payload["time_range"] = time_range
+                if sort_by:
+                    payload["sort"] = sort_by
+                
+                result = fetch_post(UAPIS_SEARCH, payload, timeout=10)
+                items = result.get("results", [])
+                
+                for item in items:
+                    url = item.get("url", "")
+                    if url and url not in seen_urls:
+                        seen_urls.add(url)
+                        all_items.append({
+                            "title": item.get("title", ""),
+                            "url": url,
+                            "snippet": (item.get("snippet") or "")[:300],
+                            "source": item.get("domain", platform_site),
+                            "date": item.get("publish_time", ""),
+                        })
+                
+                print(f"    {platform_site}: +{len(items)} results (total: {len(all_items)})")
+                
+            except Exception as e:
+                print(f"    {platform_site}: FAILED - {e}")
         
-        if items:
-            # Deduplicate by URL
+    else:
+        # Default: search without specifying site (uapis.cn returns multi-source results)
+        print(f"  Searching (multi-source, single request)...")
+        
+        try:
+            payload = {"query": query}
+            if time_range:
+                payload["time_range"] = time_range
+            if sort_by:
+                payload["sort"] = sort_by
+            
+            result = fetch_post(UAPIS_SEARCH, payload, timeout=15)
+            items = result.get("results", [])
+            
             for item in items:
                 url = item.get("url", "")
                 if url and url not in seen_urls:
                     seen_urls.add(url)
-                    all_items.append(item)
-        
-        print(f"    Progress: {len(all_items)} unique results so far")
-        
-        if not items:
-            failed_platforms.append(platform_site)
+                    all_items.append({
+                        "title": item.get("title", ""),
+                        "url": url,
+                        "snippet": (item.get("snippet") or "")[:300],
+                        "source": item.get("domain", ""),
+                        "date": item.get("publish_time", ""),
+                    })
+            
+            print(f"    Found {len(all_items)} results from multiple sources")
+            
+        except Exception as e:
+            print(f"    Search FAILED - {e}")
+            # If failed, try searching major platforms one by one
+            print(f"    Retrying with individual platforms...")
+            major_platforms = ["zhihu.com", "weibo.com", "bilibili.com"]
+            for platform_site in major_platforms:
+                try:
+                    time.sleep(2)
+                    payload = {"query": query, "site": platform_site}
+                    result = fetch_post(UAPIS_SEARCH, payload, timeout=10)
+                    items = result.get("results", [])
+                    
+                    for item in items:
+                        url = item.get("url", "")
+                        if url and url not in seen_urls:
+                            seen_urls.add(url)
+                            all_items.append({
+                                "title": item.get("title", ""),
+                                "url": url,
+                                "snippet": (item.get("snippet") or "")[:300],
+                                "source": item.get("domain", platform_site),
+                                "date": item.get("publish_time", ""),
+                            })
+                    
+                    print(f"    {platform_site}: +{len(items)} results (total: {len(all_items)})")
+                    
+                except Exception as e2:
+                    print(f"    {platform_site}: FAILED - {e2}")
     
     print(f"  Total: {len(all_items)} unique results (from {len(seen_urls)} URLs)")
-    if failed_platforms:
-        print(f"  Failed platforms: {', '.join(failed_platforms)}")
     
     # Sort by date (newest first)
     all_items.sort(key=lambda x: parse_date(x.get("date", "")), reverse=True)
