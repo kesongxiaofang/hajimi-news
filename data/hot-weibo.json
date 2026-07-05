@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "微博热搜",
-  "update_time": "2026-07-05T08:33:19Z",
+  "update_time": "2026-07-05T09:14:03Z",
   "count": 30,
   "list": [
     {
-      "title": "西藏文旅将兑换承诺奖励李要得50万",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E6%96%87%E6%97%85%E5%B0%86%E5%85%91%E6%8D%A2%E6%89%BF%E8%AF%BA%E5%A5%96%E5%8A%B1%E6%9D%8E%E8%A6%81%E5%BE%9750%E4%B8%87%23",
-      "hot_value": "1178137",
+      "title": "梅里雪山惊现佛得角门将",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E9%87%8C%E9%9B%AA%E5%B1%B1%E6%83%8A%E7%8E%B0%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%23",
+      "hot_value": "1492357",
       "index": 1
     },
     {
-      "title": "梅里雪山惊现佛得角门将",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E9%87%8C%E9%9B%AA%E5%B1%B1%E6%83%8A%E7%8E%B0%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%23",
-      "hot_value": "913308",
+      "title": "奶奶删了77万条未读又来3万",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%88%A0%E4%BA%8677%E4%B8%87%E6%9D%A1%E6%9C%AA%E8%AF%BB%E5%8F%88%E6%9D%A53%E4%B8%87%23",
+      "hot_value": "1220388",
       "index": 2
     },
     {
       "title": "他们于无声处创造历史",
       "url": "https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E4%BA%8E%E6%97%A0%E5%A3%B0%E5%A4%84%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%23",
-      "hot_value": "902441",
+      "hot_value": "1149387",
       "index": 3
+    },
+    {
+      "title": "TES道歉",
+      "url": "https://s.weibo.com/weibo?q=%23TES%E9%81%93%E6%AD%89%23",
+      "hot_value": "1097902",
+      "index": 4
     },
     {
       "title": "佛得角旅游",
       "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E6%97%85%E6%B8%B8%23",
-      "hot_value": "902089",
-      "index": 4
-    },
-    {
-      "title": "奶奶删了77万条未读又来3万",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%88%A0%E4%BA%8677%E4%B8%87%E6%9D%A1%E6%9C%AA%E8%AF%BB%E5%8F%88%E6%9D%A53%E4%B8%87%23",
-      "hot_value": "896767",
+      "hot_value": "942818",
       "index": 5
     },
     {
-      "title": "有线耳机",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%23",
-      "hot_value": "799061",
+      "title": "西藏文旅将兑换承诺奖励李要得50万",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E6%96%87%E6%97%85%E5%B0%86%E5%85%91%E6%8D%A2%E6%89%BF%E8%AF%BA%E5%A5%96%E5%8A%B1%E6%9D%8E%E8%A6%81%E5%BE%9750%E4%B8%87%23",
+      "hot_value": "685529",
       "index": 6
     },
     {
-      "title": "TES全败",
-      "url": "https://s.weibo.com/weibo?q=%23TES%E5%85%A8%E8%B4%A5%23",
-      "hot_value": "752109",
+      "title": "iPhone17计划2276年重启",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E8%AE%A1%E5%88%922276%E5%B9%B4%E9%87%8D%E5%90%AF%23",
+      "hot_value": "668085",
       "index": 7
     },
     {
-      "title": "野狗骨头 滤镜",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4+%E6%BB%A4%E9%95%9C%23",
-      "hot_value": "461086",
+      "title": "已经对所有自助烤肉祛魅了",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%BB%8F%E5%AF%B9%E6%89%80%E6%9C%89%E8%87%AA%E5%8A%A9%E7%83%A4%E8%82%89%E7%A5%9B%E9%AD%85%E4%BA%86%23",
+      "hot_value": "564603",
       "index": 8
     },
     {
       "title": "我欲乘风 虞书欣",
       "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%AC%B2%E4%B9%98%E9%A3%8E+%E8%99%9E%E4%B9%A6%E6%AC%A3%23",
-      "hot_value": "434474",
+      "hot_value": "533449",
       "index": 9
     },
     {
-      "title": "TSW战胜TES",
-      "url": "https://s.weibo.com/weibo?q=%23TSW%E6%88%98%E8%83%9CTES%23",
-      "hot_value": "432518",
+      "title": "野狗骨头 滤镜",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4+%E6%BB%A4%E9%95%9C%23",
+      "hot_value": "379545",
       "index": 10
-    },
-    {
-      "title": "曝郭宇欣称非科班的抢了科班的戏",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%83%AD%E5%AE%87%E6%AC%A3%E7%A7%B0%E9%9D%9E%E7%A7%91%E7%8F%AD%E7%9A%84%E6%8A%A2%E4%BA%86%E7%A7%91%E7%8F%AD%E7%9A%84%E6%88%8F%23",
-      "hot_value": "432433",
-      "index": 11
-    },
-    {
-      "title": "霉霉婚礼现场照片被泄漏",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E7%85%A7%E7%89%87%E8%A2%AB%E6%B3%84%E6%BC%8F%23",
-      "hot_value": "431419",
-      "index": 12
     },
     {
       "title": "一家三口上高架引争议",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E4%B8%8A%E9%AB%98%E6%9E%B6%E5%BC%95%E4%BA%89%E8%AE%AE%23",
-      "hot_value": "429774",
+      "hot_value": "377808",
+      "index": 11
+    },
+    {
+      "title": "曝郭宇欣称非科班的抢了科班的戏",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%83%AD%E5%AE%87%E6%AC%A3%E7%A7%B0%E9%9D%9E%E7%A7%91%E7%8F%AD%E7%9A%84%E6%8A%A2%E4%BA%86%E7%A7%91%E7%8F%AD%E7%9A%84%E6%88%8F%23",
+      "hot_value": "374796",
+      "index": 12
+    },
+    {
+      "title": "霉霉婚礼现场照片被泄漏",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E7%85%A7%E7%89%87%E8%A2%AB%E6%B3%84%E6%BC%8F%23",
+      "hot_value": "370681",
       "index": 13
     },
     {
-      "title": "嫌顾客点15元麻辣烫老板追出门辱骂",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AB%8C%E9%A1%BE%E5%AE%A2%E7%82%B915%E5%85%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E8%BF%BD%E5%87%BA%E9%97%A8%E8%BE%B1%E9%AA%82%23",
-      "hot_value": "428870",
+      "title": "有线耳机",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%23",
+      "hot_value": "370148",
       "index": 14
-    },
-    {
-      "title": "哈兰德大战巴西前理发",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%A7%E6%88%98%E5%B7%B4%E8%A5%BF%E5%89%8D%E7%90%86%E5%8F%91%23",
-      "hot_value": "428422",
-      "index": 15
-    },
-    {
-      "title": "徐艺真疑似喊话郭宇欣",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E7%9C%9F%E7%96%91%E4%BC%BC%E5%96%8A%E8%AF%9D%E9%83%AD%E5%AE%87%E6%AC%A3%23",
-      "hot_value": "423577",
-      "index": 16
-    },
-    {
-      "title": "密逃8官宣阵容",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AF%86%E9%80%838%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23",
-      "hot_value": "392008",
-      "index": 17
-    },
-    {
-      "title": "iPhone17计划2276年重启",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E8%AE%A1%E5%88%922276%E5%B9%B4%E9%87%8D%E5%90%AF%23",
-      "hot_value": "319618",
-      "index": 18
-    },
-    {
-      "title": "国家一级文物身上出现TCL广告",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%96%87%E7%89%A9%E8%BA%AB%E4%B8%8A%E5%87%BA%E7%8E%B0TCL%E5%B9%BF%E5%91%8A%23",
-      "hot_value": "317335",
-      "index": 19
-    },
-    {
-      "title": "年轻人7折抄底法拍房",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA7%E6%8A%98%E6%8A%84%E5%BA%95%E6%B3%95%E6%8B%8D%E6%88%BF%23",
-      "hot_value": "316082",
-      "index": 20
     },
     {
       "title": "刘烨感情时间线",
       "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%83%A8%E6%84%9F%E6%83%85%E6%97%B6%E9%97%B4%E7%BA%BF%23",
-      "hot_value": "310686",
+      "hot_value": "364657",
+      "index": 15
+    },
+    {
+      "title": "TES全败",
+      "url": "https://s.weibo.com/weibo?q=%23TES%E5%85%A8%E8%B4%A5%23",
+      "hot_value": "364420",
+      "index": 16
+    },
+    {
+      "title": "徐艺真疑似喊话郭宇欣",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E7%9C%9F%E7%96%91%E4%BC%BC%E5%96%8A%E8%AF%9D%E9%83%AD%E5%AE%87%E6%AC%A3%23",
+      "hot_value": "361401",
+      "index": 17
+    },
+    {
+      "title": "年轻人7折抄底法拍房",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA7%E6%8A%98%E6%8A%84%E5%BA%95%E6%B3%95%E6%8B%8D%E6%88%BF%23",
+      "hot_value": "357736",
+      "index": 18
+    },
+    {
+      "title": "南美足联主席批法国队拖延时间",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%BE%8E%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E6%89%B9%E6%B3%95%E5%9B%BD%E9%98%9F%E6%8B%96%E5%BB%B6%E6%97%B6%E9%97%B4%23",
+      "hot_value": "354560",
+      "index": 19
+    },
+    {
+      "title": "孙红雷粉色毛衣重返18岁",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E7%B2%89%E8%89%B2%E6%AF%9B%E8%A1%A3%E9%87%8D%E8%BF%9418%E5%B2%81%23",
+      "hot_value": "351495",
+      "index": 20
+    },
+    {
+      "title": "15岁儿子将家中近70克黄金偷卖",
+      "url": "https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%84%BF%E5%AD%90%E5%B0%86%E5%AE%B6%E4%B8%AD%E8%BF%9170%E5%85%8B%E9%BB%84%E9%87%91%E5%81%B7%E5%8D%96%23",
+      "hot_value": "349211",
       "index": 21
     },
     {
       "title": "王力宏缝了39针",
       "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%BC%9D%E4%BA%8639%E9%92%88%23",
-      "hot_value": "306615",
+      "hot_value": "343669",
       "index": 22
     },
     {
-      "title": "TES道歉",
-      "url": "https://s.weibo.com/weibo?q=%23TES%E9%81%93%E6%AD%89%23",
-      "hot_value": "305151",
+      "title": "密逃8官宣阵容",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AF%86%E9%80%838%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23",
+      "hot_value": "341650",
       "index": 23
     },
     {
-      "title": "戚薇发了蜡烛",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E5%8F%91%E4%BA%86%E8%9C%A1%E7%83%9B%23",
-      "hot_value": "299282",
+      "title": "嫌顾客点15元麻辣烫老板追出门辱骂",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AB%8C%E9%A1%BE%E5%AE%A2%E7%82%B915%E5%85%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%80%81%E6%9D%BF%E8%BF%BD%E5%87%BA%E9%97%A8%E8%BE%B1%E9%AA%82%23",
+      "hot_value": "338179",
       "index": 24
     },
     {
-      "title": "张凌赫紧身衣",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%B4%A7%E8%BA%AB%E8%A1%A3%23",
-      "hot_value": "298683",
+      "title": "李要得50万奖金给司机2万其余全捐",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%A6%81%E5%BE%9750%E4%B8%87%E5%A5%96%E9%87%91%E7%BB%99%E5%8F%B8%E6%9C%BA2%E4%B8%87%E5%85%B6%E4%BD%99%E5%85%A8%E6%8D%90%23",
+      "hot_value": "336814",
       "index": 25
-    },
-    {
-      "title": "奶奶发现儿媳约会多名男子孙子非亲生",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%8F%91%E7%8E%B0%E5%84%BF%E5%AA%B3%E7%BA%A6%E4%BC%9A%E5%A4%9A%E5%90%8D%E7%94%B7%E5%AD%90%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%23",
-      "hot_value": "295360",
-      "index": 26
     },
     {
       "title": "迪丽热巴蓝裙公主",
       "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%93%9D%E8%A3%99%E5%85%AC%E4%B8%BB%23",
-      "hot_value": "289330",
+      "hot_value": "332955",
+      "index": 26
+    },
+    {
+      "title": "哈兰德大战巴西前理发",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%A7%E6%88%98%E5%B7%B4%E8%A5%BF%E5%89%8D%E7%90%86%E5%8F%91%23",
+      "hot_value": "331616",
       "index": 27
     },
     {
-      "title": "以为虞书欣穿泳衣站泳池边上",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%A9%BF%E6%B3%B3%E8%A1%A3%E7%AB%99%E6%B3%B3%E6%B1%A0%E8%BE%B9%E4%B8%8A%23",
-      "hot_value": "287780",
+      "title": "张凌赫紧身衣",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%B4%A7%E8%BA%AB%E8%A1%A3%23",
+      "hot_value": "331444",
       "index": 28
     },
     {
-      "title": "美国250周年时间胶囊",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD250%E5%91%A8%E5%B9%B4%E6%97%B6%E9%97%B4%E8%83%B6%E5%9B%8A%23",
-      "hot_value": "284823",
+      "title": "急诊偶遇王力宏",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%80%A5%E8%AF%8A%E5%81%B6%E9%81%87%E7%8E%8B%E5%8A%9B%E5%AE%8F%23",
+      "hot_value": "330443",
       "index": 29
     },
     {
-      "title": "野狗骨头灿如繁星开播反馈",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E5%BC%80%E6%92%AD%E5%8F%8D%E9%A6%88%23",
-      "hot_value": "280010",
+      "title": "黑石集团放弃全球最大数据中心项目",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%9F%B3%E9%9B%86%E5%9B%A2%E6%94%BE%E5%BC%83%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%23",
+      "hot_value": "317486",
       "index": 30
     }
   ]

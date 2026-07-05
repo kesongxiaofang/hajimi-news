@@ -1,147 +1,184 @@
 {
-  "query": "特朗普",
-  "update_time": "2026-07-05T08:32:57Z",
+  "query": "test",
+  "time_range": "",
+  "sort": "",
+  "update_time": "2026-07-05T09:13:41Z",
   "count": 25,
   "results": [
     {
-      "title": "特朗普：特朗普股市再创新高！",
-      "url": "https://news.qq.com/rain/a/20260508A04EY900",
-      "snippet": "特朗普：特朗普股市再创新高！\n财闻\n2026-05-08 13:04\n发布于浙江\n财闻官方账号\n美国总统特朗普当地时间（5月7日）深夜发布一张图片，内容为：“特朗普的股市再创新高！标普500指数已突破7300点。”",
-      "source": "news.qq.com",
-      "date": "2026-05-08T00:00:00Z"
-    },
-    {
-      "title": "特朗普祝贺“阿根廷特朗普”当选",
-      "url": "http://bm.szhk.com/2023/11/20/283174818433726.html",
-      "snippet": "特朗普祝贺“阿根廷特朗普”当选 “让阿根廷再次伟大！”\n【特朗普祝贺“阿根廷特朗普”当选】11月19日，极右翼选举联盟“自由前进党”候选人哈维尔·米莱当选阿根廷新一任总统。\n!\n[](http://img1.szhk.com/Image/2023/11/20/1700447699921.png)\n特朗普祝贺“阿根廷特朗普”当选\n【特朗普祝贺“阿根廷特朗普”当选】11月19日，极右翼选举联盟“自由前进党”候选人哈维尔·米莱当选阿根廷新一任总统。",
-      "source": "bm.szhk.com",
-      "date": "2026-01-01T00:00:00Z"
-    },
-    {
-      "title": "特朗普暴打特朗普交易",
-      "url": "https://weibo.com/ttarticle/p/show?id=2309355142608216195195",
-      "snippet": "陶冬：特朗普暴打特朗普交易\n特朗普交易的天敌，是特朗普本人。\n特朗普在提高关税、削减开支等议题上横冲直撞，令市场胆战心惊，美股继续下挫，S&P500指数已经跌回去年9月底特朗普交易兴起时的水平。\n同时，一系列经济数据不如预期，特朗普衰退概念成为市场魔咒，资金对美联储降息预期升温，美联储主席和财政部长不得不出面喊话，以稳定市场情绪。\n经济衰退预期下，美元汇率再次下探，欧洲货币领涨。\n美联储褐皮书表述经济“略有增长”，美联储主席鲍威尔表示不急于降息。",
-      "source": "weibo.com",
-      "date": "2023-11-16T00:00:00Z"
-    },
-    {
-      "title": "审讯特朗普、逮捕特朗普、暗杀特朗普!特朗普你还能活多久?",
-      "url": "https://new.qq.com/omn/20210123/20210123A09GE500.html",
-      "snippet": "下岗后的特朗普没了主角光环、更没有了顶级安保的守护，在他卸任总统后，有美媒拍到他在自家的俱乐部内打高尔夫球，但他几乎没有给出他在任期结束后计划做什么的迹象。\n不过审讯特朗普、逮捕特朗普、暗杀特朗普的计划有人开始实施，咱们继续往下看~\n审讯特朗普的时间表出来了！\n据美联社称，参议院多数党领袖舒默是在与共和党人达成一致后，于当地时间22日晚些时候宣布的这一时间表。\n报道称，根据时间表，众议院将在25日晚些时候提交针对特朗普弹劾案的条款，并于26日进行初步审理。\n特朗普弹劾案审讯将于2月8日开始。\n不过，特朗普的法律团队将有时间在2月审讯开始之前为此案做相关准备。",
-      "source": "new.qq.com",
-      "date": "2021-01-22T00:00:00Z"
-    },
-    {
-      "title": "特朗普任命特朗普",
-      "url": "http://h5.ifeng.com/c/vivoArticle/v002g8-_uK0iGpUfwo7lt5uC2q6x0I1nMPGrMfQjOo92gIgE__",
-      "snippet": "“特朗普任命特朗普”\n!\n[](https://ugc-img.ifengimg.com/img/2022/12/7/2474ad06-da7c-4a4e-801e-ee03d923af44_w422_h422.png)\n【环球网报道】据美国哥伦比亚广播公司（CBS）、美国《纽约时报》等多家美媒报道，美国总统特朗普7日在其社交媒体平台发文，宣布立即解雇肯尼迪表演艺术中心董事会多名成员，并将任命自己为董事会主席。\n!\n[特朗普 资料图片 图自外媒](https://x0.ifengimg.com/res/2025/670F6B451D1EF6F2D5970F6CA240CA1AA82577F4_",
-      "source": "h5.ifeng.com",
-      "date": "2022-12-07T00:00:00Z"
-    },
-    {
-      "title": "唐納德·特朗普",
-      "url": "https://wiki.mbalib.com/zh-tw/Donald_Trump",
-      "snippet": "唐納德·特朗普（Donald Trump）是美國著名的房地產大亨和政治家，1946年出生於紐約，父親是德國移民後裔，母親是蘇格蘭人。他早年就讀於紐約軍事學院和賓夕法尼亞大學沃頓商學院，畢業後加入父親的房地產公司，從事房地產開發，成為美國最富有的房地產商之一。他以“讓美國再次偉大”為口號，2016年當選美國第45任總統，2020年敗給拜登，2024年再次當選總統，成為美國第47任總統。特朗普在商業上以獨特風格聞名，曾參與《飛黃騰達》真人秀，並通過各種方式擴大個人品牌。他還涉足賭場、航運、體育等行業，財富規模龐大。特朗普的房地產項目遍布全球，其名下企業如特朗普媒體科技集團價值39億美元。他還擁有海",
-      "source": "wiki.mbalib.com",
-      "date": "2026-01-01T00:00:00Z"
-    },
-    {
-      "title": "\"特朗普！特朗普！特朗普!\"——Trump! Trump! Trump!",
-      "url": "https://www.bilibili.com/read/mobile?id=36015258",
-      "snippet": "“特朗普！特朗普！特朗普！”——特朗普！特朗普！特朗普！  \n作者在烧烤架旁举杯致敬，称特朗普为自由荣耀之地的领导者，承诺保护美国免受外来威胁，创造就业，打击环保局，改善城市环境。歌词反复呼喊特朗普的名字，表达对其领导能力的信赖，认为他将建墙、整顿政府、击败恐怖主义，最终赢得总统桂冠，让美国再次伟大。全诗充满对特朗普的支持与赞美，强调其领导力和对国家的承诺。",
-      "source": "www.bilibili.com",
-      "date": "2022-06-14T00:00:00Z"
-    },
-    {
-      "title": "特朗普本 特朗普本人",
-      "url": "https://www.163.com/dy/article/JN0PNE7O0556124M.html",
-      "snippet": "特朗普本 特朗普本人\n在躲过了数次暗杀之后，特朗普在今年的1月20日成功就任美国总统。\n站在全球国家的角度上来说，这位第二次担任总统的知名商人，其最大的行为特征，就是较之于美国的建制派存在极大的不可预知性，蛮横霸道的同时，习惯于在政策上“想一出是一出”，直接导致在很多情况下，特朗普推出的看似对美国有益的举措，实则加速了美国的衰退。\n而在特朗普真正开启的第二个任期之后，外界普遍认为，特朗普的保守性和极端性将进一步加强，故而将这个状态下的特朗普称之为“特朗普2.0”，但令所有人都没料到的一点是，卷土重来的特朗普，这次居然玩得这么大，直接把主意打到了加密货币的身上。\n特朗普打开了潘多拉魔盒？",
-      "source": "www.163.com",
-      "date": "2025-01-28T00:00:00Z"
-    },
-    {
-      "title": "特朗普(Donald John Trump/川普) - 美国现任总统全名：唐纳德·约翰·特朗普 外号：懂王、代币$TRUMP、房产商生平、关税贸易战、让美国再次伟大！",
-      "url": "https://nav.congci.com/main/other/celebrities/donald-trump",
-      "snippet": "唐纳德·约翰·特朗普（Donald Trump），美国第47任总统，全名唐纳德·约翰·特朗普，外号“懂王”、代币$TRUMP，曾是房产商和媒体名人。他因在新冠疫情期间称“没人比我更懂病毒”而得名，擅长“虚空造牌、极限施压”。2024年总统大选前遭遇枪击，右侧耳朵受伤，但幸存，获得竞选能量。2025年1月20日就任总统，副总统为万斯。他主张制造业回流美国，发动中美贸易战，对全球实施对等关税。2025年2月，特朗普称泽连斯基为“独裁者”，引发争议。他还延长TikTok禁令，称中国黑市芬太尼导致美国药物过量死亡。特朗普被指亲俄通俄，其推特账号为@realDonaldTrump，公司为特朗普媒体科技集",
-      "source": "nav.congci.com",
-      "date": "2017-01-01T00:00:00Z"
-    },
-    {
-      "title": "“特朗普赦免特朗普”",
-      "url": "https://www.myzaker.com/article/6792fcdd1bc8e0bd3b000005",
-      "snippet": "特朗普在总统选举期间曾承诺在上任首日解决乌克兰危机，但至今未兑现。他一方面表示将与普京会面，另一方面威胁对俄制裁。俄罗斯强调解决危机需消除根源，泽连斯基则要求西方安全保障。特朗普幕僚承认其承诺是竞选手段，且对局势认识不足。此外，特朗普推行强硬移民政策，包括暂停难民计划、宣布边境紧急状态、终止出生公民权，引发广泛抗议。他成立“政府效率部”，但遭法律挑战。特朗普还赦免多名人士，被《纽约时报》称为“赦免特朗普”。其扩张领土计划及退出国际组织引发国际担忧。特朗普威胁对墨西哥、加拿大及欧洲加征关税，导致美国消费者面临商品涨价风险。网友吐槽特朗普上任后仍存在鸡蛋短缺等问题。",
-      "source": "www.myzaker.com",
-      "date": "2025-01-10T00:00:00Z"
-    },
-    {
-      "title": "今天特朗普，否定昨天特朗普",
-      "url": "http://finance.sina.com.cn/roll/2025-04-24/doc-ineuhpwr3359794.shtml",
-      "snippet": "特朗普是出了名的反复无常，出尔反尔。\n经常出现，今天的特朗普否定昨天的特朗普。\n人们经常调侃，昨天特朗普说的话，跟今天的特朗普有什么关系？\n最近特朗普就屡屡打脸自己。\n4月23日，特朗普在白宫被记者问及将多快下调对华关税时，特朗普声称，这将取决于中方的反应。\n特朗普这话意思是，他不会单方面主动降低关税。\n而就在前一天，特朗普在4月22日是当着记者的面说：“145%关税是非常高的。不会有那么高的……它将大幅下降，但不会是零。”\n特朗普显然这是又出尔反尔了。\n然后我看到有人说，媒体4月23日报道的《特朗普称美对华关税或将大幅下降》是假消息，说白宫今天出来辟谣了。\n但这种所谓辟谣的说法，是存在舆论陷",
-      "source": "finance.sina.com.cn",
-      "date": "2025-04-24T00:00:00Z"
-    },
-    {
-      "title": "特朗普讨好‘迷你版特朗普’",
-      "url": "https://news.sina.cn/gj/2016-10-12/detail-ifxwrapv1380614.d.html",
-      "snippet": "特朗普讨好“迷你版特朗普”\n!\n[](http://n.sinaimg.cn/sinacn/20170516/1212-fyfeutq0813373.jpg)\n新闻晨报\n原标题：特朗普讨好“迷你版特朗普”\n晨报记者 徐惠芬 综合报道\n对于美国共和党总统候选人特朗普来说，竞选活动中，除了绕不开女人这个话题，也总躲不开萌宝。\n10日晚他遇上了“迷你版特朗普”，一个穿着打扮模仿自己的小男孩。",
-      "source": "news.sina.cn",
-      "date": "2017-05-16T00:00:00Z"
-    },
-    {
-      "title": "特朗普 (特朗普政府)",
-      "url": "https://www.aisixiang.com/zhuanti/434.html",
-      "snippet": "唐纳德·特朗普（Donald Trump），又称“川普”，1946年6月14日出生于美国纽约，祖籍德国巴伐利亚自由州，毕业于宾夕法尼亚大学沃顿商学院，是德裔美国共和党籍政治家、企业家、房地产商人和电视人，曾担任第45任和第47任美国总统。特朗普政府时期，其政策主张以“美国优先”为核心，强调减少政府干预、降低税收、加强国家安全和推动贸易保护主义。特朗普在任期间推行了多项重大政策，包括退出《巴黎协定》、实施移民限制政策、推动美国与多国的贸易谈判等。此外，特朗普政府还加强了对国内能源产业的支持，推动页岩油和天然气的发展。特朗普的政策和言论在国内外引发了广泛争议，但也赢得了大量支持者的拥护。",
-      "source": "www.aisixiang.com",
-      "date": "2025-11-13T00:00:00Z"
-    },
-    {
-      "title": "特朗普的长子小特朗普",
-      "url": "https://news.sina.com.cn/w/zx/2017-07-17/doc-ifyiaewh9403883.shtml",
-      "snippet": "来源：海外网\n!\n[1500260683454271.jpg 特朗普的长子小特朗普](http://n.sinaimg.cn/translate/20170717/ZBvD-fyiavtv9041944.jpg) 特朗普的长子小特朗普\n特朗普的长子小特朗普海外网7月17日电 当地时间16日，美国总统唐纳德·特朗普的律师坚称，特朗普的长子小特朗普在去年的总统竞选期间与一名俄罗斯律师的会晤中，没有任何违法行为。\n美联社报道称，小特朗普希望与这名律师会面，以获取民主党候选人希拉里·克林顿的犯罪信息，这引出了关于特朗普竞选团队可能与俄罗斯串通的新问题。",
-      "source": "news.sina.com.cn",
-      "date": "2017-07-17T00:00:00Z"
-    },
-    {
-      "title": "特朗普来了，特朗普看到了，特朗普拿到了……",
-      "url": "https://www.thepaper.cn/newsDetail_forward_3558581",
-      "snippet": "先说个花絮。\n时间要回到5月25日，特朗普当日下午在东京都内的美国大使公邸出席与日本企业经营者的聚会。\n据共同社报道，特朗普考虑到对日贸易逆差，称“希望（日本努力）实现更公平一些的贸易关系”。\n而时事通讯则报道了特朗普和出席聚会的丰田汽车社长丰田章男打招呼并称“没有人能超越你的成就”。\n需要介绍的背景是，在特朗普发言说日本出口的汽车威胁到美国国家安全后，丰田发表声明明确怼了特朗普一下。\n其后的特朗普与安倍正式会谈中，也提到了中国贸易问题。",
-      "source": "www.thepaper.cn",
-      "date": "2019-05-29T00:00:00Z"
-    },
-    {
-      "title": "唐纳德·特朗普",
-      "url": "https://wiki.mbalib.com/wiki/%E5%94%90%E7%BA%B3%E5%B7%9D%E6%99%AE",
-      "snippet": "唐纳德·特朗普（Donald Trump）出生于1946年，是美国著名房地产商、政治家，曾多次竞选总统，2016年当选美国第45任总统，2024年再次当选，成为美国第47任总统。他以房地产起家，凭借敏锐商业嗅觉和果敢决策，在纽约等地打造众多标志性建筑，资产规模庞大。特朗普还涉足赌场、航运、体育、娱乐等行业，曾被称为“80年代的纽约之王”。他以“让美国再次伟大”为口号，推行贸易保护主义、加强边境管控等政策，引发全球关注。2020年败选后，他多次质疑选举结果，并面临多项法律诉讼。2024年再次当选总统后，其政治生涯充满争议。特朗普媒体科技集团是其最大资产，价值39亿美元，但2024年第三季度亏损1",
-      "source": "wiki.mbalib.com",
+      "title": "test",
+      "url": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/test",
+      "snippet": "test\nnoun [ C ]\nuk /test/ us /test/a way of discovering, by questions or practical activities, what someone knows, or what someone or something can do or is like\nB1\n試驗\nThe new missiles are currently undergoing tests.\n新導彈目前正在進行試驗。\n- We're revising algebra for the test tomorrow.\n- She scored 18 out of",
+      "source": "dictionary.cambridge.org",
       "date": "2024-01-01T00:00:00Z"
     },
     {
-      "title": "介绍",
-      "url": "http://www.test.maoyan.com/films/celebrity/25785",
-      "snippet": "唐纳德·特朗普（1946年6月14日-），出生于美国纽约，祖籍德国巴伐利亚，德裔美国人，第45任美国总统（2017-2021）。他毕业于宾夕法尼亚大学沃顿商学院，后继承父亲的房地产公司，逐步扩展至多个行业。2016年当选总统，2020年败选。执政期间，推行减税、强硬贸易政策、加强军事外交、放松金融监管等措施，税改为其主要政绩。2021年遭国会弹劾，指控其“煽动叛乱”，后提起诉讼并获法院批准暂停交出相关文件。2023年8月，特朗普因涉嫌国会山骚乱自首并获保释。他亦是演员，参演多部影视作品，曾获多项提名。",
-      "source": "www.test.maoyan.com",
-      "date": "2016-01-01T00:00:00Z"
+      "title": "test test",
+      "url": "https://cn.bing.com/search?q=test%20test",
+      "snippet": "Title: test test",
+      "source": "cn.bing.com",
+      "date": ""
     },
     {
-      "title": "美国总统特朗普(Donald Trump) - 美国",
-      "url": "http://marketmatrix.net/topic/trump.htm",
-      "snippet": "|\n特朗普\n特朗普(Donald Trump)，1946年6月出生于美国纽约，是第45任、47任美国总统。\n他毕业于宾夕法尼亚大学沃顿商学院，进入家族房地产企业后逐渐建立起商业帝国，投资涉及多个领域。\n特朗普曾是民主党人，后加入共和党，2016年当选总统。\n任内奉行“美国优先”政策，在减税、贸易政策等方面有较大动作，也退出多个国际组织和条约。\n他分别于2019年和2021年遭到美国国会两次弹劾。\n2021年离开白宫后，2022年宣布参加2024年总统大选，历经波折，2024年11月宣布在大选中获胜，2025年1月20日就任第47任美国总统。 |",
-      "source": "marketmatrix.net",
-      "date": "2016-01-01T00:00:00Z"
+      "title": "Test Test Test",
+      "url": "https://gamermatters.com/a-space-for-the-unbound-devs-release-new-game-and-its-free/",
+      "snippet": "At the Toge Productions 15th Anniversary Direct, the publisher announced a new game by Mojiken Studios (the team behind A Space For The Unbound).\nAnd it’s out now.\nAnd it’s free.\nCalled Test Test Test (stylised as “TEST TEST TEST”), the game is a point-and-click puzzle adventure about an overworked ",
+      "source": "gamermatters.com",
+      "date": ""
     },
     {
-      "title": "特朗普：美国第45任总统",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NzAzMDcwNg==&mid=2653478891&idx=2&sn=c810977982afaa9854deb410cd40f924&chksm=84844bb6b3f3c2a018fa8a0a67f4e0bd75fc9813025a9b18c32d46c173770ab854334ac77369&scene=27",
-      "snippet": "唐纳德·特朗普是美国第45任总统，出生于1946年6月14日，是美国著名的商人、主持人和作家。他于2016年11月9日当选美国总统，击败了民主党候选人希拉里·克林顿。特朗普早年从事房地产事业，1975年以1000万美元购入纽约中央火车站附近的旅馆，1980年建成“凯悦大饭店”，成为其房地产事业的重要里程碑。他曾在1990年代初期因房地产不景气而负债，但后来重新活跃于多个领域。特朗普以“暴发户”、“娴熟作家”和“演艺界明星”等标签闻名，其自传《做生意的艺术》畅销全球。他主持过真人秀节目《飞黄腾达》，并参与多部影视作品。特朗普重视中美合作，认为中美关系对全球至关重要，期待其上台后能推动两国关系发展",
-      "source": "mp.weixin.qq.com",
-      "date": "2016-11-09T00:00:00Z"
+      "title": "Test Test Test By 3Projects -- MusicBrainz",
+      "url": "https://musicbrainz.org/recording/e5d60592-0251-4acb-b112-5f04b6d7006f",
+      "snippet": "《Test Test Test》是由3Projects发行的音乐作品，时长3分58秒。该作品属于专辑《Selfie | Demos》，由音乐数据库MusicBrainz收录。艺术家名称为3Projects，类型为个人。专辑于2025年6月6日发行，语言为德语，使用拉丁字母，全球发行。作品格式为数字媒体，包含一首名为《Test Test Test》的曲目。该专辑为官方发行，由艺术家及其唱片公司正式授权。",
+      "source": "musicbrainz.org",
+      "date": "2025-06-06T00:00:00Z"
     },
     {
-      "title": "特朗普来了？哪个特朗普？",
-      "url": "https://m.jiemian.com/article/1949047.html",
-      "snippet": "作者：徐乾昂\n“特朗普到了！你收到邀请了吗？”“特朗普来了！你也来吗？”\n这几天，印度各大报纸的头版，几乎都被小特朗普（Donald Trump Jr.）抵达新德里的消息买断了。\n实际上，这都是美国总统特朗普的长子小特朗普，为销售楼盘特朗普大厦（Trump Tower），替特朗普集团（the Trump Organization）打的广告。\n听上去有些拗口，面对这么多“特朗普”，印度人似乎已经晕了。\n但在一些美国媒体眼里，这是再清楚不过的事：“太子假借总统之名牟利，在海外卖楼”。\n不过，这个看似“违宪”、实则合法的商业行为，只能让反对一方从“道德”角度去抨击。\n特朗普来了？\n哪个特朗普？\n综合",
-      "source": "m.jiemian.com",
-      "date": "2018-02-21T00:00:00Z"
+      "title": "定义 Test",
+      "url": "https://www.gymglish.com/zh/gymglish/english-translation/test",
+      "snippet": "定义\nan (English) test: （英语）测试，考试\nto pass a test 通过考试\na (sound) test: （声音）测试\na (blood) test: （血液）分析，检验\nto test: 试验，尝试，测试，分析\n- \"Bruno : Testing, testing, 1,2, check.\"\n- \"Brian : The initiation test, great guru.\"\n- \"No test?\"\n- \"Delavigne Corp, already considered a maverick in the cosmetics industry for",
+      "source": "www.gymglish.com",
+      "date": "2024-01-01T00:00:00Z"
+    },
+    {
+      "title": "test [tɛst]",
+      "url": "https://dict.youdao.com/fr/test/",
+      "snippet": "测试（test）指各种类型的检验或试验，如妊娠试验、测试命令、分析工具、普通测验、颈动脉压迫试验、共凝集试验、界面测试等。WordNet 提供了这些术语的英文及中文解释。例如，“test”可指考试、试验等；“Test de grossesse”是妊娠试验；“GRE General Test”是一般能力测试。此外，还有“Pour test”指倒酒测试，“SA-test”是共凝集试验等。文中还提到，根据某人想法，第二天将是一次考验；面对市场考验，北京高档灰板生产企业已形成。当人们进行测试时，脑额叶区域被激活。这些内容均来源于 WordNet。",
+      "source": "dict.youdao.com",
+      "date": "2026-01-01T00:00:00Z"
+    },
+    {
+      "title": "test 英 [test] 美 [test]",
+      "url": "http://www.pictureenglish.fun/words/detail/test/",
+      "snippet": "test ★ / test ; NAmE test / noun , verb test tests tested testing noun ★ of knowledge/ability 知识；能力 1 ★ an examination of sb's knowledge or ability, consisting of questions for them to answer or activities for them to perform 测验；考查 ◆ an IQ/intelligence/aptitude test 智商╱智力╱能力倾向测验 ◆ to take a test 参加测",
+      "source": "www.pictureenglish.fun",
+      "date": "2024-01-01T00:00:00Z"
+    },
+    {
+      "title": "test इन हिंदी",
+      "url": "https://www.hindlish.in/test/test-meaning-in-hindi-english",
+      "snippet": "测试指对某事物进行检验的行为，如在实验中测量碳含量，或称硬币每次翻转为一次试验。测试也可指经受考验，如在战斗中生存下来，或选手展示技能。测试是一种标准化程序，用于测量敏感性、记忆力、智力等，如测试基于大量学生样本。测试还可指某些原生动物或海胆的坚硬外层。测试也指尝试以了解某事物，如免费试用期或孕酮试验未缓解疼痛。测试也可指评估技能或知识的题目，如测试被偷后需重新出题。测试指考试，如每周测试学生。测试指检查知识，如法语不规则动词测试。测试指确定物质的存在或性质，如测试LSAT成绩高而被录取。测试指检验质量或实验使用，如该方法试验效果良好。测试指检测疾病或感染，如检测血液中的HIV病毒。测试指测试",
+      "source": "www.hindlish.in",
+      "date": ""
+    },
+    {
+      "title": "TEST",
+      "url": "https://slovar-vocab.com/english/longman-vocab/test-6945578.html",
+      "snippet": "测试（test）是名词，指用于衡量技能、知识或能力的考试，如考试内容、考试结果等。也可指医学检查，如血液检查、听力检查等。此外，测试也可指机器或产品的测试过程，或对某人某物的考验，如性格、勇气等的考验。测试也可作为动词，指检查某人或某物的健康状况、检测物质成分、测试知识或能力、测试机器或产品是否正常运作，或通过困难情况来检验某人或某物的品质。测试还可用于检验想法或计划是否有效。测试与检查、检验、检查等词有相似含义，但测试更强调通过实践或困难情况来验证。",
+      "source": "slovar-vocab.com",
+      "date": "2024-01-01T00:00:00Z"
+    },
+    {
+      "title": "test是什么意思？test固定搭配走一波！",
+      "url": "https://www.e2say.com/articles/1872/",
+      "snippet": "如果你总是发烧的话，你需要做一个血液检查。\n2.test （英史）宣誓,就职宣誓\nEg：Jaden take the test when he entered the embassy.\n杰登在他进入大使馆的时候做了一个就职宣誓。\n3.test 试验，化验\nEg：He has passed a strength test before you came in.\n在你进来之前，他已经通过了强度的试验。\n4.test （软体动物类的）甲壳\nEg：The test also has a characteristic appearance.",
+      "source": "www.e2say.com",
+      "date": "2018-03-06T00:00:00Z"
+    },
+    {
+      "title": "test noun - Definition, pictures, pronunciation and usage notes",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/american_english/test_1",
+      "snippet": "测试（test）是用于评估某人知识或能力的考试，包括回答问题或进行活动。测试可用于评估智力、能力等，如智商测试。测试可以是正式或非正式的，如考试（exam）通常指正式的书面、口语或实践测试，而测试（test）则用于检查学习成果。短而随意的测试称为测验（quiz）。测试也可用于医学检查，如验血、验尿等，或用于实验，如实验室测试、核试验等。测试也可指一种情况或事件，用来检验某人或某物的品质，如选举是检验政府受欢迎程度的测试。测试还可用于证明某事物的可靠性，如经得起时间考验。",
+      "source": "www.oxfordlearnersdictionaries.com",
+      "date": "2024-01-01T00:00:00Z"
+    },
+    {
+      "title": "test 纠错 英 [test] 美 [test]",
+      "url": "http://m.youdao.com/dict?le=eng&q=test",
+      "snippet": "测试（test）是名词，指书面或口头的测验、考试；医疗检查、化验、检验；对机器、武器等的试验；对水、土壤、空气等的检测；衡量能力或技能的测试；医疗检查设备；化验结果；国际锦标赛；准则、标准；烤钵、灰皿；某些无脊椎动物和原生动物的甲壳。动词test意为试验、测试；测验、考查；检测、检验；检查身体；化验；考验；尝、试。复数形式为tests，第三人称单数为tests，现在分词为testing，过去式和过去分词均为tested。柯林斯英汉双解大辞典提供了详细的英英释义、专业释义、网络释义及同根词、同近义词等信息。",
+      "source": "m.youdao.com",
+      "date": "2015-01-01T00:00:00Z"
+    },
+    {
+      "title": "test是什么意思",
+      "url": "https://hz.xhd.cn/ycwz/918529.html",
+      "snippet": "test\n英 [test] 美 [test]\nn.\n测验;考查;(医疗上的)检查，化验，检验;试验;测试;检验\nv.\n测验;考查;试验;检查;化验;检验;测试;考验\n第三人称单数： tests复数： tests现在分词： testing过去式： tested过去分词： tested\n例句\nWhen can I get my test results?\n我什么时候可以拿到化验结果？\nTest the heat of the water before getting in.\n入水之前先试一试水温。\nAn accurate diagnosis was made after a series of t",
+      "source": "hz.xhd.cn",
+      "date": "2022-06-28T00:00:00Z"
+    },
+    {
+      "title": "Test",
+      "url": "http://www.enmama.net/_a_en/48849.php",
+      "snippet": "测试（test）指对某物进行检验的行为，如在实验中测量碳含量，或每次抛硬币视为一次试验。测试也可指经受检验的过程，如在战斗中经受考验。测试还可指标准化程序，用于测量敏感性、记忆力、智力等。测试还可指某些原生动物的坚硬外壳。测试也可作动词，表示经受测试，如“她测试成绩不错”。测试还可指通过实验使用某物，如“这种方法试验效果良好”。测试还可指测试后显示某种特性，如“他HIV检测呈阳性”。测试还可指坩埚，用于提炼贵金属，或通过坩埚进行的检验。测试还可指用于辨别物质的试剂，或标准。测试还可指判断、区分等。测试还可指用于识别物质的反应，如硫酸的检测。测试还可指见证，或遗嘱。测试还可指试纸、试板、试管等。",
+      "source": "www.enmama.net",
+      "date": "2018-01-01T00:00:00Z"
+    },
+    {
+      "title": "Test-T",
+      "url": "https://cn.bing.com/dict/test-t",
+      "snippet": "测试（Test-T）是检验的一种，用于检测特定指标，如睾丸素。在医学检验中，睾丸素检测是常见的项目之一。测试的出发点是设定的温度标准与实际温度之间的差异，若不符，恒温器将启动运行。测试在不同领域有不同应用，如统计学中的t检验、软件开发中的测试阶段等。测试方法包括描述性统计分析、卡方检验、t检验等。测试在环境试验中也用于评估材料性能，如锡焊测试。测试是数据分析和改进的重要手段，常用于研究和实际应用中。",
+      "source": "cn.bing.com",
+      "date": "2025-01-01T00:00:00Z"
+    },
+    {
+      "title": "Definition of TESTS",
+      "url": "https://www.merriam-webster.com/dictionary/tests",
+      "snippet": "测试（TESTS）的定义：测试是一种检验手段，用于测量个人或群体的技能、知识、智力、能力或天赋；也指用于识别或表征物质或成分的试验、反应或试剂。测试也可指对某事物进行严格检验、观察或评估的过程，特别是用于验证或反驳陈述的程序。测试还可指评价的标准或依据，或作为信仰证明的考验。测试结果或值是通过测试确定的。测试可表示已测试、正在测试或已测试的状态。测试也可指通过测试来分析或诊断的过程，如用于机械能力测试。测试性（testability）是可测试的性质，测试性（testable）是可测试的形容词。",
+      "source": "www.merriam-webster.com",
+      "date": "2024-08-05T00:00:00Z"
+    },
+    {
+      "title": "test - Weblio 英和・和英辞典",
+      "url": "https://ejje.weblio.jp/content/test",
+      "snippet": "“test”是Weblio英和・和英辞典中的词条，含义为“（能力などをためす）試験、検査、実験、ためすもの、試金石、試験の手段、試験、分析、鑑識”。其用法包括“筆記試験”、“ペーパーテスト”等。此外，还列出了“test”的学习水平，如英検3級以上、中学以上水平、TOEIC® L&Rスコア220点以上等。该词条包含32495个例文，如“a pathological test”（病理テスト）、“a sedimentation test”（血沈検査）、“a subjective test”（主観テスト）等。最后注明“test”页面的版权信息及信息提供来源。",
+      "source": "ejje.weblio.jp",
+      "date": "2025-09-29T00:00:00Z"
+    },
+    {
+      "title": "Traduction : test - Dictionnaire anglais-français Larousse",
+      "url": "https://www.larousse.fr/dictionnaires/anglais-francais/test/617805",
+      "snippet": "《 Larousse 英法词典》中的“test”词条解释如下：test 为名词，意为考试、测试。在教育领域，test 可指考试、测验，如“pass a test”意为通过考试；在医学领域，test 可指血液、尿液检测，如“blood test”为血液检测；在科技领域，test 可指测试、试验，如“carry out tests on something”意为对某物进行测试；在性格、耐力方面，test 意为考验，如“put somebody to the test”意为考验某人。此外，test 还可指试用、试驾、试用新产品等。词条还包含多种用法和例句，如“test for salmonella”",
+      "source": "www.larousse.fr",
+      "date": "2025-03-25T00:00:00Z"
+    },
+    {
+      "title": "test की परिभाषा",
+      "url": "https://www.collinsdictionary.com/hi/dictionary/english/test",
+      "snippet": "“test”的定义是指尝试某物，例如通过触摸或短期使用，以了解其性质、状况或工作效果。它也可指故意使某人面临困难以观察其反应。此外，“test”还可作为名词，指对人或事物的考验，揭示其品质或效能。当某人接受测试时，通常会进行检查或程序以确定是否患有某种疾病或状况。测试可为可数名词，通常为单数。常见搭配包括“acid test”（酸性测试）、“breath test”（吹气测试）、“litmus test”（试纸测试）、“means test”（标准测试）等。 Collins COBUILD 高级学习者词典提供此定义。",
+      "source": "www.collinsdictionary.com",
+      "date": "2020-02-13T00:00:00Z"
+    },
+    {
+      "title": "test中文",
+      "url": "https://tw.ichacha.net/m/test.html",
+      "snippet": "test作名詞，意為檢驗、檢查、考查、測驗、考試、考驗。還可指檢驗用品、試金石、化學試藥或判斷標準。在化學中，test指化驗或檢查結果，冶金中指灰皿、烤缽、提銀盤。例句如：你什麼時候參加駕駛考試？這是一個右側檢驗。經得起這種考驗的書不多。試驗載荷作用於梁上。test作動詞，意為經受檢驗、測試，如：他經受了戰爭的考驗；考生必須參加技能測試。test也可指標準化測試，如智力測試、心理測試。此外，test還可用於測試某物質的性質，如測試HIV結果為陽性。test還可指試用、試驗，如試用孕酮未緩解疼痛。test還可指測試某人知識，如老師每周測驗我們。test還可指測試某物質是否存在疾病或感染，如篩查H",
+      "source": "tw.ichacha.net",
+      "date": "2023-01-01T00:00:00Z"
+    },
+    {
+      "title": "Shop",
+      "url": "http://www.blublu.in/shop/",
+      "snippet": "Test, TEST or Tester may refer to: Test (assessment), an assessment intended to measure the respondents’ knowledge or other abilities; Medical test, to detect, diagnose, or monitor diseases.\nContents.\n[hide].\n1 Science and technology; 2 Arts and media; 3 People; 4 Other uses; 5 See also.\nScience and",
+      "source": "www.blublu.in",
+      "date": "2024-09-05T00:00:00Z"
+    },
+    {
+      "title": "TEST(TEST)",
+      "url": "https://xueqiu.com/S/TEST/208459265",
+      "snippet": "首页\nTEST(TEST)\n()\n发布于\n2022-01-10 10:37\n来自雪球\n来源：雪球App，作者： TEST(TEST)，（https://xueqiu.com/-1/208459265）\n【异动】\n$新海能源(00342)$\n10:37盘中大涨13.46%，现价0.06港元",
+      "source": "xueqiu.com",
+      "date": "2022-01-10T00:00:00Z"
+    },
+    {
+      "title": "test1 noun - Definition, pictures, pronunciation and usage notes",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/academic/test1",
+      "snippet": "本文介绍了“test”的多种含义和用法。作为名词，test指测试、试验或检查，用于评估某物的性能或可靠性，如材料的抗冲击性测试，或化学中鉴定物质的测试。在医学中，test指体检，如血液检测、甲状腺检测等。作为动词，test表示测试、检验，如进行动物实验、完成血液检测等。此外，test也可指考试，用于评估知识或能力，如智力测试、语言测试等。在法律领域，test指测试案例，其结果可作为类似案件的参考。test还可指考验，如压力事件对关系的考验。文中还列举了test的常见搭配和短语，如“test for something”、“test on somebody”等，并提供了多个例句说明其用法。",
+      "source": "www.oxfordlearnersdictionaries.com",
+      "date": "2026-01-01T00:00:00Z"
+    },
+    {
+      "title": "tests",
+      "url": "https://dict.cn/big5/tests",
+      "snippet": "test是英文詞，意為考驗、試驗、測試。其詞典釋義包括：檢驗、化驗、試驗；考驗；測驗、小考、考試；檢驗標準、化驗法；化驗劑、檢驗用品；考察、考查、檢查；試金石；甲殼；介殼；種皮；試藥等。test作動詞時，意為測驗、考查、檢查、檢驗，如put to the test（使…經受考驗），stand the test（經受考驗），test for（為鑒定…而測試）等。test常用短語有put to a test、stand the test、test for、test on、test out、test with等。test的用法包括測驗知識、測試能力、化驗疾病等。test的搭配有give a test",
+      "source": "dict.cn",
+      "date": "2003-01-01T00:00:00Z"
+    },
+    {
+      "title": "test(Test（測試）)",
+      "url": "https://www.newton.com.tw/wiki/test/10804268",
+      "snippet": "“test”意為測試，常見於中學課本，如English test、Chinese test等。在軟體中，test用於檢測軟體質量。該詞為名詞，可作動詞，翻譯為測驗、試驗等。test還可用於摔角、Linux命令、測試命令、測試用例、TDD（測試驅動開發）、T檢驗、Z檢驗、顯著性檢驗、獨立性檢驗等多種語境。此外，還有J.TEST考試、AV-TEST測試、OEKO-TEST測試、Turing測試等專門測試類型。test在不同領域有不同應用，但核心意義均為測試。",
+      "source": "www.newton.com.tw",
+      "date": "1996-01-01T00:00:00Z"
     }
   ]
 }
