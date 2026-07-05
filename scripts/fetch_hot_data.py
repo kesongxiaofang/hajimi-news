@@ -17,17 +17,17 @@ import urllib.parse
 import re
 from datetime import datetime
 
-# Platform site mappings (for site: search)
+# Platform site mappings for search source filter (matches frontend ALLOWED_SOURCES)
 PLATFORM_SITES = {
     "weibo": "weibo.com",
     "zhihu": "zhihu.com",
     "douyin": "douyin.com",
     "bilibili": "bilibili.com",
     "xiaohongshu": "xiaohongshu.com",
-    "kuaishou": "kuaishou.com",
-    "baidu": "baidu.com",
     "toutiao": "toutiao.com",
     "thepaper": "thepaper.cn",
+    "douban": "douban.com",
+    "ifeng": "ifeng.com",
 }
 
 # Reverse mapping (domain -> platform)
@@ -165,7 +165,66 @@ def search_duckduckgo_site(query, site_domain, max_results=30):
         return []
 
 
-def check_search_cache(query, time_range="", sort_by=""):
+def search_bing_site(query, site_domain, max_results=10):
+    """Search via Bing HTML API with site: operator.
+    
+    Bing is often better than DuckDuckGo for Chinese websites.
+    """
+    print(f"    [Bing] Searching site:{site_domain} for '{query}'...")
+    try:
+        site_query = f"site:{site_domain} {query}"
+        url = f'https://www.bing.com/search?q={urllib.parse.quote(site_query)}&count={max_results}&setmkt=en-US&setlang=en'
+        
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        }
+        
+        html = fetch_url(url, timeout=15, headers=headers).decode('utf-8', errors='ignore')
+        
+        results = []
+        
+        # Bing results are in <li class="b_algo">
+        result_pattern = r'<li class="b_algo"[^>]*>(.*?)</li>'
+        result_blocks = re.findall(result_pattern, html, re.DOTALL)
+        
+        for block in result_blocks[:max_results]:
+            # Extract title and URL from <h2><a href="...">...</a></h2>
+            title_match = re.search(r'<h2[^>]*>.*?<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>.*?</h2>', block, re.DOTALL)
+            # Extract snippet from <div class="b_caption">
+            snippet_match = re.search(r'<div class="b_caption"[^>]*>(.*?)</div>', block, re.DOTALL)
+            # Extract URL from <div class="b_attribution">
+            url_match = re.search(r'<div class="b_attribution"[^>]*>.*?<cite[^>]*>(.*?)</cite>.*?</div>', block, re.DOTALL)
+            
+            if title_match:
+                title_url = title_match.group(1).strip()
+                title = re.sub(r'<[^>]+>', '', title_match.group(2)).strip()
+                
+                # Skip Bing internal links and ads
+                if not title_url.startswith('http'):
+                    # Sometimes Bing uses relative URLs or cached URLs
+                    continue
+                
+                snippet = ""
+                if snippet_match:
+                    snippet = re.sub(r'<[^>]+>', '', snippet_match.group(1)).strip()
+                
+                results.append({
+                    "title": title,
+                    "url": title_url,
+                    "snippet": snippet[:300],
+                    "source": site_domain,
+                    "date": "",
+                    "search_source": "Bing"
+                })
+        
+        print(f"    [Bing] Found {len(results)} results from {site_domain}")
+        return results
+        
+    except Exception as e:
+        print(f"    [Bing] Error for {site_domain}: {e}")
+        return []
     """Check if we have cached results for this query."""
     if not os.path.exists(CACHE_FILE):
         return None
@@ -226,13 +285,16 @@ def save_search_cache(query, time_range, sort_by, results, count):
 
 
 def do_search(query, site=None, time_range="", sort_by=""):
-    """Enhanced multi-source search.
+    """Enhanced multi-source search optimized for the 9 main platforms.
     
     Strategy:
     1. Check cache first
-    2. Search uapis.cn (primary source)
-    3. For each platform, search via DuckDuckGo site: operator
-    4. Aggregate and deduplicate
+    2. Search uapis.cn general (25 results)
+    3. Search uapis.cn for EACH of the 9 platforms (up to 25 each)
+    4. Use Bing/DuckDuckGo as fallback for platforms with few results
+    5. Aggregate and deduplicate
+    
+    This maximizes results from the 9 platforms that appear in frontend filters.
     """
     print(f"\n  🔍 Enhanced search: {query}")
     if time_range:
@@ -250,27 +312,27 @@ def do_search(query, site=None, time_range="", sort_by=""):
     all_items = []
     seen_urls = set()
     
-    # Step 1: Search uapis.cn
-    print(f"\n  Step 1: Searching uapis.cn...")
-    uapis_results = search_uapis(query, site, time_range)
+    # Step 1: Search uapis.cn general
+    print(f"\n  Step 1: Searching uapis.cn (general)...")
+    uapis_results = search_uapis(query, site=None, time_range=time_range)
     for item in uapis_results:
         url = item.get('url', '')
         if url and url not in seen_urls:
             seen_urls.add(url)
             all_items.append(item)
     
-    print(f"  After uapis.cn: {len(all_items)} unique results")
+    print(f"  After uapis.cn general: {len(all_items)} unique results")
     
-    # Step 2: Search each platform via DuckDuckGo site: operator
-    if len(all_items) < 100:  # Only if we need more results
-        print(f"\n  Step 2: Searching each platform via DuckDuckGo...")
+    # Step 2: Search each platform via uapis.cn site-specific search
+    if len(all_items) < 300:  # Always try to get more platform-specific results
+        print(f"\n  Step 2: Searching uapis.cn for each platform (site-specific)...")
         
         # Determine which platforms to search
         if site:
-            # Search only specified platform
+            # Search only specified platform(s)
             platforms_to_search = [s.strip() for s in site.split(",")]
         else:
-            # Search all 9 platforms
+            # Search all 9 platforms (matching frontend filters)
             platforms_to_search = list(PLATFORM_SITES.keys())
         
         print(f"  Will search {len(platforms_to_search)} platforms...")
@@ -283,32 +345,61 @@ def do_search(query, site=None, time_range="", sort_by=""):
             site_domain = PLATFORM_SITES[platform]
             
             # Check if we already have enough results
-            if len(all_items) >= 200:
-                print(f"  Already have {len(all_items)} results, skipping remaining platforms")
+            if len(all_items) >= 300:
+                print(f"  Already have {len(all_items)} results, stopping")
                 break
             
-            # Be polite: delay between requests
+            # Delay between requests to avoid rate limiting
             if i > 0:
-                time.sleep(3)
+                time.sleep(2)
             
             try:
-                ddg_results = search_duckduckgo_site(query, site_domain, max_results=30)
-                for item in ddg_results:
+                # Search uapis.cn with site parameter
+                platform_results = search_uapis(query, site=site_domain, time_range=time_range)
+                
+                added_for_platform = 0
+                for item in platform_results:
                     url = item.get('url', '')
                     if url and url not in seen_urls:
                         seen_urls.add(url)
+                        # Ensure source is the platform domain for frontend matching
+                        item['source'] = site_domain
+                        item['search_source'] = 'uapis.cn (site-specific)'
                         all_items.append(item)
+                        added_for_platform += 1
                 
-                print(f"  Progress: {len(all_items)} total results after {platform}")
+                print(f"  [{platform}] Added {added_for_platform} results (total: {len(all_items)})")
+                
+                # Fallback: If uapis.cn returned few results for this platform, try Bing/DuckDuckGo
+                if added_for_platform < 3:
+                    time.sleep(1.5)
+                    try:
+                        bing_results = search_bing_site(query, site_domain, max_results=10)
+                        for item in bing_results:
+                            url = item.get('url', '')
+                            if url and url not in seen_urls:
+                                seen_urls.add(url)
+                                all_items.append(item)
+                        
+                        if len(bing_results) < 3:
+                            time.sleep(1)
+                            ddg_results = search_duckduckgo_site(query, site_domain, max_results=10)
+                            for item in ddg_results:
+                                url = item.get('url', '')
+                                if url and url not in seen_urls:
+                                    seen_urls.add(url)
+                                    all_items.append(item)
+                    except Exception as e:
+                        print(f"  Fallback search error for {platform}: {e}")
                 
             except Exception as e:
                 print(f"  Error searching {platform}: {e}")
                 continue
         
-        print(f"\n  After DuckDuckGo site: search: {len(all_items)} unique results")
+        print(f"\n  After platform-specific search: {len(all_items)} unique results")
     
     # Step 3: Sort by date (newest first)
-    print(f"\n  Step 3: Sorting results...")
+    print(f"\n  Step 3: Sorting results by date...")
     all_items.sort(key=lambda x: parse_date(x.get("date", "")), reverse=True)
     
     # Step 4: Save results
@@ -321,7 +412,7 @@ def do_search(query, site=None, time_range="", sort_by=""):
         "update_time": now,
         "count": len(all_items),
         "results": all_items[:300],  # Cap at 300 results
-        "search_sources": ["uapis.cn", "DuckDuckGo"],
+        "search_sources": ["uapis.cn", "uapis.cn (site-specific)", "Bing", "DuckDuckGo"],
         "platforms_searched": list(PLATFORM_SITES.keys())
     }
     
