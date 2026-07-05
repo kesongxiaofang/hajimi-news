@@ -96,24 +96,23 @@ async function dispatchWorkflow(searchQuery) {
 }
 
 async function pollSearchResults(maxAttempts = 15, intervalMs = 4000) {
+  // 加时间戳防止 CDN/浏览器缓存旧结果
   const url = `data/search-results.json`;
 
   for (let i = 0; i < maxAttempts; i++) {
     await sleep(intervalMs);
     try {
-      const resp = await fetch(url, { cache: 'no-store' });
+      // 每次请求加随机参数，彻底绕过 CDN 缓存
+      const resp = await fetch(url + '?t=' + Date.now(), { cache: 'no-store' });
       if (resp.status === 200) {
         const data = await resp.json();
-        if (data && data.results && data.results.length > 0) {
-          // Check if the data is fresh (matches our query)
-          if (data.query === currentKeyword) {
-            return data;
-          }
-        }
-        // Results are empty or stale
-        if (data && data.count !== undefined) {
+        // 只有当 query 完全匹配当前搜索词时，才接受结果
+        // 这是防止旧搜索结果被当作新结果返回的关键检查
+        if (data && data.query === currentKeyword) {
           return data;
         }
+        // query 不匹配 -> 这是旧结果，继续轮询等待工作流完成
+        console.log(`轮询 ${i + 1}/${maxAttempts}: 收到旧结果(query="${data.query || 'unknown'}"), 等待新结果...`);
       }
       // 404 or other errors - results not ready yet
     } catch (e) {
