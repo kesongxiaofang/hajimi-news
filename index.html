@@ -72,8 +72,14 @@
       </div>
     </header>
 
+    <!-- Tab 切换栏 -->
+    <nav class="tab-bar">
+      <button class="tab-btn active" id="tabSearch">🔍 搜索</button>
+      <button class="tab-btn" id="tabHot">🔥 热榜</button>
+    </nav>
+
     <!-- 搜索区 -->
-    <section class="search-section">
+    <section class="search-section" id="searchSection">
       <!-- 装饰猫爪 -->
       <div class="deco-paw deco-paw-1">🐾</div>
       <div class="deco-paw deco-paw-2">🐾</div>
@@ -173,7 +179,7 @@
     </section>
 
     <!-- 结果区 -->
-    <main class="results-section">
+    <main class="results-section" id="searchSectionResults">
       <div class="results-container" id="resultsContainer">
         <!-- 初始状态 -->
         <div class="empty-state" id="emptyState">
@@ -225,6 +231,16 @@
           </div>
           <p class="empty-title">小猫在等你输入关键词~ 🐱</p>
           <p class="empty-hint">结果将同时从 9 个平台聚合呈现</p>
+        </div>
+      </div>
+    </main>
+
+    <!-- 热榜区 -->
+    <main class="results-section hot-section" id="hotSection" style="display:none">
+      <div class="results-container" id="hotResults">
+        <div class="hot-loading">
+          <div class="loading-spinner" style="border-color:#FFD70033;border-top-color:#FFD700"></div>
+          <p>🐱 点击"热榜"标签查看各平台热搜</p>
         </div>
       </div>
     </main>
