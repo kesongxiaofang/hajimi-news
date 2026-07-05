@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>哈基米新闻 🐱</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%23FFD700'/%3E%3Cstop offset='100%25' stop-color='%23FF8C00'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='16' cy='16' r='15' fill='url(%23g)'/%3E%3Cpath d='M10 12 Q16 6 22 12 L20 14 Q16 10 12 14 Z' fill='white' opacity='0.9'/%3E%3Ccircle cx='12' cy='15' r='2' fill='%231a1a2e'/%3E%3Ccircle cx='20' cy='15' r='2' fill='%231a1a2e'/%3E%3Cpath d='M13 19 Q16 22 19 19' stroke='%231a1a2e' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E"/>
+</head>
+<body>
+  <!-- 浮动猫爪背景 -->
+  <div class="floating-paws" id="floatingPaws"></div>
+
+  <div id="app">
+    <!-- 顶部栏 -->
+    <header class="header">
+      <div class="header-inner">
+        <div class="logo">
+          <!-- 金渐层猫咪 Logo -->
+          <svg width="36" height="36" viewBox="0 0 36 36" fill="none" class="logo-cat">
+            <defs>
+              <linearGradient id="catBodyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#FFE5B4"/>
+                <stop offset="40%" stop-color="#FFD700"/>
+                <stop offset="100%" stop-color="#FF8C00"/>
+              </linearGradient>
+              <linearGradient id="catEarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#FFD700"/>
+                <stop offset="100%" stop-color="#FF8C00"/>
+              </linearGradient>
+            </defs>
+            <!-- 耳朵 -->
+            <path d="M7 10 L11 4 L14 11 Z" fill="url(#catEarGrad)"/>
+            <path d="M22 11 L25 4 L29 10 Z" fill="url(#catEarGrad)"/>
+            <!-- 耳朵内 -->
+            <path d="M9 9 L11 6 L12.5 9.5 Z" fill="#FFB6C1" opacity="0.6"/>
+            <path d="M23.5 9.5 L25 6 L27 9 Z" fill="#FFB6C1" opacity="0.6"/>
+            <!-- 脸 -->
+            <ellipse cx="18" cy="18" rx="12" ry="11" fill="url(#catBodyGrad)"/>
+            <!-- 金渐层纹理 -->
+            <ellipse cx="14" cy="14" rx="2.5" ry="2" fill="#FFE5B4" opacity="0.5"/>
+            <ellipse cx="22" cy="14" rx="2.5" ry="2" fill="#FFE5B4" opacity="0.5"/>
+            <ellipse cx="18" cy="22" rx="3" ry="2.5" fill="#FFE5B4" opacity="0.3"/>
+            <!-- 眼睛 -->
+            <ellipse cx="13" cy="17" rx="2.2" ry="2.8" fill="#1a1a2e"/>
+            <ellipse cx="23" cy="17" rx="2.2" ry="2.8" fill="#1a1a2e"/>
+            <!-- 眼睛高光 -->
+            <circle cx="13.8" cy="16" r="0.9" fill="#4FC3F7"/>
+            <circle cx="23.8" cy="16" r="0.9" fill="#4FC3F7"/>
+            <circle cx="13.5" cy="16.3" r="0.4" fill="white"/>
+            <circle cx="23.5" cy="16.3" r="0.4" fill="white"/>
+            <!-- 鼻子 -->
+            <path d="M17 21 L18 22.5 L19 21 Z" fill="#FF69B4"/>
+            <!-- 嘴 -->
+            <path d="M18 22.5 Q16 24.5 14.5 23.5" stroke="#1a1a2e" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <path d="M18 22.5 Q20 24.5 21.5 23.5" stroke="#1a1a2e" stroke-width="1" fill="none" stroke-linecap="round"/>
+            <!-- 胡须 -->
+            <line x1="6" y1="19" x2="11" y2="19.5" stroke="#8a7a4e" stroke-width="0.6"/>
+            <line x1="6" y1="21" x2="11" y2="21" stroke="#8a7a4e" stroke-width="0.6"/>
+            <line x1="25" y1="19.5" x2="30" y2="19" stroke="#8a7a4e" stroke-width="0.6"/>
+            <line x1="25" y1="21" x2="30" y2="21" stroke="#8a7a4e" stroke-width="0.6"/>
+          </svg>
+          <span class="logo-text">哈基米新闻</span>
+          <span class="logo-cat-emoji">🐱</span>
+        </div>
+        <div class="header-stats" id="headerStats">
+          <span class="stat-item" id="serverStatus">🟡 检测中...</span>
+          <span class="stat-item"><span class="stat-dot dot-online"></span>9 个平台</span>
+          <span class="stat-item" id="lastUpdate">--</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- 搜索区 -->
+    <section class="search-section">
+      <!-- 装饰猫爪 -->
+      <div class="deco-paw deco-paw-1">🐾</div>
+      <div class="deco-paw deco-paw-2">🐾</div>
+      <div class="deco-paw deco-paw-3">🐾</div>
+      
+      <div class="search-container">
+        <!-- 猫咪吉祥物 -->
+        <div class="mascot-cat">
+          <svg width="100" height="90" viewBox="0 0 100 90" fill="none">
+            <defs>
+              <linearGradient id="mascotGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#FFE5B4"/>
+                <stop offset="40%" stop-color="#FFD700"/>
+                <stop offset="100%" stop-color="#FF8C00"/>
+              </linearGradient>
+              <linearGradient id="mascotEarG" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#FFD700"/>
+                <stop offset="100%" stop-color="#FF8C00"/>
+              </linearGradient>
+            </defs>
+            <!-- 尾巴 -->
+            <path d="M82 55 Q92 40 88 28 Q85 20 78 22" stroke="url(#mascotGrad)" stroke-width="5" fill="none" stroke-linecap="round"/>
+            <!-- 身体 -->
+            <ellipse cx="50" cy="58" rx="28" ry="24" fill="url(#mascotGrad)"/>
+            <!-- 金渐层纹理 -->
+            <ellipse cx="38" cy="50" rx="5" ry="4" fill="#FFE5B4" opacity="0.4"/>
+            <ellipse cx="62" cy="50" rx="5" ry="4" fill="#FFE5B4" opacity="0.4"/>
+            <ellipse cx="50" cy="65" rx="6" ry="5" fill="#FFE5B4" opacity="0.3"/>
+            <!-- 耳朵 -->
+            <path d="M28 32 L34 18 L42 32 Z" fill="url(#mascotEarG)"/>
+            <path d="M58 32 L66 18 L72 32 Z" fill="url(#mascotEarG)"/>
+            <path d="M31 30 L34 22 L39 30 Z" fill="#FFB6C1" opacity="0.6"/>
+            <path d="M61 30 L66 22 L69 30 Z" fill="#FFB6C1" opacity="0.6"/>
+            <!-- 脸 -->
+            <ellipse cx="50" cy="42" rx="22" ry="20" fill="url(#mascotGrad)"/>
+            <!-- 眼睛 -->
+            <ellipse cx="40" cy="40" rx="3.5" ry="4.5" fill="#1a1a2e"/>
+            <ellipse cx="60" cy="40" rx="3.5" ry="4.5" fill="#1a1a2e"/>
+            <circle cx="41.2" cy="38.5" r="1.4" fill="#4FC3F7"/>
+            <circle cx="61.2" cy="38.5" r="1.4" fill="#4FC3F7"/>
+            <circle cx="40.5" cy="39" r="0.6" fill="white"/>
+            <circle cx="60.5" cy="39" r="0.6" fill="white"/>
+            <!-- 鼻子 -->
+            <path d="M48 47 L50 49.5 L52 47 Z" fill="#FF69B4"/>
+            <!-- 嘴 -->
+            <path d="M50 49.5 Q46 53 43 51" stroke="#1a1a2e" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+            <path d="M50 49.5 Q54 53 57 51" stroke="#1a1a2e" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+            <!-- 腮红 -->
+            <circle cx="33" cy="46" r="3" fill="#FFB6C1" opacity="0.4"/>
+            <circle cx="67" cy="46" r="3" fill="#FFB6C1" opacity="0.4"/>
+            <!-- 胡须 -->
+            <line x1="24" y1="43" x2="34" y2="43.5" stroke="#8a7a4e" stroke-width="0.7"/>
+            <line x1="24" y1="46" x2="34" y2="46" stroke="#8a7a4e" stroke-width="0.7"/>
+            <line x1="66" y1="43.5" x2="76" y2="43" stroke="#8a7a4e" stroke-width="0.7"/>
+            <line x1="66" y1="46" x2="76" y2="46" stroke="#8a7a4e" stroke-width="0.7"/>
+            <!-- 小爪子 -->
+            <ellipse cx="38" cy="80" rx="5" ry="3" fill="url(#mascotGrad)"/>
+            <ellipse cx="62" cy="80" rx="5" ry="3" fill="url(#mascotGrad)"/>
+          </svg>
+        </div>
+
+        <h1 class="search-title">
+          <span class="title-main">哈基米新闻</span>
+          <span class="title-cat">🐈</span>
+        </h1>
+        <p class="search-subtitle">🐾 一键搜索豆瓣 · 知乎 · 小红书 · 微博 · 抖音 · 今日头条 · 凤凰新闻 · 澎湃新闻 · 大象新闻 🐾</p>
+        
+        <div class="search-box">
+          <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+            <circle cx="9" cy="9" r="7" stroke="currentColor" stroke-width="2"/>
+            <line x1="14" y1="14" x2="19" y2="19" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          <input type="text" id="searchInput" placeholder="输入关键词，让小猫帮你搜遍全网..." autocomplete="off">
+          <button id="searchBtn" class="search-btn">
+            <span class="btn-icon">🔍</span> 搜索
+          </button>
+        </div>
+
+        <!-- 平台筛选 -->
+        <div class="platform-filters" id="platformFilters">
+          <button class="platform-chip active" data-platform="all">
+            <span class="chip-dot" style="background: var(--gold-gradient)"></span>
+            🐱 全部
+          </button>
+        </div>
+
+        <!-- 自动刷新 -->
+        <div class="search-options">
+          <label class="toggle-switch">
+            <input type="checkbox" id="autoRefresh">
+            <span class="toggle-slider"></span>
+            <span class="toggle-label">🐾 实时刷新（每60秒）</span>
+          </label>
+          <span class="result-count" id="resultCount"></span>
+        </div>
+      </div>
+    </section>
+
+    <!-- 结果区 -->
+    <main class="results-section">
+      <div class="results-container" id="resultsContainer">
+        <!-- 初始状态 -->
+        <div class="empty-state" id="emptyState">
+          <div class="empty-cat">
+            <svg width="120" height="110" viewBox="0 0 120 110" fill="none">
+              <defs>
+                <linearGradient id="emptyCatGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#FFE5B4"/>
+                  <stop offset="40%" stop-color="#FFD700"/>
+                  <stop offset="100%" stop-color="#FF8C00"/>
+                </linearGradient>
+              </defs>
+              <!-- 尾巴 -->
+              <path d="M98 70 Q110 52 104 36 Q100 28 92 30" stroke="url(#emptyCatGrad)" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.6"/>
+              <!-- 身体 -->
+              <ellipse cx="60" cy="72" rx="32" ry="28" fill="url(#emptyCatGrad)" opacity="0.85"/>
+              <!-- 耳朵 -->
+              <path d="M32 40 L40 20 L50 40 Z" fill="url(#emptyCatGrad)" opacity="0.85"/>
+              <path d="M70 40 L80 20 L88 40 Z" fill="url(#emptyCatGrad)" opacity="0.85"/>
+              <path d="M36 36 L40 25 L46 36 Z" fill="#FFB6C1" opacity="0.5"/>
+              <path d="M74 36 L80 25 L84 36 Z" fill="#FFB6C1" opacity="0.5"/>
+              <!-- 脸 -->
+              <ellipse cx="60" cy="52" rx="26" ry="24" fill="url(#emptyCatGrad)"/>
+              <!-- 眼睛（闭着/眯眯眼） -->
+              <path d="M46 50 Q50 46 54 50" stroke="#1a1a2e" stroke-width="2" fill="none" stroke-linecap="round"/>
+              <path d="M66 50 Q70 46 74 50" stroke="#1a1a2e" stroke-width="2" fill="none" stroke-linecap="round"/>
+              <!-- 鼻子 -->
+              <path d="M58 58 L60 61 L62 58 Z" fill="#FF69B4"/>
+              <!-- 嘴（微笑） -->
+              <path d="M60 61 Q56 65 52 63" stroke="#1a1a2e" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+              <path d="M60 61 Q64 65 68 63" stroke="#1a1a2e" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+              <!-- 腮红 -->
+              <circle cx="40" cy="58" r="4" fill="#FFB6C1" opacity="0.4"/>
+              <circle cx="80" cy="58" r="4" fill="#FFB6C1" opacity="0.4"/>
+              <!-- 胡须 -->
+              <line x1="28" y1="55" x2="42" y2="55.5" stroke="#8a7a4e" stroke-width="0.8"/>
+              <line x1="28" y1="58" x2="42" y2="58" stroke="#8a7a4e" stroke-width="0.8"/>
+              <line x1="78" y1="55.5" x2="92" y2="55" stroke="#8a7a4e" stroke-width="0.8"/>
+              <line x1="78" y1="58" x2="92" y2="58" stroke="#8a7a4e" stroke-width="0.8"/>
+              <!-- 小爪子 -->
+              <ellipse cx="46" cy="98" rx="6" ry="3.5" fill="url(#emptyCatGrad)" opacity="0.7"/>
+              <ellipse cx="74" cy="98" rx="6" ry="3.5" fill="url(#emptyCatGrad)" opacity="0.7"/>
+              <!-- 爪子肉垫 -->
+              <circle cx="44" cy="97" r="1" fill="#FFB6C1" opacity="0.5"/>
+              <circle cx="48" cy="97" r="1" fill="#FFB6C1" opacity="0.5"/>
+              <circle cx="72" cy="97" r="1" fill="#FFB6C1" opacity="0.5"/>
+              <circle cx="76" cy="97" r="1" fill="#FFB6C1" opacity="0.5"/>
+            </svg>
+          </div>
+          <p class="empty-title">小猫在等你输入关键词~ 🐱</p>
+          <p class="empty-hint">结果将同时从 9 个平台聚合呈现</p>
+        </div>
+      </div>
+    </main>
+
+    <!-- 底部猫咪 -->
+    <footer class="footer">
+      <div class="footer-inner">
+        <span class="footer-cat">🐱 哈基米新闻 · 金渐层聚合搜索 · Powered by 喵星人 🐾</span>
+      </div>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
