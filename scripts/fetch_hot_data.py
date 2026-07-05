@@ -225,6 +225,9 @@ def search_bing_site(query, site_domain, max_results=10):
     except Exception as e:
         print(f"    [Bing] Error for {site_domain}: {e}")
         return []
+
+
+def check_search_cache(query, time_range="", sort_by=""):
     """Check if we have cached results for this query."""
     if not os.path.exists(CACHE_FILE):
         return None
