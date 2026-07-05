@@ -353,19 +353,42 @@ async function performSearch(keyword) {
   searchBtn.innerHTML = '<span class="loading-cat">🐱</span> 提交中...';
 
   showSearchStart(keyword);
-
+  
+  // 显示进度条
+  const progressBar = document.createElement('div');
+  progressBar.className = 'search-progress-bar';
+  progressBar.innerHTML = `
+    <div class="progress-text">正在提交搜索请求...</div>
+    <div class="progress-track">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+  `;
+  resultsContainer.innerHTML = '';
+  resultsContainer.appendChild(progressBar);
+  
+  const progressFill = document.getElementById('progressFill');
+  const progressText = progressBar.querySelector('.progress-text');
+  
   try {
     updateSearchStatus('🚀', '正在提交搜索请求...');
+    progressText.textContent = '正在提交搜索请求...';
+    if (progressFill) progressFill.style.width = '10%';
+    
     await dispatchWorkflow(keyword);
 
     if (mySessionId !== searchSessionId) return;
-
+    
     updateSearchStatus('⏳', '正在等待服务器处理（约30-60秒）...');
-
+    progressText.textContent = '服务器正在搜索中...';
+    if (progressFill) progressFill.style.width = '30%';
+    
     const results = await pollSearchResults(mySessionId, 25, 4000);
-
+    
     if (mySessionId !== searchSessionId) return;
-
+    
+    progressText.textContent = '正在加载结果...';
+    if (progressFill) progressFill.style.width = '80%';
+    
     allSearchResults = results;
     activeSourceFilters = [];
     displaySearchResults(results, keyword);
