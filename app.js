@@ -239,18 +239,33 @@ async function dispatchWorkflow(searchQuery) {
     inputs: { search_query: searchQuery }
   };
 
-  const resp = await fetch(url, {
-    method: 'POST',
-    headers: {
-      'Authorization': `token ${GITHUB_TOKEN}`,
-      'Accept': 'application/vnd.github+json',
-      'X-GitHub-Api-Version': '2022-11-28',
-    },
-    body: JSON.stringify(payload)
-  });
+  console.log('[Search] Dispatching workflow for:', searchQuery);
+
+  let resp;
+  try {
+    resp = await fetch(url, {
+      method: 'POST',
+      mode: 'cors',
+      headers: {
+        'Authorization': `token ${GITHUB_TOKEN}`,
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(payload)
+    });
+  } catch (networkError) {
+    // Catches CORS errors and network errors (TypeError: Failed to fetch)
+    console.error('[Search] Network/CORS error:', networkError);
+    throw new Error(`网络错误: ${networkError.message}`);
+  }
+
+  console.log('[Search] Dispatch response status:', resp.status);
 
   if (!resp.ok && resp.status !== 204) {
-    const text = await resp.text().catch(() => '');
+    let text = '';
+    try { text = await resp.text(); } catch(e) {}
+    console.error('[Search] Dispatch failed:', resp.status, text.slice(0, 300));
     throw new Error(`GitHub API ${resp.status}: ${text.slice(0, 200)}`);
   }
   return true;
@@ -344,10 +359,12 @@ async function performSearch(keyword) {
     let userMsg = msg;
     if (msg.includes('超时')) {
       userMsg = '搜索处理时间较长（超过100秒），请稍后刷新页面或重新搜索';
+    } else if (msg.includes('网络错误') || msg.includes('Failed to fetch')) {
+      userMsg = '无法连接GitHub API（可能是浏览器CORS限制），请尝试刷新页面后重试';
     } else if (msg.includes('API')) {
-      userMsg = '服务器暂时繁忙，请稍后重试';
+      userMsg = 'GitHub API 返回错误：' + msg;
     }
-    displaySearchError(userMsg, keyword);
+    displaySearchError(userMsg, keyword, msg);
     updateSearchStatus('❌', '搜索失败');
   } finally {
     if (mySessionId === searchSessionId) {
@@ -668,14 +685,20 @@ function clearSourceFilters() {
   renderFilteredResults();
 }
 
-function displaySearchError(msg, keyword) {
+function displaySearchError(msg, keyword, debugMsg) {
+  const debugHtml = debugMsg ? `<details style="margin-top:12px;font-size:12px;color:var(--text-lighter)">
+    <summary style="cursor:pointer;color:var(--text-light)">查看技术详情</summary>
+    <div style="margin-top:6px;padding:8px;background:#f5f5f5;border-radius:6px;word-break:break-all;font-family:monospace;font-size:11px">${escapeHtml(debugMsg)}</div>
+  </details>` : '';
+
   resultsContainer.innerHTML = `
     <div class="empty-state">
       <div style="font-size:60px;margin-bottom:12px">😿</div>
       <p style="color:var(--accent-deep);font-weight:600;font-size:16px">${escapeHtml(msg)}</p>
       <p style="color:var(--text-light);margin-top:8px;font-size:13px">
-        你可以稍后刷新页面，或查看 🔥 全网热榜 获取最新资讯
+        您可以稍后重试，或查看 🔥 全网热榜 获取最新资讯
       </p>
+      ${debugHtml}
       <button onclick="switchTab('hot')" style="margin-top:16px;padding:10px 24px;background:var(--gold-gradient);color:white;border:none;border-radius:8px;font-size:14px;font-weight:600;cursor:pointer;box-shadow:0 2px 8px rgba(255,165,0,0.3)">
         🔥 查看全网热榜
       </button>
