@@ -71,12 +71,28 @@ def fetch_uapis(platform_type):
     return items
 
 
-def do_search(query, site=None):
-    """Search via uapis.cn search API, save results to JSON."""
+def do_search(query, site=None, time_range="", sort_by=""):
+    """Search via uapis.cn search API, save results to JSON.
+    
+    Args:
+        query: Search keyword
+        site: Optional site restriction
+        time_range: Time filter (d/day, w/week, m/month, y/year)
+        sort_by: Sort order (date for newest first, or empty for relevance)
+    """
     print(f"\n  Searching: {query}")
+    if time_range:
+        print(f"  Time range: {time_range}")
+    if sort_by:
+        print(f"  Sort: {sort_by}")
+    
     payload = {"query": query}
     if site:
         payload["site"] = site
+    if time_range:
+        payload["time_range"] = time_range
+    if sort_by:
+        payload["sort"] = sort_by
 
     result = fetch_post(UAPIS_SEARCH, payload)
     items = result.get("results", [])
@@ -93,9 +109,11 @@ def do_search(query, site=None):
     now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     data = {
         "query": query,
+        "time_range": time_range,
+        "sort": sort_by,
         "update_time": now,
         "count": len(search_items),
-        "results": search_items[:20],
+        "results": search_items[:50],
     }
 
     filepath = os.path.join(DATA_DIR, "search-results.json")
@@ -110,13 +128,15 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--search", type=str, default="", help="Search query")
     parser.add_argument("--site", type=str, default="", help="Search within site")
+    parser.add_argument("--time-range", type=str, default="", help="Time range filter (d/day, w/week, m/month, y/year)")
+    parser.add_argument("--sort", type=str, default="", help="Sort order (date for newest first)")
     args = parser.parse_args()
 
     os.makedirs(DATA_DIR, exist_ok=True)
 
     # If search mode
     if args.search:
-        do_search(args.search, args.site or None)
+        do_search(args.search, args.site or None, args.time_range, args.sort)
         # Still update hot data afterwards (for regular interval runs)
         if not os.environ.get("SEARCH_ONLY"):
             run_hot_update()
