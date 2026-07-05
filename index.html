@@ -75,7 +75,7 @@
     <!-- Tab 切换栏 -->
     <nav class="tab-bar">
       <button class="tab-btn active" id="tabSearch">🔍 搜索</button>
-      <button class="tab-btn" id="tabHot">🔥 热榜</button>
+      <button class="tab-btn" id="tabHot">🔥 全网热榜</button>
     </nav>
 
     <!-- 搜索区 -->
@@ -145,7 +145,7 @@
           <span class="title-main">哈基米新闻</span>
           <span class="title-cat">🐈</span>
         </h1>
-        <p class="search-subtitle">🐾 一键搜索豆瓣 · 知乎 · 小红书 · 微博 · 抖音 · 今日头条 · 凤凰新闻 · 澎湃新闻 · 大象新闻 🐾</p>
+        <p class="search-subtitle">🐾 一键搜索豆瓣 · 知乎 · 小红书 · 微博 · 抖音 · B站 · 头条 · 澎湃 · 凤凰 · 9大平台热搜实时更新 🐾</p>
         
         <div class="search-box">
           <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
@@ -237,10 +237,20 @@
 
     <!-- 热榜区 -->
     <main class="results-section hot-section" id="hotSection" style="display:none">
-      <div class="results-container" id="hotResults">
-        <div class="hot-loading">
-          <div class="loading-spinner" style="border-color:#FFD70033;border-top-color:#FFD700"></div>
-          <p>🐱 点击"热榜"标签查看各平台热搜</p>
+      <div class="results-container">
+        <!-- 热榜头部 -->
+        <div class="hot-header">
+          <span class="hot-update-time" id="hotUpdateTime">📅 加载中...</span>
+          <button class="hot-refresh-btn" id="refreshHotBtn">🔄 刷新</button>
+        </div>
+        <!-- 平台选择标签 -->
+        <div class="hot-platform-tabs" id="hotPlatformTabs"></div>
+        <!-- 热榜内容 -->
+        <div class="hot-results-container" id="hotResults">
+          <div class="hot-loading">
+            <div class="loading-spinner" style="border-color:#FFD70033;border-top-color:#FFD700"></div>
+            <p>🐱 点击"全网热榜"标签查看各平台热搜</p>
+          </div>
         </div>
       </div>
     </main>
@@ -248,7 +258,7 @@
     <!-- 底部猫咪 -->
     <footer class="footer">
       <div class="footer-inner">
-        <span class="footer-cat">🐱 哈基米新闻 · 金渐层聚合搜索 · Powered by 喵星人 🐾</span>
+        <span class="footer-cat">🐱 哈基米新闻 · 全网热搜聚合 · 数据每30分钟自动更新 · Powered by 喵星人 🐾</span>
       </div>
     </footer>
   </div>
