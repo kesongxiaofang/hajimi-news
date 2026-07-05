@@ -1153,6 +1153,135 @@ body {
 }
 @keyframes spin { to { transform: rotate(360deg); } }
 
+/* ===== Source Filter Bar ===== */
+.source-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  padding: 14px 16px;
+  background: var(--accent-lighter);
+  border-radius: var(--radius-sm);
+  margin-bottom: 20px;
+  border: 1px solid var(--border);
+}
+
+.sf-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-light);
+  margin-right: 4px;
+  white-space: nowrap;
+}
+
+.sf-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: var(--bg-card);
+  font-size: 13px;
+  color: var(--text);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.sf-chip:hover {
+  border-color: var(--sf-color, var(--accent));
+  color: var(--sf-color, var(--accent));
+  background: #fff;
+  transform: translateY(-1px);
+}
+
+.sf-chip.active {
+  background: var(--sf-color, var(--gold-gradient));
+  border-color: transparent;
+  color: white;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+.sf-chip-count {
+  background: var(--border-light);
+  border-radius: 10px;
+  padding: 1px 7px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-light);
+}
+
+.sf-chip.active .sf-chip-count {
+  background: rgba(255,255,255,0.3);
+  color: white;
+}
+
+.sf-clear-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 12px;
+  border: 1px dashed var(--accent);
+  border-radius: 18px;
+  background: transparent;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.sf-clear-btn:hover {
+  background: var(--accent-light);
+  border-style: solid;
+}
+
+/* ===== Source Group ===== */
+.source-group {
+  margin-bottom: 24px;
+  animation: fadeInUp 0.3s ease;
+}
+
+.source-group-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--border-light);
+}
+
+.source-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  color: white;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+.source-group-count {
+  font-size: 12px;
+  color: var(--text-lighter);
+  font-weight: 600;
+}
+
+/* Card author dot */
+.ca-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 4px;
+  vertical-align: middle;
+}
+
 /* ===== Card Date ===== */
 .card-date {
   font-size: 12px;
@@ -1193,6 +1322,10 @@ body {
   .hot-list-rank { width: 28px; height: 28px; font-size: 13px; }
   .hot-list-title { font-size: 14px; }
   .hot-tab { padding: 6px 12px; font-size: 13px; }
+  .source-filter-bar { gap: 6px; padding: 10px; }
+  .sf-chip { padding: 4px 10px; font-size: 12px; }
+  .sf-label { font-size: 12px; }
+  .source-badge { font-size: 12px; padding: 3px 10px; }
 }
 
 /* Scrollbar */
