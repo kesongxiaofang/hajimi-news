@@ -46,8 +46,9 @@ jobs:
           git push
         continue-on-error: true
 
-      - name: Run search (if triggered)
-        if: ${{ github.event.inputs.search_query != '' }}
+     - name: Fetch hot search data
+        if: github.event.inputs.search_query == ''
+        run: python scripts/fetch_hot_data.py
         run: python scripts/fetch_hot_data.py --search "${{ github.event.inputs.search_query }}" --time-range "${{ github.event.inputs.time_range }}" --sort "${{ github.event.inputs.sort }}"
         working-directory: ./
         env:
