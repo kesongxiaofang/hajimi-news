@@ -16,6 +16,7 @@ import urllib.request
 import urllib.parse
 import re
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Platform site mappings for search source filter (matches frontend ALLOWED_SOURCES)
 PLATFORM_SITES = {
@@ -326,78 +327,65 @@ def do_search(query, site=None, time_range="", sort_by=""):
     
     print(f"  After uapis.cn general: {len(all_items)} unique results")
     
-    # Step 2: Search each platform via uapis.cn site-specific search
+    # Step 2: Search each platform via uapis.cn site-specific search (PARALLEL)
     if len(all_items) < 300:  # Always try to get more platform-specific results
-        print(f"\n  Step 2: Searching uapis.cn for each platform (site-specific)...")
+        print(f"\n  Step 2: Searching uapis.cn for each platform (site-specific, PARALLEL)...")
         
         # Determine which platforms to search
         if site:
-            # Search only specified platform(s)
             platforms_to_search = [s.strip() for s in site.split(",")]
         else:
-            # Search all 9 platforms (matching frontend filters)
             platforms_to_search = list(PLATFORM_SITES.keys())
         
-        print(f"  Will search {len(platforms_to_search)} platforms...")
+        print(f"  Will search {len(platforms_to_search)} platforms simultaneously...")
         
-        for i, platform in enumerate(platforms_to_search):
-            if platform not in PLATFORM_SITES:
-                print(f"  Skipping unknown platform: {platform}")
-                continue
+        def search_one_platform(platform_name):
+            """Search one platform and return results + fallback if needed."""
+            if platform_name not in PLATFORM_SITES:
+                return platform_name, []
             
-            site_domain = PLATFORM_SITES[platform]
-            
-            # Check if we already have enough results
-            if len(all_items) >= 300:
-                print(f"  Already have {len(all_items)} results, stopping")
-                break
-            
-            # Delay between requests to avoid rate limiting
-            if i > 0:
-                time.sleep(2)
+            site_domain = PLATFORM_SITES[platform_name]
+            platform_results = []
             
             try:
                 # Search uapis.cn with site parameter
-                platform_results = search_uapis(query, site=site_domain, time_range=time_range)
+                uapis_res = search_uapis(query, site=site_domain, time_range=time_range)
+                for item in uapis_res:
+                    item['source'] = site_domain
+                    item['search_source'] = 'uapis.cn (site-specific)'
+                platform_results.extend(uapis_res)
                 
-                added_for_platform = 0
-                for item in platform_results:
-                    url = item.get('url', '')
-                    if url and url not in seen_urls:
-                        seen_urls.add(url)
-                        # Ensure source is the platform domain for frontend matching
-                        item['source'] = site_domain
-                        item['search_source'] = 'uapis.cn (site-specific)'
-                        all_items.append(item)
-                        added_for_platform += 1
-                
-                print(f"  [{platform}] Added {added_for_platform} results (total: {len(all_items)})")
-                
-                # Fallback: If uapis.cn returned few results for this platform, try Bing/DuckDuckGo
-                if added_for_platform < 3:
-                    time.sleep(1.5)
+                # Fallback: If uapis.cn returned few results, try Bing/DuckDuckGo
+                if len(uapis_res) < 3:
                     try:
                         bing_results = search_bing_site(query, site_domain, max_results=10)
-                        for item in bing_results:
-                            url = item.get('url', '')
-                            if url and url not in seen_urls:
-                                seen_urls.add(url)
-                                all_items.append(item)
+                        platform_results.extend(bing_results)
                         
                         if len(bing_results) < 3:
-                            time.sleep(1)
                             ddg_results = search_duckduckgo_site(query, site_domain, max_results=10)
-                            for item in ddg_results:
-                                url = item.get('url', '')
-                                if url and url not in seen_urls:
-                                    seen_urls.add(url)
-                                    all_items.append(item)
+                            platform_results.extend(ddg_results)
                     except Exception as e:
-                        print(f"  Fallback search error for {platform}: {e}")
-                
+                        print(f"  Fallback search error for {platform_name}: {e}")
+                        
             except Exception as e:
-                print(f"  Error searching {platform}: {e}")
-                continue
+                print(f"  Error searching {platform_name}: {e}")
+            
+            return platform_name, platform_results
+        
+        # Run all platform searches in parallel
+        with ThreadPoolExecutor(max_workers=min(len(platforms_to_search), 8)) as executor:
+            futures = {executor.submit(search_one_platform, p): p for p in platforms_to_search}
+            
+            for future in as_completed(futures):
+                platform_name, p_results = future.result()
+                added = 0
+                for item in p_results:
+                    url = item.get('url', '')
+                    if url and url not in seen_urls and len(all_items) < 300:
+                        seen_urls.add(url)
+                        all_items.append(item)
+                        added += 1
+                print(f"  [{platform_name}] Added {added} results (total: {len(all_items)})")
         
         print(f"\n  After platform-specific search: {len(all_items)} unique results")
     
