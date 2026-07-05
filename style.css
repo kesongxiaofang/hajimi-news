@@ -1239,6 +1239,58 @@ body {
   border-style: solid;
 }
 
+/* ===== Time Filter Bar ===== */
+.time-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  padding: 14px 16px;
+  background: linear-gradient(135deg, var(--accent-lighter), #FFF8E1);
+  border-radius: var(--radius-sm);
+  margin-bottom: 12px;
+  border: 1px solid var(--border);
+}
+
+.tf-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--accent-deep);
+  margin-right: 4px;
+  white-space: nowrap;
+}
+
+.tf-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 16px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: var(--bg-card);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-light);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.tf-chip:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-lighter);
+  transform: translateY(-1px);
+}
+
+.tf-chip.active {
+  background: var(--gold-gradient);
+  border-color: transparent;
+  color: white;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(255,165,0,0.3);
+}
+
 /* ===== Source Group ===== */
 .source-group {
   margin-bottom: 24px;
@@ -1326,6 +1378,9 @@ body {
   .sf-chip { padding: 4px 10px; font-size: 12px; }
   .sf-label { font-size: 12px; }
   .source-badge { font-size: 12px; padding: 3px 10px; }
+  .time-filter-bar { gap: 6px; padding: 10px; }
+  .tf-chip { padding: 4px 12px; font-size: 12px; }
+  .tf-label { font-size: 12px; }
 }
 
 /* Scrollbar */
