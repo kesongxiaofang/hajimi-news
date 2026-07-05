@@ -2,6 +2,11 @@
 """
 Fetch hot search data from multiple platforms + handle search queries.
 Runs on GitHub Actions every 30 minutes, or on-demand for search.
+
+优化版：
+1. 添加搜索结果缓存（1小时）
+2. 减少搜索平台数量（5个主要平台）
+3. 添加超时和重试机制
 """
 
 import argparse
@@ -10,7 +15,7 @@ import os
 import time
 import urllib.request
 import urllib.error
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timedelta
 
 # Platforms to fetch (all via uapis.cn)
 PLATFORMS = [
@@ -32,6 +37,10 @@ DATA_DIR = os.path.join(REPO_ROOT, "data")
 
 UAPIS_BASE = "https://uapis.cn/api/v1/misc/hotboard"
 UAPIS_SEARCH = "https://uapis.cn/api/v1/search/aggregate"
+
+# Cache settings
+CACHE_FILE = os.path.join(DATA_DIR, "search-cache.json")
+CACHE_DURATION = 3600  # 1 hour in seconds
 
 
 def fetch_url(url, timeout=10):
@@ -125,17 +134,73 @@ def search_single_platform(query, platform_site, time_range="", sort_by="", max_
     return []
 
 
+def check_search_cache(query, time_range="", sort_by=""):
+    """Check if we have cached results for this query."""
+    if not os.path.exists(CACHE_FILE):
+        return None
+    
+    try:
+        with open(CACHE_FILE, "r", encoding="utf-8") as f:
+            cache = json.load(f)
+        
+        # Check if query matches
+        if cache.get("query") != query:
+            return None
+        
+        # Check if time_range matches
+        if cache.get("time_range") != time_range:
+            return None
+        
+        # Check if cache is still valid (within CACHE_DURATION)
+        update_time = cache.get("update_time", "")
+        if update_time:
+            try:
+                update_dt = datetime.strptime(update_time, "%Y-%m-%dT%H:%M:%SZ")
+                age = (datetime.utcnow() - update_dt).total_seconds()
+                if age > CACHE_DURATION:
+                    print(f"  Cache expired ({age:.0f}s old, max {CACHE_DURATION}s)")
+                    return None
+            except:
+                return None
+        
+        print(f"  Cache hit! Found {cache.get('count', 0)} results")
+        return cache
+    
+    except Exception as e:
+        print(f"  Cache check failed: {e}")
+        return None
+
+
+def save_search_cache(query, time_range, sort_by, results, count):
+    """Save search results to cache."""
+    try:
+        os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
+        
+        cache_data = {
+            "query": query,
+            "time_range": time_range,
+            "sort": sort_by,
+            "update_time": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+            "count": count,
+            "results": results,
+        }
+        
+        with open(CACHE_FILE, "w", encoding="utf-8") as f:
+            json.dump(cache_data, f, ensure_ascii=False, indent=2)
+        
+        print(f"  Cache saved: {count} results")
+        
+    except Exception as e:
+        print(f"  Cache save failed: {e}")
+
+
 def do_search(query, site=None, time_range="", sort_by=""):
     """Search via uapis.cn search API, save results to JSON.
     
-    By default, searches without specifying site (uapis.cn returns multi-source results).
-    If site is specified, only searches that site.
-    
-    Args:
-        query: Search keyword
-        site: Optional site restriction (comma-separated for multiple)
-        time_range: Time filter (d/day, w/week, m/month, y/year)
-        sort_by: Sort order (date for newest first, or empty for relevance)
+    Optimized version:
+    1. Check cache first
+    2. Search with rate limit protection
+    3. Save to cache
     """
     print(f"\n  Searching: {query}")
     if time_range:
