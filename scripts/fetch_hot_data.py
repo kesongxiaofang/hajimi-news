@@ -79,15 +79,15 @@ def do_search(query, site=None):
         payload["site"] = site
 
     result = fetch_post(UAPIS_SEARCH, payload)
-    items = result.get("data", {}).get("results", [])
+    items = result.get("results", [])
     search_items = []
     for item in items:
         search_items.append({
             "title": item.get("title", ""),
             "url": item.get("url", ""),
-            "snippet": item.get("snippet", item.get("content", ""))[:300],
-            "source": item.get("source", ""),
-            "date": item.get("date", ""),
+            "snippet": (item.get("snippet") or "")[:300],
+            "source": item.get("domain", ""),
+            "date": item.get("publish_time", ""),
         })
 
     now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
