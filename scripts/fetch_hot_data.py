@@ -74,9 +74,12 @@ def fetch_uapis(platform_type):
 def do_search(query, site=None, time_range="", sort_by=""):
     """Search via uapis.cn search API, save results to JSON.
     
+    Searches across multiple platforms and aggregates results.
+    Each platform returns up to 25 results.
+    
     Args:
         query: Search keyword
-        site: Optional site restriction
+        site: Optional site restriction (comma-separated for multiple)
         time_range: Time filter (d/day, w/week, m/month, y/year)
         sort_by: Sort order (date for newest first, or empty for relevance)
     """
@@ -86,42 +89,105 @@ def do_search(query, site=None, time_range="", sort_by=""):
     if sort_by:
         print(f"  Sort: {sort_by}")
     
-    payload = {"query": query}
+    # Define 9 major platforms to search
+    PLATFORM_SITES = [
+        "zhihu.com",
+        "weibo.com", 
+        "bilibili.com",
+        "xiaohongshu.com",
+        "douyin.com",
+        "toutiao.com",
+        "thepaper.cn",
+        "douban.com",
+        "ifeng.com",
+    ]
+    
+    all_items = []
+    seen_urls = set()
+    
+    # If specific site is requested, only search that site
     if site:
-        payload["site"] = site
-    if time_range:
-        payload["time_range"] = time_range
-    if sort_by:
-        payload["sort"] = sort_by
-
-    result = fetch_post(UAPIS_SEARCH, payload)
-    items = result.get("results", [])
-    search_items = []
-    for item in items:
-        search_items.append({
-            "title": item.get("title", ""),
-            "url": item.get("url", ""),
-            "snippet": (item.get("snippet") or "")[:300],
-            "source": item.get("domain", ""),
-            "date": item.get("publish_time", ""),
-        })
-
+        sites_to_search = [s.strip() for s in site.split(",")]
+    else:
+        sites_to_search = PLATFORM_SITES
+    
+    print(f"  Searching {len(sites_to_search)} platforms...")
+    
+    for platform_site in sites_to_search:
+        try:
+            payload = {"query": query}
+            if platform_site:
+                payload["site"] = platform_site
+            if time_range:
+                payload["time_range"] = time_range
+            if sort_by:
+                payload["sort"] = sort_by
+            
+            result = fetch_post(UAPIS_SEARCH, payload)
+            items = result.get("results", [])
+            
+            # Deduplicate by URL
+            for item in items:
+                url = item.get("url", "")
+                if url and url not in seen_urls:
+                    seen_urls.add(url)
+                    all_items.append({
+                        "title": item.get("title", ""),
+                        "url": url,
+                        "snippet": (item.get("snippet") or "")[:300],
+                        "source": item.get("domain", platform_site),
+                        "date": item.get("publish_time", ""),
+                    })
+            
+            print(f"    {platform_site}: +{len(items)} results (total: {len(all_items)})")
+            time.sleep(0.5)  # Be nice to the API
+            
+        except Exception as e:
+            print(f"    {platform_site}: FAILED - {e}")
+    
+    # Sort by date (newest first)
+    all_items.sort(key=lambda x: parse_date(x.get("date", "")), reverse=True)
+    
     now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     data = {
         "query": query,
         "time_range": time_range,
         "sort": sort_by,
         "update_time": now,
-        "count": len(search_items),
-        "results": search_items[:50],
+        "count": len(all_items),
+        "results": all_items[:200],  # Cap at 200 results
     }
-
+    
     filepath = os.path.join(DATA_DIR, "search-results.json")
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+    
+    print(f"  Search done: {len(all_items)} results saved (deduplicated from {len(seen_urls)} unique URLs)")
+    return len(all_items)
 
-    print(f"  Search done: {len(search_items)} results saved")
-    return len(search_items)
+
+def parse_date(date_str):
+    """Parse various date formats to timestamp for sorting."""
+    if not date_str:
+        return 0
+    try:
+        # Try ISO format
+        import datetime
+        # Handle various formats
+        for fmt in ["%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d"]:
+            try:
+                return datetime.datetime.strptime(date_str, fmt).timestamp() * 1000
+            except:
+                pass
+        # Try timestamp
+        if date_str.isdigit():
+            ts = int(date_str)
+            if ts > 1e12:  # milliseconds
+                return ts
+            return ts * 1000  # seconds to milliseconds
+    except:
+        pass
+    return 0
 
 
 def main():
