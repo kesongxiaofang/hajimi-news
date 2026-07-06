@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-06T19:13:02Z",
+  "update_time": "2026-07-06T23:40:54Z",
   "count": 30,
   "list": [
     {
-      "title": "中国海军成功组织潜射战略导弹试射，有哪些亮点？释放哪些信号？",
-      "url": "https://www.zhihu.com/question/2057451748705448806",
-      "hot_value": "1642 万热度",
+      "title": "世界杯 1/8 决赛，西班牙 1-0 淘汰葡萄牙，C 罗结束世界杯征程，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2057413304579051709",
+      "hot_value": "1485 万热度",
       "index": 1
     },
     {
       "title": "中公教育因股民「荒诞赌约」涨停，发生了什么？A 股市场投机风气会否加剧？",
       "url": "https://www.zhihu.com/question/2057430773481968954",
-      "hot_value": "640 万热度",
+      "hot_value": "509 万热度",
       "index": 2
+    },
+    {
+      "title": "如何评价多益网络老板徐波称自己女儿被人诱拐走？到底什么情况？",
+      "url": "https://www.zhihu.com/question/2057395278810805576",
+      "hot_value": "406 万热度",
+      "index": 3
     },
     {
       "title": "上海女子私自安装「座椅式爬楼机」给全楼用遭抵制，为何会面临被强制拆除的困境？",
       "url": "https://www.zhihu.com/question/2056192994538214771",
-      "hot_value": "449 万热度",
-      "index": 3
-    },
-    {
-      "title": "如何看待前 RNG 选手史森明评价 TES 遭淘汰「他们压力太大，但没关系，MSI 没含金量没皮肤」？",
-      "url": "https://www.zhihu.com/question/2057419985929164559",
-      "hot_value": "257 万热度",
+      "hot_value": "194 万热度",
       "index": 4
     },
     {
-      "title": "如何评价国家一级文物上出现「TCL 电视」字样，类似报纸印刷画面？可能是什么原因？",
-      "url": "https://www.zhihu.com/question/2057159648076158666",
-      "hot_value": "227 万热度",
+      "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
+      "url": "https://www.zhihu.com/question/2057405995244938393",
+      "hot_value": "120 万热度",
       "index": 5
     },
     {
-      "title": "为什么 PC 取消光驱转向数字化很自然，游戏机取消光驱却被玩家强烈抵触？",
-      "url": "https://www.zhihu.com/question/2056063684812846834",
-      "hot_value": "225 万热度",
+      "title": "为什么痛风人群越来越多，并出现年轻化趋势？",
+      "url": "https://www.zhihu.com/question/435446154",
+      "hot_value": "114 万热度",
       "index": 6
     },
     {
-      "title": "如何评价腾讯 7 月 6 日发布的混元 Hy3 ？",
-      "url": "https://www.zhihu.com/question/2057495402358596554",
-      "hot_value": "195 万热度",
+      "title": "喻文波 MSI 失利后采访致歉「训练状态很差没怎么赢，表现糟糕非常对不起」，对此你有什么想说？",
+      "url": "https://www.zhihu.com/question/2057401640768860747",
+      "hot_value": "101 万热度",
       "index": 7
     },
     {
       "title": "广西横州水库险情，网络上出现「溃坝、决堤、缺口」多种不同说法，到底有哪些区别？在抢险逻辑上有什么不同？",
       "url": "https://www.zhihu.com/question/2057491357543788687",
-      "hot_value": "195 万热度",
+      "hot_value": "97 万热度",
       "index": 8
     },
     {
-      "title": "字节批量申请网络热梗「咕咕嘎嘎」「香蕉猫」等著作权，背后目的是什么？这算侵占网友的共创成果吗？",
-      "url": "https://www.zhihu.com/question/2057372465282512177",
-      "hot_value": "195 万热度",
+      "title": "如何评价国家一级文物上出现「TCL 电视」字样，类似报纸印刷画面？可能是什么原因？",
+      "url": "https://www.zhihu.com/question/2057159648076158666",
+      "hot_value": "94 万热度",
       "index": 9
     },
     {
-      "title": "如何评价多益网络老板徐波称自己女儿被人诱拐走？到底什么情况？",
-      "url": "https://www.zhihu.com/question/2057395278810805576",
-      "hot_value": "193 万热度",
+      "title": "中国海军成功组织潜射战略导弹试射，有哪些亮点？释放哪些信号？",
+      "url": "https://www.zhihu.com/question/2057451748705448806",
+      "hot_value": "83 万热度",
       "index": 10
     },
     {
-      "title": "世界杯 1/8 决赛，葡萄牙 vs 西班牙，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2057413304579051709",
-      "hot_value": "191 万热度",
+      "title": "上海一餐厅番茄炒蛋卖 520 元，厨师称用鸸鹋蛋和进口番茄成本要 200 多元，成本真的这么高吗？定价合理吗？",
+      "url": "https://www.zhihu.com/question/2054950739810727319",
+      "hot_value": "81 万热度",
       "index": 11
     },
     {
       "title": "宝钗为何把自己看过禁书的事告诉黛玉？",
       "url": "https://www.zhihu.com/question/621296840",
-      "hot_value": "189 万热度",
+      "hot_value": "81 万热度",
       "index": 12
     },
     {
-      "title": "哈兰德梅开二度，助挪威 2-1 巴西，如何评价他的个人表现？他能带领挪威走多远？",
-      "url": "https://www.zhihu.com/question/2057361588131030745",
-      "hot_value": "187 万热度",
+      "title": "价格不到 50 元「次抛衣」火了，质量粗糙，多用于旅行拍照，穿完即扔或转卖，如何看待这种现象？",
+      "url": "https://www.zhihu.com/question/2049457693316927509",
+      "hot_value": "81 万热度",
       "index": 13
     },
     {
-      "title": "中国银行、平安银行重启 5 年期大额存单，利率 1.6%，如何解读？会有更多银行跟进上架吗？",
-      "url": "https://www.zhihu.com/question/2056675738087075884",
-      "hot_value": "174 万热度",
+      "title": "五星巴西爆冷输球挪威，创 36 年最差世界杯纪录，巴西队战败的最大原因是什么？",
+      "url": "https://www.zhihu.com/question/2057369309861475997",
+      "hot_value": "80 万热度",
       "index": 14
     },
     {
-      "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
-      "url": "https://www.zhihu.com/question/2057405995244938393",
-      "hot_value": "157 万热度",
+      "title": "博主李要得打出租车到拉萨视频爆火，西藏文旅承诺奖励 50 万，为什么这个视频能火？如何评价这个奖励政策？",
+      "url": "https://www.zhihu.com/question/2057125814265542512",
+      "hot_value": "79 万热度",
       "index": 15
-    },
-    {
-      "title": "为什么痛风人群越来越多，并出现年轻化趋势？",
-      "url": "https://www.zhihu.com/question/435446154",
-      "hot_value": "145 万热度",
-      "index": 16
-    },
-    {
-      "title": "如何看待蜀国黄权这个人?",
-      "url": "https://www.zhihu.com/question/415715609",
-      "hot_value": "138 万热度",
-      "index": 17
     },
     {
       "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
       "url": "https://www.zhihu.com/question/2055157666142541293",
-      "hot_value": "117 万热度",
+      "hot_value": "78 万热度",
+      "index": 16
+    },
+    {
+      "title": "为什么日本足球崛起几十年没突破 16 强，摩洛哥却短短十几年成为 8 强常客？",
+      "url": "https://www.zhihu.com/question/2057148749714134022",
+      "hot_value": "78 万热度",
+      "index": 17
+    },
+    {
+      "title": "中国银行、平安银行重启 5 年期大额存单，利率 1.6%，如何解读？会有更多银行跟进上架吗？",
+      "url": "https://www.zhihu.com/question/2056675738087075884",
+      "hot_value": "72 万热度",
       "index": 18
     },
     {
-      "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
-      "url": "https://www.zhihu.com/question/2056128489472915373",
-      "hot_value": "112 万热度",
+      "title": "去年 7 月被裁了，前公司接连两次说不用返还大礼包让我回去，因为有个事只有我会做，我应该回去吗？",
+      "url": "https://www.zhihu.com/question/2056482607270047885",
+      "hot_value": "68 万热度",
       "index": 19
     },
     {
       "title": "为什么很多顶级高手都把「避免愚蠢」看得比「追求聪明」更重要？逆向思维在现实博弈中真的被高估了吗？",
       "url": "https://www.zhihu.com/question/2049573012677179356",
-      "hot_value": "110 万热度",
+      "hot_value": "67 万热度",
       "index": 20
     },
     {
-      "title": "为什么日本足球崛起几十年没突破 16 强，摩洛哥却短短十几年成为 8 强常客？",
-      "url": "https://www.zhihu.com/question/2057148749714134022",
-      "hot_value": "107 万热度",
+      "title": "是什么原因你不去上清华大学？",
+      "url": "https://www.zhihu.com/question/1890236914352780083",
+      "hot_value": "66 万热度",
       "index": 21
     },
     {
-      "title": "喻文波 MSI 失利后采访致歉「训练状态很差没怎么赢，表现糟糕非常对不起」，对此你有什么想说？",
-      "url": "https://www.zhihu.com/question/2057401640768860747",
-      "hot_value": "102 万热度",
+      "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
+      "url": "https://www.zhihu.com/question/2056128489472915373",
+      "hot_value": "65 万热度",
       "index": 22
     },
     {
-      "title": "黑石出售 3 处数据中心，又叫停全球最大数据中心建设，这对「AI 经济」影响几何？",
-      "url": "https://www.zhihu.com/question/2057382041294054519",
-      "hot_value": "92 万热度",
+      "title": "福建初三女生参加高考，以 614 分获得中科大录取资格，这个成绩有多难得？被大学录取后还需参加中考吗？",
+      "url": "https://www.zhihu.com/question/2053878630657397667",
+      "hot_value": "61 万热度",
       "index": 23
     },
     {
-      "title": "价格不到 50 元「次抛衣」火了，质量粗糙，多用于旅行拍照，穿完即扔或转卖，如何看待这种现象？",
-      "url": "https://www.zhihu.com/question/2049457693316927509",
-      "hot_value": "83 万热度",
+      "title": "为什么直到现在，游戏里的角色建模依然以裤子和短裙为主，却很少做得出现实中长裙那种飘逸的效果呢？",
+      "url": "https://www.zhihu.com/question/2036416062737101529",
+      "hot_value": "59 万热度",
       "index": 24
     },
     {
-      "title": "博主李要得打出租车到拉萨视频爆火，西藏文旅承诺奖励 50 万，为什么这个视频能火？如何评价这个奖励政策？",
-      "url": "https://www.zhihu.com/question/2057125814265542512",
-      "hot_value": "83 万热度",
+      "title": "字节批量申请网络热梗「咕咕嘎嘎」「香蕉猫」等著作权，背后目的是什么？这算侵占网友的共创成果吗？",
+      "url": "https://www.zhihu.com/question/2057372465282512177",
+      "hot_value": "59 万热度",
       "index": 25
     },
     {
-      "title": "上海一餐厅番茄炒蛋卖 520 元，厨师称用鸸鹋蛋和进口番茄成本要 200 多元，成本真的这么高吗？定价合理吗？",
-      "url": "https://www.zhihu.com/question/2054950739810727319",
-      "hot_value": "83 万热度",
+      "title": "FIFA 决定美国核心主力巴洛贡红牌停赛处罚暂缓一年执行，如何评价这一决定？",
+      "url": "https://www.zhihu.com/question/2057280677406577002",
+      "hot_value": "59 万热度",
       "index": 26
     },
     {
-      "title": "LV 诉茉莉奶白 logo 侵权案一审胜诉，如何评价 LV 赢了官司却「输了人心」？",
-      "url": "https://www.zhihu.com/question/2056102137969616549",
-      "hot_value": "79 万热度",
+      "title": "你们都在用 codex 做什么啊？",
+      "url": "https://www.zhihu.com/question/2047456272421851910",
+      "hot_value": "59 万热度",
       "index": 27
     },
     {
-      "title": "台风巴威增强至超强台风，沿海地区该如何防御？",
-      "url": "https://www.zhihu.com/question/2056856692336353695",
-      "hot_value": "74 万热度",
+      "title": "元朝时期郭守敬到底是怎么走到北极圈的？",
+      "url": "https://www.zhihu.com/question/50614559",
+      "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "去年 7 月被裁了，前公司接连两次说不用返还大礼包让我回去，因为有个事只有我会做，我应该回去吗？",
-      "url": "https://www.zhihu.com/question/2056482607270047885",
-      "hot_value": "72 万热度",
+      "title": "如何评价《崩坏：星穹铁道》7 月 6 日混沌回忆——学院怪谈？",
+      "url": "https://www.zhihu.com/question/2057454137399365929",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "自动化专业到底在学什么？和你高考前想象的一样吗？",
-      "url": "https://www.zhihu.com/question/2048810508892088314",
-      "hot_value": "63 万热度",
+      "title": "Papi 称窦文涛「嘴上喊挣钱却一动不动」，这反映了怎样的心态？",
+      "url": "https://www.zhihu.com/question/2055329997322293379",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
