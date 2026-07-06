@@ -34,6 +34,24 @@ PLATFORM_SITES = {
 # Reverse mapping (domain -> platform)
 SITE_TO_PLATFORM = {v: k for k, v in PLATFORM_SITES.items()}
 
+# Platform domain aliases for URL verification (includes short links, mobile domains, etc.)
+# When a result is tagged as platform X, its URL MUST belong to one of these domains
+PLATFORM_DOMAIN_ALIASES = {
+    "xiaohongshu.com": ["xiaohongshu.com", "xhslink.com", "m.xiaohongshu.com"],
+    "weibo.com": ["weibo.com", "m.weibo.cn", "t.cn"],
+    "zhihu.com": ["zhihu.com", "zhuanlan.zhihu.com", "m.zhihu.com"],
+    "douyin.com": ["douyin.com", "v.douyin.com", "m.douyin.com", "iesdouyin.com"],
+    "bilibili.com": ["bilibili.com", "b23.tv", "m.bilibili.com"],
+    "toutiao.com": ["toutiao.com", "m.toutiao.com"],
+    "thepaper.cn": ["thepaper.cn", "m.thepaper.cn"],
+    "douban.com": ["douban.com", "m.douban.com"],
+    "ifeng.com": ["ifeng.com", "m.ifeng.com","share.ifeng.com"],
+}
+
+# Platforms that require stricter filtering (full query MUST appear in title)
+# These platforms have unreliable snippets due to UGC content nature
+STRICT_TITLE_PLATFORMS = ["xiaohongshu.com"]
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(SCRIPT_DIR)
 DATA_DIR = os.path.join(REPO_ROOT, "data")
@@ -389,12 +407,129 @@ def do_search(query, site=None, time_range="", sort_by=""):
         
         print(f"\n  After platform-specific search: {len(all_items)} unique results")
     
-    # Step 3: Sort by date (newest first)
-    print(f"\n  Step 3: Sorting results by date...")
-    all_items.sort(key=lambda x: parse_date(x.get("date", "")), reverse=True)
+    # Step 3: Multi-layer filtering
+    # 3a. Platform domain verification — results tagged as platform X must have URL from that platform
+    # 3b. Keyword relevance — title/snippet must contain the search query
+    # 3c. Stricter platform-specific rules (e.g., xiaohongshu requires query in title)
+    print(f"\n  Step 3: Multi-layer filtering...")
+    query_lower = query.lower()
+    query_words = [w for w in query_lower.split() if len(w) > 1]
     
-    # Step 4: Save results
-    print(f"\n  Step 4: Saving {len(all_items)} results...")
+    before_filter = len(all_items)
+    domain_rejects = 0
+    keyword_rejects = 0
+    strict_title_rejects = 0
+    
+    def get_url_domain(url):
+        """Extract domain from URL for platform matching."""
+        if not url:
+            return ""
+        try:
+            from urllib.parse import urlparse
+            parsed = urlparse(url)
+            domain = parsed.netloc.lower()
+            if domain.startswith("www."):
+                domain = domain[4:]
+            return domain
+        except:
+            return ""
+    
+    def is_url_for_platform(url, expected_domain):
+        """Check if URL belongs to the expected platform domain or its aliases."""
+        url_domain = get_url_domain(url)
+        if not url_domain:
+            return False
+        aliases = PLATFORM_DOMAIN_ALIASES.get(expected_domain, [expected_domain])
+        return any(alias in url_domain for alias in aliases)
+    
+    # Expected domain for keyword matching threshold
+    required_keyword_match = max(2, int(len(query_words) * 0.67)) if query_words else 999
+    
+    filtered_items = []
+    for item in all_items:
+        title = (item.get('title', '') or '').lower()
+        snippet = (item.get('snippet', '') or '').lower()
+        combined = title + ' ' + snippet
+        source = (item.get('source', '') or '').lower()
+        
+        # 3a. Platform domain check: if source tagged as a known platform, verify URL belongs there
+        if source in PLATFORM_DOMAIN_ALIASES:
+            url = item.get('url', '')
+            if url and not is_url_for_platform(url, source):
+                domain_rejects += 1
+                continue
+        
+        # 3b. Stricter filtering for UGC-heavy platforms (xiaohongshu etc.)
+        # Full query MUST appear in the title (not just snippet)
+        if source in STRICT_TITLE_PLATFORMS:
+            if query_lower not in title:
+                strict_title_rejects += 1
+                continue
+        
+        # 3c. Keyword relevance check
+        # Full query match — always keep
+        if query_lower in combined:
+            filtered_items.append(item)
+        # Partial match by keywords — require higher threshold (2 or 67% of keywords)
+        elif query_words:
+            matched = sum(1 for w in query_words if w in combined)
+            if matched >= required_keyword_match:
+                filtered_items.append(item)
+            else:
+                keyword_rejects += 1
+        else:
+            keyword_rejects += 1
+    
+    removed = before_filter - len(filtered_items)
+    print(f"  Filtered: {before_filter} -> {len(filtered_items)} results")
+    print(f"    - Domain mismatch rejected: {domain_rejects}")
+    print(f"    - Strict title check rejected: {strict_title_rejects}")
+    print(f"    - Keyword mismatch rejected: {keyword_rejects}")
+    all_items = filtered_items
+    
+    # Step 4: Sort by relevance (exact match first), then by date
+    print(f"\n  Step 4: Sorting results by relevance...")
+    
+    def get_relevance_score(item):
+        """Calculate relevance score (lower = more relevant).
+        
+        Score 0: Exact match (title or snippet contains full search query)
+        Score 1: Partial match (title or snippet contains some keywords)
+        Score 2: No match in title/snippet (only in URL or other fields)
+        """
+        query_lower = query.lower()
+        title = item.get('title', '').lower()
+        snippet = item.get('snippet', '').lower()
+        
+        # Check for exact match (full query)
+        if query_lower in title or query_lower in snippet:
+            return 0
+        
+        # Check for partial match (any word from query)
+        query_words = query_lower.split()
+        for word in query_words:
+            if len(word) > 1 and (word in title or word in snippet):  # Ignore single-char words
+                return 1
+        
+        # No match in title or snippet
+        return 2
+    
+    # Sort by relevance score (ascending), then by date (descending)
+    all_items.sort(key=lambda x: (get_relevance_score(x), -parse_date(x.get("date", ""))))
+    
+    # Log sorting results
+    score_counts = {0: 0, 1: 0, 2: 0}
+    for item in all_items:
+        score = get_relevance_score(item)
+        score_counts[score] = score_counts.get(score, 0) + 1
+    
+    print(f"  Sorting complete:")
+    print(f"    - Exact match (score 0): {score_counts[0]} results")
+    print(f"    - Partial match (score 1): {score_counts[1]} results")
+    print(f"    - No match in title/snippet (score 2): {score_counts[2]} results")
+    
+    # Step 5: Save results
+    print(f"\n  Step 5: Saving {len(all_items)} results...")
     now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     data = {
         "query": query,
