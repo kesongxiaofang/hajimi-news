@@ -1324,6 +1324,56 @@ body {
   font-weight: 600;
 }
 
+/* 平台直搜入口链接 */
+.platform-search-link {
+  display: block;
+  margin-top: 8px;
+  padding: 8px 14px;
+  background: var(--card-bg, rgba(255,255,255,0.05));
+  border: 1px dashed var(--border-light);
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--primary);
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.2s ease;
+}
+.platform-search-link:hover {
+  background: var(--gold-gradient-light, rgba(255,165,0,0.08));
+  border-color: var(--primary);
+  transform: translateY(-1px);
+}
+
+/* 无结果平台的直搜入口 */
+.source-group-empty {
+  opacity: 0.8;
+}
+.platform-empty-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.platform-empty-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 14px;
+  background: var(--card-bg);
+  border: 1px solid var(--border-light);
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+.platform-empty-link:hover {
+  border-color: var(--pf-color, var(--primary));
+  background: color-mix(in srgb, var(--pf-color, var(--primary)) 10%, var(--card-bg));
+  transform: translateY(-1px);
+}
+
 /* Card author dot */
 .ca-dot {
   display: inline-block;
