@@ -73,3 +73,5 @@ jobs:
           git commit -m "Update hot data" || echo "No changes"
           git push
         continue-on-error: true
+
+        continue-on-error: true
