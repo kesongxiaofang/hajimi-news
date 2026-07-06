@@ -389,8 +389,32 @@ def do_search(query, site=None, time_range="", sort_by=""):
         
         print(f"\n  After platform-specific search: {len(all_items)} unique results")
     
-    # Step 3: Sort by relevance (exact match first), then by date
-    print(f"\n  Step 3: Sorting results by relevance...")
+    # Step 3: Strict keyword filter - ONLY keep items where title/snippet contains the search query
+    print(f"\n  Step 3: Filtering - keeping only results that contain the search keywords...")
+    query_lower = query.lower()
+    query_words = [w for w in query_lower.split() if len(w) > 1]
+    
+    before_filter = len(all_items)
+    filtered_items = []
+    for item in all_items:
+        title = (item.get('title', '') or '').lower()
+        snippet = (item.get('snippet', '') or '').lower()
+        combined = title + ' ' + snippet
+        
+        # Item must contain the full query OR at least 2 keywords
+        if query_lower in combined:
+            filtered_items.append(item)
+        elif query_words:
+            matched = sum(1 for w in query_words if w in combined)
+            if matched >= min(2, len(query_words)):  # At least 2 keywords (or all if less than 2)
+                filtered_items.append(item)
+    
+    removed = before_filter - len(filtered_items)
+    print(f"  Filtered: {before_filter} -> {len(filtered_items)} results (removed {removed} irrelevant)")
+    all_items = filtered_items
+    
+    # Step 4: Sort by relevance (exact match first), then by date
+    print(f"\n  Step 4: Sorting results by relevance...")
     
     def get_relevance_score(item):
         """Calculate relevance score (lower = more relevant).
@@ -430,8 +454,8 @@ def do_search(query, site=None, time_range="", sort_by=""):
     print(f"    - Partial match (score 1): {score_counts[1]} results")
     print(f"    - No match in title/snippet (score 2): {score_counts[2]} results")
     
-    # Step 4: Save results
-    print(f"\n  Step 4: Saving {len(all_items)} results...")
+    # Step 5: Save results
+    print(f"\n  Step 5: Saving {len(all_items)} results...")
     now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     data = {
         "query": query,
