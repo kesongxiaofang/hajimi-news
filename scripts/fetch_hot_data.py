@@ -61,6 +61,7 @@ UAPIS_SEARCH = "https://uapis.cn/api/v1/search/aggregate"
 # Cache settings
 CACHE_FILE = os.path.join(DATA_DIR, "search-cache.json")
 CACHE_DURATION = 86400  # 24 hours
+CACHE_VERSION = "v9.4"  # Bump this whenever filtering logic changes to invalidate old caches
 
 
 def fetch_url(url, timeout=10, headers=None):
@@ -263,6 +264,11 @@ def check_search_cache(query, time_range="", sort_by=""):
         if cache.get("time_range") != time_range:
             return None
         
+        # Check cache version (invalidate when filtering logic changes)
+        if cache.get("cache_version") != CACHE_VERSION:
+            print(f"  Cache version mismatch (stored={cache.get('cache_version')}, current={CACHE_VERSION}), ignoring")
+            return None
+        
         # Check if cache is still valid
         update_time = cache.get("update_time", "")
         if update_time:
@@ -295,6 +301,7 @@ def save_search_cache(query, time_range, sort_by, results, count):
             "update_time": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
             "count": count,
             "results": results,
+            "cache_version": CACHE_VERSION,
         }
         
         with open(CACHE_FILE, "w", encoding="utf-8") as f:
