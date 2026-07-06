@@ -5,21 +5,5 @@
   "update_time": "2026-07-06T14:50:08Z",
   "count": 0,
   "results": [],
-  "search_sources": [
-    "uapis.cn",
-    "uapis.cn (site-specific)",
-    "Bing",
-    "DuckDuckGo"
-  ],
-  "platforms_searched": [
-    "weibo",
-    "zhihu",
-    "douyin",
-    "bilibili",
-    "xiaohongshu",
-    "toutiao",
-    "thepaper",
-    "douban",
-    "ifeng"
-  ]
+  "cache_version": "v9.4"
 }
