@@ -49,8 +49,8 @@ PLATFORM_DOMAIN_ALIASES = {
 }
 
 # Platforms that require stricter filtering (full query MUST appear in title)
-# These platforms have unreliable snippets due to UGC content nature
-STRICT_TITLE_PLATFORMS = ["xiaohongshu.com"]
+# Disabled per user request — relaxed filtering
+STRICT_TITLE_PLATFORMS = []
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(SCRIPT_DIR)
@@ -61,7 +61,7 @@ UAPIS_SEARCH = "https://uapis.cn/api/v1/search/aggregate"
 # Cache settings
 CACHE_FILE = os.path.join(DATA_DIR, "search-cache.json")
 CACHE_DURATION = 86400  # 24 hours
-CACHE_VERSION = "v9.4"  # Bump this whenever filtering logic changes to invalidate old caches
+CACHE_VERSION = "v9.7"  # Bump this whenever filtering logic changes to invalidate old caches
 
 
 def fetch_url(url, timeout=10, headers=None):
@@ -414,19 +414,28 @@ def do_search(query, site=None, time_range="", sort_by=""):
         
         print(f"\n  After platform-specific search: {len(all_items)} unique results")
     
-    # Step 3: Multi-layer filtering
+    # Step 3: Multi-layer filtering (relaxed V9.7)
     # 3a. Platform domain verification — results tagged as platform X must have URL from that platform
-    # 3b. Keyword relevance — title/snippet must contain the search query
-    # 3c. Stricter platform-specific rules (e.g., xiaohongshu requires query in title)
-    print(f"\n  Step 3: Multi-layer filtering...")
+    # 3b. Keyword relevance — title/snippet must contain the search query or its segments
+    print(f"\n  Step 3: Filtering (relaxed)...")
     query_lower = query.lower()
     query_words = [w for w in query_lower.split() if len(w) > 1]
-    
+
+    # For Chinese queries: also generate 2-char segments so partial matches count
+    # e.g. "人工智能" -> ["人工", "智能"], "特朗普" -> ["特朗", "朗普"]
+    import re as _re
+    cn_chars = _re.findall(r'[\u4e00-\u9fff]+', query)
+    cn_segments = []
+    for seg in cn_chars:
+        if len(seg) >= 2:
+            cn_segments.extend(seg[i:i+2] for i in range(len(seg) - 1))
+    # Combine space-split words and Chinese 2-char segments (deduplicated)
+    all_match_units = list(dict.fromkeys(query_words + cn_segments))
+
     before_filter = len(all_items)
     domain_rejects = 0
     keyword_rejects = 0
-    strict_title_rejects = 0
-    
+
     def get_url_domain(url):
         """Extract domain from URL for platform matching."""
         if not url:
@@ -440,7 +449,7 @@ def do_search(query, site=None, time_range="", sort_by=""):
             return domain
         except:
             return ""
-    
+
     def is_url_for_platform(url, expected_domain):
         """Check if URL belongs to the expected platform domain or its aliases."""
         url_domain = get_url_domain(url)
@@ -448,49 +457,41 @@ def do_search(query, site=None, time_range="", sort_by=""):
             return False
         aliases = PLATFORM_DOMAIN_ALIASES.get(expected_domain, [expected_domain])
         return any(alias in url_domain for alias in aliases)
-    
-    # Expected domain for keyword matching threshold
-    required_keyword_match = max(2, int(len(query_words) * 0.67)) if query_words else 999
-    
+
+    # Relaxed threshold: match at least 1 keyword/segment (was 2 or 67%)
+    required_keyword_match = 1 if all_match_units else 999
+
     filtered_items = []
     for item in all_items:
         title = (item.get('title', '') or '').lower()
         snippet = (item.get('snippet', '') or '').lower()
         combined = title + ' ' + snippet
         source = (item.get('source', '') or '').lower()
-        
+
         # 3a. Platform domain check: if source tagged as a known platform, verify URL belongs there
         if source in PLATFORM_DOMAIN_ALIASES:
             url = item.get('url', '')
             if url and not is_url_for_platform(url, source):
                 domain_rejects += 1
                 continue
-        
-        # 3b. Stricter filtering for UGC-heavy platforms (xiaohongshu etc.)
-        # Full query MUST appear in the title (not just snippet)
-        if source in STRICT_TITLE_PLATFORMS:
-            if query_lower not in title:
-                strict_title_rejects += 1
-                continue
-        
-        # 3c. Keyword relevance check
+
+        # 3b. Keyword relevance check (relaxed)
         # Full query match — always keep
         if query_lower in combined:
             filtered_items.append(item)
-        # Partial match by keywords — require higher threshold (2 or 67% of keywords)
-        elif query_words:
-            matched = sum(1 for w in query_words if w in combined)
+        # Partial match — any single keyword/segment match is enough
+        elif all_match_units:
+            matched = sum(1 for w in all_match_units if w in combined)
             if matched >= required_keyword_match:
                 filtered_items.append(item)
             else:
                 keyword_rejects += 1
         else:
             keyword_rejects += 1
-    
+
     removed = before_filter - len(filtered_items)
     print(f"  Filtered: {before_filter} -> {len(filtered_items)} results")
     print(f"    - Domain mismatch rejected: {domain_rejects}")
-    print(f"    - Strict title check rejected: {strict_title_rejects}")
     print(f"    - Keyword mismatch rejected: {keyword_rejects}")
     all_items = filtered_items
     
