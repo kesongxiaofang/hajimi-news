@@ -25,6 +25,19 @@ const ALLOWED_SOURCES = {
 
 const OTHER_SOURCE = { name: '其他来源', color: '#888', emoji: '🌐' };
 
+// ===== 各平台直搜入口 =====
+const PLATFORM_SEARCH_URLS = {
+  'douban.com':       'https://www.douban.com/search?q=',
+  'zhihu.com':        'https://www.zhihu.com/search?type=content&q=',
+  'xiaohongshu.com':  'https://www.xiaohongshu.com/search_result?keyword=',
+  'weibo.com':        'https://s.weibo.com/weibo?q=',
+  'douyin.com':       'https://www.douyin.com/search/',
+  'bilibili.com':     'https://search.bilibili.com/all?keyword=',
+  'toutiao.com':      'https://so.toutiao.com/search?keyword=',
+  'thepaper.cn':      'https://www.thepaper.cn/search?keyword=',
+  'ifeng.com':        'https://search.ifeng.com/search?q=',
+};
+
 // ===== 时间段选项 =====
 const TIME_PERIODS = [
   { label: '24小时内', value: 'd',  ms: 24 * 60 * 60 * 1000 },
@@ -275,7 +288,7 @@ function groupResultsBySource(items) {
 async function dispatchWorkflow(searchQuery) {
   const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`;
   const payload = {
-    ref: 'main',
+    ref: 'master',
     inputs: { search_query: searchQuery }
   };
 
@@ -698,6 +711,13 @@ function renderFilteredResults() {
     const displayInfo = g.key === '__other__' ? OTHER_SOURCE :
       (ALLOWED_SOURCES[g.key] || OTHER_SOURCE);
 
+    // 生成该平台直搜链接
+    let platformSearchUrl = '';
+    if (g.key !== '__other__' && PLATFORM_SEARCH_URLS[g.key]) {
+      const keyword = allSearchResults?.query || '';
+      platformSearchUrl = PLATFORM_SEARCH_URLS[g.key] + encodeURIComponent(keyword);
+    }
+
     html += `<div class="source-group">
       <div class="source-group-header">
         <span class="source-badge" style="background:${displayInfo.color}">${displayInfo.emoji} ${displayInfo.name}</span>
@@ -722,8 +742,40 @@ function renderFilteredResults() {
       `;
     });
 
-    html += '</div></div>';
+    html += '</div>';
+
+    // 平台直搜入口 - 始终显示，即使该平台无结果
+    if (platformSearchUrl) {
+      html += `<a href="${platformSearchUrl}" target="_blank" rel="noopener" class="platform-search-link">
+        🔍 在${displayInfo.name}搜索更多「${escapeHtml(allSearchResults?.query || '')}」
+      </a>`;
+    }
+
+    html += '</div>';
   });
+
+  // 为没有搜索结果的平台也显示直搜入口
+  if (activeSourceFilters.length === 0) {
+    const keyword = allSearchResults?.query || '';
+    const displayedKeys = new Set(groups.map(g => g.key));
+    const missingPlatforms = Object.keys(PLATFORM_SEARCH_URLS).filter(key => !displayedKeys.has(key));
+    if (missingPlatforms.length > 0 && keyword) {
+      html += '<div class="source-group source-group-empty">';
+      html += '<div class="source-group-header" style="opacity:0.6">';
+      html += '<span class="source-badge" style="background:#999">🔍 未找到结果</span>';
+      html += '<span class="source-group-count">以下平台暂无匹配内容，可直接前往搜索</span>';
+      html += '</div>';
+      html += '<div class="platform-empty-links">';
+      missingPlatforms.forEach(key => {
+        const info = ALLOWED_SOURCES[key] || { name: key, color: '#999', emoji: '🔗' };
+        const url = PLATFORM_SEARCH_URLS[key] + encodeURIComponent(keyword);
+        html += `<a href="${url}" target="_blank" rel="noopener" class="platform-empty-link" style="--pf-color:${info.color}">
+          ${info.emoji} 在${info.name}搜索「${escapeHtml(keyword)}」→
+        </a>`;
+      });
+      html += '</div></div>';
+    }
+  }
 
   if (filtered.length === 0) {
     html = `
