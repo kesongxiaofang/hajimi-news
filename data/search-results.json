@@ -829,22 +829,5 @@
       "date": "",
       "search_source": "uapis.cn (site-specific)"
     }
-  ],
-  "search_sources": [
-    "uapis.cn",
-    "uapis.cn (site-specific)",
-    "Bing",
-    "DuckDuckGo"
-  ],
-  "platforms_searched": [
-    "weibo",
-    "zhihu",
-    "douyin",
-    "bilibili",
-    "xiaohongshu",
-    "toutiao",
-    "thepaper",
-    "douban",
-    "ifeng"
   ]
 }
