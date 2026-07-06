@@ -288,7 +288,7 @@ function groupResultsBySource(items) {
 async function dispatchWorkflow(searchQuery) {
   const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`;
   const payload = {
-    ref: 'master',
+    ref: 'main',
     inputs: { search_query: searchQuery }
   };
 
