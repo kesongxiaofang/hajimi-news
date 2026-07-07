@@ -44,8 +44,8 @@ DATA_DIR = os.path.join(REPO_ROOT, "data")
 UAPIS_SEARCH = "https://uapis.cn/api/v1/search/aggregate"
 
 CACHE_FILE = os.path.join(DATA_DIR, "search-cache.json")
-CACHE_DURATION = 300  # 5 minutes
-CACHE_VERSION = "v10.1"
+CACHE_DURATION = 0  # Disabled - always fresh search
+CACHE_VERSION = "v10.2"
 
 
 def fetch_url(url, timeout=10, headers=None, data=None):
