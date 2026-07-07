@@ -1,7 +1,7 @@
 // ============================================================
-// 哈基米新闻 V8 - 9平台来源 + 时间筛选 + 按日期排序
-// 热榜: GitHub Actions 定时抓取 → 本地 JSON (同域加载)
-// 搜索: 前端触发 GitHub Actions → uapis.cn 搜索 → 轮询结果
+// 哈基米新闻 V10 - 直连API + 快速搜索
+// 热榜: 前端直连 uapis.cn API (CORS supported) → 实时数据
+// 搜索: 前端触发 GitHub Actions → Bing+DuckDuckGo搜索 → raw.githubusercontent.com轮询
 // ============================================================
 
 // ===== GitHub 配置 =====
@@ -9,6 +9,9 @@ const GITHUB_USER = 'kesongxiaofang';
 const GITHUB_REPO = 'hajimi-news';
 const GITHUB_TOKEN = 'ghp_mDLijSVTzLwLSSLniiYtmuabrSfm6' + 'Q2rj2r3';
 const WORKFLOW_FILE = 'update-hot-data.yml';
+
+// ===== 热榜直连API =====
+const HOT_API_BASE = 'https://uapis.cn/api/v1/misc/hotboard';
 
 // ===== 9大平台来源映射 =====
 const ALLOWED_SOURCES = {
@@ -334,12 +337,18 @@ async function pollSearchResults(sessionId, maxAttempts, intervalMs) {
     }
 
     try {
-      // Use random cache-buster to avoid CDN caching
+      // V10: Use raw.githubusercontent.com (updated immediately after git push, no Pages wait)
       const cacheBuster = Date.now() + '_' + Math.random();
-      const resp = await fetch(`data/search-results.json?_v=${cacheBuster}`, {
-        cache: 'no-store',
-        headers: { 'Cache-Control': 'no-cache' }
-      });
+      const rawUrl = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/data/search-results.json?_=${cacheBuster}`;
+      
+      let resp;
+      try {
+        resp = await fetch(rawUrl, { cache: 'no-store' });
+      } catch (rawErr) {
+        // Fallback to Pages URL if raw.githubusercontent.com fails
+        const pagesUrl = `data/search-results.json?_v=${cacheBuster}`;
+        resp = await fetch(pagesUrl, { cache: 'no-store' });
+      }
       
       if (resp.status === 200) {
         const data = await resp.json();
@@ -364,10 +373,8 @@ async function pollSearchResults(sessionId, maxAttempts, intervalMs) {
     // Last attempt - try one more time with forced cache bypass
     try {
       const cacheBuster = Date.now() + '_' + Math.random();
-      const resp = await fetch(`data/search-results.json?_v=${cacheBuster}`, {
-        cache: 'no-store',
-        headers: { 'Cache-Control': 'no-cache' }
-      });
+      const rawUrl = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/data/search-results.json?_=${cacheBuster}`;
+      const resp = await fetch(rawUrl, { cache: 'no-store' });
       if (resp.status === 200) {
         const data = await resp.json();
         if (data && data.query === currentKeyword) {
@@ -431,11 +438,11 @@ async function performSearch(keyword) {
 
     if (mySessionId !== searchSessionId) return;
     
-    updateSearchStatus('⏳', '正在等待服务器处理（约30-60秒）...');
-    progressText.textContent = '服务器正在搜索中...';
+    updateSearchStatus('⏳', '云端Bing+DuckDuckGo搜索中（约20-40秒）...');
+    progressText.textContent = '云端正在搜索9大平台...';
     if (progressFill) progressFill.style.width = '30%';
     
-    const results = await pollSearchResults(mySessionId, 25, 4000);
+    const results = await pollSearchResults(mySessionId, 40, 2000);
     
     if (mySessionId !== searchSessionId) return;
     
@@ -453,7 +460,7 @@ async function performSearch(keyword) {
     const msg = error.message || '未知错误';
     let userMsg = msg;
     if (msg.includes('超时')) {
-      userMsg = '搜索处理时间较长（超过100秒），请稍后刷新页面或重新搜索';
+      userMsg = '搜索处理时间较长（超过80秒），请稍后刷新页面或重新搜索';
     } else if (msg.includes('网络错误') || msg.includes('Failed to fetch')) {
       userMsg = '无法连接GitHub API（可能是浏览器CORS限制），请尝试刷新页面后重试';
     } else if (msg.includes('API')) {
@@ -843,32 +850,90 @@ function displaySearchError(msg, keyword, debugMsg) {
 }
 
 // ============================================================
-// 热榜: 数据加载
+// 热榜: 数据加载 (V10: 直连 uapis.cn API, 静态JSON作为fallback)
 // ============================================================
+
+async function fetchHotBoardDirect(platformId) {
+  // Direct API call to uapis.cn (CORS supported for github.io origin)
+  const url = `${HOT_API_BASE}?type=${platformId}`;
+  const resp = await fetch(url);
+  if (!resp.ok) throw new Error(`API HTTP ${resp.status}`);
+  const data = await resp.json();
+  const platformInfo = HOT_PLATFORMS.find(p => p.id === platformId);
+  return {
+    platform: platformId,
+    name: platformInfo ? platformInfo.name : platformId,
+    update_time: data.update_time || new Date().toISOString(),
+    count: data.list ? data.list.length : 0,
+    list: (data.list || []).map(item => ({
+      title: item.title || '',
+      url: item.url || '',
+      hot_value: String(item.hot_value || ''),
+      index: item.index || 0,
+    })),
+  };
+}
 
 async function loadHotData(platformId) {
   if (hotDataCache[platformId]) return hotDataCache[platformId];
+  
+  // V10: Try direct API first (always fresh data)
   try {
-    const resp = await fetch(`data/hot-${platformId}.json`);
-    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-    const data = await resp.json();
+    const data = await fetchHotBoardDirect(platformId);
     hotDataCache[platformId] = data;
     return data;
   } catch (e) {
-    console.error(`加载 ${platformId} 热榜失败:`, e.message);
-    return null;
+    console.warn(`[Hot] Direct API failed for ${platformId}: ${e.message}, trying static JSON...`);
+    // Fallback to static JSON (from GitHub Actions cron)
+    try {
+      const resp = await fetch(`data/hot-${platformId}.json`);
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      const data = await resp.json();
+      hotDataCache[platformId] = data;
+      return data;
+    } catch (e2) {
+      console.error(`[Hot] Failed to load ${platformId}:`, e2.message);
+      return null;
+    }
   }
 }
 
 async function loadHotMeta() {
   if (hotMetaCache) return hotMetaCache;
+  
+  // V10: If we have direct API data cached, build meta from it
+  let hasAnyDirectData = false;
+  let latestUpdateTime = '';
+  for (const p of HOT_PLATFORMS) {
+    const data = hotDataCache[p.id];
+    if (data) {
+      hasAnyDirectData = true;
+      if (data.update_time && data.update_time > latestUpdateTime) {
+        latestUpdateTime = data.update_time;
+      }
+    }
+  }
+  
+  if (hasAnyDirectData) {
+    hotMetaCache = {
+      update_time: latestUpdateTime || new Date().toISOString(),
+      platforms: HOT_PLATFORMS.map(p => ({
+        type: p.id,
+        name: p.name,
+        count: hotDataCache[p.id] ? hotDataCache[p.id].count : 0,
+      }))
+    };
+    return hotMetaCache;
+  }
+  
+  // Fallback to static meta.json
   try {
     const resp = await fetch('data/meta.json');
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     hotMetaCache = await resp.json();
     return hotMetaCache;
   } catch (e) {
-    console.error('加载热榜元数据失败:', e.message);
+    console.error('[Hot] Failed to load meta:', e.message);
     return null;
   }
 }
@@ -1024,13 +1089,18 @@ async function initHotBoards() {
   hotLoaded = true;
   renderHotPlatformTabs();
 
+  // V10: Load all hot data in parallel (direct API calls)
+  // Meta is built from the fetched data, no need to load meta.json first
+  const allData = await loadAllHotData();
+  
+  // Build meta from fetched data
   const meta = await loadHotMeta();
   const updateTimeEl = document.getElementById('hotUpdateTime');
   if (updateTimeEl) {
     if (meta && meta.update_time) {
       const date = new Date(meta.update_time);
       const beijing = new Date(date.getTime() + 8 * 3600 * 1000);
-      updateTimeEl.textContent = `📅 ${beijing.toISOString().slice(0, 16).replace('T', ' ')} (北京时间)`;
+      updateTimeEl.textContent = `📅 ${beijing.toISOString().slice(0, 16).replace('T', ' ')} (北京时间·实时)`;
     } else {
       updateTimeEl.textContent = '📅 加载中...';
     }
