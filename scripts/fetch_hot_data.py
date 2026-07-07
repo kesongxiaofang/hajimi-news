@@ -1,16 +1,13 @@
 #!/usr/bin/env python3
 """
-V10.1: Fast multi-source search using Bing + DuckDuckGo + uapis.cn (parallel).
+V10.3: Robust multi-source search for GitHub Actions (US IP).
+- uapis.cn searches with 90s timeout + retries (backup for US IP limitation)
+- Bing/DuckDuckGo still attempted but expected to fail on US IP
+- Search results from website search button flow
+- Hot data updates via cron
 
-Strategy:
-1. Search Bing site: for each of 9 platforms + general (parallel)
-2. Search DuckDuckGo site: for each platform (parallel)
-3. Search uapis.cn general (parallel, as fallback/supplement)
-4. Aggregate and deduplicate
-5. Sort by relevance
-
-All sources run in parallel. Bing/DuckDuckGo are fast (~2-5s),
-uapis.cn is slow (~30s) but provides additional results.
+Note: For production-quality search (200+ results, 9 platforms, China IP),
+use scripts/search_and_deploy.py locally instead.
 """
 
 import argparse
@@ -45,7 +42,7 @@ UAPIS_SEARCH = "https://uapis.cn/api/v1/search/aggregate"
 
 CACHE_FILE = os.path.join(DATA_DIR, "search-cache.json")
 CACHE_DURATION = 0  # Disabled - always fresh search
-CACHE_VERSION = "v10.2"
+CACHE_VERSION = "v10.3"
 
 
 def fetch_url(url, timeout=10, headers=None, data=None):
@@ -282,44 +279,51 @@ def search_duckduckgo_site(query, site_domain, max_results=10):
 # ============================================================
 
 def search_uapis(query, site=None, time_range="", max_results=100):
-    """Search via uapis.cn API (slow ~30s, but provides additional results)."""
-    print(f"    [uapis.cn] Searching '{query}'...")
-    try:
-        payload = {"query": query}
-        if site:
-            payload["site"] = site
-        if time_range:
-            payload["time_range"] = time_range
-        
-        data = json.dumps(payload).encode("utf-8")
-        req = urllib.request.Request(
-            UAPIS_SEARCH,
-            data=data,
-            headers={
-                "User-Agent": "Mozilla/5.0",
-                "Content-Type": "application/json",
-            }
-        )
-        with urllib.request.urlopen(req, timeout=45) as resp:
-            result = json.loads(resp.read().decode("utf-8"))
-        
-        items = result.get("results", [])
-        search_items = []
-        for item in items:
-            search_items.append({
-                "title": item.get("title", ""),
-                "url": item.get("url", ""),
-                "snippet": (item.get("snippet") or "")[:300],
-                "source": item.get("domain", "unknown"),
-                "date": item.get("publish_time", ""),
-                "search_source": "uapis.cn"
-            })
-        
-        print(f"    [uapis.cn] Found {len(search_items)} results")
-        return search_items
-    except Exception as e:
-        print(f"    [uapis.cn] Error: {e}")
-        return []
+    """Search via uapis.cn API (with retry for US IP)."""
+    print(f"    [uapis.cn] Searching '{query}' (site={site or 'general'})...")
+    max_retries = 2
+    for attempt in range(max_retries + 1):
+        try:
+            payload = {"query": query}
+            if site:
+                payload["site"] = site
+            if time_range:
+                payload["time_range"] = time_range
+            
+            data = json.dumps(payload).encode("utf-8")
+            req = urllib.request.Request(
+                UAPIS_SEARCH,
+                data=data,
+                headers={
+                    "User-Agent": "Mozilla/5.0",
+                    "Content-Type": "application/json",
+                }
+            )
+            with urllib.request.urlopen(req, timeout=90) as resp:
+                result = json.loads(resp.read().decode("utf-8"))
+            
+            items = result.get("results", [])
+            search_items = []
+            for item in items:
+                search_items.append({
+                    "title": item.get("title", ""),
+                    "url": item.get("url", ""),
+                    "snippet": (item.get("snippet") or "")[:300],
+                    "source": item.get("domain", "unknown"),
+                    "date": item.get("publish_time", ""),
+                    "search_source": "uapis.cn"
+                })
+            
+            print(f"    [uapis.cn] Found {len(search_items)} results (site={site or 'general'})")
+            return search_items
+        except Exception as e:
+            if attempt < max_retries:
+                wait = (attempt + 1) * 5
+                print(f"    [uapis.cn] Error (attempt {attempt+1}): {e}, retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                print(f"    [uapis.cn] Error after {max_retries+1} attempts: {e}")
+                return []
 
 
 # ============================================================
@@ -327,6 +331,9 @@ def search_uapis(query, site=None, time_range="", max_results=100):
 # ============================================================
 
 def check_search_cache(query, time_range="", sort_by=""):
+    """Check cache. When CACHE_DURATION=0, always bypass."""
+    if CACHE_DURATION <= 0:
+        return None
     if not os.path.exists(CACHE_FILE):
         return None
     try:
@@ -342,7 +349,7 @@ def check_search_cache(query, time_range="", sort_by=""):
         if update_time:
             try:
                 update_dt = datetime.strptime(update_time, "%Y-%m-%dT%H:%M:%SZ")
-                age = (datetime.utcnow() - update_dt).total_seconds()
+                age = max(0, (datetime.utcnow() - update_dt).total_seconds())
                 if age > CACHE_DURATION:
                     return None
             except:
