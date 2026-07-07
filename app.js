@@ -1,7 +1,8 @@
 // ============================================================
-// 哈基米新闻 V10 - 直连API + 快速搜索
+// 哈基米新闻 V11 - 直连热榜 + 双模式搜索
 // 热榜: 前端直连 uapis.cn API (CORS supported) → 实时数据
-// 搜索: 前端触发 GitHub Actions → Bing+DuckDuckGo搜索 → raw.githubusercontent.com轮询
+// 搜索A(网页): 触发 GitHub Actions → 多源搜索 → raw.githubusercontent.com轮询
+// 搜索B(本地): WorkBuddy本地搜索(uapis.cn全中国IP质量) → 直接部署到GitHub → 前端秒加载
 // ============================================================
 
 // ===== GitHub 配置 =====
@@ -438,7 +439,7 @@ async function performSearch(keyword) {
 
     if (mySessionId !== searchSessionId) return;
     
-    updateSearchStatus('⏳', '云端Bing+DuckDuckGo搜索中（约20-40秒）...');
+    updateSearchStatus('⏳', '云端多源搜索中（约30-60秒）...');
     progressText.textContent = '云端正在搜索9大平台...';
     if (progressFill) progressFill.style.width = '30%';
     
