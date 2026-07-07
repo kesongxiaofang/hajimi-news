@@ -2,8 +2,209 @@
   "query": "人工智能",
   "time_range": "",
   "sort": "",
-  "update_time": "2026-07-07T07:11:11Z",
-  "count": 0,
-  "results": [],
-  "cache_version": "v10"
+  "update_time": "2026-07-07T07:19:47Z",
+  "count": 25,
+  "results": [
+    {
+      "title": "人工智能 —— 人工智能",
+      "url": "http://www.c114.com.cn/search/?q=%EF%BF%BD%CB%B9%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD",
+      "snippet": "https://www.c114.com.cn/ai/5339/a1293828.html - 转载 - 2025-7-28\n7月26日，2025世界人工智能大会暨人工智能全球治理高级别会议发表《人工智能全球治理行动计划》。\n全文如下：人工智能全球治理行动计划人工智能是人类发展的新领域，是新一轮科技革命和产业变革的重要驱动力量，也可以是造福人类的国际公共产品。\n人工智能带来前所未有发展机遇，也带来前所未遇风险挑战。\n智能时代，唯",
+      "source": "www.c114.com.cn",
+      "date": "2025-08-06T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能（AI，Artificial Intelligence）是什么？探秘人工智能究竟是什么！",
+      "url": "https://insight.xiaoduoai.com/ai-efficiency-improvement/what-is-ai-artificial-intelligence-explore-what-exactly-artificial-intelligence-is.html",
+      "snippet": "人工智能（AI）是使计算机系统或机器具备人类智能的技术，旨在让机器表现出学习、交流、推理等能力。AI通过算法和大量数据训练，实现语音识别、图像识别等功能。数据是AI的燃料，算法是其大脑，不同算法适用于不同任务。AI分为狭义人工智能（ANI）、通用人工智能（AGI）和超级人工智能（ASI）。ANI专注于特定任务，如语音识别；AGI具备全面智能，目前尚未实现；ASI则超越人类智能。AI在医疗、交通、工业等领域有广泛应用，但也面临就业变化、数据安全等挑战。随着技术发展，AI有望带来更多福祉。",
+      "source": "insight.xiaoduoai.com",
+      "date": "2025-05-14T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能(Artificial Intelligence，AI)是计算机科学或智能科学中涉及研究、设计和应用智能机器的一个分支。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzODcyMTMzMQ==&mid=2247522301&idx=7&sn=356bf08049fdbf3fbef0238458fd53b8&chksm=e871b7e75097eb8ea6e25e4be51ef3869fc6275a2c1bf83f1cd47358022850d07464b82afead&scene=27",
+      "snippet": "不同的人工智能研究者从不同的角度对人工智能内容进行研究。例如，基于脑功能模拟、基于应用领域和应用系统、基于系统结构和支撑环境、分布式人工智能系统、机器定理证明、不确定性推理等。中国学者在人工智能基础研究方面已在机器定理证明、分层知识表示与推理、自动规划、虹膜识别、语音识别、可拓数据挖掘、进化优化等方面取得一些重要成果，具有较大的国际影响力;但总体上看成果还不够多，面不够广，整体影响力也有待进一步提高。",
+      "source": "mp.weixin.qq.com",
+      "date": "2025-04-30T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能",
+      "url": "https://wiki.mbalib.com/wiki/Artificial_Intelligence",
+      "snippet": "人工智能（Artificial Intelligence，AI）是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门技术科学，属于计算机科学的分支。其目标是使机器能够胜任通常需要人类智能完成的复杂工作。AI涵盖机器学习、计算机视觉、自然语言处理、专家系统等多个领域，研究内容包括知识表示、自动推理、搜索方法、问题求解、逻辑推理、自然语言处理等。AI的发展经历了从理论探索到实际应用的过程，目前在多个领域取得显著进展，如围棋、图像识别、医疗诊断等。AI可分为强人工智能（具有自主意识和推理能力）和弱人工智能（模拟人类智能但无自主意识）。AI面临的主要挑战包括创造力、同理心和灵巧性",
+      "source": "wiki.mbalib.com",
+      "date": "2025-01-01T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "Artificial Intelligence Definition",
+      "url": "https://builtin.com/artificial-intelligence#%3A~%3Atext%3DMachine%20Learning%2C-The%20primary%20approach%26text%3DA%20machine%20learning%20algorithm%20uses%2Cto%20predict%20new%20output%20values.",
+      "snippet": "人工智能（AI）是计算机科学的一个分支，旨在构建能够执行通常需要人类智能任务的机器。AI使机器能够模拟人类能力，如学习、问题解决、决策和理解。常见应用包括语音识别、图像识别、内容生成、推荐系统、自动驾驶汽车和AI代理。AI通过机器学习和深度学习等技术，使机器能够模拟人类智能，帮助决策、解决问题和执行任务。AI在医疗、金融、制造、教育等多个行业都有广泛应用，帮助进行数据驱动的决策和执行重复或计算密集型任务。AI系统通过算法和数据进行训练，识别模式并做出预测，从而提高任务的准确性和效率。AI的子领域包括机器学习、深度学习、自然语言处理、计算机视觉、生成式AI、AI代理等。AI的未来发展可能实现通用",
+      "source": "builtin.com",
+      "date": "2024-10-21T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能 (AI) 是什么？",
+      "url": "https://www.ngui.cc/article/show-2162398.html",
+      "snippet": "人工智能（AI）是人类创造的具有智能的实体，能自动完成任务，理性甚至感性地思考和行动。AI的定义因人而异，但核心在于无需明确指令即可自主决策。AI的历史可追溯至古希腊神话，现代AI起源于20世纪50年代，1956年达特茅斯会议确立了AI学科。AI经历了“冬天”与复兴，1997年IBM深蓝击败国际象棋冠军，标志着AI技术的进步。AI涉及哲学、数学、神经科学、心理学、计算机工程等多个学科，旨在提升人类能力，优化决策，推动社会进步。\n\nAI分为狭义AI（ANI）、通用AI（AGI）和超级AI（ASI）。ANI用于特定任务，AGI具备人类水平智能，ASI则超越人类。AI系统按功能可分为反应型、有限记忆",
+      "source": "www.ngui.cc",
+      "date": "2024-07-16T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "What Is Artificial Intelligence?",
+      "url": "https://unacademy.com/content/cbse-class-11/study-material/computer-science/artificial-intelligence/#%3A~%3Atext%3DWhat%20Is%20Artificial%20Intelligence%3F%2Cas%20learning%20and%20problem-solving.",
+      "snippet": "人工智能（AI）是计算机科学中创建能通过数据学习并完成传统由人类完成任务的智能算法的技术。AI使机器人能够模仿人类的学习和解决问题能力，从下棋机器到自动驾驶汽车，均基于深度学习和自然语言处理。计算机通过分析大量数据寻找模式来完成特定任务。早期AI研究侧重于符号技术和问题解决，1950年代开始，美国军方在1960年代开始实验AI，并在1970至1980年代训练计算机像人类一样思考。DARPA在1970年代进行了街道地图研究，并在2003年创造了广泛应用的智能个人助手。AI通过数据驱动学习和发现，实现自动化任务，但仍需人类设定系统和问题。AI可提升现有产品，如Siri，结合大数据、自动化、对话平台",
+      "source": "unacademy.com",
+      "date": "2024-06-23T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "什么是人工智能（AI）？",
+      "url": "https://help.aliyun.com/zh/what-is/what-is-ai",
+      "snippet": "人工智能（AI）是计算机科学的一个分支，旨在让计算机模仿人类的决策能力、思考和行动，解决如自然语言处理、推荐、数据检索、预测等复杂任务。随着数据量庞大，AI已深入日常生活，成为“必需品”。AI优势包括处理海量数据、提高生产效率、持续运行、减少错误、自动化危险工作、应用广泛、持续学习等。核心技术包括机器学习、深度学习、自然语言处理、语音识别、计算机视觉等。AI的工作原理依赖于数据、计算能力和算法，通过学习数据中的规律来完成任务。AI广泛应用于营销、内容创作、工业、医疗、金融、交通、娱乐、安全等领域。阿里云提供一站式AI服务，包括大模型平台、视觉智能、自然语言处理、智能语音交互、AI应用方案、智能",
+      "source": "help.aliyun.com",
+      "date": "2024-02-02T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "Artificial Intelligence - Overview",
+      "url": "https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_overview.htm",
+      "snippet": "人工智能概述：人工智能是计算机科学的一个分支，旨在创造与人类智能相似的计算机或机器。其定义为“使机器智能的科学与工程”，通过研究人类思维、学习、决策和解决问题的方式，开发智能软件和系统。人工智能涉及多个领域，如智能系统、搜索算法、模糊逻辑、自然语言处理、专家系统、机器人、神经网络等。人工智能的目标是创建能模拟人类智能的系统，实现人类智能在机器中的应用。人工智能技术结合计算机科学、生物学、心理学、语言学、数学和工程学，用于开发推理、学习和问题解决等能力。人工智能编程分为有无AI两种，前者解决特定问题，后者能处理通用问题。人工智能技术能高效组织和使用知识，适应变化并修正错误。人工智能应用广泛，包括",
+      "source": "www.tutorialspoint.com",
+      "date": "2024-01-01T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能（Artificial Intelligence，简称 AI）",
+      "url": "https://www.elecfans.com/d/2212179.html",
+      "snippet": "人工智能（AI）是通过计算机技术模拟人类智能的技术，能实现自主学习、推理、语言理解、视觉识别、自然语言处理等任务，应用于人机交互、智能控制、智能服务等领域。AI是跨学科技术，涉及计算机科学、数学、哲学等多个领域，起源于20世纪40年代，1956年达特茅斯会议正式确立其研究方向。70年代AI进入第一个高峰，80年代神经网络和机器学习兴起，90年代应用广泛，1997年IBM深蓝击败卡斯帕罗夫。21世纪以来，深度学习技术快速发展，2012年ImageNet突破显著。AI已广泛应用于自然语言处理、图像识别、自动驾驶、智能家居、医疗、金融等领域，成为全球热门研究方向，未来将持续拓展应用，创造更多价值。",
+      "source": "www.elecfans.com",
+      "date": "2023-08-14T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "Artificial Intelligence(AI) refers to developing and implementing computer systems capable of performing tasks that typically require human intelligence.",
+      "url": "https://geniusai.io/artificial-intelligence/artificial-intelligence/",
+      "snippet": "人工智能（AI）是指开发和实现能够执行通常需要人类智能任务的计算机系统。它是一门跨学科领域，涵盖多种方法、技术和工具，旨在创造能够感知、理解环境、推理、学习和做出决策的智能机器。AI的核心是创建算法和模型，使计算机能够模拟人类认知过程，如问题解决、模式识别、语言理解和决策。AI包括机器学习、深度学习、自然语言处理、计算机视觉、机器人学和专家系统等多个子领域。AI的目标是创造智能系统，辅助和增强人类能力，自动化重复或复杂任务，提供个性化推荐，优化决策过程，从而提升各行业的各个方面。AI的发展历程经历了从1950年代的“思维机器”概念，到1960-70年代的符号AI，再到1980年代的机器学习，以",
+      "source": "geniusai.io",
+      "date": "2023-05-18T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "Artificial Intelligence (AI) is a field of computer science and engineering that focuses on creating intelligent machines that can perform tasks that typically require human-like intelligence",
+      "url": "https://www.learntek.org/blog/what-is-artificial-intelligence-ai-applications/",
+      "snippet": "人工智能（AI）是计算机科学与工程领域的一个分支，旨在创建能够执行通常需要人类智能的任务的智能机器，如视觉感知、语音识别、决策和自然语言处理。AI系统可以学习数据并不断提升性能。本文将讨论AI的历史、类型、应用及未来前景。\n\nAI的概念可追溯至古代，但“人工智能”一词最早由约翰·麦卡锡等人于1956年提出。早期AI研究侧重于规则系统，但受限于能力，发展停滞。1980年代专家系统复兴了AI，1990年代机器学习算法的出现为AI开辟了新可能，深度学习在图像识别、语音识别和自然语言处理等领域取得突破。\n\nAI分为狭义AI、通用AI和超智能。狭义AI用于特定任务，如图像识别；通用AI能完成人类所有智力",
+      "source": "www.learntek.org",
+      "date": "2023-02-23T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "What is Artificial Intelligence?",
+      "url": "https://virtualspace.ai/blogs/what-you-need-to-know-about-ai-to-stay-ahead",
+      "snippet": "人工智能（AI）是计算机科学的一个分支，旨在开发能执行通常需要人类智能的任务的智能机器，如学习、推理、问题解决、感知和自然语言处理。AI通过算法和程序处理大量数据，识别模式并基于分析做出决策。AI已广泛应用于医疗、金融、教育、交通和娱乐等领域，如语音识别、图像识别、自然语言处理、机器人和自动驾驶。AI由艾伦·图灵于1950年提出，他提出了图灵测试，用于衡量机器是否能表现出与人类无法区分的智能行为。AI分为三类：狭义AI（专注于特定任务）、通用AI（能执行任何人类智力任务）和超级AI（超越人类智能）。AI通过监督学习、无监督学习和强化学习等方式运作，不断学习和改进。AI的应用包括虚拟助手、推荐系",
+      "source": "virtualspace.ai",
+      "date": "2023-02-10T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "Glossary What is Artificial Intelligence?",
+      "url": "https://prod-b2b.insight.com/en_US/content-and-resources/glossary/a/artificial-intelligence.html",
+      "snippet": "人工智能（AI）是计算机科学的一个跨学科领域，旨在开发能够执行人类类似任务的算法，如学习、推理、问题解决和决策。AI旨在实现特定目标、预测和决策，影响现实和虚拟环境。目前，AI主要模仿人类完成不同任务的能力，称为机器学习。计算机或机器人通过处理数据来训练算法，使其能够执行任务并不断改进性能。AI还用于自动化机器、数据分析和语言处理，可应用于更复杂的任务，如自动驾驶。",
+      "source": "prod-b2b.insight.com",
+      "date": "2023-01-01T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能（AI）泛指机器或系统表现出类似人类的行为。",
+      "url": "https://www.bilibili.com/read/cv28104692/",
+      "snippet": "人工智能（AI）指机器或系统表现出类似人类的行为。其基本形式通过大量数据模仿人类行为，应用范围广泛，如识别猫与鸟、工厂自动化等。AI早期用于下棋等简单任务，现已融入日常生活，应用于质量控制、视频分析、语音转文本、自动驾驶等领域。1949年前计算机无法存储信息，1950年图灵提出智能机器理论，1956年达特茅斯会议推动AI研究。1970年代计算机性能提升，但信息处理仍受限。20世纪80年代AI复兴，引入深度学习和专家系统，1997年IBM深蓝击败卡斯帕罗夫，2016年AlphaGo击败李世石。AI分为基于功能和基于能力两类，包括狭义AI、通用AI和超级AI。AI是计算机科学分支，依赖机器学习和深",
+      "source": "www.bilibili.com",
+      "date": "2022-06-14T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "Artificial intelligence (AI) is the ability of machines to replicate or enhance human intellect, such as reasoning and learning from experience.",
+      "url": "https://www.red-gate.com/simple-talk/development/data-science-development/introduction-to-artificial-intelligence/",
+      "snippet": "人工智能（AI）是机器模拟或增强人类智能的能力，如推理和学习。AI已广泛应用于计算机程序，如今也用于多种产品和服务。例如，数码相机可利用AI识别图像中的物体。AI结合概率论、经济学和算法设计等技术解决实际问题，涉及计算机科学、数学、心理学和语言学。尽管AI概念自19世纪就提出，但近年因计算能力和数据的增加而实现。AI能帮助人类专注于关键任务，通过数据分析做出更好决策，应用于预测维护、检测欺诈、优化物流等。AI研究旨在开发能执行智能任务的机器，如控制、规划、自然语言处理等。AI历史经历了多个阶段，从1940年代开始，1956年GPS程序是重要里程碑。AI在20世纪80年代后复兴，90年代技术进步",
+      "source": "www.red-gate.com",
+      "date": "2022-05-10T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "What is artificial intelligence?",
+      "url": "https://www.zegashop.com/web/what-is-artificial-intelligence-how-does-it-work/",
+      "snippet": "人工智能（AI）是计算机科学的一个广泛分支，旨在构建能执行通常需要人类智能任务的智能机器。AI是机器模拟人类智能过程，尤其体现在计算机系统中。其应用包括专家系统、自然语言处理、语音识别和机器视觉等。AI需要专用的硬件和软件来编写和训练机器学习算法，Python、R和Java等语言常用于AI开发。AI是一门跨学科科学，机器学习和深度学习的进步正在推动科技行业的变革。MIT的Patrick Winston认为，AI是“受约束的算法，通过表示支持模型，将思考、感知和行动联系在一起”。2017年，谷歌CEO Sundar Pichai宣布谷歌将作为“AI优先”公司运营。AI可分为四类：反应型机器、有限",
+      "source": "www.zegashop.com",
+      "date": "2022-02-03T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能（英语：artificial intelligence，缩写为AI）亦称智械、机器智能，指由人制造出来的机器所表现出来的智能。",
+      "url": "https://www.shushangyun.com/baike-297.html",
+      "snippet": "人工智能（AI）指由人制造的机器所表现出的智能，是研究、开发用于模拟、延伸和扩展人类智能的理论、方法、技术及应用系统的新技术科学。它是计算机科学的一个分支，旨在了解智能的本质，制造能以人类智能方式反应的机器。AI的基本概念是“制造智能机器的科学与工程，特别是智能计算机程序”。AI使计算机、机器人或软件能以类似人类的方式智能思考，通过研究人类大脑的思维过程，开发智能软件和系统。AI的重要性在于，随着数据量的爆炸性增长，人类难以处理，而AI构成了计算机学习的基础，代表复杂决策的未来。例如，计算机能高效计算复杂走法并得出最佳策略，AI及其机器学习、深度学习为业务决策奠定基础。文中还列举了多种与AI相",
+      "source": "www.shushangyun.com",
+      "date": "2021-07-27T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "What is Artificial intelligence?",
+      "url": "https://dev.to/phaneendragullapalli/what-is-an-a-i-3poo",
+      "snippet": "人工智能（AI）是计算机科学的一个广泛分支，旨在构建能执行通常需要人类智能任务的智能机器。AI是一门跨学科科学，近年来机器学习和深度学习的发展使其在科技行业各领域产生变革。人工智能的概念最早可追溯至古希腊神话，但现代AI的历史不足百年。1950年，艾伦·图灵提出图灵测试；1956年达特茅斯会议正式确立AI的定义。1997年，IBM深蓝击败国际象棋冠军卡斯帕罗夫；2011年，IBM沃森在《危险边缘》节目中胜出；2014年，谷歌推出通过州驾驶测试的自动驾驶汽车。AI主要分为窄AI和通用AI。窄AI专注于特定任务，如谷歌搜索、图像识别、语音助手等，已取得显著社会和经济成果。通用AI旨在创造具有人类水",
+      "source": "dev.to",
+      "date": "2021-05-08T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能（AI）是机器智能和计算机科学的一个分支",
+      "url": "http://design.eccn.com/design_2021011509591896.htm",
+      "snippet": "人工智能（AI）是计算机科学的一个分支，研究机器智能和智能机器，具有综合性、边缘性等特点。AI 是研究使计算机模拟人类思维过程和智能行为的学科，涉及计算机科学、心理学、哲学、语言学等多学科。AI 自20世纪50年代起发展迅速，成为独立分支，广泛应用于各领域。AI 的核心是思维，需借助逻辑、概率论、模糊理论等数学工具。AI 分为经典逻辑与非经典逻辑，如模糊逻辑、模态逻辑等。AI 的主要特征包括感知、记忆、学习、行为等能力。AI 的起源可追溯至图灵的自动机理论，1956年达特茅斯会议正式提出“人工智能”概念。AI 发展经历了多个阶段，从早期的专家系统、神经网络到现代的分布式AI。AI 在博弈、专家",
+      "source": "design.eccn.com",
+      "date": "2021-01-15T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能 （ AI , Artificial Intelligence ） 是计算机科学的一个分支",
+      "url": "https://www.kaoshibao.com/ti/detail/95694147.html",
+      "snippet": "人工智能（AI，Artificial Intelligence）是计算机科学的一个分支，研究表现出与人类智能（如推理和学习）相关的各种功能的模型和计算机系统。判断题选项为：A、正确；B、错误。该题由4l***3f提供，建议使用Chrome浏览器访问考试宝以获得最佳体验。相关题库包括2020年度科技应用抽测题库、2021省厅四项抽测科技题库及2021年科技应用题库，分别包含200道、230道和230道试题。",
+      "source": "www.kaoshibao.com",
+      "date": "2021-01-04T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "What is Artificial Intelligence? - Academy Europe | European Open University",
+      "url": "https://www.academyeurope.org/2019/12/11/what-is-artificial-intelligence/",
+      "snippet": "人工智能（AI）是计算机科学的一个分支，旨在创造能像人类一样智能的计算机或机器。AI通过研究人类大脑如何思考、学习、决策和解决问题，来开发智能软件和系统。AI的目标是创建能模拟人类智能的系统，如专家系统和人类智能的机器。AI涉及计算机科学、生物学、心理学、语言学、数学和工程等多个学科。AI技术能高效组织和使用知识，使复杂程序运行更快。AI应用广泛，包括游戏、自然语言处理、专家系统、视觉系统、语音识别、手写识别和智能机器人等。AI历史可追溯至20世纪，如1956年约翰·麦卡锡首次提出“人工智能”概念，1997年IBM深蓝击败国际象棋冠军卡斯帕罗夫等。",
+      "source": "www.academyeurope.org",
+      "date": "2019-12-11T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "什么是人工智能？",
+      "url": "https://www.sap.cn/products/artificial-intelligence/what-is-artificial-intelligence.html",
+      "snippet": "人工智能是计算机科学的分支，旨在模拟和执行人类智慧与感知，能分析数据、识别模式并自我优化。其定义由马文·明斯基提出，现代定义强调系统能感知环境并采取行动以实现目标。人工智能起源于古代神话，随着计算机发展，逐渐成为增强人类能力的工具。AI分为狭义人工智能（ANI）、通用人工智能（AGI）和超人工智能（ASI）。ANI是现有技术实现的，用于特定任务；AGI能执行人类智力任务，AGI和ASI仍属理论阶段。AI在医疗、金融、制造、零售、农业等领域广泛应用，提升企业韧性、客户服务、决策能力、产品相关性和员工敬业度。AI技术包括机器学习、自然语言处理、计算机视觉、机器人技术等。AI伦理挑战包括数据隐私、算",
+      "source": "www.sap.cn",
+      "date": "2008-01-01T00:00:00Z",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能-Wikipedia",
+      "url": "https://wiki.aig123.com/ai-wiki/ren-gong-zhi-neng-wikipedia",
+      "snippet": "人工智能（AI）是通过计算机程序模拟人类智能的技术，旨在研究和实现智能系统。AI涵盖学习、推理、问题解决、感知、语言处理等能力，是计算机科学的重要分支。其核心目标是构建能模仿人类智能的系统，包括专家系统、启发式问题解决、自然语言处理和计算机视觉等。AI研究涉及多个技术领域，包括统计方法、计算智能和传统AI。目前，弱人工智能在图像识别、语言分析等领域已超越人类，但通用人工智能（GAI）仍为长远目标。AI应用广泛，涉及机器人、经济决策、控制系统等。AI历史可追溯至古代神话，现代AI始于20世纪40年代。1956年达特茅斯会议确立AI研究领域，但因技术难度和资金问题经历多次低谷。近年来，随着大数据和",
+      "source": "wiki.aig123.com",
+      "date": "",
+      "search_source": "uapis.cn"
+    },
+    {
+      "title": "人工智能（Artificial Intelligence）",
+      "url": "https://xxgc.hlbrzy.com/show.asp?id=11093",
+      "snippet": "人工智能（Artificial Intelligence，简称AI）是计算机科学的一个分支，旨在研究、开发模拟、延伸和扩展人类智能的理论、方法和技术。AI的目标是使机器能够以人类智能的方式思考和反应，应用于机器人、语言识别、图像识别、自然语言处理等领域。AI从诞生以来，理论和技术不断成熟，应用范围日益扩大，未来可能成为人类智慧的“容器”。AI不是人的智能，但能像人一样思考，甚至可能超越人类智能。AI涉及多个领域，如机器学习、计算机视觉等，研究者需具备计算机、心理学和哲学知识。2017年，AI入选“2017年度中国媒体十大流行语”。AI由雨果·德·加里斯提出，起源于1956年的DARTMOUTH",
+      "source": "xxgc.hlbrzy.com",
+      "date": "",
+      "search_source": "uapis.cn"
+    }
+  ],
+  "cache_version": "v10.1"
 }
