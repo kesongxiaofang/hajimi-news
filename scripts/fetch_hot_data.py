@@ -433,21 +433,26 @@ def do_search(query, site=None, time_range="", sort_by=""):
     # Build all search tasks
     search_tasks = []
     
-    # Bing site: search for each platform
+    # uapis.cn general search (primary, ~30s)
+    search_tasks.append(("uapis_general", None, None))
+    
+    # uapis.cn site-specific search for each platform (primary, ~30s each, parallel)
+    for p in platforms_to_search:
+        if p in PLATFORM_SITES:
+            search_tasks.append(("uapis_site", p, PLATFORM_SITES[p]))
+    
+    # Bing site: search for each platform (supplement, ~2s each)
     for p in platforms_to_search:
         if p in PLATFORM_SITES:
             search_tasks.append(("bing_site", p, PLATFORM_SITES[p]))
     
-    # Bing general search
+    # Bing general search (supplement)
     search_tasks.append(("bing_general", None, None))
     
-    # DuckDuckGo site: search for each platform
+    # DuckDuckGo site: search for each platform (supplement, ~5s each)
     for p in platforms_to_search:
         if p in PLATFORM_SITES:
             search_tasks.append(("ddg_site", p, PLATFORM_SITES[p]))
-    
-    # uapis.cn general search (slow, but parallel)
-    search_tasks.append(("uapis_general", None, None))
     
     print(f"\n  Running {len(search_tasks)} searches in parallel...")
     print(f"  (Bing+DDG ~5s, uapis.cn ~30s - all parallel)")
@@ -467,6 +472,13 @@ def do_search(query, site=None, time_range="", sort_by=""):
         elif task_type == "uapis_general":
             results = search_uapis(query, site=None, time_range=time_range)
             return "uapis", "uapis", results
+        elif task_type == "uapis_site":
+            results = search_uapis(query, site=site_domain, time_range=time_range)
+            # Override source to platform domain for proper grouping
+            for item in results:
+                item['source'] = site_domain
+                item['search_source'] = 'uapis.cn (site)'
+            return platform_name, "uapis", results
         return None, None, []
 
     # Run ALL searches in parallel
