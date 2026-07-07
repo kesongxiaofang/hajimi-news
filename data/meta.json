@@ -1,9 +1,9 @@
 {
-  "update_time": "2026-07-06T23:40:54Z",
+  "update_time": "2026-07-07T11:22:17Z",
   "platforms": [
     {
       "type": "weibo",
-      "name": "微博热搜",
+      "name": "weibo热搜",
       "count": 30
     },
     {
