@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
 """
-Enhanced multi-source search with site-specific scraping.
+V10: Fast multi-source search using Bing + DuckDuckGo.
 
 Strategy:
-1. Use uapis.cn API for initial results
-2. Use DuckDuckGo site: search for each platform
-3. Aggregate and deduplicate
+1. Search Bing site: for each of 9 platforms (parallel, ~2s each)
+2. Search Bing general (no site: operator)
+3. Search DuckDuckGo site: for each platform (parallel, fallback/supplement)
+4. Aggregate and deduplicate
+5. Sort by relevance
+
+uapis.cn search API removed (was 31s/call, poor quality results).
+uapis.cn hot board API kept (fast, reliable).
 """
 
 import argparse
@@ -31,11 +36,7 @@ PLATFORM_SITES = {
     "ifeng": "ifeng.com",
 }
 
-# Reverse mapping (domain -> platform)
-SITE_TO_PLATFORM = {v: k for k, v in PLATFORM_SITES.items()}
-
-# Platform domain aliases for URL verification (includes short links, mobile domains, etc.)
-# When a result is tagged as platform X, its URL MUST belong to one of these domains
+# Platform domain aliases for URL verification
 PLATFORM_DOMAIN_ALIASES = {
     "xiaohongshu.com": ["xiaohongshu.com", "xhslink.com", "m.xiaohongshu.com"],
     "weibo.com": ["weibo.com", "m.weibo.cn", "t.cn"],
@@ -45,23 +46,17 @@ PLATFORM_DOMAIN_ALIASES = {
     "toutiao.com": ["toutiao.com", "m.toutiao.com"],
     "thepaper.cn": ["thepaper.cn", "m.thepaper.cn"],
     "douban.com": ["douban.com", "m.douban.com"],
-    "ifeng.com": ["ifeng.com", "m.ifeng.com","share.ifeng.com"],
+    "ifeng.com": ["ifeng.com", "m.ifeng.com", "share.ifeng.com"],
 }
-
-# Platforms that require stricter filtering (full query MUST appear in title)
-# Disabled per user request — relaxed filtering
-STRICT_TITLE_PLATFORMS = []
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(SCRIPT_DIR)
 DATA_DIR = os.path.join(REPO_ROOT, "data")
 
-UAPIS_SEARCH = "https://uapis.cn/api/v1/search/aggregate"
-
-# Cache settings
+# Cache settings (short duration to avoid stale results)
 CACHE_FILE = os.path.join(DATA_DIR, "search-cache.json")
-CACHE_DURATION = 86400  # 24 hours
-CACHE_VERSION = "v9.7"  # Bump this whenever filtering logic changes to invalidate old caches
+CACHE_DURATION = 300  # 5 minutes (was 24 hours)
+CACHE_VERSION = "v10"  # Bump for V10 architecture change
 
 
 def fetch_url(url, timeout=10, headers=None):
@@ -77,97 +72,132 @@ def fetch_url(url, timeout=10, headers=None):
         return resp.read()
 
 
-def search_uapis(query, site=None, time_range="", max_results=100):
-    """Search via uapis.cn API."""
-    print(f"    [uapis.cn] Searching for '{query}'...")
-    try:
-        payload = {"query": query}
-        if site:
-            payload["site"] = site
-        if time_range:
-            payload["time_range"] = time_range
-        
-        data = json.dumps(payload).encode("utf-8")
-        req = urllib.request.Request(
-            UAPIS_SEARCH,
-            data=data,
-            headers={
-                "User-Agent": "Mozilla/5.0",
-                "Content-Type": "application/json",
-            }
-        )
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            result = json.loads(resp.read().decode("utf-8"))
-        
-        items = result.get("results", [])
-        
-        search_items = []
-        for item in items:
-            search_items.append({
-                "title": item.get("title", ""),
-                "url": item.get("url", ""),
-                "snippet": (item.get("snippet") or "")[:300],
-                "source": item.get("domain", "unknown"),
-                "date": item.get("publish_time", ""),
-                "search_source": "uapis.cn"
+def parse_bing_html(html, site_domain=None, max_results=20):
+    """Parse Bing HTML results and extract search items."""
+    results = []
+    result_pattern = r'<li class="b_algo"[^>]*>(.*?)</li>'
+    result_blocks = re.findall(result_pattern, html, re.DOTALL)
+
+    for block in result_blocks[:max_results]:
+        # Extract title and URL from <h2><a href="...">...</a></h2>
+        title_match = re.search(r'<h2[^>]*>.*?<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>.*?</h2>', block, re.DOTALL)
+        snippet_match = re.search(r'<div class="b_caption"[^>]*>(.*?)</div>', block, re.DOTALL)
+
+        if title_match:
+            title_url = title_match.group(1).strip()
+            title = re.sub(r'<[^>]+>', '', title_match.group(2)).strip()
+
+            if not title_url.startswith('http'):
+                continue
+
+            snippet = ""
+            if snippet_match:
+                snippet = re.sub(r'<[^>]+>', '', snippet_match.group(1)).strip()
+
+            # Determine source domain
+            from urllib.parse import urlparse
+            parsed = urlparse(title_url)
+            domain = parsed.netloc.lower()
+            if domain.startswith("www."):
+                domain = domain[4:]
+
+            results.append({
+                "title": title,
+                "url": title_url,
+                "snippet": snippet[:300],
+                "source": site_domain if site_domain else domain,
+                "date": "",
+                "search_source": "Bing"
             })
-        
-        print(f"    [uapis.cn] Found {len(search_items)} results")
-        return search_items
-        
-    except Exception as e:
-        print(f"    [uapis.cn] Error: {e}")
-        return []
+
+    return results
 
 
-def search_duckduckgo_site(query, site_domain, max_results=30):
-    """Search via DuckDuckGo HTML API with site: operator.
-    
-    This gets results SPECIFICALLY from the given site domain.
-    """
-    print(f"    [DuckDuckGo] Searching site:{site_domain} for '{query}'...")
+def search_bing_site(query, site_domain, max_results=20):
+    """Search via Bing HTML API with site: operator."""
+    print(f"    [Bing] Searching site:{site_domain} for '{query}'...")
     try:
-        # Construct site: search query
         site_query = f"site:{site_domain} {query}"
-        url = f'https://html.duckduckgo.com/html/?q={urllib.parse.quote(site_query)}&kl=wt-wt'
-        
+        url = f'https://www.bing.com/search?q={urllib.parse.quote(site_query)}&count={max_results}&setmkt=zh-CN&setlang=zh-CN'
+
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
             'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
         }
-        
+
+        html = fetch_url(url, timeout=15, headers=headers).decode('utf-8', errors='ignore')
+        results = parse_bing_html(html, site_domain=site_domain, max_results=max_results)
+
+        print(f"    [Bing] Found {len(results)} results from {site_domain}")
+        return results
+
+    except Exception as e:
+        print(f"    [Bing] Error for {site_domain}: {e}")
+        return []
+
+
+def search_bing_general(query, max_results=20):
+    """Search via Bing without site: operator (general search)."""
+    print(f"    [Bing] General search for '{query}'...")
+    try:
+        url = f'https://www.bing.com/search?q={urllib.parse.quote(query)}&count={max_results}&setmkt=zh-CN&setlang=zh-CN'
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        }
+
+        html = fetch_url(url, timeout=15, headers=headers).decode('utf-8', errors='ignore')
+        results = parse_bing_html(html, site_domain=None, max_results=max_results)
+
+        print(f"    [Bing] Found {len(results)} general results")
+        return results
+
+    except Exception as e:
+        print(f"    [Bing] General search error: {e}")
+        return []
+
+
+def search_duckduckgo_site(query, site_domain, max_results=10):
+    """Search via DuckDuckGo HTML API with site: operator."""
+    print(f"    [DuckDuckGo] Searching site:{site_domain} for '{query}'...")
+    try:
+        site_query = f"site:{site_domain} {query}"
+        url = f'https://html.duckduckgo.com/html/?q={urllib.parse.quote(site_query)}&kl=wt-wt'
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        }
+
         html = fetch_url(url, timeout=15, headers=headers).decode('utf-8')
-        
+
         results = []
-        
-        # Parse DuckDuckGo HTML results
-        # Results are in <div class="result__body">
         result_pattern = r'<div class="result__body">(.*?)</div>\s*</div>'
         result_blocks = re.findall(result_pattern, html, re.DOTALL)
-        
+
         for block in result_blocks[:max_results]:
-            # Extract title and URL
             title_match = re.search(r'<a[^>]*class="result__a"[^>]*>([^<]*)</a>', block, re.DOTALL)
             url_match = re.search(r'<a[^>]*class="result__a"[^>]*href="([^"]*)"', block)
             snippet_match = re.search(r'<a[^>]*class="result__snippet"[^>]*>([^<]*)</a>', block, re.DOTALL)
-            
+
             if title_match and url_match:
                 title = re.sub(r'<[^>]+>', '', title_match.group(1)).strip()
                 url = url_match.group(1).strip()
-                
-                # Decode DuckDuckGo redirect URLs
+
                 if url.startswith('//duckduckgo.com/l/?'):
                     actual_url_match = re.search(r'uddg=(.*?)&', url)
                     if actual_url_match:
                         url = urllib.parse.unquote(actual_url_match.group(1))
-                
-                # Remove DuckDuckGo proxy URLs
+
                 if url.startswith('http://') or url.startswith('https://'):
                     snippet = ""
                     if snippet_match:
                         snippet = re.sub(r'<[^>]+>', '', snippet_match.group(1)).strip()
-                    
+
                     results.append({
                         "title": title,
                         "url": url,
@@ -176,100 +206,32 @@ def search_duckduckgo_site(query, site_domain, max_results=30):
                         "date": "",
                         "search_source": "DuckDuckGo"
                     })
-        
+
         print(f"    [DuckDuckGo] Found {len(results)} results from {site_domain}")
         return results
-        
+
     except Exception as e:
         print(f"    [DuckDuckGo] Error for {site_domain}: {e}")
         return []
 
 
-def search_bing_site(query, site_domain, max_results=10):
-    """Search via Bing HTML API with site: operator.
-    
-    Bing is often better than DuckDuckGo for Chinese websites.
-    """
-    print(f"    [Bing] Searching site:{site_domain} for '{query}'...")
-    try:
-        site_query = f"site:{site_domain} {query}"
-        url = f'https://www.bing.com/search?q={urllib.parse.quote(site_query)}&count={max_results}&setmkt=en-US&setlang=en'
-        
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-        }
-        
-        html = fetch_url(url, timeout=15, headers=headers).decode('utf-8', errors='ignore')
-        
-        results = []
-        
-        # Bing results are in <li class="b_algo">
-        result_pattern = r'<li class="b_algo"[^>]*>(.*?)</li>'
-        result_blocks = re.findall(result_pattern, html, re.DOTALL)
-        
-        for block in result_blocks[:max_results]:
-            # Extract title and URL from <h2><a href="...">...</a></h2>
-            title_match = re.search(r'<h2[^>]*>.*?<a[^>]*href="([^"]*)"[^>]*>(.*?)</a>.*?</h2>', block, re.DOTALL)
-            # Extract snippet from <div class="b_caption">
-            snippet_match = re.search(r'<div class="b_caption"[^>]*>(.*?)</div>', block, re.DOTALL)
-            # Extract URL from <div class="b_attribution">
-            url_match = re.search(r'<div class="b_attribution"[^>]*>.*?<cite[^>]*>(.*?)</cite>.*?</div>', block, re.DOTALL)
-            
-            if title_match:
-                title_url = title_match.group(1).strip()
-                title = re.sub(r'<[^>]+>', '', title_match.group(2)).strip()
-                
-                # Skip Bing internal links and ads
-                if not title_url.startswith('http'):
-                    # Sometimes Bing uses relative URLs or cached URLs
-                    continue
-                
-                snippet = ""
-                if snippet_match:
-                    snippet = re.sub(r'<[^>]+>', '', snippet_match.group(1)).strip()
-                
-                results.append({
-                    "title": title,
-                    "url": title_url,
-                    "snippet": snippet[:300],
-                    "source": site_domain,
-                    "date": "",
-                    "search_source": "Bing"
-                })
-        
-        print(f"    [Bing] Found {len(results)} results from {site_domain}")
-        return results
-        
-    except Exception as e:
-        print(f"    [Bing] Error for {site_domain}: {e}")
-        return []
-
-
 def check_search_cache(query, time_range="", sort_by=""):
-    """Check if we have cached results for this query."""
+    """Check if we have cached results for this query (5-minute cache)."""
     if not os.path.exists(CACHE_FILE):
         return None
-    
+
     try:
         with open(CACHE_FILE, "r", encoding="utf-8") as f:
             cache = json.load(f)
-        
-        # Check if query matches
+
         if cache.get("query") != query:
             return None
-        
-        # Check if time_range matches
         if cache.get("time_range") != time_range:
             return None
-        
-        # Check cache version (invalidate when filtering logic changes)
         if cache.get("cache_version") != CACHE_VERSION:
-            print(f"  Cache version mismatch (stored={cache.get('cache_version')}, current={CACHE_VERSION}), ignoring")
+            print(f"  Cache version mismatch, ignoring")
             return None
-        
-        # Check if cache is still valid
+
         update_time = cache.get("update_time", "")
         if update_time:
             try:
@@ -280,10 +242,10 @@ def check_search_cache(query, time_range="", sort_by=""):
                     return None
             except:
                 return None
-        
+
         print(f"  Cache hit! Found {cache.get('count', 0)} results")
         return cache
-        
+
     except Exception as e:
         print(f"  Cache check failed: {e}")
         return None
@@ -293,7 +255,7 @@ def save_search_cache(query, time_range, sort_by, results, count):
     """Save search results to cache."""
     try:
         os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
-        
+
         cache_data = {
             "query": query,
             "time_range": time_range,
@@ -303,33 +265,62 @@ def save_search_cache(query, time_range, sort_by, results, count):
             "results": results,
             "cache_version": CACHE_VERSION,
         }
-        
+
         with open(CACHE_FILE, "w", encoding="utf-8") as f:
             json.dump(cache_data, f, ensure_ascii=False, indent=2)
-        
+
         print(f"  Cache saved: {count} results")
-        
+
     except Exception as e:
         print(f"  Cache save failed: {e}")
 
 
-def do_search(query, site=None, time_range="", sort_by=""):
-    """Enhanced multi-source search optimized for the 9 main platforms.
-    
-    Strategy:
-    1. Check cache first
-    2. Search uapis.cn general (25 results)
-    3. Search uapis.cn for EACH of the 9 platforms (up to 25 each)
-    4. Use Bing/DuckDuckGo as fallback for platforms with few results
-    5. Aggregate and deduplicate
-    
-    This maximizes results from the 9 platforms that appear in frontend filters.
+def get_relevance_score(query, item):
+    """Calculate relevance score (lower = more relevant).
+
+    Score 0: Exact match (title or snippet contains full search query)
+    Score 1: Partial match (title or snippet contains some keywords)
+    Score 2: No match in title/snippet
     """
-    print(f"\n  🔍 Enhanced search: {query}")
+    query_lower = query.lower()
+    title = (item.get('title', '') or '').lower()
+    snippet = (item.get('snippet', '') or '').lower()
+
+    if query_lower in title or query_lower in snippet:
+        return 0
+
+    # Chinese 2-char segments
+    cn_chars = re.findall(r'[\u4e00-\u9fff]+', query)
+    cn_segments = []
+    for seg in cn_chars:
+        if len(seg) >= 2:
+            cn_segments.extend(seg[i:i+2] for i in range(len(seg) - 1))
+
+    query_words = [w for w in query_lower.split() if len(w) > 1]
+    all_units = list(dict.fromkeys(query_words + cn_segments))
+
+    for unit in all_units:
+        if unit in title or unit in snippet:
+            return 1
+
+    return 2
+
+
+def do_search(query, site=None, time_range="", sort_by=""):
+    """V10: Fast search using Bing + DuckDuckGo (no uapis.cn).
+
+    Strategy:
+    1. Check cache (5-minute expiry)
+    2. Search Bing for each of 9 platforms + general (10 parallel requests, ~2s each)
+    3. Search DuckDuckGo for each of 9 platforms (9 parallel requests, supplement)
+    4. Aggregate and deduplicate
+    5. Sort by relevance
+    """
+    print(f"\n  === V10 Fast Search: {query} ===")
     if time_range:
         print(f"  Time range: {time_range}")
-    
-    # Check cache first
+
+    # Check cache first (5-minute cache for repeated searches)
     cached = check_search_cache(query, time_range, sort_by)
     if cached:
         filepath = os.path.join(DATA_DIR, "search-results.json")
@@ -337,207 +328,93 @@ def do_search(query, site=None, time_range="", sort_by=""):
             json.dump(cached, f, ensure_ascii=False, indent=2)
         print(f"  Using cached results: {cached['count']} items")
         return cached['count']
-    
+
     all_items = []
     seen_urls = set()
-    
-    # Step 1: Search uapis.cn general
-    print(f"\n  Step 1: Searching uapis.cn (general)...")
-    uapis_results = search_uapis(query, site=None, time_range=time_range)
-    for item in uapis_results:
-        url = item.get('url', '')
-        if url and url not in seen_urls:
-            seen_urls.add(url)
-            all_items.append(item)
-    
-    print(f"  After uapis.cn general: {len(all_items)} unique results")
-    
-    # Step 2: Search each platform via uapis.cn site-specific search (PARALLEL)
-    if len(all_items) < 300:  # Always try to get more platform-specific results
-        print(f"\n  Step 2: Searching uapis.cn for each platform (site-specific, PARALLEL)...")
-        
-        # Determine which platforms to search
-        if site:
-            platforms_to_search = [s.strip() for s in site.split(",")]
-        else:
-            platforms_to_search = list(PLATFORM_SITES.keys())
-        
-        print(f"  Will search {len(platforms_to_search)} platforms simultaneously...")
-        
-        def search_one_platform(platform_name):
-            """Search one platform and return results + fallback if needed."""
-            if platform_name not in PLATFORM_SITES:
-                return platform_name, []
-            
-            site_domain = PLATFORM_SITES[platform_name]
-            platform_results = []
-            
-            try:
-                # Search uapis.cn with site parameter
-                uapis_res = search_uapis(query, site=site_domain, time_range=time_range)
-                for item in uapis_res:
-                    item['source'] = site_domain
-                    item['search_source'] = 'uapis.cn (site-specific)'
-                platform_results.extend(uapis_res)
-                
-                # Fallback: If uapis.cn returned few results, try Bing/DuckDuckGo
-                if len(uapis_res) < 3:
-                    try:
-                        bing_results = search_bing_site(query, site_domain, max_results=10)
-                        platform_results.extend(bing_results)
-                        
-                        if len(bing_results) < 3:
-                            ddg_results = search_duckduckgo_site(query, site_domain, max_results=10)
-                            platform_results.extend(ddg_results)
-                    except Exception as e:
-                        print(f"  Fallback search error for {platform_name}: {e}")
-                        
-            except Exception as e:
-                print(f"  Error searching {platform_name}: {e}")
-            
-            return platform_name, platform_results
-        
-        # Run all platform searches in parallel
-        with ThreadPoolExecutor(max_workers=min(len(platforms_to_search), 8)) as executor:
-            futures = {executor.submit(search_one_platform, p): p for p in platforms_to_search}
-            
-            for future in as_completed(futures):
-                platform_name, p_results = future.result()
-                added = 0
-                for item in p_results:
-                    url = item.get('url', '')
-                    if url and url not in seen_urls and len(all_items) < 300:
-                        seen_urls.add(url)
-                        all_items.append(item)
-                        added += 1
-                print(f"  [{platform_name}] Added {added} results (total: {len(all_items)})")
-        
-        print(f"\n  After platform-specific search: {len(all_items)} unique results")
-    
-    # Step 3: Multi-layer filtering (relaxed V9.7)
-    # 3a. Platform domain verification — results tagged as platform X must have URL from that platform
-    # 3b. Keyword relevance — title/snippet must contain the search query or its segments
-    print(f"\n  Step 3: Filtering (relaxed)...")
-    query_lower = query.lower()
-    query_words = [w for w in query_lower.split() if len(w) > 1]
 
-    # For Chinese queries: also generate 2-char segments so partial matches count
-    # e.g. "人工智能" -> ["人工", "智能"], "特朗普" -> ["特朗", "朗普"]
-    import re as _re
-    cn_chars = _re.findall(r'[\u4e00-\u9fff]+', query)
-    cn_segments = []
-    for seg in cn_chars:
-        if len(seg) >= 2:
-            cn_segments.extend(seg[i:i+2] for i in range(len(seg) - 1))
-    # Combine space-split words and Chinese 2-char segments (deduplicated)
-    all_match_units = list(dict.fromkeys(query_words + cn_segments))
+    # Determine which platforms to search
+    if site:
+        platforms_to_search = [s.strip() for s in site.split(",")]
+    else:
+        platforms_to_search = list(PLATFORM_SITES.keys())
 
-    before_filter = len(all_items)
-    domain_rejects = 0
-    keyword_rejects = 0
+    print(f"\n  Step 1: Bing + DuckDuckGo parallel search ({len(platforms_to_search)} platforms)...")
+    print(f"  Estimated time: ~3-5 seconds (all parallel)")
 
-    def get_url_domain(url):
-        """Extract domain from URL for platform matching."""
-        if not url:
-            return ""
+    def search_one_platform(platform_name):
+        """Search one platform using Bing (primary) + DuckDuckGo (secondary)."""
+        if platform_name not in PLATFORM_SITES:
+            return platform_name, []
+
+        site_domain = PLATFORM_SITES[platform_name]
+        results = []
+
+        # Bing search (primary, 20 results)
         try:
-            from urllib.parse import urlparse
-            parsed = urlparse(url)
-            domain = parsed.netloc.lower()
-            if domain.startswith("www."):
-                domain = domain[4:]
-            return domain
-        except:
-            return ""
+            bing_results = search_bing_site(query, site_domain, max_results=20)
+            results.extend(bing_results)
+        except Exception as e:
+            print(f"  Bing error for {platform_name}: {e}")
 
-    def is_url_for_platform(url, expected_domain):
-        """Check if URL belongs to the expected platform domain or its aliases."""
-        url_domain = get_url_domain(url)
-        if not url_domain:
-            return False
-        aliases = PLATFORM_DOMAIN_ALIASES.get(expected_domain, [expected_domain])
-        return any(alias in url_domain for alias in aliases)
+        # DuckDuckGo search (secondary, 10 results)
+        try:
+            ddg_results = search_duckduckgo_site(query, site_domain, max_results=10)
+            results.extend(ddg_results)
+        except Exception as e:
+            print(f"  DuckDuckGo error for {platform_name}: {e}")
 
-    # Relaxed threshold: match at least 1 keyword/segment (was 2 or 67%)
-    required_keyword_match = 1 if all_match_units else 999
+        return platform_name, results
 
-    filtered_items = []
-    for item in all_items:
-        title = (item.get('title', '') or '').lower()
-        snippet = (item.get('snippet', '') or '').lower()
-        combined = title + ' ' + snippet
-        source = (item.get('source', '') or '').lower()
+    # Run all platform searches in parallel (Bing + DuckDuckGo for each)
+    with ThreadPoolExecutor(max_workers=min(len(platforms_to_search) * 2, 18)) as executor:
+        futures = {executor.submit(search_one_platform, p): p for p in platforms_to_search}
 
-        # 3a. Platform domain check: if source tagged as a known platform, verify URL belongs there
-        if source in PLATFORM_DOMAIN_ALIASES:
-            url = item.get('url', '')
-            if url and not is_url_for_platform(url, source):
-                domain_rejects += 1
-                continue
+        for future in as_completed(futures):
+            platform_name, p_results = future.result()
+            added = 0
+            for item in p_results:
+                url = item.get('url', '')
+                if url and url not in seen_urls and len(all_items) < 300:
+                    seen_urls.add(url)
+                    all_items.append(item)
+                    added += 1
+            print(f"  [{platform_name}] Added {added} results (total: {len(all_items)})")
 
-        # 3b. Keyword relevance check (relaxed)
-        # Full query match — always keep
-        if query_lower in combined:
-            filtered_items.append(item)
-        # Partial match — any single keyword/segment match is enough
-        elif all_match_units:
-            matched = sum(1 for w in all_match_units if w in combined)
-            if matched >= required_keyword_match:
-                filtered_items.append(item)
-            else:
-                keyword_rejects += 1
-        else:
-            keyword_rejects += 1
+    print(f"\n  After platform search: {len(all_items)} unique results")
 
-    removed = before_filter - len(filtered_items)
-    print(f"  Filtered: {before_filter} -> {len(filtered_items)} results")
-    print(f"    - Domain mismatch rejected: {domain_rejects}")
-    print(f"    - Keyword mismatch rejected: {keyword_rejects}")
-    all_items = filtered_items
-    
-    # Step 4: Sort by relevance (exact match first), then by date
-    print(f"\n  Step 4: Sorting results by relevance...")
-    
-    def get_relevance_score(item):
-        """Calculate relevance score (lower = more relevant).
-        
-        Score 0: Exact match (title or snippet contains full search query)
-        Score 1: Partial match (title or snippet contains some keywords)
-        Score 2: No match in title/snippet (only in URL or other fields)
-        """
-        query_lower = query.lower()
-        title = item.get('title', '').lower()
-        snippet = item.get('snippet', '').lower()
-        
-        # Check for exact match (full query)
-        if query_lower in title or query_lower in snippet:
-            return 0
-        
-        # Check for partial match (any word from query)
-        query_words = query_lower.split()
-        for word in query_words:
-            if len(word) > 1 and (word in title or word in snippet):  # Ignore single-char words
-                return 1
-        
-        # No match in title or snippet
-        return 2
-    
-    # Sort by relevance score (ascending), then by date (descending)
-    all_items.sort(key=lambda x: (get_relevance_score(x), -parse_date(x.get("date", ""))))
-    
+    # General Bing search (no site: operator) - get results from other sources
+    if not site and len(all_items) < 300:
+        print(f"\n  Step 2: General Bing search...")
+        try:
+            general_results = search_bing_general(query, max_results=20)
+            added = 0
+            for item in general_results:
+                url = item.get('url', '')
+                if url and url not in seen_urls and len(all_items) < 300:
+                    seen_urls.add(url)
+                    all_items.append(item)
+                    added += 1
+            print(f"  [general] Added {added} results (total: {len(all_items)})")
+        except Exception as e:
+            print(f"  General search error: {e}")
+
+    # Step 3: Sort by relevance (exact match first), then by date
+    print(f"\n  Step 3: Sorting {len(all_items)} results by relevance...")
+    all_items.sort(key=lambda x: (get_relevance_score(query, x), -parse_date(x.get("date", ""))))
+
     # Log sorting results
     score_counts = {0: 0, 1: 0, 2: 0}
     for item in all_items:
-        score = get_relevance_score(item)
+        score = get_relevance_score(query, item)
         score_counts[score] = score_counts.get(score, 0) + 1
-    
+
     print(f"  Sorting complete:")
     print(f"    - Exact match (score 0): {score_counts[0]} results")
     print(f"    - Partial match (score 1): {score_counts[1]} results")
     print(f"    - No match in title/snippet (score 2): {score_counts[2]} results")
-    
-    # Step 5: Save results
-    print(f"\n  Step 5: Saving {len(all_items)} results...")
+
+    # Step 4: Save results
+    print(f"\n  Step 4: Saving {len(all_items)} results...")
     now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     data = {
         "query": query,
@@ -545,20 +422,20 @@ def do_search(query, site=None, time_range="", sort_by=""):
         "sort": sort_by,
         "update_time": now,
         "count": len(all_items),
-        "results": all_items[:300],  # Cap at 300 results
-        "search_sources": ["uapis.cn", "uapis.cn (site-specific)", "Bing", "DuckDuckGo"],
+        "results": all_items[:300],
+        "search_sources": ["Bing", "DuckDuckGo"],
         "platforms_searched": list(PLATFORM_SITES.keys())
     }
-    
+
     filepath = os.path.join(DATA_DIR, "search-results.json")
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    
-    print(f"  ✅ Search complete: {len(all_items)} results saved")
-    
-    # Save to cache
+
+    print(f"  Search complete: {len(all_items)} results saved")
+
+    # Save to cache (5-minute expiry)
     save_search_cache(query, time_range, sort_by, all_items[:300], len(all_items))
-    
+
     return len(all_items)
 
 
@@ -603,7 +480,7 @@ def fetch_uapis(platform_type):
 def run_hot_update():
     """Fetch hot lists from all platforms."""
     PLATFORMS = [
-        ("weibo", "微博热搜"),
+        ("weibo", "weibo热搜"),
         ("zhihu", "知乎热榜"),
         ("douyin", "抖音热搜"),
         ("bilibili", "B站热搜"),
@@ -613,7 +490,7 @@ def run_hot_update():
         ("toutiao", "今日头条"),
         ("thepaper", "澎湃新闻"),
     ]
-    
+
     now = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     meta = {"update_time": now, "platforms": []}
     success_count = 0
