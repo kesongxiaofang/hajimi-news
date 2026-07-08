@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-08T07:56:37Z",
+  "update_time": "2026-07-08T13:19:06Z",
   "count": 30,
   "list": [
     {
-      "title": "如何看待 2026 年世界杯 1/8 阿根廷对埃及比赛最后 5 分钟内，主裁判不吹罚阿根廷队禁区犯规？",
-      "url": "https://www.zhihu.com/question/2058011125409699747",
-      "hot_value": "1190 万热度",
-      "index": 1
-    },
-    {
-      "title": "山西一小区使用楼顶高压雾化喷淋系统降温，喷淋 10 分钟地面直降 12℃，这种方式实用吗？值得推广吗？",
-      "url": "https://www.zhihu.com/question/2057560846138434263",
-      "hot_value": "513 万热度",
-      "index": 2
-    },
-    {
       "title": "台风「巴威」直径超 1500 公里、超强级别维持达 4 天，这意味着什么？登陆时破坏力将有多大？",
       "url": "https://www.zhihu.com/question/2057957666412913655",
-      "hot_value": "486 万热度",
-      "index": 3
-    },
-    {
-      "title": "为什么今年「一人一车房车自驾游」逐渐消失在自媒体视野中？",
-      "url": "https://www.zhihu.com/question/2054835564273202148",
-      "hot_value": "381 万热度",
-      "index": 4
-    },
-    {
-      "title": "埃及球员怒喷裁判不公正称世界杯被内定，大量球迷吐槽阿根廷脏，这场裁判真的有问题吗？",
-      "url": "https://www.zhihu.com/question/2058086533609911207",
-      "hot_value": "354 万热度",
-      "index": 5
-    },
-    {
-      "title": "字节外包违规薅公司零食薅出了 1 万块被追责，那有没有安全、合法的「薅公司羊毛」的方式？",
-      "url": "https://www.zhihu.com/question/2057498157362013490",
-      "hot_value": "328 万热度",
-      "index": 6
+      "hot_value": "805 万热度",
+      "index": 1
     },
     {
       "title": "美加墨世界杯八强已全部确定，如何评价这个阵容？有哪些看点？谁能走到四强？",
       "url": "https://www.zhihu.com/question/2058085754916562458",
-      "hot_value": "325 万热度",
-      "index": 7
-    },
-    {
-      "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-      "url": "https://www.zhihu.com/question/2058125610363401206",
-      "hot_value": "290 万热度",
-      "index": 8
-    },
-    {
-      "title": "曝 TikTok 全球裁员，网传印尼将裁 90%，裁员出于哪些原因？这一架构调整可能带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2057807463441593129",
-      "hot_value": "219 万热度",
-      "index": 9
-    },
-    {
-      "title": "为什么要实行薪酬保密？",
-      "url": "https://www.zhihu.com/question/28079407",
-      "hot_value": "214 万热度",
-      "index": 10
+      "hot_value": "471 万热度",
+      "index": 2
     },
     {
       "title": "小米汽车新产品系列定名为「skynomad」，如何解读这一名称背后的含义与品牌策略？",
       "url": "https://www.zhihu.com/question/2058113452170798939",
-      "hot_value": "197 万热度",
+      "hot_value": "345 万热度",
+      "index": 3
+    },
+    {
+      "title": "如何评价大二女生高考失利无缘一本，毅然选择贷款两百万创办民宿，如今营收千万开启逆袭人生？",
+      "url": "https://www.zhihu.com/question/2057932320250795330",
+      "hot_value": "308 万热度",
+      "index": 4
+    },
+    {
+      "title": "网友吐槽「等退休」是一场巨大的骗局，称年轻时透支身体退休后只能养病，对此你有哪些感触？",
+      "url": "https://www.zhihu.com/question/2057838508215988928",
+      "hot_value": "289 万热度",
+      "index": 5
+    },
+    {
+      "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+      "url": "https://www.zhihu.com/question/2058125610363401206",
+      "hot_value": "280 万热度",
+      "index": 6
+    },
+    {
+      "title": "埃及球员怒喷裁判不公正称世界杯被内定，大量球迷吐槽阿根廷脏，这场裁判真的有问题吗？",
+      "url": "https://www.zhihu.com/question/2058086533609911207",
+      "hot_value": "276 万热度",
+      "index": 7
+    },
+    {
+      "title": "2026 MSI 淘汰赛 T1 1:3 不敌 G2 遭淘汰创队史最差战绩，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2058190419284996351",
+      "hot_value": "271 万热度",
+      "index": 8
+    },
+    {
+      "title": "红牛到底是谁的？中国红牛和泰国红牛、奥地利红牛有什么关系吗？",
+      "url": "https://www.zhihu.com/question/24807777",
+      "hot_value": "267 万热度",
+      "index": 9
+    },
+    {
+      "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
+      "url": "https://www.zhihu.com/question/2057993033182978590",
+      "hot_value": "224 万热度",
+      "index": 10
+    },
+    {
+      "title": "为什么今年「一人一车房车自驾游」逐渐消失在自媒体视野中？",
+      "url": "https://www.zhihu.com/question/2054835564273202148",
+      "hot_value": "209 万热度",
       "index": 11
+    },
+    {
+      "title": "脱口秀演员唐香玉因拒不道歉被强制执行，此前发文意指脱口秀演员埃克偷拍，被诉侵害名誉权，法律上如何解读？",
+      "url": "https://www.zhihu.com/question/2057978038147609237",
+      "hot_value": "205 万热度",
+      "index": 12
     },
     {
       "title": "广西强降雨已致 6 人死亡 11 人失联，已紧急转移安置 13 万人，目前当地救援、安置情况如何？",
       "url": "https://www.zhihu.com/question/2057927755694600518",
-      "hot_value": "184 万热度",
-      "index": 12
-    },
-    {
-      "title": "为什么在日本游戏里「忍者」多半都是正义一方，而国产武侠游戏里「杀手」都是邪恶一方呢？",
-      "url": "https://www.zhihu.com/question/1999603273607451591",
-      "hot_value": "178 万热度",
+      "hot_value": "203 万热度",
       "index": 13
     },
     {
-      "title": "世界杯 1/8 决赛，阿根廷 3-2 逆转绝杀埃及，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2057777297399321503",
-      "hot_value": "174 万热度",
+      "title": "如何看待 2026 年世界杯 1/8 阿根廷对埃及比赛最后 5 分钟内，主裁判不吹罚阿根廷队禁区犯规？",
+      "url": "https://www.zhihu.com/question/2058011125409699747",
+      "hot_value": "201 万热度",
       "index": 14
     },
     {
-      "title": "现在买房是机会吗?",
-      "url": "https://www.zhihu.com/question/8392077829",
-      "hot_value": "171 万热度",
+      "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2058168270499176758",
+      "hot_value": "198 万热度",
       "index": 15
     },
     {
-      "title": "一景区 NPC 与游客互动掰手腕被掰断手臂，事后被游客拉黑，是否算是工伤？景区员工受伤该由谁来赔偿？",
-      "url": "https://www.zhihu.com/question/2056009958928409565",
-      "hot_value": "160 万热度",
+      "title": "广西六蓝水库曾被官方列为问题水库，村民称 8 点通知泄洪 9 点堤坝就塌了，有哪些问题值得关注？",
+      "url": "https://www.zhihu.com/question/2057813632885286314",
+      "hot_value": "196 万热度",
       "index": 16
     },
     {
-      "title": "RPG 里，你的攻击力从 100 升到 101，打怪该几刀还是几刀——那这 1 点提升的意义是什么？",
-      "url": "https://www.zhihu.com/question/2037785090902775030",
-      "hot_value": "140 万热度",
+      "title": "市面上那么多种虾，哪种虾最好吃？",
+      "url": "https://www.zhihu.com/question/272244963",
+      "hot_value": "194 万热度",
       "index": 17
     },
     {
       "title": "为什么这一届世界杯，哈兰德这么出圈？",
       "url": "https://www.zhihu.com/question/2055605816913293955",
-      "hot_value": "138 万热度",
+      "hot_value": "190 万热度",
       "index": 18
-    },
-    {
-      "title": "如何评价《凡人修仙传》动画 181 集网上争议依旧挺大的？为什么会这样？",
-      "url": "https://www.zhihu.com/question/2056697976941175700",
-      "hot_value": "126 万热度",
-      "index": 19
-    },
-    {
-      "title": "苏宁彻底清仓家乐福中国，52 亿入场 200 万离场，为何会走到这样的境地？老牌商超未来出路在哪？",
-      "url": "https://www.zhihu.com/question/2057419047587919541",
-      "hot_value": "124 万热度",
-      "index": 20
-    },
-    {
-      "title": "如何看待郭德纲直播称「儿子三个月不回家，让郭麒麟剧组导演跪着等自己」，父子俩到底谁在较劲？",
-      "url": "https://www.zhihu.com/question/2057250524936852697",
-      "hot_value": "119 万热度",
-      "index": 21
-    },
-    {
-      "title": "有没有从地级市降级为镇的地方？",
-      "url": "https://www.zhihu.com/question/438214055",
-      "hot_value": "118 万热度",
-      "index": 22
-    },
-    {
-      "title": "世界杯 1/8 决赛，瑞士 4-3 哥伦比亚，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2057777873222737980",
-      "hot_value": "116 万热度",
-      "index": 23
     },
     {
       "title": "埃及足协向国际足联正式提出申诉，要求调查主裁判，预计会得到怎样的处理？对已完结比赛结果有多大实际作用？",
       "url": "https://www.zhihu.com/question/2058142178803541183",
-      "hot_value": "104 万热度",
+      "hot_value": "168 万热度",
+      "index": 19
+    },
+    {
+      "title": "如何看待 anthropic 最新发表的论文，发现了能对大模型诛心和 PUA 的 J SPACE？",
+      "url": "https://www.zhihu.com/question/2057860832793453851",
+      "hot_value": "127 万热度",
+      "index": 20
+    },
+    {
+      "title": "为什么很多恋与深空玩家又希望敖尹回归了？",
+      "url": "https://www.zhihu.com/question/2056780709021348306",
+      "hot_value": "127 万热度",
+      "index": 21
+    },
+    {
+      "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
+      "url": "https://www.zhihu.com/question/2058225620715418670",
+      "hot_value": "127 万热度",
+      "index": 22
+    },
+    {
+      "title": "有没有从地级市降级为镇的地方？",
+      "url": "https://www.zhihu.com/question/438214055",
+      "hot_value": "127 万热度",
+      "index": 23
+    },
+    {
+      "title": "美的空调凭借 PortaSplit 在欧洲精准卡 bug，国内还有哪些不为人知的隐藏大招？",
+      "url": "https://www.zhihu.com/question/2058212018512045217",
+      "hot_value": "126 万热度",
       "index": 24
     },
     {
-      "title": "滔搏电子竞技俱乐部在 MSI 中全败并致歉，如何评价其表现及问题？",
-      "url": "https://www.zhihu.com/question/2057170634644493398",
-      "hot_value": "98 万热度",
+      "title": "如何评价中科大《固体物理 B》评课区的物理天赋小说？",
+      "url": "https://www.zhihu.com/question/2056976531453432699",
+      "hot_value": "126 万热度",
       "index": 25
     },
     {
-      "title": "7 月 8 日四川宜宾市高县一天内两次发生 5.0 级地震，当地具体情况如何？你那里有震感吗？",
-      "url": "https://www.zhihu.com/question/2058088753860540088",
-      "hot_value": "86 万热度",
+      "title": "一景区 NPC 与游客互动掰手腕被掰断手臂，事后被游客拉黑，是否算是工伤？景区员工受伤该由谁来赔偿？",
+      "url": "https://www.zhihu.com/question/2056009958928409565",
+      "hot_value": "122 万热度",
       "index": 26
     },
     {
-      "title": "为什么大部分新能源车都不采用动态续航显示？",
-      "url": "https://www.zhihu.com/question/2057888039276213233",
-      "hot_value": "71 万热度",
+      "title": "苏宁彻底清仓家乐福中国，52 亿入场 200 万离场，为何会走到这样的境地？老牌商超未来出路在哪？",
+      "url": "https://www.zhihu.com/question/2057419047587919541",
+      "hot_value": "121 万热度",
       "index": 27
     },
     {
-      "title": "回避型人格害怕失去一个人会怎么表现？",
-      "url": "https://www.zhihu.com/question/662695796",
-      "hot_value": "66 万热度",
+      "title": "Anthropic 论文提出 AI「脑海」J-space，这项研究对理解 AI 认知有何意义？",
+      "url": "https://www.zhihu.com/question/2057745342225978335",
+      "hot_value": "108 万热度",
       "index": 28
     },
     {
-      "title": "如何看待深圳理工提出实验班逐步取消大学英语，改教跨文化交流？未来大学的英语教育和学习可能发生什么变化？",
-      "url": "https://www.zhihu.com/question/2057875583443231951",
-      "hot_value": "62 万热度",
+      "title": "「嘌呤」为什么字典读音为 piàolìng，而民间往往读为 piāolíng？",
+      "url": "https://www.zhihu.com/question/2057594284119941621",
+      "hot_value": "104 万热度",
       "index": 29
     },
     {
-      "title": "人老最怕的是什么？",
-      "url": "https://www.zhihu.com/question/2047430631487975742",
-      "hot_value": "59 万热度",
+      "title": "工信部发布防范 AI 编程工具 Claude 后门风险提示，释放了怎样的信号？",
+      "url": "https://www.zhihu.com/question/2058191110569026302",
+      "hot_value": "103 万热度",
       "index": 30
     }
   ]
