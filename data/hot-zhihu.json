@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-08T18:25:18Z",
+  "update_time": "2026-07-08T22:17:27Z",
   "count": 30,
   "list": [
     {
-      "title": "网友吐槽「等退休」是一场巨大的骗局，称年轻时透支身体退休后只能养病，对此你有哪些感触？",
-      "url": "https://www.zhihu.com/question/2057838508215988928",
-      "hot_value": "700 万热度",
+      "title": "如何评价韦东奕正式获得国家自然科学二等奖？",
+      "url": "https://www.zhihu.com/question/2058217368153756272",
+      "hot_value": "479 万热度",
       "index": 1
     },
     {
-      "title": "如何评价韦东奕正式获得国家自然科学二等奖？",
-      "url": "https://www.zhihu.com/question/2058217368153756272",
-      "hot_value": "556 万热度",
+      "title": "网友吐槽「等退休」是一场巨大的骗局，称年轻时透支身体退休后只能养病，对此你有哪些感触？",
+      "url": "https://www.zhihu.com/question/2057838508215988928",
+      "hot_value": "448 万热度",
       "index": 2
     },
     {
       "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
       "url": "https://www.zhihu.com/question/2057993033182978590",
-      "hot_value": "361 万热度",
+      "hot_value": "230 万热度",
       "index": 3
     },
     {
       "title": "如何评价大二女生高考失利无缘一本，毅然选择贷款两百万创办民宿，如今营收千万开启逆袭人生？",
       "url": "https://www.zhihu.com/question/2057932320250795330",
-      "hot_value": "346 万热度",
+      "hot_value": "195 万热度",
       "index": 4
     },
     {
-      "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2058168270499176758",
-      "hot_value": "331 万热度",
+      "title": "如何看待比利时官方嘲讽美国，称「这叫 Football 不叫 Soccer」？这两个词到底有什么区别？",
+      "url": "https://www.zhihu.com/question/2057808872559965817",
+      "hot_value": "160 万热度",
       "index": 5
     },
     {
       "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
       "url": "https://www.zhihu.com/question/2058225620715418670",
-      "hot_value": "324 万热度",
+      "hot_value": "159 万热度",
       "index": 6
     },
     {
-      "title": "埃及球员怒喷裁判不公正称世界杯被内定，大量球迷吐槽阿根廷脏，这场裁判真的有问题吗？",
-      "url": "https://www.zhihu.com/question/2058086533609911207",
-      "hot_value": "320 万热度",
+      "title": "网传知名经济学家高善文治疗淋巴瘤全过程，从发现到离世不到两年，他得的淋巴瘤有多凶险？",
+      "url": "https://www.zhihu.com/question/2057939455160185245",
+      "hot_value": "157 万热度",
       "index": 7
     },
     {
-      "title": "台风「巴威」直径超 1500 公里、超强级别维持达 4 天，这意味着什么？登陆时破坏力将有多大？",
-      "url": "https://www.zhihu.com/question/2057957666412913655",
-      "hot_value": "317 万热度",
+      "title": "世界杯 8 强已全部产生，如何看待 1/4 决赛的对阵形势？",
+      "url": "https://www.zhihu.com/question/2058095946735556042",
+      "hot_value": "147 万热度",
       "index": 8
     },
     {
-      "title": "市面上那么多种虾，哪种虾最好吃？",
-      "url": "https://www.zhihu.com/question/272244963",
-      "hot_value": "281 万热度",
+      "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+      "url": "https://www.zhihu.com/question/2055448788882437948",
+      "hot_value": "131 万热度",
       "index": 9
     },
     {
-      "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-      "url": "https://www.zhihu.com/question/2058166406420460573",
-      "hot_value": "169 万热度",
+      "title": "「嘌呤」为什么字典读音为 piàolìng，而民间往往读为 piāolíng？",
+      "url": "https://www.zhihu.com/question/2057594284119941621",
+      "hot_value": "116 万热度",
       "index": 10
     },
     {
       "title": "2026 MSI 淘汰赛 T1 1:3 不敌 G2 遭淘汰创队史最差战绩，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2058190419284996351",
-      "hot_value": "157 万热度",
+      "hot_value": "112 万热度",
       "index": 11
     },
     {
       "title": "脱口秀演员唐香玉因拒不道歉被强制执行，此前发文意指脱口秀演员埃克偷拍，被诉侵害名誉权，法律上如何解读？",
       "url": "https://www.zhihu.com/question/2057978038147609237",
-      "hot_value": "152 万热度",
+      "hot_value": "111 万热度",
       "index": 12
     },
     {
-      "title": "如何看待比利时官方嘲讽美国，称「这叫 Football 不叫 Soccer」？这两个词到底有什么区别？",
-      "url": "https://www.zhihu.com/question/2057808872559965817",
-      "hot_value": "146 万热度",
+      "title": "埃及球员怒喷裁判不公正称世界杯被内定，大量球迷吐槽阿根廷脏，这场裁判真的有问题吗？",
+      "url": "https://www.zhihu.com/question/2058086533609911207",
+      "hot_value": "109 万热度",
       "index": 13
     },
     {
-      "title": "为什么这一届世界杯，哈兰德这么出圈？",
-      "url": "https://www.zhihu.com/question/2055605816913293955",
-      "hot_value": "145 万热度",
+      "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+      "url": "https://www.zhihu.com/question/2058166406420460573",
+      "hot_value": "109 万热度",
       "index": 14
     },
     {
-      "title": "世界杯 8 强已全部产生，如何看待 1/4 决赛的对阵形势？",
-      "url": "https://www.zhihu.com/question/2058095946735556042",
-      "hot_value": "135 万热度",
+      "title": "台风「巴威」直径超 1500 公里、超强级别维持达 4 天，这意味着什么？登陆时破坏力将有多大？",
+      "url": "https://www.zhihu.com/question/2057957666412913655",
+      "hot_value": "107 万热度",
       "index": 15
-    },
-    {
-      "title": "埃及足协向国际足联正式提出申诉，要求调查主裁判，预计会得到怎样的处理？对已完结比赛结果有多大实际作用？",
-      "url": "https://www.zhihu.com/question/2058142178803541183",
-      "hot_value": "124 万热度",
-      "index": 16
-    },
-    {
-      "title": "「嘌呤」为什么字典读音为 piàolìng，而民间往往读为 piāolíng？",
-      "url": "https://www.zhihu.com/question/2057594284119941621",
-      "hot_value": "118 万热度",
-      "index": 17
-    },
-    {
-      "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
-      "url": "https://www.zhihu.com/question/2055448788882437948",
-      "hot_value": "117 万热度",
-      "index": 18
-    },
-    {
-      "title": "苏宁彻底清仓家乐福中国，52 亿入场 200 万离场，为何会走到这样的境地？老牌商超未来出路在哪？",
-      "url": "https://www.zhihu.com/question/2057419047587919541",
-      "hot_value": "115 万热度",
-      "index": 19
     },
     {
       "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
       "url": "https://www.zhihu.com/question/2055612016530810492",
-      "hot_value": "91 万热度",
-      "index": 20
+      "hot_value": "99 万热度",
+      "index": 16
+    },
+    {
+      "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+      "url": "https://www.zhihu.com/question/2058125610363401206",
+      "hot_value": "98 万热度",
+      "index": 17
+    },
+    {
+      "title": "为什么这一届世界杯，哈兰德这么出圈？",
+      "url": "https://www.zhihu.com/question/2055605816913293955",
+      "hot_value": "84 万热度",
+      "index": 18
     },
     {
       "title": "梁源节目上说 VaVa 的歌登味重，VaVa 回怼「您在华语乐坛吗」，怎么看这次冲突？乐评人到底在不在乐坛？",
       "url": "https://www.zhihu.com/question/2057391884134080599",
-      "hot_value": "87 万热度",
+      "hot_value": "80 万热度",
+      "index": 19
+    },
+    {
+      "title": "苏宁彻底清仓家乐福中国，52 亿入场 200 万离场，为何会走到这样的境地？老牌商超未来出路在哪？",
+      "url": "https://www.zhihu.com/question/2057419047587919541",
+      "hot_value": "77 万热度",
+      "index": 20
+    },
+    {
+      "title": "一景区 NPC 与游客互动掰手腕被掰断手臂，事后被游客拉黑，是否算是工伤？景区员工受伤该由谁来赔偿？",
+      "url": "https://www.zhihu.com/question/2056009958928409565",
+      "hot_value": "75 万热度",
       "index": 21
     },
     {
       "title": "CBA 联赛同位置这么多优秀的队员，为什么高诗岩能入选国家队？",
       "url": "https://www.zhihu.com/question/2057757326682101731",
-      "hot_value": "81 万热度",
+      "hot_value": "74 万热度",
       "index": 22
+    },
+    {
+      "title": "USTC 准大一新生，想问一下本科期间学习生活建议及后续发展前景如何？",
+      "url": "https://www.zhihu.com/question/2058176094755468554",
+      "hot_value": "73 万热度",
+      "index": 23
+    },
+    {
+      "title": "为什么东吴是吴「国」，而南陈是陈「朝」？",
+      "url": "https://www.zhihu.com/question/448076114",
+      "hot_value": "73 万热度",
+      "index": 24
     },
     {
       "title": "如何评价「原神 · 空月之歌」月之八（6.7）版本的幽境危战？",
       "url": "https://www.zhihu.com/question/2058131309969593608",
-      "hot_value": "79 万热度",
-      "index": 23
-    },
-    {
-      "title": "工信部发布防范 AI 编程工具 Claude 后门风险提示，释放了怎样的信号？",
-      "url": "https://www.zhihu.com/question/2058191110569026302",
-      "hot_value": "77 万热度",
-      "index": 24
-    },
-    {
-      "title": "一景区 NPC 与游客互动掰手腕被掰断手臂，事后被游客拉黑，是否算是工伤？景区员工受伤该由谁来赔偿？",
-      "url": "https://www.zhihu.com/question/2056009958928409565",
-      "hot_value": "76 万热度",
+      "hot_value": "72 万热度",
       "index": 25
-    },
-    {
-      "title": "你收藏过哪些不值钱、却承载满满幸福感的生活小物件，背后藏着什么温柔故事？",
-      "url": "https://www.zhihu.com/question/2053789563001239158",
-      "hot_value": "71 万热度",
-      "index": 26
-    },
-    {
-      "title": "为什么今年「一人一车房车自驾游」逐渐消失在自媒体视野中？",
-      "url": "https://www.zhihu.com/question/2054835564273202148",
-      "hot_value": "70 万热度",
-      "index": 27
     },
     {
       "title": "澳大利亚和新西兰为什么特别喜欢环岛（roundabout）？",
       "url": "https://www.zhihu.com/question/2054895865861498669",
-      "hot_value": "69 万热度",
+      "hot_value": "71 万热度",
+      "index": 26
+    },
+    {
+      "title": "你收藏过哪些不值钱、却承载满满幸福感的生活小物件，背后藏着什么温柔故事？",
+      "url": "https://www.zhihu.com/question/2053789563001239158",
+      "hot_value": "68 万热度",
+      "index": 27
+    },
+    {
+      "title": "为什么今年「一人一车房车自驾游」逐渐消失在自媒体视野中？",
+      "url": "https://www.zhihu.com/question/2054835564273202148",
+      "hot_value": "68 万热度",
       "index": 28
     },
     {
-      "title": "现在买房是机会吗?",
-      "url": "https://www.zhihu.com/question/8392077829",
-      "hot_value": "59 万热度",
+      "title": "银川国际青年锦标赛 u17 国青 0：2 不敌坦桑尼亚 u17 国青，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2058314245121503949",
+      "hot_value": "67 万热度",
       "index": 29
     },
     {
-      "title": "如何看待木质文明悖论？",
-      "url": "https://www.zhihu.com/question/2049117855791294439",
+      "title": "美加墨世界杯八强已全部确定，如何评价这个阵容？有哪些看点？谁能走到四强？",
+      "url": "https://www.zhihu.com/question/2058085754916562458",
       "hot_value": "59 万热度",
       "index": 30
     }
