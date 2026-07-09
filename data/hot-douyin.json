@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-07-09T18:13:05Z",
+  "update_time": "2026-07-09T22:56:13Z",
   "count": 30,
   "list": [
     {
       "title": "超强台风巴威实时路径",
       "url": "https://www.douyin.com/search/%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84?type=general",
-      "hot_value": "12168906",
+      "hot_value": "12114133",
       "index": 1
     },
     {
       "title": "台风巴威减弱了吗",
       "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%87%8F%E5%BC%B1%E4%BA%86%E5%90%97?type=general",
-      "hot_value": "12107599",
+      "hot_value": "12097861",
       "index": 2
     },
     {
       "title": "未来5年城镇新增就业保持相当规模",
       "url": "https://www.douyin.com/search/%E6%9C%AA%E6%9D%A55%E5%B9%B4%E5%9F%8E%E9%95%87%E6%96%B0%E5%A2%9E%E5%B0%B1%E4%B8%9A%E4%BF%9D%E6%8C%81%E7%9B%B8%E5%BD%93%E8%A7%84%E6%A8%A1?type=general",
-      "hot_value": "11428089",
+      "hot_value": "11425595",
       "index": 3
     },
     {
-      "title": "贵港学生记录被救下全过程",
-      "url": "https://www.douyin.com/search/%E8%B4%B5%E6%B8%AF%E5%AD%A6%E7%94%9F%E8%AE%B0%E5%BD%95%E8%A2%AB%E6%95%91%E4%B8%8B%E5%85%A8%E8%BF%87%E7%A8%8B?type=general",
-      "hot_value": "10958322",
+      "title": "西藏和盗墓笔记的适配度",
+      "url": "https://www.douyin.com/search/%E8%A5%BF%E8%97%8F%E5%92%8C%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6?type=general",
+      "hot_value": "10840835",
       "index": 4
     },
     {
       "title": "法国vs摩洛哥",
       "url": "https://www.douyin.com/search/%E6%B3%95%E5%9B%BDvs%E6%91%A9%E6%B4%9B%E5%93%A5?type=general",
-      "hot_value": "10305255",
+      "hot_value": "10272174",
       "index": 5
-    },
-    {
-      "title": "西藏和盗墓笔记的适配度",
-      "url": "https://www.douyin.com/search/%E8%A5%BF%E8%97%8F%E5%92%8C%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6?type=general",
-      "hot_value": "10212986",
-      "index": 6
     },
     {
       "title": "这里才是夏天避暑天花板",
       "url": "https://www.douyin.com/search/%E8%BF%99%E9%87%8C%E6%89%8D%E6%98%AF%E5%A4%8F%E5%A4%A9%E9%81%BF%E6%9A%91%E5%A4%A9%E8%8A%B1%E6%9D%BF?type=general",
-      "hot_value": "9086369",
-      "index": 7
+      "hot_value": "10212985",
+      "index": 6
     },
     {
       "title": "这口冰红茶才是夏天的神",
       "url": "https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E5%86%B0%E7%BA%A2%E8%8C%B6%E6%89%8D%E6%98%AF%E5%A4%8F%E5%A4%A9%E7%9A%84%E7%A5%9E?type=general",
-      "hot_value": "8664592",
+      "hot_value": "9122069",
+      "index": 7
+    },
+    {
+      "title": "贵港学生记录被救下全过程",
+      "url": "https://www.douyin.com/search/%E8%B4%B5%E6%B8%AF%E5%AD%A6%E7%94%9F%E8%AE%B0%E5%BD%95%E8%A2%AB%E6%95%91%E4%B8%8B%E5%85%A8%E8%BF%87%E7%A8%8B?type=general",
+      "hot_value": "8769671",
       "index": 8
     },
     {
       "title": "恋人怀中樱花草在耦园具象了",
       "url": "https://www.douyin.com/search/%E6%81%8B%E4%BA%BA%E6%80%80%E4%B8%AD%E6%A8%B1%E8%8A%B1%E8%8D%89%E5%9C%A8%E8%80%A6%E5%9B%AD%E5%85%B7%E8%B1%A1%E4%BA%86?type=general",
-      "hot_value": "7849243",
+      "hot_value": "8052231",
       "index": 9
     },
     {
       "title": "万物皆可波点风",
       "url": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E6%B3%A2%E7%82%B9%E9%A3%8E?type=general",
-      "hot_value": "7791557",
+      "hot_value": "7848677",
       "index": 10
     },
     {
-      "title": "95后女孩工位安在南极深海",
-      "url": "https://www.douyin.com/search/95%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%B7%A5%E4%BD%8D%E5%AE%89%E5%9C%A8%E5%8D%97%E6%9E%81%E6%B7%B1%E6%B5%B7?type=general",
-      "hot_value": "7785823",
+      "title": "晋江起火鞋厂负责人被控制",
+      "url": "https://www.douyin.com/search/%E6%99%8B%E6%B1%9F%E8%B5%B7%E7%81%AB%E9%9E%8B%E5%8E%82%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E6%8E%A7%E5%88%B6?type=general",
+      "hot_value": "7801363",
       "index": 11
     },
     {
-      "title": "中俄展开海上联合演习",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E4%BF%84%E5%B1%95%E5%BC%80%E6%B5%B7%E4%B8%8A%E8%81%94%E5%90%88%E6%BC%94%E4%B9%A0?type=general",
-      "hot_value": "7766302",
+      "title": "台风巴威或带来6到8.5米狂浪",
+      "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%88%96%E5%B8%A6%E6%9D%A56%E5%88%B08.5%E7%B1%B3%E7%8B%82%E6%B5%AA?type=general",
+      "hot_value": "7774094",
       "index": 12
     },
     {
-      "title": "功夫女足预售票房破4000万",
-      "url": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B44000%E4%B8%87?type=general",
-      "hot_value": "7760065",
+      "title": "电影功夫女足深圳路演",
+      "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%B7%B1%E5%9C%B3%E8%B7%AF%E6%BC%94?type=general",
+      "hot_value": "7766562",
       "index": 13
     },
     {
       "title": "“横州抗蛇毒血清告急”消息不实",
       "url": "https://www.douyin.com/search/%E2%80%9C%E6%A8%AA%E5%B7%9E%E6%8A%97%E8%9B%87%E6%AF%92%E8%A1%80%E6%B8%85%E5%91%8A%E6%80%A5%E2%80%9D%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E?type=general",
-      "hot_value": "7741256",
+      "hot_value": "7762402",
       "index": 14
     },
     {
-      "title": "请放心我已安全撤离",
-      "url": "https://www.douyin.com/search/%E8%AF%B7%E6%94%BE%E5%BF%83%E6%88%91%E5%B7%B2%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB?type=general",
-      "hot_value": "7740739",
+      "title": "功夫女足预售票房破4000万",
+      "url": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B44000%E4%B8%87?type=general",
+      "hot_value": "7732952",
       "index": 15
-    },
-    {
-      "title": "开启地球夏日online",
-      "url": "https://www.douyin.com/search/%E5%BC%80%E5%90%AF%E5%9C%B0%E7%90%83%E5%A4%8F%E6%97%A5online?type=general",
-      "hot_value": "7733474",
-      "index": 16
     },
     {
       "title": "等不到你的雪月风花",
       "url": "https://www.douyin.com/search/%E7%AD%89%E4%B8%8D%E5%88%B0%E4%BD%A0%E7%9A%84%E9%9B%AA%E6%9C%88%E9%A3%8E%E8%8A%B1?type=general",
-      "hot_value": "7729264",
+      "hot_value": "7723681",
+      "index": 16
+    },
+    {
+      "title": "直击无人机驰援广西洪灾救援",
+      "url": "https://www.douyin.com/search/%E7%9B%B4%E5%87%BB%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A9%B0%E6%8F%B4%E5%B9%BF%E8%A5%BF%E6%B4%AA%E7%81%BE%E6%95%91%E6%8F%B4?type=general",
+      "hot_value": "7720252",
       "index": 17
+    },
+    {
+      "title": "开启地球夏日online",
+      "url": "https://www.douyin.com/search/%E5%BC%80%E5%90%AF%E5%9C%B0%E7%90%83%E5%A4%8F%E6%97%A5online?type=general",
+      "hot_value": "7719615",
+      "index": 18
     },
     {
       "title": "没人认识的地方就是南方",
       "url": "https://www.douyin.com/search/%E6%B2%A1%E4%BA%BA%E8%AE%A4%E8%AF%86%E7%9A%84%E5%9C%B0%E6%96%B9%E5%B0%B1%E6%98%AF%E5%8D%97%E6%96%B9?type=general",
-      "hot_value": "7729245",
-      "index": 18
-    },
-    {
-      "title": "哈兰德中文感谢抖音粉丝",
-      "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D?type=general",
-      "hot_value": "7725587",
+      "hot_value": "7712887",
       "index": 19
     },
     {
       "title": "BLG战胜HLE晋级决赛",
       "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CHLE%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B?type=general",
-      "hot_value": "7720034",
+      "hot_value": "7697062",
       "index": 20
-    },
-    {
-      "title": "福建晋江火灾已致28死",
-      "url": "https://www.douyin.com/search/%E7%A6%8F%E5%BB%BA%E6%99%8B%E6%B1%9F%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B428%E6%AD%BB?type=general",
-      "hot_value": "7706402",
-      "index": 21
-    },
-    {
-      "title": "凯里特色牛背筋吃爽了",
-      "url": "https://www.douyin.com/search/%E5%87%AF%E9%87%8C%E7%89%B9%E8%89%B2%E7%89%9B%E8%83%8C%E7%AD%8B%E5%90%83%E7%88%BD%E4%BA%86?type=general",
-      "hot_value": "7704366",
-      "index": 22
     },
     {
       "title": "第38届百花奖提名名单公布",
       "url": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83?type=general",
-      "hot_value": "7702547",
+      "hot_value": "7692030",
+      "index": 21
+    },
+    {
+      "title": "哈兰德中文感谢抖音粉丝",
+      "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D?type=general",
+      "hot_value": "7688386",
+      "index": 22
+    },
+    {
+      "title": "一条AI短片演绎杨戬劈山",
+      "url": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1AI%E7%9F%AD%E7%89%87%E6%BC%94%E7%BB%8E%E6%9D%A8%E6%88%AC%E5%8A%88%E5%B1%B1?type=general",
+      "hot_value": "7682290",
       "index": 23
     },
     {
-      "title": "电影功夫女足深圳路演",
-      "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E6%B7%B1%E5%9C%B3%E8%B7%AF%E6%BC%94?type=general",
-      "hot_value": "7692919",
+      "title": "赵心童新赛季首秀",
+      "url": "https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%96%B0%E8%B5%9B%E5%AD%A3%E9%A6%96%E7%A7%80?type=general",
+      "hot_value": "7672407",
       "index": 24
     },
     {
-      "title": "12星练赛主题曲舞蹈直拍",
-      "url": "https://www.douyin.com/search/12%E6%98%9F%E7%BB%83%E8%B5%9B%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%88%9E%E8%B9%88%E7%9B%B4%E6%8B%8D?type=general",
-      "hot_value": "7689485",
+      "title": "凯里特色牛背筋吃爽了",
+      "url": "https://www.douyin.com/search/%E5%87%AF%E9%87%8C%E7%89%B9%E8%89%B2%E7%89%9B%E8%83%8C%E7%AD%8B%E5%90%83%E7%88%BD%E4%BA%86?type=general",
+      "hot_value": "7660580",
       "index": 25
     },
     {
-      "title": "参见泡泡大王",
-      "url": "https://www.douyin.com/search/%E5%8F%82%E8%A7%81%E6%B3%A1%E6%B3%A1%E5%A4%A7%E7%8E%8B?type=general",
-      "hot_value": "7688399",
+      "title": "被裁掉的女孩收官啦",
+      "url": "https://www.douyin.com/search/%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E6%94%B6%E5%AE%98%E5%95%A6?type=general",
+      "hot_value": "7655978",
       "index": 26
     },
     {
-      "title": "失控进化上线",
-      "url": "https://www.douyin.com/search/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96%E4%B8%8A%E7%BA%BF?type=general",
-      "hot_value": "7681873",
+      "title": "官俊臣李煜东好萌的两个人",
+      "url": "https://www.douyin.com/search/%E5%AE%98%E4%BF%8A%E8%87%A3%E6%9D%8E%E7%85%9C%E4%B8%9C%E5%A5%BD%E8%90%8C%E7%9A%84%E4%B8%A4%E4%B8%AA%E4%BA%BA?type=general",
+      "hot_value": "7654714",
       "index": 27
     },
     {
-      "title": "雀骨定档0711",
-      "url": "https://www.douyin.com/search/%E9%9B%80%E9%AA%A8%E5%AE%9A%E6%A1%A30711?type=general",
-      "hot_value": "7679470",
+      "title": "福建晋江火灾已致28死",
+      "url": "https://www.douyin.com/search/%E7%A6%8F%E5%BB%BA%E6%99%8B%E6%B1%9F%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B428%E6%AD%BB?type=general",
+      "hot_value": "7653462",
       "index": 28
     },
     {
-      "title": "再不玩就举不动了",
-      "url": "https://www.douyin.com/search/%E5%86%8D%E4%B8%8D%E7%8E%A9%E5%B0%B1%E4%B8%BE%E4%B8%8D%E5%8A%A8%E4%BA%86?type=general",
-      "hot_value": "7679333",
+      "title": "雪饼猴遇上语速天花板游客",
+      "url": "https://www.douyin.com/search/%E9%9B%AA%E9%A5%BC%E7%8C%B4%E9%81%87%E4%B8%8A%E8%AF%AD%E9%80%9F%E5%A4%A9%E8%8A%B1%E6%9D%BF%E6%B8%B8%E5%AE%A2?type=general",
+      "hot_value": "7647443",
       "index": 29
     },
     {
-      "title": "张韶涵AlanWalker盛夏神曲",
-      "url": "https://www.douyin.com/search/%E5%BC%A0%E9%9F%B6%E6%B6%B5AlanWalker%E7%9B%9B%E5%A4%8F%E7%A5%9E%E6%9B%B2?type=general",
-      "hot_value": "7675364",
+      "title": "失控进化新手开荒攻略",
+      "url": "https://www.douyin.com/search/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96%E6%96%B0%E6%89%8B%E5%BC%80%E8%8D%92%E6%94%BB%E7%95%A5?type=general",
+      "hot_value": "7646996",
       "index": 30
     }
   ]

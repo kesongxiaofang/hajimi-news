@@ -1,145 +1,145 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-09T18:13:05Z",
+  "update_time": "2026-07-09T22:56:13Z",
   "count": 30,
   "list": [
     {
       "title": "福建晋江鞋厂火灾已致 28 人死亡，现场疏散 213 人，500 余人投入救援",
       "url": "https://www.zhihu.com/pin/2058678665664263547",
-      "hot_value": "1927 万热度",
+      "hot_value": "1396 万热度",
       "index": 1
     },
     {
-      "title": "如何看待良子 26 年的体检报告，他的血糖血压甚至更健康了吗？",
-      "url": "https://www.zhihu.com/question/2058494548238496671",
-      "hot_value": "878 万热度",
+      "title": "世界杯 1/4 决赛，法国 vs 摩洛哥，双方时隔四年再度会师淘汰赛，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2058142880246523378",
+      "hot_value": "434 万热度",
       "index": 2
     },
     {
-      "title": "如何看待 FIFA 认定阿根廷进球判罚正确？",
-      "url": "https://www.zhihu.com/question/2058580553054384932",
-      "hot_value": "432 万热度",
+      "title": "雷军提出车内空间不该固定，小米澎程主打「空间自定义」，这有必要吗？会不会重新定义未来家用车的设计逻辑？",
+      "url": "https://www.zhihu.com/question/2058507973886997487",
+      "hot_value": "325 万热度",
       "index": 3
     },
     {
-      "title": "2026 MSI 胜者组决赛 BLG 3:1 击败 HLE 晋级决赛，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2058566661389672659",
-      "hot_value": "427 万热度",
+      "title": "起点中文网是否存在一本《冰与火之歌》级别的奇幻作品？",
+      "url": "https://www.zhihu.com/question/2052070828276192925",
+      "hot_value": "142 万热度",
       "index": 4
     },
     {
       "title": "微信读书为什么不专门为 Kindle 开发一款操作系统，去收割亚马逊丢掉的国内市场份额？",
       "url": "https://www.zhihu.com/question/2010901701654254725",
-      "hot_value": "373 万热度",
+      "hot_value": "141 万热度",
       "index": 5
     },
     {
-      "title": "雷军提出车内空间不该固定，小米澎程主打「空间自定义」，这有必要吗？会不会重新定义未来家用车的设计逻辑？",
-      "url": "https://www.zhihu.com/question/2058507973886997487",
-      "hot_value": "320 万热度",
+      "title": "为什么 HLE 在胜者组决赛突然就打不过 BLG 了？",
+      "url": "https://www.zhihu.com/question/2058636746284169007",
+      "hot_value": "140 万热度",
       "index": 6
-    },
-    {
-      "title": "在当下，为什么一部电影稍有瑕疵就会引发舆论风暴，被全网审判？是否有时候过于苛刻、过度应激了？",
-      "url": "https://www.zhihu.com/question/2056426614649512159",
-      "hot_value": "238 万热度",
-      "index": 7
-    },
-    {
-      "title": "世界杯 1/4 决赛，法国 vs 摩洛哥，双方时隔四年再度会师淘汰赛，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2058142880246523378",
-      "hot_value": "234 万热度",
-      "index": 8
     },
     {
       "title": "广西一动物园灾前将猛兽区锁死致三只狮子溺亡，如何看待这一做法？",
       "url": "https://www.zhihu.com/question/2058257889240643458",
-      "hot_value": "218 万热度",
+      "hot_value": "131 万热度",
+      "index": 7
+    },
+    {
+      "title": "张雪透露负债近 1 亿，称「这次卖了一点股份，本月就会还清，再也不欠钱了」，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2056885430310659867",
+      "hot_value": "130 万热度",
+      "index": 8
+    },
+    {
+      "title": "如何看待良子 26 年的体检报告，他的血糖血压甚至更健康了吗？",
+      "url": "https://www.zhihu.com/question/2058494548238496671",
+      "hot_value": "123 万热度",
       "index": 9
     },
     {
       "title": "为什么感觉现在的年轻人，都不怎么爱喝传统碳酸饮料了？",
       "url": "https://www.zhihu.com/question/1976975189460927248",
-      "hot_value": "177 万热度",
+      "hot_value": "121 万热度",
       "index": 10
     },
     {
-      "title": "起点中文网是否存在一本《冰与火之歌》级别的奇幻作品？",
-      "url": "https://www.zhihu.com/question/2052070828276192925",
-      "hot_value": "137 万热度",
+      "title": "为什么腾讯几乎没有人工客服？",
+      "url": "https://www.zhihu.com/question/396173411",
+      "hot_value": "118 万热度",
       "index": 11
     },
     {
-      "title": "为什么山东人喜欢吃知了猴？",
-      "url": "https://www.zhihu.com/question/285950491",
-      "hot_value": "132 万热度",
+      "title": "你认为的国内宜居城市是哪个，理由是什么？",
+      "url": "https://www.zhihu.com/question/666434041",
+      "hot_value": "81 万热度",
       "index": 12
     },
     {
-      "title": "为什么 HLE 在胜者组决赛突然就打不过 BLG 了？",
-      "url": "https://www.zhihu.com/question/2058636746284169007",
-      "hot_value": "121 万热度",
+      "title": "在当下，为什么一部电影稍有瑕疵就会引发舆论风暴，被全网审判？是否有时候过于苛刻、过度应激了？",
+      "url": "https://www.zhihu.com/question/2056426614649512159",
+      "hot_value": "79 万热度",
       "index": 13
     },
     {
       "title": "挪威队多人咳嗽发烧，将于 12 日战英格兰，这会对球队有多大影响？有什么办法能快速恢复状态？",
       "url": "https://www.zhihu.com/question/2058161515023130890",
-      "hot_value": "98 万热度",
+      "hot_value": "78 万热度",
       "index": 14
     },
     {
       "title": "香港黑帮垄断工地盒饭年赚千万被捕，每天 800 份、每份 50 港元，这类生意利润很大吗？为何能被黑社会盯上？",
       "url": "https://www.zhihu.com/question/2057607966665265962",
-      "hot_value": "93 万热度",
+      "hot_value": "77 万热度",
       "index": 15
     },
     {
       "title": "如何看待恋与深空宣布退出 BW 展并全额承担玩家机酒门票损失，承诺将在内部全面开展对历史文化的培训？",
       "url": "https://www.zhihu.com/question/2058102120750866886",
-      "hot_value": "90 万热度",
+      "hot_value": "77 万热度",
       "index": 16
     },
     {
-      "title": "张雪透露负债近 1 亿，称「这次卖了一点股份，本月就会还清，再也不欠钱了」，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2056885430310659867",
-      "hot_value": "87 万热度",
+      "title": "为什么西安 GDP 不高，却能拥有包括 SKP，M1 级万象城，以及即将竣工的太古里等诸多顶流商业项目？",
+      "url": "https://www.zhihu.com/question/2057216066271573493",
+      "hot_value": "77 万热度",
       "index": 17
-    },
-    {
-      "title": "除了烤鸭以外，鸭子还可以怎么吃？",
-      "url": "https://www.zhihu.com/question/8835989258",
-      "hot_value": "70 万热度",
-      "index": 18
-    },
-    {
-      "title": "为什么人不能清楚的认识到自己的缺点？",
-      "url": "https://www.zhihu.com/question/10294526936",
-      "hot_value": "69 万热度",
-      "index": 19
     },
     {
       "title": "黄埔军校只是短训班，并没多少军事素养，咋出了那么多名将？",
       "url": "https://www.zhihu.com/question/2052670200672212964",
-      "hot_value": "65 万热度",
+      "hot_value": "67 万热度",
+      "index": 18
+    },
+    {
+      "title": "如何看待 FIFA 认定阿根廷进球判罚正确？",
+      "url": "https://www.zhihu.com/question/2058580553054384932",
+      "hot_value": "67 万热度",
+      "index": 19
+    },
+    {
+      "title": "为什么山东人喜欢吃知了猴？",
+      "url": "https://www.zhihu.com/question/285950491",
+      "hot_value": "58 万热度",
       "index": 20
     },
     {
       "title": "英伟达市值不到两个月蒸发 1 万亿美元，估值回落至人工智能热潮掀起之前的水平，算力龙头为何遭抛售？",
       "url": "https://www.zhihu.com/question/2058280043265143682",
-      "hot_value": "59 万热度",
-      "index": 21
-    },
-    {
-      "title": "大家都知道，麦当劳、肯德基是垃圾食品，为什么还是那么多人去吃？",
-      "url": "https://www.zhihu.com/question/2041517256224530814",
       "hot_value": "58 万热度",
-      "index": 22
+      "index": 21
     },
     {
       "title": "台风「巴威」直径超 1500 公里、超强级别维持达 4 天，这意味着什么？登陆时破坏力将有多大？",
       "url": "https://www.zhihu.com/question/2057957666412913655",
       "hot_value": "58 万热度",
+      "index": 22
+    },
+    {
+      "title": "《剑星》《红色沙漠》《匹诺曹的谎言》，是不是代表韩国 3A 游戏已经成功崛起了？",
+      "url": "https://www.zhihu.com/question/2045664169492473179",
+      "hot_value": "57 万热度",
       "index": 23
     },
     {
@@ -155,14 +155,14 @@
       "index": 25
     },
     {
-      "title": "2026 百花奖提名公布，影帝成龙梁家辉 PK 朱一龙刘昊然易烊千玺，杨幂刘诗诗争女配，你看好谁获奖？",
-      "url": "https://www.zhihu.com/question/2058584107408418595",
+      "title": "为什么说水是「最普通又最神奇的液体」？",
+      "url": "https://www.zhihu.com/question/2055817920970860449",
       "hot_value": "57 万热度",
       "index": 26
     },
     {
-      "title": "曝 TikTok 全球裁员，网传印尼将裁 90%，裁员出于哪些原因？这一架构调整可能带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2057807463441593129",
+      "title": "听说全球变暖对我国利大于弊，这是真的吗？从科学角度上看，该说法是否合理？",
+      "url": "https://www.zhihu.com/question/2057188903359098994",
       "hot_value": "57 万热度",
       "index": 27
     },
@@ -173,14 +173,14 @@
       "index": 28
     },
     {
-      "title": "听说全球变暖对我国利大于弊，这是真的吗？从科学角度上看，该说法是否合理？",
-      "url": "https://www.zhihu.com/question/2057188903359098994",
+      "title": "为什么各路诸侯都支持庶出的袁绍当盟主，而不支持嫡长子袁术?",
+      "url": "https://www.zhihu.com/question/2057847421275846600",
       "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "为什么各路诸侯都支持庶出的袁绍当盟主，而不支持嫡长子袁术?",
-      "url": "https://www.zhihu.com/question/2057847421275846600",
+      "title": "一人公司时代来临，单人就能搞定全链路商业闭环，怎么理解这场生产关系大变革？",
+      "url": "https://www.zhihu.com/question/2053139407440450902",
       "hot_value": "57 万热度",
       "index": 30
     }

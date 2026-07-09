@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-09T18:13:05Z",
+  "update_time": "2026-07-09T22:56:13Z",
   "count": 30,
   "list": [
     {
       "title": "PC今日公测！《遗忘之海》PV「初航乐章」",
       "url": "https://www.bilibili.com/video/BV1zGTR6MEjp",
-      "hot_value": "4361377播放",
+      "hot_value": "4674627播放",
       "index": 1
-    },
-    {
-      "title": "“一方有难，八方支援”【凄美地-混响】【善意の小曲】",
-      "url": "https://www.bilibili.com/video/BV1CWM86mECm",
-      "hot_value": "5234038播放",
-      "index": 2
-    },
-    {
-      "title": "《望月》月灵都市玩法预告丨拍档！探索！天月市！",
-      "url": "https://www.bilibili.com/video/BV19rMt64Enk",
-      "hot_value": "2377801播放",
-      "index": 3
     },
     {
       "title": "失控进化 不养闲人",
       "url": "https://www.bilibili.com/video/BV1LgMV6pEqg",
-      "hot_value": "2826426播放",
+      "hot_value": "3221732播放",
+      "index": 2
+    },
+    {
+      "title": "“一方有难，八方支援”【凄美地-混响】【善意の小曲】",
+      "url": "https://www.bilibili.com/video/BV1CWM86mECm",
+      "hot_value": "5471141播放",
+      "index": 3
+    },
+    {
+      "title": "《望月》月灵都市玩法预告丨拍档！探索！天月市！",
+      "url": "https://www.bilibili.com/video/BV19rMt64Enk",
+      "hot_value": "2555773播放",
       "index": 4
-    },
-    {
-      "title": "相濡以沫",
-      "url": "https://www.bilibili.com/video/BV1sUMg6fEKf",
-      "hot_value": "4991018播放",
-      "index": 5
-    },
-    {
-      "title": "比热容",
-      "url": "https://www.bilibili.com/video/BV17uMi6HExH",
-      "hot_value": "1242567播放",
-      "index": 6
-    },
-    {
-      "title": "赶早8",
-      "url": "https://www.bilibili.com/video/BV1FyMi6tEzZ",
-      "hot_value": "1571528播放",
-      "index": 7
-    },
-    {
-      "title": "大 周 礼 时 代(7)",
-      "url": "https://www.bilibili.com/video/BV1qLTR6KE8T",
-      "hot_value": "624650播放",
-      "index": 8
-    },
-    {
-      "title": "这也太他喵的逆天了吧",
-      "url": "https://www.bilibili.com/video/BV1R9Ms6QEUr",
-      "hot_value": "3537967播放",
-      "index": 9
-    },
-    {
-      "title": "多动症版甄嬛传2-感人泪下的甄氏父女情【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1coMg6WEc5",
-      "hot_value": "872531播放",
-      "index": 10
     },
     {
       "title": "See You Again,但是Life Goes On",
       "url": "https://www.bilibili.com/video/BV1EcMa63Epy",
-      "hot_value": "2255833播放",
-      "index": 11
+      "hot_value": "2300106播放",
+      "index": 5
     },
     {
       "title": "再干！",
       "url": "https://www.bilibili.com/video/BV1juM36LEg6",
-      "hot_value": "836501播放",
-      "index": 12
+      "hot_value": "895035播放",
+      "index": 6
     },
     {
-      "title": "大家好我是《Maybe so, Maybe not》（塞翁失马）的作者 大牙中国红脖Bigtooth",
-      "url": "https://www.bilibili.com/video/BV1vjM46RErp",
-      "hot_value": "401985播放",
-      "index": 13
+      "title": "这也太他喵的逆天了吧",
+      "url": "https://www.bilibili.com/video/BV1R9Ms6QEUr",
+      "hot_value": "3690786播放",
+      "index": 7
     },
     {
-      "title": "广西蛇场被洪水冲毁！大量眼镜蛇逃出？被困村民被蛇咬伤无法获救！",
-      "url": "https://www.bilibili.com/video/BV11JME6DEif",
-      "hot_value": "439023播放",
-      "index": 14
-    },
-    {
-      "title": "挑战说我像谁 我就仿谁",
-      "url": "https://www.bilibili.com/video/BV1nRMg6REU2",
-      "hot_value": "1059696播放",
-      "index": 15
-    },
-    {
-      "title": "！？门门？！（完整版 一镜到底）",
-      "url": "https://www.bilibili.com/video/BV16rMV6cEqb",
-      "hot_value": "196120播放",
-      "index": 16
-    },
-    {
-      "title": "BLG晋级决赛！BLG 3-1 HLE 赛后数据雷达图+虎扑评分丨MSI胜决",
-      "url": "https://www.bilibili.com/video/BV1jxMH65ERV",
-      "hot_value": "502088播放",
-      "index": 17
-    },
-    {
-      "title": "绷王的诞生",
-      "url": "https://www.bilibili.com/video/BV1RTM361E6y",
-      "hot_value": "720588播放",
-      "index": 18
-    },
-    {
-      "title": "郝 哥 不 在 2.0",
-      "url": "https://www.bilibili.com/video/BV1MEME6pEcc",
-      "hot_value": "267938播放",
-      "index": 19
-    },
-    {
-      "title": "《别过来》",
-      "url": "https://www.bilibili.com/video/BV1wSM76GEss",
-      "hot_value": "449532播放",
-      "index": 20
+      "title": "相濡以沫",
+      "url": "https://www.bilibili.com/video/BV1sUMg6fEKf",
+      "hot_value": "5221281播放",
+      "index": 8
     },
     {
       "title": "桑多涅根本不在乎",
       "url": "https://www.bilibili.com/video/BV1YiMG61Eui",
-      "hot_value": "573657播放",
-      "index": 21
+      "hot_value": "641051播放",
+      "index": 9
+    },
+    {
+      "title": "巴威闭眼：巨型台风还可能再加强，大范围高温登陆前启动",
+      "url": "https://www.bilibili.com/video/BV1aZMp63EUD",
+      "hot_value": "454598播放",
+      "index": 10
+    },
+    {
+      "title": "彩六小车解密完成！3个联动红免费送！传火模式开启！「三角洲烽火挑战」",
+      "url": "https://www.bilibili.com/video/BV1iTMp6LEBU",
+      "hot_value": "138666播放",
+      "index": 11
     },
     {
       "title": "12个脑洞大开的做饭方式！台风居家必备",
       "url": "https://www.bilibili.com/video/BV11qM463E1w",
-      "hot_value": "945457播放",
-      "index": 22
+      "hot_value": "1082148播放",
+      "index": 12
     },
     {
-      "title": "猫和老鼠 | 当高手遇到高手",
-      "url": "https://www.bilibili.com/video/BV1JkTD6wEsH",
-      "hot_value": "2598868播放",
-      "index": 23
+      "title": "大 周 礼 时 代(7)",
+      "url": "https://www.bilibili.com/video/BV1qLTR6KE8T",
+      "hot_value": "820851播放",
+      "index": 13
+    },
+    {
+      "title": "《别过来》",
+      "url": "https://www.bilibili.com/video/BV1wSM76GEss",
+      "hot_value": "516562播放",
+      "index": 14
     },
     {
       "title": "《父母巧使连环计》",
       "url": "https://www.bilibili.com/video/BV1DFMv6BE8K",
-      "hot_value": "4962511播放",
+      "hot_value": "5020404播放",
+      "index": 15
+    },
+    {
+      "title": "猫和老鼠 | 当高手遇到高手",
+      "url": "https://www.bilibili.com/video/BV1JkTD6wEsH",
+      "hot_value": "2690460播放",
+      "index": 16
+    },
+    {
+      "title": "绷王的诞生",
+      "url": "https://www.bilibili.com/video/BV1RTM361E6y",
+      "hot_value": "832572播放",
+      "index": 17
+    },
+    {
+      "title": "赶早8",
+      "url": "https://www.bilibili.com/video/BV1FyMi6tEzZ",
+      "hot_value": "1713562播放",
+      "index": 18
+    },
+    {
+      "title": "多动症版甄嬛传2-感人泪下的甄氏父女情【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1coMg6WEc5",
+      "hot_value": "965336播放",
+      "index": 19
+    },
+    {
+      "title": "中式志怪搜打撤游戏《诡影藏锋》首曝PV&实机演示",
+      "url": "https://www.bilibili.com/video/BV1muTQ6CExQ",
+      "hot_value": "7070881播放",
+      "index": 20
+    },
+    {
+      "title": "《崩坏：星穹铁道》走近星穹——「姬子•启行：咖啡因来自咖啡果」",
+      "url": "https://www.bilibili.com/video/BV1qdM76TEBH",
+      "hot_value": "948399播放",
+      "index": 21
+    },
+    {
+      "title": "大家好我是《Maybe so, Maybe not》（塞翁失马）的作者 大牙中国红脖Bigtooth",
+      "url": "https://www.bilibili.com/video/BV1vjM46RErp",
+      "hot_value": "451118播放",
+      "index": 22
+    },
+    {
+      "title": "【给爱豆做抽象MV】NIGHT DANCER 翻唱",
+      "url": "https://www.bilibili.com/video/BV1fDTX6eEJa",
+      "hot_value": "2849410播放",
+      "index": 23
+    },
+    {
+      "title": "郝 哥 不 在 2.0",
+      "url": "https://www.bilibili.com/video/BV1MEME6pEcc",
+      "hot_value": "371640播放",
       "index": 24
     },
     {
-      "title": "活到现在就是为了这声",
-      "url": "https://www.bilibili.com/video/BV1hkMG6rETf",
-      "hot_value": "1878394播放",
+      "title": "广西蛇场被洪水冲毁！大量眼镜蛇逃出？被困村民被蛇咬伤无法获救！",
+      "url": "https://www.bilibili.com/video/BV11JME6DEif",
+      "hot_value": "571443播放",
       "index": 25
     },
     {
-      "title": "鲁豫对话姜思达：带着「伤疤」奔跑的人，永远炽热地活着 | 陈鲁豫·慢谈EP21【视频播客】",
-      "url": "https://www.bilibili.com/video/BV1xBTp6cE9L",
-      "hot_value": "2638270播放",
+      "title": "【毕导】什么时候拿百大？800w粉丝读评论！读完破防了.....",
+      "url": "https://www.bilibili.com/video/BV1HDM76rEE8",
+      "hot_value": "611886播放",
       "index": 26
-    },
-    {
-      "title": "锁定我国：超强台风巴威将登陆华东，华中和北方也需警惕暴雨",
-      "url": "https://www.bilibili.com/video/BV1HJMG64EPu",
-      "hot_value": "2047735播放",
-      "index": 27
-    },
-    {
-      "title": "“救援航母”来了！被困学子瞬间沸腾",
-      "url": "https://www.bilibili.com/video/BV1hgME6oEdD",
-      "hot_value": "1955273播放",
-      "index": 28
     },
     {
       "title": "我一定会找到最完美的时间线",
       "url": "https://www.bilibili.com/video/BV1VaMg66EGg",
-      "hot_value": "1382605播放",
+      "hot_value": "1414105播放",
+      "index": 27
+    },
+    {
+      "title": "你敢放我进来吗？？「谁是伪人」？？！",
+      "url": "https://www.bilibili.com/video/BV1faTd6VEqH",
+      "hot_value": "1923192播放",
+      "index": 28
+    },
+    {
+      "title": "挑战说我像谁 我就仿谁",
+      "url": "https://www.bilibili.com/video/BV1nRMg6REU2",
+      "hot_value": "1210732播放",
       "index": 29
     },
     {
-      "title": "雪王单品实力排行",
-      "url": "https://www.bilibili.com/video/BV13JMi6yE4p",
-      "hot_value": "3992259播放",
+      "title": "比热容",
+      "url": "https://www.bilibili.com/video/BV17uMi6HExH",
+      "hot_value": "1327863播放",
       "index": 30
     }
   ]
