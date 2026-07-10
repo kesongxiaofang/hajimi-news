@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-10T10:36:48Z",
+  "update_time": "2026-07-10T17:29:11Z",
   "count": 30,
   "list": [
     {
       "title": "PC今日公测！《遗忘之海》PV「初航乐章」",
       "url": "https://www.bilibili.com/video/BV1zGTR6MEjp",
-      "hot_value": "6450144播放",
+      "hot_value": "7457881播放",
       "index": 1
     },
     {
       "title": "《下一个是谁》第七季（1）",
       "url": "https://www.bilibili.com/video/BV1UjMn6hEXQ",
-      "hot_value": "781070播放",
+      "hot_value": "1392978播放",
       "index": 2
     },
     {
-      "title": "【B站独家】贴脸开大？和甲亢哥一起督战姆巴佩！",
-      "url": "https://www.bilibili.com/video/BV1PjNj6NE48",
-      "hot_value": "436142播放",
+      "title": "《蓝色星原：旅谣》「旅迹测试」招募开启：奇波大世界！",
+      "url": "https://www.bilibili.com/video/BV1gaMJ6aE43",
+      "hot_value": "1265694播放",
       "index": 3
     },
     {
       "title": "【超级马力欧银河大电影】水管工上天啦！",
       "url": "https://www.bilibili.com/video/BV1ESM46AEj3",
-      "hot_value": "436614播放",
+      "hot_value": "590836播放",
       "index": 4
-    },
-    {
-      "title": "“一方有难，八方支援”【凄美地-混响】【善意の小曲】",
-      "url": "https://www.bilibili.com/video/BV1CWM86mECm",
-      "hot_value": "7550874播放",
-      "index": 5
-    },
-    {
-      "title": "《蓝色星原：旅谣》「旅迹测试」招募开启：奇波大世界！",
-      "url": "https://www.bilibili.com/video/BV1gaMJ6aE43",
-      "hot_value": "436912播放",
-      "index": 6
-    },
-    {
-      "title": "願廣西平安",
-      "url": "https://www.bilibili.com/video/BV1pfNj6vEbH",
-      "hot_value": "446432播放",
-      "index": 7
-    },
-    {
-      "title": "中式志怪搜打撤游戏《诡影藏锋》首曝PV&实机演示",
-      "url": "https://www.bilibili.com/video/BV1muTQ6CExQ",
-      "hot_value": "7533232播放",
-      "index": 8
-    },
-    {
-      "title": "快啊！",
-      "url": "https://www.bilibili.com/video/BV1juM36LEg6",
-      "hot_value": "1610299播放",
-      "index": 9
-    },
-    {
-      "title": "郝 哥 不 在 2.0",
-      "url": "https://www.bilibili.com/video/BV1MEME6pEcc",
-      "hot_value": "1700981播放",
-      "index": 10
-    },
-    {
-      "title": "见证历史！火影首位1亿战力玩家诞生！这是我们共同见证的故事，一场永不落幕的浪漫故事！",
-      "url": "https://www.bilibili.com/video/BV1oUNL6pEmB",
-      "hot_value": "373360播放",
-      "index": 11
-    },
-    {
-      "title": "滔搏MSI单曲《陀螺不会飞》",
-      "url": "https://www.bilibili.com/video/BV1eKMn6MEHo",
-      "hot_value": "1474380播放",
-      "index": 12
     },
     {
       "title": "《望月》月灵都市玩法预告丨拍档！探索！天月市！",
       "url": "https://www.bilibili.com/video/BV19rMt64Enk",
-      "hot_value": "4506209播放",
+      "hot_value": "5138758播放",
+      "index": 5
+    },
+    {
+      "title": "【TF家族】2026TF家族运动会先导片-TF家族四代篇",
+      "url": "https://www.bilibili.com/video/BV1nzMp6WEPm",
+      "hot_value": "495550播放",
+      "index": 6
+    },
+    {
+      "title": "美人鱼的夏天",
+      "url": "https://www.bilibili.com/video/BV1ueM76pEuY",
+      "hot_value": "1060557播放",
+      "index": 7
+    },
+    {
+      "title": "「诡秘之主」公测定档8月21日！成神之路，序章将启！",
+      "url": "https://www.bilibili.com/video/BV1zwMp6UECi",
+      "hot_value": "848653播放",
+      "index": 8
+    },
+    {
+      "title": "“一方有难，八方支援”【凄美地-混响】【善意の小曲】",
+      "url": "https://www.bilibili.com/video/BV1CWM86mECm",
+      "hot_value": "8147735播放",
+      "index": 9
+    },
+    {
+      "title": "【独家】《百日成王》第6集 这烈王的马甲掉得也太快了吧！【7月国创】",
+      "url": "https://www.bilibili.com/video/BV1gvMg6BEH1",
+      "hot_value": "212693播放",
+      "index": 10
+    },
+    {
+      "title": "願廣西平安",
+      "url": "https://www.bilibili.com/video/BV1pfNj6vEbH",
+      "hot_value": "871353播放",
+      "index": 11
+    },
+    {
+      "title": "【B站独家】贴脸开大？和甲亢哥一起督战姆巴佩！",
+      "url": "https://www.bilibili.com/video/BV1PjNj6NE48",
+      "hot_value": "1046053播放",
+      "index": 12
+    },
+    {
+      "title": "广西蛇场被洪水冲毁！大量眼镜蛇逃出？被困村民被蛇咬伤无法获救！",
+      "url": "https://www.bilibili.com/video/BV11JME6DEif",
+      "hot_value": "2501319播放",
       "index": 13
     },
     {
-      "title": "！？门门？！（完整版 一镜到底）",
-      "url": "https://www.bilibili.com/video/BV16rMV6cEqb",
-      "hot_value": "891484播放",
+      "title": "郝 哥 不 在 2.0",
+      "url": "https://www.bilibili.com/video/BV1MEME6pEcc",
+      "hot_value": "2099279播放",
       "index": 14
     },
     {
-      "title": "猫和老鼠 | 当高手遇到高手",
-      "url": "https://www.bilibili.com/video/BV1JkTD6wEsH",
-      "hot_value": "3720449播放",
+      "title": "这也太他喵的逆天了吧",
+      "url": "https://www.bilibili.com/video/BV1R9Ms6QEUr",
+      "hot_value": "4803768播放",
       "index": 15
     },
     {
-      "title": "手工地形图趣味讲解江苏",
-      "url": "https://www.bilibili.com/video/BV1ihMv67E3V",
-      "hot_value": "711423播放",
+      "title": "快啊！",
+      "url": "https://www.bilibili.com/video/BV1juM36LEg6",
+      "hot_value": "1985275播放",
       "index": 16
     },
     {
-      "title": "反派少女派遣中心剧场版 轻语眠心 心想事成 【UP动画】",
-      "url": "https://www.bilibili.com/video/BV17DMi6WEke",
-      "hot_value": "326009播放",
+      "title": "当你穿进老钱班29",
+      "url": "https://www.bilibili.com/video/BV1LrME6iEWs",
+      "hot_value": "1512616播放",
       "index": 17
     },
     {
-      "title": "12个脑洞大开的做饭方式！台风居家必备",
-      "url": "https://www.bilibili.com/video/BV11qM463E1w",
-      "hot_value": "1680381播放",
+      "title": "滔搏MSI单曲《陀螺不会飞》",
+      "url": "https://www.bilibili.com/video/BV1eKMn6MEHo",
+      "hot_value": "1676052播放",
       "index": 18
     },
     {
-      "title": "大家好我是《Maybe so, Maybe not》（塞翁失马）的作者 大牙中国红脖Bigtooth",
-      "url": "https://www.bilibili.com/video/BV1vjM46RErp",
-      "hot_value": "809969播放",
+      "title": "完整版 NIGHT DANCER 翻唱 【给爱豆做抽象MV】",
+      "url": "https://www.bilibili.com/video/BV1rnNj6hErD",
+      "hot_value": "201437播放",
       "index": 19
     },
     {
       "title": "【独家】《将夜》第13集 寻径入书【4月国创】",
       "url": "https://www.bilibili.com/video/BV181M567EWf",
-      "hot_value": "936819播放",
+      "hot_value": "989252播放",
       "index": 20
     },
     {
-      "title": "无语，早知道不化妆来上班了",
-      "url": "https://www.bilibili.com/video/BV1c7MH6SExT",
-      "hot_value": "811559播放",
+      "title": "动捕演员失忆后 是什么让她完成了表演？！",
+      "url": "https://www.bilibili.com/video/BV12BM76UEdA",
+      "hot_value": "641455播放",
       "index": 21
     },
     {
-      "title": "这也太他喵的逆天了吧",
-      "url": "https://www.bilibili.com/video/BV1R9Ms6QEUr",
-      "hot_value": "4354518播放",
+      "title": "见证历史！火影首位1亿战力玩家诞生！这是我们共同见证的故事，一场永不落幕的浪漫故事！",
+      "url": "https://www.bilibili.com/video/BV1oUNL6pEmB",
+      "hot_value": "623242播放",
       "index": 22
+    },
+    {
+      "title": "【TF家族】2026TF家族运动会先导片-TOP登陆少年组合篇",
+      "url": "https://www.bilibili.com/video/BV1TJMn68EX3",
+      "hot_value": "339970播放",
+      "index": 23
+    },
+    {
+      "title": "手工地形图趣味讲解江苏",
+      "url": "https://www.bilibili.com/video/BV1ihMv67E3V",
+      "hot_value": "1065072播放",
+      "index": 24
+    },
+    {
+      "title": "《原神》过场动画-「若我们再次相见」",
+      "url": "https://www.bilibili.com/video/BV1JvME66Eej",
+      "hot_value": "536676播放",
+      "index": 25
+    },
+    {
+      "title": "【TF家族】2026TF家族运动会先导片-TFING篇",
+      "url": "https://www.bilibili.com/video/BV1gcMW6uE79",
+      "hot_value": "301351播放",
+      "index": 26
+    },
+    {
+      "title": "鬼畜全明星！",
+      "url": "https://www.bilibili.com/video/BV14JMn6bEZB",
+      "hot_value": "1133636播放",
+      "index": 27
     },
     {
       "title": "《洛克王国：世界》S3赛季「铅字幻梦」PV首曝，7月16日开启新篇章",
       "url": "https://www.bilibili.com/video/BV1FnMG6oEjA",
-      "hot_value": "2142370播放",
-      "index": 23
-    },
-    {
-      "title": "美人鱼的夏天",
-      "url": "https://www.bilibili.com/video/BV1ueM76pEuY",
-      "hot_value": "674551播放",
-      "index": 24
-    },
-    {
-      "title": "《别过来》",
-      "url": "https://www.bilibili.com/video/BV1wSM76GEss",
-      "hot_value": "935552播放",
-      "index": 25
-    },
-    {
-      "title": "【毕导】什么时候拿百大？800w粉丝读评论！读完破防了.....",
-      "url": "https://www.bilibili.com/video/BV1HDM76rEE8",
-      "hot_value": "1063316播放",
-      "index": 26
-    },
-    {
-      "title": "《洛克王国：世界》S3赛季奇遇新精灵登场！",
-      "url": "https://www.bilibili.com/video/BV18CNj61Ejd",
-      "hot_value": "302446播放",
-      "index": 27
-    },
-    {
-      "title": "“ 中 年 人 脑 门 一 热 创 业 实 力 排 行 ”",
-      "url": "https://www.bilibili.com/video/BV1NUMg6fEzo",
-      "hot_value": "1419532播放",
+      "hot_value": "2429797播放",
       "index": 28
     },
     {
-      "title": "赶早8",
-      "url": "https://www.bilibili.com/video/BV1FyMi6tEzZ",
-      "hot_value": "2241978播放",
+      "title": "日本印度表面兄妹",
+      "url": "https://www.bilibili.com/video/BV14MNj66ExM",
+      "hot_value": "811317播放",
       "index": 29
     },
     {
-      "title": "比热容",
-      "url": "https://www.bilibili.com/video/BV17uMi6HExH",
-      "hot_value": "1975331播放",
+      "title": "12个脑洞大开的做饭方式！台风居家必备",
+      "url": "https://www.bilibili.com/video/BV11qM463E1w",
+      "hot_value": "1927787播放",
       "index": 30
     }
   ]
