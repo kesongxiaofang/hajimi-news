@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-11T10:43:26Z",
+  "update_time": "2026-07-11T14:37:49Z",
   "count": 30,
   "list": [
     {
       "title": "如何看待广西洪灾中无人机打破「不许吊人」规定进行人员转运？",
       "url": "https://www.zhihu.com/question/2058898849314486143",
-      "hot_value": "1146 万热度",
+      "hot_value": "1958 万热度",
       "index": 1
     },
     {
-      "title": "商务部、海关总署对氦气实施临时禁止出口管理，有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2058959918087018226",
-      "hot_value": "887 万热度",
+      "title": "台风巴威或将提前于 11 日夜间至 12 日凌晨登陆，十级风圈抵达浙江，你家那里怎么样？",
+      "url": "https://www.zhihu.com/question/2058816691778184465",
+      "hot_value": "1308 万热度",
       "index": 2
-    },
-    {
-      "title": "你会去看周星驰的新电影《功夫女足》吗？",
-      "url": "https://www.zhihu.com/question/2058093856713969712",
-      "hot_value": "585 万热度",
-      "index": 3
-    },
-    {
-      "title": "浙江福建的朋友们，等待台风来临是一种什么心情？它一拖再拖都还没来，是不是有点烦？",
-      "url": "https://www.zhihu.com/question/2059049327108911736",
-      "hot_value": "552 万热度",
-      "index": 4
     },
     {
       "title": "不到两年现炒称重快餐纷纷倒闭，顾客为什么放弃了自选称重快餐？",
       "url": "https://www.zhihu.com/question/2028079560181171761",
-      "hot_value": "489 万热度",
+      "hot_value": "724 万热度",
+      "index": 3
+    },
+    {
+      "title": "你会去看周星驰的新电影《功夫女足》吗？",
+      "url": "https://www.zhihu.com/question/2058093856713969712",
+      "hot_value": "597 万热度",
+      "index": 4
+    },
+    {
+      "title": "浙江福建的朋友们，等待台风来临是一种什么心情？它一拖再拖都还没来，是不是有点烦？",
+      "url": "https://www.zhihu.com/question/2059049327108911736",
+      "hot_value": "309 万热度",
       "index": 5
     },
     {
-      "title": "美巨头辉瑞前总部大楼恐局部坍塌，有两根支撑梁柱发生弯曲，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2058872591855752079",
-      "hot_value": "488 万热度",
+      "title": "日本可回收火箭小型实验机 RV-X「着陆成功」，日媒报道只飞了 11 米，这是什么水平？对其有何意义？",
+      "url": "https://www.zhihu.com/question/2058854448244454744",
+      "hot_value": "275 万热度",
       "index": 6
-    },
-    {
-      "title": "为什么电影《奥本海默》中的科学家形象，不像现实中的理工科学生，反而像文科生？",
-      "url": "https://www.zhihu.com/question/2055338128379007237",
-      "hot_value": "487 万热度",
-      "index": 7
-    },
-    {
-      "title": "长征十号乙回收时为什么会冒出大量黑烟？",
-      "url": "https://www.zhihu.com/question/2058945292020315835",
-      "hot_value": "428 万热度",
-      "index": 8
-    },
-    {
-      "title": "如何评价周星驰执导、编剧的电影《功夫女足》？",
-      "url": "https://www.zhihu.com/question/2058553085396620762",
-      "hot_value": "386 万热度",
-      "index": 9
-    },
-    {
-      "title": "台风巴威即将登陆，十级风圈抵达浙江，你家那里怎么样？",
-      "url": "https://www.zhihu.com/question/2058816691778184465",
-      "hot_value": "347 万热度",
-      "index": 10
     },
     {
       "title": "《潜伏》里的李涯很能干，但是站长为什么更喜欢余则成？",
       "url": "https://www.zhihu.com/question/823558160",
-      "hot_value": "328 万热度",
-      "index": 11
+      "hot_value": "242 万热度",
+      "index": 7
     },
     {
-      "title": "如何评价《凡人修仙传 》182 集，慕兰之战第六集？",
-      "url": "https://www.zhihu.com/question/2058983815834505654",
-      "hot_value": "309 万热度",
-      "index": 12
+      "title": "如何评价周星驰执导、编剧的电影《功夫女足》？",
+      "url": "https://www.zhihu.com/question/2058553085396620762",
+      "hot_value": "225 万热度",
+      "index": 8
     },
     {
-      "title": "如果在野外发现了一只大熊猫，很脏，领回家给他洗个澡，再养几天，犯法吗？",
-      "url": "https://www.zhihu.com/question/444398458",
-      "hot_value": "197 万热度",
-      "index": 13
+      "title": "为什么电影《奥本海默》中的科学家形象，不像现实中的理工科学生，反而像文科生？",
+      "url": "https://www.zhihu.com/question/2055338128379007237",
+      "hot_value": "208 万热度",
+      "index": 9
     },
     {
-      "title": "如何评价追光动画出品的电影《三国第一部：争洛阳》？",
-      "url": "https://www.zhihu.com/question/2050951363807405043",
-      "hot_value": "195 万热度",
-      "index": 14
-    },
-    {
-      "title": "世界杯四强大胆预测，会是法国，阿根廷，英格兰和西班牙吗？",
-      "url": "https://www.zhihu.com/question/2058119231846322566",
-      "hot_value": "167 万热度",
-      "index": 15
-    },
-    {
-      "title": "国务院安委会对福建泉州「7·9」重大火灾查处挂牌督办，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2059215563638018597",
-      "hot_value": "153 万热度",
-      "index": 16
-    },
-    {
-      "title": "如何看待夏联杨瀚森 12 分 9 板 4 助，开拓者惜败太阳，马卢阿奇 19+11 ？",
-      "url": "https://www.zhihu.com/question/2059264055395849985",
-      "hot_value": "139 万热度",
-      "index": 17
-    },
-    {
-      "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
-      "url": "https://www.zhihu.com/question/2058964046766945142",
-      "hot_value": "98 万热度",
-      "index": 18
-    },
-    {
-      "title": "经常看到说东北菜量大，但自己没有去过，东北菜量到底有多大？",
-      "url": "https://www.zhihu.com/question/469279323",
-      "hot_value": "80 万热度",
-      "index": 19
+      "title": "长征十号乙回收时为什么会冒出大量黑烟？",
+      "url": "https://www.zhihu.com/question/2058945292020315835",
+      "hot_value": "207 万热度",
+      "index": 10
     },
     {
       "title": "长沙通报「体育局干部占车位事件」，彭某某被停职，纪检监察机关已对相关问题核实处理，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2059327392334745679",
-      "hot_value": "79 万热度",
+      "hot_value": "185 万热度",
+      "index": 11
+    },
+    {
+      "title": "2026 年 MSI 季中冠军赛淘汰赛 HLE 3:2 LYON，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2059293856282284980",
+      "hot_value": "163 万热度",
+      "index": 12
+    },
+    {
+      "title": "世界杯四强大胆预测，会是法国，阿根廷，英格兰和西班牙吗？",
+      "url": "https://www.zhihu.com/question/2058119231846322566",
+      "hot_value": "153 万热度",
+      "index": 13
+    },
+    {
+      "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
+      "url": "https://www.zhihu.com/question/2058964046766945142",
+      "hot_value": "146 万热度",
+      "index": 14
+    },
+    {
+      "title": "世界杯半决赛，法国将对阵西班牙，强强对抗，谁会更胜一筹?",
+      "url": "https://www.zhihu.com/question/2059206822490271818",
+      "hot_value": "107 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何看待二次元 3D 动作游戏《深空之眼》官方宣布将停止更新？",
+      "url": "https://www.zhihu.com/question/2058510306708566635",
+      "hot_value": "102 万热度",
+      "index": 16
+    },
+    {
+      "title": "2026 年温网男单半决赛，德约科维奇三盘不敌辛纳，全场只获一个破发点，未能复刻澳网逆转奇迹。如何评价？",
+      "url": "https://www.zhihu.com/question/2059090212874086371",
+      "hot_value": "96 万热度",
+      "index": 17
+    },
+    {
+      "title": "为什么西班牙蓝鳍金枪鱼被公认为高端食材？有什么方法让普通人也能平价吃到正宗蓝鳍金枪鱼？",
+      "url": "https://www.zhihu.com/question/2058955809854379421",
+      "hot_value": "75 万热度",
+      "index": 18
+    },
+    {
+      "title": "张辽为何没有成为曹魏军事集团的核心？",
+      "url": "https://www.zhihu.com/question/368391476",
+      "hot_value": "72 万热度",
+      "index": 19
+    },
+    {
+      "title": "如果在野外发现了一只大熊猫，很脏，领回家给他洗个澡，再养几天，犯法吗？",
+      "url": "https://www.zhihu.com/question/444398458",
+      "hot_value": "72 万热度",
       "index": 20
     },
     {
-      "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
-      "url": "https://www.zhihu.com/question/2059159511039055807",
-      "hot_value": "78 万热度",
+      "title": "如何引导孩子接受不喜欢吃的蔬菜？",
+      "url": "https://www.zhihu.com/question/2057596406861395880",
+      "hot_value": "69 万热度",
       "index": 21
     },
     {
-      "title": "为什么总有人拿沙漠一瓶水反驳劳动价值论？到底是看不懂理论，还是刻意混淆概念？",
-      "url": "https://www.zhihu.com/question/2056133023901415209",
-      "hot_value": "76 万热度",
+      "title": "如何评价《凡人修仙传 》182 集，慕兰之战第六集？",
+      "url": "https://www.zhihu.com/question/2058983815834505654",
+      "hot_value": "59 万热度",
       "index": 22
+    },
+    {
+      "title": "美巨头辉瑞前总部大楼恐局部坍塌，有两根支撑梁柱发生弯曲，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2058872591855752079",
+      "hot_value": "57 万热度",
+      "index": 23
     },
     {
       "title": "Vibe Coding 是在造软件，还是在堆代码垃圾？",
       "url": "https://www.zhihu.com/question/2056789183775991717",
-      "hot_value": "76 万热度",
-      "index": 23
-    },
-    {
-      "title": "养花有什么决窍吗？我为什么把花养不好呢？",
-      "url": "https://www.zhihu.com/question/1895574932760531792",
-      "hot_value": "69 万热度",
+      "hot_value": "56 万热度",
       "index": 24
     },
     {
-      "title": "为什么日本的护照持有率在发达国家里是最低的？",
-      "url": "https://www.zhihu.com/question/2023522165526466789",
-      "hot_value": "59 万热度",
+      "title": "如何评价追光动画出品的电影《三国第一部：争洛阳》？",
+      "url": "https://www.zhihu.com/question/2050951363807405043",
+      "hot_value": "55 万热度",
       "index": 25
     },
     {
-      "title": "为什么追光动画的《三国第一部：争洛阳》预售票房惨淡，热度起不来？",
-      "url": "https://www.zhihu.com/question/2058209553540554918",
-      "hot_value": "58 万热度",
+      "title": "王曼昱申请不参加全锦赛双打，因伤病恢复和状态调整，怎样看待这一决定？",
+      "url": "https://www.zhihu.com/question/2059020089266004929",
+      "hot_value": "54 万热度",
       "index": 26
     },
     {
-      "title": "「母凭子贵」和「子凭母贵」哪个更符合现实规律？",
-      "url": "https://www.zhihu.com/question/1990783383803032356",
-      "hot_value": "57 万热度",
+      "title": "你们觉得哪个菜系是八大菜系之首？",
+      "url": "https://www.zhihu.com/question/387174685",
+      "hot_value": "54 万热度",
       "index": 27
     },
     {
-      "title": "什么是微软式中文？",
-      "url": "https://www.zhihu.com/question/39569160",
-      "hot_value": "56 万热度",
+      "title": "直接工作与读大专，哪个更划算？",
+      "url": "https://www.zhihu.com/question/2057562408621805712",
+      "hot_value": "53 万热度",
       "index": 28
     },
     {
-      "title": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
-      "url": "https://www.zhihu.com/question/2056407322340103396",
-      "hot_value": "55 万热度",
+      "title": "海贼王为什么剧情为什么越来越差？",
+      "url": "https://www.zhihu.com/question/2046153844078523322",
+      "hot_value": "53 万热度",
       "index": 29
     },
     {
-      "title": "如何评价《三国第一部：争洛阳》？",
-      "url": "https://www.zhihu.com/question/2058546874357900439",
-      "hot_value": "55 万热度",
+      "title": "《崩坏：因缘精灵》「进化测试」今日正式开启，你的游玩体验怎么样？",
+      "url": "https://www.zhihu.com/question/2058495250880885093",
+      "hot_value": "53 万热度",
       "index": 30
     }
   ]
