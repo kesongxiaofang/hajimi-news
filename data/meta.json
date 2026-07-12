@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-12T07:16:43Z",
+  "update_time": "2026-07-12T11:43:12Z",
   "platforms": [
     {
       "type": "weibo",
@@ -9,7 +9,8 @@
     {
       "type": "zhihu",
       "name": "知乎热榜",
-      "count": 30
+      "count": 0,
+      "error": "HTTP Error 522: Origin Connection Time-out"
     },
     {
       "type": "douyin",

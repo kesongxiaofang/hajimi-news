@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-12T07:16:43Z",
+  "update_time": "2026-07-12T11:43:12Z",
   "count": 30,
   "list": [
     {
       "title": "《崩坏：星穹铁道》动画短片——「你的终点，我的起点」",
       "url": "https://www.bilibili.com/video/BV1kZNN6iEPq",
-      "hot_value": "752589播放",
+      "hot_value": "2564932播放",
       "index": 1
-    },
-    {
-      "title": "《明日方舟》集成战略「沉沦者的黑流树海」宣传PV · 玩法介绍",
-      "url": "https://www.bilibili.com/video/BV19GNP6EE7e",
-      "hot_value": "847681播放",
-      "index": 2
-    },
-    {
-      "title": "再刷亿遍！第五人格夏日同人演绎「深海的试炼」正片",
-      "url": "https://www.bilibili.com/video/BV1g7Nw6MEGt",
-      "hot_value": "2231001播放",
-      "index": 3
-    },
-    {
-      "title": "【独家】牧神记 第91集 皇帝，道主，侞莱",
-      "url": "https://www.bilibili.com/video/BV1DFNt6yED1",
-      "hot_value": "884782播放",
-      "index": 4
-    },
-    {
-      "title": "这才是《The Other Side Of Paradise》原版MV！",
-      "url": "https://www.bilibili.com/video/BV1beM76pEBL",
-      "hot_value": "2522401播放",
-      "index": 5
-    },
-    {
-      "title": "当狗狗突然说话，那一定是。。。",
-      "url": "https://www.bilibili.com/video/BV1VsNH6PEBi",
-      "hot_value": "3648227播放",
-      "index": 6
-    },
-    {
-      "title": "留德华带你第一视角用人民币感受在超市退瓶子",
-      "url": "https://www.bilibili.com/video/BV1YQNp6eExm",
-      "hot_value": "2168514播放",
-      "index": 7
-    },
-    {
-      "title": "当我两只手弹两架琴并同时弹不同的曲子，左右脑互搏式弹琴法",
-      "url": "https://www.bilibili.com/video/BV1VjNL6LEEm",
-      "hot_value": "3692643播放",
-      "index": 8
-    },
-    {
-      "title": "循环歌单|【EEYUH】|“【悖论の小曲】”",
-      "url": "https://www.bilibili.com/video/BV1RRNL6EEyM",
-      "hot_value": "3698009播放",
-      "index": 9
     },
     {
       "title": "假如你生活在十万人的宿舍营",
       "url": "https://www.bilibili.com/video/BV1FhNn63E52",
-      "hot_value": "1351749播放",
-      "index": 10
+      "hot_value": "2275472播放",
+      "index": 2
     },
     {
-      "title": "当哈兰德表情包与现实完美融合",
-      "url": "https://www.bilibili.com/video/BV1XLN46yE2B",
-      "hot_value": "4011569播放",
-      "index": 11
+      "title": "【独家】牧神记 第91集 皇帝，道主，侞莱",
+      "url": "https://www.bilibili.com/video/BV1DFNt6yED1",
+      "hot_value": "1545867播放",
+      "index": 3
     },
     {
-      "title": "“一定不要着急，看我装糖阴他一手”【装糖阴人の小曲】【One kiss-DJ】",
-      "url": "https://www.bilibili.com/video/BV1nwN76YEUG",
-      "hot_value": "3665389播放",
-      "index": 12
+      "title": "狼 鬼 情 未 了",
+      "url": "https://www.bilibili.com/video/BV1CmNc6oEXt",
+      "hot_value": "1130728播放",
+      "index": 4
+    },
+    {
+      "title": "当狗狗突然说话，那一定是。。。",
+      "url": "https://www.bilibili.com/video/BV1VsNH6PEBi",
+      "hot_value": "5690859播放",
+      "index": 5
+    },
+    {
+      "title": "今天装饰了一下小卖部，希望你能喜欢",
+      "url": "https://www.bilibili.com/video/BV12ENn6EEgC",
+      "hot_value": "1234366播放",
+      "index": 6
     },
     {
       "title": "《我推的孩子》",
       "url": "https://www.bilibili.com/video/BV13qNA6VEiv",
-      "hot_value": "207409播放",
+      "hot_value": "707209播放",
+      "index": 7
+    },
+    {
+      "title": "足坛真神TOP：哈兰德！离开世界杯！他就是最凶猛最可爱的超级魔人！",
+      "url": "https://www.bilibili.com/video/BV1PoNN6MEjb",
+      "hot_value": "1347127播放",
+      "index": 8
+    },
+    {
+      "title": "《无限暖暖》2.8版本套装PV | 白夜长旋舞&心光破晓时",
+      "url": "https://www.bilibili.com/video/BV1dtNA6JEMZ",
+      "hot_value": "979740播放",
+      "index": 9
+    },
+    {
+      "title": "去了一趟得克萨斯州。",
+      "url": "https://www.bilibili.com/video/BV1LoN76dEmF",
+      "hot_value": "3223563播放",
+      "index": 10
+    },
+    {
+      "title": "这才是《The Other Side Of Paradise》原版MV！",
+      "url": "https://www.bilibili.com/video/BV1beM76pEBL",
+      "hot_value": "2862746播放",
+      "index": 11
+    },
+    {
+      "title": "留德华带你第一视角用人民币感受在超市退瓶子",
+      "url": "https://www.bilibili.com/video/BV1YQNp6eExm",
+      "hot_value": "3121179播放",
+      "index": 12
+    },
+    {
+      "title": "《明日方舟》集成战略「沉沦者的黑流树海」宣传PV · 玩法介绍",
+      "url": "https://www.bilibili.com/video/BV19GNP6EE7e",
+      "hot_value": "1307549播放",
       "index": 13
     },
     {
-      "title": "广西加油，洪水无情人间有爱，铁臂开路，风雨不退，奋战广西抗洪一线",
-      "url": "https://www.bilibili.com/video/BV1HLNx6dEm8",
-      "hot_value": "1454659播放",
+      "title": "当我两只手弹两架琴并同时弹不同的曲子，左右脑互搏式弹琴法",
+      "url": "https://www.bilibili.com/video/BV1VjNL6LEEm",
+      "hot_value": "4079734播放",
       "index": 14
     },
     {
-      "title": "【垃圾站】EP01 今天这车垃圾，有点不对劲【UP动画】",
-      "url": "https://www.bilibili.com/video/BV1RANn6bEAW",
-      "hot_value": "3420981播放",
+      "title": "你比泰森还牛比",
+      "url": "https://www.bilibili.com/video/BV18dNF6YExW",
+      "hot_value": "1357575播放",
       "index": 15
     },
     {
-      "title": "“我不在的日子里，你们很嚣张啊”",
-      "url": "https://www.bilibili.com/video/BV1WhNw6tEyD",
-      "hot_value": "718857播放",
+      "title": "路怒症被反杀，真的很解气",
+      "url": "https://www.bilibili.com/video/BV1ZvME66EbK",
+      "hot_value": "11478319播放",
       "index": 16
     },
     {
       "title": "吾从人族来，自当为人族竭尽全力！",
       "url": "https://www.bilibili.com/video/BV1R9N76oEXy",
-      "hot_value": "2947905播放",
+      "hot_value": "3135951播放",
       "index": 17
+    },
+    {
+      "title": "中式志怪搜打撤游戏《诡影藏锋》首曝PV&实机演示",
+      "url": "https://www.bilibili.com/video/BV1muTQ6CExQ",
+      "hot_value": "9622531播放",
+      "index": 18
+    },
+    {
+      "title": "“我不在的日子里，你们很嚣张啊”",
+      "url": "https://www.bilibili.com/video/BV1WhNw6tEyD",
+      "hot_value": "1029691播放",
+      "index": 19
+    },
+    {
+      "title": "网络热传生物鉴定 第62期",
+      "url": "https://www.bilibili.com/video/BV1FmMi6xEgb",
+      "hot_value": "304965播放",
+      "index": 20
     },
     {
       "title": "不久前，在瑞幸隔壁，有家烧饼店的视频火了",
       "url": "https://www.bilibili.com/video/BV1WENE6rEyi",
-      "hot_value": "1156729播放",
-      "index": 18
-    },
-    {
-      "title": "【洛天依原创曲】风之子【2026官方生贺曲】",
-      "url": "https://www.bilibili.com/video/BV1kfjR6uEye",
-      "hot_value": "40266播放",
-      "index": 19
-    },
-    {
-      "title": "路怒症被反杀，真的很解气",
-      "url": "https://www.bilibili.com/video/BV1ZvME66EbK",
-      "hot_value": "10820737播放",
-      "index": 20
-    },
-    {
-      "title": "《下一个是谁》第七季（1）",
-      "url": "https://www.bilibili.com/video/BV1UjMn6hEXQ",
-      "hot_value": "3174985播放",
+      "hot_value": "1495018播放",
       "index": 21
     },
     {
-      "title": "请收看小鱼的生日VLOG！",
-      "url": "https://www.bilibili.com/video/BV1xmNA6iEBR",
-      "hot_value": "35163播放",
+      "title": "在梦里找到了厕所",
+      "url": "https://www.bilibili.com/video/BV1hZNs6MEWz",
+      "hot_value": "512370播放",
       "index": 22
+    },
+    {
+      "title": "当哈兰德表情包与现实完美融合",
+      "url": "https://www.bilibili.com/video/BV1XLN46yE2B",
+      "hot_value": "5125494播放",
+      "index": 23
     },
     {
       "title": "《和最讨厌的人灵魂互换了》完整版",
       "url": "https://www.bilibili.com/video/BV1cNML6eEsg",
-      "hot_value": "2413192播放",
-      "index": 23
+      "hot_value": "2645741播放",
+      "index": 24
+    },
+    {
+      "title": "《下一个是谁》第七季（1）",
+      "url": "https://www.bilibili.com/video/BV1UjMn6hEXQ",
+      "hot_value": "3326452播放",
+      "index": 25
+    },
+    {
+      "title": "体罚是不对的喵~",
+      "url": "https://www.bilibili.com/video/BV1LmMn6gE6C",
+      "hot_value": "799293播放",
+      "index": 26
+    },
+    {
+      "title": "王者最魔丸英雄出现了",
+      "url": "https://www.bilibili.com/video/BV1F5Nc6nEXx",
+      "hot_value": "1171729播放",
+      "index": 27
     },
     {
       "title": "黏菌挑战世界第二辣的龙息辣椒！竟意外长出黄曲霉",
       "url": "https://www.bilibili.com/video/BV1dQNL6nEEm",
-      "hot_value": "2720073播放",
-      "index": 24
-    },
-    {
-      "title": "《请看VCR》",
-      "url": "https://www.bilibili.com/video/BV1UCNx6qELv",
-      "hot_value": "3326987播放",
-      "index": 25
-    },
-    {
-      "title": "周星驰新电影值得大家去走个面儿吗？《功夫女足》诚实观后感",
-      "url": "https://www.bilibili.com/video/BV1N4Nw6wEYT",
-      "hot_value": "1250466播放",
-      "index": 26
-    },
-    {
-      "title": "玻璃不要贴米字胶带，会起到反作用",
-      "url": "https://www.bilibili.com/video/BV1fuNJ6iEQB",
-      "hot_value": "2192787播放",
-      "index": 27
-    },
-    {
-      "title": "特厨探店|不管菜谱有没有，只要好吃就是好菜—151",
-      "url": "https://www.bilibili.com/video/BV1LyNw6UEmD",
-      "hot_value": "242892播放",
+      "hot_value": "3095929播放",
       "index": 28
     },
     {
-      "title": "《无限暖暖》2.8版本套装PV | 白夜长旋舞&心光破晓时",
-      "url": "https://www.bilibili.com/video/BV1dtNA6JEMZ",
-      "hot_value": "442869播放",
+      "title": "乐高积木鞋？大力神杯酒？开箱各种离谱联名产品！",
+      "url": "https://www.bilibili.com/video/BV15tMg6VETK",
+      "hot_value": "348217播放",
       "index": 29
     },
     {
-      "title": "“雷霆动物集体蹦迪，汽车光头百万撤离”【天堂的彼端-变速】【顶级智斗の小曲】",
-      "url": "https://www.bilibili.com/video/BV1DFNt6yE9G",
-      "hot_value": "595814播放",
+      "title": "花钱都买不到的提词器，被我用手机做出来了！【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1aLNw6zEYo",
+      "hot_value": "285649播放",
       "index": 30
     }
   ]
