@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-11T21:11:33Z",
+  "update_time": "2026-07-12T07:16:43Z",
   "platforms": [
     {
       "type": "weibo",
@@ -44,7 +44,7 @@
     {
       "type": "thepaper",
       "name": "澎湃新闻",
-      "count": 30
+      "count": 20
     }
   ]
 }
