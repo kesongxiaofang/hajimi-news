@@ -1,126 +1,126 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-07-12T11:43:12Z",
+  "update_time": "2026-07-12T15:39:01Z",
   "count": 20,
   "list": [
-    {
-      "title": "马上评｜面对嚣张的霸车位者，不该只剩下“调解”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33566873",
-      "hot_value": "",
-      "index": 1
-    },
-    {
-      "title": "特写｜当机器人来到古村落",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33565908",
-      "hot_value": "",
-      "index": 2
-    },
-    {
-      "title": "探访福建鞋厂火灾现场：栅栏阻挡逃生、多次被要求整改",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33567513",
-      "hot_value": "",
-      "index": 3
-    },
     {
       "title": "世界前四齐聚世界杯四强（附对阵图、比赛时间）",
       "url": "https://www.thepaper.cn/newsDetail_forward_33569729",
       "hot_value": "",
-      "index": 4
+      "index": 1
     },
     {
       "title": "头条世界杯｜连场双响！贝林厄姆就是真正的大英救星",
       "url": "https://www.thepaper.cn/newsDetail_forward_33569000",
       "hot_value": "",
-      "index": 5
-    },
-    {
-      "title": "梅西改写助攻纪录，英格兰能挡住这支越来越妖的阿根廷吗",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33569527",
-      "hot_value": "",
-      "index": 6
-    },
-    {
-      "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33568960",
-      "hot_value": "",
-      "index": 7
+      "index": 2
     },
     {
       "title": "湖南常德回应“一国企董事长在办公室收礼”：情况属实，免职",
       "url": "https://www.thepaper.cn/newsDetail_forward_33570093",
       "hot_value": "",
-      "index": 8
+      "index": 3
+    },
+    {
+      "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33568960",
+      "hot_value": "",
+      "index": 4
     },
     {
       "title": "广西洪灾两桩捐赠事件引热议，中青报：善意不该困在数字标尺里",
       "url": "https://www.thepaper.cn/newsDetail_forward_33568935",
       "hot_value": "",
-      "index": 9
+      "index": 5
     },
     {
       "title": "杭州两大火车站7月12日全部列车临时停运",
       "url": "https://www.thepaper.cn/newsDetail_forward_33568536",
       "hot_value": "",
-      "index": 10
+      "index": 6
     },
     {
       "title": "伊朗打击美国在中东地区目标",
       "url": "https://www.thepaper.cn/newsDetail_forward_33569534",
       "hot_value": "",
-      "index": 11
+      "index": 7
     },
     {
       "title": "莫迪密集外访折射印度野心与隐忧，印太三国行欲构筑“信任之弧”？",
       "url": "https://www.thepaper.cn/newsDetail_forward_33566869",
       "hot_value": "",
-      "index": 12
-    },
-    {
-      "title": "泪目！裘德·贝林厄姆听着全场球迷唱响《嘿，裘德》",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33569254",
-      "hot_value": "",
-      "index": 13
+      "index": 8
     },
     {
       "title": "被VAR争议判罚送出局？瑞士在最接近突破的时候倒下",
       "url": "https://www.thepaper.cn/newsDetail_forward_33570457",
       "hot_value": "",
+      "index": 9
+    },
+    {
+      "title": "马上评｜三问“逐字翻译抄袭”人大博士惠某某拟入职安大",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33570799",
+      "hot_value": "",
+      "index": 10
+    },
+    {
+      "title": "安徽大学回应“拟录用被期刊认定学术不端博士”：公示结束就启动调查",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33570267",
+      "hot_value": "",
+      "index": 11
+    },
+    {
+      "title": "泪目！裘德·贝林厄姆听着全场球迷唱响《嘿，裘德》",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33569254",
+      "hot_value": "",
+      "index": 12
+    },
+    {
+      "title": "掌控财政，插手人事，鲁比奥已成“委内瑞拉总督”？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33570678",
+      "hot_value": "",
+      "index": 13
+    },
+    {
+      "title": "外交部：奉劝日本停止污蔑攻击中国，停止在南海问题上搬弄是非",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33570981",
+      "hot_value": "",
       "index": 14
+    },
+    {
+      "title": "邯郸临漳通报“养牛场有残障人员长期干活”：已找到亲属并送返，经营者已被警方传唤",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33570889",
+      "hot_value": "",
+      "index": 15
     },
     {
       "title": "台风“巴威”在浙江玉环登陆",
       "url": "https://www.thepaper.cn/newsDetail_forward_33568188",
       "hot_value": "",
-      "index": 15
+      "index": 16
     },
     {
       "title": "台风“巴威”在浙江乐清再次登陆",
       "url": "https://www.thepaper.cn/newsDetail_forward_33568316",
       "hot_value": "",
-      "index": 16
-    },
-    {
-      "title": "中国石化完成对中国航油重组",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33566875",
-      "hot_value": "",
       "index": 17
     },
     {
-      "title": "台风“巴威”将贯穿浙江，省内多地党政主官作紧急动员电视讲话",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33566906",
+      "title": "“台风+暴雨+强对流”三预警齐发，“巴威”最新路径公布",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33568930",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "英格兰将迎战挪威，英格兰队队长：哈兰德就像一头猛兽",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33566793",
+      "title": "南非国脚亚当斯世界杯赛回国后去世",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33568182",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "粮价、电价、海运成本全线抬升，厄尔尼诺冲击全球供应链",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33556382",
+      "title": "台风把演出吹到线上，空场直播浪漫依旧",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33568963",
       "hot_value": "",
       "index": 20
     }
