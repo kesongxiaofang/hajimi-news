@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-12T15:39:01Z",
+  "update_time": "2026-07-12T19:57:27Z",
   "count": 30,
   "list": [
     {
-      "title": "如何看待瑞士前锋恩博洛偷鸡不成蚀把米，假摔骗黄未遂，VAR 回放后反被裁判罚下，离场时抱头痛哭？",
-      "url": "https://www.zhihu.com/question/2059586957143795316",
-      "hot_value": "1258 万热度",
+      "title": "如何看待中华人民共和国外交部发布关于有关国家炒作「南海仲裁案裁决」出台十年的声明？释放了哪些信号？",
+      "url": "https://www.zhihu.com/question/2059717066660303002",
+      "hot_value": "768 万热度",
       "index": 1
     },
     {
       "title": "将飞机票和火车票的时间显示改为 30 小时制，是否能有效防止凌晨出发的旅客因时间理解问题而迟到 24 小时？",
       "url": "https://www.zhihu.com/question/2015414302245422985",
-      "hot_value": "989 万热度",
+      "hot_value": "707 万热度",
       "index": 2
-    },
-    {
-      "title": "世界杯四强法国、阿根廷、西班牙、英格兰，正好是 FIFA 排名前四的球队，你更看好谁夺冠？",
-      "url": "https://www.zhihu.com/question/2059606032012113468",
-      "hot_value": "732 万热度",
-      "index": 3
     },
     {
       "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2058623048639689021",
-      "hot_value": "587 万热度",
+      "hot_value": "646 万热度",
+      "index": 3
+    },
+    {
+      "title": "周星驰电影《功夫女足》首日票房 2.6 亿，带动大盘时隔 136 天单日破 3 亿，如何评价这一成绩？",
+      "url": "https://www.zhihu.com/question/2059428102430613532",
+      "hot_value": "312 万热度",
       "index": 4
     },
     {
       "title": "为什么台风预报的时候来势汹汹，但真登陆了感觉没有那么强烈？",
       "url": "https://www.zhihu.com/question/1943291837109478434",
-      "hot_value": "442 万热度",
+      "hot_value": "292 万热度",
       "index": 5
     },
     {
-      "title": "如何看待中华人民共和国外交部发布关于有关国家炒作「南海仲裁案裁决」出台十年的声明？释放了哪些信号？",
-      "url": "https://www.zhihu.com/question/2059717066660303002",
-      "hot_value": "372 万热度",
+      "title": "国际足联主席因凡蒂诺称世界杯考虑继续扩军至 64 支球队，如何看待他的这个表态？",
+      "url": "https://www.zhihu.com/question/2059571588832531872",
+      "hot_value": "271 万热度",
       "index": 6
     },
     {
       "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
       "url": "https://www.zhihu.com/question/2059566718733776028",
-      "hot_value": "337 万热度",
+      "hot_value": "265 万热度",
       "index": 7
     },
     {
-      "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
-      "url": "https://www.zhihu.com/question/2059562876868583536",
-      "hot_value": "302 万热度",
+      "title": "2026 MSI 决赛 BLG 输在哪？",
+      "url": "https://www.zhihu.com/question/2059726264324157732",
+      "hot_value": "259 万热度",
       "index": 8
     },
     {
-      "title": "国际足联主席因凡蒂诺称世界杯考虑继续扩军至 64 支球队，如何看待他的这个表态？",
-      "url": "https://www.zhihu.com/question/2059571588832531872",
-      "hot_value": "238 万热度",
+      "title": "如何评价 Bin 在 2026 季中赛决赛除绝活武器外的糟糕表现？",
+      "url": "https://www.zhihu.com/question/2059724574866895892",
+      "hot_value": "204 万热度",
       "index": 9
     },
     {
-      "title": "孙悟空打死六耳猕猴后变得顺从乖巧，再也没被念紧箍咒，原因是什么？",
-      "url": "https://www.zhihu.com/question/2055315080015828549",
-      "hot_value": "225 万热度",
+      "title": "特厨隋坡探店全差评餐厅引争议，老板「逆天回怼」是高明还是失策？",
+      "url": "https://www.zhihu.com/question/2059021609504186485",
+      "hot_value": "186 万热度",
       "index": 10
     },
     {
       "title": "哈兰德在挪威对战英格兰不仅颗粒无收还因犯规导致队友进球被吹，如何评价他本场的表现？",
       "url": "https://www.zhihu.com/question/2059551988392485935",
-      "hot_value": "222 万热度",
+      "hot_value": "175 万热度",
       "index": 11
     },
     {
       "title": "2026 MSI 总决赛 HLE 3:2 复仇 BLG 夺得冠军，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2059612028357063761",
-      "hot_value": "219 万热度",
+      "hot_value": "163 万热度",
       "index": 12
     },
     {
-      "title": "冉莹颖称曾多次想离婚，录综艺本想救赎婚姻，录完「不再执着于改造对方」，透露出怎样的婚姻相处智慧？",
-      "url": "https://www.zhihu.com/question/2057515225566242609",
-      "hot_value": "216 万热度",
+      "title": "2026 MSI 决赛决胜局上 Bin 的剑魔真的只能在对线期眼看着 Zeus 的蒙多发育吗？",
+      "url": "https://www.zhihu.com/question/2059725879068942431",
+      "hot_value": "141 万热度",
       "index": 13
     },
     {
-      "title": "特厨隋坡探店全差评餐厅引争议，老板「逆天回怼」是高明还是失策？",
-      "url": "https://www.zhihu.com/question/2059021609504186485",
-      "hot_value": "213 万热度",
+      "title": "周星驰官宣新「星女郎」雪野，她未来的发展潜力如何？",
+      "url": "https://www.zhihu.com/question/2059265190982693711",
+      "hot_value": "111 万热度",
       "index": 14
     },
     {
       "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
       "url": "https://www.zhihu.com/question/2057492254889964985",
-      "hot_value": "207 万热度",
+      "hot_value": "111 万热度",
       "index": 15
-    },
-    {
-      "title": "网传大 S 遗产卡里仅有 200 万台币，这一消息真实性如何？",
-      "url": "https://www.zhihu.com/question/2058340032570725122",
-      "hot_value": "205 万热度",
-      "index": 16
     },
     {
       "title": "全国 6 月新增新冠超 7 万例，病例数呈上升趋势，这意味着什么？普通人需要打加强针吗？",
       "url": "https://www.zhihu.com/question/2059065054323123594",
-      "hot_value": "204 万热度",
+      "hot_value": "111 万热度",
+      "index": 16
+    },
+    {
+      "title": "世界杯四强法国、阿根廷、西班牙、英格兰，正好是 FIFA 排名前四的球队，你更看好谁夺冠？",
+      "url": "https://www.zhihu.com/question/2059606032012113468",
+      "hot_value": "111 万热度",
       "index": 17
     },
     {
-      "title": "巴丹群岛距离中国台湾岛约 190 公里，为何被指菲律宾对其无主权？",
-      "url": "https://www.zhihu.com/question/2057979365087093311",
-      "hot_value": "201 万热度",
+      "title": "如何看待瑞士前锋恩博洛偷鸡不成蚀把米，假摔骗黄未遂，VAR 回放后反被裁判罚下，离场时抱头痛哭？",
+      "url": "https://www.zhihu.com/question/2059586957143795316",
+      "hot_value": "110 万热度",
       "index": 18
     },
     {
-      "title": "周星驰电影《功夫女足》首日票房 2.6 亿，带动大盘时隔 136 天单日破 3 亿，如何评价这一成绩？",
-      "url": "https://www.zhihu.com/question/2059428102430613532",
-      "hot_value": "192 万热度",
+      "title": "如何看待 2026MSI 总决赛 BLG2:3 不敌 HLE？",
+      "url": "https://www.zhihu.com/question/2059723166767900155",
+      "hot_value": "108 万热度",
       "index": 19
     },
     {
-      "title": "2026 MSI 决赛 BLG 输在哪？",
-      "url": "https://www.zhihu.com/question/2059726264324157732",
-      "hot_value": "163 万热度",
+      "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
+      "url": "https://www.zhihu.com/question/2059562876868583536",
+      "hot_value": "93 万热度",
       "index": 20
     },
     {
-      "title": "如何看待 2026 年 7 月 11 日周星驰新电影《功夫女足》预测票房飙升至 18.6 亿人民币？",
-      "url": "https://www.zhihu.com/question/2059204572552361429",
-      "hot_value": "128 万热度",
+      "title": "冉莹颖称曾多次想离婚，录综艺本想救赎婚姻，录完「不再执着于改造对方」，透露出怎样的婚姻相处智慧？",
+      "url": "https://www.zhihu.com/question/2057515225566242609",
+      "hot_value": "91 万热度",
       "index": 21
-    },
-    {
-      "title": "周星驰官宣新「星女郎」雪野，她未来的发展潜力如何？",
-      "url": "https://www.zhihu.com/question/2059265190982693711",
-      "hot_value": "112 万热度",
-      "index": 22
-    },
-    {
-      "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
-      "url": "https://www.zhihu.com/question/2058111600045678958",
-      "hot_value": "99 万热度",
-      "index": 23
-    },
-    {
-      "title": "《水浒传》戴宗的能力平平，是不是被高估了？",
-      "url": "https://www.zhihu.com/question/2057377369963468673",
-      "hot_value": "89 万热度",
-      "index": 24
     },
     {
       "title": "多名网络主播偷逃税被查，税务部门追缴税费并处罚款超 1330 万元，具有哪些警示意义？",
       "url": "https://www.zhihu.com/question/2058858186505810525",
-      "hot_value": "86 万热度",
+      "hot_value": "90 万热度",
+      "index": 22
+    },
+    {
+      "title": "网传大 S 遗产卡里仅有 200 万台币，这一消息真实性如何？",
+      "url": "https://www.zhihu.com/question/2058340032570725122",
+      "hot_value": "78 万热度",
+      "index": 23
+    },
+    {
+      "title": "为什么有些人明明逻辑清晰，却总是无法清晰地表达出来？",
+      "url": "https://www.zhihu.com/question/2040391971181679913",
+      "hot_value": "77 万热度",
+      "index": 24
+    },
+    {
+      "title": "巴丹群岛距离中国台湾岛约 190 公里，为何被指菲律宾对其无主权？",
+      "url": "https://www.zhihu.com/question/2057979365087093311",
+      "hot_value": "76 万热度",
       "index": 25
+    },
+    {
+      "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
+      "url": "https://www.zhihu.com/question/2058111600045678958",
+      "hot_value": "76 万热度",
+      "index": 26
+    },
+    {
+      "title": "修手机现在还行吗，是不是夕阳产业？",
+      "url": "https://www.zhihu.com/question/3073376206",
+      "hot_value": "68 万热度",
+      "index": 27
+    },
+    {
+      "title": "如何评价三月女神放天理进提瓦特而不是不放？",
+      "url": "https://www.zhihu.com/question/2059362768923391698",
+      "hot_value": "66 万热度",
+      "index": 28
     },
     {
       "title": "人类世界是不是已经进入所谓垃圾时间？",
       "url": "https://www.zhihu.com/question/2055655682284827287",
-      "hot_value": "84 万热度",
-      "index": 26
-    },
-    {
-      "title": "你如何看待每天在通勤的地铁上读书的那群人？",
-      "url": "https://www.zhihu.com/question/2057863050372151176",
-      "hot_value": "79 万热度",
-      "index": 27
-    },
-    {
-      "title": "为什么大家都拜关羽而不拜吕蒙？",
-      "url": "https://www.zhihu.com/question/2058719073760966290",
-      "hot_value": "72 万热度",
-      "index": 28
-    },
-    {
-      "title": "《西虹市首富》里面想花完钱却越花越多的情况，现实里面会发生吗？",
-      "url": "https://www.zhihu.com/question/428046378",
-      "hot_value": "58 万热度",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "苹果起诉 OpenAI 窃取商业机密，要求销毁涉密资料并重新设计 AI 硬件，曾经的合作伙伴为何会反目？",
-      "url": "https://www.zhihu.com/question/2059237233639383253",
-      "hot_value": "56 万热度",
+      "title": "量子力学中为何那么关注本征值和本征函数？",
+      "url": "https://www.zhihu.com/question/3223916122",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
