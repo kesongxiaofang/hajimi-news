@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-13T18:06:42Z",
+  "update_time": "2026-07-13T21:35:46Z",
   "count": 30,
   "list": [
     {
-      "title": "网传大连理工某学院领导连续两年卧底招生群，挑拨南开和天大的关系，真的吗？这种「招生小动作」普遍吗？",
-      "url": "https://www.zhihu.com/question/2059729316993131464",
-      "hot_value": "878 万热度",
+      "title": "浙江一住户为防台风用「米」字胶带加固窗户，却成为全楼唯一一户碎玻璃的，为啥会这样？「米」字封窗有用吗？",
+      "url": "https://www.zhihu.com/question/2060049184527480687",
+      "hot_value": "1503 万热度",
       "index": 1
     },
     {
-      "title": "浙江一住户为防台风用「米」字胶带加固窗户，却成为全楼唯一一户碎玻璃的，为啥会这样？「米」字封窗有用吗？",
-      "url": "https://www.zhihu.com/question/2060049184527480687",
-      "hot_value": "840 万热度",
+      "title": "网传大连理工某学院领导连续两年卧底招生群，挑拨南开和天大的关系，真的吗？这种「招生小动作」普遍吗？",
+      "url": "https://www.zhihu.com/question/2059729316993131464",
+      "hot_value": "1021 万热度",
       "index": 2
-    },
-    {
-      "title": "阿根廷向国际足联申请，半决赛想穿客场深蓝色队服，这种配色的球衣什么典故，对球队能有什么影响么？",
-      "url": "https://www.zhihu.com/question/2060002703879533053",
-      "hot_value": "339 万热度",
-      "index": 3
-    },
-    {
-      "title": "阿根廷有机会夺冠吗？",
-      "url": "https://www.zhihu.com/question/2059639111040999429",
-      "hot_value": "193 万热度",
-      "index": 4
-    },
-    {
-      "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
-      "url": "https://www.zhihu.com/question/2058981135892461058",
-      "hot_value": "192 万热度",
-      "index": 5
     },
     {
       "title": "《南海仲裁案裁决新批驳》报告发布，释放哪些信号？",
       "url": "https://www.zhihu.com/question/2059980453814219344",
-      "hot_value": "170 万热度",
+      "hot_value": "402 万热度",
+      "index": 3
+    },
+    {
+      "title": "周星驰电影《功夫女足》次日票房 2.39 亿，首周票房 5 亿，预测将破 20 亿甚至 25 亿，希望有多大？",
+      "url": "https://www.zhihu.com/question/2059790933936137165",
+      "hot_value": "244 万热度",
+      "index": 4
+    },
+    {
+      "title": "阿根廷向国际足联申请，半决赛想穿客场深蓝色队服，这种配色的球衣什么典故，对球队能有什么影响么？",
+      "url": "https://www.zhihu.com/question/2060002703879533053",
+      "hot_value": "194 万热度",
+      "index": 5
+    },
+    {
+      "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
+      "url": "https://www.zhihu.com/question/2058981135892461058",
+      "hot_value": "166 万热度",
       "index": 6
     },
     {
       "title": "受「巴威」影响沈阳突降暴雨，全市实行紧急避险措施，你那里情况怎么样？雨大吗？",
       "url": "https://www.zhihu.com/question/2059917780845946766",
-      "hot_value": "157 万热度",
+      "hot_value": "139 万热度",
       "index": 7
     },
     {
       "title": "公司说全员降薪 20% 不接受就走人，第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
       "url": "https://www.zhihu.com/question/2059237272705316521",
-      "hot_value": "151 万热度",
+      "hot_value": "126 万热度",
       "index": 8
-    },
-    {
-      "title": "周星驰电影《功夫女足》次日票房 2.39 亿，首周票房 5 亿，预测将破 20 亿甚至 25 亿，希望有多大？",
-      "url": "https://www.zhihu.com/question/2059790933936137165",
-      "hot_value": "145 万热度",
-      "index": 9
-    },
-    {
-      "title": "管泽元 2026 季中赛后发文谈《英雄联盟》双败赛制最大争议「胜者组冠军少一条命」对此你有什么解法吗？",
-      "url": "https://www.zhihu.com/question/2059961230907946867",
-      "hot_value": "134 万热度",
-      "index": 10
-    },
-    {
-      "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
-      "url": "https://www.zhihu.com/question/2058628068630175892",
-      "hot_value": "128 万热度",
-      "index": 11
-    },
-    {
-      "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
-      "url": "https://www.zhihu.com/question/2059697862565536691",
-      "hot_value": "104 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何看待周星驰新电影《功夫女足》口碑两极分化的现象？无厘头是不是过时了？",
-      "url": "https://www.zhihu.com/question/2059946981699728081",
-      "hot_value": "98 万热度",
-      "index": 13
     },
     {
       "title": "两位院士感慨「现在是基础研究最好的时代」，你认为这一判断是基于哪些考量？",
       "url": "https://www.zhihu.com/question/2059189701848851782",
+      "hot_value": "112 万热度",
+      "index": 9
+    },
+    {
+      "title": "阿根廷有机会夺冠吗？",
+      "url": "https://www.zhihu.com/question/2059639111040999429",
+      "hot_value": "112 万热度",
+      "index": 10
+    },
+    {
+      "title": "美国公布第四批 UFO 文件，一段迄今最清晰影像显示有飞行物酷似双层飞船，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2059327384772466175",
+      "hot_value": "112 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何看待周星驰新电影《功夫女足》口碑两极分化的现象？无厘头是不是过时了？",
+      "url": "https://www.zhihu.com/question/2059946981699728081",
+      "hot_value": "106 万热度",
+      "index": 12
+    },
+    {
+      "title": "如何评价刚果国父卢蒙巴？",
+      "url": "https://www.zhihu.com/question/60068219",
+      "hot_value": "99 万热度",
+      "index": 13
+    },
+    {
+      "title": "为什么说中餐正在悄悄退化？",
+      "url": "https://www.zhihu.com/question/552064695",
       "hot_value": "98 万热度",
       "index": 14
     },
     {
       "title": "如何看待「松弛派对」走红后被网友吐槽「紧绷的松弛」？为啥大家从追捧松弛感到如今厌恶假松弛？",
       "url": "https://www.zhihu.com/question/2057860179513668617",
-      "hot_value": "94 万热度",
+      "hot_value": "97 万热度",
       "index": 15
     },
     {
-      "title": "哪件文物让你觉得有不合时代的「穿越感」？",
-      "url": "https://www.zhihu.com/question/2043017867059361552",
-      "hot_value": "90 万热度",
+      "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
+      "url": "https://www.zhihu.com/question/2059697862565536691",
+      "hot_value": "97 万热度",
       "index": 16
     },
     {
-      "title": "为什么说中餐正在悄悄退化？",
-      "url": "https://www.zhihu.com/question/552064695",
-      "hot_value": "87 万热度",
+      "title": "如何看待巴西网友被阿根廷战绩打破防，巴西如今的足球水平被阿根廷拉开档次差距了吗？",
+      "url": "https://www.zhihu.com/question/2060031374115829185",
+      "hot_value": "96 万热度",
       "index": 17
+    },
+    {
+      "title": "调查显示近千只瘫痪小猫超 65% 食用同一品牌猫粮，真是猫粮问题吗？猫粮中哪些成分可能导致这一问题？",
+      "url": "https://www.zhihu.com/question/2058174380128130240",
+      "hot_value": "91 万热度",
+      "index": 18
     },
     {
       "title": "古代游牧民族之所以这么强，是因为游牧民族的骑兵各方面成本远低于中原王朝吗？",
       "url": "https://www.zhihu.com/question/1888275342818523001",
-      "hot_value": "82 万热度",
-      "index": 18
-    },
-    {
-      "title": "售价 1.25 万的 YSL 男士 PVC 透明皮鞋遭吐槽「脚臭可视化」，如何看待这一设计？这种材料会加重脚臭吗？",
-      "url": "https://www.zhihu.com/question/2056072763509564144",
-      "hot_value": "76 万热度",
+      "hot_value": "86 万热度",
       "index": 19
     },
     {
-      "title": "如果有星期八，星期八英文单词应该怎么说？",
-      "url": "https://www.zhihu.com/question/20390177",
-      "hot_value": "75 万热度",
+      "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
+      "url": "https://www.zhihu.com/question/2058578162674397208",
+      "hot_value": "86 万热度",
       "index": 20
     },
     {
       "title": "河北宽城遭遇 6 小时持续暴雨，道路积水超 2 米，多辆汽车被洪水冲走，目前当地情况怎么样？",
       "url": "https://www.zhihu.com/question/2059956101601129404",
-      "hot_value": "74 万热度",
+      "hot_value": "85 万热度",
       "index": 21
-    },
-    {
-      "title": "为什么会有那么多人如此热爱物理？",
-      "url": "https://www.zhihu.com/question/660747812",
-      "hot_value": "72 万热度",
-      "index": 22
     },
     {
       "title": "谁懂啊！扶不起的阿斗刘禅，怎么现在全网都在吹？",
       "url": "https://www.zhihu.com/question/2018775381860172407",
-      "hot_value": "71 万热度",
+      "hot_value": "84 万热度",
+      "index": 22
+    },
+    {
+      "title": "为什么会有那么多人如此热爱物理？",
+      "url": "https://www.zhihu.com/question/660747812",
+      "hot_value": "83 万热度",
       "index": 23
+    },
+    {
+      "title": "如果有星期八，星期八英文单词应该怎么说？",
+      "url": "https://www.zhihu.com/question/20390177",
+      "hot_value": "78 万热度",
+      "index": 24
+    },
+    {
+      "title": "售价 1.25 万的 YSL 男士 PVC 透明皮鞋遭吐槽「脚臭可视化」，如何看待这一设计？这种材料会加重脚臭吗？",
+      "url": "https://www.zhihu.com/question/2056072763509564144",
+      "hot_value": "75 万热度",
+      "index": 25
     },
     {
       "title": "《八仙！》开点映了，看完的朋友来说说，如何评价这部电影？",
       "url": "https://www.zhihu.com/question/2058505696463812158",
-      "hot_value": "68 万热度",
-      "index": 24
+      "hot_value": "72 万热度",
+      "index": 26
     },
     {
       "title": "男朋友准备复读一年学医，我该怎么办？",
       "url": "https://www.zhihu.com/question/2053783930919203045",
-      "hot_value": "66 万热度",
-      "index": 25
-    },
-    {
-      "title": "快手公告腾讯持股将由约 15.68% 降至 9.37% 、退出主要股东行列，如何看待此次减持？",
-      "url": "https://www.zhihu.com/question/2057786344097714894",
-      "hot_value": "59 万热度",
-      "index": 26
-    },
-    {
-      "title": "你为什么不化妆？",
-      "url": "https://www.zhihu.com/question/403494008",
-      "hot_value": "58 万热度",
+      "hot_value": "72 万热度",
       "index": 27
+    },
+    {
+      "title": "大家是如何自学日语?",
+      "url": "https://www.zhihu.com/question/664685525",
+      "hot_value": "69 万热度",
+      "index": 28
     },
     {
       "title": "希腊神话里的神不像中国神话里的神一样对人很友好，为什么呢？",
       "url": "https://www.zhihu.com/question/467653595",
-      "hot_value": "58 万热度",
-      "index": 28
-    },
-    {
-      "title": "如何评价冉莹颖、邹市明夫妇在《姐姐当家 2》 中的表现？",
-      "url": "https://www.zhihu.com/question/2059384809516790498",
-      "hot_value": "58 万热度",
+      "hot_value": "68 万热度",
       "index": 29
     },
     {
-      "title": "面对领导害怕紧张，是什么心理? 怎么克服这种社交障碍?",
-      "url": "https://www.zhihu.com/question/2059000951302885611",
-      "hot_value": "57 万热度",
+      "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
+      "url": "https://www.zhihu.com/question/2058628068630175892",
+      "hot_value": "67 万热度",
       "index": 30
     }
   ]
