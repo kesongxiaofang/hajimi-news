@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-14T06:22:51Z",
+  "update_time": "2026-07-14T11:50:00Z",
   "count": 30,
   "list": [
     {
       "title": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？",
       "url": "https://www.zhihu.com/question/2060133066643879544",
-      "hot_value": "4916 万热度",
+      "hot_value": "3823 万热度",
       "index": 1
     },
     {
-      "title": "厨师离职被要求交出烹饪配方才结工资，饭店称为了标准化作业，烹饪配方属于个人还是饭店？可以和工资绑定吗？",
-      "url": "https://www.zhihu.com/question/2060062676676503140",
-      "hot_value": "682 万热度",
-      "index": 2
-    },
-    {
-      "title": "超 250 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
+      "title": "超 500 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
       "url": "https://www.zhihu.com/question/2060314752786457046",
-      "hot_value": "501 万热度",
-      "index": 3
-    },
-    {
-      "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
-      "url": "https://www.zhihu.com/question/2059433390227583285",
-      "hot_value": "389 万热度",
-      "index": 4
+      "hot_value": "646 万热度",
+      "index": 2
     },
     {
       "title": "北京国贸 CBD 每天中午上百名「转圈人」沿中央公园绕圈，如何看待这种午休方式？你是怎样度过午休的？",
       "url": "https://www.zhihu.com/question/2059947688074949425",
-      "hot_value": "291 万热度",
+      "hot_value": "294 万热度",
+      "index": 3
+    },
+    {
+      "title": "共享单车起步价再次全面上调，网友反映「一扫开就近两块钱」，价格为何不断上涨？会影响大家的出行选择吗？",
+      "url": "https://www.zhihu.com/question/2060008266927810048",
+      "hot_value": "235 万热度",
+      "index": 4
+    },
+    {
+      "title": "在 12306 出现之前，线下购票柜台工作人员使用的 TRS 系统也是全国联网的，为什么那时没有崩溃问题？",
+      "url": "https://www.zhihu.com/question/572076661",
+      "hot_value": "212 万热度",
       "index": 5
     },
     {
-      "title": "关羽军事那么菜，为什么曹魏一直解决不了他，还被打得要迁离许都？",
-      "url": "https://www.zhihu.com/question/2048485715491738315",
-      "hot_value": "269 万热度",
+      "title": "动画电影《八仙！》官宣提档至 7 月 18 日全国上映，对此你有何期待？",
+      "url": "https://www.zhihu.com/question/2060302796297959128",
+      "hot_value": "189 万热度",
       "index": 6
-    },
-    {
-      "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
-      "url": "https://www.zhihu.com/question/2060208521594017084",
-      "hot_value": "269 万热度",
-      "index": 7
-    },
-    {
-      "title": "邹市明冉莹颖，谁该为之前的投资失败乃至当前的婚姻状态付更大的责？",
-      "url": "https://www.zhihu.com/question/2059355663353099483",
-      "hot_value": "260 万热度",
-      "index": 8
-    },
-    {
-      "title": "今年的台风「巴威」对你那边有啥影响？",
-      "url": "https://www.zhihu.com/question/2059565116740341884",
-      "hot_value": "256 万热度",
-      "index": 9
-    },
-    {
-      "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
-      "url": "https://www.zhihu.com/question/2058578162674397208",
-      "hot_value": "251 万热度",
-      "index": 10
-    },
-    {
-      "title": "调查显示近千只瘫痪小猫超 65% 食用同一品牌猫粮，真是猫粮问题吗？猫粮中哪些成分可能导致这一问题？",
-      "url": "https://www.zhihu.com/question/2058174380128130240",
-      "hot_value": "213 万热度",
-      "index": 11
     },
     {
       "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
       "url": "https://www.zhihu.com/question/2059349642496710015",
-      "hot_value": "190 万热度",
+      "hot_value": "180 万热度",
+      "index": 7
+    },
+    {
+      "title": "如何看待「一副局长自购 10 亿 token 月费 20 多，手搓防汛小程序」？",
+      "url": "https://www.zhihu.com/question/2059978972042092807",
+      "hot_value": "164 万热度",
+      "index": 8
+    },
+    {
+      "title": "月薪三万但厌恶领导，是否该为职业发展忍忍？",
+      "url": "https://www.zhihu.com/question/2059516907527594888",
+      "hot_value": "156 万热度",
+      "index": 9
+    },
+    {
+      "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
+      "url": "https://www.zhihu.com/question/2059433390227583285",
+      "hot_value": "148 万热度",
+      "index": 10
+    },
+    {
+      "title": "LV 起诉国家知识产权局，因不服国家知识产权局驳回其针对广东服装经营者商标侵权的维权主张，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2060375449868441221",
+      "hot_value": "144 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+      "url": "https://www.zhihu.com/question/2060385485915263811",
+      "hot_value": "143 万热度",
       "index": 12
     },
     {
-      "title": "浙江一住户为防台风用「米」字胶带加固窗户，却成为全楼唯一一户碎玻璃的，为啥会这样？「米」字封窗有用吗？",
-      "url": "https://www.zhihu.com/question/2060049184527480687",
-      "hot_value": "173 万热度",
+      "title": "怎样看待现在全国只要是个饼子夹点儿肉，都把自己叫肉夹馍？",
+      "url": "https://www.zhihu.com/question/2055752465560121673",
+      "hot_value": "142 万热度",
       "index": 13
     },
     {
-      "title": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？",
-      "url": "https://www.zhihu.com/question/2059629861941895196",
-      "hot_value": "156 万热度",
+      "title": "浙江一新生儿被宠物狗咬伤，医生分析因狗对婴儿产生强烈嫉妒心理，怎么回事？狗会嫉妒吗，背后是什么逻辑？",
+      "url": "https://www.zhihu.com/question/2060043393238143776",
+      "hot_value": "142 万热度",
       "index": 14
     },
     {
-      "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
-      "url": "https://www.zhihu.com/question/2060269141576233184",
-      "hot_value": "145 万热度",
+      "title": "山东、辽宁遭遇持续暴雨，沈阳等多地停课、停业、停工，目前情况如何？台风巴威影响会持续多久？",
+      "url": "https://www.zhihu.com/question/2059967829823300240",
+      "hot_value": "141 万热度",
       "index": 15
-    },
-    {
-      "title": "如何看待 2026 年 7 月 13 日周星驰新电影《功夫女足》预测票房飙升至 30.3 亿人民币？",
-      "url": "https://www.zhihu.com/question/2060124058038096124",
-      "hot_value": "133 万热度",
-      "index": 16
-    },
-    {
-      "title": "为什么台风都有那么人性化的名字？",
-      "url": "https://www.zhihu.com/question/2058906277259096656",
-      "hot_value": "130 万热度",
-      "index": 17
-    },
-    {
-      "title": "中山大学真的退步了吗？",
-      "url": "https://www.zhihu.com/question/2035265062626142173",
-      "hot_value": "127 万热度",
-      "index": 18
-    },
-    {
-      "title": "网传大连理工某学院领导连续两年卧底招生群，挑拨南开和天大的关系，真的吗？这种「招生小动作」普遍吗？",
-      "url": "https://www.zhihu.com/question/2059729316993131464",
-      "hot_value": "123 万热度",
-      "index": 19
     },
     {
       "title": "9 岁出书、清华降分录取，客观评价作家蒋方舟到底是真的天才少女还是在人设炒作？",
       "url": "https://www.zhihu.com/question/2060111984247272718",
-      "hot_value": "119 万热度",
+      "hot_value": "141 万热度",
+      "index": 16
+    },
+    {
+      "title": "为什么国内对哥特风格的接受度不高？",
+      "url": "https://www.zhihu.com/question/306518660",
+      "hot_value": "141 万热度",
+      "index": 17
+    },
+    {
+      "title": "《士兵突击》中，李晨饰演的吴哲去了 A 大队，真的屈才了吗？会不会就是待两三个月就离开？",
+      "url": "https://www.zhihu.com/question/635315885",
+      "hot_value": "141 万热度",
+      "index": 18
+    },
+    {
+      "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
+      "url": "https://www.zhihu.com/question/2060269141576233184",
+      "hot_value": "141 万热度",
+      "index": 19
+    },
+    {
+      "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
+      "url": "https://www.zhihu.com/question/2060415646706263496",
+      "hot_value": "141 万热度",
       "index": 20
     },
     {
-      "title": "2026 世界杯半决赛西班牙 vs 法国，你看好哪支球队？",
-      "url": "https://www.zhihu.com/question/2059203459430233251",
-      "hot_value": "115 万热度",
+      "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
+      "url": "https://www.zhihu.com/question/2060208521594017084",
+      "hot_value": "117 万热度",
       "index": 21
     },
     {
-      "title": "《杀死比尔：血色全传》定档 8 月 7 日上映，时长 4 个半小时，你对这部电影有什么期待？",
-      "url": "https://www.zhihu.com/question/2055957797590628132",
-      "hot_value": "100 万热度",
+      "title": "《功夫女足》票房破 6 亿评分 6.6，两者为何出现明显分化？网友评分对后续票房影响大吗？",
+      "url": "https://www.zhihu.com/question/2060033949582337814",
+      "hot_value": "94 万热度",
       "index": 22
     },
     {
-      "title": "孙东旭再创业，与前东方甄选主播石明、天权合伙开公司，以 1% 微弱优势成为最大股东，你看好他们的发展吗？",
-      "url": "https://www.zhihu.com/question/2059773809003946564",
-      "hot_value": "86 万热度",
+      "title": "邹市明冉莹颖，谁该为之前的投资失败乃至当前的婚姻状态付更大的责？",
+      "url": "https://www.zhihu.com/question/2059355663353099483",
+      "hot_value": "59 万热度",
       "index": 23
     },
     {
-      "title": "如果将电商法新修订的年营业额 5% 的「比例罚」措施引入《著作权法》，国内文创行业盗版问题能否更好解决？",
-      "url": "https://www.zhihu.com/question/2059990614213759787",
-      "hot_value": "80 万热度",
+      "title": "《魔兽世界》如果有单机版你会去玩吗？",
+      "url": "https://www.zhihu.com/question/2059611603008598526",
+      "hot_value": "58 万热度",
       "index": 24
     },
     {
-      "title": "AI 生成的劣质信息是否已经开始占领互联网？如此下去互联网还能用吗？",
-      "url": "https://www.zhihu.com/question/623139877",
-      "hot_value": "79 万热度",
+      "title": "高精力人群、低精力人群，是天生的吗？",
+      "url": "https://www.zhihu.com/question/2058285890166846336",
+      "hot_value": "58 万热度",
       "index": 25
     },
     {
-      "title": "在你看来，北京文学的「京味」到底是什么味儿？",
-      "url": "https://www.zhihu.com/question/2057870443646919815",
-      "hot_value": "78 万热度",
+      "title": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？",
+      "url": "https://www.zhihu.com/question/2059629861941895196",
+      "hot_value": "58 万热度",
       "index": 26
     },
     {
-      "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
-      "url": "https://www.zhihu.com/question/2058981135892461058",
-      "hot_value": "71 万热度",
+      "title": "如何看待现在很多人挪用诸如「能量」「磁场」这种物理学词汇，当成功利主义玄学用语？",
+      "url": "https://www.zhihu.com/question/2057281071360783801",
+      "hot_value": "57 万热度",
       "index": 27
     },
     {
-      "title": "公司说全员降薪 20% 不接受就走人，第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
-      "url": "https://www.zhihu.com/question/2059237272705316521",
-      "hot_value": "66 万热度",
+      "title": "有哪些熟语（老话、俗语、谚语、歇后语），曾经耳熟能详，如今却很少见人用？",
+      "url": "https://www.zhihu.com/question/2055456370502144358",
+      "hot_value": "56 万热度",
       "index": 28
     },
     {
-      "title": "除了南锣鼓巷，北京还有哪些真正值得走、能挖出故事的宝藏胡同？",
-      "url": "https://www.zhihu.com/question/2056408276099653846",
-      "hot_value": "63 万热度",
+      "title": "电影《功夫⼥⾜》⾥有哪些值得关注的细节和彩蛋？",
+      "url": "https://www.zhihu.com/question/2058918130743878950",
+      "hot_value": "56 万热度",
       "index": 29
     },
     {
-      "title": "如何看待「松弛派对」走红后被网友吐槽「紧绷的松弛」？为啥大家从追捧松弛感到如今厌恶假松弛？",
-      "url": "https://www.zhihu.com/question/2057860179513668617",
-      "hot_value": "58 万热度",
+      "title": "NBA 夏季联赛，杨瀚森 18 分 10 篮板 5 助攻，开拓者轻取森林狼，如何评价本场比赛和杨瀚森的发挥？",
+      "url": "https://www.zhihu.com/question/2060354565463963399",
+      "hot_value": "56 万热度",
       "index": 30
     }
   ]
