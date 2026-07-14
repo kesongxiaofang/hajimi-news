@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-14T20:42:18Z",
+  "update_time": "2026-07-14T23:38:15Z",
   "count": 30,
   "list": [
     {
-      "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
-      "url": "https://www.zhihu.com/question/2060415646706263496",
-      "hot_value": "1310 万热度",
+      "title": "西班牙 2-0 法国，晋级世界杯决赛，亚马尔造点、姆巴佩哑火，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2060325379596933035",
+      "hot_value": "4220 万热度",
       "index": 1
     },
     {
-      "title": "世界杯半决赛，法国 vs 西班牙，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2060325379596933035",
-      "hot_value": "440 万热度",
+      "title": "如何评价韩国综合指数一个月从 9200 跌到 6800，120 万散户账户爆仓？为什么韩国散户这么容易被强平？",
+      "url": "https://www.zhihu.com/question/2060415646706263496",
+      "hot_value": "572 万热度",
       "index": 2
     },
     {
-      "title": "《功夫女足》预测票房涨至 30.3 亿，你觉得能打破《美人鱼》创造的「无厘头喜剧电影」票房纪录吗？",
-      "url": "https://www.zhihu.com/question/2059400846199219255",
-      "hot_value": "331 万热度",
+      "title": "伴娘遭婚闹被抛摔致伤残，9 人被判赔 23 万元，如何从法律角度解读这一判决？",
+      "url": "https://www.zhihu.com/question/2060344642072326388",
+      "hot_value": "207 万热度",
       "index": 3
     },
     {
       "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
       "url": "https://www.zhihu.com/question/2060385485915263811",
-      "hot_value": "291 万热度",
+      "hot_value": "200 万热度",
       "index": 4
     },
     {
-      "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
-      "url": "https://www.zhihu.com/question/2060378207459566963",
-      "hot_value": "166 万热度",
-      "index": 5
-    },
-    {
-      "title": "伴娘遭婚闹被抛摔致伤残，9 人被判赔 23 万元，如何从法律角度解读这一判决？",
-      "url": "https://www.zhihu.com/question/2060344642072326388",
+      "title": "如何看待全国教育辟谣平台紧急辟谣「教师全面硕士化」、「教师需做好失业准备」?",
+      "url": "https://www.zhihu.com/question/2059323780208636411",
       "hot_value": "141 万热度",
-      "index": 6
+      "index": 5
     },
     {
       "title": "为什么吃牛肉可以三分熟，猪肉却不可以呢？",
       "url": "https://www.zhihu.com/question/552089218",
-      "hot_value": "131 万热度",
+      "hot_value": "124 万热度",
+      "index": 6
+    },
+    {
+      "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
+      "url": "https://www.zhihu.com/question/2058449781597459395",
+      "hot_value": "114 万热度",
       "index": 7
     },
     {
-      "title": "超 500 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
-      "url": "https://www.zhihu.com/question/2060314752786457046",
-      "hot_value": "105 万热度",
+      "title": "如何看待《功夫女足》预测票房蹭蹭上涨到现在的 30 亿？",
+      "url": "https://www.zhihu.com/question/2060136087029392377",
+      "hot_value": "114 万热度",
       "index": 8
     },
     {
       "title": "猫对人打呼噜是示好，那「打呼噜的人」会被猫认为是对猫示好吗？",
       "url": "https://www.zhihu.com/question/659310565",
-      "hot_value": "103 万热度",
+      "hot_value": "107 万热度",
       "index": 9
     },
     {
-      "title": "如何看待全国教育辟谣平台紧急辟谣「教师全面硕士化」「教师需做好失业准备」?",
-      "url": "https://www.zhihu.com/question/2059323780208636411",
-      "hot_value": "101 万热度",
+      "title": "怎么看待那些背着一千多的寇驰包，拿着 iPhone，但是全身上下衣服却不超几十块钱的人？",
+      "url": "https://www.zhihu.com/question/9783691829",
+      "hot_value": "100 万热度",
       "index": 10
     },
     {
-      "title": "LV 起诉国家知识产权局，因不服国家知识产权局驳回其针对广东服装经营者商标侵权的维权主张，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2060375449868441221",
+      "title": "马斯克说十年内要在月球上建造一座城市、配备生活资料并移民几万人上去长期居住，这个计划可行吗？",
+      "url": "https://www.zhihu.com/question/2060166037149054543",
       "hot_value": "100 万热度",
       "index": 11
     },
     {
       "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
       "url": "https://www.zhihu.com/question/2060364904519791870",
-      "hot_value": "99 万热度",
+      "hot_value": "100 万热度",
       "index": 12
     },
     {
-      "title": "怎么看待那些背着一千多的寇驰包，拿着 iPhone，但是全身上下衣服却不超几十块钱的人？",
-      "url": "https://www.zhihu.com/question/9783691829",
-      "hot_value": "99 万热度",
+      "title": "LV 起诉国家知识产权局，因不服国家知识产权局驳回其针对广东服装经营者商标侵权的维权主张，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2060375449868441221",
+      "hot_value": "100 万热度",
       "index": 13
     },
     {
-      "title": "浙江一新生儿被宠物狗咬伤，医生分析因狗对婴儿产生强烈嫉妒心理，怎么回事？狗会嫉妒吗，背后是什么逻辑？",
-      "url": "https://www.zhihu.com/question/2060043393238143776",
-      "hot_value": "97 万热度",
+      "title": "《雍正王朝》里，雍正罚李卫一年不发工资，李卫饿死了怎么办？",
+      "url": "https://www.zhihu.com/question/2059626939745412615",
+      "hot_value": "99 万热度",
       "index": 14
     },
     {
-      "title": "韩国向乌克兰提供一亿美元援助，这对俄罗斯有何影响？",
-      "url": "https://www.zhihu.com/question/2059387546061349903",
-      "hot_value": "96 万热度",
+      "title": "超 500 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
+      "url": "https://www.zhihu.com/question/2060314752786457046",
+      "hot_value": "99 万热度",
       "index": 15
     },
     {
       "title": "9 岁出书、清华降分录取，客观评价作家蒋方舟到底是真的天才少女还是在人设炒作？",
       "url": "https://www.zhihu.com/question/2060111984247272718",
-      "hot_value": "93 万热度",
+      "hot_value": "96 万热度",
       "index": 16
     },
     {
-      "title": "如何评价山田尚子导演的七月新番《穹庐下的魔女》 ？",
-      "url": "https://www.zhihu.com/question/2057156756376139431",
-      "hot_value": "90 万热度",
+      "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
+      "url": "https://www.zhihu.com/question/2060378207459566963",
+      "hot_value": "92 万热度",
       "index": 17
     },
     {
-      "title": "马斯克说十年内要在月球上建造一座城市、配备生活资料并移民几万人上去长期居住，这个计划可行吗？",
-      "url": "https://www.zhihu.com/question/2060166037149054543",
-      "hot_value": "89 万热度",
+      "title": "海贼王 1188 话漫画更新，如何看待路飞被伊姆秒了？",
+      "url": "https://www.zhihu.com/question/2058562821491839104",
+      "hot_value": "90 万热度",
       "index": 18
     },
     {
       "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
       "url": "https://www.zhihu.com/question/2060269141576233184",
-      "hot_value": "87 万热度",
+      "hot_value": "85 万热度",
       "index": 19
     },
     {
-      "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
-      "url": "https://www.zhihu.com/question/2058449781597459395",
-      "hot_value": "86 万热度",
+      "title": "为什么目前 AI 得设备是用 mac 为主，而不是熟知的 Windows？",
+      "url": "https://www.zhihu.com/question/2059660303915397288",
+      "hot_value": "81 万热度",
       "index": 20
     },
     {
       "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
       "url": "https://www.zhihu.com/question/2060208521594017084",
-      "hot_value": "84 万热度",
+      "hot_value": "77 万热度",
       "index": 21
-    },
-    {
-      "title": "媒体报道佛得角当地球队工资仅千元，这是真的吗？球员该如何维持生计并坚持足球梦想？",
-      "url": "https://www.zhihu.com/question/2051346335882859036",
-      "hot_value": "84 万热度",
-      "index": 22
     },
     {
       "title": "共享单车起步价再次全面上调，网友反映「一扫开就近两块钱」，价格为何不断上涨？会影响大家的出行选择吗？",
       "url": "https://www.zhihu.com/question/2060008266927810048",
-      "hot_value": "83 万热度",
+      "hot_value": "72 万热度",
+      "index": 22
+    },
+    {
+      "title": "孩子上小学，成绩一般，将来到了初中，会跟得上吗？",
+      "url": "https://www.zhihu.com/question/1898314398608621801",
+      "hot_value": "68 万热度",
       "index": 23
-    },
-    {
-      "title": "海贼王 1188 话漫画更新，如何看待路飞被伊姆秒了？",
-      "url": "https://www.zhihu.com/question/2058562821491839104",
-      "hot_value": "83 万热度",
-      "index": 24
-    },
-    {
-      "title": "美国的 PhD 有多高的含金量？",
-      "url": "https://www.zhihu.com/question/35995881",
-      "hot_value": "78 万热度",
-      "index": 25
-    },
-    {
-      "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-      "url": "https://www.zhihu.com/question/2059349642496710015",
-      "hot_value": "75 万热度",
-      "index": 26
-    },
-    {
-      "title": "如何看待现在很多人挪用诸如「能量」「磁场」这种物理学词汇，当成功利主义玄学用语？",
-      "url": "https://www.zhihu.com/question/2057281071360783801",
-      "hot_value": "75 万热度",
-      "index": 27
-    },
-    {
-      "title": "有哪些熟语（老话、俗语、谚语、歇后语），曾经耳熟能详，如今却很少见人用？",
-      "url": "https://www.zhihu.com/question/2055456370502144358",
-      "hot_value": "75 万热度",
-      "index": 28
     },
     {
       "title": "「回忆红利」说回忆会随时间增值，越早体验能回忆的东西越多越久、复利越多，为啥听起来有道理，又不太对劲？",
       "url": "https://www.zhihu.com/question/2055687183906726344",
-      "hot_value": "75 万热度",
+      "hot_value": "64 万热度",
+      "index": 24
+    },
+    {
+      "title": "为什么中国篮球一直出不了顶尖后卫，是体制问题还是其他原因？",
+      "url": "https://www.zhihu.com/question/2057497413812852531",
+      "hot_value": "59 万热度",
+      "index": 25
+    },
+    {
+      "title": "如何评价山田尚子导演的七月新番《穹庐下的魔女》 ？",
+      "url": "https://www.zhihu.com/question/2057156756376139431",
+      "hot_value": "59 万热度",
+      "index": 26
+    },
+    {
+      "title": "美国的 PhD 有多高的含金量？",
+      "url": "https://www.zhihu.com/question/35995881",
+      "hot_value": "59 万热度",
+      "index": 27
+    },
+    {
+      "title": "浙江一新生儿被宠物狗咬伤，医生分析因狗对婴儿产生强烈嫉妒心理，怎么回事？狗会嫉妒吗，背后是什么逻辑？",
+      "url": "https://www.zhihu.com/question/2060043393238143776",
+      "hot_value": "59 万热度",
+      "index": 28
+    },
+    {
+      "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+      "url": "https://www.zhihu.com/question/2059349642496710015",
+      "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "看哲学的书之后，为什么会陷入迷茫？不知人生的意义是干什么？陷入一片虚无？",
-      "url": "https://www.zhihu.com/question/2047809404381180737",
-      "hot_value": "75 万热度",
+      "title": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？",
+      "url": "https://www.zhihu.com/question/2060133066643879544",
+      "hot_value": "56 万热度",
       "index": 30
     }
   ]

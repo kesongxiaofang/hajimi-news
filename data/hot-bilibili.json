@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-14T20:42:18Z",
+  "update_time": "2026-07-14T23:38:15Z",
   "count": 30,
   "list": [
     {
       "title": "《崩坏：星穹铁道》姬子•启行角色PV——「启明星于今夜坠落」",
       "url": "https://www.bilibili.com/video/BV1XwNX6JEoF",
-      "hot_value": "3445407播放",
+      "hot_value": "3477182播放",
       "index": 1
     },
     {
       "title": "《迈亚融解》实机首曝",
       "url": "https://www.bilibili.com/video/BV1FaN36mEBp",
-      "hot_value": "3754172播放",
+      "hot_value": "3816917播放",
       "index": 2
+    },
+    {
+      "title": "孩子总把网络烂梗挂嘴边怎么办？【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1oxNA6SE8k",
+      "hot_value": "7383447播放",
+      "index": 3
     },
     {
       "title": "哭着剪完这条视频…",
       "url": "https://www.bilibili.com/video/BV1rfNU6REhs",
-      "hot_value": "1185218播放",
-      "index": 3
-    },
-    {
-      "title": "如何正确安慰兄弟",
-      "url": "https://www.bilibili.com/video/BV1gVN16fEs5",
-      "hot_value": "3419293播放",
+      "hot_value": "1235792播放",
       "index": 4
     },
     {
       "title": "【复制铜镜全系列合集】ai软件生成，剧情虚构，非官方）正片+番外+解说+彩蛋",
       "url": "https://www.bilibili.com/video/BV1NnNr6BEGR",
-      "hot_value": "5669987播放",
+      "hot_value": "5716462播放",
       "index": 5
+    },
+    {
+      "title": "如何正确安慰兄弟",
+      "url": "https://www.bilibili.com/video/BV1gVN16fEs5",
+      "hot_value": "3512197播放",
+      "index": 6
     },
     {
       "title": "回 旋 彪",
       "url": "https://www.bilibili.com/video/BV1kPNQ6FEEZ",
-      "hot_value": "820095播放",
-      "index": 6
-    },
-    {
-      "title": "Bro有话说2",
-      "url": "https://www.bilibili.com/video/BV1vrNX6XEnK",
-      "hot_value": "943129播放",
+      "hot_value": "906565播放",
       "index": 7
     },
     {
       "title": "《最失败の高情商》",
       "url": "https://www.bilibili.com/video/BV1WVNU64Eqq",
-      "hot_value": "2457186播放",
+      "hot_value": "2556856播放",
       "index": 8
     },
     {
-      "title": "那还说啥了",
-      "url": "https://www.bilibili.com/video/BV1gxNb62Ecb",
-      "hot_value": "878790播放",
+      "title": "Bro有话说2",
+      "url": "https://www.bilibili.com/video/BV1vrNX6XEnK",
+      "hot_value": "962965播放",
       "index": 9
     },
     {
       "title": "几天没更新因为在做梦，这次的梦有点麻烦要处理事有点多所以在梦里呆了好几天才回来写歌",
       "url": "https://www.bilibili.com/video/BV1yKNy6yEua",
-      "hot_value": "2443479播放",
+      "hot_value": "2474543播放",
       "index": 10
-    },
-    {
-      "title": "“父爱如山，无关智商！”",
-      "url": "https://www.bilibili.com/video/BV1ukMG6rEGH",
-      "hot_value": "3855420播放",
-      "index": 11
     },
     {
       "title": "我放弃ASMR的原因",
       "url": "https://www.bilibili.com/video/BV1mhNb6GEPt",
-      "hot_value": "339188播放",
-      "index": 12
+      "hot_value": "429046播放",
+      "index": 11
     },
     {
       "title": "我们好久没在一起玩了呢，桑多涅~",
       "url": "https://www.bilibili.com/video/BV1V3N16wEWq",
-      "hot_value": "1006362播放",
+      "hot_value": "1023002播放",
+      "index": 12
+    },
+    {
+      "title": "那还说啥了",
+      "url": "https://www.bilibili.com/video/BV1gxNb62Ecb",
+      "hot_value": "946779播放",
       "index": 13
-    },
-    {
-      "title": "这才是《The Other Side Of Paradise》原版MV！",
-      "url": "https://www.bilibili.com/video/BV1beM76pEBL",
-      "hot_value": "5800640播放",
-      "index": 14
-    },
-    {
-      "title": "上集| 丧尸末日降临 而我还在送外卖",
-      "url": "https://www.bilibili.com/video/BV19BNN6JEcd",
-      "hot_value": "706620播放",
-      "index": 15
-    },
-    {
-      "title": "ChiliChill乐团×花玲宴宁，《让风告诉你》提瓦特的故事吧！【BML-PLAY! 2026】",
-      "url": "https://www.bilibili.com/video/BV1K7Td69EtY",
-      "hot_value": "1248624播放",
-      "index": 16
-    },
-    {
-      "title": "神秘npc之兰州拉面！",
-      "url": "https://www.bilibili.com/video/BV1X3N16cE1B",
-      "hot_value": "3579695播放",
-      "index": 17
-    },
-    {
-      "title": "耗时9999小时！一口气看完熊出没末路大合集！",
-      "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
-      "hot_value": "284598播放",
-      "index": 18
-    },
-    {
-      "title": "挑战您说我像谁我就模仿谁！第五期！这期更是很难绷！",
-      "url": "https://www.bilibili.com/video/BV1K9Nt6BEmM",
-      "hot_value": "353385播放",
-      "index": 19
-    },
-    {
-      "title": "良子在美国良子面前也就是个萝莉！",
-      "url": "https://www.bilibili.com/video/BV1bqNy6WEqk",
-      "hot_value": "1698307播放",
-      "index": 20
-    },
-    {
-      "title": "假如你在一个十万人宿舍查寝【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1UFN264ETi",
-      "hot_value": "1874611播放",
-      "index": 21
-    },
-    {
-      "title": "有用知识+1，专业角度计算小米su7赚了多少亏了多少",
-      "url": "https://www.bilibili.com/video/BV1ycNM6GE1v",
-      "hot_value": "2033999播放",
-      "index": 22
-    },
-    {
-      "title": "给村里修了条公路！",
-      "url": "https://www.bilibili.com/video/BV1QmNu6fEdK",
-      "hot_value": "891596播放",
-      "index": 23
-    },
-    {
-      "title": "动态视频｜世界上所有的钱，加起来有多少？",
-      "url": "https://www.bilibili.com/video/BV1R4Ny6cE57",
-      "hot_value": "2169217播放",
-      "index": 24
-    },
-    {
-      "title": "今天来广东韶关，挑战在200多年历史的悬崖小屋上住一晚，体验一把野外生存",
-      "url": "https://www.bilibili.com/video/BV1RmN16vEhe",
-      "hot_value": "2003991播放",
-      "index": 25
-    },
-    {
-      "title": "精致女生赛道整出狠活！水下露营让人肃然起敬堪比行为艺术哈哈哈",
-      "url": "https://www.bilibili.com/video/BV1QTNR69ECB",
-      "hot_value": "631327播放",
-      "index": 26
     },
     {
       "title": "带小猎豹自律的一天",
       "url": "https://www.bilibili.com/video/BV1QTNR69Eak",
-      "hot_value": "672337播放",
-      "index": 27
+      "hot_value": "714199播放",
+      "index": 14
     },
     {
-      "title": "BLG单曲《Bin哥一直走》",
-      "url": "https://www.bilibili.com/video/BV1rzNm6SENC",
-      "hot_value": "788938播放",
-      "index": 28
+      "title": "这才是《The Other Side Of Paradise》原版MV！",
+      "url": "https://www.bilibili.com/video/BV1beM76pEBL",
+      "hot_value": "5814292播放",
+      "index": 15
+    },
+    {
+      "title": "“父爱如山，无关智商！”",
+      "url": "https://www.bilibili.com/video/BV1ukMG6rEGH",
+      "hot_value": "3884698播放",
+      "index": 16
+    },
+    {
+      "title": "耗时9999小时！一口气看完熊出没末路大合集！",
+      "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
+      "hot_value": "336345播放",
+      "index": 17
+    },
+    {
+      "title": "ChiliChill乐团×花玲宴宁，《让风告诉你》提瓦特的故事吧！【BML-PLAY! 2026】",
+      "url": "https://www.bilibili.com/video/BV1K7Td69EtY",
+      "hot_value": "1258870播放",
+      "index": 18
+    },
+    {
+      "title": "给村里修了条公路！",
+      "url": "https://www.bilibili.com/video/BV1QmNu6fEdK",
+      "hot_value": "895521播放",
+      "index": 19
+    },
+    {
+      "title": "精致女生赛道整出狠活！水下露营让人肃然起敬堪比行为艺术哈哈哈",
+      "url": "https://www.bilibili.com/video/BV1QTNR69ECB",
+      "hot_value": "680703播放",
+      "index": 20
     },
     {
       "title": "热烈欢庆传奇反华魔怔人 林赛-格雷厄姆暴毙",
       "url": "https://www.bilibili.com/video/BV11rNy6DESs",
-      "hot_value": "1278944播放",
+      "hot_value": "1289370播放",
+      "index": 21
+    },
+    {
+      "title": "挑战您说我像谁我就模仿谁！第五期！这期更是很难绷！",
+      "url": "https://www.bilibili.com/video/BV1K9Nt6BEmM",
+      "hot_value": "428234播放",
+      "index": 22
+    },
+    {
+      "title": "【速凌宇宙】第二十二集：航天2.0终章，收尾之战！快反军队来了？？",
+      "url": "https://www.bilibili.com/video/BV1KKN26WEyE",
+      "hot_value": "1621122播放",
+      "index": 23
+    },
+    {
+      "title": "假如你在一个十万人宿舍查寝【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1UFN264ETi",
+      "hot_value": "1888634播放",
+      "index": 24
+    },
+    {
+      "title": "上集| 丧尸末日降临 而我还在送外卖",
+      "url": "https://www.bilibili.com/video/BV19BNN6JEcd",
+      "hot_value": "731525播放",
+      "index": 25
+    },
+    {
+      "title": "动态视频｜世界上所有的钱，加起来有多少？",
+      "url": "https://www.bilibili.com/video/BV1R4Ny6cE57",
+      "hot_value": "2185796播放",
+      "index": 26
+    },
+    {
+      "title": "《小时候爱看的视频 be like》",
+      "url": "https://www.bilibili.com/video/BV1gVN16fEiN",
+      "hot_value": "972628播放",
+      "index": 27
+    },
+    {
+      "title": "良子在美国良子面前也就是个萝莉！",
+      "url": "https://www.bilibili.com/video/BV1bqNy6WEqk",
+      "hot_value": "1719792播放",
+      "index": 28
+    },
+    {
+      "title": "BLG单曲《Bin哥一直走》",
+      "url": "https://www.bilibili.com/video/BV1rzNm6SENC",
+      "hot_value": "802953播放",
       "index": 29
     },
     {
-      "title": "我----问你为什么要折断奥特钥匙！大结局！（中）",
-      "url": "https://www.bilibili.com/video/BV1kANJ66Ex5",
-      "hot_value": "2367973播放",
+      "title": "今天来广东韶关，挑战在200多年历史的悬崖小屋上住一晚，体验一把野外生存",
+      "url": "https://www.bilibili.com/video/BV1RmN16vEhe",
+      "hot_value": "2014427播放",
       "index": 30
     }
   ]
