@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-14T11:50:00Z",
+  "update_time": "2026-07-14T16:43:00Z",
   "count": 30,
   "list": [
     {
-      "title": "《崩坏：星穹铁道》姬子•启行角色PV——「启明星于今夜坠落」",
-      "url": "https://www.bilibili.com/video/BV1XwNX6JEoF",
-      "hot_value": "2490873播放",
+      "title": "《迈亚融解》实机首曝",
+      "url": "https://www.bilibili.com/video/BV1FaN36mEBp",
+      "hot_value": "3469285播放",
       "index": 1
     },
     {
       "title": "如何正确安慰兄弟",
       "url": "https://www.bilibili.com/video/BV1gVN16fEs5",
-      "hot_value": "1742330播放",
+      "hot_value": "3072917播放",
       "index": 2
     },
     {
-      "title": "孩子总把网络烂梗挂嘴边怎么办？【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1oxNA6SE8k",
-      "hot_value": "6687690播放",
+      "title": "《崩坏：星穹铁道》姬子•启行角色PV——「启明星于今夜坠落」",
+      "url": "https://www.bilibili.com/video/BV1XwNX6JEoF",
+      "hot_value": "3329005播放",
       "index": 3
     },
     {
       "title": "【复制铜镜全系列合集】ai软件生成，剧情虚构，非官方）正片+番外+解说+彩蛋",
       "url": "https://www.bilibili.com/video/BV1NnNr6BEGR",
-      "hot_value": "4479384播放",
+      "hot_value": "5488165播放",
       "index": 4
-    },
-    {
-      "title": "Bro有话说2",
-      "url": "https://www.bilibili.com/video/BV1vrNX6XEnK",
-      "hot_value": "252330播放",
-      "index": 5
-    },
-    {
-      "title": "假如你在一个十万人宿舍查寝【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1UFN264ETi",
-      "hot_value": "1425325播放",
-      "index": 6
     },
     {
       "title": "《最失败の高情商》",
       "url": "https://www.bilibili.com/video/BV1WVNU64Eqq",
-      "hot_value": "738653播放",
+      "hot_value": "2147836播放",
+      "index": 5
+    },
+    {
+      "title": "Bro有话说2",
+      "url": "https://www.bilibili.com/video/BV1vrNX6XEnK",
+      "hot_value": "785462播放",
+      "index": 6
+    },
+    {
+      "title": "哭着剪完这条视频…",
+      "url": "https://www.bilibili.com/video/BV1rfNU6REhs",
+      "hot_value": "1038246播放",
       "index": 7
     },
     {
-      "title": "《迈亚融解》实机首曝",
-      "url": "https://www.bilibili.com/video/BV1FaN36mEBp",
-      "hot_value": "2519805播放",
+      "title": "孩子总把网络烂梗挂嘴边怎么办？【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1oxNA6SE8k",
+      "hot_value": "7263007播放",
       "index": 8
     },
     {
-      "title": "碳水的快乐必须是土豆焖饭！暑假带娃来看大漠孤烟啦，感受一下天地辽阔，每天两眼一睁就是挖，是他这个爱挖沙星人的快乐星球啦",
-      "url": "https://www.bilibili.com/video/BV1EQNk6KEkS",
-      "hot_value": "1217167播放",
+      "title": "回 旋 彪",
+      "url": "https://www.bilibili.com/video/BV1kPNQ6FEEZ",
+      "hot_value": "571842播放",
       "index": 9
     },
     {
-      "title": "这期不笑的是给",
-      "url": "https://www.bilibili.com/video/BV1zLNG6EEyo",
-      "hot_value": "859671播放",
+      "title": "那还说啥了",
+      "url": "https://www.bilibili.com/video/BV1gxNb62Ecb",
+      "hot_value": "662375播放",
       "index": 10
     },
     {
-      "title": "《办席竞赛》",
-      "url": "https://www.bilibili.com/video/BV1AiNm6XE5X",
-      "hot_value": "1474416播放",
+      "title": "神秘npc之兰州拉面！",
+      "url": "https://www.bilibili.com/video/BV1X3N16cE1B",
+      "hot_value": "3133218播放",
       "index": 11
     },
     {
       "title": "“父爱如山，无关智商！”",
       "url": "https://www.bilibili.com/video/BV1ukMG6rEGH",
-      "hot_value": "3211292播放",
+      "hot_value": "3666629播放",
       "index": 12
-    },
-    {
-      "title": "属于川渝人的寿司",
-      "url": "https://www.bilibili.com/video/BV1emMn6gECw",
-      "hot_value": "612007播放",
-      "index": 13
-    },
-    {
-      "title": "哭着剪完这条视频…",
-      "url": "https://www.bilibili.com/video/BV1rfNU6REhs",
-      "hot_value": "521198播放",
-      "index": 14
-    },
-    {
-      "title": "BW遇到台风！？漫展摆摊卖雨具和拖鞋有没有搞头？",
-      "url": "https://www.bilibili.com/video/BV1U6Ny6HEgB",
-      "hot_value": "652650播放",
-      "index": 15
-    },
-    {
-      "title": "我们好久没在一起玩了呢，桑多涅~",
-      "url": "https://www.bilibili.com/video/BV1V3N16wEWq",
-      "hot_value": "832404播放",
-      "index": 16
     },
     {
       "title": "几天没更新因为在做梦，这次的梦有点麻烦要处理事有点多所以在梦里呆了好几天才回来写歌",
       "url": "https://www.bilibili.com/video/BV1yKNy6yEua",
-      "hot_value": "1757535播放",
+      "hot_value": "2339688播放",
+      "index": 13
+    },
+    {
+      "title": "抓 住 了 重 点",
+      "url": "https://www.bilibili.com/video/BV1YANX6SEkE",
+      "hot_value": "1241644播放",
+      "index": 14
+    },
+    {
+      "title": "属于川渝人的寿司",
+      "url": "https://www.bilibili.com/video/BV1emMn6gECw",
+      "hot_value": "1130539播放",
+      "index": 15
+    },
+    {
+      "title": "带小猎豹自律的一天",
+      "url": "https://www.bilibili.com/video/BV1QTNR69Eak",
+      "hot_value": "557962播放",
+      "index": 16
+    },
+    {
+      "title": "走了这么久，必须要跟大家说一件事",
+      "url": "https://www.bilibili.com/video/BV1JTNb6fEmv",
+      "hot_value": "303169播放",
       "index": 17
     },
     {
-      "title": "有一个勇者前来斩杀魔王",
-      "url": "https://www.bilibili.com/video/BV1LNN16NEfP",
-      "hot_value": "514991播放",
+      "title": "良子在美国良子面前也就是个萝莉！",
+      "url": "https://www.bilibili.com/video/BV1bqNy6WEqk",
+      "hot_value": "1567150播放",
       "index": 18
     },
     {
-      "title": "看完别笑 你也过不了第二关",
-      "url": "https://www.bilibili.com/video/BV1tqNy6WEM3",
-      "hot_value": "1827256播放",
+      "title": "假如你在一个十万人宿舍查寝【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1UFN264ETi",
+      "hot_value": "1800558播放",
       "index": 19
+    },
+    {
+      "title": "【aespa】正是容易饿的年纪…25岁",
+      "url": "https://www.bilibili.com/video/BV14sNm6FE19",
+      "hot_value": "570257播放",
+      "index": 20
     },
     {
       "title": "这才是《The Other Side Of Paradise》原版MV！",
       "url": "https://www.bilibili.com/video/BV1beM76pEBL",
-      "hot_value": "5516460播放",
-      "index": 20
-    },
-    {
-      "title": "今天来广东韶关，挑战在200多年历史的悬崖小屋上住一晚，体验一把野外生存",
-      "url": "https://www.bilibili.com/video/BV1RmN16vEhe",
-      "hot_value": "1661490播放",
+      "hot_value": "5747631播放",
       "index": 21
     },
     {
-      "title": "【狂怒】乌鲁鲁首款干员研究外观7月17日上线！",
-      "url": "https://www.bilibili.com/video/BV1RnNQ6EEKA",
-      "hot_value": "747871播放",
+      "title": "600台冰箱要怎么用掉呢？",
+      "url": "https://www.bilibili.com/video/BV1K6N96VEFY",
+      "hot_value": "159218播放",
       "index": 22
     },
     {
-      "title": "《龙族：卡塞尔之门》IF线特别剧情「白月长明外」PV | 跨越千年，宿命相见",
-      "url": "https://www.bilibili.com/video/BV184NQ65Evx",
-      "hot_value": "854712播放",
+      "title": "木叶村男团神临BW",
+      "url": "https://www.bilibili.com/video/BV1G7NS6kENN",
+      "hot_value": "1108831播放",
       "index": 23
+    },
+    {
+      "title": "有一个勇者前来斩杀魔王",
+      "url": "https://www.bilibili.com/video/BV1LNN16NEfP",
+      "hot_value": "778354播放",
+      "index": 24
+    },
+    {
+      "title": "我们好久没在一起玩了呢，桑多涅~",
+      "url": "https://www.bilibili.com/video/BV1V3N16wEWq",
+      "hot_value": "966445播放",
+      "index": 25
+    },
+    {
+      "title": "BLG单曲《Bin哥一直走》",
+      "url": "https://www.bilibili.com/video/BV1rzNm6SENC",
+      "hot_value": "720490播放",
+      "index": 26
     },
     {
       "title": "给村里修了条公路！",
       "url": "https://www.bilibili.com/video/BV1QmNu6fEdK",
-      "hot_value": "729776播放",
-      "index": 24
-    },
-    {
-      "title": "ChiliChill乐团×花玲宴宁，《让风告诉你》提瓦特的故事吧！【BML-PLAY! 2026】",
-      "url": "https://www.bilibili.com/video/BV1K7Td69EtY",
-      "hot_value": "993647播放",
-      "index": 25
-    },
-    {
-      "title": "动态视频｜世界上所有的钱，加起来有多少？",
-      "url": "https://www.bilibili.com/video/BV1R4Ny6cE57",
-      "hot_value": "1835806播放",
-      "index": 26
-    },
-    {
-      "title": "价格2位数？PDD上买到的机器人还能这样？",
-      "url": "https://www.bilibili.com/video/BV1d2N16KEh6",
-      "hot_value": "1174657播放",
+      "hot_value": "864604播放",
       "index": 27
     },
     {
-      "title": "《鸣潮》过场动画 | 一局定输赢",
-      "url": "https://www.bilibili.com/video/BV19iNU66E7R",
-      "hot_value": "399281播放",
+      "title": "精致女生赛道整出狠活！水下露营让人肃然起敬堪比行为艺术哈哈哈",
+      "url": "https://www.bilibili.com/video/BV1QTNR69ECB",
+      "hot_value": "430066播放",
       "index": 28
     },
     {
-      "title": "热烈欢庆传奇反华魔怔人 林赛-格雷厄姆暴毙",
-      "url": "https://www.bilibili.com/video/BV11rNy6DESs",
-      "hot_value": "1108601播放",
+      "title": "上集| 丧尸末日降临 而我还在送外卖",
+      "url": "https://www.bilibili.com/video/BV19BNN6JEcd",
+      "hot_value": "601810播放",
       "index": 29
     },
     {
       "title": "有用知识+1，专业角度计算小米su7赚了多少亏了多少",
       "url": "https://www.bilibili.com/video/BV1ycNM6GE1v",
-      "hot_value": "1684263播放",
+      "hot_value": "1948105播放",
       "index": 30
     }
   ]
