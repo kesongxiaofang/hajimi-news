@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-15T07:30:13Z",
+  "update_time": "2026-07-15T12:54:30Z",
   "count": 30,
   "list": [
     {
-      "title": "姆巴佩急了，全场 0 射正、肘击西班牙门将吃黄牌，怎样评价他在半决赛的表现？",
-      "url": "https://www.zhihu.com/question/2060628954185033001",
-      "hot_value": "572 万热度",
-      "index": 1
-    },
-    {
-      "title": "如何看待比亚迪回应一辆比亚迪唐电机总成脱落事件，称底盘发生严重磕碰，非产品质量问题？",
-      "url": "https://www.zhihu.com/question/2059993881601749194",
-      "hot_value": "451 万热度",
-      "index": 2
-    },
-    {
       "title": "2026 年上半年 GDP 695704 亿元，同比增长 4.7%，如何解读这一数据？",
       "url": "https://www.zhihu.com/question/2060665371351331817",
-      "hot_value": "434 万热度",
-      "index": 3
+      "hot_value": "972 万热度",
+      "index": 1
     },
     {
       "title": "2026 年美加墨世界杯半决赛，英格兰 vs 阿根廷，你看好谁能取胜？",
       "url": "https://www.zhihu.com/question/2059750323460351132",
-      "hot_value": "349 万热度",
-      "index": 4
+      "hot_value": "661 万热度",
+      "index": 2
+    },
+    {
+      "title": "央视曝光湖南江华水稻种植面积造假，上报种植水稻 39 万亩实际仅为约 23.8 万亩，暴露出哪些问题？",
+      "url": "https://www.zhihu.com/question/2060642883007247443",
+      "hot_value": "430 万热度",
+      "index": 3
     },
     {
       "title": "零食店特供版冰红茶比超市便宜 3 毛钱，瓶身却瘦了一圈，如何看待这种商业策略？你会愿意购买吗？",
       "url": "https://www.zhihu.com/question/2060032728419001271",
-      "hot_value": "310 万热度",
-      "index": 5
+      "hot_value": "421 万热度",
+      "index": 4
     },
     {
       "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
       "url": "https://www.zhihu.com/question/2060645375338180828",
-      "hot_value": "284 万热度",
+      "hot_value": "340 万热度",
+      "index": 5
+    },
+    {
+      "title": "为什么周星驰的剧本台词风格他自己演就很自然还很搞笑，而换成其他人演不仅不搞笑还巨尴尬?",
+      "url": "https://www.zhihu.com/question/1903913532988326041",
+      "hot_value": "261 万热度",
       "index": 6
     },
     {
-      "title": "沙溢同样是被欺负了，为什么在《极限挑战》观众们叫好，在《跑男》都骂节目组？",
-      "url": "https://www.zhihu.com/question/283166946",
-      "hot_value": "255 万热度",
+      "title": "现在大厂都没实力提供托儿所和厂办医院，当年为啥可以，当年工人产值那么高吗？",
+      "url": "https://www.zhihu.com/question/2055337846555391286",
+      "hot_value": "196 万热度",
       "index": 7
     },
     {
-      "title": "法国不敌西班牙无缘世界杯决赛，他们输在哪？豪华锋线为什么会哑火？教练德尚该承担主要责任吗？",
-      "url": "https://www.zhihu.com/question/2060634535255963378",
-      "hot_value": "242 万热度",
+      "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
+      "url": "https://www.zhihu.com/question/2060476741349646921",
+      "hot_value": "165 万热度",
       "index": 8
     },
     {
-      "title": "如何看待《功夫女足》预测票房蹭蹭上涨到现在的 30 亿？",
-      "url": "https://www.zhihu.com/question/2060136087029392377",
-      "hot_value": "229 万热度",
+      "title": "LoL 官宣将推出怀旧模式，还原老版模型与旧数值且长期开放，在玩家日趋流失的现在会是个好做法吗？",
+      "url": "https://www.zhihu.com/question/2054328613269398401",
+      "hot_value": "152 万热度",
       "index": 9
     },
     {
       "title": "为什么老一辈人都觉得空调不能长时间吹？",
       "url": "https://www.zhihu.com/question/611736271",
-      "hot_value": "229 万热度",
+      "hot_value": "137 万热度",
       "index": 10
     },
     {
-      "title": "西北大学通报，贾浅浅学术不端行为属实，已被撤销硕士学位、教师资格、副教授职称，如何看待这一结果？",
-      "url": "https://www.zhihu.com/question/2060667608244951037",
-      "hot_value": "229 万热度",
+      "title": "邹市明上海拳馆年租金高达 5000 万元，年卡定价达 8.8 万，天价投资健身房的盈利模式是怎样的？",
+      "url": "https://www.zhihu.com/question/2060401370436297161",
+      "hot_value": "133 万热度",
       "index": 11
     },
     {
-      "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
-      "url": "https://www.zhihu.com/question/2058449781597459395",
-      "hot_value": "229 万热度",
+      "title": "姆巴佩急了，全场 0 射正、肘击西班牙门将吃黄牌，怎样评价他在半决赛的表现？",
+      "url": "https://www.zhihu.com/question/2060628954185033001",
+      "hot_value": "129 万热度",
       "index": 12
     },
     {
-      "title": "《雍正王朝》里，雍正罚李卫一年不发工资，李卫饿死了怎么办？",
-      "url": "https://www.zhihu.com/question/2059626939745412615",
-      "hot_value": "225 万热度",
+      "title": "罗技分销商因发「像狗一样」辱客广告，被市场监管部门罚款 20 万，如何看待这一处罚结果？有哪些警示意义？",
+      "url": "https://www.zhihu.com/question/2060545155124441600",
+      "hot_value": "122 万热度",
       "index": 13
     },
     {
-      "title": "现在大厂都没实力提供托儿所和厂办医院，当年为啥可以，当年工人产值那么高吗？",
-      "url": "https://www.zhihu.com/question/2055337846555391286",
-      "hot_value": "197 万热度",
+      "title": "如何看待比亚迪唐电机总成脱落事件客服最新回应，为底盘发生严重磕碰所致？",
+      "url": "https://www.zhihu.com/question/2059993881601749194",
+      "hot_value": "121 万热度",
       "index": 14
     },
     {
-      "title": "LoL 官宣将推出怀旧模式，还原老版模型与旧数值且长期开放，在玩家日趋流失的现在会是个好做法吗？",
-      "url": "https://www.zhihu.com/question/2054328613269398401",
-      "hot_value": "196 万热度",
+      "title": "网友称 LV 已将纸钱纹样注册，具体什么情况？如果属实纸钱商家会被告侵权吗？",
+      "url": "https://www.zhihu.com/question/2060484366321415392",
+      "hot_value": "120 万热度",
       "index": 15
     },
     {
-      "title": "央视曝光湖南江华水稻种植面积造假，上报种植水稻 39 万亩实际仅为约 23.8 万亩，暴露出哪些问题？",
-      "url": "https://www.zhihu.com/question/2060642883007247443",
-      "hot_value": "171 万热度",
+      "title": "《终末地》韩服因干员手势争议道歉并考虑调整，如何评价这一「本地化」处理？",
+      "url": "https://www.zhihu.com/question/2060106918467727908",
+      "hot_value": "120 万热度",
       "index": 16
-    },
-    {
-      "title": "AI 编程时代，被誉为「软件工程圣经」的《人月神话》，有哪些理论过时了？",
-      "url": "https://www.zhihu.com/question/2058996805182960802",
-      "hot_value": "144 万热度",
-      "index": 17
-    },
-    {
-      "title": "为什么会有「来了巴黎就祛魅」的说法？",
-      "url": "https://www.zhihu.com/question/642212992",
-      "hot_value": "143 万热度",
-      "index": 18
-    },
-    {
-      "title": "为什么吃牛肉可以三分熟，猪肉却不可以呢？",
-      "url": "https://www.zhihu.com/question/552089218",
-      "hot_value": "142 万热度",
-      "index": 19
-    },
-    {
-      "title": "如何看待法国主帅德尚在世界杯半决赛后批评裁判「他够水平吹世界杯半决赛吗，我不知道」？",
-      "url": "https://www.zhihu.com/question/2060664102813262603",
-      "hot_value": "116 万热度",
-      "index": 20
-    },
-    {
-      "title": "蒋方舟、贾浅浅接连被通报论文抄袭并撤销硕士学位，是要对学术不端动真格了吗？",
-      "url": "https://www.zhihu.com/question/2060669037785212214",
-      "hot_value": "112 万热度",
-      "index": 21
-    },
-    {
-      "title": "为什么《三国第一部：争洛阳》这样用心制作的动画电影受不到市场认可？",
-      "url": "https://www.zhihu.com/question/2059979827566863683",
-      "hot_value": "108 万热度",
-      "index": 22
-    },
-    {
-      "title": "桂林一男子带 13 岁女儿到横州当志愿者，女儿称「帮忙后心里挺舒服」，这一经历能教会孩子什么？",
-      "url": "https://www.zhihu.com/question/2058937606256202098",
-      "hot_value": "77 万热度",
-      "index": 23
-    },
-    {
-      "title": "如何评价 2026 年 7 月米哈游《崩坏星穹铁道》4.4 版本卡池，姬子启行？",
-      "url": "https://www.zhihu.com/question/2060503841699795695",
-      "hot_value": "73 万热度",
-      "index": 24
-    },
-    {
-      "title": "部队对海军陆战队的定位是只负责登陆抢滩占领沿海，还是兼顾深入内地作战，陆战队会扩编出集团军编制吗？",
-      "url": "https://www.zhihu.com/question/1918089687656010452",
-      "hot_value": "71 万热度",
-      "index": 25
-    },
-    {
-      "title": "怎么看待那些背着一千多的寇驰包，拿着 iPhone，但是全身上下衣服却不超几十块钱的人？",
-      "url": "https://www.zhihu.com/question/9783691829",
-      "hot_value": "65 万热度",
-      "index": 26
     },
     {
       "title": "当一个孩子问「我为什么要学自己不会的东西，用 AI 不就知道了」，你会怎么回答？",
       "url": "https://www.zhihu.com/question/2057919284106498140",
-      "hot_value": "61 万热度",
+      "hot_value": "120 万热度",
+      "index": 17
+    },
+    {
+      "title": "沙溢同样是被欺负了，为什么在《极限挑战》观众们叫好，在《跑男》都骂节目组？",
+      "url": "https://www.zhihu.com/question/283166946",
+      "hot_value": "120 万热度",
+      "index": 18
+    },
+    {
+      "title": "2026 年秋冬季将形成超强厄尔尼诺事件，或将刷新历史极值，会对我国带来哪些具体影响？",
+      "url": "https://www.zhihu.com/question/2060163465281648558",
+      "hot_value": "87 万热度",
+      "index": 19
+    },
+    {
+      "title": "如何看待五粮液预计 2026 H1 净利润同比增长高达 88.80%-98.97%？",
+      "url": "https://www.zhihu.com/question/2060663598305599630",
+      "hot_value": "85 万热度",
+      "index": 20
+    },
+    {
+      "title": "如何评价宋威龙、张婧仪主演的电视剧《野狗骨头》？",
+      "url": "https://www.zhihu.com/question/2056442162187690028",
+      "hot_value": "84 万热度",
+      "index": 21
+    },
+    {
+      "title": "《原神》有后悔当初只设置七个神吗？七神的故事之后剧情会怎样发展？",
+      "url": "https://www.zhihu.com/question/645781177",
+      "hot_value": "69 万热度",
+      "index": 22
+    },
+    {
+      "title": "我是纠错型爸爸，孩子老觉得我在挑毛病，不愿意和我说话，怎么办？",
+      "url": "https://www.zhihu.com/question/2059994276268975492",
+      "hot_value": "58 万热度",
+      "index": 23
+    },
+    {
+      "title": "孩子总是不敢尝试，怕失败，怕出丑，作为家长该怎么引导和鼓励？",
+      "url": "https://www.zhihu.com/question/2060281920005706918",
+      "hot_value": "58 万热度",
+      "index": 24
+    },
+    {
+      "title": "《三角洲行动》为什么不推出充值哈弗币？",
+      "url": "https://www.zhihu.com/question/1935573251293188538",
+      "hot_value": "58 万热度",
+      "index": 25
+    },
+    {
+      "title": "AI 编程时代，被誉为「软件工程圣经」的《人月神话》，有哪些理论过时了？",
+      "url": "https://www.zhihu.com/question/2058996805182960802",
+      "hot_value": "57 万热度",
+      "index": 26
+    },
+    {
+      "title": "如何看待喜剧动画电影《八仙！》提档到 2026 年 7 月 18 日上映，票房能否赶超周星驰新电影？",
+      "url": "https://www.zhihu.com/question/2060358771004773550",
+      "hot_value": "56 万热度",
       "index": 27
     },
     {
-      "title": "如何评价 2026 年 7 月米哈游《崩坏星穹铁道》4.4 版本剧情任务【鸣笛于归寂之时】？",
-      "url": "https://www.zhihu.com/question/2060503268569174490",
-      "hot_value": "58 万热度",
+      "title": "如果一个人在世界上所有公路车比赛中都能紧跟第一名蹭风完赛，那他大概是什么水平？",
+      "url": "https://www.zhihu.com/question/2057202541298033887",
+      "hot_value": "56 万热度",
       "index": 28
     },
     {
-      "title": "如何评价侯明昊、艾米主演的古装剧《雀骨》？",
-      "url": "https://www.zhihu.com/question/2058638582554653006",
-      "hot_value": "57 万热度",
+      "title": "如何评价 2026 年 7 月米哈游《崩坏星穹铁道》4.4 版本卡池，姬子启行？",
+      "url": "https://www.zhihu.com/question/2060503841699795695",
+      "hot_value": "55 万热度",
       "index": 29
     },
     {
-      "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
-      "url": "https://www.zhihu.com/question/2059660303915397288",
-      "hot_value": "57 万热度",
+      "title": "部队对海军陆战队的定位是只负责登陆抢滩占领沿海，还是兼顾深入内地作战，陆战队会扩编出集团军编制吗？",
+      "url": "https://www.zhihu.com/question/1918089687656010452",
+      "hot_value": "55 万热度",
       "index": 30
     }
   ]
