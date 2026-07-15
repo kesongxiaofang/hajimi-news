@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-15T12:54:30Z",
+  "update_time": "2026-07-15T17:47:34Z",
   "count": 30,
   "list": [
     {
-      "title": "郝 哥 连 线 勇 哥",
-      "url": "https://www.bilibili.com/video/BV1Y3Ne6hENH",
-      "hot_value": "2718887播放",
+      "title": "路边摊吃盒饭 吃成摊主",
+      "url": "https://www.bilibili.com/video/BV1XTNR69Etx",
+      "hot_value": "1796192播放",
       "index": 1
     },
     {
-      "title": "路边摊吃盒饭 吃成摊主",
-      "url": "https://www.bilibili.com/video/BV1XTNR69Etx",
-      "hot_value": "1018370播放",
+      "title": "郝 哥 连 线 勇 哥",
+      "url": "https://www.bilibili.com/video/BV1Y3Ne6hENH",
+      "hot_value": "3537985播放",
       "index": 2
     },
     {
-      "title": "如果你可以随时缩小，十二星座决定你的专属休息小屋 （上） ASMR",
-      "url": "https://www.bilibili.com/video/BV1esN96WE7v",
-      "hot_value": "1160355播放",
+      "title": "【幼稚园TV】建材王哥大闹天宫",
+      "url": "https://www.bilibili.com/video/BV1uCNq6TEND",
+      "hot_value": "561498播放",
       "index": 3
-    },
-    {
-      "title": "耗时9999小时！一口气看完熊出没末路大合集！",
-      "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
-      "hot_value": "1560881播放",
-      "index": 4
     },
     {
       "title": "哭着剪完这条视频…",
       "url": "https://www.bilibili.com/video/BV1rfNU6REhs",
-      "hot_value": "2836515播放",
+      "hot_value": "3147558播放",
+      "index": 4
+    },
+    {
+      "title": "耗时9999小时！一口气看完熊出没末路大合集！",
+      "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
+      "hot_value": "1777661播放",
       "index": 5
-    },
-    {
-      "title": "搞强拆能惹多大祸？【奇葩小国53】",
-      "url": "https://www.bilibili.com/video/BV1xdNt6TEP3",
-      "hot_value": "972527播放",
-      "index": 6
-    },
-    {
-      "title": "20亿票房？！潮汕爆火出圈？电影和现实又有哪些区别？《给阿嬷的情书》取景地巡礼",
-      "url": "https://www.bilibili.com/video/BV1EXN96NEzU",
-      "hot_value": "518256播放",
-      "index": 7
     },
     {
       "title": "我这视频看完没啥感觉，但是暖暖的！",
       "url": "https://www.bilibili.com/video/BV1XENb6nEUh",
-      "hot_value": "1416566播放",
+      "hot_value": "1661760播放",
+      "index": 6
+    },
+    {
+      "title": "破冰挑战！3小时摆摊PK，赚得多的获胜！！",
+      "url": "https://www.bilibili.com/video/BV1j2Ni6LEkW",
+      "hot_value": "533499播放",
+      "index": 7
+    },
+    {
+      "title": "我宁愿在这个世界里，永远做一个你“尚未到来”的传说",
+      "url": "https://www.bilibili.com/video/BV1LeNt6HEBp",
+      "hot_value": "659803播放",
       "index": 8
     },
     {
       "title": "烧一桌中式家常菜，款待十年没见的法国老友！",
       "url": "https://www.bilibili.com/video/BV1SSNX67E8P",
-      "hot_value": "728857播放",
+      "hot_value": "997292播放",
       "index": 9
     },
     {
-      "title": "这是三角洲最强干员，你敢和他们对视3秒吗？",
-      "url": "https://www.bilibili.com/video/BV1zuNb6tEVE",
-      "hot_value": "973847播放",
+      "title": "搞强拆能惹多大祸？【奇葩小国53】",
+      "url": "https://www.bilibili.com/video/BV1xdNt6TEP3",
+      "hot_value": "1158478播放",
       "index": 10
     },
     {
-      "title": "足坛真神TOP：姆巴佩！离开世界杯！如果最高战力，为何不能天下第一！？",
-      "url": "https://www.bilibili.com/video/BV1t7Ne64EZP",
-      "hot_value": "1339477播放",
+      "title": "如果你可以随时缩小，十二星座决定你的专属休息小屋 （上） ASMR",
+      "url": "https://www.bilibili.com/video/BV1esN96WE7v",
+      "hot_value": "1412708播放",
       "index": 11
-    },
-    {
-      "title": "回 旋 彪",
-      "url": "https://www.bilibili.com/video/BV1kPNQ6FEEZ",
-      "hot_value": "1872102播放",
-      "index": 12
     },
     {
       "title": "上集| 丧尸末日降临 而我还在送外卖",
       "url": "https://www.bilibili.com/video/BV19BNN6JEcd",
-      "hot_value": "1429701播放",
+      "hot_value": "1604086播放",
+      "index": 12
+    },
+    {
+      "title": "回 旋 彪",
+      "url": "https://www.bilibili.com/video/BV1kPNQ6FEEZ",
+      "hot_value": "2029083播放",
       "index": 13
     },
     {
-      "title": "\"自古英雄出少年.\"",
-      "url": "https://www.bilibili.com/video/BV133NC6pET2",
-      "hot_value": "2216797播放",
+      "title": "bw线下真假塔菲连麦，塔语十级大测试！",
+      "url": "https://www.bilibili.com/video/BV16uNJ6iE63",
+      "hot_value": "1185508播放",
       "index": 14
     },
     {
-      "title": "日服堵桥被全图围剿！鲁鲁正义の制裁",
-      "url": "https://www.bilibili.com/video/BV12vNb6zE7w",
-      "hot_value": "1475709播放",
+      "title": "20亿票房？！潮汕爆火出圈？电影和现实又有哪些区别？《给阿嬷的情书》取景地巡礼",
+      "url": "https://www.bilibili.com/video/BV1EXN96NEzU",
+      "hot_value": "791990播放",
       "index": 15
     },
     {
-      "title": "陈翔六点半：突然大方的兄弟",
-      "url": "https://www.bilibili.com/video/BV1WFNb6eE4X",
-      "hot_value": "1634642播放",
+      "title": "挑战您说我像谁我就模仿谁！第五期！这期更是很难绷！",
+      "url": "https://www.bilibili.com/video/BV1K9Nt6BEmM",
+      "hot_value": "1492573播放",
       "index": 16
-    },
-    {
-      "title": "来成都 好生耍一盘 | 《湮灭之潮》首次试玩会报名开启",
-      "url": "https://www.bilibili.com/video/BV1y2Ny67EWF",
-      "hot_value": "982952播放",
-      "index": 17
-    },
-    {
-      "title": "《迈亚融解》实机首曝",
-      "url": "https://www.bilibili.com/video/BV1FaN36mEBp",
-      "hot_value": "4900657播放",
-      "index": 18
-    },
-    {
-      "title": "上海日式拉面挑战，超油腻！20分钟吃完奖金500元！能吃饱吗？",
-      "url": "https://www.bilibili.com/video/BV1erNX6XE7s",
-      "hot_value": "1252608播放",
-      "index": 19
-    },
-    {
-      "title": "精致女生赛道整出狠活！水下露营让人肃然起敬堪比行为艺术哈哈哈",
-      "url": "https://www.bilibili.com/video/BV1QTNR69ECB",
-      "hot_value": "1726222播放",
-      "index": 20
     },
     {
       "title": "如何正确安慰兄弟",
       "url": "https://www.bilibili.com/video/BV1gVN16fEs5",
-      "hot_value": "5032350播放",
+      "hot_value": "5249616播放",
+      "index": 17
+    },
+    {
+      "title": "\"自古英雄出少年.\"",
+      "url": "https://www.bilibili.com/video/BV133NC6pET2",
+      "hot_value": "2444119播放",
+      "index": 18
+    },
+    {
+      "title": "足坛真神TOP：姆巴佩！离开世界杯！如果最高战力，为何不能天下第一！？",
+      "url": "https://www.bilibili.com/video/BV1t7Ne64EZP",
+      "hot_value": "1510047播放",
+      "index": 19
+    },
+    {
+      "title": "《洛克王国：世界》皮卡月刊「秘密潜入计划」限时上架！",
+      "url": "https://www.bilibili.com/video/BV1KVN86yEZX",
+      "hot_value": "564701播放",
+      "index": 20
+    },
+    {
+      "title": "陈翔六点半：突然大方的兄弟",
+      "url": "https://www.bilibili.com/video/BV1WFNb6eE4X",
+      "hot_value": "1813724播放",
       "index": 21
     },
     {
-      "title": "币战科研项目：姬七猫!6倍数值的隐藏装备？姬子启行的独特羁绊和超模数值重振反震荣光！",
-      "url": "https://www.bilibili.com/video/BV1KwNY6UEz1",
-      "hot_value": "240284播放",
+      "title": "上海日式拉面挑战，超油腻！20分钟吃完奖金500元！能吃饱吗？",
+      "url": "https://www.bilibili.com/video/BV1erNX6XE7s",
+      "hot_value": "1473402播放",
       "index": 22
     },
     {
-      "title": "都免疫“/kill”了非说是隐身，天堂装备没轻没重的【更好的MC】",
-      "url": "https://www.bilibili.com/video/BV1bmNt6kEQ9",
-      "hot_value": "694372播放",
+      "title": "【群星】人类联邦第一个百年",
+      "url": "https://www.bilibili.com/video/BV1cjN262Edh",
+      "hot_value": "1730863播放",
       "index": 23
     },
     {
-      "title": "假如格林穿越到了re0的世界",
-      "url": "https://www.bilibili.com/video/BV1JbN86YEmJ",
-      "hot_value": "276653播放",
+      "title": "精致女生赛道整出狠活！水下露营让人肃然起敬堪比行为艺术哈哈哈",
+      "url": "https://www.bilibili.com/video/BV1QTNR69ECB",
+      "hot_value": "1877439播放",
       "index": 24
     },
     {
-      "title": "这个小兵有力气",
-      "url": "https://www.bilibili.com/video/BV1moNX6kEnE",
-      "hot_value": "362625播放",
+      "title": "《最失败の高情商》",
+      "url": "https://www.bilibili.com/video/BV1WVNU64Eqq",
+      "hot_value": "3752102播放",
       "index": 25
+    },
+    {
+      "title": "带小猎豹自律的一天",
+      "url": "https://www.bilibili.com/video/BV1QTNR69Eak",
+      "hot_value": "1618421播放",
+      "index": 26
+    },
+    {
+      "title": "俄罗斯博主翻开中国历史课本，结果完全出乎意料！",
+      "url": "https://www.bilibili.com/video/BV19UNp6iEzA",
+      "hot_value": "1166086播放",
+      "index": 27
     },
     {
       "title": "【复制铜镜全系列合集】ai软件生成，剧情虚构，非官方）正片+番外+解说+彩蛋",
       "url": "https://www.bilibili.com/video/BV1NnNr6BEGR",
-      "hot_value": "7650276播放",
-      "index": 26
-    },
-    {
-      "title": "Bro有话说2",
-      "url": "https://www.bilibili.com/video/BV1vrNX6XEnK",
-      "hot_value": "1365098播放",
-      "index": 27
-    },
-    {
-      "title": "【狂怒】乌鲁鲁首款干员研究外观7月17日上线！",
-      "url": "https://www.bilibili.com/video/BV1RnNQ6EEKA",
-      "hot_value": "2823734播放",
+      "hot_value": "8040861播放",
       "index": 28
     },
     {
-      "title": "那还说啥了",
-      "url": "https://www.bilibili.com/video/BV1gxNb62Ecb",
-      "hot_value": "1896185播放",
+      "title": "探秘美国最老钱餐厅！世界杯期间，纽约有多贵？",
+      "url": "https://www.bilibili.com/video/BV1ATNY6LEMy",
+      "hot_value": "418454播放",
       "index": 29
     },
     {
-      "title": "这都能还原！！？【MC姬子篇】",
-      "url": "https://www.bilibili.com/video/BV1e4NY6aEAD",
-      "hot_value": "275699播放",
+      "title": "露思直播亏钱学，鹿晗霸榜热搜夜，三代又再次暴击时尚界",
+      "url": "https://www.bilibili.com/video/BV19aNq6CEbk",
+      "hot_value": "270523播放",
       "index": 30
     }
   ]
