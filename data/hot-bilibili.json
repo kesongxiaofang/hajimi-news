@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-15T21:31:39Z",
+  "update_time": "2026-07-16T06:36:40Z",
   "count": 30,
   "list": [
     {
+      "title": "《崩坏：星穹铁道》EP：「下一站」",
+      "url": "https://www.bilibili.com/video/BV1JqKM6rELh",
+      "hot_value": "403090播放",
+      "index": 1
+    },
+    {
+      "title": "《洛克王国：世界》远哥来了，福利稳了！",
+      "url": "https://www.bilibili.com/video/BV1KgNz6qEe4",
+      "hot_value": "1206074播放",
+      "index": 2
+    },
+    {
+      "title": "《梦战：剑之海》概念先导CG首曝丨一个新的兰古利萨时代，即将开启",
+      "url": "https://www.bilibili.com/video/BV1nhNC6zE1q",
+      "hot_value": "957899播放",
+      "index": 3
+    },
+    {
       "title": "路边摊吃盒饭 吃成摊主",
       "url": "https://www.bilibili.com/video/BV1XTNR69Etx",
-      "hot_value": "2540316播放",
-      "index": 1
+      "hot_value": "3453798播放",
+      "index": 4
     },
     {
       "title": "郝 哥 连 线 勇 哥",
       "url": "https://www.bilibili.com/video/BV1Y3Ne6hENH",
-      "hot_value": "4224292播放",
-      "index": 2
-    },
-    {
-      "title": "哭着剪完这条视频…",
-      "url": "https://www.bilibili.com/video/BV1rfNU6REhs",
-      "hot_value": "3346580播放",
-      "index": 3
-    },
-    {
-      "title": "耗时9999小时！一口气看完熊出没末路大合集！",
-      "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
-      "hot_value": "1974781播放",
-      "index": 4
-    },
-    {
-      "title": "搞强拆能惹多大祸？【奇葩小国53】",
-      "url": "https://www.bilibili.com/video/BV1xdNt6TEP3",
-      "hot_value": "1338791播放",
+      "hot_value": "5424211播放",
       "index": 5
+    },
+    {
+      "title": "我把你们奇怪的想法都做到了我的世界里#14",
+      "url": "https://www.bilibili.com/video/BV1oQNB6SEHv",
+      "hot_value": "584777播放",
+      "index": 6
+    },
+    {
+      "title": "寻找卢本伟",
+      "url": "https://www.bilibili.com/video/BV1oHNv6kEzB",
+      "hot_value": "644762播放",
+      "index": 7
+    },
+    {
+      "title": "侠隐柱间&水门PV丨英雄见英雄，侠路再相逢【内含侠隐水门爆料】",
+      "url": "https://www.bilibili.com/video/BV1uTNz6zEhw",
+      "hot_value": "694573播放",
+      "index": 8
+    },
+    {
+      "title": "《明日方舟：终末地》诀EP - 寻诀 (Guided by Echoes)",
+      "url": "https://www.bilibili.com/video/BV1fpK36mEqE",
+      "hot_value": "368185播放",
+      "index": 9
     },
     {
       "title": "我宁愿在这个世界里，永远做一个你“尚未到来”的传说",
       "url": "https://www.bilibili.com/video/BV1LeNt6HEBp",
-      "hot_value": "1298435播放",
-      "index": 6
-    },
-    {
-      "title": "我这视频看完没啥感觉，但是暖暖的！",
-      "url": "https://www.bilibili.com/video/BV1XENb6nEUh",
-      "hot_value": "1834271播放",
-      "index": 7
-    },
-    {
-      "title": "回 旋 彪",
-      "url": "https://www.bilibili.com/video/BV1kPNQ6FEEZ",
-      "hot_value": "2210619播放",
-      "index": 8
-    },
-    {
-      "title": "这下真的能住了哈",
-      "url": "https://www.bilibili.com/video/BV1PNNg6EEi9",
-      "hot_value": "2572721播放",
-      "index": 9
-    },
-    {
-      "title": "如何正确安慰兄弟",
-      "url": "https://www.bilibili.com/video/BV1gVN16fEs5",
-      "hot_value": "5443284播放",
+      "hot_value": "2395640播放",
       "index": 10
+    },
+    {
+      "title": "耗时9999小时！一口气看完熊出没末路大合集！",
+      "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
+      "hot_value": "2478679播放",
+      "index": 11
+    },
+    {
+      "title": "The Verity Cast Plays The REAL Verity Mod",
+      "url": "https://www.bilibili.com/video/BV1vRN66xE1W",
+      "hot_value": "379908播放",
+      "index": 12
+    },
+    {
+      "title": "《兄弟有个妹妹》3",
+      "url": "https://www.bilibili.com/video/BV1oxNq6mExB",
+      "hot_value": "1629738播放",
+      "index": 13
+    },
+    {
+      "title": "哭着剪完这条视频…",
+      "url": "https://www.bilibili.com/video/BV1rfNU6REhs",
+      "hot_value": "3940300播放",
+      "index": 14
     },
     {
       "title": "【幼稚园TV】建材王哥大闹天宫",
       "url": "https://www.bilibili.com/video/BV1uCNq6TEND",
-      "hot_value": "1087166播放",
-      "index": 11
-    },
-    {
-      "title": "\"自古英雄出少年.\"",
-      "url": "https://www.bilibili.com/video/BV133NC6pET2",
-      "hot_value": "2592047播放",
-      "index": 12
-    },
-    {
-      "title": "如果你可以随时缩小，十二星座决定你的专属休息小屋 （上） ASMR",
-      "url": "https://www.bilibili.com/video/BV1esN96WE7v",
-      "hot_value": "1655473播放",
-      "index": 13
-    },
-    {
-      "title": "直播间飙升10万+！大司马玩怀旧服老版AP塞恩，瞪谁谁怀孕来了",
-      "url": "https://www.bilibili.com/video/BV1TKNq6aEoZ",
-      "hot_value": "502252播放",
-      "index": 14
-    },
-    {
-      "title": "【复制铜镜全系列合集】ai软件生成，剧情虚构，非官方）正片+番外+解说+彩蛋",
-      "url": "https://www.bilibili.com/video/BV1NnNr6BEGR",
-      "hot_value": "8155984播放",
+      "hot_value": "1797388播放",
       "index": 15
+    },
+    {
+      "title": "这下真的能住了哈",
+      "url": "https://www.bilibili.com/video/BV1PNNg6EEi9",
+      "hot_value": "3881361播放",
+      "index": 16
+    },
+    {
+      "title": "特厨探店|小区和菜市场中间？很难不好吃的—老兵私房菜",
+      "url": "https://www.bilibili.com/video/BV1xWKM6nEU7",
+      "hot_value": "251965播放",
+      "index": 17
+    },
+    {
+      "title": "搞强拆能惹多大祸？【奇葩小国53】",
+      "url": "https://www.bilibili.com/video/BV1xdNt6TEP3",
+      "hot_value": "1760451播放",
+      "index": 18
+    },
+    {
+      "title": "BW一日约会VLOG~",
+      "url": "https://www.bilibili.com/video/BV1qtNq6LEuA",
+      "hot_value": "370503播放",
+      "index": 19
+    },
+    {
+      "title": "这是三角洲最强干员，你敢和他们对视3秒吗？",
+      "url": "https://www.bilibili.com/video/BV1zuNb6tEVE",
+      "hot_value": "1679967播放",
+      "index": 20
+    },
+    {
+      "title": "打工人怨气最大的一集",
+      "url": "https://www.bilibili.com/video/BV1h3Ne6hEDH",
+      "hot_value": "1787748播放",
+      "index": 21
+    },
+    {
+      "title": "这都能还原！！？【MC姬子篇】",
+      "url": "https://www.bilibili.com/video/BV1e4NY6aEAD",
+      "hot_value": "740111播放",
+      "index": 22
+    },
+    {
+      "title": "吃肉容易早衰，喝米油不哭不闹？",
+      "url": "https://www.bilibili.com/video/BV1WeNi6WEpZ",
+      "hot_value": "355198播放",
+      "index": 23
     },
     {
       "title": "烧一桌中式家常菜，款待十年没见的法国老友！",
       "url": "https://www.bilibili.com/video/BV1SSNX67E8P",
-      "hot_value": "1220912播放",
-      "index": 16
-    },
-    {
-      "title": "日服堵桥被全图围剿！鲁鲁正义の制裁",
-      "url": "https://www.bilibili.com/video/BV12vNb6zE7w",
-      "hot_value": "1863039播放",
-      "index": 17
-    },
-    {
-      "title": "带小猎豹自律的一天",
-      "url": "https://www.bilibili.com/video/BV1QTNR69Eak",
-      "hot_value": "1851551播放",
-      "index": 18
-    },
-    {
-      "title": "破冰挑战！3小时摆摊PK，赚得多的获胜！！",
-      "url": "https://www.bilibili.com/video/BV1j2Ni6LEkW",
-      "hot_value": "945087播放",
-      "index": 19
-    },
-    {
-      "title": "《追上我命都给你哦》",
-      "url": "https://www.bilibili.com/video/BV1ivN86bEtH",
-      "hot_value": "1287209播放",
-      "index": 20
-    },
-    {
-      "title": "“ 网 咖 四 区 兄 弟 ”",
-      "url": "https://www.bilibili.com/video/BV1SGNR6nEhF",
-      "hot_value": "1093284播放",
-      "index": 21
-    },
-    {
-      "title": "上集| 丧尸末日降临 而我还在送外卖",
-      "url": "https://www.bilibili.com/video/BV19BNN6JEcd",
-      "hot_value": "1731182播放",
-      "index": 22
-    },
-    {
-      "title": "怀旧服冥火狐狸秒人，大司马这也太丝滑了，22杀吓哭现场观众",
-      "url": "https://www.bilibili.com/video/BV1GoNi6BEne",
-      "hot_value": "399704播放",
-      "index": 23
-    },
-    {
-      "title": "Bro有话说2",
-      "url": "https://www.bilibili.com/video/BV1vrNX6XEnK",
-      "hot_value": "1532715播放",
+      "hot_value": "1600508播放",
       "index": 24
     },
     {
-      "title": "我放弃ASMR的原因",
-      "url": "https://www.bilibili.com/video/BV1mhNb6GEPt",
-      "hot_value": "1170640播放",
+      "title": "09年高中生带全家勇闯北京",
+      "url": "https://www.bilibili.com/video/BV1UtNb65EUd",
+      "hot_value": "1762286播放",
       "index": 25
     },
     {
-      "title": "精致女生赛道整出狠活！水下露营让人肃然起敬堪比行为艺术哈哈哈",
-      "url": "https://www.bilibili.com/video/BV1QTNR69ECB",
-      "hot_value": "2001227播放",
+      "title": "直播间飙升10万+！大司马玩怀旧服老版AP塞恩，瞪谁谁怀孕来了",
+      "url": "https://www.bilibili.com/video/BV1TKNq6aEoZ",
+      "hot_value": "939766播放",
       "index": 26
     },
     {
-      "title": "挑战您说我像谁我就模仿谁！第五期！这期更是很难绷！",
-      "url": "https://www.bilibili.com/video/BV1K9Nt6BEmM",
-      "hot_value": "1617388播放",
+      "title": "回 旋 彪",
+      "url": "https://www.bilibili.com/video/BV1kPNQ6FEEZ",
+      "hot_value": "2460257播放",
       "index": 27
     },
     {
-      "title": "足坛真神TOP：姆巴佩！离开世界杯！如果最高战力，为何不能天下第一！？",
-      "url": "https://www.bilibili.com/video/BV1t7Ne64EZP",
-      "hot_value": "1605470播放",
+      "title": "今天不讲教学 想跟兄弟们聊聊",
+      "url": "https://www.bilibili.com/video/BV11uNq68E5J",
+      "hot_value": "476422播放",
       "index": 28
     },
     {
-      "title": "新三国up锐评神探狄仁杰06：你叫什么名字，做何营生，到幽州何干？",
-      "url": "https://www.bilibili.com/video/BV18KN86EEKG",
-      "hot_value": "504985播放",
+      "title": "如何正确安慰兄弟",
+      "url": "https://www.bilibili.com/video/BV1gVN16fEs5",
+      "hot_value": "5877337播放",
       "index": 29
     },
     {
-      "title": "陈翔六点半：突然大方的兄弟",
-      "url": "https://www.bilibili.com/video/BV1WFNb6eE4X",
-      "hot_value": "1900492播放",
+      "title": "世界杯半决赛阿根廷2比1英格兰赛后复盘，其实我脾气本来挺好的",
+      "url": "https://www.bilibili.com/video/BV1NKKu6QETF",
+      "hot_value": "242188播放",
       "index": 30
     }
   ]
