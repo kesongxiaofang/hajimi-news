@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-16T12:10:21Z",
+  "update_time": "2026-07-16T16:52:01Z",
   "count": 30,
   "list": [
     {
       "title": "寻找卢本伟",
       "url": "https://www.bilibili.com/video/BV1oHNv6kEzB",
-      "hot_value": "2541035播放",
+      "hot_value": "3997651播放",
       "index": 1
     },
     {
       "title": "魔怔萌二和暴躁粗鲁女的相亲历险记",
       "url": "https://www.bilibili.com/video/BV1BCNi67EVM",
-      "hot_value": "1523433播放",
+      "hot_value": "2837915播放",
       "index": 2
     },
     {
-      "title": "侠隐柱间&水门PV丨英雄见英雄，侠路再相逢【内含侠隐水门爆料】",
-      "url": "https://www.bilibili.com/video/BV1uTNz6zEhw",
-      "hot_value": "1405085播放",
+      "title": "我把你们奇怪的想法都做到了我的世界里#14",
+      "url": "https://www.bilibili.com/video/BV1oQNB6SEHv",
+      "hot_value": "1802067播放",
       "index": 3
     },
     {
       "title": "【独家】《将夜》第14集 努力读书【4月国创】",
       "url": "https://www.bilibili.com/video/BV1SyNz6VEy7",
-      "hot_value": "557442播放",
+      "hot_value": "691649播放",
       "index": 4
-    },
-    {
-      "title": "《梦战：剑之海》概念先导CG首曝丨一个新的兰古利萨时代，即将开启",
-      "url": "https://www.bilibili.com/video/BV1nhNC6zE1q",
-      "hot_value": "1256611播放",
-      "index": 5
     },
     {
       "title": "路边摊吃盒饭 吃成摊主",
       "url": "https://www.bilibili.com/video/BV1XTNR69Etx",
-      "hot_value": "3945963播放",
-      "index": 6
-    },
-    {
-      "title": "《崩坏：星穹铁道》EP：「下一站」",
-      "url": "https://www.bilibili.com/video/BV1JqKM6rELh",
-      "hot_value": "771227播放",
-      "index": 7
-    },
-    {
-      "title": "我把你们奇怪的想法都做到了我的世界里#14",
-      "url": "https://www.bilibili.com/video/BV1oQNB6SEHv",
-      "hot_value": "1256499播放",
-      "index": 8
-    },
-    {
-      "title": "《洛克王国：世界》远哥来了，福利稳了！",
-      "url": "https://www.bilibili.com/video/BV1KgNz6qEe4",
-      "hot_value": "2030761播放",
-      "index": 9
+      "hot_value": "4286031播放",
+      "index": 5
     },
     {
       "title": "《阴阳师》不相狐禅CG丨洪狐天运（CV：立花慎之介）",
       "url": "https://www.bilibili.com/video/BV1aPKV6zEEV",
-      "hot_value": "332320播放",
-      "index": 10
+      "hot_value": "913481播放",
+      "index": 6
+    },
+    {
+      "title": "想唱歌，先整活！鬼畜瑰宝《中国梦之声》名场面大盘点~",
+      "url": "https://www.bilibili.com/video/BV1YFKV6GE9Q",
+      "hot_value": "283258播放",
+      "index": 7
+    },
+    {
+      "title": "《崩坏：星穹铁道》EP：「下一站」",
+      "url": "https://www.bilibili.com/video/BV1JqKM6rELh",
+      "hot_value": "978920播放",
+      "index": 8
     },
     {
       "title": "耗时9999小时！一口气看完熊出没末路大合集！",
       "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
-      "hot_value": "3359906播放",
-      "index": 11
+      "hot_value": "3698170播放",
+      "index": 9
     },
     {
       "title": "郝 哥 连 线 勇 哥",
       "url": "https://www.bilibili.com/video/BV1Y3Ne6hENH",
-      "hot_value": "5925309播放",
-      "index": 12
+      "hot_value": "6179761播放",
+      "index": 10
     },
     {
-      "title": "原摄玩家镜头下，你未曾见过的桑多涅......",
-      "url": "https://www.bilibili.com/video/BV1tbNB6vEh4",
-      "hot_value": "661171播放",
-      "index": 13
-    },
-    {
-      "title": "百万英镑，但是过于嚣张",
-      "url": "https://www.bilibili.com/video/BV1RhNq65EEj",
-      "hot_value": "467228播放",
-      "index": 14
+      "title": "bw唯一的独手薇尔莉特",
+      "url": "https://www.bilibili.com/video/BV1TMNq6cEHb",
+      "hot_value": "1561089播放",
+      "index": 11
     },
     {
       "title": "我宁愿在这个世界里，永远做一个你“尚未到来”的传说",
       "url": "https://www.bilibili.com/video/BV1LeNt6HEBp",
-      "hot_value": "2886706播放",
-      "index": 15
+      "hot_value": "3164068播放",
+      "index": 12
     },
     {
       "title": "The Verity Cast Plays The REAL Verity Mod",
       "url": "https://www.bilibili.com/video/BV1vRN66xE1W",
-      "hot_value": "753989播放",
+      "hot_value": "929177播放",
+      "index": 13
+    },
+    {
+      "title": "他们说学校里有一个很装的人",
+      "url": "https://www.bilibili.com/video/BV1sbKg6REpY",
+      "hot_value": "664822播放",
+      "index": 14
+    },
+    {
+      "title": "这个小兵有力气",
+      "url": "https://www.bilibili.com/video/BV1moNX6kEnE",
+      "hot_value": "1042899播放",
+      "index": 15
+    },
+    {
+      "title": "原摄玩家镜头下，你未曾见过的桑多涅......",
+      "url": "https://www.bilibili.com/video/BV1tbNB6vEh4",
+      "hot_value": "899539播放",
       "index": 16
     },
     {
-      "title": "世 纪 辐 射【上】",
-      "url": "https://www.bilibili.com/video/BV1btKG6PEKU",
-      "hot_value": "111665播放",
+      "title": "《洛克王国：世界》远哥来了，福利稳了！",
+      "url": "https://www.bilibili.com/video/BV1KgNz6qEe4",
+      "hot_value": "2417234播放",
       "index": 17
-    },
-    {
-      "title": "吃肉容易早衰，喝米油不哭不闹？",
-      "url": "https://www.bilibili.com/video/BV1WeNi6WEpZ",
-      "hot_value": "790274播放",
-      "index": 18
     },
     {
       "title": "哭着剪完这条视频…",
       "url": "https://www.bilibili.com/video/BV1rfNU6REhs",
-      "hot_value": "4280631播放",
+      "hot_value": "4486409播放",
+      "index": 18
+    },
+    {
+      "title": "摊牌吧，你家里有矿！",
+      "url": "https://www.bilibili.com/video/BV1jhK36VEG2",
+      "hot_value": "570520播放",
       "index": 19
-    },
-    {
-      "title": "小倩回来了——22年后，在《天下》里",
-      "url": "https://www.bilibili.com/video/BV1bTNz6zEMT",
-      "hot_value": "967928播放",
-      "index": 20
-    },
-    {
-      "title": "《兄弟有个妹妹》3",
-      "url": "https://www.bilibili.com/video/BV1oxNq6mExB",
-      "hot_value": "2475817播放",
-      "index": 21
-    },
-    {
-      "title": "特厨探店|小区和菜市场中间？很难不好吃的—老兵私房菜",
-      "url": "https://www.bilibili.com/video/BV1xWKM6nEU7",
-      "hot_value": "571528播放",
-      "index": 22
-    },
-    {
-      "title": "软烂脱骨嫩到离谱的美式烤肉",
-      "url": "https://www.bilibili.com/video/BV111NY6EEg8",
-      "hot_value": "872073播放",
-      "index": 23
     },
     {
       "title": "矿石战争重制版一口气看完大合集",
       "url": "https://www.bilibili.com/video/BV1KZNT6LEGn",
-      "hot_value": "5096122播放",
+      "hot_value": "5462479播放",
+      "index": 20
+    },
+    {
+      "title": "小倩回来了——22年后，在《天下》里",
+      "url": "https://www.bilibili.com/video/BV1bTNz6zEMT",
+      "hot_value": "1465077播放",
+      "index": 21
+    },
+    {
+      "title": "万万没想到",
+      "url": "https://www.bilibili.com/video/BV1wwNQ6aEEw",
+      "hot_value": "2380053播放",
+      "index": 22
+    },
+    {
+      "title": "吃肉容易早衰，喝米油不哭不闹？",
+      "url": "https://www.bilibili.com/video/BV1WeNi6WEpZ",
+      "hot_value": "1058039播放",
+      "index": 23
+    },
+    {
+      "title": "“新人看不懂鬼畜区的遗憾”",
+      "url": "https://www.bilibili.com/video/BV1otK365Evg",
+      "hot_value": "210594播放",
       "index": 24
     },
     {
-      "title": "【幼稚园TV】建材王哥大闹天宫",
-      "url": "https://www.bilibili.com/video/BV1uCNq6TEND",
-      "hot_value": "2068147播放",
+      "title": "【TF家族练习生】《全世界陪我出发》练习室版",
+      "url": "https://www.bilibili.com/video/BV1XqK36uEvp",
+      "hot_value": "290669播放",
       "index": 25
     },
     {
-      "title": "这下真的能住了哈",
-      "url": "https://www.bilibili.com/video/BV1PNNg6EEi9",
-      "hot_value": "4485015播放",
+      "title": "世 纪 辐 射【上】",
+      "url": "https://www.bilibili.com/video/BV1btKG6PEKU",
+      "hot_value": "294032播放",
       "index": 26
     },
     {
-      "title": "⚡️来个耄耋叫一叫⚡️～",
-      "url": "https://www.bilibili.com/video/BV1Y9Ni66EJA",
-      "hot_value": "907520播放",
+      "title": "关于世界杯还没聊完的那些—up主加更版",
+      "url": "https://www.bilibili.com/video/BV11QK36ZEz6",
+      "hot_value": "263131播放",
       "index": 27
     },
     {
-      "title": "不要眨眼！黄色的蜂蜜倒进碗里，竟然变绿了？？",
-      "url": "https://www.bilibili.com/video/BV1RaNq6CE1a",
-      "hot_value": "414432播放",
+      "title": "回 旋 彪",
+      "url": "https://www.bilibili.com/video/BV1kPNQ6FEEZ",
+      "hot_value": "2753711播放",
       "index": 28
     },
     {
-      "title": "《无限暖暖》× 敖定雯｜长夜尽处，逐光而舞",
-      "url": "https://www.bilibili.com/video/BV1dhK36GEFX",
-      "hot_value": "443384播放",
+      "title": "百万英镑，但是过于嚣张",
+      "url": "https://www.bilibili.com/video/BV1RhNq65EEj",
+      "hot_value": "700606播放",
       "index": 29
     },
     {
-      "title": "搞强拆能惹多大祸？【奇葩小国53】",
-      "url": "https://www.bilibili.com/video/BV1xdNt6TEP3",
-      "hot_value": "1915630播放",
+      "title": "「BanG Dream! YUME∞MITA」#5",
+      "url": "https://www.bilibili.com/video/BV1yhM36FEYF",
+      "hot_value": "79615播放",
       "index": 30
     }
   ]
