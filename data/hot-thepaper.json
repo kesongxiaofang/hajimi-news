@@ -1,36 +1,36 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-07-17T12:03:14Z",
+  "update_time": "2026-07-17T16:42:36Z",
   "count": 20,
   "list": [
     {
-      "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33600950",
+      "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33604314",
       "hot_value": "",
       "index": 1
+    },
+    {
+      "title": "习近平宣布中国支持全球人工智能发展重大举措",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33604109",
+      "hot_value": "",
+      "index": 2
     },
     {
       "title": "英国政府宣布将中国企业旗下英国钢铁公司国有化，商务部回应",
       "url": "https://www.thepaper.cn/newsDetail_forward_33603376",
       "hot_value": "",
-      "index": 2
-    },
-    {
-      "title": "国台办：赖清德当局编造所谓“风险”目的是恐吓台湾民众",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33599648",
-      "hot_value": "",
       "index": 3
-    },
-    {
-      "title": "沈阳音乐学院林大公、白丽萍教授夫妇，突发事故同时罹难",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33598748",
-      "hot_value": "",
-      "index": 4
     },
     {
       "title": "河南漯河处置“NFC果汁系勾兑”：对2家企业立案，对其余3家深入调查",
       "url": "https://www.thepaper.cn/newsDetail_forward_33602053",
+      "hot_value": "",
+      "index": 4
+    },
+    {
+      "title": "美国不再延续涉港国家紧急状态，商务部回应",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33607609",
       "hot_value": "",
       "index": 5
     },
@@ -41,86 +41,86 @@
       "index": 6
     },
     {
-      "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33577939",
-      "hot_value": "",
-      "index": 7
-    },
-    {
       "title": "马上评｜NFC果汁是勾兑的？别等媒体曝光后才整治",
       "url": "https://www.thepaper.cn/newsDetail_forward_33603950",
       "hot_value": "",
-      "index": 8
+      "index": 7
     },
     {
       "title": "重庆彭水山体崩塌现场已搜救出8名被困者，被埋人数待核实",
       "url": "https://www.thepaper.cn/newsDetail_forward_33604191",
       "hot_value": "",
-      "index": 9
+      "index": 8
     },
     {
       "title": "大瓦特·让每一度电都有AI",
       "url": "https://www.thepaper.cn/newsDetail_forward_33604737",
       "hot_value": "",
-      "index": 10
+      "index": 9
     },
     {
       "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
       "url": "https://www.thepaper.cn/newsDetail_forward_33603374",
       "hot_value": "",
-      "index": 11
+      "index": 10
     },
     {
       "title": "美总统称“中国干预了2020年总统选举”，外交部：无中生有",
       "url": "https://www.thepaper.cn/newsDetail_forward_33604979",
       "hot_value": "",
-      "index": 12
-    },
-    {
-      "title": "夜读｜你怎能不爱足球？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33581729",
-      "hot_value": "",
-      "index": 13
-    },
-    {
-      "title": "30家科创板公司中报预喜：22家净利润增长，6家扭亏为盈",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33600948",
-      "hot_value": "",
-      "index": 14
-    },
-    {
-      "title": "玉渊谭天丨中国AI的发展逻辑",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33601397",
-      "hot_value": "",
-      "index": 15
+      "index": 11
     },
     {
       "title": "视频丨重庆彭水乌江三桥附近发生山体垮塌：多栋民房受损，有人员被埋",
       "url": "https://www.thepaper.cn/newsDetail_forward_33603695",
       "hot_value": "",
+      "index": 12
+    },
+    {
+      "title": "AI，刻在Shanghai的名字里",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33593577",
+      "hot_value": "",
+      "index": 13
+    },
+    {
+      "title": "头条世界杯｜世界杯又出赚钱新招，引入冠军戒指并向球迷出售",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33603005",
+      "hot_value": "",
+      "index": 14
+    },
+    {
+      "title": "应急管理部部长率工作组赶赴重庆彭水山体垮塌现场",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33604329",
+      "hot_value": "",
+      "index": 15
+    },
+    {
+      "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33603681",
+      "hot_value": "",
       "index": 16
     },
     {
-      "title": "中东烽火重燃原油反弹，国内油价今晚上调",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33605034",
+      "title": "《功夫女足》破10亿，星爷说厉害的不是他是观众",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33603800",
       "hot_value": "",
       "index": 17
     },
     {
-      "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33600947",
+      "title": "铁路部门试点提前60天预约购票服务",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33603794",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "福建晋江池店镇一废品收购站起火，无人员被困或受伤",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33600363",
+      "title": "4天股价涨28%，智度股份：不存在应披露而未披露的重大事项，不存在处于筹划阶段的重大事项",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33603924",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "疑似AI篡改照片参加摄影赛被撤销入围奖，主办方：永久取消作者参赛资格",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33598809",
+      "title": "重庆彭水山体崩塌已救出9人，均暂无生命危险",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33604561",
       "hot_value": "",
       "index": 20
     }
