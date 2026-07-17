@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-07-17T20:16:18Z",
+  "update_time": "2026-07-17T23:32:38Z",
   "count": 30,
   "list": [
     {
-      "title": "在周五开启吃吃吃模式",
-      "url": "https://www.douyin.com/search/%E5%9C%A8%E5%91%A8%E4%BA%94%E5%BC%80%E5%90%AF%E5%90%83%E5%90%83%E5%90%83%E6%A8%A1%E5%BC%8F?type=general",
-      "hot_value": "12099825",
+      "title": "重庆彭水山体崩塌已致8死34失联",
+      "url": "https://www.douyin.com/search/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E6%AD%BB34%E5%A4%B1%E8%81%94?type=general",
+      "hot_value": "12097789",
       "index": 1
     },
     {
-      "title": "重庆彭水山体崩塌已致8死34失联",
-      "url": "https://www.douyin.com/search/%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E6%AD%BB34%E5%A4%B1%E8%81%94?type=general",
-      "hot_value": "11648388",
+      "title": "第一眼直觉点评穿搭",
+      "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E7%9C%BC%E7%9B%B4%E8%A7%89%E7%82%B9%E8%AF%84%E7%A9%BF%E6%90%AD?type=general",
+      "hot_value": "12097034",
       "index": 2
     },
     {
       "title": "2026世界人工智能大会亮点速览",
       "url": "https://www.douyin.com/search/2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BA%AE%E7%82%B9%E9%80%9F%E8%A7%88?type=general",
-      "hot_value": "11328486",
+      "hot_value": "11731189",
       "index": 3
     },
     {
       "title": "驻美使馆再发提醒",
       "url": "https://www.douyin.com/search/%E9%A9%BB%E7%BE%8E%E4%BD%BF%E9%A6%86%E5%86%8D%E5%8F%91%E6%8F%90%E9%86%92?type=general",
-      "hot_value": "11084930",
+      "hot_value": "11537091",
       "index": 4
     },
     {
-      "title": "第一眼直觉点评穿搭",
-      "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E7%9C%BC%E7%9B%B4%E8%A7%89%E7%82%B9%E8%AF%84%E7%A9%BF%E6%90%AD?type=general",
-      "hot_value": "10503582",
+      "title": "在周五开启吃吃吃模式",
+      "url": "https://www.douyin.com/search/%E5%9C%A8%E5%91%A8%E4%BA%94%E5%BC%80%E5%90%AF%E5%90%83%E5%90%83%E5%90%83%E6%A8%A1%E5%BC%8F?type=general",
+      "hot_value": "10378443",
       "index": 5
     },
     {
       "title": "人生要多一些支点",
       "url": "https://www.douyin.com/search/%E4%BA%BA%E7%94%9F%E8%A6%81%E5%A4%9A%E4%B8%80%E4%BA%9B%E6%94%AF%E7%82%B9?type=general",
-      "hot_value": "10484230",
+      "hot_value": "10249873",
       "index": 6
+    },
+    {
+      "title": "网友亲历重庆彭水山体崩塌",
+      "url": "https://www.douyin.com/search/%E7%BD%91%E5%8F%8B%E4%BA%B2%E5%8E%86%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C?type=general",
+      "hot_value": "9129825",
+      "index": 7
+    },
+    {
+      "title": "沧元图孟川十字神尊相登场",
+      "url": "https://www.douyin.com/search/%E6%B2%A7%E5%85%83%E5%9B%BE%E5%AD%9F%E5%B7%9D%E5%8D%81%E5%AD%97%E7%A5%9E%E5%B0%8A%E7%9B%B8%E7%99%BB%E5%9C%BA?type=general",
+      "hot_value": "9074474",
+      "index": 8
     },
     {
       "title": "慢充才是旅行最佳打开方式",
       "url": "https://www.douyin.com/search/%E6%85%A2%E5%85%85%E6%89%8D%E6%98%AF%E6%97%85%E8%A1%8C%E6%9C%80%E4%BD%B3%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F?type=general",
-      "hot_value": "9200512",
-      "index": 7
+      "hot_value": "8544352",
+      "index": 9
     },
     {
       "title": "复刻煎蟹女王翡翠炒蟹肉",
       "url": "https://www.douyin.com/search/%E5%A4%8D%E5%88%BB%E7%85%8E%E8%9F%B9%E5%A5%B3%E7%8E%8B%E7%BF%A1%E7%BF%A0%E7%82%92%E8%9F%B9%E8%82%89?type=general",
-      "hot_value": "9174229",
-      "index": 8
-    },
-    {
-      "title": "百分大战杰伦格林vs陈泽文",
-      "url": "https://www.douyin.com/search/%E7%99%BE%E5%88%86%E5%A4%A7%E6%88%98%E6%9D%B0%E4%BC%A6%E6%A0%BC%E6%9E%97vs%E9%99%88%E6%B3%BD%E6%96%87?type=general",
-      "hot_value": "9123572",
-      "index": 9
-    },
-    {
-      "title": "字母哥加盟热火身披7号球衣",
-      "url": "https://www.douyin.com/search/%E5%AD%97%E6%AF%8D%E5%93%A5%E5%8A%A0%E7%9B%9F%E7%83%AD%E7%81%AB%E8%BA%AB%E6%8A%AB7%E5%8F%B7%E7%90%83%E8%A1%A3?type=general",
-      "hot_value": "8924820",
+      "hot_value": "7746634",
       "index": 10
     },
     {
       "title": "萧华：联盟在等詹姆斯做决定",
       "url": "https://www.douyin.com/search/%E8%90%A7%E5%8D%8E%EF%BC%9A%E8%81%94%E7%9B%9F%E5%9C%A8%E7%AD%89%E8%A9%B9%E5%A7%86%E6%96%AF%E5%81%9A%E5%86%B3%E5%AE%9A?type=general",
-      "hot_value": "8528268",
+      "hot_value": "7745774",
       "index": 11
     },
     {
-      "title": "伯纳姆当选英国工党党首 将接任首相",
-      "url": "https://www.douyin.com/search/%E4%BC%AF%E7%BA%B3%E5%A7%86%E5%BD%93%E9%80%89%E8%8B%B1%E5%9B%BD%E5%B7%A5%E5%85%9A%E5%85%9A%E9%A6%96%20%E5%B0%86%E6%8E%A5%E4%BB%BB%E9%A6%96%E7%9B%B8?type=general",
-      "hot_value": "8440007",
+      "title": "字母哥加盟热火身披7号球衣",
+      "url": "https://www.douyin.com/search/%E5%AD%97%E6%AF%8D%E5%93%A5%E5%8A%A0%E7%9B%9F%E7%83%AD%E7%81%AB%E8%BA%AB%E6%8A%AB7%E5%8F%B7%E7%90%83%E8%A1%A3?type=general",
+      "hot_value": "7744062",
       "index": 12
     },
     {
-      "title": "中超云南玉昆2:2上海海港",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E4%BA%91%E5%8D%97%E7%8E%89%E6%98%862%3A2%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF?type=general",
-      "hot_value": "8418859",
+      "title": "SpaceX星舰第13次试飞临时中止",
+      "url": "https://www.douyin.com/search/SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC13%E6%AC%A1%E8%AF%95%E9%A3%9E%E4%B8%B4%E6%97%B6%E4%B8%AD%E6%AD%A2?type=general",
+      "hot_value": "7724989",
       "index": 13
     },
     {
       "title": "气象台不敢报40℃是谣言",
       "url": "https://www.douyin.com/search/%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%8D%E6%95%A2%E6%8A%A540%E2%84%83%E6%98%AF%E8%B0%A3%E8%A8%80?type=general",
-      "hot_value": "8347426",
+      "hot_value": "7704900",
       "index": 14
     },
     {
-      "title": "网友亲历重庆彭水山体崩塌",
-      "url": "https://www.douyin.com/search/%E7%BD%91%E5%8F%8B%E4%BA%B2%E5%8E%86%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C?type=general",
-      "hot_value": "8080150",
+      "title": "拖鞋舞王争霸赛",
+      "url": "https://www.douyin.com/search/%E6%8B%96%E9%9E%8B%E8%88%9E%E7%8E%8B%E4%BA%89%E9%9C%B8%E8%B5%9B?type=general",
+      "hot_value": "7699969",
       "index": 15
     },
     {
-      "title": "说唱巅峰名人堂争夺抢先看",
-      "url": "https://www.douyin.com/search/%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%90%8D%E4%BA%BA%E5%A0%82%E4%BA%89%E5%A4%BA%E6%8A%A2%E5%85%88%E7%9C%8B?type=general",
-      "hot_value": "7897905",
+      "title": "海可枯石可烂 我们肩并肩手牵手",
+      "url": "https://www.douyin.com/search/%E6%B5%B7%E5%8F%AF%E6%9E%AF%E7%9F%B3%E5%8F%AF%E7%83%82%20%E6%88%91%E4%BB%AC%E8%82%A9%E5%B9%B6%E8%82%A9%E6%89%8B%E7%89%B5%E6%89%8B?type=general",
+      "hot_value": "7698609",
       "index": 16
     },
     {
       "title": "王力宏长沙演唱会",
       "url": "https://www.douyin.com/search/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "7769844",
+      "hot_value": "7692488",
       "index": 17
     },
     {
-      "title": "美银警告：黄金恐跌向3315美元",
-      "url": "https://www.douyin.com/search/%E7%BE%8E%E9%93%B6%E8%AD%A6%E5%91%8A%EF%BC%9A%E9%BB%84%E9%87%91%E6%81%90%E8%B7%8C%E5%90%913315%E7%BE%8E%E5%85%83?type=general",
-      "hot_value": "7765685",
+      "title": "百分大战杰伦格林vs陈泽文",
+      "url": "https://www.douyin.com/search/%E7%99%BE%E5%88%86%E5%A4%A7%E6%88%98%E6%9D%B0%E4%BC%A6%E6%A0%BC%E6%9E%97vs%E9%99%88%E6%B3%BD%E6%96%87?type=general",
+      "hot_value": "7692412",
       "index": 18
+    },
+    {
+      "title": "说唱巅峰名人堂争夺抢先看",
+      "url": "https://www.douyin.com/search/%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%90%8D%E4%BA%BA%E5%A0%82%E4%BA%89%E5%A4%BA%E6%8A%A2%E5%85%88%E7%9C%8B?type=general",
+      "hot_value": "7689518",
+      "index": 19
     },
     {
       "title": "功夫女足票房破10亿",
       "url": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%A0%B410%E4%BA%BF?type=general",
-      "hot_value": "7751019",
-      "index": 19
-    },
-    {
-      "title": "单依纯上海演唱会",
-      "url": "https://www.douyin.com/search/%E5%8D%95%E4%BE%9D%E7%BA%AF%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "7750702",
+      "hot_value": "7679143",
       "index": 20
     },
     {
       "title": "谁才是真正的灭蚊王者",
       "url": "https://www.douyin.com/search/%E8%B0%81%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%81%AD%E8%9A%8A%E7%8E%8B%E8%80%85?type=general",
-      "hot_value": "7740818",
+      "hot_value": "7675223",
       "index": 21
     },
     {
       "title": "黄霄雲刘端端合唱空心",
       "url": "https://www.douyin.com/search/%E9%BB%84%E9%9C%84%E9%9B%B2%E5%88%98%E7%AB%AF%E7%AB%AF%E5%90%88%E5%94%B1%E7%A9%BA%E5%BF%83?type=general",
-      "hot_value": "7732963",
+      "hot_value": "7674650",
       "index": 22
     },
     {
-      "title": "光遇梵高季上线",
-      "url": "https://www.douyin.com/search/%E5%85%89%E9%81%87%E6%A2%B5%E9%AB%98%E5%AD%A3%E4%B8%8A%E7%BA%BF?type=general",
-      "hot_value": "7731114",
+      "title": "单依纯上海演唱会",
+      "url": "https://www.douyin.com/search/%E5%8D%95%E4%BE%9D%E7%BA%AF%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "7673592",
       "index": 23
-    },
-    {
-      "title": "火影柱间水门英雄见英雄",
-      "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%9F%B1%E9%97%B4%E6%B0%B4%E9%97%A8%E8%8B%B1%E9%9B%84%E8%A7%81%E8%8B%B1%E9%9B%84?type=general",
-      "hot_value": "7729390",
-      "index": 24
     },
     {
       "title": "洛克王国S3赛季攻略",
       "url": "https://www.douyin.com/search/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BDS3%E8%B5%9B%E5%AD%A3%E6%94%BB%E7%95%A5?type=general",
-      "hot_value": "7728456",
-      "index": 25
-    },
-    {
-      "title": "第五人格coser大巡游",
-      "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCcoser%E5%A4%A7%E5%B7%A1%E6%B8%B8?type=general",
-      "hot_value": "7725785",
-      "index": 26
-    },
-    {
-      "title": "沧元图孟川十字神尊相登场",
-      "url": "https://www.douyin.com/search/%E6%B2%A7%E5%85%83%E5%9B%BE%E5%AD%9F%E5%B7%9D%E5%8D%81%E5%AD%97%E7%A5%9E%E5%B0%8A%E7%9B%B8%E7%99%BB%E5%9C%BA?type=general",
-      "hot_value": "7722769",
-      "index": 27
-    },
-    {
-      "title": "聊聊看完功夫女足的真实感受",
-      "url": "https://www.douyin.com/search/%E8%81%8A%E8%81%8A%E7%9C%8B%E5%AE%8C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%84%9F%E5%8F%97?type=general",
-      "hot_value": "7722106",
-      "index": 28
+      "hot_value": "7670825",
+      "index": 24
     },
     {
       "title": "跟着抖音网友吃一天",
       "url": "https://www.douyin.com/search/%E8%B7%9F%E7%9D%80%E6%8A%96%E9%9F%B3%E7%BD%91%E5%8F%8B%E5%90%83%E4%B8%80%E5%A4%A9?type=general",
-      "hot_value": "7720388",
+      "hot_value": "7664277",
+      "index": 25
+    },
+    {
+      "title": "房岩谈和周星驰合作",
+      "url": "https://www.douyin.com/search/%E6%88%BF%E5%B2%A9%E8%B0%88%E5%92%8C%E5%91%A8%E6%98%9F%E9%A9%B0%E5%90%88%E4%BD%9C?type=general",
+      "hot_value": "7661625",
+      "index": 26
+    },
+    {
+      "title": "妈妈：这五星好评是我家儿子吗",
+      "url": "https://www.douyin.com/search/%E5%A6%88%E5%A6%88%EF%BC%9A%E8%BF%99%E4%BA%94%E6%98%9F%E5%A5%BD%E8%AF%84%E6%98%AF%E6%88%91%E5%AE%B6%E5%84%BF%E5%AD%90%E5%90%97?type=general",
+      "hot_value": "7659843",
+      "index": 27
+    },
+    {
+      "title": "轻松拥有韩系女团脸",
+      "url": "https://www.douyin.com/search/%E8%BD%BB%E6%9D%BE%E6%8B%A5%E6%9C%89%E9%9F%A9%E7%B3%BB%E5%A5%B3%E5%9B%A2%E8%84%B8?type=general",
+      "hot_value": "7656547",
+      "index": 28
+    },
+    {
+      "title": "火影柱间水门英雄见英雄",
+      "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%9F%B1%E9%97%B4%E6%B0%B4%E9%97%A8%E8%8B%B1%E9%9B%84%E8%A7%81%E8%8B%B1%E9%9B%84?type=general",
+      "hot_value": "7655885",
       "index": 29
     },
     {
-      "title": "海可枯石可烂 我们肩并肩手牵手",
-      "url": "https://www.douyin.com/search/%E6%B5%B7%E5%8F%AF%E6%9E%AF%E7%9F%B3%E5%8F%AF%E7%83%82%20%E6%88%91%E4%BB%AC%E8%82%A9%E5%B9%B6%E8%82%A9%E6%89%8B%E7%89%B5%E6%89%8B?type=general",
-      "hot_value": "7715409",
+      "title": "聊聊看完功夫女足的真实感受",
+      "url": "https://www.douyin.com/search/%E8%81%8A%E8%81%8A%E7%9C%8B%E5%AE%8C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%84%9F%E5%8F%97?type=general",
+      "hot_value": "7654867",
       "index": 30
     }
   ]

@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-17T20:16:18Z",
+  "update_time": "2026-07-17T23:32:38Z",
   "count": 30,
   "list": [
     {
       "title": "寻找卢本伟",
       "url": "https://www.bilibili.com/video/BV1oHNv6kEzB",
-      "hot_value": "7579761播放",
+      "hot_value": "7634981播放",
       "index": 1
     },
     {
       "title": "友情提示：这是一个解压视频.",
       "url": "https://www.bilibili.com/video/BV1uNNt6GEXE",
-      "hot_value": "2766108播放",
+      "hot_value": "2889721播放",
       "index": 2
     },
     {
       "title": "铠甲勇士刑天·守护初心【P1】你是谁？",
       "url": "https://www.bilibili.com/video/BV1MiNd69EYM",
-      "hot_value": "712765播放",
+      "hot_value": "762087播放",
       "index": 3
     },
     {
       "title": "【独家】《百日成王》第8集 女孩子们真的又勇敢又可爱！【7月国创】",
       "url": "https://www.bilibili.com/video/BV1rkN76KEok",
-      "hot_value": "369552播放",
+      "hot_value": "375911播放",
       "index": 4
     },
     {
       "title": "新疆真有追人蜱虫！帮大家拍到了",
       "url": "https://www.bilibili.com/video/BV1oxN26zEnR",
-      "hot_value": "1192673播放",
+      "hot_value": "1310679播放",
       "index": 5
     },
     {
-      "title": "🐧赛伊德：“我变成女孩了？！”🐧",
-      "url": "https://www.bilibili.com/video/BV1XRKJ6fEch",
-      "hot_value": "407536播放",
+      "title": "BLG Bin单曲《螺样子》",
+      "url": "https://www.bilibili.com/video/BV1aQNo6aE2x",
+      "hot_value": "424837播放",
       "index": 6
-    },
-    {
-      "title": "《绝区零》二周年主题曲MV | 预言",
-      "url": "https://www.bilibili.com/video/BV1QRKJ6ZEzC",
-      "hot_value": "413903播放",
-      "index": 7
-    },
-    {
-      "title": "路边摊吃盒饭 吃成摊主",
-      "url": "https://www.bilibili.com/video/BV1XTNR69Etx",
-      "hot_value": "5156681播放",
-      "index": 8
     },
     {
       "title": "特朗普出手机了！美国总统卖的手机有多离谱？Trump Phone 开箱",
       "url": "https://www.bilibili.com/video/BV1uUKV6zE9R",
-      "hot_value": "2075254播放",
+      "hot_value": "2128137播放",
+      "index": 7
+    },
+    {
+      "title": "🐧赛伊德：“我变成女孩了？！”🐧",
+      "url": "https://www.bilibili.com/video/BV1XRKJ6fEch",
+      "hot_value": "521697播放",
+      "index": 8
+    },
+    {
+      "title": "《绝区零》二周年主题曲MV | 预言",
+      "url": "https://www.bilibili.com/video/BV1QRKJ6ZEzC",
+      "hot_value": "444265播放",
       "index": 9
     },
     {
-      "title": "122亿公里喂出来的ADS 5，能练出一个“老司机”吗？",
-      "url": "https://www.bilibili.com/video/BV11vKG6bEqA",
-      "hot_value": "1037422播放",
+      "title": "我把你们奇怪的想法都做到了我的世界里#14",
+      "url": "https://www.bilibili.com/video/BV1oQNB6SEHv",
+      "hot_value": "3893629播放",
       "index": 10
     },
     {
-      "title": "魔怔萌二和暴躁粗鲁女的相亲历险记",
-      "url": "https://www.bilibili.com/video/BV1BCNi67EVM",
-      "hot_value": "5611368播放",
+      "title": "The Verity Cast Plays The REAL Verity Mod",
+      "url": "https://www.bilibili.com/video/BV1vRN66xE1W",
+      "hot_value": "2025495播放",
       "index": 11
     },
     {
-      "title": "耗时9999小时！一口气看完熊出没末路大合集！",
-      "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
-      "hot_value": "5080689播放",
+      "title": "《阴阳师》不相狐禅CG丨洪狐天运（CV：立花慎之介）",
+      "url": "https://www.bilibili.com/video/BV1aPKV6zEEV",
+      "hot_value": "1762655播放",
       "index": 12
     },
     {
       "title": "DECO*27 - Dummy Romance feat. Hatsune Miku",
       "url": "https://www.bilibili.com/video/BV1RENQ6SEsS",
-      "hot_value": "336381播放",
+      "hot_value": "347375播放",
       "index": 13
     },
     {
       "title": "【纪录片】一招一食 第六回 火",
       "url": "https://www.bilibili.com/video/BV1m2Nq6NES7",
-      "hot_value": "251935播放",
+      "hot_value": "253812播放",
       "index": 14
-    },
-    {
-      "title": "The Verity Cast Plays The REAL Verity Mod",
-      "url": "https://www.bilibili.com/video/BV1vRN66xE1W",
-      "hot_value": "2006064播放",
-      "index": 15
     },
     {
       "title": "特朗普最重要的盟友没了",
       "url": "https://www.bilibili.com/video/BV1cpKV6tEot",
-      "hot_value": "1259369播放",
+      "hot_value": "1295338播放",
+      "index": 15
+    },
+    {
+      "title": "耗时9999小时！一口气看完熊出没末路大合集！",
+      "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
+      "hot_value": "5101477播放",
       "index": 16
-    },
-    {
-      "title": "我把你们奇怪的想法都做到了我的世界里#14",
-      "url": "https://www.bilibili.com/video/BV1oQNB6SEHv",
-      "hot_value": "3877654播放",
-      "index": 17
-    },
-    {
-      "title": "哈哈哈哈（3）",
-      "url": "https://www.bilibili.com/video/BV1zHKn6gEb6",
-      "hot_value": "467454播放",
-      "index": 18
     },
     {
       "title": "原创AIGC剧集《有异人》【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1psN86KEt5",
-      "hot_value": "2315611播放",
+      "hot_value": "2327981播放",
+      "index": 17
+    },
+    {
+      "title": "路边摊吃盒饭 吃成摊主",
+      "url": "https://www.bilibili.com/video/BV1XTNR69Etx",
+      "hot_value": "5175758播放",
+      "index": 18
+    },
+    {
+      "title": "魔怔萌二和暴躁粗鲁女的相亲历险记",
+      "url": "https://www.bilibili.com/video/BV1BCNi67EVM",
+      "hot_value": "5636422播放",
       "index": 19
     },
     {
-      "title": "《阴阳师》不相狐禅CG丨洪狐天运（CV：立花慎之介）",
-      "url": "https://www.bilibili.com/video/BV1aPKV6zEEV",
-      "hot_value": "1761870播放",
+      "title": "哈哈哈哈（3）",
+      "url": "https://www.bilibili.com/video/BV1zHKn6gEb6",
+      "hot_value": "495382播放",
       "index": 20
-    },
-    {
-      "title": "矿石战争重制版一口气看完大合集",
-      "url": "https://www.bilibili.com/video/BV1KZNT6LEGn",
-      "hot_value": "6300063播放",
-      "index": 21
     },
     {
       "title": "南方人小时候噩梦：水稻双抢！现在好像没那么“抢”了？！#田间地头看变化#",
       "url": "https://www.bilibili.com/video/BV1RzKV61EQS",
-      "hot_value": "972678播放",
-      "index": 22
+      "hot_value": "1020016播放",
+      "index": 21
     },
     {
-      "title": "《绝区零》3.1版本「漫长的告别」前瞻特别节目",
-      "url": "https://www.bilibili.com/video/BV191NR6ZEXx",
-      "hot_value": "496127播放",
-      "index": 23
+      "title": "矿石战争重制版一口气看完大合集",
+      "url": "https://www.bilibili.com/video/BV1KZNT6LEGn",
+      "hot_value": "6317054播放",
+      "index": 22
     },
     {
       "title": "《绝区零》3.1版本PV | 漫长的告别",
       "url": "https://www.bilibili.com/video/BV1uiNd69EYU",
-      "hot_value": "503553播放",
-      "index": 24
-    },
-    {
-      "title": "我前男友嗑药死了，我朋友也嗑药死了，如今我终于醒悟，摆脱药物做了一个正常人",
-      "url": "https://www.bilibili.com/video/BV1987w6GE5b",
-      "hot_value": "1578627播放",
-      "index": 25
-    },
-    {
-      "title": "街头猜词挑战之邯郸学生",
-      "url": "https://www.bilibili.com/video/BV18FNq6iEkn",
-      "hot_value": "1777327播放",
-      "index": 26
-    },
-    {
-      "title": "【终末地】1.4最好抄毕业基建！气体自动平衡，爆仓自动处理！",
-      "url": "https://www.bilibili.com/video/BV1dLKG6GEgA",
-      "hot_value": "929349播放",
-      "index": 27
-    },
-    {
-      "title": "百万英镑，但是过于嚣张",
-      "url": "https://www.bilibili.com/video/BV1RhNq65EEj",
-      "hot_value": "1374551播放",
-      "index": 28
-    },
-    {
-      "title": "宗门天阶功法第二式分解教学，What a day！",
-      "url": "https://www.bilibili.com/video/BV1yUNd61ErF",
-      "hot_value": "266043播放",
-      "index": 29
+      "hot_value": "530086播放",
+      "index": 23
     },
     {
       "title": "汽车人空降峡谷！变卡车、骑机械霸王龙！自制亚瑟擎天柱皮肤！",
       "url": "https://www.bilibili.com/video/BV1XJKG6zEym",
-      "hot_value": "1930397播放",
+      "hot_value": "1950461播放",
+      "index": 24
+    },
+    {
+      "title": "在最无能的年纪遇到最想买的车",
+      "url": "https://www.bilibili.com/video/BV1AGKn67EgB",
+      "hot_value": "308423播放",
+      "index": 25
+    },
+    {
+      "title": "宗门天阶功法第二式分解教学，What a day！",
+      "url": "https://www.bilibili.com/video/BV1yUNd61ErF",
+      "hot_value": "324001播放",
+      "index": 26
+    },
+    {
+      "title": "我前男友嗑药死了，我朋友也嗑药死了，如今我终于醒悟，摆脱药物做了一个正常人",
+      "url": "https://www.bilibili.com/video/BV1987w6GE5b",
+      "hot_value": "1607942播放",
+      "index": 27
+    },
+    {
+      "title": "《崩坏：星穹铁道》EP：「下一站」",
+      "url": "https://www.bilibili.com/video/BV1JqKM6rELh",
+      "hot_value": "1457283播放",
+      "index": 28
+    },
+    {
+      "title": "百万英镑，但是过于嚣张",
+      "url": "https://www.bilibili.com/video/BV1RhNq65EEj",
+      "hot_value": "1386212播放",
+      "index": 29
+    },
+    {
+      "title": "《绝区零》3.1版本「漫长的告别」前瞻特别节目",
+      "url": "https://www.bilibili.com/video/BV191NR6ZEXx",
+      "hot_value": "517877播放",
       "index": 30
     }
   ]
