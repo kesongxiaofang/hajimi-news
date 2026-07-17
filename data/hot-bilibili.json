@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-17T07:34:50Z",
+  "update_time": "2026-07-17T12:03:14Z",
   "count": 30,
   "list": [
     {
       "title": "寻找卢本伟",
       "url": "https://www.bilibili.com/video/BV1oHNv6kEzB",
-      "hot_value": "6271091播放",
+      "hot_value": "6820648播放",
       "index": 1
-    },
-    {
-      "title": "原创AIGC剧集《有异人》【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1psN86KEt5",
-      "hot_value": "1798250播放",
-      "index": 2
-    },
-    {
-      "title": "⚡⚡超 能 世 界 杯⚡⚡",
-      "url": "https://www.bilibili.com/video/BV1MgKV6vEk1",
-      "hot_value": "734797播放",
-      "index": 3
-    },
-    {
-      "title": "【独家】《将夜》第14集 努力读书【4月国创】",
-      "url": "https://www.bilibili.com/video/BV1SyNz6VEy7",
-      "hot_value": "818450播放",
-      "index": 4
-    },
-    {
-      "title": "小倩回来了——22年后，在《天下》里",
-      "url": "https://www.bilibili.com/video/BV1bTNz6zEMT",
-      "hot_value": "2189690播放",
-      "index": 5
     },
     {
       "title": "魔怔萌二和暴躁粗鲁女的相亲历险记",
       "url": "https://www.bilibili.com/video/BV1BCNi67EVM",
-      "hot_value": "4490528播放",
+      "hot_value": "5120642播放",
+      "index": 2
+    },
+    {
+      "title": "想唱歌，先整活！鬼畜瑰宝《中国梦之声》名场面大盘点~",
+      "url": "https://www.bilibili.com/video/BV1YFKV6GE9Q",
+      "hot_value": "1314925播放",
+      "index": 3
+    },
+    {
+      "title": "【独家】《百日成王》第8集 女孩子们真的又勇敢又可爱！【7月国创】",
+      "url": "https://www.bilibili.com/video/BV1rkN76KEok",
+      "hot_value": "281937播放",
+      "index": 4
+    },
+    {
+      "title": "原创AIGC剧集《有异人》【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1psN86KEt5",
+      "hot_value": "2087165播放",
+      "index": 5
+    },
+    {
+      "title": "破冰挑战！3小时摆摊PK，赚得多的获胜！！",
+      "url": "https://www.bilibili.com/video/BV1j2Ni6LEkW",
+      "hot_value": "2858063播放",
       "index": 6
     },
     {
-      "title": "《阴阳师》不相狐禅CG丨洪狐天运（CV：立花慎之介）",
-      "url": "https://www.bilibili.com/video/BV1aPKV6zEEV",
-      "hot_value": "1721925播放",
+      "title": "特朗普出手机了！美国总统卖的手机有多离谱？Trump Phone 开箱",
+      "url": "https://www.bilibili.com/video/BV1uUKV6zE9R",
+      "hot_value": "1202174播放",
       "index": 7
     },
     {
-      "title": "我把你们奇怪的想法都做到了我的世界里#14",
-      "url": "https://www.bilibili.com/video/BV1oQNB6SEHv",
-      "hot_value": "3020598播放",
+      "title": "汽车人空降峡谷！变卡车、骑机械霸王龙！自制亚瑟擎天柱皮肤！",
+      "url": "https://www.bilibili.com/video/BV1XJKG6zEym",
+      "hot_value": "1612426播放",
       "index": 8
     },
     {
       "title": "特朗普最重要的盟友没了",
       "url": "https://www.bilibili.com/video/BV1cpKV6tEot",
-      "hot_value": "465421播放",
+      "hot_value": "814888播放",
       "index": 9
+    },
+    {
+      "title": "我把你们奇怪的想法都做到了我的世界里#14",
+      "url": "https://www.bilibili.com/video/BV1oQNB6SEHv",
+      "hot_value": "3575357播放",
+      "index": 10
     },
     {
       "title": "The Verity Cast Plays The REAL Verity Mod",
       "url": "https://www.bilibili.com/video/BV1vRN66xE1W",
-      "hot_value": "1492529播放",
-      "index": 10
+      "hot_value": "1729295播放",
+      "index": 11
     },
     {
-      "title": "汽车人空降峡谷！变卡车、骑机械霸王龙！自制亚瑟擎天柱皮肤！",
-      "url": "https://www.bilibili.com/video/BV1XJKG6zEym",
-      "hot_value": "1164877播放",
-      "index": 11
+      "title": "每餐只接待10位的手搓自助，果然与众不同",
+      "url": "https://www.bilibili.com/video/BV1Q6K36KEmD",
+      "hot_value": "697634播放",
+      "index": 12
     },
     {
       "title": "耗时9999小时！一口气看完熊出没末路大合集！",
       "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
-      "hot_value": "4227449播放",
-      "index": 12
-    },
-    {
-      "title": "幕后花絮|五五开给自己配音有多难？",
-      "url": "https://www.bilibili.com/video/BV1d9KG6jEhe",
-      "hot_value": "834057播放",
+      "hot_value": "4660974播放",
       "index": 13
-    },
-    {
-      "title": "《崩坏：星穹铁道》EP：「下一站」",
-      "url": "https://www.bilibili.com/video/BV1JqKM6rELh",
-      "hot_value": "1225693播放",
-      "index": 14
     },
     {
       "title": "路边摊吃盒饭 吃成摊主",
       "url": "https://www.bilibili.com/video/BV1XTNR69Etx",
-      "hot_value": "4638995播放",
+      "hot_value": "4798382播放",
+      "index": 14
+    },
+    {
+      "title": "晚上厨师长下班后，在店里开小灶，没卖完的食材，偷偷做个晚餐，和牛岩石烧，鲍鱼佐鲍鱼肝酱，酒煮文蛤",
+      "url": "https://www.bilibili.com/video/BV1bbKG6YEGq",
+      "hot_value": "1435607播放",
       "index": 15
     },
     {
-      "title": "⚡️life goes to fly on⚡️",
-      "url": "https://www.bilibili.com/video/BV1JzKM6gEXe",
-      "hot_value": "1041907播放",
+      "title": "《最倒霉の霸总》",
+      "url": "https://www.bilibili.com/video/BV1d2KJ6PErC",
+      "hot_value": "529349播放",
       "index": 16
     },
     {
       "title": "外媒：中国全淹了？老王：别扯了！我正忙着在宁夏赶大集，炫18块钱的热乎手擀面呢！哈哈！",
       "url": "https://www.bilibili.com/video/BV14hKG6wEWZ",
-      "hot_value": "668358播放",
+      "hot_value": "1005605播放",
       "index": 17
     },
     {
-      "title": "猫和老鼠 | 你听我狡辩一下嘛",
-      "url": "https://www.bilibili.com/video/BV13WNQ6jEGU",
-      "hot_value": "1675386播放",
+      "title": "白嫖党把老非凡气的上岛了？？？",
+      "url": "https://www.bilibili.com/video/BV1pVNq6oE1Y",
+      "hot_value": "1084125播放",
       "index": 18
     },
     {
-      "title": "特朗普出手机了！美国总统卖的手机有多离谱？Trump Phone 开箱",
-      "url": "https://www.bilibili.com/video/BV1uUKV6zE9R",
-      "hot_value": "690463播放",
+      "title": "疯狂神盗团，搞钱！不择手段的搞钱！《八仙！》首映影评",
+      "url": "https://www.bilibili.com/video/BV1ijK56JE9J",
+      "hot_value": "616914播放",
       "index": 19
+    },
+    {
+      "title": "《崩坏：星穹铁道》EP：「下一站」",
+      "url": "https://www.bilibili.com/video/BV1JqKM6rELh",
+      "hot_value": "1325888播放",
+      "index": 20
+    },
+    {
+      "title": "幕后花絮|五五开给自己配音有多难？",
+      "url": "https://www.bilibili.com/video/BV1d9KG6jEhe",
+      "hot_value": "1084525播放",
+      "index": 21
     },
     {
       "title": "矿石战争重制版一口气看完大合集",
       "url": "https://www.bilibili.com/video/BV1KZNT6LEGn",
-      "hot_value": "5888832播放",
-      "index": 20
-    },
-    {
-      "title": "“新人看不懂鬼畜区的遗憾”",
-      "url": "https://www.bilibili.com/video/BV1otK365Evg",
-      "hot_value": "472531播放",
-      "index": 21
-    },
-    {
-      "title": "他们说学校里有一个很装的人",
-      "url": "https://www.bilibili.com/video/BV1sbKg6REpY",
-      "hot_value": "2680154播放",
+      "hot_value": "6060837播放",
       "index": 22
-    },
-    {
-      "title": "当你学会外耗他人后",
-      "url": "https://www.bilibili.com/video/BV1fbNz6WEjD",
-      "hot_value": "4374929播放",
-      "index": 23
-    },
-    {
-      "title": "央视曝光一地“纸上种水稻”，实际种水稻约23万亩上报近39万亩，谁在逼基层干部“纸上种田”？",
-      "url": "https://www.bilibili.com/video/BV1hsKG6KEVb",
-      "hot_value": "862119播放",
-      "index": 24
-    },
-    {
-      "title": "找锻刀大师学习锻造COS道具！是怎样硬核的体验！",
-      "url": "https://www.bilibili.com/video/BV1JhN86wEV9",
-      "hot_value": "1094173播放",
-      "index": 25
-    },
-    {
-      "title": "要我怎么忘记我的尸体邻居，加拿大实录",
-      "url": "https://www.bilibili.com/video/BV1kwNQ6hE4t",
-      "hot_value": "560670播放",
-      "index": 26
     },
     {
       "title": "百万英镑，但是过于嚣张",
       "url": "https://www.bilibili.com/video/BV1RhNq65EEj",
-      "hot_value": "1022686播放",
+      "hot_value": "1186763播放",
+      "index": 23
+    },
+    {
+      "title": "《哥几个又来练心脏了》",
+      "url": "https://www.bilibili.com/video/BV13PKV6zE2W",
+      "hot_value": "1642518播放",
+      "index": 24
+    },
+    {
+      "title": "友情提示：这是一个解压视频.",
+      "url": "https://www.bilibili.com/video/BV1uNNt6GEXE",
+      "hot_value": "1254870播放",
+      "index": 25
+    },
+    {
+      "title": "你的“灵光一现”，后人模仿到包浆！",
+      "url": "https://www.bilibili.com/video/BV1L7K56mEER",
+      "hot_value": "682945播放",
+      "index": 26
+    },
+    {
+      "title": "《阴阳师》不相狐禅CG丨洪狐天运（CV：立花慎之介）",
+      "url": "https://www.bilibili.com/video/BV1aPKV6zEEV",
+      "hot_value": "1748259播放",
       "index": 27
+    },
+    {
+      "title": "⚡️life goes to fly on⚡️",
+      "url": "https://www.bilibili.com/video/BV1JzKM6gEXe",
+      "hot_value": "1370323播放",
+      "index": 28
+    },
+    {
+      "title": "南方人小时候噩梦：水稻双抢！现在好像没那么“抢”了？！#田间地头看变化#",
+      "url": "https://www.bilibili.com/video/BV1RzKV61EQS",
+      "hot_value": "391049播放",
+      "index": 29
     },
     {
       "title": "【终末地】1.4最好抄毕业基建！气体自动平衡，爆仓自动处理！",
       "url": "https://www.bilibili.com/video/BV1dLKG6GEgA",
-      "hot_value": "655655播放",
-      "index": 28
-    },
-    {
-      "title": "哭着剪完这条视频…",
-      "url": "https://www.bilibili.com/video/BV1rfNU6REhs",
-      "hot_value": "4913064播放",
-      "index": 29
-    },
-    {
-      "title": "摊牌吧，你家里有矿！",
-      "url": "https://www.bilibili.com/video/BV1jhK36VEG2",
-      "hot_value": "1648418播放",
+      "hot_value": "764475播放",
       "index": 30
     }
   ]
