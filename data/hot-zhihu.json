@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-17T23:32:38Z",
+  "update_time": "2026-07-18T07:10:46Z",
   "count": 30,
   "list": [
     {
-      "title": "重庆彭水山体垮塌已搜救出 18 人，其中 8 人死亡，还有 34 人失联，目前救援进展如何？",
-      "url": "https://www.zhihu.com/question/2061492162714395796",
-      "hot_value": "505 万热度",
-      "index": 1
-    },
-    {
-      "title": "《食神·百厨大战》开播，广东选手做了一盘没带酱料的白切鸡被评委淘汰，淘汰得对吗？",
-      "url": "https://www.zhihu.com/question/2060129175554594141",
-      "hot_value": "344 万热度",
-      "index": 2
-    },
-    {
-      "title": "法国被曝将全替补阵容出战季军战，让老将和年轻球员登场，如何看待这一选择？",
-      "url": "https://www.zhihu.com/question/2061482689165619531",
-      "hot_value": "288 万热度",
-      "index": 3
-    },
-    {
-      "title": "英国政府拟通过相关立法，将中国敬业集团旗下的英国钢铁公司国有化，对此你怎么看？",
+      "title": "英国政府通过相关立法，将中国敬业集团旗下的英国钢铁公司国有化，对此你怎么看？",
       "url": "https://www.zhihu.com/question/2038539763599266938",
-      "hot_value": "245 万热度",
-      "index": 4
-    },
-    {
-      "title": "2026 EWC 英雄联盟项目 BLG 1:2 不敌 DK 无缘四强，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2061603096703104286",
-      "hot_value": "170 万热度",
-      "index": 5
+      "hot_value": "1025 万热度",
+      "index": 1
     },
     {
       "title": "ofo 停更近 5 年后突然发文，此次「复活」释放了什么信号？199 元押金还有可能退回吗？",
       "url": "https://www.zhihu.com/question/2061443447983007294",
-      "hot_value": "158 万热度",
+      "hot_value": "470 万热度",
+      "index": 2
+    },
+    {
+      "title": "如何评价月之暗面 kimi 最新发布的大模型 k3 ?",
+      "url": "https://www.zhihu.com/question/2061412232924337204",
+      "hot_value": "408 万热度",
+      "index": 3
+    },
+    {
+      "title": "电影《功夫女足》韩国惹争议，韩网友不满梨花队戴美瞳、犯规设定，韩媒指影片贬低韩国足球队，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2061426581864714302",
+      "hot_value": "347 万热度",
+      "index": 4
+    },
+    {
+      "title": "如何看待《凡人修仙传》第 183 集？",
+      "url": "https://www.zhihu.com/question/2061776695682676563",
+      "hot_value": "333 万热度",
+      "index": 5
+    },
+    {
+      "title": "为什么《暮光之城》男主扮演者这么讨厌《暮光之城》？",
+      "url": "https://www.zhihu.com/question/62842616",
+      "hot_value": "294 万热度",
       "index": 6
     },
     {
-      "title": "小米 SU7 碰撞测试博主「原来是翔翔啊」因捏造事实被判刑一年八个月，罚款 10 万元，你怎么看？",
-      "url": "https://www.zhihu.com/question/2061463583091959064",
-      "hot_value": "158 万热度",
+      "title": "继浙大之后北京大学也取消社会学学硕，网传社科学部学硕将全部取消，是这样吗？如何看待这一趋势？",
+      "url": "https://www.zhihu.com/question/2061043024537150852",
+      "hot_value": "234 万热度",
       "index": 7
     },
     {
-      "title": "7 月 17 日，A 股跌至 3790 点，沪指创 2025 年 9 月以来新低，发生了什么？",
-      "url": "https://www.zhihu.com/question/2061116752398962968",
-      "hot_value": "158 万热度",
+      "title": "周星驰电影《功夫女足》剑指 30 亿，如何看待多年前李成儒的墙角论？周星驰电影是墙角吗？",
+      "url": "https://www.zhihu.com/question/2060645191220990307",
+      "hot_value": "188 万热度",
       "index": 8
-    },
-    {
-      "title": "为啥自然演化出轮子会那么难？",
-      "url": "https://www.zhihu.com/question/2060649695580624117",
-      "hot_value": "140 万热度",
-      "index": 9
-    },
-    {
-      "title": "如何看待 Kimi K3 模型价格较上一代翻 5 倍，达到输出 100 元，输入 20 元，缓存命中 1 元？",
-      "url": "https://www.zhihu.com/question/2061233239566685346",
-      "hot_value": "135 万热度",
-      "index": 10
-    },
-    {
-      "title": "《三国第一部：争洛阳》官方发文「觉得电影不好看的，可以找片方退票」，如何看待这一操作？",
-      "url": "https://www.zhihu.com/question/2061409074185335802",
-      "hot_value": "99 万热度",
-      "index": 11
     },
     {
       "title": "6 月中国原油进口大降四成，创下十年月度新低，是需求减弱还是其他原因？",
       "url": "https://www.zhihu.com/question/2060663328502977751",
-      "hot_value": "98 万热度",
+      "hot_value": "170 万热度",
+      "index": 9
+    },
+    {
+      "title": "网传阿根廷绝杀前犯规的「证据图」被证实为 AI 篡改，如何评价？球衣号码都错误的 AI 假图为何能被大量转发？",
+      "url": "https://www.zhihu.com/question/2061411962487924266",
+      "hot_value": "166 万热度",
+      "index": 10
+    },
+    {
+      "title": "学历史有什么用？",
+      "url": "https://www.zhihu.com/question/20338058",
+      "hot_value": "164 万热度",
+      "index": 11
+    },
+    {
+      "title": "EWC 淘汰赛 DK 2:1 BLG，lpl 三支参赛队伍全部淘汰，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2061601737702740964",
+      "hot_value": "153 万热度",
       "index": 12
     },
     {
-      "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
-      "url": "https://www.zhihu.com/question/2061057694832620856",
-      "hot_value": "93 万热度",
+      "title": "LV 再起诉浙江一日用百货店，商标维权诉讼已高达 1691 起，LV 为何在中国密集维权？",
+      "url": "https://www.zhihu.com/question/2061126048599602778",
+      "hot_value": "142 万热度",
       "index": 13
     },
     {
-      "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
-      "url": "https://www.zhihu.com/question/2060791514276615811",
-      "hot_value": "82 万热度",
+      "title": "三部门分步调整部分电池消费税政策，对无汞原电池、锂原电池等按 2% 税率征税，将产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2061492056724174422",
+      "hot_value": "134 万热度",
       "index": 14
     },
     {
       "title": "能不能在黄河边上挖一条运河，让黄河改道，把地上河铲平了，再改回去？",
       "url": "https://www.zhihu.com/question/476803673",
-      "hot_value": "82 万热度",
+      "hot_value": "131 万热度",
       "index": 15
     },
     {
-      "title": "如何看待 C 罗或将推迟原定 7 月 20 日与乔治娜的婚礼？推迟婚期的背后可能有啥原因？",
-      "url": "https://www.zhihu.com/question/2061095985552663651",
-      "hot_value": "81 万热度",
+      "title": "机器人格斗赛头部脱落后仍能继续战斗，为什么头掉了还能打？这算不算人形机器人的成熟标志？",
+      "url": "https://www.zhihu.com/question/2061451804827545826",
+      "hot_value": "125 万热度",
       "index": 16
+    },
+    {
+      "title": "大家用过 workbuddy 了吗，有什么感受？",
+      "url": "https://www.zhihu.com/question/2031424971629651052",
+      "hot_value": "124 万热度",
+      "index": 17
+    },
+    {
+      "title": "迪士尼《海洋奇缘：启航》票房惨败，首周全球 9500 万美元远低预期，恐净亏损 1 亿美元，原因何在？",
+      "url": "https://www.zhihu.com/question/2059974558191285469",
+      "hot_value": "122 万热度",
+      "index": 18
+    },
+    {
+      "title": "2026 年 WTA250 雅典站，郑钦文 0-2 不敌克雷吉茨科娃止步八强，怎么评价郑钦文又一次的输球？",
+      "url": "https://www.zhihu.com/question/2061609697136862965",
+      "hot_value": "118 万热度",
+      "index": 19
+    },
+    {
+      "title": "如何评价东方梦工厂出品的动画电影《八仙！》？",
+      "url": "https://www.zhihu.com/question/2061035588799697257",
+      "hot_value": "102 万热度",
+      "index": 20
+    },
+    {
+      "title": "近期一系列学术打假事件会对普通硕博的学术生活产生影响吗？以后论文答辩会越来越严吗？",
+      "url": "https://www.zhihu.com/question/2061487858834039181",
+      "hot_value": "99 万热度",
+      "index": 21
+    },
+    {
+      "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
+      "url": "https://www.zhihu.com/question/660373683",
+      "hot_value": "99 万热度",
+      "index": 22
+    },
+    {
+      "title": "2026 年 EWC 八进四，VG2 比 0 战胜 Falcons，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2061570147698194277",
+      "hot_value": "92 万热度",
+      "index": 23
     },
     {
       "title": "诺兰史诗新作《奥德赛》首波媒体口碑出炉，大量评价用「惊人」「令人屏息」「杰作」形容，你看好这部电影吗？",
       "url": "https://www.zhihu.com/question/2058197753138602590",
-      "hot_value": "80 万热度",
-      "index": 17
-    },
-    {
-      "title": "为什么「锄禾日当午」，除草要在中午呢？",
-      "url": "https://www.zhihu.com/question/2057344841936265609",
-      "hot_value": "78 万热度",
-      "index": 18
-    },
-    {
-      "title": "如果我身边的朋友的孩子都很厉害都是学霸，我的孩子相对比较平凡，我还和这些家庭一起亲子活动吗？",
-      "url": "https://www.zhihu.com/question/2061015890934736081",
-      "hot_value": "78 万热度",
-      "index": 19
-    },
-    {
-      "title": "男子酒驾后购置棺材「假死」潜逃，家人配合「下葬」，这会面临哪些法律责任？",
-      "url": "https://www.zhihu.com/question/2060530186634933996",
-      "hot_value": "78 万热度",
-      "index": 20
-    },
-    {
-      "title": "超市老板称「往年夏天卖断货的碳酸饮料，今年送都送不出去」，碳酸饮料为什么卖不动？是暂时还是大势所趋？",
-      "url": "https://www.zhihu.com/question/2061198817991418630",
-      "hot_value": "74 万热度",
-      "index": 21
-    },
-    {
-      "title": "为什么会有钢琴老师讲不带成人学生？",
-      "url": "https://www.zhihu.com/question/2042257207627179809",
-      "hot_value": "71 万热度",
-      "index": 22
-    },
-    {
-      "title": "NBA 总裁希望詹姆斯尽快决定下家，这将影响新赛程的安排，为什么一名球员的去向会影响整个联盟的赛程安排？",
-      "url": "https://www.zhihu.com/question/2061375923639646082",
-      "hot_value": "70 万热度",
-      "index": 23
-    },
-    {
-      "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
-      "url": "https://www.zhihu.com/question/2061107208805414314",
-      "hot_value": "68 万热度",
+      "hot_value": "82 万热度",
       "index": 24
     },
     {
-      "title": "你在什么时候觉得宠物爱着你?",
-      "url": "https://www.zhihu.com/question/540811587",
-      "hot_value": "66 万热度",
+      "title": "《水浒传》中，鲁智深在桃花庄为何要光着身子与周通打斗？作者想要表达的到底是什么？",
+      "url": "https://www.zhihu.com/question/2016524503421826417",
+      "hot_value": "77 万热度",
       "index": 25
     },
     {
-      "title": "怎样能保持充足的精力？",
-      "url": "https://www.zhihu.com/question/31443711",
-      "hot_value": "62 万热度",
+      "title": "世界模型（world model）当下是一个好的方向吗？",
+      "url": "https://www.zhihu.com/question/2015943067778183463",
+      "hot_value": "74 万热度",
       "index": 26
     },
     {
-      "title": "《功夫女足》上映 7 天票房突破 10 亿大关，登顶 2026 年暑期票房榜，你认为还有其他影片能赶超吗？",
-      "url": "https://www.zhihu.com/question/2060038001975976897",
-      "hot_value": "60 万热度",
+      "title": "Linus 称 Linux 不搞「反 AI」，并要求「要么 fork，要么走人」，这会带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2061099332632416849",
+      "hot_value": "59 万热度",
       "index": 27
     },
     {
-      "title": "免费早餐成许多酒店「送不起还在硬送」的隐形成本，对酒店来说，这个账怎么算？你希望酒店提供免费早餐吗？",
-      "url": "https://www.zhihu.com/question/2060421723376153435",
-      "hot_value": "59 万热度",
+      "title": "韩立既然有掌天瓶，为什么没想过把金雷竹飞剑炼制两把送给南宫婉和紫灵？太谨慎怕被高手盯导致杀身之祸吗？",
+      "url": "https://www.zhihu.com/question/2060432065506580344",
+      "hot_value": "58 万热度",
       "index": 28
     },
     {
-      "title": "长时间喝带水垢的水对身体有什么坏处？",
-      "url": "https://www.zhihu.com/question/284098592",
-      "hot_value": "59 万热度",
+      "title": "Steam「两小时内退款」规则，是否天然对短流程游戏不公平？",
+      "url": "https://www.zhihu.com/question/2060793804202971292",
+      "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "对刚上大学的新生有什么建议？",
-      "url": "https://www.zhihu.com/question/2053305780770693319",
-      "hot_value": "59 万热度",
+      "title": "球王姆巴佩才是第三代球王的说法准确吗？",
+      "url": "https://www.zhihu.com/question/2058947643959776305",
+      "hot_value": "57 万热度",
       "index": 30
     }
   ]
