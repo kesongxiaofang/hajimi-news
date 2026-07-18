@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-18T11:18:38Z",
+  "update_time": "2026-07-18T14:41:46Z",
   "count": 30,
   "list": [
     {
-      "title": "ofo 停更近 5 年后突然发文，此次「复活」释放了什么信号？199 元押金还有可能退回吗？",
-      "url": "https://www.zhihu.com/question/2061443447983007294",
-      "hot_value": "527 万热度",
+      "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
+      "url": "https://www.zhihu.com/question/2061371759589323819",
+      "hot_value": "593 万热度",
       "index": 1
     },
     {
-      "title": "电影《功夫女足》韩国惹争议，韩网友不满梨花队戴美瞳、犯规设定，韩媒指影片贬低韩国足球队，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2061426581864714302",
-      "hot_value": "392 万热度",
+      "title": "《功夫女足》票房破 10 亿，豆瓣评分仅 6.6，如何评价其口碑与票房「倒挂」现象？这到底算成功还是失败？",
+      "url": "https://www.zhihu.com/question/2060529589093511823",
+      "hot_value": "388 万热度",
       "index": 2
     },
     {
-      "title": "继浙大之后北京大学也取消社会学学硕，网传社科学部学硕将全部取消，是这样吗？如何看待这一趋势？",
-      "url": "https://www.zhihu.com/question/2061043024537150852",
-      "hot_value": "350 万热度",
+      "title": "如何看待凡人第 183 集，播出两个小时后播放量不到 200 万？",
+      "url": "https://www.zhihu.com/question/2061800406666178604",
+      "hot_value": "321 万热度",
       "index": 3
     },
     {
-      "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
-      "url": "https://www.zhihu.com/question/2061371759589323819",
-      "hot_value": "295 万热度",
+      "title": "为什么体感酷热，但实际温度却只有 39℃？听说气象局会卡 40℃，这种说法是否合理？",
+      "url": "https://www.zhihu.com/question/2061366752232190902",
+      "hot_value": "312 万热度",
       "index": 4
     },
     {
-      "title": "为什么贝克汉姆会和恩师弗格森反目，选择出走曼联？",
-      "url": "https://www.zhihu.com/question/503931227",
-      "hot_value": "294 万热度",
+      "title": "领导喜欢看人下菜欺负老实人，应该硬刚还是委屈求全？",
+      "url": "https://www.zhihu.com/question/1998339662528397803",
+      "hot_value": "306 万热度",
       "index": 5
     },
     {
       "title": "杭州一女子独自用餐遭服务员多次传话「黄总邀请你去包厢」，官方已介入，如何看待此事？",
       "url": "https://www.zhihu.com/question/2061337736611734900",
-      "hot_value": "293 万热度",
+      "hot_value": "304 万热度",
       "index": 6
-    },
-    {
-      "title": "《功夫女足》票房破 10 亿，豆瓣评分仅 6.6，如何评价其口碑与票房「倒挂」现象？这到底算成功还是失败？",
-      "url": "https://www.zhihu.com/question/2060529589093511823",
-      "hot_value": "293 万热度",
-      "index": 7
     },
     {
       "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
       "url": "https://www.zhihu.com/question/2061412232924337204",
-      "hot_value": "281 万热度",
-      "index": 8
-    },
-    {
-      "title": "为什么体感酷热，但实际温度却只有 39℃？听说气象局会卡 40℃，这种说法是否合理？",
-      "url": "https://www.zhihu.com/question/2061366752232190902",
-      "hot_value": "212 万热度",
-      "index": 9
-    },
-    {
-      "title": "美加墨世界杯三四名决赛，法国 vs 英格兰，你看好谁能获得季军？",
-      "url": "https://www.zhihu.com/question/2061357730921820468",
-      "hot_value": "194 万热度",
-      "index": 10
+      "hot_value": "301 万热度",
+      "index": 7
     },
     {
       "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
       "url": "https://www.zhihu.com/question/2061067983900906626",
-      "hot_value": "181 万热度",
-      "index": 11
-    },
-    {
-      "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
-      "url": "https://www.zhihu.com/question/660373683",
-      "hot_value": "163 万热度",
-      "index": 12
+      "hot_value": "260 万热度",
+      "index": 8
     },
     {
       "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2061833227313189605",
-      "hot_value": "145 万热度",
-      "index": 13
+      "hot_value": "239 万热度",
+      "index": 9
+    },
+    {
+      "title": "日本女护士输液管中混粪便致死，暴露了医疗管理哪些问题？",
+      "url": "https://www.zhihu.com/question/2060865422690366421",
+      "hot_value": "218 万热度",
+      "index": 10
     },
     {
       "title": "如何看待曝大 S 生前用手机写下遗产分配方案，珠宝、名牌包留给女儿？",
       "url": "https://www.zhihu.com/question/2060765589857990533",
-      "hot_value": "133 万热度",
+      "hot_value": "210 万热度",
+      "index": 11
+    },
+    {
+      "title": "为什么贝克汉姆会和恩师弗格森反目，选择出走曼联？",
+      "url": "https://www.zhihu.com/question/503931227",
+      "hot_value": "201 万热度",
+      "index": 12
+    },
+    {
+      "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
+      "url": "https://www.zhihu.com/question/660373683",
+      "hot_value": "185 万热度",
+      "index": 13
+    },
+    {
+      "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+      "url": "https://www.zhihu.com/question/2061441397995954863",
+      "hot_value": "163 万热度",
       "index": 14
     },
     {
-      "title": "领导喜欢看人下菜欺负老实人，应该硬刚还是委屈求全？",
-      "url": "https://www.zhihu.com/question/1998339662528397803",
-      "hot_value": "128 万热度",
+      "title": "很多人说「买游戏比养其他爱好便宜」，是真的吗？",
+      "url": "https://www.zhihu.com/question/2060695050443608324",
+      "hot_value": "146 万热度",
       "index": 15
-    },
-    {
-      "title": "EWC 淘汰赛 DK 2:1 BLG，lpl 三支参赛队伍全部淘汰，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2061601737702740964",
-      "hot_value": "125 万热度",
-      "index": 16
-    },
-    {
-      "title": "如何看待《凡人修仙传》第 183 集？",
-      "url": "https://www.zhihu.com/question/2061776695682676563",
-      "hot_value": "109 万热度",
-      "index": 17
-    },
-    {
-      "title": "为什么《暮光之城》男主扮演者这么讨厌《暮光之城》？",
-      "url": "https://www.zhihu.com/question/62842616",
-      "hot_value": "99 万热度",
-      "index": 18
-    },
-    {
-      "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
-      "url": "https://www.zhihu.com/question/2061186638059758273",
-      "hot_value": "96 万热度",
-      "index": 19
     },
     {
       "title": "遭终身禁足的前国脚申思被举报掌掴小球员，上海足协通报其所在俱乐部被警告罚款，申思可能面临哪些法律责任？",
       "url": "https://www.zhihu.com/question/2061692639876059528",
-      "hot_value": "87 万热度",
-      "index": 20
+      "hot_value": "142 万热度",
+      "index": 16
     },
     {
-      "title": "过完 4.4，如何评价绝灭大君归寂？",
-      "url": "https://www.zhihu.com/question/2061128752109711966",
-      "hot_value": "77 万热度",
-      "index": 21
+      "title": "阿根廷有夺冠迹象吗？",
+      "url": "https://www.zhihu.com/question/2060955428196987375",
+      "hot_value": "129 万热度",
+      "index": 17
     },
     {
-      "title": "《群星闪耀时》开点映了，已经看完的朋友来说说，如何评价这部电影？",
-      "url": "https://www.zhihu.com/question/2058505695797031998",
-      "hot_value": "72 万热度",
-      "index": 22
+      "title": "合弓纲和蜥形纲谁才能走到最后？",
+      "url": "https://www.zhihu.com/question/355741947",
+      "hot_value": "118 万热度",
+      "index": 18
     },
     {
-      "title": "孩子画一些没什么意义的东西，我只是心平气和地问问她，她为什么宁可哭也不回答？",
-      "url": "https://www.zhihu.com/question/2061391637109010870",
-      "hot_value": "70 万热度",
-      "index": 23
-    },
-    {
-      "title": "如何判断一个销售人员是否具有销冠的潜力？",
-      "url": "https://www.zhihu.com/question/1953727246444504549",
-      "hot_value": "68 万热度",
-      "index": 24
-    },
-    {
-      "title": "电影《八仙！》中有哪些细思极恐的地方？",
-      "url": "https://www.zhihu.com/question/2061503601025835441",
-      "hot_value": "60 万热度",
-      "index": 25
-    },
-    {
-      "title": "迪士尼《海洋奇缘：启航》票房惨败，首周全球 9500 万美元远低预期，恐净亏损 1 亿美元，原因何在？",
-      "url": "https://www.zhihu.com/question/2059974558191285469",
-      "hot_value": "59 万热度",
-      "index": 26
-    },
-    {
-      "title": "三部门分步调整部分电池消费税政策，对无汞原电池、锂原电池等按 2% 税率征税，将产生哪些影响？",
-      "url": "https://www.zhihu.com/question/2061492056724174422",
-      "hot_value": "59 万热度",
-      "index": 27
-    },
-    {
-      "title": "英国政府通过相关立法，将中国敬业集团旗下的英国钢铁公司国有化，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2038539763599266938",
-      "hot_value": "58 万热度",
-      "index": 28
-    },
-    {
-      "title": "大家用过 workbuddy 了吗，有什么感受？",
-      "url": "https://www.zhihu.com/question/2031424971629651052",
-      "hot_value": "58 万热度",
-      "index": 29
+      "title": "科幻悬疑惊悚片《恐怖游轮》首次内地影院上映，看完后你感受如何？",
+      "url": "https://www.zhihu.com/question/2060326112048018673",
+      "hot_value": "90 万热度",
+      "index": 19
     },
     {
       "title": "兔子有对主人有感情吗？",
       "url": "https://www.zhihu.com/question/340931234",
-      "hot_value": "58 万热度",
+      "hot_value": "88 万热度",
+      "index": 20
+    },
+    {
+      "title": "为什么同一个医生，今天去是普通门诊医生，明天去就是专家医生了？",
+      "url": "https://www.zhihu.com/question/2061126196163826320",
+      "hot_value": "87 万热度",
+      "index": 21
+    },
+    {
+      "title": "你童年里那些「无聊」的下午，发呆、爬树、瞎玩，对今天的你来说，是浪费，还是创造力来源？",
+      "url": "https://www.zhihu.com/question/2057919283867522111",
+      "hot_value": "70 万热度",
+      "index": 22
+    },
+    {
+      "title": "ofo 停更近 5 年后突然发文，此次「复活」释放了什么信号？199 元押金还有可能退回吗？",
+      "url": "https://www.zhihu.com/question/2061443447983007294",
+      "hot_value": "57 万热度",
+      "index": 23
+    },
+    {
+      "title": "如何看待《凡人修仙传》第 183 集？",
+      "url": "https://www.zhihu.com/question/2061776695682676563",
+      "hot_value": "57 万热度",
+      "index": 24
+    },
+    {
+      "title": "为什么会有钢琴老师讲不带成人学生？",
+      "url": "https://www.zhihu.com/question/2042257207627179809",
+      "hot_value": "56 万热度",
+      "index": 25
+    },
+    {
+      "title": "2026 年 EWC 八进四，VG2 比 0 战胜 Falcons，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2061570147698194277",
+      "hot_value": "56 万热度",
+      "index": 26
+    },
+    {
+      "title": "为什么家长都做过一次小孩，还是会自然而然地忽视孩子的需求?",
+      "url": "https://www.zhihu.com/question/657768547",
+      "hot_value": "56 万热度",
+      "index": 27
+    },
+    {
+      "title": "香菱为什么期待夏金桂来，夏金桂反而害香菱？",
+      "url": "https://www.zhihu.com/question/511412772",
+      "hot_value": "56 万热度",
+      "index": 28
+    },
+    {
+      "title": "为什么很多游戏的最终 Boss 反而没有中期 Boss 难？这么设计的目的在哪里？",
+      "url": "https://www.zhihu.com/question/2060383043647444570",
+      "hot_value": "56 万热度",
+      "index": 29
+    },
+    {
+      "title": "古人学习书法的秘诀是什么？",
+      "url": "https://www.zhihu.com/question/632282181",
+      "hot_value": "56 万热度",
       "index": 30
     }
   ]
