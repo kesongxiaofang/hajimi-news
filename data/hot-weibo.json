@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-07-19T14:43:26Z",
+  "update_time": "2026-07-19T18:09:36Z",
   "count": 30,
   "list": [
     {
-      "title": "马龙许昕男双冠军",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E7%94%B7%E5%8F%8C%E5%86%A0%E5%86%9B%23",
-      "hot_value": "2752261",
+      "title": "劝告大家聊天记录真不能删除",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9D%E5%91%8A%E5%A4%A7%E5%AE%B6%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E7%9C%9F%E4%B8%8D%E8%83%BD%E5%88%A0%E9%99%A4%23",
+      "hot_value": "2094511",
       "index": 1
     },
     {
-      "title": "来不及说我爱你",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A5%E4%B8%8D%E5%8F%8A%E8%AF%B4%E6%88%91%E7%88%B1%E4%BD%A0%23",
-      "hot_value": "1065054",
+      "title": "现在的女装有种大家都不用上班的感觉",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A5%B3%E8%A3%85%E6%9C%89%E7%A7%8D%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E7%94%A8%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%84%9F%E8%A7%89%23",
+      "hot_value": "700143",
       "index": 2
     },
     {
-      "title": "青春启程踏歌行",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%90%AF%E7%A8%8B%E8%B8%8F%E6%AD%8C%E8%A1%8C%23",
-      "hot_value": "992677",
+      "title": "世界人工智能合作组织重要阶段性进展",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E9%87%8D%E8%A6%81%E9%98%B6%E6%AE%B5%E6%80%A7%E8%BF%9B%E5%B1%95%23",
+      "hot_value": "385544",
       "index": 3
-    },
-    {
-      "title": "没想到王俊凯的工作留痕在这用上了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%9A%84%E5%B7%A5%E4%BD%9C%E7%95%99%E7%97%95%E5%9C%A8%E8%BF%99%E7%94%A8%E4%B8%8A%E4%BA%86%23",
-      "hot_value": "975861",
-      "index": 4
-    },
-    {
-      "title": "九尾 无畏",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE+%E6%97%A0%E7%95%8F%23",
-      "hot_value": "957979",
-      "index": 5
-    },
-    {
-      "title": "存钱过万一定要办理纸质存单",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%92%B1%E8%BF%87%E4%B8%87%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8A%9E%E7%90%86%E7%BA%B8%E8%B4%A8%E5%AD%98%E5%8D%95%23",
-      "hot_value": "797818",
-      "index": 6
-    },
-    {
-      "title": "马龙许昕回应男双冠军",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E5%9B%9E%E5%BA%94%E7%94%B7%E5%8F%8C%E5%86%A0%E5%86%9B%23",
-      "hot_value": "661235",
-      "index": 7
-    },
-    {
-      "title": "丁禹兮忙了一天打开手机天塌了",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BF%99%E4%BA%86%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23",
-      "hot_value": "561946",
-      "index": 8
-    },
-    {
-      "title": "功夫女足票房",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%23",
-      "hot_value": "521851",
-      "index": 9
-    },
-    {
-      "title": "西班牙阿根廷预测",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A2%84%E6%B5%8B%23",
-      "hot_value": "461298",
-      "index": 10
-    },
-    {
-      "title": "谁给代露娃做的妆造",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E4%BB%A3%E9%9C%B2%E5%A8%83%E5%81%9A%E7%9A%84%E5%A6%86%E9%80%A0%23",
-      "hot_value": "448761",
-      "index": 11
-    },
-    {
-      "title": "王俊凯我该哭一下应景吗",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%88%91%E8%AF%A5%E5%93%AD%E4%B8%80%E4%B8%8B%E5%BA%94%E6%99%AF%E5%90%97%23",
-      "hot_value": "448066",
-      "index": 12
-    },
-    {
-      "title": "莎头 集齐金银铜",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4+%E9%9B%86%E9%BD%90%E9%87%91%E9%93%B6%E9%93%9C%23",
-      "hot_value": "412270",
-      "index": 13
-    },
-    {
-      "title": "这一秒过火台词好搞笑",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%8F%B0%E8%AF%8D%E5%A5%BD%E6%90%9E%E7%AC%91%23",
-      "hot_value": "411357",
-      "index": 14
     },
     {
       "title": "澎湖海战 撤档",
       "url": "https://s.weibo.com/weibo?q=%23%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98+%E6%92%A4%E6%A1%A3%23",
-      "hot_value": "411156",
-      "index": 15
+      "hot_value": "343976",
+      "index": 4
     },
     {
-      "title": "上海一盒马被淹",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%9B%92%E9%A9%AC%E8%A2%AB%E6%B7%B9%23",
-      "hot_value": "409177",
-      "index": 16
+      "title": "蔡依林唱心引力送给王俊凯",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E5%94%B1%E5%BF%83%E5%BC%95%E5%8A%9B%E9%80%81%E7%BB%99%E7%8E%8B%E4%BF%8A%E5%87%AF%23",
+      "hot_value": "208121",
+      "index": 5
     },
     {
-      "title": "这一秒过火强吻好尬",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%BC%BA%E5%90%BB%E5%A5%BD%E5%B0%AC%23",
-      "hot_value": "408976",
-      "index": 17
+      "title": "TTG涵 小雪",
+      "url": "https://s.weibo.com/weibo?q=%23TTG%E6%B6%B5+%E5%B0%8F%E9%9B%AA%23",
+      "hot_value": "199032",
+      "index": 6
     },
     {
-      "title": "王源唱答案",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%94%B1%E7%AD%94%E6%A1%88%23",
-      "hot_value": "405465",
-      "index": 18
+      "title": "西班牙vs阿根廷",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7%23",
+      "hot_value": "164549",
+      "index": 7
     },
     {
-      "title": "妈妈辅导作业一巴掌撞掉孩子门牙",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%BE%85%E5%AF%BC%E4%BD%9C%E4%B8%9A%E4%B8%80%E5%B7%B4%E6%8E%8C%E6%92%9E%E6%8E%89%E5%AD%A9%E5%AD%90%E9%97%A8%E7%89%99%23",
-      "hot_value": "404131",
-      "index": 19
+      "title": "一诺 守约",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA+%E5%AE%88%E7%BA%A6%23",
+      "hot_value": "158372",
+      "index": 8
     },
     {
-      "title": "猪油护肤品被曝光",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AA%E6%B2%B9%E6%8A%A4%E8%82%A4%E5%93%81%E8%A2%AB%E6%9B%9D%E5%85%89%23",
-      "hot_value": "403599",
-      "index": 20
+      "title": "来不及说我爱你",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A5%E4%B8%8D%E5%8F%8A%E8%AF%B4%E6%88%91%E7%88%B1%E4%BD%A0%23",
+      "hot_value": "156789",
+      "index": 9
     },
     {
-      "title": "上海突发强雷暴",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%AA%81%E5%8F%91%E5%BC%BA%E9%9B%B7%E6%9A%B4%23",
-      "hot_value": "403580",
-      "index": 21
+      "title": "曝Bin自己还没考虑清楚",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DBin%E8%87%AA%E5%B7%B1%E8%BF%98%E6%B2%A1%E8%80%83%E8%99%91%E6%B8%85%E6%A5%9A%23",
+      "hot_value": "143445",
+      "index": 10
     },
     {
-      "title": "八仙",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%BB%99%23",
-      "hot_value": "403525",
-      "index": 22
+      "title": "男子闪婚后发现妻子吸毒坐牢患梅毒",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%97%AA%E5%A9%9A%E5%90%8E%E5%8F%91%E7%8E%B0%E5%A6%BB%E5%AD%90%E5%90%B8%E6%AF%92%E5%9D%90%E7%89%A2%E6%82%A3%E6%A2%85%E6%AF%92%23",
+      "hot_value": "143217",
+      "index": 11
     },
     {
-      "title": "张子枫瘦成这样了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E7%98%A6%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23",
-      "hot_value": "393460",
-      "index": 23
-    },
-    {
-      "title": "马来西亚宣布驱逐所有以色列人",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%AE%A3%E5%B8%83%E9%A9%B1%E9%80%90%E6%89%80%E6%9C%89%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%23",
-      "hot_value": "382074",
-      "index": 24
+      "title": "蒙淇淇追着这一秒过火杀",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%92%99%E6%B7%87%E6%B7%87%E8%BF%BD%E7%9D%80%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E6%9D%80%23",
+      "hot_value": "139020",
+      "index": 12
     },
     {
       "title": "世界杯",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%23",
-      "hot_value": "379164",
+      "hot_value": "133670",
+      "index": 13
+    },
+    {
+      "title": "回溯性嫉妒",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%BA%AF%E6%80%A7%E5%AB%89%E5%A6%92%23",
+      "hot_value": "133669",
+      "index": 14
+    },
+    {
+      "title": "九尾 无畏",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE+%E6%97%A0%E7%95%8F%23",
+      "hot_value": "133667",
+      "index": 15
+    },
+    {
+      "title": "八仙",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%BB%99%23",
+      "hot_value": "133664",
+      "index": 16
+    },
+    {
+      "title": "陈靖可回应虞书欣化妆",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9D%96%E5%8F%AF%E5%9B%9E%E5%BA%94%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8C%96%E5%A6%86%23",
+      "hot_value": "133661",
+      "index": 17
+    },
+    {
+      "title": "上海一盒马被淹",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%9B%92%E9%A9%AC%E8%A2%AB%E6%B7%B9%23",
+      "hot_value": "133661",
+      "index": 18
+    },
+    {
+      "title": "外网热议中国KFC卖炸鸡西瓜",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%BD%91%E7%83%AD%E8%AE%AE%E4%B8%AD%E5%9B%BDKFC%E5%8D%96%E7%82%B8%E9%B8%A1%E8%A5%BF%E7%93%9C%23",
+      "hot_value": "133657",
+      "index": 19
+    },
+    {
+      "title": "马龙许昕男双冠军",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E7%94%B7%E5%8F%8C%E5%86%A0%E5%86%9B%23",
+      "hot_value": "133655",
+      "index": 20
+    },
+    {
+      "title": "为什么不上班反而低精力",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%8F%8D%E8%80%8C%E4%BD%8E%E7%B2%BE%E5%8A%9B%23",
+      "hot_value": "133652",
+      "index": 21
+    },
+    {
+      "title": "樊振东展望世界杯决赛",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B1%95%E6%9C%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%23",
+      "hot_value": "133651",
+      "index": 22
+    },
+    {
+      "title": "王俊凯我该哭一下应景吗",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%88%91%E8%AF%A5%E5%93%AD%E4%B8%80%E4%B8%8B%E5%BA%94%E6%99%AF%E5%90%97%23",
+      "hot_value": "133649",
+      "index": 23
+    },
+    {
+      "title": "功夫女足年度票房第三了",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%B9%B4%E5%BA%A6%E7%A5%A8%E6%88%BF%E7%AC%AC%E4%B8%89%E4%BA%86%23",
+      "hot_value": "133647",
+      "index": 24
+    },
+    {
+      "title": "丁禹兮忙了一天打开手机天塌了",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%BF%99%E4%BA%86%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23",
+      "hot_value": "133643",
       "index": 25
     },
     {
-      "title": "马斯克宣称要赶超Kimi",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23",
-      "hot_value": "378950",
+      "title": "TTG让二追三AG",
+      "url": "https://s.weibo.com/weibo?q=%23TTG%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89AG%23",
+      "hot_value": "133641",
       "index": 26
     },
     {
-      "title": "haerin机场图",
-      "url": "https://s.weibo.com/weibo?q=%23haerin%E6%9C%BA%E5%9C%BA%E5%9B%BE%23",
-      "hot_value": "378938",
+      "title": "西班牙阿根廷预测",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A2%84%E6%B5%8B%23",
+      "hot_value": "133640",
       "index": 27
     },
     {
-      "title": "现在能抄底A股吗",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%83%BD%E6%8A%84%E5%BA%95A%E8%82%A1%E5%90%97%23",
-      "hot_value": "374612",
+      "title": "莎头 集齐金银铜",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4+%E9%9B%86%E9%BD%90%E9%87%91%E9%93%B6%E9%93%9C%23",
+      "hot_value": "133637",
       "index": 28
     },
     {
-      "title": "坦克300献给都市年轻人的脚办",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%9D%A6%E5%85%8B300%E7%8C%AE%E7%BB%99%E9%83%BD%E5%B8%82%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E8%84%9A%E5%8A%9E%23",
-      "hot_value": "366588",
+      "title": "百花杀 副cp",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E6%9D%80+%E5%89%AFcp%23",
+      "hot_value": "133636",
       "index": 29
     },
     {
-      "title": "阿根廷球迷刷爆6张信用卡买决赛票",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E5%88%B7%E7%88%866%E5%BC%A0%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%B9%B0%E5%86%B3%E8%B5%9B%E7%A5%A8%23",
-      "hot_value": "363701",
+      "title": "这一秒过火强吻好尬",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%BC%BA%E5%90%BB%E5%A5%BD%E5%B0%AC%23",
+      "hot_value": "133631",
       "index": 30
     }
   ]
