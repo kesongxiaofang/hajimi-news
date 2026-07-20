@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-19T21:11:42Z",
+  "update_time": "2026-07-20T08:27:06Z",
   "count": 30,
   "list": [
     {
-      "title": "马龙 / 许昕获全国乒乓球锦标赛男双冠军，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2062261231742707046",
-      "hot_value": "1367 万热度",
+      "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
+      "url": "https://www.zhihu.com/question/2062096553184120966",
+      "hot_value": "3782 万热度",
       "index": 1
     },
     {
-      "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2062177729605284253",
-      "hot_value": "1269 万热度",
+      "title": "西班牙队领奖时阿根廷队集体背过身，被批毫无风度，怎样看待他们的做法？为啥本届世界杯阿根廷风评这么差？",
+      "url": "https://www.zhihu.com/question/2062500114510214490",
+      "hot_value": "1081 万热度",
       "index": 2
     },
     {
-      "title": "清华大学的学生中有 80% 的人是过目不忘的，这个是真的么？",
-      "url": "https://www.zhihu.com/question/27686348",
-      "hot_value": "120 万热度",
+      "title": "港媒曝香港演员、谢霆锋父亲谢贤去世，他在影坛留下了哪些经典作品？你对他有哪些记忆？",
+      "url": "https://www.zhihu.com/question/2062563035739156529",
+      "hot_value": "842 万热度",
       "index": 3
     },
     {
-      "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
-      "url": "https://www.zhihu.com/question/2062188301013071138",
-      "hot_value": "119 万热度",
+      "title": "世界杯夺冠后爆发冲突，帕雷德斯锁喉加西亚 + 怒推加维，他会受到追加处罚吗？",
+      "url": "https://www.zhihu.com/question/2062426996529783130",
+      "hot_value": "614 万热度",
       "index": 4
     },
     {
-      "title": "如何看待 EWC 官方邀请其他赛区选手观看《突然的陀螺》，随后因引发 LPL 粉丝不满而下架并处罚相关人员？",
-      "url": "https://www.zhihu.com/question/2062125118537610523",
-      "hot_value": "116 万热度",
+      "title": "给大领导汇报工作，领导经常性抓到一个点就使劲往细节问，直到问答不上，该如何应对呢？这种现象正常吗？",
+      "url": "https://www.zhihu.com/question/2046602314325268215",
+      "hot_value": "512 万热度",
       "index": 5
     },
     {
-      "title": "杭州图书馆允许流浪汉免费入馆阅读，回复投诉读者「我无权拒绝任何人，但你可以离开」，这个做法是否合理？",
-      "url": "https://www.zhihu.com/question/2061763921598476625",
-      "hot_value": "113 万热度",
+      "title": "如何看待最近网传的 deep seek v4 正式版灰测？",
+      "url": "https://www.zhihu.com/question/2059057378591613636",
+      "hot_value": "455 万热度",
       "index": 6
     },
     {
-      "title": "《功夫女足》和《少林足球》，抛开情怀滤镜，单论电影本身，你觉得哪个更好看？为什么？",
-      "url": "https://www.zhihu.com/question/2060160756528702468",
-      "hot_value": "110 万热度",
+      "title": "一年超 8 万家面包店关停，超市烘焙区却排长队，面包生意到底好不好做？反映了怎样的消费趋势？",
+      "url": "https://www.zhihu.com/question/2062293737414160723",
+      "hot_value": "449 万热度",
       "index": 7
     },
     {
-      "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
-      "url": "https://www.zhihu.com/question/2062166923002090163",
-      "hot_value": "109 万热度",
+      "title": "2026 年世界杯决赛 90 分钟常规时间阿根廷 0 射门，全场鲜有机会，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2062406533019690525",
+      "hot_value": "385 万热度",
       "index": 8
     },
     {
-      "title": "我想知道量子纠缠为什么能瞬间影响遥远的粒子？",
-      "url": "https://www.zhihu.com/question/2059281079941457516",
-      "hot_value": "91 万热度",
+      "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
+      "url": "https://www.zhihu.com/question/2062310754481656074",
+      "hot_value": "360 万热度",
       "index": 9
     },
     {
-      "title": "7 月 19 日苏州、杭州、上海等地遭遇大暴雨，你那儿雨下得大吗？出行和生活有没有受到影响？",
-      "url": "https://www.zhihu.com/question/2062227990260311853",
-      "hot_value": "86 万热度",
+      "title": "随着中国降水线北移，南水北调工程还有必要吗？",
+      "url": "https://www.zhihu.com/question/1965460526583777091",
+      "hot_value": "348 万热度",
       "index": 10
     },
     {
-      "title": "如何评价 FIFA 主席说可以中美合办世界杯？这是玩笑还是有所考量？",
-      "url": "https://www.zhihu.com/question/2061815234465981878",
-      "hot_value": "81 万热度",
+      "title": "果葡糖浆，为何被全网妖魔化？",
+      "url": "https://www.zhihu.com/question/2060422444867925192",
+      "hot_value": "335 万热度",
       "index": 11
     },
     {
-      "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
-      "url": "https://www.zhihu.com/question/2061864895159833546",
-      "hot_value": "78 万热度",
+      "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
+      "url": "https://www.zhihu.com/question/2061061982518764560",
+      "hot_value": "292 万热度",
       "index": 12
     },
     {
-      "title": "上半年入境外国人超 2291 万人次，同比增长 20.4%，希腊游客增长近 2 倍，老外为何扎堆来中国避暑？",
-      "url": "https://www.zhihu.com/question/2061485273788191373",
-      "hot_value": "72 万热度",
+      "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+      "url": "https://www.zhihu.com/question/2062518030224061737",
+      "hot_value": "266 万热度",
       "index": 13
     },
     {
-      "title": "电影《八仙！》票房突破 2 亿，猫眼预测超 14 亿，你觉得最终票房能到多少？",
-      "url": "https://www.zhihu.com/question/2062129573198657251",
-      "hot_value": "70 万热度",
+      "title": "2026 年世界杯决赛，恩佐下半场两黄变一红被罚下，对此你怎么看？这是本场比赛的转折点吗？",
+      "url": "https://www.zhihu.com/question/2062406274260492889",
+      "hot_value": "265 万热度",
       "index": 14
     },
     {
-      "title": "养了一个自私的且动不动就以跳楼威胁的女儿，该如何破局？",
-      "url": "https://www.zhihu.com/question/2051758275461436294",
-      "hot_value": "69 万热度",
+      "title": "ThinkPad 真的被联想做糟了吗？",
+      "url": "https://www.zhihu.com/question/20150359",
+      "hot_value": "264 万热度",
       "index": 15
     },
     {
-      "title": "宜家集中出售 8 座商场，已全面清空，其中 7 家商场今年关停，如何看待宜家此次大规模资产处置？",
-      "url": "https://www.zhihu.com/question/2061839991072990909",
-      "hot_value": "68 万热度",
+      "title": "如何评价樊振东在世界杯决赛上的解说表现，这种跨界对他的职业发展有什么帮助吗？",
+      "url": "https://www.zhihu.com/question/2062342631669981740",
+      "hot_value": "263 万热度",
       "index": 16
     },
     {
-      "title": "怎样才能成为一个受人尊重和爱戴的好人？又如何避免成为一个「烂」好人呢？",
-      "url": "https://www.zhihu.com/question/2059067027948582006",
-      "hot_value": "64 万热度",
+      "title": "《滕王阁序》的语言美感是不是任何一篇骈文都无法超越？",
+      "url": "https://www.zhihu.com/question/37521722",
+      "hot_value": "263 万热度",
       "index": 17
     },
     {
-      "title": "两只猫为什么会互相舔毛？怎么知道他们是闹着玩还是真的打架？",
-      "url": "https://www.zhihu.com/question/286733645",
-      "hot_value": "63 万热度",
+      "title": "敬业钢铁发表声明，正告英国政府立即停止以国内法践踏国际投资规则的行径，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2062156594041680900",
+      "hot_value": "263 万热度",
       "index": 18
     },
     {
-      "title": "最早那一批做断骨增高的人，现在怎么样了？",
-      "url": "https://www.zhihu.com/question/279422241",
-      "hot_value": "63 万热度",
+      "title": "中国国新、中国诚通深夜发声，增持中国股票资产，释放什么信号？",
+      "url": "https://www.zhihu.com/question/2062331320521450737",
+      "hot_value": "237 万热度",
       "index": 19
     },
     {
-      "title": "如何评价 7 月 19 日上线的阿里 Qwen 3.8 Max Preview 模型？其性能如何？",
-      "url": "https://www.zhihu.com/question/2062219946885657098",
-      "hot_value": "59 万热度",
+      "title": "我爸坚决认为人活着就是为了孩子，怎么反驳他？",
+      "url": "https://www.zhihu.com/question/614398157",
+      "hot_value": "214 万热度",
       "index": 20
     },
     {
-      "title": "2026 EWC 决赛 DK vs KC，如何评价这场比赛？有哪些看点？",
-      "url": "https://www.zhihu.com/question/2062306087827501412",
-      "hot_value": "59 万热度",
+      "title": "西班牙 1-0 战胜阿根廷，夺得美加墨世界杯冠军，费兰 - 托雷斯加时赛打入制胜球，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2062177729605284253",
+      "hot_value": "191 万热度",
       "index": 21
     },
     {
-      "title": "一切智慧源于苦难，你认同吗？",
-      "url": "https://www.zhihu.com/question/2004304673092433255",
-      "hot_value": "59 万热度",
+      "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
+      "url": "https://www.zhihu.com/question/2061405940272960418",
+      "hot_value": "145 万热度",
       "index": 22
     },
     {
-      "title": "带五岁以下孩子旅游有意义吗？",
-      "url": "https://www.zhihu.com/question/910700435",
-      "hot_value": "59 万热度",
+      "title": "西班牙队仅失一球，创造世界杯冠军球队单届最少失球纪录，怎样评价他们在 2026 美加墨世界杯的表现？",
+      "url": "https://www.zhihu.com/question/2062433435608506955",
+      "hot_value": "130 万热度",
       "index": 23
     },
     {
-      "title": "怎么才能付出不期望回报？",
-      "url": "https://www.zhihu.com/question/352735619",
-      "hot_value": "59 万热度",
+      "title": "网红开塞露兑茶减肥致多人急诊，口服开塞露伤身为何还有大量网友跟风？网传快速减重偏方靠谱吗？",
+      "url": "https://www.zhihu.com/question/2061827498803998870",
+      "hot_value": "127 万热度",
       "index": 24
     },
     {
-      "title": "为什么会有人认为整个华北平原都是黄河三角洲？",
-      "url": "https://www.zhihu.com/question/2055944483448022210",
-      "hot_value": "58 万热度",
+      "title": "齐达内将接替德尚执教法国队，这对法国队会带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2061726403318568881",
+      "hot_value": "114 万热度",
       "index": 25
     },
     {
-      "title": "《功夫女足》好看吗？",
-      "url": "https://www.zhihu.com/question/2059313174541775507",
-      "hot_value": "58 万热度",
+      "title": "沪指、创业板指收红，电力、煤炭板块走强，如何看待 2026 年 7 月 20 日 A 股市场行情？",
+      "url": "https://www.zhihu.com/question/2062469292113891730",
+      "hot_value": "113 万热度",
       "index": 26
     },
     {
-      "title": "罗马帝国灭亡的真正原因，至今仍让我感到困惑，究竟是什么？",
-      "url": "https://www.zhihu.com/question/2049448103732949993",
-      "hot_value": "58 万热度",
+      "title": "韩国多轴导弹发射车的技术水平如何，是自主研发的吗？",
+      "url": "https://www.zhihu.com/question/2061568179881747755",
+      "hot_value": "100 万热度",
       "index": 27
     },
     {
-      "title": "如何评价动画《哥布林杀手》中尽管在生死攸关的时候，精灵仍然禁止主角使用水攻、火攻、毒攻的行为？",
-      "url": "https://www.zhihu.com/question/317421219",
-      "hot_value": "58 万热度",
+      "title": "传统剧集如何应对微短剧冲击？",
+      "url": "https://www.zhihu.com/question/2050915061556852329",
+      "hot_value": "91 万热度",
       "index": 28
     },
     {
-      "title": "新人机大战，2026 年 7 月 19 日第二局，申真谞受让两子击败 katago，如何评价这场对局？",
-      "url": "https://www.zhihu.com/question/2062172305267200014",
-      "hot_value": "58 万热度",
+      "title": "如何评价西班牙获得 2026 年世界杯冠军？谁才是最大的功臣？",
+      "url": "https://www.zhihu.com/question/2062420598895154710",
+      "hot_value": "84 万热度",
       "index": 29
     },
     {
-      "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
-      "url": "https://www.zhihu.com/question/2061156114658485568",
-      "hot_value": "58 万热度",
+      "title": "中国肯德基「炸鸡配西瓜」促销引发美国网友热议，品牌本土化营销需要考虑其他国家的文化禁忌吗？",
+      "url": "https://www.zhihu.com/question/2062469683769336787",
+      "hot_value": "81 万热度",
       "index": 30
     }
   ]
