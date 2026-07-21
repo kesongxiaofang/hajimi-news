@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-21T15:56:43Z",
+  "update_time": "2026-07-21T20:39:03Z",
   "count": 30,
   "list": [
     {
       "title": "如何看待旭旭宝宝回应网暴风波，称「一句一地鸡毛被黑切片利用，自己绝不向造谣者妥协」？",
       "url": "https://www.zhihu.com/question/2062763580878071282",
-      "hot_value": "439 万热度",
+      "hot_value": "309 万热度",
       "index": 1
     },
     {
       "title": "如何看待 26 年 7 月 DDR5 内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
       "url": "https://www.zhihu.com/question/2061301718021886552",
-      "hot_value": "285 万热度",
+      "hot_value": "272 万热度",
       "index": 2
+    },
+    {
+      "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+      "url": "https://www.zhihu.com/question/2061915732447687216",
+      "hot_value": "234 万热度",
+      "index": 3
     },
     {
       "title": "房车博主大批消失，床车自驾爆火，二者差距到底有多大？",
       "url": "https://www.zhihu.com/question/2058243911978690417",
-      "hot_value": "282 万热度",
-      "index": 3
-    },
-    {
-      "title": "马宁首次回应无缘主哨淘汰赛，称到现在都不知道为什么，配置问题不是核心原因，那问题可能出在哪里？",
-      "url": "https://www.zhihu.com/question/2062863345573803605",
-      "hot_value": "204 万热度",
+      "hot_value": "205 万热度",
       "index": 4
     },
     {
-      "title": "《功夫女足》上映 10 天票房破 15 亿，电影做对了哪些事？给周星驰、张小斐、迪丽热巴带来哪些收益？",
-      "url": "https://www.zhihu.com/question/2062587924949083357",
-      "hot_value": "188 万热度",
+      "title": "河北农民撒药护苗毒死邻居家 15 只羊获刑 4 年，这一判决合理吗？自家地撒药为何构成投放危险物质罪？",
+      "url": "https://www.zhihu.com/question/2062659274120098235",
+      "hot_value": "202 万热度",
       "index": 5
     },
     {
       "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
       "url": "https://www.zhihu.com/question/2062838747457131203",
-      "hot_value": "187 万热度",
+      "hot_value": "191 万热度",
       "index": 6
     },
     {
-      "title": "河北农民撒药护苗毒死邻居家 15 只羊获刑 4 年，这一判决合理吗？自家地撒药为何构成投放危险物质罪？",
-      "url": "https://www.zhihu.com/question/2062659274120098235",
-      "hot_value": "187 万热度",
+      "title": "「怡颗莓」草莓被指检出 8 种 PFAS 永久性化学物，在美遭集体起诉，这些从何而来？食用风险有多大？",
+      "url": "https://www.zhihu.com/question/2061447703125390721",
+      "hot_value": "180 万热度",
       "index": 7
-    },
-    {
-      "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-      "url": "https://www.zhihu.com/question/2062849285499138343",
-      "hot_value": "187 万热度",
-      "index": 8
     },
     {
       "title": "高温天每天喝 3000 毫升水不会加重肾脏负担，这个说法是真的吗？",
       "url": "https://www.zhihu.com/question/2062498174825141693",
-      "hot_value": "187 万热度",
+      "hot_value": "164 万热度",
+      "index": 8
+    },
+    {
+      "title": "马宁首次回应无缘主哨淘汰赛，称到现在都不知道为什么，配置问题不是核心原因，那问题可能出在哪里？",
+      "url": "https://www.zhihu.com/question/2062863345573803605",
+      "hot_value": "149 万热度",
       "index": 9
     },
     {
       "title": "听说日本自行车拥有量亚洲第一，日本人真的这么喜欢骑自行车吗？",
       "url": "https://www.zhihu.com/question/58397168",
-      "hot_value": "186 万热度",
+      "hot_value": "145 万热度",
       "index": 10
-    },
-    {
-      "title": "「怡颗莓」草莓被指检出 8 种 PFAS 永久性化学物，在美遭集体起诉，这些从何而来？食用风险有多大？",
-      "url": "https://www.zhihu.com/question/2061447703125390721",
-      "hot_value": "186 万热度",
-      "index": 11
-    },
-    {
-      "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
-      "url": "https://www.zhihu.com/question/2061915732447687216",
-      "hot_value": "185 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何看待 Bin 发文暂别赛场，BLG 第三赛段启用 Wenbo，这可能会对队伍造成哪些影响？",
-      "url": "https://www.zhihu.com/question/2062948923971302955",
-      "hot_value": "183 万热度",
-      "index": 13
-    },
-    {
-      "title": "小米上调全年手机出货目标至 1.1 亿部，增幅约 16%，增量主要来自低端机型，如何看待此举？",
-      "url": "https://www.zhihu.com/question/2062847046097408907",
-      "hot_value": "179 万热度",
-      "index": 14
-    },
-    {
-      "title": "西班牙最后夺冠，会改变各国接下来几年的踢法吗？",
-      "url": "https://www.zhihu.com/question/2062436664497246459",
-      "hot_value": "176 万热度",
-      "index": 15
-    },
-    {
-      "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
-      "url": "https://www.zhihu.com/question/2061399390741337380",
-      "hot_value": "155 万热度",
-      "index": 16
-    },
-    {
-      "title": "武汉一工人高空作业从 60 层降到 14 层，发现副绳疑遭人为割断，此举可能触犯了哪些法律？",
-      "url": "https://www.zhihu.com/question/2062307894830408467",
-      "hot_value": "134 万热度",
-      "index": 17
     },
     {
       "title": "影视飓风被指一群员工陪老板演松弛感白人，影视飓风回应「解读太恶毒」，如何看待此事？",
       "url": "https://www.zhihu.com/question/2062642099518795923",
-      "hot_value": "134 万热度",
+      "hot_value": "143 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何评价《绝区零》在游戏活动界面里，把 3.1 版本 PV 的内置跳转链接从 B 站改成了抖音精选？",
+      "url": "https://www.zhihu.com/question/2061595522134282638",
+      "hot_value": "141 万热度",
+      "index": 12
+    },
+    {
+      "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
+      "url": "https://www.zhihu.com/question/2062554385847160852",
+      "hot_value": "130 万热度",
+      "index": 13
+    },
+    {
+      "title": "如何看待父母「你不要比吃，不要比穿，就比学习」的想法？",
+      "url": "https://www.zhihu.com/question/324437913",
+      "hot_value": "126 万热度",
+      "index": 14
+    },
+    {
+      "title": "《功夫女足》上映 10 天票房破 15 亿，电影做对了哪些事？给周星驰、张小斐、迪丽热巴带来哪些收益？",
+      "url": "https://www.zhihu.com/question/2062587924949083357",
+      "hot_value": "121 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+      "url": "https://www.zhihu.com/question/2062849285499138343",
+      "hot_value": "118 万热度",
+      "index": 16
+    },
+    {
+      "title": "如何看待最近一个多月 LoL 大面积掉帧卡顿，甚至 98X3D+5080 都无法幸免？这是什么原因导致的？",
+      "url": "https://www.zhihu.com/question/2060590586902714339",
+      "hot_value": "107 万热度",
+      "index": 17
+    },
+    {
+      "title": "为什么癸酉本《石头记》存在诸多漏洞，却仍被许多人视为真本？",
+      "url": "https://www.zhihu.com/question/2036634256450049470",
+      "hot_value": "106 万热度",
       "index": 18
     },
     {
-      "title": "为什么日韩人民突然同步爱吃麻辣烫了？",
-      "url": "https://www.zhihu.com/question/2058337204255118363",
-      "hot_value": "122 万热度",
+      "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
+      "url": "https://www.zhihu.com/question/2063033606767895735",
+      "hot_value": "105 万热度",
       "index": 19
     },
     {
       "title": "怎么理解苏轼的「人间有味是清欢」？",
       "url": "https://www.zhihu.com/question/298138448",
-      "hot_value": "121 万热度",
+      "hot_value": "105 万热度",
       "index": 20
     },
     {
-      "title": "为什么癸酉本《石头记》存在诸多漏洞，却仍被许多人视为真本？",
-      "url": "https://www.zhihu.com/question/2036634256450049470",
-      "hot_value": "119 万热度",
+      "title": "阿根廷全队球员赛后集体拒绝采访，媒体等待近两小时无果，阿根廷足协或因此受罚，如何看待这一行为？",
+      "url": "https://www.zhihu.com/question/2062545559978598939",
+      "hot_value": "105 万热度",
       "index": 21
     },
     {
-      "title": "如何看待父母「你不要比吃，不要比穿，就比学习」的想法？",
-      "url": "https://www.zhihu.com/question/324437913",
-      "hot_value": "118 万热度",
+      "title": "《功夫女足》为何评价两极分化？",
+      "url": "https://www.zhihu.com/question/2060401676952023603",
+      "hot_value": "100 万热度",
       "index": 22
     },
     {
-      "title": "中国计划 2030 年前载人登月，美国计划 2028 年重返月球，你觉得谁会先上？为什么？",
-      "url": "https://www.zhihu.com/question/2062554385847160852",
-      "hot_value": "106 万热度",
+      "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2061356466783642903",
+      "hot_value": "93 万热度",
       "index": 23
+    },
+    {
+      "title": "武汉一工人高空作业从 60 层降到 14 层，发现副绳疑遭人为割断，此举可能触犯了哪些法律？",
+      "url": "https://www.zhihu.com/question/2062307894830408467",
+      "hot_value": "91 万热度",
+      "index": 24
+    },
+    {
+      "title": "乐事回应「消费者吃到蓝色薯片」，系工厂使用的着色验证薯片，不影响食品安全与品质，薯片为什么要着色验证？",
+      "url": "https://www.zhihu.com/question/2061399390741337380",
+      "hot_value": "91 万热度",
+      "index": 25
+    },
+    {
+      "title": "《英雄联盟》经典模式 7 月 30 日上线，你对早期玩法回归有何期待？",
+      "url": "https://www.zhihu.com/question/2059967055030440227",
+      "hot_value": "88 万热度",
+      "index": 26
     },
     {
       "title": "谢贤去世，谢霆锋发文缅怀称「不用哭，他会觉得那样不够潇洒」，勾勒出谢贤怎样的人生态度？",
       "url": "https://www.zhihu.com/question/2062576530270548828",
-      "hot_value": "92 万热度",
-      "index": 24
-    },
-    {
-      "title": "如何看待最近一个多月 LoL 大面积掉帧卡顿，甚至 98X3D+5080 都无法幸免？这是什么原因导致的？",
-      "url": "https://www.zhihu.com/question/2060590586902714339",
       "hot_value": "86 万热度",
-      "index": 25
-    },
-    {
-      "title": "从《八仙！》上映来说，八仙有八个人，为何多数影视剧中八仙的故事，总是以吕洞宾当第一主角？",
-      "url": "https://www.zhihu.com/question/2062307341001926171",
-      "hot_value": "81 万热度",
-      "index": 26
-    },
-    {
-      "title": "反向思考：一个健康的普通人，如何才能快速地患上糖尿病？",
-      "url": "https://www.zhihu.com/question/2061409494261929437",
-      "hot_value": "72 万热度",
       "index": 27
     },
     {
-      "title": "怎么样才算「珍惜时间」？",
-      "url": "https://www.zhihu.com/question/2053790475665069381",
-      "hot_value": "66 万热度",
+      "title": "截止《原神》月之八登月任务，你是怎么看待提瓦特人类和龙族的关系与未来可能的走向的?",
+      "url": "https://www.zhihu.com/question/2061474721691070640",
+      "hot_value": "84 万热度",
       "index": 28
     },
     {
-      "title": "为什么我和孩子总是因为小事争吵不休，是沟通出了问题吗？",
-      "url": "https://www.zhihu.com/question/2048647590846248745",
-      "hot_value": "65 万热度",
+      "title": "为什么艾泽拉斯本土种族能接纳兽人，却不能接纳燃烧军团？",
+      "url": "https://www.zhihu.com/question/2037433965611591455",
+      "hot_value": "79 万热度",
       "index": 29
     },
     {
-      "title": "青春里最印象深刻的事是什么？",
-      "url": "https://www.zhihu.com/question/267656742",
-      "hot_value": "64 万热度",
+      "title": "侯亮平如果娶的不是钟小艾，赵瑞龙欲暗杀侯亮平时会不会因姐姐一句「动了他整个赵家都承担不起」而叫停？",
+      "url": "https://www.zhihu.com/question/2056289647056237543",
+      "hot_value": "70 万热度",
       "index": 30
     }
   ]
