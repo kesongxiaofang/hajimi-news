@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-20T20:49:08Z",
+  "update_time": "2026-07-21T00:15:08Z",
   "count": 30,
   "list": [
     {
       "title": "树恨你",
       "url": "https://www.bilibili.com/video/BV1h4KU66ENd",
-      "hot_value": "2592103播放",
+      "hot_value": "2822160播放",
       "index": 1
     },
     {
       "title": "无骨草鱼 无骨草鱼教学，十年老师傅无保留教大家，简单易学。",
       "url": "https://www.bilibili.com/video/BV1P6KA6NEDq",
-      "hot_value": "2045901播放",
+      "hot_value": "2119646播放",
       "index": 2
     },
     {
       "title": "《鸣潮》巡回演唱会「致予新世界」官方录播",
       "url": "https://www.bilibili.com/video/BV1XhKr69EDd",
-      "hot_value": "2628531播放",
+      "hot_value": "2639675播放",
       "index": 3
     },
     {
       "title": "千万博主谈b站真相（完整版）",
       "url": "https://www.bilibili.com/video/BV1oiKm6yEYU",
-      "hot_value": "1130551播放",
+      "hot_value": "1187561播放",
       "index": 4
-    },
-    {
-      "title": "沉浸式感受清朝御厨制作摔不碎的豆腐",
-      "url": "https://www.bilibili.com/video/BV1EpKr6cEAx",
-      "hot_value": "1967559播放",
-      "index": 5
-    },
-    {
-      "title": "我在世界杯闭幕式表演了我的世界杯主题曲 Champion！",
-      "url": "https://www.bilibili.com/video/BV1ECKk6vEDq",
-      "hot_value": "1382650播放",
-      "index": 6
     },
     {
       "title": "史蒂夫执教中国队！【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV16DKq6sErJ",
-      "hot_value": "3003580播放",
-      "index": 7
+      "hot_value": "3038436播放",
+      "index": 5
     },
     {
       "title": "新乐器！订书钉演奏《千本樱》",
       "url": "https://www.bilibili.com/video/BV13YNd6dEb9",
-      "hot_value": "9273783播放",
+      "hot_value": "9313527播放",
+      "index": 6
+    },
+    {
+      "title": "全 网 最 幸 运 的 动 画 教 程   3.5",
+      "url": "https://www.bilibili.com/video/BV1BfKr6vEQr",
+      "hot_value": "1335308播放",
+      "index": 7
+    },
+    {
+      "title": "足坛真神TOP：亚马尔！西班牙世界杯冠军！谁的青春竟能如此",
+      "url": "https://www.bilibili.com/video/BV1ECKy6VEf3",
+      "hot_value": "1672659播放",
       "index": 8
     },
     {
       "title": "寻找卢本伟",
       "url": "https://www.bilibili.com/video/BV1oHNv6kEzB",
-      "hot_value": "10146243播放",
+      "hot_value": "10184100播放",
       "index": 9
     },
     {
-      "title": "《秋名山外卖神》",
-      "url": "https://www.bilibili.com/video/BV1iSKy6uEvw",
-      "hot_value": "2528524播放",
+      "title": "我在世界杯闭幕式表演了我的世界杯主题曲 Champion！",
+      "url": "https://www.bilibili.com/video/BV1ECKk6vEDq",
+      "hot_value": "1423067播放",
       "index": 10
     },
     {
-      "title": "鹤岗地窖一天生活，今天吃烤串",
-      "url": "https://www.bilibili.com/video/BV1WpKB6YExb",
-      "hot_value": "687768播放",
+      "title": "沉浸式感受清朝御厨制作摔不碎的豆腐",
+      "url": "https://www.bilibili.com/video/BV1EpKr6cEAx",
+      "hot_value": "2009329播放",
       "index": 11
-    },
-    {
-      "title": "【蓝牙耳机推荐2026】 7月大合集！含音质和降噪测试！百元蓝牙耳机/入耳式蓝牙耳机/降噪蓝牙耳机/手机厂/HIFI厂耳机推荐！全价位各大品牌对比！",
-      "url": "https://www.bilibili.com/video/BV11jKm6bE61",
-      "hot_value": "745953播放",
-      "index": 12
-    },
-    {
-      "title": "足坛真神TOP：亚马尔！西班牙世界杯冠军！谁的青春竟能如此",
-      "url": "https://www.bilibili.com/video/BV1ECKy6VEf3",
-      "hot_value": "1627357播放",
-      "index": 13
-    },
-    {
-      "title": "全 网 最 幸 运 的 动 画 教 程   3.5",
-      "url": "https://www.bilibili.com/video/BV1BfKr6vEQr",
-      "hot_value": "1290749播放",
-      "index": 14
-    },
-    {
-      "title": "《 双 枪 牛 仔 》",
-      "url": "https://www.bilibili.com/video/BV1S6Kr6mEgi",
-      "hot_value": "2288287播放",
-      "index": 15
-    },
-    {
-      "title": "不是哥们，放火威胁律师 ？",
-      "url": "https://www.bilibili.com/video/BV1PmNd6jEij",
-      "hot_value": "1815459播放",
-      "index": 16
-    },
-    {
-      "title": "你的房子里有东西……",
-      "url": "https://www.bilibili.com/video/BV1PiKW6tEir",
-      "hot_value": "23268播放",
-      "index": 17
-    },
-    {
-      "title": "⚡MC史上最强附魔⚡",
-      "url": "https://www.bilibili.com/video/BV1N1Kr6LEQD",
-      "hot_value": "1511419播放",
-      "index": 18
     },
     {
       "title": "1~11集合集来喽!",
       "url": "https://www.bilibili.com/video/BV1apK56LEqV",
-      "hot_value": "847981播放",
-      "index": 19
+      "hot_value": "854319播放",
+      "index": 12
     },
     {
-      "title": "67岁老人坚持锻炼身体不给儿女添麻烦教程",
-      "url": "https://www.bilibili.com/video/BV1sUKn6QEQG",
-      "hot_value": "3169157播放",
-      "index": 20
-    },
-    {
-      "title": "⚡对 对 子 战 神 8⚡",
-      "url": "https://www.bilibili.com/video/BV1ngKq6XEgb",
-      "hot_value": "2895109播放",
-      "index": 21
-    },
-    {
-      "title": "当我做了一套水下钢铁侠推进器...",
-      "url": "https://www.bilibili.com/video/BV1bFKn6xEfb",
-      "hot_value": "3065286播放",
-      "index": 22
+      "title": "《秋名山外卖神》",
+      "url": "https://www.bilibili.com/video/BV1iSKy6uEvw",
+      "hot_value": "2579295播放",
+      "index": 13
     },
     {
       "title": "【世界杯终局之战】复仇者，集结！",
       "url": "https://www.bilibili.com/video/BV1dpKz6HEd4",
-      "hot_value": "673524播放",
+      "hot_value": "714450播放",
+      "index": 14
+    },
+    {
+      "title": "⚡对 对 子 战 神 8⚡",
+      "url": "https://www.bilibili.com/video/BV1ngKq6XEgb",
+      "hot_value": "2915100播放",
+      "index": 15
+    },
+    {
+      "title": "穿越战锤20年，全团战死，唯你幸存退役，你的后半生会如何度过？",
+      "url": "https://www.bilibili.com/video/BV1zRKz68EoD",
+      "hot_value": "1014794播放",
+      "index": 16
+    },
+    {
+      "title": "【蓝牙耳机推荐2026】 7月大合集！含音质和降噪测试！百元蓝牙耳机/入耳式蓝牙耳机/降噪蓝牙耳机/手机厂/HIFI厂耳机推荐！全价位各大品牌对比！",
+      "url": "https://www.bilibili.com/video/BV11jKm6bE61",
+      "hot_value": "819727播放",
+      "index": 17
+    },
+    {
+      "title": "不是哥们，放火威胁律师 ？",
+      "url": "https://www.bilibili.com/video/BV1PmNd6jEij",
+      "hot_value": "1823834播放",
+      "index": 18
+    },
+    {
+      "title": "（知识科普）一口气看完侦查位干员技能增强削弱史，来看看你都了解多少？",
+      "url": "https://www.bilibili.com/video/BV1exKz6nEio",
+      "hot_value": "1394944播放",
+      "index": 19
+    },
+    {
+      "title": "感谢每一份付出，只要信念仍在，我们终会再次出发",
+      "url": "https://www.bilibili.com/video/BV1N7Km6fEGL",
+      "hot_value": "301383播放",
+      "index": 20
+    },
+    {
+      "title": "完全看不懂中国网络梗的日本人，再也不怕了！",
+      "url": "https://www.bilibili.com/video/BV1prK26pEiK",
+      "hot_value": "880131播放",
+      "index": 21
+    },
+    {
+      "title": "67岁老人坚持锻炼身体不给儿女添麻烦教程",
+      "url": "https://www.bilibili.com/video/BV1sUKn6QEQG",
+      "hot_value": "3184347播放",
+      "index": 22
+    },
+    {
+      "title": "乡村兽医修猫修狗的一天",
+      "url": "https://www.bilibili.com/video/BV1JmK26EETm",
+      "hot_value": "258349播放",
       "index": 23
     },
     {
-      "title": "那么多网红带货的这个驱蚊手环真的驱蚊吗？",
-      "url": "https://www.bilibili.com/video/BV1fgNh6eEpv",
-      "hot_value": "209590播放",
+      "title": "赛后情书：一切结束了，西班牙夺得美加墨冠军！这届世界杯真的拉完了。",
+      "url": "https://www.bilibili.com/video/BV1ojKU67EkX",
+      "hot_value": "608928播放",
       "index": 24
     },
     {
       "title": "四个一起冒烟！狂！大司马杯最搞笑一幕：导播可以开摄像头了。",
       "url": "https://www.bilibili.com/video/BV1mBKN65Ew4",
-      "hot_value": "2934044播放",
+      "hot_value": "2961302播放",
       "index": 25
     },
     {
-      "title": "把你照片留评论区给你变帅建议，没有丑男人，只有懒男人#男生发型#男生四六分发型#男生化妆教程#素颜霜#男生素颜 fb",
-      "url": "https://www.bilibili.com/video/BV1aHKG6MEk5",
-      "hot_value": "867665播放",
+      "title": "我反手用喷子的流量买了台冰箱",
+      "url": "https://www.bilibili.com/video/BV1n5Kz6ZEFQ",
+      "hot_value": "1035775播放",
       "index": 26
     },
     {
-      "title": "椰子把自己演化的那么好喝，对它有什么好处？",
-      "url": "https://www.bilibili.com/video/BV1v9Kv6yEou",
-      "hot_value": "1640600播放",
+      "title": "鹤岗地窖一天生活，今天吃烤串",
+      "url": "https://www.bilibili.com/video/BV1WpKB6YExb",
+      "hot_value": "714949播放",
       "index": 27
     },
     {
-      "title": "赛后情书：一切结束了，西班牙夺得美加墨冠军！这届世界杯真的拉完了。",
-      "url": "https://www.bilibili.com/video/BV1ojKU67EkX",
-      "hot_value": "591645播放",
+      "title": "回家吃饭之一到二十五集",
+      "url": "https://www.bilibili.com/video/BV1xNNZ6XEH1",
+      "hot_value": "1590569播放",
       "index": 28
     },
     {
-      "title": "鬼压床：全人类为何共享着同一个噩梦？",
-      "url": "https://www.bilibili.com/video/BV1ovKm6jE8U",
-      "hot_value": "730969播放",
+      "title": "上海新天地群魔乱舞，国际生扎堆申请“签证”的背后是？",
+      "url": "https://www.bilibili.com/video/BV1fVKz6tERP",
+      "hot_value": "1364541播放",
       "index": 29
     },
     {
-      "title": "（知识科普）一口气看完侦查位干员技能增强削弱史，来看看你都了解多少？",
-      "url": "https://www.bilibili.com/video/BV1exKz6nEio",
-      "hot_value": "1374000播放",
+      "title": "《 双 枪 牛 仔 》",
+      "url": "https://www.bilibili.com/video/BV1S6Kr6mEgi",
+      "hot_value": "2466931播放",
       "index": 30
     }
   ]

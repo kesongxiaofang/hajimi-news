@@ -1,36 +1,36 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-07-20T20:49:08Z",
+  "update_time": "2026-07-21T00:15:08Z",
   "count": 20,
   "list": [
-    {
-      "title": "费兰·托雷斯加时破门！1比0力克阿根廷，西班牙世界杯夺冠",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33618385",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "头条世界杯｜最好的足球重返世界之巅，西班牙书写连串历史",
       "url": "https://www.thepaper.cn/newsDetail_forward_33618494",
       "hot_value": "",
-      "index": 2
+      "index": 1
     },
     {
       "title": "菲方围顶冲撞中方巡逻艇、恶意攻击中方执法人员，中国海警局发声",
       "url": "https://www.thepaper.cn/newsDetail_forward_33621723",
       "hot_value": "",
-      "index": 3
+      "index": 2
     },
     {
       "title": "证监会召开投资者座谈会听取意见建议",
       "url": "https://www.thepaper.cn/newsDetail_forward_33620408",
       "hot_value": "",
-      "index": 4
+      "index": 3
     },
     {
       "title": "西班牙复刻2010，但燃尽的阿根廷同样值得尊敬",
       "url": "https://www.thepaper.cn/newsDetail_forward_33618677",
+      "hot_value": "",
+      "index": 4
+    },
+    {
+      "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33616683",
       "hot_value": "",
       "index": 5
     },
@@ -41,8 +41,8 @@
       "index": 6
     },
     {
-      "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33616683",
+      "title": "江西男子花30多万元被带到贵阳闪婚，婚后发现妻子曾吸毒坐牢还患有梅毒",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33621035",
       "hot_value": "",
       "index": 7
     },
@@ -59,44 +59,44 @@
       "index": 9
     },
     {
+      "title": "5家保险公司齐发声，坚定支持资本市场发展",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33621565",
+      "hot_value": "",
+      "index": 10
+    },
+    {
       "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
       "url": "https://www.thepaper.cn/newsDetail_forward_33618793",
       "hot_value": "",
-      "index": 10
+      "index": 11
     },
     {
       "title": "青春飞扬！亚马尔绽放出朝阳的光芒",
       "url": "https://www.thepaper.cn/newsDetail_forward_33618125",
       "hot_value": "",
-      "index": 11
-    },
-    {
-      "title": "火车票预约购票今起上线，如何使用两种模式？提交后能否修改？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33619398",
-      "hot_value": "",
       "index": 12
-    },
-    {
-      "title": "深一度｜传奇老去，未来的阿根廷队是否还能支撑起夺冠梦想？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33619787",
-      "hot_value": "",
-      "index": 13
-    },
-    {
-      "title": "新闻蒸馏器｜伯纳姆今天就任英国首相：老问题等待新答案",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33618956",
-      "hot_value": "",
-      "index": 14
     },
     {
       "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
       "url": "https://www.thepaper.cn/newsDetail_forward_33623026",
       "hot_value": "",
+      "index": 13
+    },
+    {
+      "title": "火车票预约购票今起上线，如何使用两种模式？提交后能否修改？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33619398",
+      "hot_value": "",
+      "index": 14
+    },
+    {
+      "title": "深一度｜传奇老去，未来的阿根廷队是否还能支撑起夺冠梦想？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33619787",
+      "hot_value": "",
       "index": 15
     },
     {
-      "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33620002",
+      "title": "新闻蒸馏器｜伯纳姆今天就任英国首相：老问题等待新答案",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33618956",
       "hot_value": "",
       "index": 16
     },
@@ -107,20 +107,20 @@
       "index": 17
     },
     {
-      "title": "单届赛事犯规数破百创纪录，阿根廷队“脏”上热搜",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33620278",
+      "title": "追求遭拒后泼硫酸捅刺女子致重伤二级，韦某某已被执行死刑",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33620002",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "世界杯决赛常规时间结束，双方均无进球进入加时赛",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33618414",
+      "title": "深一度｜赢球！赢球！赢球！西班牙队的完美体系",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33620363",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "89岁“四哥”谢贤离世，香港影视黄金时代再别一位见证者",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33620641",
+      "title": "单届赛事犯规数破百创纪录，阿根廷队“脏”上热搜",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33620278",
       "hot_value": "",
       "index": 20
     }
