@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-22T20:24:20Z",
+  "update_time": "2026-07-22T23:47:06Z",
   "count": 30,
   "list": [
     {
-      "title": "网传 BLG 队内两名队友不满 Bin，其父还「蛐蛐」其他队友父亲，这会对电竞团队协作带来什么影响？",
-      "url": "https://www.zhihu.com/question/2063244657866418000",
-      "hot_value": "262 万热度",
+      "title": "快递员摔坏购入价 18.6 万元的手镯，快递公司只愿赔 5 万元，赔偿金额应如何认定？消费者该如何维权？",
+      "url": "https://www.zhihu.com/question/2060880883452793625",
+      "hot_value": "200 万热度",
       "index": 1
     },
     {
       "title": "为什么 LV 告侵权，就是被人嘲讽，而迪士尼告侵权，大家却是玩梗，觉得很有意思呢？",
       "url": "https://www.zhihu.com/question/2056857053994525624",
-      "hot_value": "259 万热度",
+      "hot_value": "182 万热度",
       "index": 2
     },
     {
-      "title": "快递员摔坏购入价 18.6 万元的手镯，快递公司只愿赔 5 万元，赔偿金额应如何认定？消费者该如何维权？",
-      "url": "https://www.zhihu.com/question/2060880883452793625",
-      "hot_value": "246 万热度",
+      "title": "网传 BLG 队内两名队友不满 Bin，其父还「蛐蛐」其他队友父亲，这会对电竞团队协作带来什么影响？",
+      "url": "https://www.zhihu.com/question/2063244657866418000",
+      "hot_value": "171 万热度",
       "index": 3
-    },
-    {
-      "title": "大脑为什么要删除三岁前的记忆？",
-      "url": "https://www.zhihu.com/question/2061935759511368565",
-      "hot_value": "206 万热度",
-      "index": 4
     },
     {
       "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
       "url": "https://www.zhihu.com/question/2063264614834336987",
-      "hot_value": "168 万热度",
+      "hot_value": "160 万热度",
+      "index": 4
+    },
+    {
+      "title": "报道称《功夫女足》线上被偷票房超 2000 万，全国偷漏占比约 28%，损失票房超 4 亿，这么严重吗？",
+      "url": "https://www.zhihu.com/question/2063269666466932392",
+      "hot_value": "133 万热度",
       "index": 5
     },
     {
-      "title": "张伟丽晒出化妆造型「秒变甜妹，反差感拉满」，网友惊呼这是谁，化妆对人的加持有多离谱？",
-      "url": "https://www.zhihu.com/question/2063206445076542255",
-      "hot_value": "157 万热度",
+      "title": "西门庆有钱有势的不能补偿武大些钱，让他与潘金莲和离吗，或者再给武大娶个媳妇，为什么非要杀了武大呢？",
+      "url": "https://www.zhihu.com/question/2047419289150477897",
+      "hot_value": "114 万热度",
       "index": 6
     },
     {
-      "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
-      "url": "https://www.zhihu.com/question/2063241470010822764",
-      "hot_value": "147 万热度",
+      "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+      "url": "https://www.zhihu.com/question/2062918586486583714",
+      "hot_value": "113 万热度",
       "index": 7
     },
     {
-      "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
-      "url": "https://www.zhihu.com/question/2063228417642967287",
-      "hot_value": "146 万热度",
+      "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
+      "url": "https://www.zhihu.com/question/2063292318887539352",
+      "hot_value": "112 万热度",
       "index": 8
     },
     {
-      "title": "如何评价日本电影《花束般的恋爱》？",
-      "url": "https://www.zhihu.com/question/461455834",
-      "hot_value": "145 万热度",
+      "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2063182962879993810",
+      "hot_value": "110 万热度",
       "index": 9
     },
     {
       "title": "如何评价今年王虹、邓煜可能同时创纪录拿到菲尔兹奖？",
       "url": "https://www.zhihu.com/question/2043103002907738805",
-      "hot_value": "138 万热度",
+      "hot_value": "107 万热度",
       "index": 10
     },
     {
-      "title": "14 岁少年偷偷纹身纹满双腿，家长索赔 20 万，如何看待青少年纹身现象？纹身有什么危害和风险吗？",
-      "url": "https://www.zhihu.com/question/2062507625783226699",
-      "hot_value": "111 万热度",
+      "title": "《潜伏》为什么晚秋会对来搜刮伯父财产的余则成一见钟情？",
+      "url": "https://www.zhihu.com/question/14075531614",
+      "hot_value": "104 万热度",
       "index": 11
     },
     {
-      "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
-      "url": "https://www.zhihu.com/question/2062983976835344170",
-      "hot_value": "107 万热度",
+      "title": "如何评价日本电影《花束般的恋爱》？",
+      "url": "https://www.zhihu.com/question/461455834",
+      "hot_value": "99 万热度",
       "index": 12
     },
     {
-      "title": "C 罗在足球历史上的地位到底有多高？",
-      "url": "https://www.zhihu.com/question/2061419922199156216",
-      "hot_value": "101 万热度",
+      "title": "携程黑钻会员吐槽 1.5 万元机票仅退 432 元，称没想到扣那么狠，这种退票政策合理吗？",
+      "url": "https://www.zhihu.com/question/2062858376510451826",
+      "hot_value": "91 万热度",
       "index": 13
     },
     {
-      "title": "报道称《功夫女足》线上被偷票房超 2000 万，全国偷漏占比约 28%，损失票房超 4 亿，这么严重吗？",
-      "url": "https://www.zhihu.com/question/2063269666466932392",
-      "hot_value": "101 万热度",
+      "title": "快递站老板称答应朋友让孩子到店劳动实践，却遭举报雇童工被罚五千元，如何看待该处理方式？老板被罚冤不冤？",
+      "url": "https://www.zhihu.com/question/2062506148696216910",
+      "hot_value": "87 万热度",
       "index": 14
     },
     {
-      "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
-      "url": "https://www.zhihu.com/question/2062918586486583714",
-      "hot_value": "92 万热度",
+      "title": "张伟丽晒出化妆造型「秒变甜妹，反差感拉满」，网友惊呼这是谁，化妆对人的加持有多离谱？",
+      "url": "https://www.zhihu.com/question/2063206445076542255",
+      "hot_value": "86 万热度",
       "index": 15
     },
     {
-      "title": "美国向韩国施压提议分享三星、 SK 海力士「超额利润」，这释放了哪些信号？",
-      "url": "https://www.zhihu.com/question/2061557759359840568",
-      "hot_value": "92 万热度",
+      "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
+      "url": "https://www.zhihu.com/question/2063241470010822764",
+      "hot_value": "84 万热度",
       "index": 16
     },
     {
-      "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2063182962879993810",
-      "hot_value": "92 万热度",
+      "title": "为什么胡歌和刘诗诗几乎不参加综艺节目？",
+      "url": "https://www.zhihu.com/question/326219584",
+      "hot_value": "84 万热度",
       "index": 17
     },
     {
-      "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
-      "url": "https://www.zhihu.com/question/2062878068759160084",
-      "hot_value": "91 万热度",
+      "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
+      "url": "https://www.zhihu.com/question/2063228417642967287",
+      "hot_value": "84 万热度",
       "index": 18
     },
     {
       "title": "美加墨世界杯哪支球队的发挥最出乎你的意料？谁是最大黑马？",
       "url": "https://www.zhihu.com/question/2062192708639094132",
-      "hot_value": "91 万热度",
+      "hot_value": "84 万热度",
       "index": 19
     },
     {
-      "title": "媒体披露高校教师评职称需到账百万科研经费，为什么会有这种现象？这合理吗？",
-      "url": "https://www.zhihu.com/question/2059646616953418885",
-      "hot_value": "90 万热度",
+      "title": "为什么现在，大部分人都在网上买东西，实体店静静悄悄？",
+      "url": "https://www.zhihu.com/question/2062787306789003681",
+      "hot_value": "84 万热度",
       "index": 20
     },
     {
       "title": "警方通报 16 岁内蒙高中生被刺身亡案，称案发地不属涉黄场所，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2063367017118136023",
-      "hot_value": "90 万热度",
+      "hot_value": "81 万热度",
       "index": 21
-    },
-    {
-      "title": "《潜伏》为什么晚秋会对来搜刮伯父财产的余则成一见钟情？",
-      "url": "https://www.zhihu.com/question/14075531614",
-      "hot_value": "90 万热度",
-      "index": 22
-    },
-    {
-      "title": "你认为《崩坏：星穹铁道》永动机会在什么时候退环境？",
-      "url": "https://www.zhihu.com/question/2059700519493433155",
-      "hot_value": "83 万热度",
-      "index": 23
-    },
-    {
-      "title": "为什么物理规则几乎都是乘法？",
-      "url": "https://www.zhihu.com/question/65446341",
-      "hot_value": "82 万热度",
-      "index": 24
-    },
-    {
-      "title": "滔搏明年起将终止耐克产品在线上平台销售，背后有哪些原因？此次调整带来的影响有多大？",
-      "url": "https://www.zhihu.com/question/2063187091773773522",
-      "hot_value": "79 万热度",
-      "index": 25
     },
     {
       "title": "成龙近 3 年来社交账号所发布内容全是对好友的悼念和告别，对此你有哪些感触？",
       "url": "https://www.zhihu.com/question/2062891074763350234",
-      "hot_value": "79 万热度",
+      "hot_value": "78 万热度",
+      "index": 22
+    },
+    {
+      "title": "14 岁少年偷偷纹身纹满双腿，家长索赔 20 万，如何看待青少年纹身现象？纹身有什么危害和风险吗？",
+      "url": "https://www.zhihu.com/question/2062507625783226699",
+      "hot_value": "78 万热度",
+      "index": 23
+    },
+    {
+      "title": "初三孩子，凌晨 1 点发现孩子躲在被子里玩游戏，怎么办？",
+      "url": "https://www.zhihu.com/question/2057133993384997163",
+      "hot_value": "77 万热度",
+      "index": 24
+    },
+    {
+      "title": "多省份上半年 GDP 出炉，其中上海同比增长 5.6% 领跑，北京增长 5.4%，如何解读各地半年经济成绩单？",
+      "url": "https://www.zhihu.com/question/2062575719889236451",
+      "hot_value": "76 万热度",
+      "index": 25
+    },
+    {
+      "title": "如何看待香港知名歌手张伟文惨遭养老院苛待，一年半不给洗澡，褥疮恶化，失能老人养老院照护谁来监督？",
+      "url": "https://www.zhihu.com/question/2062878068759160084",
+      "hot_value": "76 万热度",
       "index": 26
     },
     {
-      "title": "要是刘禅有孙权的政治水平会怎么样？",
-      "url": "https://www.zhihu.com/question/2051724930614556420",
-      "hot_value": "79 万热度",
+      "title": "美国向韩国施压提议分享三星、 SK 海力士「超额利润」，这释放了哪些信号？",
+      "url": "https://www.zhihu.com/question/2061557759359840568",
+      "hot_value": "73 万热度",
       "index": 27
     },
     {
       "title": "《悬案》第一案中为什么要塑造一个窝囊大盗？",
       "url": "https://www.zhihu.com/question/2057532637833704135",
-      "hot_value": "78 万热度",
+      "hot_value": "70 万热度",
       "index": 28
     },
     {
-      "title": "多省份上半年 GDP 出炉，其中上海同比增长 5.6% 领跑，北京增长 5.4%，如何解读各地半年经济成绩单？",
-      "url": "https://www.zhihu.com/question/2062575719889236451",
-      "hot_value": "77 万热度",
+      "title": "大脑为什么要删除三岁前的记忆？",
+      "url": "https://www.zhihu.com/question/2061935759511368565",
+      "hot_value": "67 万热度",
       "index": 29
     },
     {
-      "title": "初三孩子，凌晨 1 点发现孩子躲在被子里玩游戏，怎么办？",
-      "url": "https://www.zhihu.com/question/2057133993384997163",
-      "hot_value": "74 万热度",
+      "title": "人体卡死 37℃，为啥不进化成 40℃，直接烫死病毒癌细胞？",
+      "url": "https://www.zhihu.com/question/2059637252532200795",
+      "hot_value": "64 万热度",
       "index": 30
     }
   ]
