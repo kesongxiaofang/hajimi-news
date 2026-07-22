@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-22T00:08:31Z",
+  "update_time": "2026-07-22T09:40:22Z",
   "count": 30,
   "list": [
     {
-      "title": "树恨你",
-      "url": "https://www.bilibili.com/video/BV1h4KU66ENd",
-      "hot_value": "5458490播放",
-      "index": 1
-    },
-    {
       "title": "一条老奶奶",
       "url": "https://www.bilibili.com/video/BV17rKb68EQ7",
-      "hot_value": "916784播放",
-      "index": 2
+      "hot_value": "4128715播放",
+      "index": 1
     },
     {
       "title": "差点被烟管单杀了",
       "url": "https://www.bilibili.com/video/BV11oK16pEEz",
-      "hot_value": "1153618播放",
+      "hot_value": "2194791播放",
+      "index": 2
+    },
+    {
+      "title": "树恨你",
+      "url": "https://www.bilibili.com/video/BV1h4KU66ENd",
+      "hot_value": "6057993播放",
       "index": 3
+    },
+    {
+      "title": "《梦战：剑之海》首支实机预告片丨全球首测招募开启",
+      "url": "https://www.bilibili.com/video/BV1AnKs6tE2n",
+      "hot_value": "2469513播放",
+      "index": 4
+    },
+    {
+      "title": "《异环》伊洛伊角色PV丨想做什么梦？",
+      "url": "https://www.bilibili.com/video/BV1VVKH6vEnH",
+      "hot_value": "1052762播放",
+      "index": 5
     },
     {
       "title": "无骨草鱼 无骨草鱼教学，十年老师傅无保留教大家，简单易学。",
       "url": "https://www.bilibili.com/video/BV1P6KA6NEDq",
-      "hot_value": "3191523播放",
-      "index": 4
+      "hot_value": "3844374播放",
+      "index": 6
+    },
+    {
+      "title": "⚡灌 篮 高 手⚡",
+      "url": "https://www.bilibili.com/video/BV1C7Kp6DEiY",
+      "hot_value": "1335751播放",
+      "index": 7
+    },
+    {
+      "title": "我的世界硬核生存！【缆车末日惊变100天】 p1 我被困在了充满丧尸的1千米高空缆车上！该如何生存？！！",
+      "url": "https://www.bilibili.com/video/BV1kbKb6qEba",
+      "hot_value": "1519291播放",
+      "index": 8
     },
     {
       "title": "千万博主谈b站真相（完整版）",
       "url": "https://www.bilibili.com/video/BV1oiKm6yEYU",
-      "hot_value": "2502871播放",
-      "index": 5
-    },
-    {
-      "title": "你的房子里有东西……",
-      "url": "https://www.bilibili.com/video/BV1PiKW6tEir",
-      "hot_value": "941615播放",
-      "index": 6
-    },
-    {
-      "title": "入伏了，解暑实力排行",
-      "url": "https://www.bilibili.com/video/BV1uuKm6PEKu",
-      "hot_value": "4538094播放",
-      "index": 7
-    },
-    {
-      "title": "感谢每一份付出，只要信念仍在，我们终会再次出发",
-      "url": "https://www.bilibili.com/video/BV1N7Km6fEGL",
-      "hot_value": "1438632播放",
-      "index": 8
-    },
-    {
-      "title": "乡村兽医修猫修狗的一天",
-      "url": "https://www.bilibili.com/video/BV1JmK26EETm",
-      "hot_value": "977119播放",
+      "hot_value": "3159481播放",
       "index": 9
     },
     {
-      "title": "新乐器！订书钉演奏《千本樱》",
-      "url": "https://www.bilibili.com/video/BV13YNd6dEb9",
-      "hot_value": "10532103播放",
+      "title": "我和bro潦草的高中生活belike:",
+      "url": "https://www.bilibili.com/video/BV1XmK462E28",
+      "hot_value": "779506播放",
       "index": 10
     },
     {
-      "title": "《崩坏：星穹铁道》走近星穹——「远坂凛：如何在宇宙时代学会智能机」",
-      "url": "https://www.bilibili.com/video/BV1xSKp6fEm8",
-      "hot_value": "1168383播放",
+      "title": "我用AI杀死了史上最难的跑步游戏",
+      "url": "https://www.bilibili.com/video/BV1bmKp6cERp",
+      "hot_value": "872172播放",
       "index": 11
     },
     {
-      "title": "寻找卢本伟",
-      "url": "https://www.bilibili.com/video/BV1oHNv6kEzB",
-      "hot_value": "10576364播放",
+      "title": "大 狗 熊",
+      "url": "https://www.bilibili.com/video/BV1hZKh6xEfT",
+      "hot_value": "529739播放",
       "index": 12
     },
     {
-      "title": "大狗嚼  这一口会很疯狂！",
-      "url": "https://www.bilibili.com/video/BV1guKm6PELo",
-      "hot_value": "4316155播放",
+      "title": "是一群胡迪警长来了喔！猥琐四重奏",
+      "url": "https://www.bilibili.com/video/BV1QZKH6eEL9",
+      "hot_value": "1053840播放",
       "index": 13
     },
     {
-      "title": "点击即玩世界上最爽的大狗叫模拟器 【B站AI创造公开赛】",
-      "url": "https://www.bilibili.com/video/BV1kNKU6REBg",
-      "hot_value": "726488播放",
+      "title": "史上最奇怪饭店！完全想不出来怎么赚钱",
+      "url": "https://www.bilibili.com/video/BV1xCKt6uEUx",
+      "hot_value": "869197播放",
       "index": 14
     },
     {
-      "title": "Cos马皇后，用合肥话怼朱元璋！",
-      "url": "https://www.bilibili.com/video/BV13AKm6MEBz",
-      "hot_value": "2079800播放",
+      "title": "（知识科普）盘点突击位全干员技能增强削弱史，来看看你都了解多少？",
+      "url": "https://www.bilibili.com/video/BV1frKh6TErF",
+      "hot_value": "544166播放",
       "index": 15
     },
     {
-      "title": "智能变智障！低成本智能好物避坑指南！",
-      "url": "https://www.bilibili.com/video/BV1zRKz68Eeq",
-      "hot_value": "2229814播放",
+      "title": "处理黑鱼没有想象那么难，这样处理，在家也能轻松学会。去骨去小刺全过程。",
+      "url": "https://www.bilibili.com/video/BV1UjKb61ErS",
+      "hot_value": "270145播放",
       "index": 16
-    },
-    {
-      "title": "极寒末日96分钟无删减合集",
-      "url": "https://www.bilibili.com/video/BV11XKp6oE57",
-      "hot_value": "484406播放",
-      "index": 17
-    },
-    {
-      "title": "关于我的小岛日常",
-      "url": "https://www.bilibili.com/video/BV1psKB6wE4J",
-      "hot_value": "881613播放",
-      "index": 18
-    },
-    {
-      "title": "《鸣潮》巡回演唱会「致予新世界」官方录播",
-      "url": "https://www.bilibili.com/video/BV1XhKr69EDd",
-      "hot_value": "3126862播放",
-      "index": 19
-    },
-    {
-      "title": "带黄牌迈巴赫车主送外卖",
-      "url": "https://www.bilibili.com/video/BV1SmK16bEJx",
-      "hot_value": "976501播放",
-      "index": 20
-    },
-    {
-      "title": "寝室睡个觉真难",
-      "url": "https://www.bilibili.com/video/BV11HKb6GEiC",
-      "hot_value": "651930播放",
-      "index": 21
-    },
-    {
-      "title": "闯荡江湖才发现刀可以双持！",
-      "url": "https://www.bilibili.com/video/BV1q8Kp6kEYg",
-      "hot_value": "797089播放",
-      "index": 22
-    },
-    {
-      "title": "不是哥们，放火威胁律师 ？",
-      "url": "https://www.bilibili.com/video/BV1PmNd6jEij",
-      "hot_value": "2338979播放",
-      "index": 23
-    },
-    {
-      "title": "高市民调骤跌丨“现在向中国投降，是代价最小的时候”",
-      "url": "https://www.bilibili.com/video/BV1s4Kh6mESh",
-      "hot_value": "489024播放",
-      "index": 24
-    },
-    {
-      "title": "别让网络的歪风，挑拨你家人间的关系",
-      "url": "https://www.bilibili.com/video/BV1BbK16kEJC",
-      "hot_value": "1072836播放",
-      "index": 25
-    },
-    {
-      "title": "沉浸式感受清朝御厨制作摔不碎的豆腐",
-      "url": "https://www.bilibili.com/video/BV1EpKr6cEAx",
-      "hot_value": "2966825播放",
-      "index": 26
-    },
-    {
-      "title": "真长见识啊！重庆的建筑真的太魔幻，太离谱了！",
-      "url": "https://www.bilibili.com/video/BV1JYKK6iEp6",
-      "hot_value": "1822838播放",
-      "index": 27
-    },
-    {
-      "title": "鹤岗地窖一天生活，今天吃烤串",
-      "url": "https://www.bilibili.com/video/BV1WpKB6YExb",
-      "hot_value": "1278891播放",
-      "index": 28
-    },
-    {
-      "title": "【蓝牙耳机推荐2026】 7月大合集！含音质和降噪测试！百元蓝牙耳机/入耳式蓝牙耳机/降噪蓝牙耳机/手机厂/HIFI厂耳机推荐！全价位各大品牌对比！",
-      "url": "https://www.bilibili.com/video/BV11jKm6bE61",
-      "hot_value": "2069604播放",
-      "index": 29
     },
     {
       "title": "🐔好 坤 不 挑 曲⚡",
       "url": "https://www.bilibili.com/video/BV1cWKm69ECc",
-      "hot_value": "564221播放",
+      "hot_value": "1445352播放",
+      "index": 17
+    },
+    {
+      "title": "入伏了，解暑实力排行",
+      "url": "https://www.bilibili.com/video/BV1uuKm6PEKu",
+      "hot_value": "5845625播放",
+      "index": 18
+    },
+    {
+      "title": "口口声声姐妹情,口供全是姐妹名!",
+      "url": "https://www.bilibili.com/video/BV1gcKa6sEqX",
+      "hot_value": "772990播放",
+      "index": 19
+    },
+    {
+      "title": "散装家庭，一家人哔站互关认识的",
+      "url": "https://www.bilibili.com/video/BV1WDKE6kEt1",
+      "hot_value": "1070814播放",
+      "index": 20
+    },
+    {
+      "title": "新乐器！订书钉演奏《千本樱》",
+      "url": "https://www.bilibili.com/video/BV13YNd6dEb9",
+      "hot_value": "10923987播放",
+      "index": 21
+    },
+    {
+      "title": "寝室睡个觉真难",
+      "url": "https://www.bilibili.com/video/BV11HKb6GEiC",
+      "hot_value": "1094024播放",
+      "index": 22
+    },
+    {
+      "title": "《崩坏：星穹铁道》走近星穹——「吉尔伽美什：我为你的喜悦而喜悦」",
+      "url": "https://www.bilibili.com/video/BV1uVKb6UE9T",
+      "hot_value": "472451播放",
+      "index": 23
+    },
+    {
+      "title": "暑假大学生找到二次元入口......",
+      "url": "https://www.bilibili.com/video/BV1B6Kb6FECy",
+      "hot_value": "198588播放",
+      "index": 24
+    },
+    {
+      "title": "那一天，全校同学都记住了我",
+      "url": "https://www.bilibili.com/video/BV1QQKb6QEjT",
+      "hot_value": "1420137播放",
+      "index": 25
+    },
+    {
+      "title": "爱学习的阿伟【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1dBKm6VEvA",
+      "hot_value": "620197播放",
+      "index": 26
+    },
+    {
+      "title": "关于我的小岛日常",
+      "url": "https://www.bilibili.com/video/BV1psKB6wE4J",
+      "hot_value": "1598352播放",
+      "index": 27
+    },
+    {
+      "title": "《冰纷美加墨》收官，这一个多月的一个头两个大，熬过来后我会感谢这些夜晚，我或许很难爱上足球，但我爱这种和亿万人有共同回忆的时刻。",
+      "url": "https://www.bilibili.com/video/BV1caKb6iELi",
+      "hot_value": "894182播放",
+      "index": 28
+    },
+    {
+      "title": "四川康定女游客徒手甩开分食马尸的秃鹫！她们的善意究竟是救赎还是破坏？",
+      "url": "https://www.bilibili.com/video/BV16MKU69E36",
+      "hot_value": "1241142播放",
+      "index": 29
+    },
+    {
+      "title": "想回到记忆里的未来",
+      "url": "https://www.bilibili.com/video/BV1MKKp6FEAd",
+      "hot_value": "797050播放",
       "index": 30
     }
   ]
