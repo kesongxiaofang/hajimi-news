@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-23T16:04:07Z",
+  "update_time": "2026-07-23T20:35:22Z",
   "count": 30,
   "list": [
     {
       "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
       "url": "https://www.zhihu.com/question/2061502500440465960",
-      "hot_value": "1679 万热度",
+      "hot_value": "1351 万热度",
       "index": 1
     },
     {
-      "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
-      "url": "https://www.zhihu.com/question/2063532260934907357",
-      "hot_value": "671 万热度",
+      "title": "644 分考生因填志愿未看清厦门大学本部与分校将复读，去年同有 16 人报错相同分校复读，反映了哪些问题？",
+      "url": "https://www.zhihu.com/question/2063656328619352666",
+      "hot_value": "397 万热度",
       "index": 2
-    },
-    {
-      "title": "耐克将清退数千家网络经销商，同款鞋官旗比经销商贵 400，为啥价差这么大？以后还能买到便宜的耐克吗？",
-      "url": "https://www.zhihu.com/question/2063298622393771043",
-      "hot_value": "517 万热度",
-      "index": 3
     },
     {
       "title": "如何看待旭旭宝宝展示水军「复制粘贴式同款黑文案」，硬刚黑粉报警且「每条有效水军证据悬赏 10 万元」？",
       "url": "https://www.zhihu.com/question/2063520731019876318",
-      "hot_value": "260 万热度",
+      "hot_value": "391 万热度",
+      "index": 3
+    },
+    {
+      "title": "如何评价台球厅一男子拍助教屁股被索赔两千元，现因猥亵他人已被警方依法行政拘留？",
+      "url": "https://www.zhihu.com/question/2063568881944359958",
+      "hot_value": "264 万热度",
       "index": 4
     },
     {
       "title": "弥勒佛长那么胖，是因为碳水吃多了吗？",
       "url": "https://www.zhihu.com/question/2046994974290491172",
-      "hot_value": "227 万热度",
+      "hot_value": "250 万热度",
       "index": 5
     },
     {
-      "title": "动画电影《八仙！》票房能超越《功夫女足》吗？",
-      "url": "https://www.zhihu.com/question/2062105664369979647",
-      "hot_value": "193 万热度",
+      "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
+      "url": "https://www.zhihu.com/question/2063259853338972886",
+      "hot_value": "237 万热度",
       "index": 6
     },
     {
-      "title": "644 分考生因填志愿未看清厦门大学本部与分校将复读，去年同有 16 人报错相同分校复读，反映了哪些问题？",
-      "url": "https://www.zhihu.com/question/2063656328619352666",
-      "hot_value": "130 万热度",
+      "title": "耐克将清退数千家网络经销商，同款鞋官旗比经销商贵 400，为啥价差这么大？以后还能买到便宜的耐克吗？",
+      "url": "https://www.zhihu.com/question/2063298622393771043",
+      "hot_value": "182 万热度",
       "index": 7
     },
     {
       "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
       "url": "https://www.zhihu.com/question/2063569251428819442",
-      "hot_value": "119 万热度",
+      "hot_value": "162 万热度",
       "index": 8
     },
     {
       "title": "为什么古代打仗不大量使用毒箭来快速消灭敌人？",
       "url": "https://www.zhihu.com/question/2063203201608897319",
-      "hot_value": "117 万热度",
+      "hot_value": "159 万热度",
       "index": 9
     },
     {
       "title": "你觉得你离菲尔兹奖最近的一刻是什么时候？",
       "url": "https://www.zhihu.com/question/36093280",
-      "hot_value": "116 万热度",
+      "hot_value": "158 万热度",
       "index": 10
     },
     {
-      "title": "上海血液中心献血送《战锤 40K》正版模型，大奖价值 3299 元。如何评价这次活动？",
-      "url": "https://www.zhihu.com/question/2063322092804773518",
-      "hot_value": "115 万热度",
+      "title": "动画电影《八仙！》票房能超越《功夫女足》吗？",
+      "url": "https://www.zhihu.com/question/2062105664369979647",
+      "hot_value": "157 万热度",
       "index": 11
     },
     {
-      "title": "如何整体评价本次世界杯？",
-      "url": "https://www.zhihu.com/question/2062643903791108655",
-      "hot_value": "95 万热度",
+      "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
+      "url": "https://www.zhihu.com/question/2063532260934907357",
+      "hot_value": "113 万热度",
       "index": 12
     },
     {
-      "title": "老师为什么教不了自己的孩子？",
-      "url": "https://www.zhihu.com/question/2039469724594090031",
-      "hot_value": "89 万热度",
+      "title": "现在回看，本届世界杯最出圈的梗是？",
+      "url": "https://www.zhihu.com/question/2061075073474066248",
+      "hot_value": "104 万热度",
       "index": 13
     },
     {
-      "title": "如何评价《崩坏：星穹铁道》公益第二卷：「当一颗星照亮夜空」？",
-      "url": "https://www.zhihu.com/question/2061789534396982697",
-      "hot_value": "83 万热度",
+      "title": "如何评价《白银之城》二测体验？",
+      "url": "https://www.zhihu.com/question/2063652031517218535",
+      "hot_value": "103 万热度",
       "index": 14
     },
     {
       "title": "小红书被曝正主动联系相关老员工，愿补发期权换签署相关条款，真实性多大？若能达成一致，能顺利 IPO 吗？",
       "url": "https://www.zhihu.com/question/2063292318887539352",
-      "hot_value": "82 万热度",
+      "hot_value": "102 万热度",
       "index": 15
     },
     {
-      "title": "以媒称美国已通知以色列将加大对伊打击，或将使用重型轰炸机打击镐山，一旦行动落地，会带来哪些连锁影响？",
-      "url": "https://www.zhihu.com/question/2063579756159931133",
-      "hot_value": "82 万热度",
+      "title": "王楚钦新赛季乒超首秀 1-2 被徐海东逆转，怎样评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2063607588369818128",
+      "hot_value": "102 万热度",
       "index": 16
     },
     {
       "title": "很多人为减脂选择吃全麦面包作为碳水摄入，专家却称全麦面包热量往往高于白面包，真是这样吗？",
       "url": "https://www.zhihu.com/question/2033108095581120175",
-      "hot_value": "82 万热度",
+      "hot_value": "102 万热度",
       "index": 17
+    },
+    {
+      "title": "以媒称美国已通知以色列将加大对伊打击，或将使用重型轰炸机打击镐山，一旦行动落地，会带来哪些连锁影响？",
+      "url": "https://www.zhihu.com/question/2063579756159931133",
+      "hot_value": "102 万热度",
+      "index": 18
     },
     {
       "title": "腾讯被曝三队同步赛马，落败项目直接清零无复盘，员工担责，公司几乎零成本试错，如何评价大厂这种赛马机制？",
       "url": "https://www.zhihu.com/question/2063648831908966811",
-      "hot_value": "82 万热度",
-      "index": 18
-    },
-    {
-      "title": "王楚钦新赛季乒超首秀 1-2 被徐海东逆转，怎样评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2063607588369818128",
-      "hot_value": "82 万热度",
+      "hot_value": "102 万热度",
       "index": 19
     },
     {
-      "title": "男子因门诊排队掌掴拳打医生，获刑 11 个月，这反映出当前医患关系面临哪些挑战？",
-      "url": "https://www.zhihu.com/question/2062565758266242024",
-      "hot_value": "82 万热度",
+      "title": "孙亚龙称 Bin 离队因『环境恶劣，输了就被放大镜找问题』，职业电竞选手为何面临如此高压？",
+      "url": "https://www.zhihu.com/question/2063693222992417693",
+      "hot_value": "102 万热度",
       "index": 20
     },
     {
       "title": "苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗？",
       "url": "https://www.zhihu.com/question/2063258715155686223",
-      "hot_value": "74 万热度",
+      "hot_value": "100 万热度",
       "index": 21
     },
     {
-      "title": "现在回看，本届世界杯最出圈的梗是？",
-      "url": "https://www.zhihu.com/question/2061075073474066248",
-      "hot_value": "70 万热度",
+      "title": "连续 37 天喝 9.9 元咖啡的贫困生补助金，是否该取消？有较多自称贫困生的大学生维护喝咖啡自由，合理吗？",
+      "url": "https://www.zhihu.com/question/2062876983864956330",
+      "hot_value": "98 万热度",
       "index": 22
+    },
+    {
+      "title": "如何评价索尼 FX5 (ILME-FX5) 电影摄影机？",
+      "url": "https://www.zhihu.com/question/2063078233512456755",
+      "hot_value": "84 万热度",
+      "index": 23
+    },
+    {
+      "title": "《黑袍纠察队》里的祖国人，是不是把一手王炸打得稀烂？",
+      "url": "https://www.zhihu.com/question/2056392872199561867",
+      "hot_value": "82 万热度",
+      "index": 24
+    },
+    {
+      "title": "到底谁觉得买断制游戏比手游便宜的，试错不是成本吗？",
+      "url": "https://www.zhihu.com/question/2063258261373935706",
+      "hot_value": "73 万热度",
+      "index": 25
+    },
+    {
+      "title": "成都的气候为啥越来越不舒适了?",
+      "url": "https://www.zhihu.com/question/1895165018590406034",
+      "hot_value": "69 万热度",
+      "index": 26
+    },
+    {
+      "title": "《喜剧之王》为什么要有周星驰和吴孟达去当卧底这段？",
+      "url": "https://www.zhihu.com/question/303639661",
+      "hot_value": "68 万热度",
+      "index": 27
     },
     {
       "title": "为什么英国参加世界杯不叫英国队，而叫英格兰？",
       "url": "https://www.zhihu.com/question/2050507183931012504",
-      "hot_value": "65 万热度",
-      "index": 23
-    },
-    {
-      "title": "光是如何携带信息的？或者说为什么光能够携带信息？",
-      "url": "https://www.zhihu.com/question/27605022",
-      "hot_value": "61 万热度",
-      "index": 24
-    },
-    {
-      "title": "多地临床医学专业遇冷，扬大「人医」分数线被「兽医」反超，为何考生倾向兽医专业？反映了医学专业哪些趋势？",
-      "url": "https://www.zhihu.com/question/2063586269070712886",
-      "hot_value": "59 万热度",
-      "index": 25
-    },
-    {
-      "title": "决赛圈，小米 SU7 和宝马 330Li 如何选择？",
-      "url": "https://www.zhihu.com/question/2061472941590763001",
-      "hot_value": "58 万热度",
-      "index": 26
-    },
-    {
-      "title": "如何看待父母「你不要比吃，不要比穿，就比学习」的想法？",
-      "url": "https://www.zhihu.com/question/324437913",
-      "hot_value": "58 万热度",
-      "index": 27
-    },
-    {
-      "title": "章邯怎么投降项羽之后那么废?",
-      "url": "https://www.zhihu.com/question/1909754637826885578",
-      "hot_value": "58 万热度",
+      "hot_value": "66 万热度",
       "index": 28
     },
     {
-      "title": "网友称 AI 加重工作负担，领导要求所有工作都要 AI 参与，你有同感吗？AI 真能帮普通人工作减负吗？",
-      "url": "https://www.zhihu.com/question/2063342076050109609",
-      "hot_value": "58 万热度",
+      "title": "15 世纪前亚非拉历史上有哪些大规模的跨海远征行动？",
+      "url": "https://www.zhihu.com/question/2047665825260253835",
+      "hot_value": "65 万热度",
       "index": 29
     },
     {
-      "title": "2026 亚运会男足抽签结果出炉，中国队与阿联酋、伊朗、朝鲜同组，中国队出线难度如何？",
-      "url": "https://www.zhihu.com/question/2063619901005227539",
-      "hot_value": "58 万热度",
+      "title": "男子因门诊排队掌掴拳打医生，获刑 11 个月，这反映出当前医患关系面临哪些挑战？",
+      "url": "https://www.zhihu.com/question/2062565758266242024",
+      "hot_value": "62 万热度",
       "index": 30
     }
   ]
