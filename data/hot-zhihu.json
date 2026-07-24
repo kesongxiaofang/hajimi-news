@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-24T09:29:36Z",
+  "update_time": "2026-07-24T15:16:57Z",
   "count": 30,
   "list": [
     {
-      "title": "如何看待网传耗资 319 亿的腾讯全球总部「企鹅岛」疑基建翻车，员工疯狂吐槽质量奇差？",
-      "url": "https://www.zhihu.com/question/2063727887748786109",
-      "hot_value": "2406 万热度",
+      "title": "从数学研究角度，为什么王虹可以在本科小透明后取得巨大突破？",
+      "url": "https://www.zhihu.com/question/2063910329785045183",
+      "hot_value": "393 万热度",
       "index": 1
-    },
-    {
-      "title": "2026 年菲尔兹奖公布，中国籍数学家邓煜、王虹获奖，如何理解他们获奖的意义？",
-      "url": "https://www.zhihu.com/question/2061502500440465960",
-      "hot_value": "698 万热度",
-      "index": 2
     },
     {
       "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
       "url": "https://www.zhihu.com/question/2063832242242184073",
-      "hot_value": "260 万热度",
+      "hot_value": "386 万热度",
+      "index": 2
+    },
+    {
+      "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
+      "url": "https://www.zhihu.com/question/2063904243388512133",
+      "hot_value": "336 万热度",
       "index": 3
     },
     {
-      "title": "「最爱发钱老板」因员工不孝当场将其辞退，你怎么看待他的做法？",
-      "url": "https://www.zhihu.com/question/2063710458448536790",
-      "hot_value": "246 万热度",
+      "title": "如果一男子撬锁进入别人房子内，结果刚进屋就被泼热油导致全身重度烧伤，请问屋主该行为是否属于正当防卫？",
+      "url": "https://www.zhihu.com/question/2057805207183085608",
+      "hot_value": "271 万热度",
       "index": 4
     },
     {
-      "title": "如何看待高德上线的「位置口令」功能，6 位数字锁定精确点位？实际用途大吗？",
-      "url": "https://www.zhihu.com/question/2062965382131013474",
-      "hot_value": "201 万热度",
+      "title": "为什么感觉现在小孩越来越笨了？",
+      "url": "https://www.zhihu.com/question/454093481",
+      "hot_value": "219 万热度",
       "index": 5
     },
     {
-      "title": "如何看待越野跑被「上坟的路都比这陡，我小时候穿拖鞋都能跑」的评论嘲讽？",
-      "url": "https://www.zhihu.com/question/2061077732331614428",
-      "hot_value": "201 万热度",
+      "title": "OPPO 、 Vivo  拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
+      "url": "https://www.zhihu.com/question/2063583824378848408",
+      "hot_value": "219 万热度",
       "index": 6
     },
     {
-      "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2063396759536154240",
-      "hot_value": "200 万热度",
+      "title": "目前除了王虹和邓煜两位数学家，还有哪些华人数学家未来有望争取菲尔兹奖？",
+      "url": "https://www.zhihu.com/question/2062876703299572286",
+      "hot_value": "170 万热度",
       "index": 7
     },
     {
-      "title": "耐克宣布自明年 1 月起清退中国数千家在线经销商，对国内市场有什么影响？会冲击实体商户吗？",
-      "url": "https://www.zhihu.com/question/2063288280146351339",
-      "hot_value": "200 万热度",
+      "title": "美加墨世界杯后，哈兰德、亚马尔身价达到惊人的 2.2 亿欧元，已突破历史，这是一个什么水平？",
+      "url": "https://www.zhihu.com/question/2063542544877753542",
+      "hot_value": "146 万热度",
       "index": 8
     },
     {
-      "title": "如何看待周星驰电影《长江七号》最近在网络上获得好评？",
-      "url": "https://www.zhihu.com/question/2063330676313690982",
-      "hot_value": "193 万热度",
+      "title": "如何看待近期日本面临的股债汇「三杀」的境况？",
+      "url": "https://www.zhihu.com/question/2063933601394025370",
+      "hot_value": "135 万热度",
       "index": 9
     },
     {
-      "title": "从文学角度来看，菲尔兹奖得主邓煜的诗词选，读完有什么感受？",
-      "url": "https://www.zhihu.com/question/2063762512357454413",
-      "hot_value": "160 万热度",
+      "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
+      "url": "https://www.zhihu.com/question/2063952005505324990",
+      "hot_value": "134 万热度",
       "index": 10
     },
     {
       "title": "如何看待腾讯 317 万年终奖员工因泄密被辞退，「打入黑名单，永不录用」？大厂保密红线究竟有多严？",
       "url": "https://www.zhihu.com/question/2063929870984242778",
-      "hot_value": "160 万热度",
+      "hot_value": "134 万热度",
       "index": 11
-    },
-    {
-      "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
-      "url": "https://www.zhihu.com/question/2063904243388512133",
-      "hot_value": "159 万热度",
-      "index": 12
     },
     {
       "title": "演员寇占文被法院悬赏，立案标的 694 万，曾出演《隋唐英雄传》《逐玉》《镖人》，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2063647197862654390",
-      "hot_value": "150 万热度",
+      "hot_value": "134 万热度",
+      "index": 12
+    },
+    {
+      "title": "周星驰回应观众才是最牛的，强调纪录由观众创造的，而冯导却抛出观众垃圾论，你认为那种说法更对？",
+      "url": "https://www.zhihu.com/question/2061388641746806149",
+      "hot_value": "123 万热度",
       "index": 13
     },
     {
       "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
       "url": "https://www.zhihu.com/question/2063730050579396490",
-      "hot_value": "149 万热度",
+      "hot_value": "122 万热度",
       "index": 14
     },
     {
-      "title": "中方回应欧委会对全球速卖通罚 5.5 亿欧元，停止利用法律条文模糊性滥用自由裁量权，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2063271613081064693",
-      "hot_value": "147 万热度",
+      "title": "怎样看待女生越来越不喜欢肌肉男的现象？",
+      "url": "https://www.zhihu.com/question/427306458",
+      "hot_value": "120 万热度",
       "index": 15
-    },
-    {
-      "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
-      "url": "https://www.zhihu.com/question/2063952005505324990",
-      "hot_value": "145 万热度",
-      "index": 16
-    },
-    {
-      "title": "如何看待丘成桐撰文贺王虹、邓煜获奖，期待求真书院这些优秀的年轻人能以王虹和邓煜为榜样？",
-      "url": "https://www.zhihu.com/question/2063764614907520295",
-      "hot_value": "143 万热度",
-      "index": 17
     },
     {
       "title": "如何评价荣耀最新的 logo？为啥要在这个时间点更换 logo？",
       "url": "https://www.zhihu.com/question/2063634663818762184",
-      "hot_value": "141 万热度",
-      "index": 18
-    },
-    {
-      "title": "于东来发文称胖东来禁止员工相互借钱，称借钱是不成熟行为，你怎么看？",
-      "url": "https://www.zhihu.com/question/2063673511500060018",
-      "hot_value": "95 万热度",
-      "index": 19
-    },
-    {
-      "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
-      "url": "https://www.zhihu.com/question/2063412432022901058",
-      "hot_value": "93 万热度",
-      "index": 20
-    },
-    {
-      "title": "菲尔兹奖迎来中国籍数学家「零的突破」，王虹、邓煜双双获奖，基础科学领域的「中国时刻」到了吗？",
-      "url": "https://www.zhihu.com/question/2063942035095267015",
-      "hot_value": "92 万热度",
-      "index": 21
-    },
-    {
-      "title": "数学家邓煜在专访中提到「差点成为职业棋手」，围棋和数学在思维上有什么相通之处？能力是可迁移的吗？",
-      "url": "https://www.zhihu.com/question/2063915115095619204",
-      "hot_value": "90 万热度",
-      "index": 22
+      "hot_value": "110 万热度",
+      "index": 16
     },
     {
       "title": "长鑫科技 IPO 助力合肥城投化债，其他省市城投平台能否效仿？",
       "url": "https://www.zhihu.com/question/2062839135568491650",
+      "hot_value": "100 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何看待内存的涨价终于波及到了显卡，50 系显卡逐渐大面积缺货开始暴涨？",
+      "url": "https://www.zhihu.com/question/2063926827077445448",
+      "hot_value": "98 万热度",
+      "index": 18
+    },
+    {
+      "title": "瓜迪奥拉婉拒意大利男足主教练帅位，据称其「经过了数日的权衡」，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2064035741412188858",
       "hot_value": "89 万热度",
+      "index": 19
+    },
+    {
+      "title": "宫本茂称做游戏别老想着回本，如何看待任天堂的开发理念？",
+      "url": "https://www.zhihu.com/question/2063576585815570093",
+      "hot_value": "87 万热度",
+      "index": 20
+    },
+    {
+      "title": "12306 优先为老年旅客分配下铺，而带娃旅客不优先，该如何平衡不同群体需求？",
+      "url": "https://www.zhihu.com/question/2062138734179628224",
+      "hot_value": "87 万热度",
+      "index": 21
+    },
+    {
+      "title": "中国美术学院的录取通知书里附带 30 张速写作业，你怎么看高校给新生布置暑假作业？",
+      "url": "https://www.zhihu.com/question/2064021093195814334",
+      "hot_value": "85 万热度",
+      "index": 22
+    },
+    {
+      "title": "耐克宣布自明年 1 月起清退中国数千家在线经销商，对国内市场有什么影响？会冲击实体商户吗？",
+      "url": "https://www.zhihu.com/question/2063288280146351339",
+      "hot_value": "80 万热度",
       "index": 23
+    },
+    {
+      "title": "有哪些知道的人不多，但能保命的小知识？",
+      "url": "https://www.zhihu.com/question/641806559",
+      "hot_value": "71 万热度",
+      "index": 24
+    },
+    {
+      "title": "在语言出现之前，人类存在逻辑思考吗？",
+      "url": "https://www.zhihu.com/question/1901738499884978995",
+      "hot_value": "66 万热度",
+      "index": 25
+    },
+    {
+      "title": "上交医学院回应《科学》报道 6 岁女孩在接受基因编辑试验后死亡，称正在调查，谁该对此负责？",
+      "url": "https://www.zhihu.com/question/2063958390749885179",
+      "hot_value": "60 万热度",
+      "index": 26
+    },
+    {
+      "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2063396759536154240",
+      "hot_value": "59 万热度",
+      "index": 27
+    },
+    {
+      "title": "如何评价凡人修仙传最新播出的动画主创特别访谈？",
+      "url": "https://www.zhihu.com/question/2063756396026451472",
+      "hot_value": "58 万热度",
+      "index": 28
     },
     {
       "title": "广州 15 岁考生以中考 681 分选择「中本贯通」中餐烹饪专业，如何看待这类升学选择？",
       "url": "https://www.zhihu.com/question/2063223383240570030",
-      "hot_value": "86 万热度",
-      "index": 24
-    },
-    {
-      "title": "史湘云好歹也是出自四大家族之一，即使父母双亡也不至于在家亲手做工日日至三更，真的只是叔婶不喜她吗?",
-      "url": "https://www.zhihu.com/question/1904659858881515822",
-      "hot_value": "82 万热度",
-      "index": 25
-    },
-    {
-      "title": "以弱克强，刘裕「却月阵」大破北魏骑兵，「却月阵」到底有什么奥秘？",
-      "url": "https://www.zhihu.com/question/637477593",
-      "hot_value": "78 万热度",
-      "index": 26
+      "hot_value": "58 万热度",
+      "index": 29
     },
     {
       "title": "如何评价本届世界杯决赛，张路和詹俊的解说表现？",
       "url": "https://www.zhihu.com/question/2062410816796583538",
-      "hot_value": "69 万热度",
-      "index": 27
-    },
-    {
-      "title": "大量的阅读可以提高孩子语文成绩吗？",
-      "url": "https://www.zhihu.com/question/513575481",
-      "hot_value": "68 万热度",
-      "index": 28
-    },
-    {
-      "title": "「成功」可以治愈以前受过的创伤吗？",
-      "url": "https://www.zhihu.com/question/2060269789679990594",
-      "hot_value": "64 万热度",
-      "index": 29
-    },
-    {
-      "title": "迪路兽为什么要戴手套？",
-      "url": "https://www.zhihu.com/question/38228017",
-      "hot_value": "59 万热度",
+      "hot_value": "58 万热度",
       "index": 30
     }
   ]
