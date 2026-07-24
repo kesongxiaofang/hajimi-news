@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-07-24T15:16:57Z",
+  "update_time": "2026-07-24T20:05:25Z",
   "count": 30,
   "list": [
     {
-      "title": "台风“红霞”或于明晚登陆我国",
-      "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%BA%A2%E9%9C%9E%E2%80%9D%E6%88%96%E4%BA%8E%E6%98%8E%E6%99%9A%E7%99%BB%E9%99%86%E6%88%91%E5%9B%BD?type=general",
-      "hot_value": "11781658",
+      "title": "詹姆斯宣布加盟76人",
+      "url": "https://www.douyin.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%AE%A3%E5%B8%83%E5%8A%A0%E7%9B%9F76%E4%BA%BA?type=general",
+      "hot_value": "12020157",
       "index": 1
     },
     {
-      "title": "中国男篮113:79喀麦隆男篮",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE113%3A79%E5%96%80%E9%BA%A6%E9%9A%86%E7%94%B7%E7%AF%AE?type=general",
-      "hot_value": "11222105",
+      "title": "这个夏天要被水果冰浆硬控了",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E8%A6%81%E8%A2%AB%E6%B0%B4%E6%9E%9C%E5%86%B0%E6%B5%86%E7%A1%AC%E6%8E%A7%E4%BA%86?type=general",
+      "hot_value": "11851782",
       "index": 2
     },
     {
       "title": "“十五五”消费市场迎重大变化",
       "url": "https://www.douyin.com/search/%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E8%BF%8E%E9%87%8D%E5%A4%A7%E5%8F%98%E5%8C%96?type=general",
-      "hot_value": "11082928",
+      "hot_value": "11753503",
       "index": 3
-    },
-    {
-      "title": "消暑这件事交给周五",
-      "url": "https://www.douyin.com/search/%E6%B6%88%E6%9A%91%E8%BF%99%E4%BB%B6%E4%BA%8B%E4%BA%A4%E7%BB%99%E5%91%A8%E4%BA%94?type=general",
-      "hot_value": "10997237",
-      "index": 4
-    },
-    {
-      "title": "重庆举行反诈工作新闻发布会",
-      "url": "https://www.douyin.com/search/%E9%87%8D%E5%BA%86%E4%B8%BE%E8%A1%8C%E5%8F%8D%E8%AF%88%E5%B7%A5%E4%BD%9C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A?type=general",
-      "hot_value": "10433808",
-      "index": 5
     },
     {
       "title": "证监会原副主席方星海被查",
       "url": "https://www.douyin.com/search/%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%96%B9%E6%98%9F%E6%B5%B7%E8%A2%AB%E6%9F%A5?type=general",
-      "hot_value": "10357121",
-      "index": 6
+      "hot_value": "10782637",
+      "index": 4
     },
     {
-      "title": "这个夏天要被水果冰浆硬控了",
-      "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E8%A6%81%E8%A2%AB%E6%B0%B4%E6%9E%9C%E5%86%B0%E6%B5%86%E7%A1%AC%E6%8E%A7%E4%BA%86?type=general",
-      "hot_value": "9245388",
-      "index": 7
+      "title": "当徒步人晒出pov",
+      "url": "https://www.douyin.com/search/%E5%BD%93%E5%BE%92%E6%AD%A5%E4%BA%BA%E6%99%92%E5%87%BApov?type=general",
+      "hot_value": "10240482",
+      "index": 5
+    },
+    {
+      "title": "TVB正式更名为无线集团",
+      "url": "https://www.douyin.com/search/TVB%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%97%A0%E7%BA%BF%E9%9B%86%E5%9B%A2?type=general",
+      "hot_value": "10105956",
+      "index": 6
     },
     {
       "title": "跟知识博主看懂挂谷猜想",
       "url": "https://www.douyin.com/search/%E8%B7%9F%E7%9F%A5%E8%AF%86%E5%8D%9A%E4%B8%BB%E7%9C%8B%E6%87%82%E6%8C%82%E8%B0%B7%E7%8C%9C%E6%83%B3?type=general",
-      "hot_value": "9161138",
-      "index": 8
-    },
-    {
-      "title": "夏天从玩水的那一刻开始",
-      "url": "https://www.douyin.com/search/%E5%A4%8F%E5%A4%A9%E4%BB%8E%E7%8E%A9%E6%B0%B4%E7%9A%84%E9%82%A3%E4%B8%80%E5%88%BB%E5%BC%80%E5%A7%8B?type=general",
-      "hot_value": "8959141",
-      "index": 9
+      "hot_value": "8748103",
+      "index": 7
     },
     {
       "title": "豆包帮我拍广告大片",
       "url": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85%E5%B8%AE%E6%88%91%E6%8B%8D%E5%B9%BF%E5%91%8A%E5%A4%A7%E7%89%87?type=general",
-      "hot_value": "8900705",
-      "index": 10
+      "hot_value": "8620234",
+      "index": 8
     },
     {
       "title": "当我学会用颜色搭配时",
       "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E5%AD%A6%E4%BC%9A%E7%94%A8%E9%A2%9C%E8%89%B2%E6%90%AD%E9%85%8D%E6%97%B6?type=general",
-      "hot_value": "8534923",
+      "hot_value": "8487386",
+      "index": 9
+    },
+    {
+      "title": "夏天从玩水的那一刻开始",
+      "url": "https://www.douyin.com/search/%E5%A4%8F%E5%A4%A9%E4%BB%8E%E7%8E%A9%E6%B0%B4%E7%9A%84%E9%82%A3%E4%B8%80%E5%88%BB%E5%BC%80%E5%A7%8B?type=general",
+      "hot_value": "8426150",
+      "index": 10
+    },
+    {
+      "title": "韩国赠还清代石狮 外交部回应",
+      "url": "https://www.douyin.com/search/%E9%9F%A9%E5%9B%BD%E8%B5%A0%E8%BF%98%E6%B8%85%E4%BB%A3%E7%9F%B3%E7%8B%AE%20%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94?type=general",
+      "hot_value": "7870053",
       "index": 11
+    },
+    {
+      "title": "你要我好友位不",
+      "url": "https://www.douyin.com/search/%E4%BD%A0%E8%A6%81%E6%88%91%E5%A5%BD%E5%8F%8B%E4%BD%8D%E4%B8%8D?type=general",
+      "hot_value": "7828181",
+      "index": 12
     },
     {
       "title": "长征三号乙火箭发射与闪电同框",
       "url": "https://www.douyin.com/search/%E9%95%BF%E5%BE%81%E4%B8%89%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E4%B8%8E%E9%97%AA%E7%94%B5%E5%90%8C%E6%A1%86?type=general",
-      "hot_value": "8297781",
-      "index": 12
-    },
-    {
-      "title": "中国海警水炮驱离菲侵权船只",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%B0%B4%E7%82%AE%E9%A9%B1%E7%A6%BB%E8%8F%B2%E4%BE%B5%E6%9D%83%E8%88%B9%E5%8F%AA?type=general",
-      "hot_value": "8267978",
+      "hot_value": "7811225",
       "index": 13
     },
     {
       "title": "“广西百色遭遇严重洪灾”系谣言",
       "url": "https://www.douyin.com/search/%E2%80%9C%E5%B9%BF%E8%A5%BF%E7%99%BE%E8%89%B2%E9%81%AD%E9%81%87%E4%B8%A5%E9%87%8D%E6%B4%AA%E7%81%BE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80?type=general",
-      "hot_value": "8089728",
+      "hot_value": "7805168",
       "index": 14
     },
     {
-      "title": "加麻不加辣从此有画面了",
-      "url": "https://www.douyin.com/search/%E5%8A%A0%E9%BA%BB%E4%B8%8D%E5%8A%A0%E8%BE%A3%E4%BB%8E%E6%AD%A4%E6%9C%89%E7%94%BB%E9%9D%A2%E4%BA%86?type=general",
-      "hot_value": "7842498",
+      "title": "这个世界咋这么好看",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%92%8B%E8%BF%99%E4%B9%88%E5%A5%BD%E7%9C%8B?type=general",
+      "hot_value": "7748741",
       "index": 15
     },
     {
-      "title": "电影痴迷观后感",
-      "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%97%B4%E8%BF%B7%E8%A7%82%E5%90%8E%E6%84%9F?type=general",
-      "hot_value": "7831594",
+      "title": "你怎么舍得让我的泪流向海",
+      "url": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%88%91%E7%9A%84%E6%B3%AA%E6%B5%81%E5%90%91%E6%B5%B7?type=general",
+      "hot_value": "7740967",
       "index": 16
     },
     {
-      "title": "庞峥麟国家队天选后卫",
-      "url": "https://www.douyin.com/search/%E5%BA%9E%E5%B3%A5%E9%BA%9F%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%A4%A9%E9%80%89%E5%90%8E%E5%8D%AB?type=general",
-      "hot_value": "7814142",
+      "title": "中国海警水炮驱离菲侵权船只",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%B0%B4%E7%82%AE%E9%A9%B1%E7%A6%BB%E8%8F%B2%E4%BE%B5%E6%9D%83%E8%88%B9%E5%8F%AA?type=general",
+      "hot_value": "7739669",
       "index": 17
     },
     {
       "title": "邓紫棋天津演唱会",
       "url": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%A4%A9%E6%B4%A5%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "7787360",
+      "hot_value": "7739126",
       "index": 18
     },
     {
       "title": "王者荣耀牛年限定皮肤返场",
       "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%89%9B%E5%B9%B4%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%E8%BF%94%E5%9C%BA?type=general",
-      "hot_value": "7784863",
+      "hot_value": "7730858",
       "index": 19
     },
     {
-      "title": "这个世界咋这么好看",
-      "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%92%8B%E8%BF%99%E4%B9%88%E5%A5%BD%E7%9C%8B?type=general",
-      "hot_value": "7777300",
+      "title": "庞峥麟国家队天选后卫",
+      "url": "https://www.douyin.com/search/%E5%BA%9E%E5%B3%A5%E9%BA%9F%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%A4%A9%E9%80%89%E5%90%8E%E5%8D%AB?type=general",
+      "hot_value": "7726367",
       "index": 20
-    },
-    {
-      "title": "这题交给年轻人",
-      "url": "https://www.douyin.com/search/%E8%BF%99%E9%A2%98%E4%BA%A4%E7%BB%99%E5%B9%B4%E8%BD%BB%E4%BA%BA?type=general",
-      "hot_value": "7769102",
-      "index": 21
-    },
-    {
-      "title": "拍宣传视频的风吹到了宝泉",
-      "url": "https://www.douyin.com/search/%E6%8B%8D%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%AE%9D%E6%B3%89?type=general",
-      "hot_value": "7759893",
-      "index": 22
-    },
-    {
-      "title": "马克龙致电祝贺王虹获奖",
-      "url": "https://www.douyin.com/search/%E9%A9%AC%E5%85%8B%E9%BE%99%E8%87%B4%E7%94%B5%E7%A5%9D%E8%B4%BA%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%A5%96?type=general",
-      "hot_value": "7755831",
-      "index": 23
-    },
-    {
-      "title": "快来我告诉你个秘密",
-      "url": "https://www.douyin.com/search/%E5%BF%AB%E6%9D%A5%E6%88%91%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%AA%E7%A7%98%E5%AF%86?type=general",
-      "hot_value": "7755464",
-      "index": 24
-    },
-    {
-      "title": "湘超我们来了",
-      "url": "https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86?type=general",
-      "hot_value": "7753887",
-      "index": 25
-    },
-    {
-      "title": "knowknow王鹤棣太有节目了",
-      "url": "https://www.douyin.com/search/knowknow%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%A4%AA%E6%9C%89%E8%8A%82%E7%9B%AE%E4%BA%86?type=general",
-      "hot_value": "7743005",
-      "index": 26
-    },
-    {
-      "title": "人民日报评中国籍数学家获菲尔兹奖",
-      "url": "https://www.douyin.com/search/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%95%B0%E5%AD%A6%E5%AE%B6%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96?type=general",
-      "hot_value": "7740825",
-      "index": 27
-    },
-    {
-      "title": "你怎么舍得让我的泪流向海",
-      "url": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%88%91%E7%9A%84%E6%B3%AA%E6%B5%81%E5%90%91%E6%B5%B7?type=general",
-      "hot_value": "7739521",
-      "index": 28
     },
     {
       "title": "王虹让更多女孩看见可能性",
       "url": "https://www.douyin.com/search/%E7%8E%8B%E8%99%B9%E8%AE%A9%E6%9B%B4%E5%A4%9A%E5%A5%B3%E5%AD%A9%E7%9C%8B%E8%A7%81%E5%8F%AF%E8%83%BD%E6%80%A7?type=general",
-      "hot_value": "7739051",
-      "index": 29
+      "hot_value": "7721932",
+      "index": 21
+    },
+    {
+      "title": "卡顿滤镜解锁故障画风",
+      "url": "https://www.douyin.com/search/%E5%8D%A1%E9%A1%BF%E6%BB%A4%E9%95%9C%E8%A7%A3%E9%94%81%E6%95%85%E9%9A%9C%E7%94%BB%E9%A3%8E?type=general",
+      "hot_value": "7719242",
+      "index": 22
+    },
+    {
+      "title": "歌手冲刺赛第一场舞台",
+      "url": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%9C%BA%E8%88%9E%E5%8F%B0?type=general",
+      "hot_value": "7712245",
+      "index": 23
+    },
+    {
+      "title": "周星驰说中国有好多世界第一",
+      "url": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A5%BD%E5%A4%9A%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80?type=general",
+      "hot_value": "7705607",
+      "index": 24
+    },
+    {
+      "title": "加麻不加辣从此有画面了",
+      "url": "https://www.douyin.com/search/%E5%8A%A0%E9%BA%BB%E4%B8%8D%E5%8A%A0%E8%BE%A3%E4%BB%8E%E6%AD%A4%E6%9C%89%E7%94%BB%E9%9D%A2%E4%BA%86?type=general",
+      "hot_value": "7699689",
+      "index": 25
+    },
+    {
+      "title": "这题交给年轻人",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E9%A2%98%E4%BA%A4%E7%BB%99%E5%B9%B4%E8%BD%BB%E4%BA%BA?type=general",
+      "hot_value": "7698279",
+      "index": 26
     },
     {
       "title": "九门全员齐聚",
       "url": "https://www.douyin.com/search/%E4%B9%9D%E9%97%A8%E5%85%A8%E5%91%98%E9%BD%90%E8%81%9A?type=general",
-      "hot_value": "7738955",
+      "hot_value": "7693452",
+      "index": 27
+    },
+    {
+      "title": "电影痴迷观后感",
+      "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%97%B4%E8%BF%B7%E8%A7%82%E5%90%8E%E6%84%9F?type=general",
+      "hot_value": "7682410",
+      "index": 28
+    },
+    {
+      "title": "拍宣传视频的风吹到了宝泉",
+      "url": "https://www.douyin.com/search/%E6%8B%8D%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%AE%9D%E6%B3%89?type=general",
+      "hot_value": "7678928",
+      "index": 29
+    },
+    {
+      "title": "王虹获奖后感言",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%A5%96%E5%90%8E%E6%84%9F%E8%A8%80?type=general",
+      "hot_value": "7678369",
       "index": 30
     }
   ]

@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-24T15:16:57Z",
+  "update_time": "2026-07-24T20:05:25Z",
   "count": 30,
   "list": [
     {
       "title": "从数学研究角度，为什么王虹可以在本科小透明后取得巨大突破？",
       "url": "https://www.zhihu.com/question/2063910329785045183",
-      "hot_value": "393 万热度",
+      "hot_value": "982 万热度",
       "index": 1
-    },
-    {
-      "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-      "url": "https://www.zhihu.com/question/2063832242242184073",
-      "hot_value": "386 万热度",
-      "index": 2
-    },
-    {
-      "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
-      "url": "https://www.zhihu.com/question/2063904243388512133",
-      "hot_value": "336 万热度",
-      "index": 3
     },
     {
       "title": "如果一男子撬锁进入别人房子内，结果刚进屋就被泼热油导致全身重度烧伤，请问屋主该行为是否属于正当防卫？",
       "url": "https://www.zhihu.com/question/2057805207183085608",
-      "hot_value": "271 万热度",
+      "hot_value": "348 万热度",
+      "index": 2
+    },
+    {
+      "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
+      "url": "https://www.zhihu.com/question/2064132609781798497",
+      "hot_value": "340 万热度",
+      "index": 3
+    },
+    {
+      "title": "王虹获奖感言「很幸运在合适时间遇见合适的人，得到正确引导」，你怎么看？",
+      "url": "https://www.zhihu.com/question/2063821607458576344",
+      "hot_value": "273 万热度",
       "index": 4
+    },
+    {
+      "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
+      "url": "https://www.zhihu.com/question/2063904243388512133",
+      "hot_value": "237 万热度",
+      "index": 5
     },
     {
       "title": "为什么感觉现在小孩越来越笨了？",
       "url": "https://www.zhihu.com/question/454093481",
-      "hot_value": "219 万热度",
-      "index": 5
-    },
-    {
-      "title": "OPPO 、 Vivo  拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
-      "url": "https://www.zhihu.com/question/2063583824378848408",
-      "hot_value": "219 万热度",
+      "hot_value": "236 万热度",
       "index": 6
     },
     {
-      "title": "目前除了王虹和邓煜两位数学家，还有哪些华人数学家未来有望争取菲尔兹奖？",
-      "url": "https://www.zhihu.com/question/2062876703299572286",
-      "hot_value": "170 万热度",
+      "title": "商务部宣布为维护国家安全和利益，将 14 家欧盟实体列入出口管制管控名单，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2064019046736175870",
+      "hot_value": "226 万热度",
       "index": 7
-    },
-    {
-      "title": "美加墨世界杯后，哈兰德、亚马尔身价达到惊人的 2.2 亿欧元，已突破历史，这是一个什么水平？",
-      "url": "https://www.zhihu.com/question/2063542544877753542",
-      "hot_value": "146 万热度",
-      "index": 8
     },
     {
       "title": "如何看待近期日本面临的股债汇「三杀」的境况？",
       "url": "https://www.zhihu.com/question/2063933601394025370",
-      "hot_value": "135 万热度",
+      "hot_value": "214 万热度",
+      "index": 8
+    },
+    {
+      "title": "OPPO 、 Vivo  拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
+      "url": "https://www.zhihu.com/question/2063583824378848408",
+      "hot_value": "214 万热度",
       "index": 9
     },
     {
       "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
       "url": "https://www.zhihu.com/question/2063952005505324990",
-      "hot_value": "134 万热度",
+      "hot_value": "203 万热度",
       "index": 10
-    },
-    {
-      "title": "如何看待腾讯 317 万年终奖员工因泄密被辞退，「打入黑名单，永不录用」？大厂保密红线究竟有多严？",
-      "url": "https://www.zhihu.com/question/2063929870984242778",
-      "hot_value": "134 万热度",
-      "index": 11
-    },
-    {
-      "title": "演员寇占文被法院悬赏，立案标的 694 万，曾出演《隋唐英雄传》《逐玉》《镖人》，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2063647197862654390",
-      "hot_value": "134 万热度",
-      "index": 12
-    },
-    {
-      "title": "周星驰回应观众才是最牛的，强调纪录由观众创造的，而冯导却抛出观众垃圾论，你认为那种说法更对？",
-      "url": "https://www.zhihu.com/question/2061388641746806149",
-      "hot_value": "123 万热度",
-      "index": 13
-    },
-    {
-      "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
-      "url": "https://www.zhihu.com/question/2063730050579396490",
-      "hot_value": "122 万热度",
-      "index": 14
-    },
-    {
-      "title": "怎样看待女生越来越不喜欢肌肉男的现象？",
-      "url": "https://www.zhihu.com/question/427306458",
-      "hot_value": "120 万热度",
-      "index": 15
-    },
-    {
-      "title": "如何评价荣耀最新的 logo？为啥要在这个时间点更换 logo？",
-      "url": "https://www.zhihu.com/question/2063634663818762184",
-      "hot_value": "110 万热度",
-      "index": 16
-    },
-    {
-      "title": "长鑫科技 IPO 助力合肥城投化债，其他省市城投平台能否效仿？",
-      "url": "https://www.zhihu.com/question/2062839135568491650",
-      "hot_value": "100 万热度",
-      "index": 17
     },
     {
       "title": "如何看待内存的涨价终于波及到了显卡，50 系显卡逐渐大面积缺货开始暴涨？",
       "url": "https://www.zhihu.com/question/2063926827077445448",
-      "hot_value": "98 万热度",
-      "index": 18
+      "hot_value": "192 万热度",
+      "index": 11
     },
     {
-      "title": "瓜迪奥拉婉拒意大利男足主教练帅位，据称其「经过了数日的权衡」，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2064035741412188858",
-      "hot_value": "89 万热度",
-      "index": 19
+      "title": "目前除了王虹和邓煜两位数学家，还有哪些华人数学家未来有望争取菲尔兹奖？",
+      "url": "https://www.zhihu.com/question/2062876703299572286",
+      "hot_value": "174 万热度",
+      "index": 12
     },
     {
-      "title": "宫本茂称做游戏别老想着回本，如何看待任天堂的开发理念？",
-      "url": "https://www.zhihu.com/question/2063576585815570093",
-      "hot_value": "87 万热度",
-      "index": 20
+      "title": "怎样看待女生越来越不喜欢肌肉男的现象？",
+      "url": "https://www.zhihu.com/question/427306458",
+      "hot_value": "166 万热度",
+      "index": 13
     },
     {
-      "title": "12306 优先为老年旅客分配下铺，而带娃旅客不优先，该如何平衡不同群体需求？",
-      "url": "https://www.zhihu.com/question/2062138734179628224",
-      "hot_value": "87 万热度",
-      "index": 21
+      "title": "Shams：勒布朗 - 詹姆斯 2 年 800 万签约 76 人，第二年球员选项，如何评价这一操作？",
+      "url": "https://www.zhihu.com/question/2064134421758971967",
+      "hot_value": "165 万热度",
+      "index": 14
+    },
+    {
+      "title": "美加墨世界杯后，哈兰德、亚马尔身价达到惊人的 2.2 亿欧元，已突破历史，这是一个什么水平？",
+      "url": "https://www.zhihu.com/question/2063542544877753542",
+      "hot_value": "163 万热度",
+      "index": 15
+    },
+    {
+      "title": "LPL2026 赛季第三赛段组内赛 EDG 1:2 BLG，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2064077683093418226",
+      "hot_value": "134 万热度",
+      "index": 16
     },
     {
       "title": "中国美术学院的录取通知书里附带 30 张速写作业，你怎么看高校给新生布置暑假作业？",
       "url": "https://www.zhihu.com/question/2064021093195814334",
-      "hot_value": "85 万热度",
+      "hot_value": "134 万热度",
+      "index": 17
+    },
+    {
+      "title": "12306 优先为老年旅客分配下铺，而带娃旅客不优先，该如何平衡不同群体需求？",
+      "url": "https://www.zhihu.com/question/2062138734179628224",
+      "hot_value": "130 万热度",
+      "index": 18
+    },
+    {
+      "title": "周星驰回应观众才是最牛的，强调纪录由观众创造的，而冯导却抛出观众垃圾论，你认为那种说法更对？",
+      "url": "https://www.zhihu.com/question/2061388641746806149",
+      "hot_value": "111 万热度",
+      "index": 19
+    },
+    {
+      "title": "詹姆斯年薪 400 万加盟费城 76 人，是不是选择了一条「最轻松的路」？",
+      "url": "https://www.zhihu.com/question/2064134826727417102",
+      "hot_value": "108 万热度",
+      "index": 20
+    },
+    {
+      "title": "前 LPL 解说孙亚龙发长文曝 Bin 自降薪水后又称降薪、队内吵架为谣言，到底啥情况？",
+      "url": "https://www.zhihu.com/question/2063732543916957800",
+      "hot_value": "107 万热度",
+      "index": 21
+    },
+    {
+      "title": "近日马斯克称其 2 万亿新模型「可能超越 Kimi」，可能超越 Kimi 的具体依据是什么？对此你们是怎么看？",
+      "url": "https://www.zhihu.com/question/2063015674528765058",
+      "hot_value": "107 万热度",
       "index": 22
     },
     {
-      "title": "耐克宣布自明年 1 月起清退中国数千家在线经销商，对国内市场有什么影响？会冲击实体商户吗？",
-      "url": "https://www.zhihu.com/question/2063288280146351339",
-      "hot_value": "80 万热度",
+      "title": "如何看待腾讯 317 万年终奖员工因泄密被辞退，「打入黑名单，永不录用」？大厂保密红线究竟有多严？",
+      "url": "https://www.zhihu.com/question/2063929870984242778",
+      "hot_value": "100 万热度",
       "index": 23
     },
     {
-      "title": "有哪些知道的人不多，但能保命的小知识？",
-      "url": "https://www.zhihu.com/question/641806559",
-      "hot_value": "71 万热度",
+      "title": "《魔兽世界》GM 用秒杀能力帮女主播打 23 层大秘境，遭到玩家严厉谴责，这波丑闻暴雪怎么处理才服众？",
+      "url": "https://www.zhihu.com/question/2063323615110681339",
+      "hot_value": "99 万热度",
       "index": 24
     },
     {
-      "title": "在语言出现之前，人类存在逻辑思考吗？",
-      "url": "https://www.zhihu.com/question/1901738499884978995",
-      "hot_value": "66 万热度",
+      "title": "年轻数学家王虹、邓煜的成长历程可以给现在的家长和学生什么样的启发？",
+      "url": "https://www.zhihu.com/question/2062474715604725844",
+      "hot_value": "96 万热度",
       "index": 25
-    },
-    {
-      "title": "上交医学院回应《科学》报道 6 岁女孩在接受基因编辑试验后死亡，称正在调查，谁该对此负责？",
-      "url": "https://www.zhihu.com/question/2063958390749885179",
-      "hot_value": "60 万热度",
-      "index": 26
-    },
-    {
-      "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2063396759536154240",
-      "hot_value": "59 万热度",
-      "index": 27
     },
     {
       "title": "如何评价凡人修仙传最新播出的动画主创特别访谈？",
       "url": "https://www.zhihu.com/question/2063756396026451472",
-      "hot_value": "58 万热度",
+      "hot_value": "91 万热度",
+      "index": 26
+    },
+    {
+      "title": "为什么唐朝后期存在感不强？",
+      "url": "https://www.zhihu.com/question/2009669417236177536",
+      "hot_value": "88 万热度",
+      "index": 27
+    },
+    {
+      "title": "为什么 rmvb 格式消失了, 它在技术上比不上 H264 吗？",
+      "url": "https://www.zhihu.com/question/779011748",
+      "hot_value": "82 万热度",
       "index": 28
     },
     {
-      "title": "广州 15 岁考生以中考 681 分选择「中本贯通」中餐烹饪专业，如何看待这类升学选择？",
-      "url": "https://www.zhihu.com/question/2063223383240570030",
-      "hot_value": "58 万热度",
+      "title": "如何评价荣耀最新的 logo？为啥要在这个时间点更换 logo？",
+      "url": "https://www.zhihu.com/question/2063634663818762184",
+      "hot_value": "80 万热度",
       "index": 29
     },
     {
-      "title": "如何评价本届世界杯决赛，张路和詹俊的解说表现？",
-      "url": "https://www.zhihu.com/question/2062410816796583538",
-      "hot_value": "58 万热度",
+      "title": "为什么手机进拼多多比其他软件都要快？",
+      "url": "https://www.zhihu.com/question/8214747147",
+      "hot_value": "77 万热度",
       "index": 30
     }
   ]
