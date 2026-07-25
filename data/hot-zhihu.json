@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-25T00:13:51Z",
+  "update_time": "2026-07-25T07:44:26Z",
   "count": 30,
   "list": [
     {
-      "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
-      "url": "https://www.zhihu.com/question/2064132609781798497",
-      "hot_value": "595 万热度",
+      "title": "携程滥用市场支配地位实施垄断行为，被罚没 51.79 亿元，起到哪些警示作用？对相关行业有何影响？",
+      "url": "https://www.zhihu.com/question/2064289475916560021",
+      "hot_value": "3784 万热度",
       "index": 1
     },
     {
-      "title": "从数学研究角度，为什么王虹可以在本科小透明后取得巨大突破？",
-      "url": "https://www.zhihu.com/question/2063910329785045183",
-      "hot_value": "587 万热度",
+      "title": "小鹏 X9 因趴窝问题召回 33473 辆，有车主称大部分都是 3 万公里就趴窝，换完再塌，哪个流程出了问题？",
+      "url": "https://www.zhihu.com/question/2064072658795419261",
+      "hot_value": "695 万热度",
       "index": 2
     },
     {
-      "title": "商务部宣布为维护国家安全和利益，将 14 家欧盟实体列入出口管制管控名单，有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2064019046736175870",
-      "hot_value": "500 万热度",
+      "title": "网友爆料称赛里木湖 G219 国道设了两个卡点，不想进景区也得交钱，这是真的吗？收费合理吗？",
+      "url": "https://www.zhihu.com/question/2064045967620268374",
+      "hot_value": "482 万热度",
       "index": 3
+    },
+    {
+      "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
+      "url": "https://www.zhihu.com/question/2063822441583993476",
+      "hot_value": "418 万热度",
+      "index": 4
+    },
+    {
+      "title": "五人分 1 亿元，由你来进行分配，但凡有一个人拒绝，所有人都会失去全部，你会怎么分配？",
+      "url": "https://www.zhihu.com/question/2063192386587644315",
+      "hot_value": "415 万热度",
+      "index": 5
+    },
+    {
+      "title": "「四位菲尔兹奖主有三位会说中文」，如何看待菲奖得主约翰·帕登（白杰文）的汉语水平？你对他还有哪些了解？",
+      "url": "https://www.zhihu.com/question/2063947146085097774",
+      "hot_value": "411 万热度",
+      "index": 6
+    },
+    {
+      "title": "离岸信托个税新规出台，设立、存续、清算全链条征税 适用 20% 税率，将产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2064072667435684910",
+      "hot_value": "352 万热度",
+      "index": 7
+    },
+    {
+      "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个「我」的出现？",
+      "url": "https://www.zhihu.com/question/2038041817728410774",
+      "hot_value": "343 万热度",
+      "index": 8
+    },
+    {
+      "title": "任正非为什么说「τ 定律是华为唯一出路」？",
+      "url": "https://www.zhihu.com/question/2063930109304594992",
+      "hot_value": "333 万热度",
+      "index": 9
     },
     {
       "title": "王虹获奖感言「很幸运在合适时间遇见合适的人，得到正确引导」，你怎么看？",
       "url": "https://www.zhihu.com/question/2063821607458576344",
-      "hot_value": "387 万热度",
-      "index": 4
-    },
-    {
-      "title": "如何看待内存的涨价终于波及到了显卡，50 系显卡逐渐大面积缺货开始暴涨？",
-      "url": "https://www.zhihu.com/question/2063926827077445448",
-      "hot_value": "218 万热度",
-      "index": 5
-    },
-    {
-      "title": "12306 优先为老年旅客分配下铺，而带娃旅客不优先，该如何平衡不同群体需求？",
-      "url": "https://www.zhihu.com/question/2062138734179628224",
-      "hot_value": "129 万热度",
-      "index": 6
-    },
-    {
-      "title": "OPPO 、 Vivo  拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
-      "url": "https://www.zhihu.com/question/2063583824378848408",
-      "hot_value": "123 万热度",
-      "index": 7
-    },
-    {
-      "title": "SpaceX 星舰实施第 13 次试飞，超重助推器按计划完成海上回收着陆，此次发射有哪些看点？",
-      "url": "https://www.zhihu.com/question/2063471310508910528",
-      "hot_value": "115 万热度",
-      "index": 8
-    },
-    {
-      "title": "如何看微软联合发布的「开源权重模型对健康的 AI 生态系统至关重要」？",
-      "url": "https://www.zhihu.com/question/2064113274627609443",
-      "hot_value": "113 万热度",
-      "index": 9
-    },
-    {
-      "title": "前 LPL 解说孙亚龙发长文曝 Bin 自降薪水后又称降薪、队内吵架为谣言，到底啥情况？",
-      "url": "https://www.zhihu.com/question/2063732543916957800",
-      "hot_value": "113 万热度",
+      "hot_value": "269 万热度",
       "index": 10
     },
     {
-      "title": "如何看待近期日本面临的股债汇「三杀」的境况？",
-      "url": "https://www.zhihu.com/question/2063933601394025370",
-      "hot_value": "110 万热度",
+      "title": "二年前买的二手房，现在房主说她放在地下室的东西被我扔了，我要负责，请问我有责任吗？",
+      "url": "https://www.zhihu.com/question/2061446763119171236",
+      "hot_value": "206 万热度",
       "index": 11
     },
     {
-      "title": "《魔兽世界》GM 用秒杀能力帮女主播打 23 层大秘境，遭到玩家严厉谴责，这波丑闻暴雪怎么处理才服众？",
-      "url": "https://www.zhihu.com/question/2063323615110681339",
-      "hot_value": "109 万热度",
+      "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
+      "url": "https://www.zhihu.com/question/628507781",
+      "hot_value": "147 万热度",
       "index": 12
     },
     {
-      "title": "近日马斯克称其 2 万亿新模型「可能超越 Kimi」，可能超越 Kimi 的具体依据是什么？对此你们是怎么看？",
-      "url": "https://www.zhihu.com/question/2063015674528765058",
-      "hot_value": "107 万热度",
+      "title": "小米澎程 skynomadn90max 白色测试车现身，这意味着什么？",
+      "url": "https://www.zhihu.com/question/2063349995479234462",
+      "hot_value": "139 万热度",
       "index": 13
     },
     {
-      "title": "中国美术学院的录取通知书里附带 30 张速写作业，你怎么看高校给新生布置暑假作业？",
-      "url": "https://www.zhihu.com/question/2064021093195814334",
-      "hot_value": "101 万热度",
+      "title": "菲尔兹奖得主邓煜的知乎主页引热议，嗑 CP 、写物理诗，你怎么看这位答主科研之外的「反差感」解压日常？",
+      "url": "https://www.zhihu.com/question/2063899773157863851",
+      "hot_value": "139 万热度",
       "index": 14
     },
     {
-      "title": "周星驰回应观众才是最牛的，强调纪录由观众创造的，而冯导却抛出观众垃圾论，你认为那种说法更对？",
-      "url": "https://www.zhihu.com/question/2061388641746806149",
-      "hot_value": "96 万热度",
+      "title": "以「上嫁姿态」进入豪门，婚后转为「平嫁姿态」相处，可行吗？",
+      "url": "https://www.zhihu.com/question/2061470524119715855",
+      "hot_value": "138 万热度",
       "index": 15
     },
     {
-      "title": "美加墨世界杯后，哈兰德、亚马尔身价达到惊人的 2.2 亿欧元，已突破历史，这是一个什么水平？",
-      "url": "https://www.zhihu.com/question/2063542544877753542",
-      "hot_value": "95 万热度",
+      "title": "2026 乒超联赛常规赛第一站男团，王楚钦 1-2 张煜东，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2064320826841870967",
+      "hot_value": "138 万热度",
       "index": 16
     },
     {
-      "title": "如何看待腾讯 317 万年终奖员工因泄密被辞退，「打入黑名单，永不录用」？大厂保密红线究竟有多严？",
-      "url": "https://www.zhihu.com/question/2063929870984242778",
-      "hot_value": "94 万热度",
+      "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+      "url": "https://www.zhihu.com/question/2064272326489628784",
+      "hot_value": "138 万热度",
       "index": 17
     },
     {
-      "title": "曝演员片酬再降，片酬从 2 亿降到最高 2500 万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
-      "url": "https://www.zhihu.com/question/2063904243388512133",
-      "hot_value": "85 万热度",
+      "title": "为什么中国父母会沉迷于让孩子吃苦？",
+      "url": "https://www.zhihu.com/question/620293603",
+      "hot_value": "138 万热度",
       "index": 18
     },
     {
-      "title": "为什么 rmvb 格式消失了, 它在技术上比不上 H264 吗？",
-      "url": "https://www.zhihu.com/question/779011748",
-      "hot_value": "83 万热度",
+      "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
+      "url": "https://www.zhihu.com/question/2063590872520848306",
+      "hot_value": "137 万热度",
       "index": 19
     },
     {
-      "title": "如果一男子撬锁进入别人房子内，结果刚进屋就被泼热油导致全身重度烧伤，请问屋主该行为是否属于正当防卫？",
-      "url": "https://www.zhihu.com/question/2057805207183085608",
-      "hot_value": "79 万热度",
+      "title": "商务部宣布为维护国家安全和利益，将 14 家欧盟实体列入出口管制管控名单，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2064019046736175870",
+      "hot_value": "133 万热度",
       "index": 20
     },
     {
-      "title": "怎样看待女生越来越不喜欢肌肉男的现象？",
-      "url": "https://www.zhihu.com/question/427306458",
-      "hot_value": "78 万热度",
+      "title": "黄仁勋反对美国封禁中国 AI 模型，美方为什么要封禁？禁令真能落地吗？",
+      "url": "https://www.zhihu.com/question/2063635132070748638",
+      "hot_value": "130 万热度",
       "index": 21
     },
     {
-      "title": "演员寇占文被法院悬赏，立案标的 694 万，曾出演《隋唐英雄传》《逐玉》《镖人》，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2063647197862654390",
-      "hot_value": "75 万热度",
+      "title": "日系车三巨头在华销量全线下跌，专家称短期难扭转，主要原因是什么？",
+      "url": "https://www.zhihu.com/question/2056267812939870921",
+      "hot_value": "126 万热度",
       "index": 22
     },
     {
-      "title": "爸爸带娃，可以补充哪些妈妈做不到的优势？",
-      "url": "https://www.zhihu.com/question/2062522000208351900",
-      "hot_value": "72 万热度",
+      "title": "美国宣布对 60 个经济体加征 10%-12.5% 的 301 关税，但石油、天然气、食品得到豁免，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2063902919200711048",
+      "hot_value": "123 万热度",
       "index": 23
     },
     {
-      "title": "Shams：勒布朗 - 詹姆斯 2 年 800 万签约 76 人，第二年球员选项，如何评价这一操作？",
-      "url": "https://www.zhihu.com/question/2064134421758971967",
-      "hot_value": "69 万热度",
+      "title": "冉莹颖拳馆项目被疑利益输送，大额项目被指定向内定给亲属体系，这是真的吗？家族式管理模式有哪些风险？",
+      "url": "https://www.zhihu.com/question/2063560590417728116",
+      "hot_value": "106 万热度",
       "index": 24
     },
     {
-      "title": "为什么我的独立肉鸽没有曝光度？",
-      "url": "https://www.zhihu.com/question/2062468690281604238",
-      "hot_value": "68 万热度",
+      "title": "如果这是最后一届纯人类菲尔兹奖，王虹和邓煜身上最难被 AI 替代的能力是什么？",
+      "url": "https://www.zhihu.com/question/2064002379968669305",
+      "hot_value": "105 万热度",
       "index": 25
     },
     {
-      "title": "都说能当上领导的人，综合能力一定远超普通员工，这个说法靠谱吗？",
-      "url": "https://www.zhihu.com/question/2063791271408411695",
-      "hot_value": "68 万热度",
+      "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
+      "url": "https://www.zhihu.com/question/2064281439982576241",
+      "hot_value": "104 万热度",
       "index": 26
+    },
+    {
+      "title": "美国或以「伊朗受冻结资产」赔偿遭受伊方袭击的船只及货物损失，伊方称开创危险先例，你怎么看？",
+      "url": "https://www.zhihu.com/question/2063975545893818485",
+      "hot_value": "99 万热度",
+      "index": 27
     },
     {
       "title": "戴眼镜对一个人的颜值影响有多大？",
       "url": "https://www.zhihu.com/question/268712252",
-      "hot_value": "66 万热度",
-      "index": 27
-    },
-    {
-      "title": "有哪些深入了解后能让人叹为观止的机械产品？",
-      "url": "https://www.zhihu.com/question/51156089",
-      "hot_value": "66 万热度",
+      "hot_value": "88 万热度",
       "index": 28
     },
     {
-      "title": "你在图书馆做过 / 遇见哪些有趣的事？",
-      "url": "https://www.zhihu.com/question/23194847",
-      "hot_value": "63 万热度",
+      "title": "山东一高速服务区设啤酒档口，工作人员称「已经过审批，卖两个月了」，如何看待这一档口设置？卖啤酒合理吗？",
+      "url": "https://www.zhihu.com/question/2063655728540283084",
+      "hot_value": "79 万热度",
       "index": 29
     },
     {
-      "title": "LPL2026 赛季第三赛段组内赛 EDG 1:2 BLG，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2064077683093418226",
-      "hot_value": "63 万热度",
+      "title": "你觉得北京哪个地铁站最有「文学气质」？",
+      "url": "https://www.zhihu.com/question/2057900702987280455",
+      "hot_value": "71 万热度",
       "index": 30
     }
   ]
