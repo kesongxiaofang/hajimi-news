@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-25T11:49:16Z",
+  "update_time": "2026-07-25T15:46:29Z",
   "count": 30,
   "list": [
     {
       "title": "携程滥用市场支配地位实施垄断行为，被罚没 51.79 亿元，起到哪些警示作用？对相关行业有何影响？",
       "url": "https://www.zhihu.com/question/2064289475916560021",
-      "hot_value": "3664 万热度",
+      "hot_value": "693 万热度",
       "index": 1
     },
     {
-      "title": "网友爆料称赛里木湖 G219 国道设了两个卡点，不想进景区也得交钱，这是真的吗？收费合理吗？",
-      "url": "https://www.zhihu.com/question/2064045967620268374",
-      "hot_value": "541 万热度",
+      "title": "为什么两广地区在计算机和数学领域出现了人才井喷?",
+      "url": "https://www.zhihu.com/question/2063053785887514933",
+      "hot_value": "540 万热度",
       "index": 2
     },
     {
-      "title": "「四位菲尔兹奖主有三位会说中文」，如何看待菲奖得主约翰·帕登（白杰文）的汉语水平？你对他还有哪些了解？",
-      "url": "https://www.zhihu.com/question/2063947146085097774",
-      "hot_value": "414 万热度",
+      "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+      "url": "https://www.zhihu.com/question/2064272326489628784",
+      "hot_value": "439 万热度",
       "index": 3
     },
     {
-      "title": "小鹏 X9 因趴窝问题召回 33473 辆，有车主称大部分都是 3 万公里就趴窝，换完再塌，哪个流程出了问题？",
-      "url": "https://www.zhihu.com/question/2064072658795419261",
-      "hot_value": "409 万热度",
+      "title": "山东一高速服务区设啤酒档口，工作人员称「已经过审批，卖两个月了」，如何看待这一档口设置？卖啤酒合理吗？",
+      "url": "https://www.zhihu.com/question/2063655728540283084",
+      "hot_value": "359 万热度",
       "index": 4
     },
     {
-      "title": "「红霞」加强为台风级，预计 25 晚至 26 日在香港到广东陆丰沿海登陆，可能带来多大影响？你那里情况如何？",
+      "title": "「红霞」加强为强台风级，预计 26 日凌晨在广东深圳到海丰一带沿海登陆，可能带来多大影响？你那里情况如何？",
       "url": "https://www.zhihu.com/question/2062972309652992711",
-      "hot_value": "377 万热度",
+      "hot_value": "336 万热度",
       "index": 5
     },
     {
       "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个「我」的出现？",
       "url": "https://www.zhihu.com/question/2038041817728410774",
-      "hot_value": "362 万热度",
+      "hot_value": "324 万热度",
       "index": 6
     },
     {
       "title": "2026 乒超联赛常规赛第一站男团，王楚钦 1-2 张煜东，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2064320826841870967",
-      "hot_value": "354 万热度",
+      "hot_value": "319 万热度",
       "index": 7
     },
     {
-      "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-      "url": "https://www.zhihu.com/question/2064272326489628784",
-      "hot_value": "346 万热度",
+      "title": "被复旦临床八年制录取了，我应该争取转专业吗？",
+      "url": "https://www.zhihu.com/question/2062688006075687262",
+      "hot_value": "313 万热度",
       "index": 8
     },
     {
       "title": "任正非为什么说「τ 定律是华为唯一出路」？",
       "url": "https://www.zhihu.com/question/2063930109304594992",
-      "hot_value": "323 万热度",
+      "hot_value": "295 万热度",
       "index": 9
     },
     {
-      "title": "山东一高速服务区设啤酒档口，工作人员称「已经过审批，卖两个月了」，如何看待这一档口设置？卖啤酒合理吗？",
-      "url": "https://www.zhihu.com/question/2063655728540283084",
-      "hot_value": "300 万热度",
+      "title": "如何评价北大著名校友柳智宇评价同学王虹邓煜获得菲尔兹奖，祝贺两位校友，并不后悔自己上山出家离开数学？",
+      "url": "https://www.zhihu.com/question/2064136479643849507",
+      "hot_value": "277 万热度",
       "index": 10
-    },
-    {
-      "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
-      "url": "https://www.zhihu.com/question/2063822441583993476",
-      "hot_value": "241 万热度",
-      "index": 11
-    },
-    {
-      "title": "二年前买的二手房，现在房主说她放在地下室的东西被我扔了，我要负责，请问我有责任吗？",
-      "url": "https://www.zhihu.com/question/2061446763119171236",
-      "hot_value": "232 万热度",
-      "index": 12
-    },
-    {
-      "title": "五人分 1 亿元，由你来进行分配，但凡有一个人拒绝，所有人都会失去全部，你会怎么分配？",
-      "url": "https://www.zhihu.com/question/2063192386587644315",
-      "hot_value": "226 万热度",
-      "index": 13
     },
     {
       "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位？",
       "url": "https://www.zhihu.com/question/628507781",
-      "hot_value": "221 万热度",
+      "hot_value": "256 万热度",
+      "index": 11
+    },
+    {
+      "title": "《三国第一部：争洛阳》上映 16 天官宣撤档，票房未破亿，电影的问题出在哪？改档期会有效吗？",
+      "url": "https://www.zhihu.com/question/2064445264405050834",
+      "hot_value": "235 万热度",
+      "index": 12
+    },
+    {
+      "title": "《间谍过家家》里黄昏为什么没有察觉尤尔的真实身份？",
+      "url": "https://www.zhihu.com/question/531245241",
+      "hot_value": "210 万热度",
+      "index": 13
+    },
+    {
+      "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
+      "url": "https://www.zhihu.com/question/2064281439982576241",
+      "hot_value": "203 万热度",
       "index": 14
     },
     {
-      "title": "被复旦临床八年制录取了，我应该争取转专业吗？",
-      "url": "https://www.zhihu.com/question/2062688006075687262",
-      "hot_value": "220 万热度",
+      "title": "梨形身材，大腿小腿超级粗，真的特别想瘦，羡慕那些能穿衣自由的人 ，有没有瘦腿的方法？",
+      "url": "https://www.zhihu.com/question/2014727291356349718",
+      "hot_value": "186 万热度",
       "index": 15
     },
     {
       "title": "冉莹颖拳馆项目被疑利益输送，大额项目被指定向内定给亲属体系，这是真的吗？家族式管理模式有哪些风险？",
       "url": "https://www.zhihu.com/question/2063560590417728116",
-      "hot_value": "219 万热度",
+      "hot_value": "178 万热度",
       "index": 16
     },
     {
-      "title": "为什么两广地区在计算机和数学领域出现了人才井喷?",
-      "url": "https://www.zhihu.com/question/2063053785887514933",
-      "hot_value": "218 万热度",
+      "title": "如何评价天蚕土豆新书《神通者》签约番茄？",
+      "url": "https://www.zhihu.com/question/2063344943125608328",
+      "hot_value": "169 万热度",
       "index": 17
     },
     {
-      "title": "离岸信托个税新规出台，设立、存续、清算全链条征税 适用 20% 税率，将产生哪些影响？",
-      "url": "https://www.zhihu.com/question/2064072667435684910",
-      "hot_value": "199 万热度",
+      "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
+      "url": "https://www.zhihu.com/question/2063590872520848306",
+      "hot_value": "157 万热度",
       "index": 18
     },
     {
-      "title": "日系车三巨头在华销量全线下跌，专家称短期难扭转，主要原因是什么？",
-      "url": "https://www.zhihu.com/question/2056267812939870921",
-      "hot_value": "147 万热度",
+      "title": "如何看待郑州新东方暑期补课被查，要求清退学生？这波清查能有效打击学科培训机构吗？",
+      "url": "https://www.zhihu.com/question/2063937818758587718",
+      "hot_value": "138 万热度",
       "index": 19
     },
     {
-      "title": "孩子高考被交大医学院录取，但现在惧怕学医，打算放弃入学，复读后高考再选工科，如果你是家长会怎么做？",
-      "url": "https://www.zhihu.com/question/2063110932038001519",
-      "hot_value": "145 万热度",
+      "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
+      "url": "https://www.zhihu.com/question/2064106505993971519",
+      "hot_value": "132 万热度",
       "index": 20
     },
     {
       "title": "黄仁勋反对美国封禁中国 AI 模型，美方为什么要封禁？禁令真能落地吗？",
       "url": "https://www.zhihu.com/question/2063635132070748638",
-      "hot_value": "143 万热度",
+      "hot_value": "131 万热度",
       "index": 21
     },
     {
-      "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
-      "url": "https://www.zhihu.com/question/2063590872520848306",
-      "hot_value": "142 万热度",
+      "title": "二年前买的二手房，现在房主说她放在地下室的东西被我扔了，我要负责，请问我有责任吗？",
+      "url": "https://www.zhihu.com/question/2061446763119171236",
+      "hot_value": "129 万热度",
       "index": 22
     },
     {
-      "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
-      "url": "https://www.zhihu.com/question/2064281439982576241",
-      "hot_value": "140 万热度",
+      "title": "谢贤遗嘱附带多项约束条款，若张柏芝改嫁或失去谢贤遗产代管资格，如何解读？",
+      "url": "https://www.zhihu.com/question/2063675725551330284",
+      "hot_value": "127 万热度",
       "index": 23
     },
     {
-      "title": "如何评价天蚕土豆新书《神通者》签约番茄？",
-      "url": "https://www.zhihu.com/question/2063344943125608328",
-      "hot_value": "127 万热度",
+      "title": "LPL2026 赛季第三赛段组内赛 iG 2:1 WBG，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2064438765402190049",
+      "hot_value": "123 万热度",
       "index": 24
     },
     {
-      "title": "美国宣布对 60 个经济体加征 10%-12.5% 的 301 关税，但石油、天然气、食品得到豁免，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2063902919200711048",
-      "hot_value": "122 万热度",
+      "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
+      "url": "https://www.zhihu.com/question/2062144078456648299",
+      "hot_value": "101 万热度",
       "index": 25
     },
     {
-      "title": "北京通用人工智能研究院院长朱松纯称做 AI 少不了文科生，他为什么这么说？文科生能发挥什么独特价值？",
-      "url": "https://www.zhihu.com/question/2063209161492357431",
-      "hot_value": "96 万热度",
+      "title": "意大利足协接触皮尔洛出任新帅，他能否带领意大利队重回巅峰？",
+      "url": "https://www.zhihu.com/question/2064195190097704373",
+      "hot_value": "100 万热度",
       "index": 26
     },
     {
       "title": "「你离开了家乡，但你的胃没有」，为什么人的地域饮食习惯很难改变？哪些家乡味让你深有同感？",
       "url": "https://www.zhihu.com/question/2050638635045580805",
-      "hot_value": "83 万热度",
+      "hot_value": "100 万热度",
       "index": 27
     },
     {
-      "title": "梨形身材，大腿小腿超级粗，真的特别想瘦，羡慕那些能穿衣自由的人 ，有没有瘦腿的方法？",
-      "url": "https://www.zhihu.com/question/2014727291356349718",
-      "hot_value": "77 万热度",
+      "title": "《西游记》中的天庭神仙长生不老，仍执着蟠桃、金丹，永生为何还需要外物续命？",
+      "url": "https://www.zhihu.com/question/2063402344709206915",
+      "hot_value": "99 万热度",
       "index": 28
     },
     {
-      "title": "菲尔兹奖得主邓煜的知乎主页引热议，嗑 CP 、写物理诗，你怎么看这位答主科研之外的「反差感」解压日常？",
-      "url": "https://www.zhihu.com/question/2063899773157863851",
-      "hot_value": "70 万热度",
+      "title": "如何评价电视剧《悬案》的「卞记旅馆抢劫案」？",
+      "url": "https://www.zhihu.com/question/2063354920346941266",
+      "hot_value": "95 万热度",
       "index": 29
     },
     {
-      "title": "小米澎程 skynomadn90max 白色测试车现身，这意味着什么？",
-      "url": "https://www.zhihu.com/question/2063349995479234462",
-      "hot_value": "59 万热度",
+      "title": "北京通用人工智能研究院院长朱松纯称做 AI 少不了文科生，他为什么这么说？文科生能发挥什么独特价值？",
+      "url": "https://www.zhihu.com/question/2063209161492357431",
+      "hot_value": "88 万热度",
       "index": 30
     }
   ]
