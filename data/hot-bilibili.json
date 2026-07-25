@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-25T07:44:26Z",
+  "update_time": "2026-07-25T11:49:16Z",
   "count": 30,
   "list": [
     {
       "title": "陈翔六点半：有人在这里被爱过，有人在这里学会了爱",
       "url": "https://www.bilibili.com/video/BV1yagv6eE25",
-      "hot_value": "3140111播放",
+      "hot_value": "4866728播放",
       "index": 1
     },
     {
-      "title": "《下一个是谁》第七季（2）",
-      "url": "https://www.bilibili.com/video/BV1KRg462E53",
-      "hot_value": "2012574播放",
+      "title": "POV：当你突然独自拜访江浙沪男朋友的老爸1.0",
+      "url": "https://www.bilibili.com/video/BV1Kxgv6zERU",
+      "hot_value": "2668009播放",
       "index": 2
     },
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第8集【总第184集】",
       "url": "https://www.bilibili.com/video/BV19agi6pE4X",
-      "hot_value": "2735229播放",
+      "hot_value": "4045133播放",
       "index": 3
+    },
+    {
+      "title": "十年荣耀初心不改，千般打法运筹帷幄 | 永劫无间新英雄【叶修】、新武器【千机伞】实机演示",
+      "url": "https://www.bilibili.com/video/BV16Zge6oEHb",
+      "hot_value": "1035303播放",
+      "index": 4
     },
     {
       "title": "这才是真正的民用机床",
       "url": "https://www.bilibili.com/video/BV1AKga6RENc",
-      "hot_value": "995968播放",
-      "index": 4
-    },
-    {
-      "title": "《最绝望の主持人》",
-      "url": "https://www.bilibili.com/video/BV1mYg86tEXv",
-      "hot_value": "3223548播放",
+      "hot_value": "1676545播放",
       "index": 5
     },
     {
-      "title": "直哉挑衅佐助  十尾空降涩谷",
-      "url": "https://www.bilibili.com/video/BV16Fgv6xEpz",
-      "hot_value": "683923播放",
+      "title": "星空夜谈 EDG ZmjjKK X 盛宇D-SHINE【视频播客丨爆能无声 EP7 】",
+      "url": "https://www.bilibili.com/video/BV1eS3T6GE9H",
+      "hot_value": "299298播放",
       "index": 6
     },
     {
       "title": "【纪录片】闪闪的儿科医生4 第9集 扎起，全技能就绪！",
       "url": "https://www.bilibili.com/video/BV1utgD6pEh5",
-      "hot_value": "1266365播放",
+      "hot_value": "1438119播放",
       "index": 7
     },
     {
-      "title": "【纪录片】地球·劫后重生 中配版07 大陆碰撞",
-      "url": "https://www.bilibili.com/video/BV1RuKg6BEYn",
-      "hot_value": "763860播放",
+      "title": "《下一个是谁》第七季（2）",
+      "url": "https://www.bilibili.com/video/BV1KRg462E53",
+      "hot_value": "2216410播放",
       "index": 8
-    },
-    {
-      "title": "儿子陪老爸找工作！没想到我会陪55岁的老爸去招聘会...",
-      "url": "https://www.bilibili.com/video/BV1g8KN6SE7d",
-      "hot_value": "1172891播放",
-      "index": 9
-    },
-    {
-      "title": "永劫，再打十年也不会腻 | 新英雄【全职高手 · 叶修】CG",
-      "url": "https://www.bilibili.com/video/BV1hsgD6sE96",
-      "hot_value": "1627219播放",
-      "index": 10
-    },
-    {
-      "title": "我会顺着网线 找到你！",
-      "url": "https://www.bilibili.com/video/BV1tHKk6SEH1",
-      "hot_value": "710224播放",
-      "index": 11
-    },
-    {
-      "title": "见蛇不打三分罪？让我们来看看舟山眼镜蛇怎么说",
-      "url": "https://www.bilibili.com/video/BV1aPgQ6ZEmn",
-      "hot_value": "1662128播放",
-      "index": 12
     },
     {
       "title": "晚上在店里加班处理金枪鱼，顺便切点边角料偷偷做个晚餐吃",
       "url": "https://www.bilibili.com/video/BV1eWgr6PE9x",
-      "hot_value": "1291107播放",
-      "index": 13
+      "hot_value": "1739479播放",
+      "index": 9
     },
     {
       "title": "心灵在2012年的一次播报，时隔14年落在了自己的身上，时间绕了一圈，完成了温暖的闭环。",
       "url": "https://www.bilibili.com/video/BV183gh6aEwg",
-      "hot_value": "668205播放",
+      "hot_value": "1075776播放",
+      "index": 10
+    },
+    {
+      "title": "明明配置表一样，凭什么你的车更颠？",
+      "url": "https://www.bilibili.com/video/BV1mC3K64EGT",
+      "hot_value": "355975播放",
+      "index": 11
+    },
+    {
+      "title": "我会顺着网线 找到你！",
+      "url": "https://www.bilibili.com/video/BV1tHKk6SEH1",
+      "hot_value": "995832播放",
+      "index": 12
+    },
+    {
+      "title": "直哉挑衅佐助  十尾空降涩谷",
+      "url": "https://www.bilibili.com/video/BV16Fgv6xEpz",
+      "hot_value": "1037561播放",
+      "index": 13
+    },
+    {
+      "title": "携程被罚没51.79亿元",
+      "url": "https://www.bilibili.com/video/BV1mC3K64EAX",
+      "hot_value": "737057播放",
       "index": 14
     },
     {
       "title": "袜学导论：从脚踝到大腿，袜子如何成就二次元的顶级暗示！【泛式/次元论战】",
       "url": "https://www.bilibili.com/video/BV1Tdgh6aESA",
-      "hot_value": "1471209播放",
+      "hot_value": "1604986播放",
       "index": 15
     },
     {
-      "title": "双直播养女儿；4000人在线的赛博过家家",
-      "url": "https://www.bilibili.com/video/BV1Sqge63Eao",
-      "hot_value": "347856播放",
+      "title": "在西宁这碗麻辣烫端出来前，我简直在乱吃。",
+      "url": "https://www.bilibili.com/video/BV187gY6KEJN",
+      "hot_value": "708629播放",
       "index": 16
     },
     {
-      "title": "老同学婚礼让我穿最贵的来？",
-      "url": "https://www.bilibili.com/video/BV1cbgk6SEJS",
-      "hot_value": "3848302播放",
+      "title": "近日成都街头，本以为男子在爱心水站薅羊毛，结果却是补满水箱、送冰凉贴。",
+      "url": "https://www.bilibili.com/video/BV1h5gY6MEvm",
+      "hot_value": "2660006播放",
       "index": 17
     },
     {
-      "title": "⚡一战成名⚡我把风扇立在了一支笔上",
-      "url": "https://www.bilibili.com/video/BV1MugS62Eg9",
-      "hot_value": "4104320播放",
+      "title": "大坏狐狸的故事抽象中配 大结局",
+      "url": "https://www.bilibili.com/video/BV1WWgh6WE9D",
+      "hot_value": "1483942播放",
       "index": 18
     },
     {
-      "title": "这就是最真实的福建",
-      "url": "https://www.bilibili.com/video/BV1dnga6VEG1",
-      "hot_value": "1083771播放",
+      "title": "永劫，再打十年也不会腻 | 新英雄【全职高手 · 叶修】CG",
+      "url": "https://www.bilibili.com/video/BV1hsgD6sE96",
+      "hot_value": "1980021播放",
       "index": 19
     },
     {
-      "title": "成吉思鸡200卢比买一送一，我只要送的那份",
-      "url": "https://www.bilibili.com/video/BV1v4g16mE5a",
-      "hot_value": "3869306播放",
+      "title": "整活！当做饭很难吃的女友突然买了一兜子菜…男友直接崩溃了！",
+      "url": "https://www.bilibili.com/video/BV1bpgv66ELR",
+      "hot_value": "836177播放",
       "index": 20
     },
     {
-      "title": "救命！暑假店里彻底疯狂，人多到走不动 饮料桌游全爆单",
-      "url": "https://www.bilibili.com/video/BV14EgY6vE96",
-      "hot_value": "798316播放",
+      "title": "キャンディークッキーチョコレート🍭🍪🍫初音ミク・重音テトSV【官方投稿】",
+      "url": "https://www.bilibili.com/video/BV1MAgi6VEio",
+      "hot_value": "173882播放",
       "index": 21
     },
     {
-      "title": "携程被罚没51.79亿元",
-      "url": "https://www.bilibili.com/video/BV1mC3K64EAX",
-      "hot_value": "348103播放",
+      "title": "见蛇不打三分罪？让我们来看看舟山眼镜蛇怎么说",
+      "url": "https://www.bilibili.com/video/BV1aPgQ6ZEmn",
+      "hot_value": "1929086播放",
       "index": 22
     },
     {
-      "title": "你的意思是你杀了他养了一整局的鼠",
-      "url": "https://www.bilibili.com/video/BV1xhgx65EM6",
-      "hot_value": "856563播放",
+      "title": "鸣潮×广东歌舞剧院 | 合作舞蹈《玄翎谣》",
+      "url": "https://www.bilibili.com/video/BV1rvgY69ELE",
+      "hot_value": "433759播放",
       "index": 23
-    },
-    {
-      "title": "监考小风波",
-      "url": "https://www.bilibili.com/video/BV18Yga6TExV",
-      "hot_value": "936806播放",
-      "index": 24
-    },
-    {
-      "title": "只要我转的快，我也是王者荣耀的高手",
-      "url": "https://www.bilibili.com/video/BV1Umgi6GETh",
-      "hot_value": "469255播放",
-      "index": 25
-    },
-    {
-      "title": "“弦起敦煌，壁画再世！”【鸿音】",
-      "url": "https://www.bilibili.com/video/BV1bLgY6qE96",
-      "hot_value": "487586播放",
-      "index": 26
-    },
-    {
-      "title": "旭旭宝宝争议事件：掉粉近80万，他错在哪一步？",
-      "url": "https://www.bilibili.com/video/BV1pvgv6aEaL",
-      "hot_value": "803277播放",
-      "index": 27
     },
     {
       "title": "树恨你",
       "url": "https://www.bilibili.com/video/BV1h4KU66ENd",
-      "hot_value": "8420668播放",
-      "index": 28
+      "hot_value": "8572183播放",
+      "index": 24
     },
     {
-      "title": "00后男生跟父母说今年带女朋友回家，没想到……网友：这下玩大了！",
-      "url": "https://www.bilibili.com/video/BV1MFge6qEwT",
-      "hot_value": "2818964播放",
-      "index": 29
+      "title": "刚买的李子丢进水里，直接长出了一层透明壳？？",
+      "url": "https://www.bilibili.com/video/BV1d7gD6FE1J",
+      "hot_value": "3290417播放",
+      "index": 25
+    },
+    {
+      "title": "一口气看懂王虹获菲尔兹奖：挂谷猜想到底有多难？",
+      "url": "https://www.bilibili.com/video/BV1bpgv66Ees",
+      "hot_value": "609131播放",
+      "index": 26
+    },
+    {
+      "title": "洗不掉了，喜提贝利亚永久皮肤",
+      "url": "https://www.bilibili.com/video/BV18LgY6qEav",
+      "hot_value": "1685442播放",
+      "index": 27
     },
     {
       "title": "连续21天十点睡六点起，我真的会变健康吗？",
       "url": "https://www.bilibili.com/video/BV1DAgS6SEqa",
-      "hot_value": "4239483播放",
+      "hot_value": "4684510播放",
+      "index": 28
+    },
+    {
+      "title": "《最绝望の主持人》",
+      "url": "https://www.bilibili.com/video/BV1mYg86tEXv",
+      "hot_value": "3468982播放",
+      "index": 29
+    },
+    {
+      "title": "末日高架桥，我们被困了100天！P5",
+      "url": "https://www.bilibili.com/video/BV17ygv6xEPr",
+      "hot_value": "302215播放",
       "index": 30
     }
   ]
