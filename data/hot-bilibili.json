@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-26T16:30:24Z",
+  "update_time": "2026-07-26T20:32:49Z",
   "count": 30,
   "list": [
     {
-      "title": "奇怪的玩具工厂 第五章 Part1",
-      "url": "https://www.bilibili.com/video/BV1dz356wEgr",
-      "hot_value": "1822577播放",
+      "title": "极客湾手机续航大横评：电池锁容？电量缩水？谁在浑水摸鱼？",
+      "url": "https://www.bilibili.com/video/BV1LR336sEFX",
+      "hot_value": "1888850播放",
       "index": 1
     },
     {
-      "title": "极客湾手机续航大横评：电池锁容？电量缩水？谁在浑水摸鱼？",
-      "url": "https://www.bilibili.com/video/BV1LR336sEFX",
-      "hot_value": "1802785播放",
+      "title": "奇怪的玩具工厂 第五章 Part1",
+      "url": "https://www.bilibili.com/video/BV1dz356wEgr",
+      "hot_value": "1914490播放",
       "index": 2
     },
     {
       "title": "“顶级智斗，胜负已分”【天堂的彼端-变速】【智斗の小曲】",
       "url": "https://www.bilibili.com/video/BV1psgh6XEGV",
-      "hot_value": "2913021播放",
+      "hot_value": "3109689播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第93集 弑帝",
       "url": "https://www.bilibili.com/video/BV1Dr3g65EJ2",
-      "hot_value": "2446717播放",
+      "hot_value": "2565804播放",
       "index": 4
-    },
-    {
-      "title": "自己吓自己～",
-      "url": "https://www.bilibili.com/video/BV1fp3g64Ezb",
-      "hot_value": "3498329播放",
-      "index": 5
-    },
-    {
-      "title": "【TF家族练习生】《突围II破局》EP05：你的位置，决定了你有多少选择（下）",
-      "url": "https://www.bilibili.com/video/BV1QR3E6qEAF",
-      "hot_value": "1054801播放",
-      "index": 6
-    },
-    {
-      "title": "护送迷路大爷回家，心里开心一整天~",
-      "url": "https://www.bilibili.com/video/BV1rF336wEvu",
-      "hot_value": "514853播放",
-      "index": 7
-    },
-    {
-      "title": "被骂了三十年的PPT，为什么我们还离不开它？｜附做PPT好用的AI！",
-      "url": "https://www.bilibili.com/video/BV1r73J6QExq",
-      "hot_value": "464894播放",
-      "index": 8
     },
     {
       "title": "Tiny Giant (Remix) | Zenless Zone Zero",
       "url": "https://www.bilibili.com/video/BV1Ep3M6SEiC",
-      "hot_value": "542541播放",
-      "index": 9
-    },
-    {
-      "title": "别人说倒装句！广西人讲乱装句！这谁能听懂啊！😵",
-      "url": "https://www.bilibili.com/video/BV1Ek3u6RECC",
-      "hot_value": "1092773播放",
-      "index": 10
-    },
-    {
-      "title": "拿报废钻头锻造非洲战刀！《锻刀大赛》最阴间的钢材",
-      "url": "https://www.bilibili.com/video/BV1Qug96wEky",
-      "hot_value": "154131播放",
-      "index": 11
-    },
-    {
-      "title": "见蛇不打三分罪？让我们来看看舟山眼镜蛇怎么说",
-      "url": "https://www.bilibili.com/video/BV1aPgQ6ZEmn",
-      "hot_value": "3180312播放",
-      "index": 12
-    },
-    {
-      "title": "致富经：村民养殖大狗，发展狗叫经济",
-      "url": "https://www.bilibili.com/video/BV18J3u66EMY",
-      "hot_value": "1501212播放",
-      "index": 13
-    },
-    {
-      "title": "这挑战迪迦干完都亮红灯走的",
-      "url": "https://www.bilibili.com/video/BV1t63M6KEyP",
-      "hot_value": "2022683播放",
-      "index": 14
-    },
-    {
-      "title": "「新宿决战」雨爱版",
-      "url": "https://www.bilibili.com/video/BV1QC3G6DEKX",
-      "hot_value": "559469播放",
-      "index": 15
-    },
-    {
-      "title": "“月嫂”你听过，那周末的“全职奶舅”听过吗？",
-      "url": "https://www.bilibili.com/video/BV1FvgY6RENN",
-      "hot_value": "1729479播放",
-      "index": 16
-    },
-    {
-      "title": "《明日方舟》EP - 酸橙色信笺",
-      "url": "https://www.bilibili.com/video/BV1nB3u6tEHD",
-      "hot_value": "1533674播放",
-      "index": 17
-    },
-    {
-      "title": "螃蟹挑战赛",
-      "url": "https://www.bilibili.com/video/BV1oXgD6NEqJ",
-      "hot_value": "2258289播放",
-      "index": 18
-    },
-    {
-      "title": "一口气看懂王虹获菲尔兹奖：挂谷猜想到底有多难？",
-      "url": "https://www.bilibili.com/video/BV1bpgv66Ees",
-      "hot_value": "2078869播放",
-      "index": 19
-    },
-    {
-      "title": "班赛就是我的舞台，我就是主角！",
-      "url": "https://www.bilibili.com/video/BV1Qv3M66E7E",
-      "hot_value": "1109480播放",
-      "index": 20
-    },
-    {
-      "title": "昭和金曲《マジか！》Papi酱《生气了》日文版",
-      "url": "https://www.bilibili.com/video/BV1Rt3M6LEvH",
-      "hot_value": "1152331播放",
-      "index": 21
-    },
-    {
-      "title": "⚡️异 域 狗 叫 ⚡️",
-      "url": "https://www.bilibili.com/video/BV1ox3M62EfK",
-      "hot_value": "1203465播放",
-      "index": 22
+      "hot_value": "609928播放",
+      "index": 5
     },
     {
       "title": "生物军团vs泰坦傀儡！",
       "url": "https://www.bilibili.com/video/BV1JPgU6cEPV",
-      "hot_value": "900898播放",
-      "index": 23
+      "hot_value": "1113843播放",
+      "index": 6
     },
     {
-      "title": "【朱志鑫】DAY-1 原创SOLO「Do All Swag」4K直拍｜登陆少年梦寐以求演唱会",
-      "url": "https://www.bilibili.com/video/BV12v336MEVJ",
-      "hot_value": "306374播放",
-      "index": 24
+      "title": "《明日方舟》EP - 酸橙色信笺",
+      "url": "https://www.bilibili.com/video/BV1nB3u6tEHD",
+      "hot_value": "1568487播放",
+      "index": 7
+    },
+    {
+      "title": "螃蟹挑战赛",
+      "url": "https://www.bilibili.com/video/BV1oXgD6NEqJ",
+      "hot_value": "2407424播放",
+      "index": 8
+    },
+    {
+      "title": "护送迷路大爷回家，心里开心一整天~",
+      "url": "https://www.bilibili.com/video/BV1rF336wEvu",
+      "hot_value": "627049播放",
+      "index": 9
+    },
+    {
+      "title": "「新宿决战」雨爱版",
+      "url": "https://www.bilibili.com/video/BV1QC3G6DEKX",
+      "hot_value": "663195播放",
+      "index": 10
+    },
+    {
+      "title": "一口气看懂王虹获菲尔兹奖：挂谷猜想到底有多难？",
+      "url": "https://www.bilibili.com/video/BV1bpgv66Ees",
+      "hot_value": "2174078播放",
+      "index": 11
+    },
+    {
+      "title": "【MAFG】MC动画：于是，我们的故事开始了......",
+      "url": "https://www.bilibili.com/video/BV1fNN46HE9w",
+      "hot_value": "1187621播放",
+      "index": 12
+    },
+    {
+      "title": "人类幼崽开机使用说明书",
+      "url": "https://www.bilibili.com/video/BV12y3K6oEYY",
+      "hot_value": "303019播放",
+      "index": 13
+    },
+    {
+      "title": "别人说倒装句！广西人讲乱装句！这谁能听懂啊！😵",
+      "url": "https://www.bilibili.com/video/BV1Ek3u6RECC",
+      "hot_value": "1226971播放",
+      "index": 14
+    },
+    {
+      "title": "申论素材加一",
+      "url": "https://www.bilibili.com/video/BV1Ajgi6eEMv",
+      "hot_value": "1510361播放",
+      "index": 15
+    },
+    {
+      "title": "【TF家族练习生】《突围II破局》EP05：你的位置，决定了你有多少选择（下）",
+      "url": "https://www.bilibili.com/video/BV1QR3E6qEAF",
+      "hot_value": "1153302播放",
+      "index": 16
+    },
+    {
+      "title": "⚡️异 域 狗 叫 ⚡️",
+      "url": "https://www.bilibili.com/video/BV1ox3M62EfK",
+      "hot_value": "1246390播放",
+      "index": 17
     },
     {
       "title": "年销2亿粒！从古代皇室黑金到日本“国民蕨饼”垄断超市夏季货架！",
       "url": "https://www.bilibili.com/video/BV1cA336cERr",
-      "hot_value": "2490625播放",
-      "index": 25
+      "hot_value": "2606525播放",
+      "index": 18
+    },
+    {
+      "title": "躲在航天核心区捡垃圾的两人【三角洲动画】",
+      "url": "https://www.bilibili.com/video/BV1kwgz66Ekd",
+      "hot_value": "1520637播放",
+      "index": 19
     },
     {
       "title": "陈翔六点半：有人在这里被爱过，有人在这里学会了爱",
       "url": "https://www.bilibili.com/video/BV1yagv6eE25",
-      "hot_value": "7229058播放",
+      "hot_value": "7278885播放",
+      "index": 20
+    },
+    {
+      "title": "自己吓自己～",
+      "url": "https://www.bilibili.com/video/BV1fp3g64Ezb",
+      "hot_value": "3691574播放",
+      "index": 21
+    },
+    {
+      "title": "“全世界最倒霉的人”",
+      "url": "https://www.bilibili.com/video/BV1p2gr6JE1Y",
+      "hot_value": "1646492播放",
+      "index": 22
+    },
+    {
+      "title": "地球online四大机制怪",
+      "url": "https://www.bilibili.com/video/BV1Lzgh6VEZV",
+      "hot_value": "1858850播放",
+      "index": 23
+    },
+    {
+      "title": "班赛就是我的舞台，我就是主角！",
+      "url": "https://www.bilibili.com/video/BV1Qv3M66E7E",
+      "hot_value": "1208070播放",
+      "index": 24
+    },
+    {
+      "title": "这挑战迪迦干完都亮红灯走的",
+      "url": "https://www.bilibili.com/video/BV1t63M6KEyP",
+      "hot_value": "2090276播放",
+      "index": 25
+    },
+    {
+      "title": "见蛇不打三分罪？让我们来看看舟山眼镜蛇怎么说",
+      "url": "https://www.bilibili.com/video/BV1aPgQ6ZEmn",
+      "hot_value": "3264177播放",
       "index": 26
     },
     {
-      "title": "那天新艾利都的咖啡厅来了个天才！！法厄同与奇妙咖啡~~~",
-      "url": "https://www.bilibili.com/video/BV1ej336nEPb",
-      "hot_value": "795736播放",
+      "title": "【朱志鑫】DAY-1 原创SOLO「Do All Swag」4K直拍｜登陆少年梦寐以求演唱会",
+      "url": "https://www.bilibili.com/video/BV12v336MEVJ",
+      "hot_value": "312513播放",
       "index": 27
     },
     {
-      "title": "决战晚自习",
-      "url": "https://www.bilibili.com/video/BV1rY3E6XEQ8",
-      "hot_value": "460110播放",
+      "title": "《下一个是谁》第七季（2）",
+      "url": "https://www.bilibili.com/video/BV1KRg462E53",
+      "hot_value": "2942346播放",
       "index": 28
     },
     {
-      "title": "在贵州六盘水街边吃老牌羊肉粉，带皮羊肉粉浇上大颗粒油辣子，简直神了！水城羊肉粉果然名不虚传#六盘水美食#贵州美食#水城羊肉粉#羊肉粉#六盘水羊肉粉",
-      "url": "https://www.bilibili.com/video/BV1WV3M6dEKX",
-      "hot_value": "778827播放",
+      "title": "中国人能飞🚀🚀🚀",
+      "url": "https://www.bilibili.com/video/BV1iKgv6HEgJ",
+      "hot_value": "2210034播放",
       "index": 29
     },
     {
-      "title": "儿子陪老爸找工作！没想到我会陪55岁的老爸去招聘会...",
-      "url": "https://www.bilibili.com/video/BV1g8KN6SE7d",
-      "hot_value": "2116607播放",
+      "title": "这才是爱豆该有的国风表现力｜R.E.D尹子璐《千年等一回+风月》巡演杭州限定FOCUS",
+      "url": "https://www.bilibili.com/video/BV1LX336dEGT",
+      "hot_value": "676556播放",
       "index": 30
     }
   ]
