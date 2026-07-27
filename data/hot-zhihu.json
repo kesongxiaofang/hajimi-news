@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-26T20:32:49Z",
+  "update_time": "2026-07-27T08:59:10Z",
   "count": 30,
   "list": [
     {
-      "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
-      "url": "https://www.zhihu.com/question/2064578743788745259",
-      "hot_value": "723 万热度",
+      "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
+      "url": "https://www.zhihu.com/question/2065005981617107684",
+      "hot_value": "2619 万热度",
       "index": 1
     },
     {
-      "title": "如何看待儿子沉迷游戏吞药入院，父亲因此起诉腾讯、网易、米哈游和三七互娱，并且索赔 10 元？",
-      "url": "https://www.zhihu.com/question/2064331256884622163",
-      "hot_value": "231 万热度",
+      "title": "24 岁女孩正颌手术被做反，变成「鞋拔子脸」，武汉卫健部门介入，医院和医生各得担哪些责？女孩还能恢复吗？",
+      "url": "https://www.zhihu.com/question/2064692382461685795",
+      "hot_value": "703 万热度",
       "index": 2
+    },
+    {
+      "title": "日本确认南鸟岛海泥含稀土，对全球稀土供应有何影响？",
+      "url": "https://www.zhihu.com/question/2064455331346962042",
+      "hot_value": "337 万热度",
+      "index": 3
+    },
+    {
+      "title": "日本著名推理小说家东野圭吾去世，享年 68 岁，如何评价他在推理小说领域的成就？",
+      "url": "https://www.zhihu.com/question/2065092782071472554",
+      "hot_value": "318 万热度",
+      "index": 4
+    },
+    {
+      "title": "某博主制作知了猴馅水饺，结果知了猴集体出逃、活蹦乱跳，如何看待这一烹饪做法？你怎么看？",
+      "url": "https://www.zhihu.com/question/2064478848314335618",
+      "hot_value": "300 万热度",
+      "index": 5
+    },
+    {
+      "title": "耐克终止线上合作后，滔搏被曝暴力打折甩卖库存，如何解读此现象？",
+      "url": "https://www.zhihu.com/question/2064176396658807069",
+      "hot_value": "253 万热度",
+      "index": 6
+    },
+    {
+      "title": "日本作家东野圭吾去世，如何评价他的作品？你与他初相遇是从哪本书开始的？最推荐他的哪部作品？",
+      "url": "https://www.zhihu.com/question/2065093746111112018",
+      "hot_value": "248 万热度",
+      "index": 7
+    },
+    {
+      "title": "怎么看待乒协官网公布的领导名单里已无秦志戬？",
+      "url": "https://www.zhihu.com/question/2064794051711447386",
+      "hot_value": "245 万热度",
+      "index": 8
+    },
+    {
+      "title": "本次离岸信托 20% 个税新规，会让富豪靠海外架构避税的空间变得越来越小吗？",
+      "url": "https://www.zhihu.com/question/2064295729997394466",
+      "hot_value": "243 万热度",
+      "index": 9
+    },
+    {
+      "title": "为什么中国人总喜欢把客厅弄那么大，而厨房卫生间那么小？",
+      "url": "https://www.zhihu.com/question/1997358863511470900",
+      "hot_value": "242 万热度",
+      "index": 10
+    },
+    {
+      "title": "如何看待科幻电影《群星闪耀时》宣布撤档？",
+      "url": "https://www.zhihu.com/question/2064855057015779808",
+      "hot_value": "242 万热度",
+      "index": 11
+    },
+    {
+      "title": "李权哲就高铁占座道歉，活动方称座位调整、团队现场换座，铁路部门称全程座位无变更，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2064485891255570968",
+      "hot_value": "237 万热度",
+      "index": 12
+    },
+    {
+      "title": "国家发的电用不完的，国家电网会储存起来吗，还是浪费了？",
+      "url": "https://www.zhihu.com/question/320833834",
+      "hot_value": "210 万热度",
+      "index": 13
+    },
+    {
+      "title": "韩国电竞选手 Faker 获任名誉警察与警长，将如何提升电竞社会形象？",
+      "url": "https://www.zhihu.com/question/2063300236198556617",
+      "hot_value": "203 万热度",
+      "index": 14
+    },
+    {
+      "title": "NAS 是未来家庭必备硬件，还是新一轮数码产品「智商税」？",
+      "url": "https://www.zhihu.com/question/2063710536999624989",
+      "hot_value": "200 万热度",
+      "index": 15
+    },
+    {
+      "title": "长鑫科技开盘 3.3 万亿登顶 A 股市值王，A 股 35 年首次由半导体硬科技拿下股王，意味着什么？",
+      "url": "https://www.zhihu.com/question/2065019773163984075",
+      "hot_value": "197 万热度",
+      "index": 16
+    },
+    {
+      "title": "麦田怪圈的真相是什么？",
+      "url": "https://www.zhihu.com/question/22294325",
+      "hot_value": "145 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何看待米哈游创始人「蔡浩宇」海外团队 AI 产品 AnuNeko 突然宣布永久停运？",
+      "url": "https://www.zhihu.com/question/2064803992841069459",
+      "hot_value": "136 万热度",
+      "index": 18
+    },
+    {
+      "title": "美财政部威胁制裁中国模型，硅谷 200 家企业联名反对，硅谷的态度反弹说明了什么？",
+      "url": "https://www.zhihu.com/question/2064030510549054193",
+      "hot_value": "135 万热度",
+      "index": 19
+    },
+    {
+      "title": "打架时候是气势和技巧哪个重要？",
+      "url": "https://www.zhihu.com/question/53131180",
+      "hot_value": "132 万热度",
+      "index": 20
     },
     {
       "title": "继《争洛阳》后《群星闪耀时》也官宣撤档，这个暑期档怎么一部部片子都跑了？",
       "url": "https://www.zhihu.com/question/2064850023011935595",
-      "hot_value": "230 万热度",
-      "index": 3
+      "hot_value": "131 万热度",
+      "index": 21
     },
     {
-      "title": "邓煜获得了 2026 年菲尔兹奖，其研究成果与物理学之间有很强的关联性，他会获得诺贝尔物理学奖吗？",
-      "url": "https://www.zhihu.com/question/2064329046528414734",
-      "hot_value": "217 万热度",
-      "index": 4
+      "title": "数学天才柳智宇称若坚持研究也可能得菲尔兹奖，如何看待？",
+      "url": "https://www.zhihu.com/question/2064855593953784758",
+      "hot_value": "130 万热度",
+      "index": 22
     },
     {
-      "title": "如何评价章笛沙执导，黄渤、吴磊、高叶等主演的电影《群星闪耀时》？",
-      "url": "https://www.zhihu.com/question/2061413101283586667",
-      "hot_value": "159 万热度",
-      "index": 5
+      "title": "你从哪个瞬间开始明白自己真的长大了？",
+      "url": "https://www.zhihu.com/question/625767359",
+      "hot_value": "115 万热度",
+      "index": 23
     },
     {
-      "title": "罗永浩炮轰智能电视「长辈模式」与「套娃收费」，为何能引发集体共鸣？这种过度商业化正在怎样影响电视行业？",
-      "url": "https://www.zhihu.com/question/2064500575325181312",
-      "hot_value": "122 万热度",
-      "index": 6
+      "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+      "url": "https://www.zhihu.com/question/2052464126996353859",
+      "hot_value": "114 万热度",
+      "index": 24
     },
     {
-      "title": "人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢？",
-      "url": "https://www.zhihu.com/question/358666124",
-      "hot_value": "119 万热度",
-      "index": 7
+      "title": "电影《年会不能停 2！》点映后口碑如何，它有哪些看点值得期待？",
+      "url": "https://www.zhihu.com/question/2064285305331627552",
+      "hot_value": "110 万热度",
+      "index": 25
+    },
+    {
+      "title": "欧盟宣布 4 年来最大规模对俄制裁，170 家实体被列为制裁对象，哪些信息值得关注？可能会有哪些影响？",
+      "url": "https://www.zhihu.com/question/2064374902241453287",
+      "hot_value": "96 万热度",
+      "index": 26
+    },
+    {
+      "title": "如何看待 2026 安徽高考安徽师范大学投档线位次暴跌？",
+      "url": "https://www.zhihu.com/question/2064347921571648296",
+      "hot_value": "78 万热度",
+      "index": 27
+    },
+    {
+      "title": "甘肃一景区山洪致露营游客遇难，当地曾发布山洪灾害预警，但游客未被限制进入或及时疏散，景区存在责任吗？",
+      "url": "https://www.zhihu.com/question/2064820259022795106",
+      "hot_value": "77 万热度",
+      "index": 28
     },
     {
       "title": "亚运短跑冠军体脂低于 10%，退役不到一年查出三高和脂肪肝，这是什么原因？",
       "url": "https://www.zhihu.com/question/2063668726759691526",
-      "hot_value": "99 万热度",
-      "index": 8
-    },
-    {
-      "title": "如何看待张煜东在训练场录音曝光后发布的澄清声明？",
-      "url": "https://www.zhihu.com/question/2064659826584690831",
-      "hot_value": "98 万热度",
-      "index": 9
-    },
-    {
-      "title": "段永平称 10 年内大概率不会卖泡泡玛特？十年后的泡泡玛特会是什么样子？",
-      "url": "https://www.zhihu.com/question/2063932194024681825",
-      "hot_value": "98 万热度",
-      "index": 10
-    },
-    {
-      "title": "甘肃渭源一景区山洪已致 10 人遇难，23 人受伤，现场情况如何？哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2064783855282643631",
-      "hot_value": "96 万热度",
-      "index": 11
-    },
-    {
-      "title": "极氪回应跨境自驾遭远程锁车，上线「跨境守护」功能、优化安全功能，你觉得该调整怎样？能回应此前质疑吗？",
-      "url": "https://www.zhihu.com/question/2064748461803529879",
-      "hot_value": "95 万热度",
-      "index": 12
-    },
-    {
-      "title": "郑州银行利润  18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么？",
-      "url": "https://www.zhihu.com/question/2063564177688597653",
-      "hot_value": "94 万热度",
-      "index": 13
-    },
-    {
-      "title": "古代没冰箱，肉怎么保存？",
-      "url": "https://www.zhihu.com/question/2063618291311105996",
-      "hot_value": "94 万热度",
-      "index": 14
-    },
-    {
-      "title": "如果没有出现四大天王，香港乐坛能否敌得过台湾乐坛？",
-      "url": "https://www.zhihu.com/question/1995555700441634403",
-      "hot_value": "88 万热度",
-      "index": 15
-    },
-    {
-      "title": "你认为米哈游的核心竞争力，除了技术与美术，更深层次的原因是什么？",
-      "url": "https://www.zhihu.com/question/2045101137863430588",
-      "hot_value": "82 万热度",
-      "index": 16
-    },
-    {
-      "title": "宁德时代上半年日赚 2.39 亿元，拟 200-400 亿元回购股份注销，创下 A 股历史纪录，如何解读？",
-      "url": "https://www.zhihu.com/question/2064123998942901167",
-      "hot_value": "79 万热度",
-      "index": 17
-    },
-    {
-      "title": "LPL2026 赛季第三赛段组内赛 AL 1:2 BLG，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2064790995586306393",
       "hot_value": "76 万热度",
-      "index": 18
-    },
-    {
-      "title": "如何评价乔丹的中投？",
-      "url": "https://www.zhihu.com/question/472789170",
-      "hot_value": "70 万热度",
-      "index": 19
-    },
-    {
-      "title": "《年会不能停 2！》开点映了，看过的都来说说，如何评价这部电影？",
-      "url": "https://www.zhihu.com/question/2063662105644082961",
-      "hot_value": "66 万热度",
-      "index": 20
-    },
-    {
-      "title": "如何评价凡人修仙传导演王裕仁破防骂网友？",
-      "url": "https://www.zhihu.com/question/2064287361543017092",
-      "hot_value": "64 万热度",
-      "index": 21
-    },
-    {
-      "title": "对父母彻底失望是怎样的感受？",
-      "url": "https://www.zhihu.com/question/267639920",
-      "hot_value": "61 万热度",
-      "index": 22
-    },
-    {
-      "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-      "url": "https://www.zhihu.com/question/2063915578427963194",
-      "hot_value": "59 万热度",
-      "index": 23
-    },
-    {
-      "title": "为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作？",
-      "url": "https://www.zhihu.com/question/7803569929",
-      "hot_value": "56 万热度",
-      "index": 24
-    },
-    {
-      "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
-      "url": "https://www.zhihu.com/question/2062144078456648299",
-      "hot_value": "56 万热度",
-      "index": 25
-    },
-    {
-      "title": "为什么感觉现在小孩越来越笨了？",
-      "url": "https://www.zhihu.com/question/454093481",
-      "hot_value": "55 万热度",
-      "index": 26
-    },
-    {
-      "title": "你在网上买过最坑的东西是什么？",
-      "url": "https://www.zhihu.com/question/358756145",
-      "hot_value": "55 万热度",
-      "index": 27
-    },
-    {
-      "title": "简单又有营养的早餐有哪些推荐？",
-      "url": "https://www.zhihu.com/question/20616758",
-      "hot_value": "55 万热度",
-      "index": 28
-    },
-    {
-      "title": "中国古人的逻辑思维是不是很差？相应的文言文上是不是有许多逻辑短板？",
-      "url": "https://www.zhihu.com/question/28508723",
-      "hot_value": "55 万热度",
       "index": 29
     },
     {
-      "title": "如果有一天你儿子说不想上学了，作为家长应该怎么办？",
-      "url": "https://www.zhihu.com/question/2062942812157616540",
-      "hot_value": "55 万热度",
+      "title": "蚊子为什么没进化到叮人不痒无痕，而是越来越难抓？",
+      "url": "https://www.zhihu.com/question/2053266145935888878",
+      "hot_value": "76 万热度",
       "index": 30
     }
   ]
