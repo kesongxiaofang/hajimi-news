@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-27T16:50:08Z",
+  "update_time": "2026-07-27T20:56:15Z",
   "count": 30,
   "list": [
     {
-      "title": "《绝区零》蕾米埃尔EP | Two to Tango 交缠舞步",
-      "url": "https://www.bilibili.com/video/BV1jhgf6pEJw",
-      "hot_value": "2548885播放",
+      "title": "敢想敢不同",
+      "url": "https://www.bilibili.com/video/BV1NH3j6pEve",
+      "hot_value": "6790037播放",
       "index": 1
     },
     {
       "title": "和解剖了4000具尸体的法医，一起看了影片中的尸体...",
       "url": "https://www.bilibili.com/video/BV1QEgZ6rEGj",
-      "hot_value": "839103播放",
+      "hot_value": "1110979播放",
       "index": 2
     },
     {
-      "title": "丧 尸 下 乡",
-      "url": "https://www.bilibili.com/video/BV1yD376HEKM",
-      "hot_value": "2389178播放",
+      "title": "《绝区零》蕾米埃尔EP | Two to Tango 交缠舞步",
+      "url": "https://www.bilibili.com/video/BV1jhgf6pEJw",
+      "hot_value": "2609407播放",
       "index": 3
     },
     {
       "title": "【剧情】昭阳公主（2026）08 【孔雪儿/李宏毅】（按姓氏笔画排序）",
       "url": "https://www.bilibili.com/video/BV14PKa6HEbr",
-      "hot_value": "398845播放",
+      "hot_value": "407056播放",
       "index": 4
     },
     {
-      "title": "法老的诅咒：一场殖民者写给世界的爽文",
-      "url": "https://www.bilibili.com/video/BV1mt3F6VE7K",
-      "hot_value": "589986播放",
+      "title": "丧 尸 下 乡",
+      "url": "https://www.bilibili.com/video/BV1yD376HEKM",
+      "hot_value": "2563428播放",
       "index": 5
-    },
-    {
-      "title": "假如现代非洲草原出现一只食肉牛龙，它能统治这里吗？",
-      "url": "https://www.bilibili.com/video/BV1sdgS65E3m",
-      "hot_value": "3792526播放",
-      "index": 6
     },
     {
       "title": "奇怪的玩具工厂 第五章 Part1",
       "url": "https://www.bilibili.com/video/BV1dz356wEgr",
-      "hot_value": "3035576播放",
-      "index": 7
-    },
-    {
-      "title": "大狗大狗叫叫叫 小狗叫博主@旺旺成长记",
-      "url": "https://www.bilibili.com/video/BV1PX3M6FEw9",
-      "hot_value": "1360610播放",
-      "index": 8
-    },
-    {
-      "title": "人类幼崽开机使用说明书",
-      "url": "https://www.bilibili.com/video/BV12y3K6oEYY",
-      "hot_value": "1868270播放",
-      "index": 9
-    },
-    {
-      "title": "《电话簿是你的谎言》",
-      "url": "https://www.bilibili.com/video/BV16ag96jEJr",
-      "hot_value": "1177636播放",
-      "index": 10
+      "hot_value": "3073734播放",
+      "index": 6
     },
     {
       "title": "极客湾手机续航大横评：电池锁容？电量缩水？谁在浑水摸鱼？",
       "url": "https://www.bilibili.com/video/BV1LR336sEFX",
-      "hot_value": "2543028播放",
-      "index": 11
-    },
-    {
-      "title": "老师年纪小是一种什么体验？",
-      "url": "https://www.bilibili.com/video/BV1P9gf6qEvG",
-      "hot_value": "470916播放",
-      "index": 12
-    },
-    {
-      "title": "我无心于你一决高下。",
-      "url": "https://www.bilibili.com/video/BV1p3ge6FEh2",
-      "hot_value": "1074980播放",
-      "index": 13
+      "hot_value": "2579058播放",
+      "index": 7
     },
     {
       "title": "在线峰值四千人！我做出来了三角洲第一个全自动改枪...",
       "url": "https://www.bilibili.com/video/BV1mo3j6tEfg",
-      "hot_value": "694941播放",
-      "index": 14
-    },
-    {
-      "title": "这 一 钓 会 很 帅",
-      "url": "https://www.bilibili.com/video/BV1F8356uEaU",
-      "hot_value": "778554播放",
-      "index": 15
-    },
-    {
-      "title": "被骂了三十年的PPT，为什么我们还离不开它？｜附做PPT好用的AI！",
-      "url": "https://www.bilibili.com/video/BV1r73J6QExq",
-      "hot_value": "1340443播放",
-      "index": 16
-    },
-    {
-      "title": "生物军团vs泰坦傀儡！",
-      "url": "https://www.bilibili.com/video/BV1JPgU6cEPV",
-      "hot_value": "2714507播放",
-      "index": 17
-    },
-    {
-      "title": "涂鸦躲猫猫：当你还在一动不动的躲藏时，而我已经......嘿嘿嘿",
-      "url": "https://www.bilibili.com/video/BV1LY3g6DEcQ",
-      "hot_value": "2205525播放",
-      "index": 18
-    },
-    {
-      "title": "当家里来强盗时，此时我和我的兄弟 1～6全集",
-      "url": "https://www.bilibili.com/video/BV1jK3E63EvL",
-      "hot_value": "396818播放",
-      "index": 19
-    },
-    {
-      "title": "这挑战迪迦干完都亮红灯走的",
-      "url": "https://www.bilibili.com/video/BV1t63M6KEyP",
-      "hot_value": "3161259播放",
-      "index": 20
+      "hot_value": "761102播放",
+      "index": 8
     },
     {
       "title": "【终末地】向 渊 行 前 传.exe",
       "url": "https://www.bilibili.com/video/BV1A33J6oEST",
-      "hot_value": "1135750播放",
-      "index": 21
+      "hot_value": "1163505播放",
+      "index": 9
     },
     {
-      "title": "一口气看懂王虹获菲尔兹奖：挂谷猜想到底有多难？",
-      "url": "https://www.bilibili.com/video/BV1bpgv66Ees",
-      "hot_value": "2799948播放",
-      "index": 22
+      "title": "这 一 钓 会 很 帅",
+      "url": "https://www.bilibili.com/video/BV1F8356uEaU",
+      "hot_value": "848184播放",
+      "index": 10
     },
     {
-      "title": "只因性别被喊错，跨性别者发疯袭警，美警可不惯着当场制裁！",
-      "url": "https://www.bilibili.com/video/BV1VC3568E8U",
-      "hot_value": "1313527播放",
-      "index": 23
+      "title": "人类幼崽开机使用说明书",
+      "url": "https://www.bilibili.com/video/BV12y3K6oEYY",
+      "hot_value": "1942771播放",
+      "index": 11
     },
     {
-      "title": "护送迷路大爷回家，心里开心一整天~",
-      "url": "https://www.bilibili.com/video/BV1rF336wEvu",
-      "hot_value": "1207495播放",
-      "index": 24
-    },
-    {
-      "title": "【短的发布会】荣耀牌傻妞上线！2026 年，你也能拥有自己的手机人",
-      "url": "https://www.bilibili.com/video/BV1jMgq6fE6Y",
-      "hot_value": "652597播放",
-      "index": 25
-    },
-    {
-      "title": "黄金剑魔vs王者蒙多！这个对局到底多难打？#真金白银vs最强王者",
-      "url": "https://www.bilibili.com/video/BV13EgZ6kETF",
-      "hot_value": "592909播放",
-      "index": 26
-    },
-    {
-      "title": "读 评 论",
-      "url": "https://www.bilibili.com/video/BV1Ds3F6LE8w",
-      "hot_value": "280544播放",
-      "index": 27
+      "title": "法老的诅咒：一场殖民者写给世界的爽文",
+      "url": "https://www.bilibili.com/video/BV1mt3F6VE7K",
+      "hot_value": "724084播放",
+      "index": 12
     },
     {
       "title": "哈吉蜂为了救克莱尔居然掏出了......",
       "url": "https://www.bilibili.com/video/BV1Xh376NEMX",
-      "hot_value": "922585播放",
-      "index": 28
+      "hot_value": "975787播放",
+      "index": 13
     },
     {
-      "title": "班赛就是我的舞台，我就是主角！",
-      "url": "https://www.bilibili.com/video/BV1Qv3M66E7E",
-      "hot_value": "1833552播放",
-      "index": 29
+      "title": "大庆赶海，大海退潮后发现大个的竹节蛏眼，撒上一点盐往外跑",
+      "url": "https://www.bilibili.com/video/BV1wj3M69EuL",
+      "hot_value": "6667871播放",
+      "index": 14
+    },
+    {
+      "title": "生物军团vs泰坦傀儡！",
+      "url": "https://www.bilibili.com/video/BV1JPgU6cEPV",
+      "hot_value": "2763866播放",
+      "index": 15
+    },
+    {
+      "title": "护送迷路大爷回家，心里开心一整天~",
+      "url": "https://www.bilibili.com/video/BV1rF336wEvu",
+      "hot_value": "1245069播放",
+      "index": 16
+    },
+    {
+      "title": "《电话簿是你的谎言》",
+      "url": "https://www.bilibili.com/video/BV16ag96jEJr",
+      "hot_value": "1254814播放",
+      "index": 17
     },
     {
       "title": "Tiny Giant (Remix) | Zenless Zone Zero",
       "url": "https://www.bilibili.com/video/BV1Ep3M6SEiC",
-      "hot_value": "942339播放",
+      "hot_value": "966480播放",
+      "index": 18
+    },
+    {
+      "title": "黄金剑魔vs王者蒙多！这个对局到底多难打？#真金白银vs最强王者",
+      "url": "https://www.bilibili.com/video/BV13EgZ6kETF",
+      "hot_value": "674424播放",
+      "index": 19
+    },
+    {
+      "title": "当家里来强盗时，此时我和我的兄弟 1～6全集",
+      "url": "https://www.bilibili.com/video/BV1jK3E63EvL",
+      "hot_value": "461727播放",
+      "index": 20
+    },
+    {
+      "title": "老师年纪小是一种什么体验？",
+      "url": "https://www.bilibili.com/video/BV1P9gf6qEvG",
+      "hot_value": "560546播放",
+      "index": 21
+    },
+    {
+      "title": "读 评 论",
+      "url": "https://www.bilibili.com/video/BV1Ds3F6LE8w",
+      "hot_value": "313584播放",
+      "index": 22
+    },
+    {
+      "title": "一口气看懂王虹获菲尔兹奖：挂谷猜想到底有多难？",
+      "url": "https://www.bilibili.com/video/BV1bpgv66Ees",
+      "hot_value": "2860855播放",
+      "index": 23
+    },
+    {
+      "title": "「新宿决战」雨爱版",
+      "url": "https://www.bilibili.com/video/BV1QC3G6DEKX",
+      "hot_value": "1306318播放",
+      "index": 24
+    },
+    {
+      "title": "这挑战迪迦干完都亮红灯走的",
+      "url": "https://www.bilibili.com/video/BV1t63M6KEyP",
+      "hot_value": "3223054播放",
+      "index": 25
+    },
+    {
+      "title": "涂鸦躲猫猫：当你还在一动不动的躲藏时，而我已经......嘿嘿嘿",
+      "url": "https://www.bilibili.com/video/BV1LY3g6DEcQ",
+      "hot_value": "2269194播放",
+      "index": 26
+    },
+    {
+      "title": "陈翔六点半：有人在这里被爱过，有人在这里学会了爱",
+      "url": "https://www.bilibili.com/video/BV1yagv6eE25",
+      "hot_value": "8613226播放",
+      "index": 27
+    },
+    {
+      "title": "“顶级智斗，胜负已分”【天堂的彼端-变速】【智斗の小曲】",
+      "url": "https://www.bilibili.com/video/BV1psgh6XEGV",
+      "hot_value": "3846720播放",
+      "index": 28
+    },
+    {
+      "title": "《绝区零》蕾米埃尔动画短片 | 静默之日",
+      "url": "https://www.bilibili.com/video/BV1fk3E61Eu5",
+      "hot_value": "2347935播放",
+      "index": 29
+    },
+    {
+      "title": "我无心于你一决高下。",
+      "url": "https://www.bilibili.com/video/BV1p3ge6FEh2",
+      "hot_value": "1273717播放",
       "index": 30
     }
   ]

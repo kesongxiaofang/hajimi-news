@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-07-27T16:50:08Z",
+  "update_time": "2026-07-27T20:56:15Z",
   "count": 30,
   "list": [
     {
       "title": "“红霞”停止编号",
       "url": "https://www.douyin.com/search/%E2%80%9C%E7%BA%A2%E9%9C%9E%E2%80%9D%E5%81%9C%E6%AD%A2%E7%BC%96%E5%8F%B7?type=general",
-      "hot_value": "12112845",
+      "hot_value": "11101313",
       "index": 1
     },
     {
       "title": "中国男篮90:82再胜喀麦隆",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE90%3A82%E5%86%8D%E8%83%9C%E5%96%80%E9%BA%A6%E9%9A%86?type=general",
-      "hot_value": "11410533",
+      "hot_value": "10997437",
       "index": 2
     },
     {
       "title": "数说中国经济新亮点",
       "url": "https://www.douyin.com/search/%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E4%BA%AE%E7%82%B9?type=general",
-      "hot_value": "11245631",
+      "hot_value": "10924586",
       "index": 3
     },
     {
       "title": "斯诺克上海大师赛开打了",
       "url": "https://www.douyin.com/search/%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%BC%80%E6%89%93%E4%BA%86?type=general",
-      "hot_value": "11058250",
+      "hot_value": "10884633",
       "index": 4
-    },
-    {
-      "title": "长鑫科技上市首日收涨465%",
-      "url": "https://www.douyin.com/search/%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%94%B6%E6%B6%A8465%25?type=general",
-      "hot_value": "10457074",
-      "index": 5
-    },
-    {
-      "title": "课本里的天下第一泉我见到了",
-      "url": "https://www.douyin.com/search/%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E6%B3%89%E6%88%91%E8%A7%81%E5%88%B0%E4%BA%86?type=general",
-      "hot_value": "10416451",
-      "index": 6
-    },
-    {
-      "title": "这次出发不是找你是去找自由",
-      "url": "https://www.douyin.com/search/%E8%BF%99%E6%AC%A1%E5%87%BA%E5%8F%91%E4%B8%8D%E6%98%AF%E6%89%BE%E4%BD%A0%E6%98%AF%E5%8E%BB%E6%89%BE%E8%87%AA%E7%94%B1?type=general",
-      "hot_value": "9319436",
-      "index": 7
     },
     {
       "title": "哈兰德评价哈兰葱",
       "url": "https://www.douyin.com/search/%E5%93%88%E5%85%B0%E5%BE%B7%E8%AF%84%E4%BB%B7%E5%93%88%E5%85%B0%E8%91%B1?type=general",
-      "hot_value": "9203565",
-      "index": 8
+      "hot_value": "10333263",
+      "index": 5
+    },
+    {
+      "title": "这次出发不是找你是去找自由",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E6%AC%A1%E5%87%BA%E5%8F%91%E4%B8%8D%E6%98%AF%E6%89%BE%E4%BD%A0%E6%98%AF%E5%8E%BB%E6%89%BE%E8%87%AA%E7%94%B1?type=general",
+      "hot_value": "10279647",
+      "index": 6
     },
     {
       "title": "暑期大学生已开启纯吃模式",
       "url": "https://www.douyin.com/search/%E6%9A%91%E6%9C%9F%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%B2%E5%BC%80%E5%90%AF%E7%BA%AF%E5%90%83%E6%A8%A1%E5%BC%8F?type=general",
-      "hot_value": "9193300",
+      "hot_value": "9197332",
+      "index": 7
+    },
+    {
+      "title": "一代人有一代人的美食人格",
+      "url": "https://www.douyin.com/search/%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E7%BE%8E%E9%A3%9F%E4%BA%BA%E6%A0%BC?type=general",
+      "hot_value": "9176050",
+      "index": 8
+    },
+    {
+      "title": "课本里的天下第一泉我见到了",
+      "url": "https://www.douyin.com/search/%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E6%B3%89%E6%88%91%E8%A7%81%E5%88%B0%E4%BA%86?type=general",
+      "hot_value": "9163141",
       "index": 9
     },
     {
       "title": "薄荷魔方蛋糕征服老外的味蕾",
       "url": "https://www.douyin.com/search/%E8%96%84%E8%8D%B7%E9%AD%94%E6%96%B9%E8%9B%8B%E7%B3%95%E5%BE%81%E6%9C%8D%E8%80%81%E5%A4%96%E7%9A%84%E5%91%B3%E8%95%BE?type=general",
-      "hot_value": "9182680",
+      "hot_value": "9161417",
       "index": 10
     },
     {
-      "title": "腾讯宣布QQ宠物回归",
-      "url": "https://www.douyin.com/search/%E8%85%BE%E8%AE%AF%E5%AE%A3%E5%B8%83QQ%E5%AE%A0%E7%89%A9%E5%9B%9E%E5%BD%92?type=general",
-      "hot_value": "9158974",
+      "title": "这是少年足球最美的画面",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E6%98%AF%E5%B0%91%E5%B9%B4%E8%B6%B3%E7%90%83%E6%9C%80%E7%BE%8E%E7%9A%84%E7%94%BB%E9%9D%A2?type=general",
+      "hot_value": "9153671",
       "index": 11
     },
     {
       "title": "网传“西藏千年古碉遭强拆”系谣言",
       "url": "https://www.douyin.com/search/%E7%BD%91%E4%BC%A0%E2%80%9C%E8%A5%BF%E8%97%8F%E5%8D%83%E5%B9%B4%E5%8F%A4%E7%A2%89%E9%81%AD%E5%BC%BA%E6%8B%86%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80?type=general",
-      "hot_value": "9150896",
+      "hot_value": "9141874",
       "index": 12
     },
     {
-      "title": "特朗普连发数十张AI图遭吐槽",
-      "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%91%E6%95%B0%E5%8D%81%E5%BC%A0AI%E5%9B%BE%E9%81%AD%E5%90%90%E6%A7%BD?type=general",
-      "hot_value": "9137559",
+      "title": "瑞克与莫蒂第九季大结局",
+      "url": "https://www.douyin.com/search/%E7%91%9E%E5%85%8B%E4%B8%8E%E8%8E%AB%E8%92%82%E7%AC%AC%E4%B9%9D%E5%AD%A3%E5%A4%A7%E7%BB%93%E5%B1%80?type=general",
+      "hot_value": "9110801",
       "index": 13
     },
     {
-      "title": "迪奥曼德加盟皇马",
-      "url": "https://www.douyin.com/search/%E8%BF%AA%E5%A5%A5%E6%9B%BC%E5%BE%B7%E5%8A%A0%E7%9B%9F%E7%9A%87%E9%A9%AC?type=general",
-      "hot_value": "9103602",
+      "title": "“白海豚”或将发展为超强台风",
+      "url": "https://www.douyin.com/search/%E2%80%9C%E7%99%BD%E6%B5%B7%E8%B1%9A%E2%80%9D%E6%88%96%E5%B0%86%E5%8F%91%E5%B1%95%E4%B8%BA%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E?type=general",
+      "hot_value": "9034898",
       "index": 14
     },
     {
       "title": "九门定档0730",
       "url": "https://www.douyin.com/search/%E4%B9%9D%E9%97%A8%E5%AE%9A%E6%A1%A30730?type=general",
-      "hot_value": "9083092",
+      "hot_value": "8986897",
       "index": 15
     },
     {
       "title": "台风红霞情况如何了",
       "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E6%83%85%E5%86%B5%E5%A6%82%E4%BD%95%E4%BA%86?type=general",
-      "hot_value": "9072097",
+      "hot_value": "8914502",
       "index": 16
-    },
-    {
-      "title": "也许放弃才能靠近你",
-      "url": "https://www.douyin.com/search/%E4%B9%9F%E8%AE%B8%E6%94%BE%E5%BC%83%E6%89%8D%E8%83%BD%E9%9D%A0%E8%BF%91%E4%BD%A0?type=general",
-      "hot_value": "8779952",
-      "index": 17
-    },
-    {
-      "title": "相信我们会像童话故事里",
-      "url": "https://www.douyin.com/search/%E7%9B%B8%E4%BF%A1%E6%88%91%E4%BB%AC%E4%BC%9A%E5%83%8F%E7%AB%A5%E8%AF%9D%E6%95%85%E4%BA%8B%E9%87%8C?type=general",
-      "hot_value": "8532022",
-      "index": 18
     },
     {
       "title": "是否爱上一个人不问明天过后",
       "url": "https://www.douyin.com/search/%E6%98%AF%E5%90%A6%E7%88%B1%E4%B8%8A%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%8D%E9%97%AE%E6%98%8E%E5%A4%A9%E8%BF%87%E5%90%8E?type=general",
-      "hot_value": "8467361",
-      "index": 19
+      "hot_value": "8571690",
+      "index": 17
+    },
+    {
+      "title": "也许放弃才能靠近你",
+      "url": "https://www.douyin.com/search/%E4%B9%9F%E8%AE%B8%E6%94%BE%E5%BC%83%E6%89%8D%E8%83%BD%E9%9D%A0%E8%BF%91%E4%BD%A0?type=general",
+      "hot_value": "8558542",
+      "index": 18
     },
     {
       "title": "这期是我送你的泡泡",
       "url": "https://www.douyin.com/search/%E8%BF%99%E6%9C%9F%E6%98%AF%E6%88%91%E9%80%81%E4%BD%A0%E7%9A%84%E6%B3%A1%E6%B3%A1?type=general",
-      "hot_value": "7842831",
+      "hot_value": "8227908",
+      "index": 19
+    },
+    {
+      "title": "迪奥曼德加盟皇马",
+      "url": "https://www.douyin.com/search/%E8%BF%AA%E5%A5%A5%E6%9B%BC%E5%BE%B7%E5%8A%A0%E7%9B%9F%E7%9A%87%E9%A9%AC?type=general",
+      "hot_value": "7798421",
       "index": 20
     },
     {
-      "title": "小猫吵着要拍百万运镜",
-      "url": "https://www.douyin.com/search/%E5%B0%8F%E7%8C%AB%E5%90%B5%E7%9D%80%E8%A6%81%E6%8B%8D%E7%99%BE%E4%B8%87%E8%BF%90%E9%95%9C?type=general",
-      "hot_value": "7820451",
+      "title": "和法医一起看影片中的尸体",
+      "url": "https://www.douyin.com/search/%E5%92%8C%E6%B3%95%E5%8C%BB%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%BD%B1%E7%89%87%E4%B8%AD%E7%9A%84%E5%B0%B8%E4%BD%93?type=general",
+      "hot_value": "7791384",
       "index": 21
-    },
-    {
-      "title": "陈奕恒拖拉机开起来",
-      "url": "https://www.douyin.com/search/%E9%99%88%E5%A5%95%E6%81%92%E6%8B%96%E6%8B%89%E6%9C%BA%E5%BC%80%E8%B5%B7%E6%9D%A5?type=general",
-      "hot_value": "7773641",
-      "index": 22
     },
     {
       "title": "音乐确实能让人回到特定时期",
       "url": "https://www.douyin.com/search/%E9%9F%B3%E4%B9%90%E7%A1%AE%E5%AE%9E%E8%83%BD%E8%AE%A9%E4%BA%BA%E5%9B%9E%E5%88%B0%E7%89%B9%E5%AE%9A%E6%97%B6%E6%9C%9F?type=general",
-      "hot_value": "7771174",
+      "hot_value": "7774091",
+      "index": 22
+    },
+    {
+      "title": "恋还是练",
+      "url": "https://www.douyin.com/search/%E6%81%8B%E8%BF%98%E6%98%AF%E7%BB%83?type=general",
+      "hot_value": "7759614",
       "index": 23
     },
     {
-      "title": "时代少年团演唱会官宣抖音独家直播",
-      "url": "https://www.douyin.com/search/%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E6%8A%96%E9%9F%B3%E7%8B%AC%E5%AE%B6%E7%9B%B4%E6%92%AD?type=general",
-      "hot_value": "7765371",
+      "title": "青春如同奔流的江河",
+      "url": "https://www.douyin.com/search/%E9%9D%92%E6%98%A5%E5%A6%82%E5%90%8C%E5%A5%94%E6%B5%81%E7%9A%84%E6%B1%9F%E6%B2%B3?type=general",
+      "hot_value": "7750537",
       "index": 24
     },
     {
       "title": "跟着陈泽老铁四人勇闯云台山",
       "url": "https://www.douyin.com/search/%E8%B7%9F%E7%9D%80%E9%99%88%E6%B3%BD%E8%80%81%E9%93%81%E5%9B%9B%E4%BA%BA%E5%8B%87%E9%97%AF%E4%BA%91%E5%8F%B0%E5%B1%B1?type=general",
-      "hot_value": "7763596",
+      "hot_value": "7748232",
       "index": 25
     },
     {
-      "title": "和法医一起看影片中的尸体",
-      "url": "https://www.douyin.com/search/%E5%92%8C%E6%B3%95%E5%8C%BB%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%BD%B1%E7%89%87%E4%B8%AD%E7%9A%84%E5%B0%B8%E4%BD%93?type=general",
-      "hot_value": "7759211",
+      "title": "陈奕恒拖拉机开起来",
+      "url": "https://www.douyin.com/search/%E9%99%88%E5%A5%95%E6%81%92%E6%8B%96%E6%8B%89%E6%9C%BA%E5%BC%80%E8%B5%B7%E6%9D%A5?type=general",
+      "hot_value": "7741024",
       "index": 26
     },
     {
-      "title": "恋还是练",
-      "url": "https://www.douyin.com/search/%E6%81%8B%E8%BF%98%E6%98%AF%E7%BB%83?type=general",
-      "hot_value": "7755000",
+      "title": "国外乐评人评价揽佬新歌",
+      "url": "https://www.douyin.com/search/%E5%9B%BD%E5%A4%96%E4%B9%90%E8%AF%84%E4%BA%BA%E8%AF%84%E4%BB%B7%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C?type=general",
+      "hot_value": "7739560",
       "index": 27
-    },
-    {
-      "title": "青春如同奔流的江河",
-      "url": "https://www.douyin.com/search/%E9%9D%92%E6%98%A5%E5%A6%82%E5%90%8C%E5%A5%94%E6%B5%81%E7%9A%84%E6%B1%9F%E6%B2%B3?type=general",
-      "hot_value": "7747119",
-      "index": 28
     },
     {
       "title": "JASON吴河南卖瓜实录",
       "url": "https://www.douyin.com/search/JASON%E5%90%B4%E6%B2%B3%E5%8D%97%E5%8D%96%E7%93%9C%E5%AE%9E%E5%BD%95?type=general",
-      "hot_value": "7745818",
+      "hot_value": "7736673",
+      "index": 28
+    },
+    {
+      "title": "小猫吵着要拍百万运镜",
+      "url": "https://www.douyin.com/search/%E5%B0%8F%E7%8C%AB%E5%90%B5%E7%9D%80%E8%A6%81%E6%8B%8D%E7%99%BE%E4%B8%87%E8%BF%90%E9%95%9C?type=general",
+      "hot_value": "7735011",
       "index": 29
     },
     {
-      "title": "邓超来抖音把热度给了更需要的人",
-      "url": "https://www.douyin.com/search/%E9%82%93%E8%B6%85%E6%9D%A5%E6%8A%96%E9%9F%B3%E6%8A%8A%E7%83%AD%E5%BA%A6%E7%BB%99%E4%BA%86%E6%9B%B4%E9%9C%80%E8%A6%81%E7%9A%84%E4%BA%BA?type=general",
-      "hot_value": "7744991",
+      "title": "相信我们会像童话故事里",
+      "url": "https://www.douyin.com/search/%E7%9B%B8%E4%BF%A1%E6%88%91%E4%BB%AC%E4%BC%9A%E5%83%8F%E7%AB%A5%E8%AF%9D%E6%95%85%E4%BA%8B%E9%87%8C?type=general",
+      "hot_value": "7728725",
       "index": 30
     }
   ]
