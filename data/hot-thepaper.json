@@ -1,78 +1,78 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-07-28T00:13:15Z",
+  "update_time": "2026-07-28T10:14:28Z",
   "count": 20,
   "list": [
     {
-      "title": "日本作家东野圭吾去世，终年68岁",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33666828",
+      "title": "衡水一中学创办人举报多名公职人员侵吞学校资产、2元买走价值8亿股权，纪委等介入",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33667338",
       "hot_value": "",
       "index": 1
     },
     {
-      "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33663468",
+      "title": "河南通报“三支一扶”高分争议：成立工作组，开展调查核实",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33669203",
       "hot_value": "",
       "index": 2
-    },
-    {
-      "title": "马上评｜“小牌大耍”的底气到底是哪里来的",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33664139",
-      "hot_value": "",
-      "index": 3
-    },
-    {
-      "title": "成都教育局回应“中考立定跳远等标准过高”：符合部委相关要求",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33663750",
-      "hot_value": "",
-      "index": 4
-    },
-    {
-      "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33665126",
-      "hot_value": "",
-      "index": 5
-    },
-    {
-      "title": "艺人李权哲就乘高铁占座致歉：没有仔细核实座位信息",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33665291",
-      "hot_value": "",
-      "index": 6
-    },
-    {
-      "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33664858",
-      "hot_value": "",
-      "index": 7
-    },
-    {
-      "title": "“肥牛片被检出鸭源性成分”：真假牛肉与2万元“罚款”疑云",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33662154",
-      "hot_value": "",
-      "index": 8
-    },
-    {
-      "title": "言短意长｜不要给冒牌“大学教授”留一寸土壤",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33667784",
-      "hot_value": "",
-      "index": 9
     },
     {
       "title": "马上评｜医学的价值不能被录取分数定义",
       "url": "https://www.thepaper.cn/newsDetail_forward_33668414",
       "hot_value": "",
-      "index": 10
+      "index": 3
+    },
+    {
+      "title": "“肥牛片被检出鸭源性成分”：真假牛肉与2万元“罚款”疑云",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33662154",
+      "hot_value": "",
+      "index": 4
+    },
+    {
+      "title": "言短意长｜不要给冒牌“大学教授”留一寸土壤",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33667784",
+      "hot_value": "",
+      "index": 5
+    },
+    {
+      "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33503166",
+      "hot_value": "",
+      "index": 6
     },
     {
       "title": "澎湃漫评｜西瓜滞销，岂能把求助当舆情",
       "url": "https://www.thepaper.cn/newsDetail_forward_33667232",
       "hot_value": "",
+      "index": 7
+    },
+    {
+      "title": "社会人士冒充名校教授被举报，涉事学院：并无这一教职人员",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33667771",
+      "hot_value": "",
+      "index": 8
+    },
+    {
+      "title": "衡水通报多名公职人员被举报侵吞学校资产：成立联合调查组，全面深入调查核查",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33669694",
+      "hot_value": "",
+      "index": 9
+    },
+    {
+      "title": "中央军委装备发展部等六部门：禁止涉军队退役报废装备销售活动",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33671475",
+      "hot_value": "",
+      "index": 10
+    },
+    {
+      "title": "央媒调查：机票超售与高额退票费，是否触碰公平消费底线？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33669459",
+      "hot_value": "",
       "index": 11
     },
     {
-      "title": "衡水一中学创办人举报多名公职人员侵吞学校资产、2元买走价值8亿股权，纪委等介入",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33667338",
+      "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33668433",
       "hot_value": "",
       "index": 12
     },
@@ -83,44 +83,44 @@
       "index": 13
     },
     {
-      "title": "湖北省人大常委会原党组书记、副主任苏晓云逝世，享年75岁",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33664860",
+      "title": "体坛联播｜皮尔洛无缘意大利帅位，马尔蒂尼、莱昂纳多辞任",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33670609",
       "hot_value": "",
       "index": 14
     },
     {
-      "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33665106",
+      "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33670163",
       "hot_value": "",
       "index": 15
     },
     {
-      "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33667417",
+      "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33669415",
       "hot_value": "",
       "index": 16
     },
     {
-      "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33662866",
+      "title": "城管喊话提醒游客商铺“假排队”，武汉市旅游协会：涉事门店并非“武汉礼物”官方门店，已启动维权",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33668856",
       "hot_value": "",
       "index": 17
     },
     {
-      "title": "开麦丨告别东野圭吾：他到底是叛逃了推理，还是拯救了推理？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33667998",
+      "title": "上海市消保委：修复消费信任，携程还需根治“杀熟”顽症",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33672335",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "吴伟任中国投资有限责任公司党委副书记，不再担任上海市委常委、委员职务",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33668412",
+      "title": "衡水通报“多名公职人员被指侵吞学校资产，2元买走价值8亿元股权”：成立联合调查组",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33670831",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "刚去世的东野圭吾何以被视为日本作家中的“顶流”？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33667138",
+      "title": "开麦丨告别东野圭吾：他到底是叛逃了推理，还是拯救了推理？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33667998",
       "hot_value": "",
       "index": 20
     }
