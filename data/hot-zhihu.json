@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-28T10:14:28Z",
+  "update_time": "2026-07-28T16:25:23Z",
   "count": 30,
   "list": [
     {
-      "title": "携程被罚 51.79 亿元后发内部全员信，透露出哪些信息？",
-      "url": "https://www.zhihu.com/question/2065363377468043923",
-      "hot_value": "1353 万热度",
-      "index": 1
-    },
-    {
-      "title": "王虹、邓煜的成长经历是否动摇了「是金子在哪都能发光」的说法？顶尖科研人才的成长需要怎样的土壤？",
-      "url": "https://www.zhihu.com/question/2064337609879507952",
-      "hot_value": "1138 万热度",
-      "index": 2
-    },
-    {
-      "title": "皇家美素力 1 号奶粉被澳门检出铅超标九倍，但厂商自检说符合标准，到底该信谁？铅超标有什么食用风险？",
-      "url": "https://www.zhihu.com/question/2064645873158583358",
-      "hot_value": "467 万热度",
-      "index": 3
-    },
-    {
-      "title": "阿里押注长鑫 76 亿搏出近 1700 亿，小米雷军打新长鑫浮盈 7 亿，背后是怎样的投资逻辑？",
-      "url": "https://www.zhihu.com/question/2065338204207542577",
-      "hot_value": "314 万热度",
-      "index": 4
-    },
-    {
-      "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2065354296774989670",
-      "hot_value": "303 万热度",
-      "index": 5
-    },
-    {
-      "title": "美通缉重犯被曝在华东师范大学任教十余年，这一事件暴露出高校在教师管理上的哪些短板和漏洞？",
-      "url": "https://www.zhihu.com/question/2064013926388519038",
-      "hot_value": "294 万热度",
-      "index": 6
-    },
-    {
-      "title": "鸿门宴上樊哙生吃了一个彘肩（猪前腿），为何没有感染细菌寄生虫等？",
-      "url": "https://www.zhihu.com/question/267314352",
-      "hot_value": "290 万热度",
-      "index": 7
-    },
-    {
-      "title": "美国校园午餐被曝牛奶黏稠似史莱姆、胡萝卜可被磁铁吸起，可能有什么「科技狠活」？对健康有伤害吗？",
-      "url": "https://www.zhihu.com/question/2065066881015177978",
-      "hot_value": "289 万热度",
-      "index": 8
-    },
-    {
-      "title": "古天乐坚持十年每天只吃一顿饭，这种饮食习惯是否健康？",
-      "url": "https://www.zhihu.com/question/654477046",
-      "hot_value": "288 万热度",
-      "index": 9
-    },
-    {
       "title": "又一名小红书前员工曝「距期权归属仅剩 8 天被解除劳动合同」，具体情况如何？其中涉及哪些法律问题？",
       "url": "https://www.zhihu.com/question/2065405140329128905",
-      "hot_value": "286 万热度",
-      "index": 10
-    },
-    {
-      "title": "如何评价 KIMI K3 正式开源，以及同步发布出技术报告？",
-      "url": "https://www.zhihu.com/question/2065214142915654338",
-      "hot_value": "268 万热度",
-      "index": 11
-    },
-    {
-      "title": "大批散户为配市值打新长鑫，却遭到大幅回撤，如何看待「为打新亏大钱」的荒诞投资现状？",
-      "url": "https://www.zhihu.com/question/2065043128990556496",
-      "hot_value": "211 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
-      "url": "https://www.zhihu.com/question/2063239728175043416",
-      "hot_value": "194 万热度",
-      "index": 13
-    },
-    {
-      "title": "为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几？",
-      "url": "https://www.zhihu.com/question/2064575049152066959",
-      "hot_value": "187 万热度",
-      "index": 14
-    },
-    {
-      "title": "如何看待上单老祖做的视频，黄金剑魔打王者蒙多，两场均以黄金剑魔获胜？",
-      "url": "https://www.zhihu.com/question/2065116457743152024",
-      "hot_value": "176 万热度",
-      "index": 15
+      "hot_value": "516 万热度",
+      "index": 1
     },
     {
       "title": "河南多市三支一扶考试被指高分人数与招录名额高度对应，官方成立工作组调查，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2065160851711943119",
-      "hot_value": "171 万热度",
-      "index": 16
+      "hot_value": "466 万热度",
+      "index": 2
     },
     {
-      "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
-      "url": "https://www.zhihu.com/question/2065097727604741240",
-      "hot_value": "162 万热度",
-      "index": 17
+      "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2065354296774989670",
+      "hot_value": "382 万热度",
+      "index": 3
+    },
+    {
+      "title": "携程被罚 51.79 亿元后发内部全员信，透露出哪些信息？",
+      "url": "https://www.zhihu.com/question/2065363377468043923",
+      "hot_value": "347 万热度",
+      "index": 4
     },
     {
       "title": "为什么很多电车后屁股都凹一块也不修？",
       "url": "https://www.zhihu.com/question/2064678914778214835",
       "hot_value": "152 万热度",
-      "index": 18
+      "index": 5
     },
     {
-      "title": "幼儿产检正常出生双脚畸形，医院坚持称系「医学盲区」，能用「盲区」来免责吗？产检真的检查不出来吗？",
-      "url": "https://www.zhihu.com/question/2064636039679795644",
-      "hot_value": "128 万热度",
-      "index": 19
+      "title": "美通缉重犯被曝在华东师范大学任教十余年，这一事件暴露出高校在教师管理上的哪些短板和漏洞？",
+      "url": "https://www.zhihu.com/question/2064013926388519038",
+      "hot_value": "143 万热度",
+      "index": 6
     },
     {
-      "title": "日本熊本县连续发生 7.1 级、 6.1 级地震，触发海啸预警，长三角多地网友称有震感，目前情况如何？",
+      "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权？",
+      "url": "https://www.zhihu.com/question/2064801268552537608",
+      "hot_value": "139 万热度",
+      "index": 7
+    },
+    {
+      "title": "网友感慨「有微信之前人是可以不用一直在线的」，你有同感吗？你认为社交软件的进步有影响到你的生活吗？",
+      "url": "https://www.zhihu.com/question/2065138370057953642",
+      "hot_value": "127 万热度",
+      "index": 8
+    },
+    {
+      "title": "从《八仙！》上映说起，为何孙悟空在影视作品中总是正义的英雄，二郎神杨戬有时候当正派，有时候当反派？",
+      "url": "https://www.zhihu.com/question/2063731725264499456",
+      "hot_value": "120 万热度",
+      "index": 9
+    },
+    {
+      "title": "日本熊本县连续发生 7.1 级、 6.1 级地震，长三角多地网友称有震感，目前情况如何？",
       "url": "https://www.zhihu.com/question/2065460492231864765",
-      "hot_value": "119 万热度",
-      "index": 20
-    },
-    {
-      "title": "仇子龙曾参与联名公开谴责贺建奎，现在自己却身陷基因编辑致死事件，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2064382026199855345",
-      "hot_value": "117 万热度",
-      "index": 21
-    },
-    {
-      "title": "青海海南州兴海县一天连发 3 次 5 级以上地震，目前当地情况如何？这次地震为什么如此频繁？",
-      "url": "https://www.zhihu.com/question/2065397236117107817",
-      "hot_value": "114 万热度",
-      "index": 22
-    },
-    {
-      "title": "168 一盒的巧克力，我没给孩子买她没哭，回家后我一直在想如果她哭了，我会不会就买了，到底该不该给她买？",
-      "url": "https://www.zhihu.com/question/2064373953393702199",
       "hot_value": "109 万热度",
-      "index": 23
+      "index": 10
     },
     {
-      "title": "生殖隔离锁死所有物种，为何唯独放过了人类？",
-      "url": "https://www.zhihu.com/question/2064377952071053907",
+      "title": "为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几？",
+      "url": "https://www.zhihu.com/question/2064575049152066959",
       "hot_value": "107 万热度",
-      "index": 24
+      "index": 11
     },
     {
-      "title": "东野圭吾因结肠癌离世，为什么这种病常常一发现就是中晚期，早期真的没有感觉吗？",
-      "url": "https://www.zhihu.com/question/2065096365860807949",
-      "hot_value": "83 万热度",
-      "index": 25
+      "title": "山东临沂村书记直播带货知了猴助农被部分网友质疑破坏生态，真的会影响生态平衡吗？",
+      "url": "https://www.zhihu.com/question/2065388851443360105",
+      "hot_value": "105 万热度",
+      "index": 12
     },
     {
-      "title": "商务部发布《关于所谓「产能过剩」问题的中方立场》，中方认为搞保护主义，只会扰乱全球经贸秩序，如何解读？",
-      "url": "https://www.zhihu.com/question/2065427445008928783",
-      "hot_value": "80 万热度",
-      "index": 26
-    },
-    {
-      "title": "怎么看待大批 Claude 分享的内容又一次被搜索引擎曝光了？",
-      "url": "https://www.zhihu.com/question/2065207444305867519",
-      "hot_value": "80 万热度",
-      "index": 27
+      "title": "网友称迪卡侬售后将其私人电话设置为总部投诉电话长达一年，如果属实该如何维权？",
+      "url": "https://www.zhihu.com/question/2065177952480747776",
+      "hot_value": "99 万热度",
+      "index": 13
     },
     {
       "title": "商务部发布《关于所谓「产能过剩」问题的中方立场》，称保护主义只会扰乱全球经贸秩序，如何解读此文件？",
       "url": "https://www.zhihu.com/question/2065427614815332294",
-      "hot_value": "80 万热度",
+      "hot_value": "91 万热度",
+      "index": 14
+    },
+    {
+      "title": "时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗？",
+      "url": "https://www.zhihu.com/question/2065066004346926732",
+      "hot_value": "85 万热度",
+      "index": 15
+    },
+    {
+      "title": "泰国国家旅游局回应「GMM 保安殴打中国粉丝」被指避重就轻未停用涉事员工，如何看待这一回应？",
+      "url": "https://www.zhihu.com/question/2065462868066006839",
+      "hot_value": "84 万热度",
+      "index": 16
+    },
+    {
+      "title": "幼儿产检正常出生双脚畸形，医院坚持称系「医学盲区」，能用「盲区」来免责吗？产检真的检查不出来吗？",
+      "url": "https://www.zhihu.com/question/2064636039679795644",
+      "hot_value": "77 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何确保王虹、 June Huh 这类慢热型学术人才不被埋没？",
+      "url": "https://www.zhihu.com/question/2065407119743104640",
+      "hot_value": "71 万热度",
+      "index": 18
+    },
+    {
+      "title": "管理下属有哪些简单落地的极简建议？",
+      "url": "https://www.zhihu.com/question/2064946361192157701",
+      "hot_value": "67 万热度",
+      "index": 19
+    },
+    {
+      "title": "生殖隔离锁死所有物种，为何唯独放过了人类？",
+      "url": "https://www.zhihu.com/question/2064377952071053907",
+      "hot_value": "66 万热度",
+      "index": 20
+    },
+    {
+      "title": "如何看待 Anthropic 公司发文「不反对开源模型，但反对具备危险能力的开源模型」？",
+      "url": "https://www.zhihu.com/question/2065379568169629189",
+      "hot_value": "66 万热度",
+      "index": 21
+    },
+    {
+      "title": "青海海南州兴海县一天连发多起地震，3 次 5 级及以上，目前当地情况如何？这次地震为什么如此频繁？",
+      "url": "https://www.zhihu.com/question/2065397236117107817",
+      "hot_value": "66 万热度",
+      "index": 22
+    },
+    {
+      "title": "林黛玉进荣国府拜见舅舅，为什么舅舅都「避而不见」呢？",
+      "url": "https://www.zhihu.com/question/1928160499444463137",
+      "hot_value": "66 万热度",
+      "index": 23
+    },
+    {
+      "title": "为什么越来越多的公司开始在印尼投资？印尼具备何种发展潜力？",
+      "url": "https://www.zhihu.com/question/58428228",
+      "hot_value": "61 万热度",
+      "index": 24
+    },
+    {
+      "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
+      "url": "https://www.zhihu.com/question/2065097727604741240",
+      "hot_value": "59 万热度",
+      "index": 25
+    },
+    {
+      "title": "怎么看待大批 Claude 分享的内容又一次被搜索引擎曝光了？",
+      "url": "https://www.zhihu.com/question/2065207444305867519",
+      "hot_value": "59 万热度",
+      "index": 26
+    },
+    {
+      "title": "如何避免在追求财富的过程中「返贫」？",
+      "url": "https://www.zhihu.com/question/2062501875992065844",
+      "hot_value": "59 万热度",
+      "index": 27
+    },
+    {
+      "title": "仙侠游戏里加入「科技感」，到底是在拓宽「东方」的边界，还是在稀释「侠」的味道？",
+      "url": "https://www.zhihu.com/question/2063967681024468390",
+      "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "如何评价《明日方舟：终末地》1.4 版本的区域奖励（宝箱 醚质等）分布？",
-      "url": "https://www.zhihu.com/question/2065216294673241995",
-      "hot_value": "76 万热度",
+      "title": "如何看待某博主称「客厅游戏 PC 只需插两根线」，被网友吐槽「过度吹捧，所有主机不都这样」？",
+      "url": "https://www.zhihu.com/question/2064715385044199014",
+      "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "于禁都投降了，庞德为什么誓死不降呢?",
-      "url": "https://www.zhihu.com/question/666920953",
-      "hot_value": "73 万热度",
+      "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+      "url": "https://www.zhihu.com/question/2052464126996353859",
+      "hot_value": "58 万热度",
       "index": 30
     }
   ]
