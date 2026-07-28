@@ -1,7 +1,7 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-07-27T20:56:15Z",
+  "update_time": "2026-07-28T00:13:15Z",
   "count": 20,
   "list": [
     {
@@ -35,26 +35,26 @@
       "index": 5
     },
     {
-      "title": "经济日报：中国学者开出菲尔兹奖“双响”，欣喜之余亦需清醒看到不足",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33664671",
-      "hot_value": "",
-      "index": 6
-    },
-    {
       "title": "艺人李权哲就乘高铁占座致歉：没有仔细核实座位信息",
       "url": "https://www.thepaper.cn/newsDetail_forward_33665291",
       "hot_value": "",
-      "index": 7
+      "index": 6
     },
     {
       "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
       "url": "https://www.thepaper.cn/newsDetail_forward_33664858",
       "hot_value": "",
-      "index": 8
+      "index": 7
     },
     {
       "title": "“肥牛片被检出鸭源性成分”：真假牛肉与2万元“罚款”疑云",
       "url": "https://www.thepaper.cn/newsDetail_forward_33662154",
+      "hot_value": "",
+      "index": 8
+    },
+    {
+      "title": "言短意长｜不要给冒牌“大学教授”留一寸土壤",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33667784",
       "hot_value": "",
       "index": 9
     },
@@ -107,20 +107,20 @@
       "index": 17
     },
     {
-      "title": "有毒“养生神药”曝光后，安徽亳州已成立调查组",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33664489",
+      "title": "开麦丨告别东野圭吾：他到底是叛逃了推理，还是拯救了推理？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33667998",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "开麦丨告别东野圭吾：他到底是叛逃了推理，还是拯救了推理？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33667998",
+      "title": "吴伟任中国投资有限责任公司党委副书记，不再担任上海市委常委、委员职务",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33668412",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "重庆彭水山体崩塌灾害救援现场发现失联客运中巴车残骸",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33664735",
+      "title": "刚去世的东野圭吾何以被视为日本作家中的“顶流”？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33667138",
       "hot_value": "",
       "index": 20
     }
