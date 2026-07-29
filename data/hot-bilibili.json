@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-29T16:04:37Z",
+  "update_time": "2026-07-29T20:17:48Z",
   "count": 30,
   "list": [
     {
-      "title": "是铁环传递了灵动给她还是她共鸣灵魂于铁环，是功夫带来的丝滑还是丝滑表达了功夫",
-      "url": "https://www.bilibili.com/video/BV12Ngo6aEeq",
-      "hot_value": "3039907播放",
+      "title": "化身Superman！摩托老哥解锁新技能",
+      "url": "https://www.bilibili.com/video/BV1XU3z6AEQi",
+      "hot_value": "2399885播放",
       "index": 1
     },
     {
-      "title": "化身Superman！摩托老哥解锁新技能",
-      "url": "https://www.bilibili.com/video/BV1XU3z6AEQi",
-      "hot_value": "1760665播放",
+      "title": "是铁环传递了灵动给她还是她共鸣灵魂于铁环，是功夫带来的丝滑还是丝滑表达了功夫",
+      "url": "https://www.bilibili.com/video/BV12Ngo6aEeq",
+      "hot_value": "3437542播放",
       "index": 2
     },
     {
-      "title": "【TF家族】《2026TF家族运动会》Day1（上）",
-      "url": "https://www.bilibili.com/video/BV1F4326hE1p",
-      "hot_value": "1306031播放",
+      "title": "用MC还原EVA终主题曲《One Last Kiss》",
+      "url": "https://www.bilibili.com/video/BV1Qq3k6TEs5",
+      "hot_value": "237800播放",
       "index": 3
     },
     {
-      "title": "【剧情】炸弹妞 第四季（2015）01【玛蒂娜·希尔 / 马克·本杰明·普赫】",
-      "url": "https://www.bilibili.com/video/BV1WbNw6fEyE",
-      "hot_value": "360626播放",
+      "title": "【命运-冠位指定×上美影】简中版十周年专属PV——行迹",
+      "url": "https://www.bilibili.com/video/BV1xAK865ESF",
+      "hot_value": "712297播放",
       "index": 4
-    },
-    {
-      "title": "自制八月最强纯爱番",
-      "url": "https://www.bilibili.com/video/BV1dJ3B6AEST",
-      "hot_value": "1608293播放",
-      "index": 5
-    },
-    {
-      "title": "【TF家族练习生】《突围II破局》EP05：加更",
-      "url": "https://www.bilibili.com/video/BV1ts3C6NEke",
-      "hot_value": "742581播放",
-      "index": 6
-    },
-    {
-      "title": "【乾乾特工·剧场版】大制作来啦！！！",
-      "url": "https://www.bilibili.com/video/BV1VC3q6ZEtP",
-      "hot_value": "2277760播放",
-      "index": 7
-    },
-    {
-      "title": "【第一集】穿越成为GTI干员 不管是现实还是游戏都要好好活下去",
-      "url": "https://www.bilibili.com/video/BV1Sh3P6oEc8",
-      "hot_value": "2264313播放",
-      "index": 8
     },
     {
       "title": "和解剖了4000具尸体的法医，一起看了影片中的尸体...",
       "url": "https://www.bilibili.com/video/BV1QEgZ6rEGj",
-      "hot_value": "6155607播放",
-      "index": 9
-    },
-    {
-      "title": "【TF家族】《2026TF家族运动会》Day1（下）",
-      "url": "https://www.bilibili.com/video/BV1mt3C6AE3n",
-      "hot_value": "657560播放",
-      "index": 10
-    },
-    {
-      "title": "刀片风暴",
-      "url": "https://www.bilibili.com/video/BV18T3265Ewo",
-      "hot_value": "539468播放",
-      "index": 11
-    },
-    {
-      "title": "欧盟打算同时对抗中美",
-      "url": "https://www.bilibili.com/video/BV1Ja3q6KENJ",
-      "hot_value": "1248867播放",
-      "index": 12
+      "hot_value": "6371605播放",
+      "index": 5
     },
     {
       "title": "地狱猫复刻中途加油，全速怕什么怕拉爆直升机！",
       "url": "https://www.bilibili.com/video/BV1d73P6iEko",
-      "hot_value": "2653224播放",
-      "index": 13
+      "hot_value": "2849312播放",
+      "index": 6
     },
     {
-      "title": "我逮住蕾米埃尔了！",
-      "url": "https://www.bilibili.com/video/BV1d23r6GEqQ",
-      "hot_value": "616088播放",
-      "index": 14
+      "title": "刀片风暴",
+      "url": "https://www.bilibili.com/video/BV18T3265Ewo",
+      "hot_value": "766518播放",
+      "index": 7
+    },
+    {
+      "title": "【乾乾特工·剧场版】大制作来啦！！！",
+      "url": "https://www.bilibili.com/video/BV1VC3q6ZEtP",
+      "hot_value": "2394835播放",
+      "index": 8
+    },
+    {
+      "title": "欧盟打算同时对抗中美",
+      "url": "https://www.bilibili.com/video/BV1Ja3q6KENJ",
+      "hot_value": "1430336播放",
+      "index": 9
     },
     {
       "title": "千万粉丝“鉴宝网红”炒股亏光父母积蓄遭拉黑，踢出家族群，直言：再玩就剁手，相关股票软件全部删除！",
       "url": "https://www.bilibili.com/video/BV1Hx3v6aEqw",
-      "hot_value": "3961504播放",
+      "hot_value": "4242819播放",
+      "index": 10
+    },
+    {
+      "title": "我逮住蕾米埃尔了！",
+      "url": "https://www.bilibili.com/video/BV1d23r6GEqQ",
+      "hot_value": "754037播放",
+      "index": 11
+    },
+    {
+      "title": "跨次元空间改造大作战！MC搭子闯关途中触及盲区⚡能顺利通关吗？",
+      "url": "https://www.bilibili.com/video/BV1kpgQ6yEhB",
+      "hot_value": "1795789播放",
+      "index": 12
+    },
+    {
+      "title": "【第一集】穿越成为GTI干员 不管是现实还是游戏都要好好活下去",
+      "url": "https://www.bilibili.com/video/BV1Sh3P6oEc8",
+      "hot_value": "2446014播放",
+      "index": 13
+    },
+    {
+      "title": "2600三角劵！黑海北极星返厂！宝藏图也要解密？宝藏月活动来啦！",
+      "url": "https://www.bilibili.com/video/BV1Ft326fEoU",
+      "hot_value": "676964播放",
+      "index": 14
+    },
+    {
+      "title": "卢本伟的打牌日记1|输了有惩罚之骨头咔嗒响",
+      "url": "https://www.bilibili.com/video/BV1G23q6dEEc",
+      "hot_value": "662852播放",
       "index": 15
     },
     {
-      "title": "孟婆也会退休？AI短片《小孟来了》丨一万个平行宇宙",
-      "url": "https://www.bilibili.com/video/BV1grgf61Ejx",
-      "hot_value": "1446461播放",
+      "title": "自制八月最强纯爱番",
+      "url": "https://www.bilibili.com/video/BV1dJ3B6AEST",
+      "hot_value": "1754301播放",
       "index": 16
     },
     {
-      "title": "《霸の意志》",
-      "url": "https://www.bilibili.com/video/BV1G93r6qEbU",
-      "hot_value": "807041播放",
+      "title": "【TF家族】《2026TF家族运动会》Day1（下）",
+      "url": "https://www.bilibili.com/video/BV1mt3C6AE3n",
+      "hot_value": "826139播放",
       "index": 17
-    },
-    {
-      "title": "【苏新皓｜4K直拍】囍 直拍｜梦寐以求·演唱会",
-      "url": "https://www.bilibili.com/video/BV1Dx3i6nEm8",
-      "hot_value": "818024播放",
-      "index": 18
-    },
-    {
-      "title": "手拉要拉冒烟了",
-      "url": "https://www.bilibili.com/video/BV1sCga68ESL",
-      "hot_value": "3700913播放",
-      "index": 19
-    },
-    {
-      "title": "模仿老爸赢了问他要钱和输了问他要钱",
-      "url": "https://www.bilibili.com/video/BV1FB3E6JEKV",
-      "hot_value": "2392500播放",
-      "index": 20
     },
     {
       "title": "锅已就位",
       "url": "https://www.bilibili.com/video/BV1Qy3v6JEiq",
-      "hot_value": "2868956播放",
+      "hot_value": "2991401播放",
+      "index": 18
+    },
+    {
+      "title": "【TF家族练习生】《突围II破局》EP05：加更",
+      "url": "https://www.bilibili.com/video/BV1ts3C6NEke",
+      "hot_value": "896904播放",
+      "index": 19
+    },
+    {
+      "title": "手拉要拉冒烟了",
+      "url": "https://www.bilibili.com/video/BV1sCga68ESL",
+      "hot_value": "3837715播放",
+      "index": 20
+    },
+    {
+      "title": "和野人已经形成了一种禁忌的关系..",
+      "url": "https://www.bilibili.com/video/BV1Hy316cEK2",
+      "hot_value": "373102播放",
       "index": 21
     },
     {
-      "title": "孩子们，出了社会可没人惯着你",
-      "url": "https://www.bilibili.com/video/BV1gL3z6dEAQ",
-      "hot_value": "194861播放",
+      "title": "荣耀焕新品牌片「敢想，敢不同」",
+      "url": "https://www.bilibili.com/video/BV1NH3j6pEve",
+      "hot_value": "11486101播放",
       "index": 22
     },
     {
-      "title": "《宗教？P教！》",
-      "url": "https://www.bilibili.com/video/BV1o53i6ZE2Q",
-      "hot_value": "610830播放",
+      "title": "《霸の意志》",
+      "url": "https://www.bilibili.com/video/BV1G93r6qEbU",
+      "hot_value": "950403播放",
       "index": 23
     },
     {
-      "title": "车规级外设？我爆改了一张电竞车座！红温玩家物理降温！",
-      "url": "https://www.bilibili.com/video/BV1xb3C6aEf4",
-      "hot_value": "77889播放",
+      "title": "丧 尸 下 乡",
+      "url": "https://www.bilibili.com/video/BV1yD376HEKM",
+      "hot_value": "4855411播放",
       "index": 24
     },
     {
-      "title": "我来抢走孙傲的饭碗",
-      "url": "https://www.bilibili.com/video/BV1JU3164Ek7",
-      "hot_value": "273008播放",
+      "title": "兄弟们，刚哥的烤肠上线了，今天带大家检验一下刚哥黑猪烤肠的生产流程，让大家每一口都吃得放心！",
+      "url": "https://www.bilibili.com/video/BV16t3v6cE85",
+      "hot_value": "2022527播放",
       "index": 25
     },
     {
-      "title": "当老六租了一个6000W的号挑战一晚上花光，梦回COD",
-      "url": "https://www.bilibili.com/video/BV1pH3v6NEK5",
-      "hot_value": "1919064播放",
+      "title": "【苏新皓｜4K直拍】囍 直拍｜梦寐以求·演唱会",
+      "url": "https://www.bilibili.com/video/BV1Dx3i6nEm8",
+      "hot_value": "880133播放",
       "index": 26
     },
     {
       "title": "法老的诅咒：一场殖民者写给世界的爽文",
       "url": "https://www.bilibili.com/video/BV1mt3F6VE7K",
-      "hot_value": "3518692播放",
+      "hot_value": "3645941播放",
       "index": 27
     },
     {
-      "title": "荣耀焕新品牌片「敢想，敢不同」",
-      "url": "https://www.bilibili.com/video/BV1NH3j6pEve",
-      "hot_value": "11375123播放",
+      "title": "预售过亿！但口碑两极分化！《蜘蛛侠4》到底好不好看？",
+      "url": "https://www.bilibili.com/video/BV1Bm3C6JEWt",
+      "hot_value": "631507播放",
       "index": 28
     },
     {
-      "title": "一个社牛在绿皮火车上会做出什么离谱的事…",
-      "url": "https://www.bilibili.com/video/BV1YSgd6kEkB",
-      "hot_value": "2267396播放",
+      "title": "“爆发红眼病毒后公司乱成一锅粥了，赶紧趁热把boss丢下楼！！！”",
+      "url": "https://www.bilibili.com/video/BV1sV3c6kESb",
+      "hot_value": "1537642播放",
       "index": 29
     },
     {
-      "title": "你不要再吸我啦！",
-      "url": "https://www.bilibili.com/video/BV1wA3i6TEZF",
-      "hot_value": "1752966播放",
+      "title": "孩子们，出了社会可没人惯着你",
+      "url": "https://www.bilibili.com/video/BV1gL3z6dEAQ",
+      "hot_value": "317898播放",
       "index": 30
     }
   ]

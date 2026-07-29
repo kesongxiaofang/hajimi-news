@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-29T16:04:37Z",
+  "update_time": "2026-07-29T20:17:48Z",
   "count": 30,
   "list": [
     {
-      "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
-      "url": "https://www.zhihu.com/question/2065767078427113175",
-      "hot_value": "2063 万热度",
+      "title": "343 斤吃播博主「良子」在峨眉山徒步途中晕倒，后被担架抬下山，大体重人士适合徒步吗？会有哪些风险？",
+      "url": "https://www.zhihu.com/question/2065779470502465996",
+      "hot_value": "864 万热度",
       "index": 1
     },
     {
       "title": "许多网友反馈在泸溪河桃酥里吃出牙冠、牙齿、头发等异物，山姆已将其下架，可能是什么环节的问题？",
       "url": "https://www.zhihu.com/question/2065716053770859492",
-      "hot_value": "1488 万热度",
+      "hot_value": "428 万热度",
       "index": 2
     },
     {
-      "title": "343 斤吃播博主「良子」在峨眉山徒步途中晕倒，后被担架抬下山，大体重人士适合徒步吗？会有哪些风险？",
-      "url": "https://www.zhihu.com/question/2065779470502465996",
-      "hot_value": "875 万热度",
+      "title": "曾经的百亿票房先生黄渤，两部影片接连失利，他为什么突然不再是票房保障了？还有哪些演员扛不动院线票房了？",
+      "url": "https://www.zhihu.com/question/2041688424608952500",
+      "hot_value": "330 万热度",
       "index": 3
-    },
-    {
-      "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
-      "url": "https://www.zhihu.com/question/23846763",
-      "hot_value": "679 万热度",
-      "index": 4
     },
     {
       "title": "媒体曝辅助驾驶的「小蓝灯」将被禁用，背后是出于什么考量？你支持禁装吗？",
       "url": "https://www.zhihu.com/question/2065809494173377572",
-      "hot_value": "491 万热度",
+      "hot_value": "322 万热度",
+      "index": 4
+    },
+    {
+      "title": "周星驰《功夫女足》上映 18 天票房破 20 亿，超过《给阿嬷的情书》跻身年度第二，如何评价这一成绩？",
+      "url": "https://www.zhihu.com/question/2065509466343044069",
+      "hot_value": "285 万热度",
       "index": 5
     },
     {
-      "title": "如何看待广西日报特稿《王的猜想》因王虹获菲尔兹奖被炒到 65 元一份，再现「洛阳纸贵」的现象？",
-      "url": "https://www.zhihu.com/question/2065739488693899762",
-      "hot_value": "376 万热度",
+      "title": "网红私占宁波无人岛直播改造被查处，个人可以开发利用无居民海岛吗？荒岛为何不能随意建房、居住？",
+      "url": "https://www.zhihu.com/question/2065709716009743417",
+      "hot_value": "227 万热度",
       "index": 6
     },
     {
       "title": "孙悟空客串了很多影视剧，为什么总是被用来救场？",
       "url": "https://www.zhihu.com/question/2064400500926189976",
-      "hot_value": "349 万热度",
+      "hot_value": "213 万热度",
       "index": 7
+    },
+    {
+      "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
+      "url": "https://www.zhihu.com/question/2065767078427113175",
+      "hot_value": "199 万热度",
+      "index": 8
     },
     {
       "title": "《明末：渊虚之羽 2》正式公开，由夏思源组建新公司开发，505 计划对其投资 2150 万欧元，对此你怎么看？",
       "url": "https://www.zhihu.com/question/2065822635464958698",
-      "hot_value": "321 万热度",
-      "index": 8
+      "hot_value": "185 万热度",
+      "index": 9
+    },
+    {
+      "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2065710393360479149",
+      "hot_value": "180 万热度",
+      "index": 10
+    },
+    {
+      "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
+      "url": "https://www.zhihu.com/question/2064993421949755491",
+      "hot_value": "176 万热度",
+      "index": 11
+    },
+    {
+      "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
+      "url": "https://www.zhihu.com/question/2065017879477725134",
+      "hot_value": "176 万热度",
+      "index": 12
+    },
+    {
+      "title": "如何看待广西日报特稿《王的猜想》因王虹获菲尔兹奖被炒到 65 元一份，再现「洛阳纸贵」的现象？",
+      "url": "https://www.zhihu.com/question/2065739488693899762",
+      "hot_value": "175 万热度",
+      "index": 13
     },
     {
       "title": "八仙到底是什么等级的神仙？",
       "url": "https://www.zhihu.com/question/359907932",
-      "hot_value": "282 万热度",
-      "index": 9
-    },
-    {
-      "title": "江苏 14 岁乒乓选手曹彦灏比赛失利后拳击对手，事件严重程度如何？判禁赛一年合理吗？",
-      "url": "https://www.zhihu.com/question/2065664493460493869",
-      "hot_value": "274 万热度",
-      "index": 10
-    },
-    {
-      "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-      "url": "https://www.zhihu.com/question/2065158710427751418",
-      "hot_value": "267 万热度",
-      "index": 11
-    },
-    {
-      "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
-      "url": "https://www.zhihu.com/question/2065344071745233365",
-      "hot_value": "246 万热度",
-      "index": 12
-    },
-    {
-      "title": "周星驰《功夫女足》上映 18 天票房破 20 亿，超过《给阿嬷的情书》跻身年度第二，如何评价这一成绩？",
-      "url": "https://www.zhihu.com/question/2065509466343044069",
-      "hot_value": "235 万热度",
-      "index": 13
-    },
-    {
-      "title": "曾经的百亿票房先生黄渤，两部影片接连失利，他为什么突然不再是票房保障了？还有哪些演员扛不动院线票房了？",
-      "url": "https://www.zhihu.com/question/2041688424608952500",
-      "hot_value": "209 万热度",
+      "hot_value": "173 万热度",
       "index": 14
     },
     {
-      "title": "粉笔网因炒股巨亏 5600 万，其前 CEO 张小龙上月嘲学生考公不如炒股称其靠炒股月赚 5300 万，如何评价？",
-      "url": "https://www.zhihu.com/question/2065741787428295236",
-      "hot_value": "160 万热度",
+      "title": "如何鉴别一家餐馆好不好吃？",
+      "url": "https://www.zhihu.com/question/36382598",
+      "hot_value": "171 万热度",
       "index": 15
     },
     {
       "title": "为什么很多北京本地人从不进全聚德，却对家门口那家开了几十年的烤鸭店情有独钟？",
       "url": "https://www.zhihu.com/question/2058200201479677540",
-      "hot_value": "148 万热度",
+      "hot_value": "159 万热度",
       "index": 16
     },
     {
-      "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-      "url": "https://www.zhihu.com/question/2065710393360479149",
-      "hot_value": "139 万热度",
+      "title": "长鑫存储 vs 长江存储，一个做内存，一个做闪存，谁更厉害？",
+      "url": "https://www.zhihu.com/question/2061092161337177252",
+      "hot_value": "141 万热度",
       "index": 17
     },
     {
-      "title": "网红私占宁波无人岛直播改造被查处，个人可以开发利用无居民海岛吗？荒岛为何不能随意建房、居住？",
-      "url": "https://www.zhihu.com/question/2065709716009743417",
-      "hot_value": "137 万热度",
+      "title": "江苏 14 岁乒乓选手曹彦灏比赛失利后拳击对手，事件严重程度如何？判禁赛一年合理吗？",
+      "url": "https://www.zhihu.com/question/2065664493460493869",
+      "hot_value": "134 万热度",
       "index": 18
     },
     {
-      "title": "如何评价今年机械专业分数线大涨？",
-      "url": "https://www.zhihu.com/question/2064628663983793999",
-      "hot_value": "124 万热度",
+      "title": "广州一栈道破损致 2 岁孩童踩空坠江，孩童母亲称栈道破损已超 9 年，谁该担责？哪些信息值得注意？",
+      "url": "https://www.zhihu.com/question/2065157738481586639",
+      "hot_value": "119 万热度",
       "index": 19
     },
     {
       "title": "为什么水中含氧量更少，鲸鱼却长得很大?",
       "url": "https://www.zhihu.com/question/2007787270053328648",
-      "hot_value": "122 万热度",
+      "hot_value": "115 万热度",
       "index": 20
     },
     {
-      "title": "苏超的热度为什么降温了？",
-      "url": "https://www.zhihu.com/question/2064631785892454410",
-      "hot_value": "121 万热度",
+      "title": "斯内普死后，哈利波特这么尊重他这合理吗？",
+      "url": "https://www.zhihu.com/question/543297449",
+      "hot_value": "111 万热度",
       "index": 21
     },
     {
-      "title": "广州一栈道破损致 2 岁孩童踩空坠江，孩童母亲称栈道破损已超 9 年，谁该担责？哪些信息值得注意？",
-      "url": "https://www.zhihu.com/question/2065157738481586639",
-      "hot_value": "106 万热度",
+      "title": "如何评价今年机械专业分数线大涨？",
+      "url": "https://www.zhihu.com/question/2064628663983793999",
+      "hot_value": "107 万热度",
       "index": 22
     },
     {
-      "title": "《人民的名义》里，高育良和李达康都没贪钱，为什么一个坐牢一个过关？",
-      "url": "https://www.zhihu.com/question/2061881728478737461",
-      "hot_value": "105 万热度",
+      "title": "有什么生活中鲜为人知的冷知识？",
+      "url": "https://www.zhihu.com/question/666017688",
+      "hot_value": "106 万热度",
       "index": 23
+    },
+    {
+      "title": "如何看待 Tsimerma 认为不到两年 ai 的数学能力就彻底超越人类数学家？",
+      "url": "https://www.zhihu.com/question/2064844454960296563",
+      "hot_value": "103 万热度",
+      "index": 24
+    },
+    {
+      "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
+      "url": "https://www.zhihu.com/question/2065799308067041337",
+      "hot_value": "103 万热度",
+      "index": 25
+    },
+    {
+      "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+      "url": "https://www.zhihu.com/question/2065158710427751418",
+      "hot_value": "99 万热度",
+      "index": 26
     },
     {
       "title": "如何看待 IFAB 认定恩博洛世界杯第二黄改判属于规则误用？VAR 的边界在哪？",
       "url": "https://www.zhihu.com/question/2065761038373541729",
-      "hot_value": "101 万热度",
-      "index": 24
-    },
-    {
-      "title": "美、日、韩、中股市都在下跌，2026 年真会如罗杰斯所预言发生金融危机吗？",
-      "url": "https://www.zhihu.com/question/2065446585165509621",
-      "hot_value": "94 万热度",
-      "index": 25
-    },
-    {
-      "title": "斗地主中，为什么地主只有三张牌的优势就可以一打二了？",
-      "url": "https://www.zhihu.com/question/2063214681746153896",
-      "hot_value": "82 万热度",
-      "index": 26
-    },
-    {
-      "title": "为什么好多人根本没有意识到，其实大部分人个人手机的性能是超过他个人电脑的？",
-      "url": "https://www.zhihu.com/question/2047098527092828152",
-      "hot_value": "78 万热度",
+      "hot_value": "90 万热度",
       "index": 27
     },
     {
-      "title": "跟部门领导相处不来，要不要离职?",
-      "url": "https://www.zhihu.com/question/1907457029506863361",
-      "hot_value": "69 万热度",
+      "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
+      "url": "https://www.zhihu.com/question/2065344071745233365",
+      "hot_value": "84 万热度",
       "index": 28
     },
     {
-      "title": "人的身体有哪些精妙之处？",
-      "url": "https://www.zhihu.com/question/300434662",
-      "hot_value": "68 万热度",
+      "title": "《人民的名义》里，高育良和李达康都没贪钱，为什么一个坐牢一个过关？",
+      "url": "https://www.zhihu.com/question/2061881728478737461",
+      "hot_value": "82 万热度",
       "index": 29
     },
     {
-      "title": "如果魔兽争霸取消了维修费而且上限 155 人口，游玩体验会不会更好？",
-      "url": "https://www.zhihu.com/question/1986919169581671937",
-      "hot_value": "64 万热度",
+      "title": "LPL2026 赛季第三赛段组内赛 TES 0:2 AL，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2065831296870380731",
+      "hot_value": "82 万热度",
       "index": 30
     }
   ]
