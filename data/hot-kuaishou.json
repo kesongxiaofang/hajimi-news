@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-07-29T10:18:39Z",
+  "update_time": "2026-07-29T16:04:37Z",
   "count": 30,
   "list": [
     {
-      "title": "恋还是练我全都要了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%81%8B%E8%BF%98%E6%98%AF%E7%BB%83%E6%88%91%E5%85%A8%E9%83%BD%E8%A6%81%E4%BA%86",
-      "hot_value": "1,327.3万",
-      "index": 1
-    },
-    {
       "title": "安徽女子醉驾踢踹交警",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%89%E5%BE%BD%E5%A5%B3%E5%AD%90%E9%86%89%E9%A9%BE%E8%B8%A2%E8%B8%B9%E4%BA%A4%E8%AD%A6",
-      "hot_value": "1,272万",
-      "index": 2
-    },
-    {
-      "title": "一组数据看中欧贸易快车道",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E4%B8%AD%E6%AC%A7%E8%B4%B8%E6%98%93%E5%BF%AB%E8%BD%A6%E9%81%93",
-      "hot_value": "1,256.6万",
-      "index": 3
-    },
-    {
-      "title": "西北边陲红色研学启程",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%BF%E5%8C%97%E8%BE%B9%E9%99%B2%E7%BA%A2%E8%89%B2%E7%A0%94%E5%AD%A6%E5%90%AF%E7%A8%8B",
-      "hot_value": "1,202.7万",
-      "index": 4
-    },
-    {
-      "title": "一年前你路过我家门前的那条路",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%80%E5%B9%B4%E5%89%8D%E4%BD%A0%E8%B7%AF%E8%BF%87%E6%88%91%E5%AE%B6%E9%97%A8%E5%89%8D%E7%9A%84%E9%82%A3%E6%9D%A1%E8%B7%AF",
-      "hot_value": "1,181.4万",
-      "index": 5
-    },
-    {
-      "title": "丁真下马与藏族阿孃暖心拥抱",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%81%E7%9C%9F%E4%B8%8B%E9%A9%AC%E4%B8%8E%E8%97%8F%E6%97%8F%E9%98%BF%E5%AD%83%E6%9A%96%E5%BF%83%E6%8B%A5%E6%8A%B1",
-      "hot_value": "1,158.9万",
-      "index": 6
-    },
-    {
-      "title": "永远会被小苹果阿姨的真诚感动",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B0%B8%E8%BF%9C%E4%BC%9A%E8%A2%AB%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E7%9A%84%E7%9C%9F%E8%AF%9A%E6%84%9F%E5%8A%A8",
-      "hot_value": "1,137.8万",
-      "index": 7
-    },
-    {
-      "title": "日本当局利用灾难摆拍博眼球",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E5%BD%93%E5%B1%80%E5%88%A9%E7%94%A8%E7%81%BE%E9%9A%BE%E6%91%86%E6%8B%8D%E5%8D%9A%E7%9C%BC%E7%90%83",
-      "hot_value": "1,117.4万",
-      "index": 8
+      "hot_value": "1,228.9万",
+      "index": 1
     },
     {
       "title": "哈尔滨惊现天女散花",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%93%88%E5%B0%94%E6%BB%A8%E6%83%8A%E7%8E%B0%E5%A4%A9%E5%A5%B3%E6%95%A3%E8%8A%B1",
-      "hot_value": "1,074.6万",
-      "index": 9
+      "hot_value": "1,175.7万",
+      "index": 2
     },
     {
-      "title": "徐宪平一审获刑15年",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BE%90%E5%AE%AA%E5%B9%B3%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9115%E5%B9%B4",
-      "hot_value": "1,052.3万",
-      "index": 10
+      "title": "C919高原型完成首飞",
+      "url": "https://www.kuaishou.com/search/video?searchKey=C919%E9%AB%98%E5%8E%9F%E5%9E%8B%E5%AE%8C%E6%88%90%E9%A6%96%E9%A3%9E",
+      "hot_value": "1,168.3万",
+      "index": 3
     },
     {
-      "title": "济南暴雨铁路桥下汽车被淹系谣言",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B5%8E%E5%8D%97%E6%9A%B4%E9%9B%A8%E9%93%81%E8%B7%AF%E6%A1%A5%E4%B8%8B%E6%B1%BD%E8%BD%A6%E8%A2%AB%E6%B7%B9%E7%B3%BB%E8%B0%A3%E8%A8%80",
-      "hot_value": "1,052.3万",
-      "index": 11
+      "title": "台风“白海豚”或转向浙江",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%99%BD%E6%B5%B7%E8%B1%9A%E2%80%9D%E6%88%96%E8%BD%AC%E5%90%91%E6%B5%99%E6%B1%9F",
+      "hot_value": "1,155.3万",
+      "index": 4
     },
     {
-      "title": "黄景瑜印尼咳嗽舞",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%BB%84%E6%99%AF%E7%91%9C%E5%8D%B0%E5%B0%BC%E5%92%B3%E5%97%BD%E8%88%9E",
-      "hot_value": "1,049.6万",
-      "index": 12
+      "title": "龙兽医首部AI短剧",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%BE%99%E5%85%BD%E5%8C%BB%E9%A6%96%E9%83%A8AI%E7%9F%AD%E5%89%A7",
+      "hot_value": "1,132.8万",
+      "index": 5
     },
     {
-      "title": "韩国股市崩了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E5%B4%A9%E4%BA%86",
-      "hot_value": "1,047.5万",
-      "index": 13
+      "title": "王楚钦2比1宁贤坤",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%941%E5%AE%81%E8%B4%A4%E5%9D%A4",
+      "hot_value": "1,112.6万",
+      "index": 6
     },
     {
-      "title": "智驾小蓝灯将被禁用",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E8%A2%AB%E7%A6%81%E7%94%A8",
-      "hot_value": "1,045.3万",
-      "index": 14
-    },
-    {
-      "title": "情侣商场内吵架女子当众脱衣",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%83%85%E4%BE%A3%E5%95%86%E5%9C%BA%E5%86%85%E5%90%B5%E6%9E%B6%E5%A5%B3%E5%AD%90%E5%BD%93%E4%BC%97%E8%84%B1%E8%A1%A3",
-      "hot_value": "1,044.1万",
-      "index": 15
-    },
-    {
-      "title": "游戏主播也加盟加麻不加辣",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E4%B9%9F%E5%8A%A0%E7%9B%9F%E5%8A%A0%E9%BA%BB%E4%B8%8D%E5%8A%A0%E8%BE%A3",
-      "hot_value": "1,043.7万",
-      "index": 16
+      "title": "天空之城的天籁藏歌",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E%E7%9A%84%E5%A4%A9%E7%B1%81%E8%97%8F%E6%AD%8C",
+      "hot_value": "1,090.6万",
+      "index": 7
     },
     {
       "title": "中方对日本地震遇难者表示哀悼",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E8%80%85%E8%A1%A8%E7%A4%BA%E5%93%80%E6%82%BC",
-      "hot_value": "1,037.6万",
-      "index": 17
+      "hot_value": "1,069万",
+      "index": 8
     },
     {
-      "title": "理塘哒野赛马会将于明日开幕",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%90%86%E5%A1%98%E5%93%92%E9%87%8E%E8%B5%9B%E9%A9%AC%E4%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E6%97%A5%E5%BC%80%E5%B9%95",
-      "hot_value": "1,035万",
-      "index": 18
+      "title": "JUMPPARK首批阵容官宣",
+      "url": "https://www.kuaishou.com/search/video?searchKey=JUMPPARK%E9%A6%96%E6%89%B9%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3",
+      "hot_value": "1,042.1万",
+      "index": 9
     },
     {
-      "title": "曹支书入驻快手",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9B%B9%E6%94%AF%E4%B9%A6%E5%85%A5%E9%A9%BB%E5%BF%AB%E6%89%8B",
-      "hot_value": "1,033万",
-      "index": 19
+      "title": "旅游前vs旅游后的精神状态",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%85%E6%B8%B8%E5%89%8Dvs%E6%97%85%E6%B8%B8%E5%90%8E%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81",
+      "hot_value": "1,023.8万",
+      "index": 10
     },
     {
-      "title": "阿厦首创下雨版加麻不加辣",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%98%BF%E5%8E%A6%E9%A6%96%E5%88%9B%E4%B8%8B%E9%9B%A8%E7%89%88%E5%8A%A0%E9%BA%BB%E4%B8%8D%E5%8A%A0%E8%BE%A3",
-      "hot_value": "1,031.4万",
-      "index": 20
-    },
-    {
-      "title": "日本购物中心震后爆炸画面曝光",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E9%9C%87%E5%90%8E%E7%88%86%E7%82%B8%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-      "hot_value": "1,028.1万",
-      "index": 21
-    },
-    {
-      "title": "小猪佩奇顶级智斗",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%E9%A1%B6%E7%BA%A7%E6%99%BA%E6%96%97",
-      "hot_value": "1,025.5万",
-      "index": 22
-    },
-    {
-      "title": "女儿一身傲骨重胜千钧",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%84%BF%E4%B8%80%E8%BA%AB%E5%82%B2%E9%AA%A8%E9%87%8D%E8%83%9C%E5%8D%83%E9%92%A7",
-      "hot_value": "1,024.3万",
-      "index": 23
-    },
-    {
-      "title": "我吵架吵不过别人",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E5%90%B5%E6%9E%B6%E5%90%B5%E4%B8%8D%E8%BF%87%E5%88%AB%E4%BA%BA",
-      "hot_value": "1,017.8万",
-      "index": 24
-    },
-    {
-      "title": "台湾演员王凯尸检结果公布",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E6%B9%BE%E6%BC%94%E5%91%98%E7%8E%8B%E5%87%AF%E5%B0%B8%E6%A3%80%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
-      "hot_value": "1,017.8万",
-      "index": 25
-    },
-    {
-      "title": "日本熊本县已有超过9800人避难",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%B7%B2%E6%9C%89%E8%B6%85%E8%BF%879800%E4%BA%BA%E9%81%BF%E9%9A%BE",
-      "hot_value": "1,015.1万",
-      "index": 26
-    },
-    {
-      "title": "高市早苗头顶停巨大苍蝇",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%A4%B4%E9%A1%B6%E5%81%9C%E5%B7%A8%E5%A4%A7%E8%8B%8D%E8%9D%87",
-      "hot_value": "1,012.3万",
-      "index": 27
-    },
-    {
-      "title": "外省人对广东人的误解",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%96%E7%9C%81%E4%BA%BA%E5%AF%B9%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E8%AF%AF%E8%A7%A3",
-      "hot_value": "1,009.8万",
-      "index": 28
+      "title": "新疆喀什辟谣“零地价供地”",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%96%B0%E7%96%86%E5%96%80%E4%BB%80%E8%BE%9F%E8%B0%A3%E2%80%9C%E9%9B%B6%E5%9C%B0%E4%BB%B7%E4%BE%9B%E5%9C%B0%E2%80%9D",
+      "hot_value": "1,021.7万",
+      "index": 11
     },
     {
       "title": "初中生曝光侵华日军罪证被威胁",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%9B%9D%E5%85%89%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E7%BD%AA%E8%AF%81%E8%A2%AB%E5%A8%81%E8%83%81",
-      "hot_value": "1,006.9万",
+      "hot_value": "1,021.4万",
+      "index": 12
+    },
+    {
+      "title": "赵心童vs丁俊晖",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B5%B5%E5%BF%83%E7%AB%A5vs%E4%B8%81%E4%BF%8A%E6%99%96",
+      "hot_value": "1,019.3万",
+      "index": 13
+    },
+    {
+      "title": "日本当局利用灾难摆拍博眼球",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E5%BD%93%E5%B1%80%E5%88%A9%E7%94%A8%E7%81%BE%E9%9A%BE%E6%91%86%E6%8B%8D%E5%8D%9A%E7%9C%BC%E7%90%83",
+      "hot_value": "1,016.6万",
+      "index": 14
+    },
+    {
+      "title": "长鑫科技继续上涨",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%BB%A7%E7%BB%AD%E4%B8%8A%E6%B6%A8",
+      "hot_value": "1,013.9万",
+      "index": 15
+    },
+    {
+      "title": "韩国股市崩了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E5%B4%A9%E4%BA%86",
+      "hot_value": "1,011.5万",
+      "index": 16
+    },
+    {
+      "title": "男生换发型等于换脸",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E7%94%9F%E6%8D%A2%E5%8F%91%E5%9E%8B%E7%AD%89%E4%BA%8E%E6%8D%A2%E8%84%B8",
+      "hot_value": "1,009.2万",
+      "index": 17
+    },
+    {
+      "title": "我吵架吵不过别人",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E5%90%B5%E6%9E%B6%E5%90%B5%E4%B8%8D%E8%BF%87%E5%88%AB%E4%BA%BA",
+      "hot_value": "1,008.7万",
+      "index": 18
+    },
+    {
+      "title": "徐宪平一审获刑15年",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BE%90%E5%AE%AA%E5%B9%B3%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9115%E5%B9%B4",
+      "hot_value": "1,004.8万",
+      "index": 19
+    },
+    {
+      "title": "直击强震后的日本熊本城",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9B%B4%E5%87%BB%E5%BC%BA%E9%9C%87%E5%90%8E%E7%9A%84%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9F%8E",
+      "hot_value": "1,002.7万",
+      "index": 20
+    },
+    {
+      "title": "眼镜蛇断头5分钟后把人咬成重伤",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9C%BC%E9%95%9C%E8%9B%87%E6%96%AD%E5%A4%B45%E5%88%86%E9%92%9F%E5%90%8E%E6%8A%8A%E4%BA%BA%E5%92%AC%E6%88%90%E9%87%8D%E4%BC%A4",
+      "hot_value": "1,000.5万",
+      "index": 21
+    },
+    {
+      "title": "2034杯中国足球小将红队晋级八强",
+      "url": "https://www.kuaishou.com/search/video?searchKey=2034%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E7%BA%A2%E9%98%9F%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA",
+      "hot_value": "1,000万",
+      "index": 22
+    },
+    {
+      "title": "高市早苗头顶停巨大苍蝇",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%A4%B4%E9%A1%B6%E5%81%9C%E5%B7%A8%E5%A4%A7%E8%8B%8D%E8%9D%87",
+      "hot_value": "997.4万",
+      "index": 23
+    },
+    {
+      "title": "17岁哥哥上中科大15岁妹妹上北大",
+      "url": "https://www.kuaishou.com/search/video?searchKey=17%E5%B2%81%E5%93%A5%E5%93%A5%E4%B8%8A%E4%B8%AD%E7%A7%91%E5%A4%A715%E5%B2%81%E5%A6%B9%E5%A6%B9%E4%B8%8A%E5%8C%97%E5%A4%A7",
+      "hot_value": "994.6万",
+      "index": 24
+    },
+    {
+      "title": "日本熊本县已有超过9800人避难",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%B7%B2%E6%9C%89%E8%B6%85%E8%BF%879800%E4%BA%BA%E9%81%BF%E9%9A%BE",
+      "hot_value": "992.1万",
+      "index": 25
+    },
+    {
+      "title": "朱志鑫金发背头造型",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%B1%E5%BF%97%E9%91%AB%E9%87%91%E5%8F%91%E8%83%8C%E5%A4%B4%E9%80%A0%E5%9E%8B",
+      "hot_value": "987.3万",
+      "index": 26
+    },
+    {
+      "title": "一年前你路过我家门前的那条路",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%80%E5%B9%B4%E5%89%8D%E4%BD%A0%E8%B7%AF%E8%BF%87%E6%88%91%E5%AE%B6%E9%97%A8%E5%89%8D%E7%9A%84%E9%82%A3%E6%9D%A1%E8%B7%AF",
+      "hot_value": "987.1万",
+      "index": 27
+    },
+    {
+      "title": "小大人第一次带妹妹坐火车",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E5%A4%A7%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B8%A6%E5%A6%B9%E5%A6%B9%E5%9D%90%E7%81%AB%E8%BD%A6",
+      "hot_value": "984.8万",
+      "index": 28
+    },
+    {
+      "title": "“两山”理念与美丽中国",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E2%80%9C%E4%B8%A4%E5%B1%B1%E2%80%9D%E7%90%86%E5%BF%B5%E4%B8%8E%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD",
+      "hot_value": "982.5万",
       "index": 29
     },
     {
-      "title": "河北小孩扑向榴莲被扎伤",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8C%97%E5%B0%8F%E5%AD%A9%E6%89%91%E5%90%91%E6%A6%B4%E8%8E%B2%E8%A2%AB%E6%89%8E%E4%BC%A4",
-      "hot_value": "1,004万",
+      "title": "王者荣耀联名火崽崽",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%81%94%E5%90%8D%E7%81%AB%E5%B4%BD%E5%B4%BD",
+      "hot_value": "979.1万",
       "index": 30
     }
   ]
