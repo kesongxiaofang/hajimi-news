@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-07-30T16:06:03Z",
+  "update_time": "2026-07-30T20:44:58Z",
   "count": 30,
   "list": [
     {
       "title": "小米澎程技术发布会上发布了什么值得关注的新技术？有哪些亮点？",
       "url": "https://www.zhihu.com/question/2066129660551722919",
-      "hot_value": "668 万热度",
+      "hot_value": "2208 万热度",
       "index": 1
     },
     {
-      "title": "1.5 万机票退票仅退 432 元，曝光后获全额退款，问题出在哪？这次胜利能否撬动天价退票费规则？",
-      "url": "https://www.zhihu.com/question/2066088472851341477",
-      "hot_value": "412 万热度",
+      "title": "如何评价小米澎程 N90 Max 预售价 29.99 万元、 N70 Max 预售价 25.99 万元？",
+      "url": "https://www.zhihu.com/question/2066257961672864074",
+      "hot_value": "827 万热度",
       "index": 2
     },
     {
       "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
       "url": "https://www.zhihu.com/question/2065771256972932835",
-      "hot_value": "338 万热度",
+      "hot_value": "209 万热度",
       "index": 3
     },
     {
-      "title": "如何看待爆火的莫氏鸡煲参加《一饭封神 2》首轮被淘汰？新荣记创始人称「技术含量不高」，这个评价在理吗？",
-      "url": "https://www.zhihu.com/question/2065849620689679885",
-      "hot_value": "233 万热度",
+      "title": "彭水山体崩塌的 00 后网格员龚宝冬遗骸被找到，因组织群众转移未及时撤离遇难，他的行为让你哪些感触？",
+      "url": "https://www.zhihu.com/question/2065832666918645764",
+      "hot_value": "159 万热度",
       "index": 4
     },
     {
-      "title": "菲尔兹奖如何防止高龄数学家将自己的成果偷偷传授给不满 40 岁的年轻数学家以获奖？",
-      "url": "https://www.zhihu.com/question/2065614516616950087",
-      "hot_value": "207 万热度",
+      "title": "如何评价影视飓风发十周年激励金，在职年限越长奖励越高，最低发半个月工资？这种激励方式值得推广吗？",
+      "url": "https://www.zhihu.com/question/2066121761117004785",
+      "hot_value": "151 万热度",
       "index": 5
     },
     {
       "title": "孙悟空被火焰山切糕烫到，是不是意味着，这只猴子没有金钢之躯？",
       "url": "https://www.zhihu.com/question/1936761762335663228",
-      "hot_value": "205 万热度",
+      "hot_value": "150 万热度",
       "index": 6
     },
     {
       "title": "猫要是一辈子只呆在家里会不会很可悲？",
       "url": "https://www.zhihu.com/question/1912983496344974934",
-      "hot_value": "205 万热度",
+      "hot_value": "149 万热度",
       "index": 7
     },
     {
-      "title": "如何评价小米澎程 N90 Max 预售价 29.99 万元、 N70 Max 预售价 25.99 万元？",
-      "url": "https://www.zhihu.com/question/2066257961672864074",
-      "hot_value": "204 万热度",
+      "title": "如何看待爆火的莫氏鸡煲参加《一饭封神 2》首轮被淘汰？新荣记创始人称「技术含量不高」，这个评价在理吗？",
+      "url": "https://www.zhihu.com/question/2065849620689679885",
+      "hot_value": "149 万热度",
       "index": 8
     },
     {
-      "title": "如何看待董宇辉与周星驰的直播互动？",
-      "url": "https://www.zhihu.com/question/2065928846315205455",
-      "hot_value": "183 万热度",
+      "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+      "url": "https://www.zhihu.com/question/2065810199877611641",
+      "hot_value": "139 万热度",
       "index": 9
     },
     {
       "title": "我发现很多农村教堂并没有发鸡蛋，那为什么还有那么多老头老太太去信？",
       "url": "https://www.zhihu.com/question/2065207564342654038",
-      "hot_value": "182 万热度",
+      "hot_value": "136 万热度",
       "index": 10
     },
     {
       "title": "2026 乒超联赛王楚钦 / 周启豪 1-2 林诗栋 / 赵钊彦，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2066151298727204798",
-      "hot_value": "182 万热度",
+      "hot_value": "134 万热度",
       "index": 11
     },
     {
-      "title": "如何评价影视飓风发十周年激励金，在职年限越长奖励越高，最低发半个月工资？这种激励方式值得推广吗？",
-      "url": "https://www.zhihu.com/question/2066121761117004785",
-      "hot_value": "181 万热度",
+      "title": "孙继海和董路所带领的少年足球队相互交手的结果说明了什么？",
+      "url": "https://www.zhihu.com/question/2065418706516289153",
+      "hot_value": "132 万热度",
       "index": 12
     },
     {
       "title": "如何看待《年会不能停 2！》点映排片已经被《蜘蛛侠》《八仙！》等影片压制到不足 0.1%，会选择撤档吗？",
       "url": "https://www.zhihu.com/question/2065844223958692335",
-      "hot_value": "153 万热度",
+      "hot_value": "128 万热度",
       "index": 13
-    },
-    {
-      "title": "如何看待 2026 年 7 月 29 日《蜘蛛侠：崭新之日》预测票房大幅下降至 15.6 亿人民币？",
-      "url": "https://www.zhihu.com/question/2065493257627423324",
-      "hot_value": "121 万热度",
-      "index": 14
-    },
-    {
-      "title": "北大数院澄清王虹推荐信、保研等传闻，称其具备保研资格且获数院多位老师推荐信，为什么此前谣言能广泛传播？",
-      "url": "https://www.zhihu.com/question/2065760409827665215",
-      "hot_value": "118 万热度",
-      "index": 15
-    },
-    {
-      "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-      "url": "https://www.zhihu.com/question/2065810199877611641",
-      "hot_value": "113 万热度",
-      "index": 16
-    },
-    {
-      "title": "彭水山体崩塌的 00 后网格员龚宝冬遗骸被找到，因组织群众转移未及时撤离遇难，他的行为让你哪些感触？",
-      "url": "https://www.zhihu.com/question/2065832666918645764",
-      "hot_value": "98 万热度",
-      "index": 17
-    },
-    {
-      "title": "乐事薯片生产废料被洗白成「毛粉」流向市场，用「毛粉」生产食用淀粉是否合规？是否存在食品安全问题？",
-      "url": "https://www.zhihu.com/question/2065806972587356861",
-      "hot_value": "97 万热度",
-      "index": 18
-    },
-    {
-      "title": "邓煜在北大读了两年后就转去了 MIT，这是什么样的转学政策？",
-      "url": "https://www.zhihu.com/question/2064145782496876151",
-      "hot_value": "94 万热度",
-      "index": 19
-    },
-    {
-      "title": "想知道现在 iPad 加个键盘就可以用作笔记本电脑了，大学生做课堂笔记还需要买笔记本电脑吗？",
-      "url": "https://www.zhihu.com/question/2063239296660906231",
-      "hot_value": "93 万热度",
-      "index": 20
-    },
-    {
-      "title": "孙继海和董路所带领的少年足球队相互交手的结果说明了什么？",
-      "url": "https://www.zhihu.com/question/2065418706516289153",
-      "hot_value": "92 万热度",
-      "index": 21
-    },
-    {
-      "title": "5 元水饺 4 元面馆，一批低价餐饮爆火，真能赚到钱吗？背后是怎样的商业逻辑？",
-      "url": "https://www.zhihu.com/question/2065429603510740131",
-      "hot_value": "78 万热度",
-      "index": 22
     },
     {
       "title": "王虹为什么懂法语，以及王虹的英语（包含口语）是什么时候学的？",
       "url": "https://www.zhihu.com/question/2065435663818830022",
-      "hot_value": "76 万热度",
-      "index": 23
+      "hot_value": "117 万热度",
+      "index": 14
     },
     {
-      "title": "为什么郭芙十六年间在襄阳吃苦，杨过也丝毫不管？",
-      "url": "https://www.zhihu.com/question/2065922140231168109",
-      "hot_value": "73 万热度",
-      "index": 24
+      "title": "乐事薯片生产废料被洗白成「毛粉」流向市场，用「毛粉」生产食用淀粉是否合规？是否存在食品安全问题？",
+      "url": "https://www.zhihu.com/question/2065806972587356861",
+      "hot_value": "106 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何看待 2026 年 7 月 29 日《蜘蛛侠：崭新之日》预测票房大幅下降至 15.6 亿人民币？",
+      "url": "https://www.zhihu.com/question/2065493257627423324",
+      "hot_value": "96 万热度",
+      "index": 16
+    },
+    {
+      "title": "北大数院澄清王虹推荐信、保研等传闻，称其具备保研资格且获数院多位老师推荐信，为什么此前谣言能广泛传播？",
+      "url": "https://www.zhihu.com/question/2065760409827665215",
+      "hot_value": "91 万热度",
+      "index": 17
+    },
+    {
+      "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
+      "url": "https://www.zhihu.com/question/2065915199089894895",
+      "hot_value": "89 万热度",
+      "index": 18
+    },
+    {
+      "title": "想知道现在 iPad 加个键盘就可以用作笔记本电脑了，大学生做课堂笔记还需要买笔记本电脑吗？",
+      "url": "https://www.zhihu.com/question/2063239296660906231",
+      "hot_value": "80 万热度",
+      "index": 19
+    },
+    {
+      "title": "《最终幻想 7》重制总监称不愿重制《最终幻想 6》，其重制难点在哪里？",
+      "url": "https://www.zhihu.com/question/2065717471936508734",
+      "hot_value": "79 万热度",
+      "index": 20
+    },
+    {
+      "title": "5 元水饺 4 元面馆，一批低价餐饮爆火，真能赚到钱吗？背后是怎样的商业逻辑？",
+      "url": "https://www.zhihu.com/question/2065429603510740131",
+      "hot_value": "76 万热度",
+      "index": 21
+    },
+    {
+      "title": "「猫不是咬不动是怕咬着你」这句话，在多大程度上是猫咪行为的真实写照？",
+      "url": "https://www.zhihu.com/question/1984318942811021405",
+      "hot_value": "76 万热度",
+      "index": 22
     },
     {
       "title": "deepseek 能否用来翻译书？",
       "url": "https://www.zhihu.com/question/13242386490",
-      "hot_value": "66 万热度",
+      "hot_value": "75 万热度",
+      "index": 23
+    },
+    {
+      "title": "狗在野外会否野化成狼？",
+      "url": "https://www.zhihu.com/question/35365953",
+      "hot_value": "75 万热度",
+      "index": 24
+    },
+    {
+      "title": "菲尔兹奖如何防止高龄数学家将自己的成果偷偷传授给不满 40 岁的年轻数学家以获奖？",
+      "url": "https://www.zhihu.com/question/2065614516616950087",
+      "hot_value": "75 万热度",
       "index": 25
     },
     {
-      "title": "辽宁省哪个城市更宜居？",
-      "url": "https://www.zhihu.com/question/627559351",
-      "hot_value": "63 万热度",
+      "title": "电影《痴迷》的女主到底是被附身还是夺舍？",
+      "url": "https://www.zhihu.com/question/2060984687011558326",
+      "hot_value": "74 万热度",
       "index": 26
     },
     {
-      "title": "你看过特别有趣的书可以推荐一二吗？",
-      "url": "https://www.zhihu.com/question/665498618",
-      "hot_value": "62 万热度",
+      "title": "1.5 万机票退票仅退 432 元，曝光后获全额退款，问题出在哪？这次胜利能否撬动天价退票费规则？",
+      "url": "https://www.zhihu.com/question/2066088472851341477",
+      "hot_value": "72 万热度",
       "index": 27
     },
     {
-      "title": "有什么真现代操作系统的书吗？",
-      "url": "https://www.zhihu.com/question/5804859313",
-      "hot_value": "61 万热度",
+      "title": "各位好，我写小说总是拖沓 经常困在人物对话里而无法推动剧情，要么就是一直推动没有对话，请问怎么解决？",
+      "url": "https://www.zhihu.com/question/2041703515253379098",
+      "hot_value": "68 万热度",
       "index": 28
     },
     {
-      "title": "token 不够用怎么办？",
-      "url": "https://www.zhihu.com/question/2020991819006132399",
-      "hot_value": "61 万热度",
+      "title": "如何看待董宇辉与周星驰的直播互动？",
+      "url": "https://www.zhihu.com/question/2065928846315205455",
+      "hot_value": "68 万热度",
       "index": 29
     },
     {
-      "title": "考取驾照后，怎么练才能、达到什么程度才算真正会开车？",
-      "url": "https://www.zhihu.com/question/609721072",
-      "hot_value": "61 万热度",
+      "title": "你通过哪些小习惯显著提升了生活质量？",
+      "url": "https://www.zhihu.com/question/1932343093870433454",
+      "hot_value": "67 万热度",
       "index": 30
     }
   ]
