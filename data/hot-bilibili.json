@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-30T20:44:58Z",
+  "update_time": "2026-07-31T08:10:22Z",
   "count": 30,
   "list": [
     {
-      "title": "抵抗者2026实机演示",
-      "url": "https://www.bilibili.com/video/BV1rW326hEKe",
-      "hot_value": "6760689播放",
+      "title": "小时候看不懂，长大后已是局中人",
+      "url": "https://www.bilibili.com/video/BV1qh3W6bEqf",
+      "hot_value": "2955991播放",
       "index": 1
     },
     {
-      "title": "小时候看不懂，长大后已是局中人",
-      "url": "https://www.bilibili.com/video/BV1qh3W6bEqf",
-      "hot_value": "738520播放",
+      "title": "抵抗者2026实机演示",
+      "url": "https://www.bilibili.com/video/BV1rW326hEKe",
+      "hot_value": "8546317播放",
       "index": 2
-    },
-    {
-      "title": "奇怪的玩具工厂 第五章 Part2，结局",
-      "url": "https://www.bilibili.com/video/BV1DT3x6XEYv",
-      "hot_value": "1463524播放",
-      "index": 3
-    },
-    {
-      "title": "【独家】《将夜》第16集 永字八法【4月国创】",
-      "url": "https://www.bilibili.com/video/BV1fn3J6SEWw",
-      "hot_value": "932729播放",
-      "index": 4
-    },
-    {
-      "title": "挑战从东北徒步到西藏( 十倍速1小时5分版）",
-      "url": "https://www.bilibili.com/video/BV1c4326hEkj",
-      "hot_value": "3048710播放",
-      "index": 5
     },
     {
       "title": "古罗马离谱习俗——两千年前的古罗马，开放程度与市井智慧，完全颠覆现代人的认知。",
       "url": "https://www.bilibili.com/video/BV1iAKb6xEEV",
-      "hot_value": "1350389播放",
-      "index": 6
-    },
-    {
-      "title": "孩子们，出了社会可没人惯着你",
-      "url": "https://www.bilibili.com/video/BV1gL3z6dEAQ",
-      "hot_value": "2076394播放",
-      "index": 7
-    },
-    {
-      "title": "【世界杯终局之战 续集】复仇者，冲锋！",
-      "url": "https://www.bilibili.com/video/BV1Dc3H63EUh",
-      "hot_value": "1469821播放",
-      "index": 8
+      "hot_value": "2508360播放",
+      "index": 3
     },
     {
       "title": "手绘469张！还原EVA主题曲",
       "url": "https://www.bilibili.com/video/BV1aP326jEi8",
-      "hot_value": "1469225播放",
-      "index": 9
-    },
-    {
-      "title": "在课堂上搞笑被抓了",
-      "url": "https://www.bilibili.com/video/BV1aj3n6GEyE",
-      "hot_value": "688016播放",
-      "index": 10
-    },
-    {
-      "title": "化身Superman！摩托老哥解锁新技能",
-      "url": "https://www.bilibili.com/video/BV1XU3z6AEQi",
-      "hot_value": "5549456播放",
-      "index": 11
-    },
-    {
-      "title": "《非霸凌不可吗》",
-      "url": "https://www.bilibili.com/video/BV1G93r6qEbU",
-      "hot_value": "2485105播放",
-      "index": 12
-    },
-    {
-      "title": "和解剖了4000具尸体的法医，一起看了影片中的尸体...",
-      "url": "https://www.bilibili.com/video/BV1QEgZ6rEGj",
-      "hot_value": "7786522播放",
-      "index": 13
+      "hot_value": "2060087播放",
+      "index": 4
     },
     {
       "title": "《灰境行者》全新预告丨PC测试定档9月",
       "url": "https://www.bilibili.com/video/BV1kx326wErM",
-      "hot_value": "1978083播放",
+      "hot_value": "3118802播放",
+      "index": 5
+    },
+    {
+      "title": "挑战从东北徒步到西藏( 十倍速1小时5分版）",
+      "url": "https://www.bilibili.com/video/BV1c4326hEkj",
+      "hot_value": "5071549播放",
+      "index": 6
+    },
+    {
+      "title": "当所有人随机获得英雄联盟的一个技能...【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1rw316ZEmM",
+      "hot_value": "2743260播放",
+      "index": 7
+    },
+    {
+      "title": "奇怪的玩具工厂 第五章 Part2，结局",
+      "url": "https://www.bilibili.com/video/BV1DT3x6XEYv",
+      "hot_value": "1881646播放",
+      "index": 8
+    },
+    {
+      "title": "孩子们，出了社会可没人惯着你",
+      "url": "https://www.bilibili.com/video/BV1gL3z6dEAQ",
+      "hot_value": "2423834播放",
+      "index": 9
+    },
+    {
+      "title": "争夺蜜瓜的修行【绝区零生日会】",
+      "url": "https://www.bilibili.com/video/BV1GS3z6aE1X",
+      "hot_value": "664530播放",
+      "index": 10
+    },
+    {
+      "title": "遗忘之海×海绵宝宝联动PV——出发！蟹堡王分店！",
+      "url": "https://www.bilibili.com/video/BV1V83b6vEaa",
+      "hot_value": "559155播放",
+      "index": 11
+    },
+    {
+      "title": "【第二集】🐧赛伊德：“我变成女孩了？！”🐧",
+      "url": "https://www.bilibili.com/video/BV1zL346TEuB",
+      "hot_value": "748168播放",
+      "index": 12
+    },
+    {
+      "title": "消耗40亿token，我做了个AI军官监督我学习【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1fJ3M6DELF",
+      "hot_value": "3075220播放",
+      "index": 13
+    },
+    {
+      "title": "国内极具挑战性的五大玩命景区，你敢来挑战吗？",
+      "url": "https://www.bilibili.com/video/BV1fT3F6oE5u",
+      "hot_value": "1390446播放",
       "index": 14
     },
     {
-      "title": "良子爬峨眉山晕倒，担架抬下山，路线还原，最后有好消息！",
-      "url": "https://www.bilibili.com/video/BV1J8326bEpZ",
-      "hot_value": "1918593播放",
+      "title": "这大狗叫魔了！",
+      "url": "https://www.bilibili.com/video/BV16U3164EYy",
+      "hot_value": "974557播放",
       "index": 15
-    },
-    {
-      "title": "媳妇跑了、被孤立7年后，这只企鹅爱上了二次元少女",
-      "url": "https://www.bilibili.com/video/BV1Z43y6QE2b",
-      "hot_value": "1365908播放",
-      "index": 16
     },
     {
       "title": "【花小烙】游隼：地球上俯冲速度最快的“鸟中战斗机”是如何炼成的？",
       "url": "https://www.bilibili.com/video/BV1UFge6qEty",
-      "hot_value": "483871播放",
+      "hot_value": "1637392播放",
+      "index": 16
+    },
+    {
+      "title": "王者荣耀这自动寻路太好用了，以后跑图方便了",
+      "url": "https://www.bilibili.com/video/BV1bC3h6eE1u",
+      "hot_value": "630882播放",
       "index": 17
+    },
+    {
+      "title": "比赛现场一片混乱😱你们不都是顶流蓝v吗？再吵我记名字了！",
+      "url": "https://www.bilibili.com/video/BV1E53B6qEsA",
+      "hot_value": "1607280播放",
+      "index": 18
+    },
+    {
+      "title": "媳妇跑了、被孤立7年后，这只企鹅爱上了二次元少女",
+      "url": "https://www.bilibili.com/video/BV1Z43y6QE2b",
+      "hot_value": "2067126播放",
+      "index": 19
+    },
+    {
+      "title": "来吧，互相伤害吧",
+      "url": "https://www.bilibili.com/video/BV1yJ3v6iEGR",
+      "hot_value": "1839853播放",
+      "index": 20
+    },
+    {
+      "title": "在课堂上搞笑被抓了",
+      "url": "https://www.bilibili.com/video/BV1aj3n6GEyE",
+      "hot_value": "1379317播放",
+      "index": 21
+    },
+    {
+      "title": "罕见龙卷风突袭，他3分钟内同时失去了父母和家当",
+      "url": "https://www.bilibili.com/video/BV1mu3W6CEZz",
+      "hot_value": "1387373播放",
+      "index": 22
+    },
+    {
+      "title": "屁股决定脑袋，所以买车先问问屁股",
+      "url": "https://www.bilibili.com/video/BV1TB346HEb2",
+      "hot_value": "783471播放",
+      "index": 23
+    },
+    {
+      "title": "《非霸凌不可吗》",
+      "url": "https://www.bilibili.com/video/BV1G93r6qEbU",
+      "hot_value": "3032079播放",
+      "index": 24
+    },
+    {
+      "title": "化身Superman！摩托老哥解锁新技能",
+      "url": "https://www.bilibili.com/video/BV1XU3z6AEQi",
+      "hot_value": "5953620播放",
+      "index": 25
     },
     {
       "title": "这扳机纪律你就学吧",
       "url": "https://www.bilibili.com/video/BV1RK3t6wEH1",
-      "hot_value": "687785播放",
-      "index": 18
+      "hot_value": "1603646播放",
+      "index": 26
     },
     {
-      "title": "当小白体育生第一次跑速耐",
-      "url": "https://www.bilibili.com/video/BV1nb326FEbn",
-      "hot_value": "2352651播放",
-      "index": 19
+      "title": "车规级外设？我爆改了一张电竞车座！红温玩家物理降温！",
+      "url": "https://www.bilibili.com/video/BV1xb3C6aEf4",
+      "hot_value": "1177988播放",
+      "index": 27
     },
     {
-      "title": "欧盟打算同时对抗中美",
-      "url": "https://www.bilibili.com/video/BV1Ja3q6KENJ",
-      "hot_value": "2477391播放",
-      "index": 20
-    },
-    {
-      "title": "柯洁拿下王中王冠军，地狱归来的棋圣",
-      "url": "https://www.bilibili.com/video/BV1Gx3468E93",
-      "hot_value": "380732播放",
-      "index": 21
-    },
-    {
-      "title": "和野人已经形成了一种禁忌的关系..",
-      "url": "https://www.bilibili.com/video/BV1Hy316cEK2",
-      "hot_value": "2240760播放",
-      "index": 22
-    },
-    {
-      "title": "一个人清理海浪冲上来的垃圾有人夸吗",
-      "url": "https://www.bilibili.com/video/BV19m3j6vE1S",
-      "hot_value": "1608600播放",
-      "index": 23
+      "title": "酒精与饮品",
+      "url": "https://www.bilibili.com/video/BV1qQ3F6oEYL",
+      "hot_value": "795701播放",
+      "index": 28
     },
     {
       "title": "《整改到胃》",
       "url": "https://www.bilibili.com/video/BV1ZS3p64Ejs",
-      "hot_value": "1129631播放",
-      "index": 24
-    },
-    {
-      "title": "【TF家族】《2026TF家族运动会》Day2（上）",
-      "url": "https://www.bilibili.com/video/BV1VJ3s6dEWs",
-      "hot_value": "887251播放",
-      "index": 25
-    },
-    {
-      "title": "热烈欢迎“苟师”孙浩！听说浩哥是个讲究人，今天看看他都用什么讲究物？（本期又名《热烈欢迎之孙浩打歌大舞台》",
-      "url": "https://www.bilibili.com/video/BV1xj3v6BEZ6",
-      "hot_value": "704388播放",
-      "index": 26
-    },
-    {
-      "title": "隔壁千万播放后被下架的视频！",
-      "url": "https://www.bilibili.com/video/BV1Dg3x6DEaj",
-      "hot_value": "1407691播放",
-      "index": 27
-    },
-    {
-      "title": "21岁小伙60万彩礼娶00后女生，2个月后就被女生杀害，死因竟是小伙太过讨好！",
-      "url": "https://www.bilibili.com/video/BV1fS3p64EhA",
-      "hot_value": "637265播放",
-      "index": 28
-    },
-    {
-      "title": "用MC还原EVA终主题曲《One Last Kiss》",
-      "url": "https://www.bilibili.com/video/BV1Qq3k6TEs5",
-      "hot_value": "801082播放",
+      "hot_value": "1664469播放",
       "index": 29
     },
     {
-      "title": "180卢比成吉思鸡套餐，依旧撑爆鳞片",
-      "url": "https://www.bilibili.com/video/BV15g3n6jEk1",
-      "hot_value": "1045949播放",
+      "title": "你的止痛药吵到我了知不知道  【三角洲自制动画】",
+      "url": "https://www.bilibili.com/video/BV1wQ346kEuY",
+      "hot_value": "473325播放",
       "index": 30
     }
   ]
