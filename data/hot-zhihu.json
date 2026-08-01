@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-01T15:47:36Z",
+  "update_time": "2026-08-01T20:12:52Z",
   "count": 30,
   "list": [
     {
-      "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
-      "url": "https://www.zhihu.com/question/2066605797186823402",
-      "hot_value": "1278 万热度",
+      "title": "如何看待在柯洁夺冠后，围棋主播张学斌称「柯洁夺冠对职业围棋未必是好事」？",
+      "url": "https://www.zhihu.com/question/2066226857570039487",
+      "hot_value": "379 万热度",
       "index": 1
+    },
+    {
+      "title": "如何评价萨迪·辛克在《蜘蛛侠：崭新之日》饰演的琴·葛蕾？",
+      "url": "https://www.zhihu.com/question/2066099618090312150",
+      "hot_value": "347 万热度",
+      "index": 2
     },
     {
       "title": "如何评价董润年导演，张若昀、白客主演的喜剧电影《年会不能停！2》？",
       "url": "https://www.zhihu.com/question/2064447909656105834",
-      "hot_value": "542 万热度",
-      "index": 2
-    },
-    {
-      "title": "如何看待在柯洁夺冠后，围棋主播张学斌称「柯洁夺冠对职业围棋未必是好事」？",
-      "url": "https://www.zhihu.com/question/2066226857570039487",
-      "hot_value": "385 万热度",
+      "hot_value": "305 万热度",
       "index": 3
     },
     {
-      "title": "喝酒的乐趣是什么？",
-      "url": "https://www.zhihu.com/question/24896114",
-      "hot_value": "371 万热度",
+      "title": "LPL2026 赛季第三赛段组内赛 JDG 0:2 BLG，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2067009205765198492",
+      "hot_value": "149 万热度",
       "index": 4
-    },
-    {
-      "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
-      "url": "https://www.zhihu.com/question/2066620089789407496",
-      "hot_value": "368 万热度",
-      "index": 5
     },
     {
       "title": "已经复读一年，被中流 985 物理拔尖班录取，但不甘心，还有必要读高五吗？",
       "url": "https://www.zhihu.com/question/2065535209718780703",
-      "hot_value": "364 万热度",
+      "hot_value": "148 万热度",
+      "index": 5
+    },
+    {
+      "title": "多家大行重启 5 年期大额存单，利率最高 1.8%，20 万起存，释放什么信号？普通储户值得入手吗？",
+      "url": "https://www.zhihu.com/question/2066179717942850839",
+      "hot_value": "147 万热度",
       "index": 6
     },
     {
       "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
       "url": "https://www.zhihu.com/question/2066835566323136078",
-      "hot_value": "361 万热度",
+      "hot_value": "145 万热度",
       "index": 7
     },
     {
       "title": "我朋友去面试，公司规模不大，他侧面了解这个岗位，年年都在招聘，根本留不住人，他犹豫到底要不要去上班？",
       "url": "https://www.zhihu.com/question/2016782422293890125",
-      "hot_value": "359 万热度",
+      "hot_value": "145 万热度",
       "index": 8
     },
     {
-      "title": "如何看待董宇辉称自己看过至少 500 遍《大话西游》，看 500 遍《大话西游》是什么概念？",
-      "url": "https://www.zhihu.com/question/2066124597305652933",
-      "hot_value": "358 万热度",
+      "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
+      "url": "https://www.zhihu.com/question/2066605797186823402",
+      "hot_value": "144 万热度",
       "index": 9
     },
     {
       "title": "比之成龙、洪金宝，元彪到底欠缺了什么？",
       "url": "https://www.zhihu.com/question/2065535736439387225",
-      "hot_value": "345 万热度",
+      "hot_value": "143 万热度",
       "index": 10
     },
     {
       "title": "针对综艺节目中情绪失控，脱口秀演员「房主任」发布视频道歉，你如何看待？",
       "url": "https://www.zhihu.com/question/2066803381927146362",
-      "hot_value": "339 万热度",
+      "hot_value": "143 万热度",
       "index": 11
     },
     {
-      "title": "如何评价萨迪·辛克在《蜘蛛侠：崭新之日》饰演的琴·葛蕾？",
-      "url": "https://www.zhihu.com/question/2066099618090312150",
-      "hot_value": "333 万热度",
+      "title": "如果把地球的水都倒掉，地球会是什么形状？",
+      "url": "https://www.zhihu.com/question/2064289050241012402",
+      "hot_value": "143 万热度",
       "index": 12
     },
     {
       "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
       "url": "https://www.zhihu.com/question/2066595452238160814",
-      "hot_value": "302 万热度",
+      "hot_value": "141 万热度",
       "index": 13
-    },
-    {
-      "title": "最近内存、存储甚至显卡涨价，一个个都说自己要当等等党，等到 2040 年能成功吗？",
-      "url": "https://www.zhihu.com/question/2065533036477915827",
-      "hot_value": "271 万热度",
-      "index": 14
-    },
-    {
-      "title": "寒武纪给超 8 成员工发放股票激励，人均 160 万元，为什么要如此「重赏」？对企业发展有何影响？",
-      "url": "https://www.zhihu.com/question/2066172239116853500",
-      "hot_value": "258 万热度",
-      "index": 15
-    },
-    {
-      "title": "多家大行重启 5 年期大额存单，利率最高 1.8%，20 万起存，释放什么信号？普通储户值得入手吗？",
-      "url": "https://www.zhihu.com/question/2066179717942850839",
-      "hot_value": "239 万热度",
-      "index": 16
-    },
-    {
-      "title": "2023 年《长安三万里》火了，追光动画为啥不趁热再出个宋代版甚至屈原版？非要什么都试搞成现在这样？",
-      "url": "https://www.zhihu.com/question/2062265045736862756",
-      "hot_value": "227 万热度",
-      "index": 17
     },
     {
       "title": "个贷新规 8 月 1 日起实施，银行个贷综合融资成本上限公布，所有息费统一折算年化，对普通人借钱意味着什么？",
       "url": "https://www.zhihu.com/question/2066825729162195132",
-      "hot_value": "205 万热度",
-      "index": 18
-    },
-    {
-      "title": "「白海豚」爆发式增强，已成超强台风，中心最大风力 17 级，或直奔华东，最新动向如何？应做好哪些应对？",
-      "url": "https://www.zhihu.com/question/2065082521570600023",
-      "hot_value": "186 万热度",
-      "index": 19
-    },
-    {
-      "title": "如果把地球的水都倒掉，地球会是什么形状？",
-      "url": "https://www.zhihu.com/question/2064289050241012402",
-      "hot_value": "155 万热度",
-      "index": 20
-    },
-    {
-      "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-      "url": "https://www.zhihu.com/question/2066223484309434997",
-      "hot_value": "149 万热度",
-      "index": 21
+      "hot_value": "139 万热度",
+      "index": 14
     },
     {
       "title": "被称作「国产萨莉亚」的魏家凉皮大范围涨价，多款产品涨幅达 20%，如何看待该商业策略？你还愿意消费吗？",
       "url": "https://www.zhihu.com/question/2066181294938232007",
-      "hot_value": "119 万热度",
+      "hot_value": "131 万热度",
+      "index": 15
+    },
+    {
+      "title": "寒武纪给超 8 成员工发放股票激励，人均 160 万元，为什么要如此「重赏」？对企业发展有何影响？",
+      "url": "https://www.zhihu.com/question/2066172239116853500",
+      "hot_value": "118 万热度",
+      "index": 16
+    },
+    {
+      "title": "喝酒的乐趣是什么？",
+      "url": "https://www.zhihu.com/question/24896114",
+      "hot_value": "117 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何看待董宇辉称自己看过至少 500 遍《大话西游》，看 500 遍《大话西游》是什么概念？",
+      "url": "https://www.zhihu.com/question/2066124597305652933",
+      "hot_value": "111 万热度",
+      "index": 18
+    },
+    {
+      "title": "最近内存、存储甚至显卡涨价，一个个都说自己要当等等党，等到 2040 年能成功吗？",
+      "url": "https://www.zhihu.com/question/2065533036477915827",
+      "hot_value": "106 万热度",
+      "index": 19
+    },
+    {
+      "title": "2023 年《长安三万里》火了，追光动画为啥不趁热再出个宋代版甚至屈原版？非要什么都试搞成现在这样？",
+      "url": "https://www.zhihu.com/question/2062265045736862756",
+      "hot_value": "94 万热度",
+      "index": 20
+    },
+    {
+      "title": "「白海豚」爆发式增强，已成超强台风，中心最大风力 17 级，或直奔华东，最新动向如何？应做好哪些应对？",
+      "url": "https://www.zhihu.com/question/2065082521570600023",
+      "hot_value": "82 万热度",
+      "index": 21
+    },
+    {
+      "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+      "url": "https://www.zhihu.com/question/2066223484309434997",
+      "hot_value": "82 万热度",
       "index": 22
     },
     {
-      "title": "如何看待活塞不愿给杜伦提供 5 年 2.87 亿顶薪，球员更可能接受资质报价？",
-      "url": "https://www.zhihu.com/question/2066521185072969415",
-      "hot_value": "98 万热度",
+      "title": "普通人读《资治通鉴》能收获什么？",
+      "url": "https://www.zhihu.com/question/501390834",
+      "hot_value": "79 万热度",
       "index": 23
     },
     {
-      "title": "《凡人修仙传》185 集观众满意吗？",
-      "url": "https://www.zhihu.com/question/2066310806795555639",
-      "hot_value": "79 万热度",
+      "title": "孩子玩具被抢只会哭着找我，我该教他「谦让是美德」还是直接抢回来？这届家长到底该怎么教孩子处理冲突？",
+      "url": "https://www.zhihu.com/question/2006397004088120940",
+      "hot_value": "78 万热度",
       "index": 24
     },
     {
-      "title": "如何评价漫画《实衣与山田》？",
-      "url": "https://www.zhihu.com/question/2006066280562714331",
+      "title": "真正能使人不断成长的内生动力是什么？",
+      "url": "https://www.zhihu.com/question/1963171499696423319",
       "hot_value": "74 万热度",
       "index": 25
     },
     {
-      "title": "如何从心理学角度看待「人们常常容易被同一类人吸引」？这是成立的吗？",
-      "url": "https://www.zhihu.com/question/661850860",
-      "hot_value": "72 万热度",
+      "title": "古巴为什么反美？",
+      "url": "https://www.zhihu.com/question/1998748225532870699",
+      "hot_value": "71 万热度",
       "index": 26
     },
     {
-      "title": "夏天穿拖鞋还有必要穿袜子吗？",
-      "url": "https://www.zhihu.com/question/2051034061112604562",
-      "hot_value": "69 万热度",
+      "title": "独立游戏开发者越来越多，但真正能赚钱的很少，你觉得这是为什么？",
+      "url": "https://www.zhihu.com/question/1996862710000943429",
+      "hot_value": "71 万热度",
       "index": 27
     },
     {
-      "title": "迪丽热巴出道这么多年 为什么能一直长红？",
-      "url": "https://www.zhihu.com/question/2049101136112645958",
+      "title": "数据科学与大数据技术、信息与计算科学、统计学哪个前景最好啊？",
+      "url": "https://www.zhihu.com/question/14027057349",
       "hot_value": "66 万热度",
       "index": 28
     },
     {
-      "title": "你玩过的游戏中哪款体验最好？",
-      "url": "https://www.zhihu.com/question/2066896703991633887",
+      "title": "作为高一学生，应该读什么书能够让我摆脱虚无主义的痛苦?",
+      "url": "https://www.zhihu.com/question/1928898707694269050",
       "hot_value": "61 万热度",
       "index": 29
     },
     {
-      "title": "王虹为什么懂法语，以及王虹的英语（包含口语）是什么时候学的？",
-      "url": "https://www.zhihu.com/question/2065435663818830022",
+      "title": "如何评价米哈游《绝区零》3.1 周年版本「漫长的告别」主线剧情及卡池安排？",
+      "url": "https://www.zhihu.com/question/2065765311220126937",
       "hot_value": "59 万热度",
       "index": 30
     }
