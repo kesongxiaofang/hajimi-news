@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-07-31T20:43:46Z",
+  "update_time": "2026-08-01T00:13:40Z",
   "count": 30,
   "list": [
     {
       "title": "小时候看不懂，长大后已是局中人",
       "url": "https://www.bilibili.com/video/BV1qh3W6bEqf",
-      "hot_value": "4156093播放",
+      "hot_value": "4209476播放",
       "index": 1
-    },
-    {
-      "title": "《原神》7.0版本PV：「无神怜爱的雪国」",
-      "url": "https://www.bilibili.com/video/BV1EpGA6uEDX",
-      "hot_value": "1519142播放",
-      "index": 2
     },
     {
       "title": "《灰境行者》全新预告丨PC测试定档9月",
       "url": "https://www.bilibili.com/video/BV1kx326wErM",
-      "hot_value": "4417239播放",
+      "hot_value": "4699089播放",
+      "index": 2
+    },
+    {
+      "title": "《原神》7.0版本PV：「无神怜爱的雪国」",
+      "url": "https://www.bilibili.com/video/BV1EpGA6uEDX",
+      "hot_value": "1676963播放",
       "index": 3
     },
     {
       "title": "【纪录片】闪闪的儿科医生4 第10集 接棒！生命未完待续……",
       "url": "https://www.bilibili.com/video/BV1qQ316sEVK",
-      "hot_value": "544547播放",
+      "hot_value": "604810播放",
       "index": 4
     },
     {
       "title": "我们拍到了水下风暴",
       "url": "https://www.bilibili.com/video/BV1c7GA6kEqN",
-      "hot_value": "917684播放",
+      "hot_value": "1072406播放",
       "index": 5
+    },
+    {
+      "title": "太初神宗的故事（合集）",
+      "url": "https://www.bilibili.com/video/BV1mz346DEZt",
+      "hot_value": "1080091播放",
+      "index": 6
     },
     {
       "title": "《原神》7.0版本「无神怜爱的雪国」前瞻特别节目",
       "url": "https://www.bilibili.com/video/BV1k5GA6CE3r",
-      "hot_value": "779458播放",
-      "index": 6
-    },
-    {
-      "title": "古罗马离谱习俗——两千年前的古罗马，开放程度与市井智慧，完全颠覆现代人的认知。",
-      "url": "https://www.bilibili.com/video/BV1iAKb6xEEV",
-      "hot_value": "3112956播放",
+      "hot_value": "843468播放",
       "index": 7
-    },
-    {
-      "title": "手绘469张！还原EVA主题曲",
-      "url": "https://www.bilibili.com/video/BV1aP326jEi8",
-      "hot_value": "2540010播放",
-      "index": 8
     },
     {
       "title": "争夺蜜瓜的修行【绝区零生日会】",
       "url": "https://www.bilibili.com/video/BV1GS3z6aE1X",
-      "hot_value": "1137753播放",
+      "hot_value": "1162940播放",
+      "index": 8
+    },
+    {
+      "title": "手绘469张！还原EVA主题曲",
+      "url": "https://www.bilibili.com/video/BV1aP326jEi8",
+      "hot_value": "2564319播放",
       "index": 9
     },
     {
       "title": "【纪录片】地球·劫后重生 中配版08 美洲洪水",
       "url": "https://www.bilibili.com/video/BV1vuKg6BEyM",
-      "hot_value": "666418播放",
+      "hot_value": "677104播放",
       "index": 10
     },
     {
-      "title": "你说得对，但这就是高考完暑假发生在我家的日常",
-      "url": "https://www.bilibili.com/video/BV1ja3y6JEiZ",
-      "hot_value": "811848播放",
+      "title": "😊什么样的结局才配得上这一路的颠沛流离……【一口气看完】",
+      "url": "https://www.bilibili.com/video/BV1vk3t6qEUL",
+      "hot_value": "220251播放",
       "index": 11
     },
     {
-      "title": "一条蛆的使命",
-      "url": "https://www.bilibili.com/video/BV1dv3y6jEsk",
-      "hot_value": "960969播放",
+      "title": "古罗马离谱习俗——两千年前的古罗马，开放程度与市井智慧，完全颠覆现代人的认知。",
+      "url": "https://www.bilibili.com/video/BV1iAKb6xEEV",
+      "hot_value": "3142156播放",
       "index": 12
-    },
-    {
-      "title": "《整改到胃》",
-      "url": "https://www.bilibili.com/video/BV1ZS3p64Ejs",
-      "hot_value": "3068177播放",
-      "index": 13
-    },
-    {
-      "title": "《次子就是次子》",
-      "url": "https://www.bilibili.com/video/BV17n3b6rEHs",
-      "hot_value": "1476328播放",
-      "index": 14
-    },
-    {
-      "title": "我 不 是 给（加了点音效）",
-      "url": "https://www.bilibili.com/video/BV1nZ3J6sE4d",
-      "hot_value": "448532播放",
-      "index": 15
-    },
-    {
-      "title": "太初神宗的故事（合集）",
-      "url": "https://www.bilibili.com/video/BV1mz346DEZt",
-      "hot_value": "996703播放",
-      "index": 16
-    },
-    {
-      "title": "一条视频看七月：韩国赌命梭哈，美国全球收费，这世界谁正常？",
-      "url": "https://www.bilibili.com/video/BV1dbGA6PEAt",
-      "hot_value": "597554播放",
-      "index": 17
     },
     {
       "title": "挑战从东北徒步到西藏( 十倍速1小时5分版）",
       "url": "https://www.bilibili.com/video/BV1c4326hEkj",
-      "hot_value": "5768134播放",
-      "index": 18
+      "hot_value": "5775572播放",
+      "index": 13
     },
     {
-      "title": "我的朋友患上了朊病毒病，我们眼睁睁地看着她忘记了眼前人",
-      "url": "https://www.bilibili.com/video/BV1MzGc6UEtT",
-      "hot_value": "780195播放",
-      "index": 19
+      "title": "一条视频看七月：韩国赌命梭哈，美国全球收费，这世界谁正常？",
+      "url": "https://www.bilibili.com/video/BV1dbGA6PEAt",
+      "hot_value": "651274播放",
+      "index": 14
     },
     {
-      "title": "来吧，互相伤害吧",
-      "url": "https://www.bilibili.com/video/BV1yJ3v6iEGR",
-      "hot_value": "2616282播放",
-      "index": 20
+      "title": "当你不小心进入了黑乌龟...",
+      "url": "https://www.bilibili.com/video/BV1TCGA69Eh2",
+      "hot_value": "824911播放",
+      "index": 15
     },
     {
-      "title": "在课堂上搞笑被抓了",
-      "url": "https://www.bilibili.com/video/BV1aj3n6GEyE",
-      "hot_value": "1775647播放",
-      "index": 21
-    },
-    {
-      "title": "化身Superman！摩托老哥解锁新技能",
-      "url": "https://www.bilibili.com/video/BV1XU3z6AEQi",
-      "hot_value": "6487746播放",
-      "index": 22
-    },
-    {
-      "title": "跨次元空间改造大作战！MC搭子闯关途中触及盲区⚡能顺利通关吗？",
-      "url": "https://www.bilibili.com/video/BV1kpgQ6yEhB",
-      "hot_value": "3655392播放",
-      "index": 23
-    },
-    {
-      "title": "奇怪的玩具工厂 第五章 Part2，结局",
-      "url": "https://www.bilibili.com/video/BV1DT3x6XEYv",
-      "hot_value": "2212132播放",
-      "index": 24
+      "title": "《次子就是次子》",
+      "url": "https://www.bilibili.com/video/BV17n3b6rEHs",
+      "hot_value": "1544779播放",
+      "index": 16
     },
     {
       "title": "成为蜘蛛侠的10年，荷兰弟对我说…【蛛联B合】",
       "url": "https://www.bilibili.com/video/BV1W8Gw6yEC9",
-      "hot_value": "308286播放",
-      "index": 25
+      "hot_value": "425658播放",
+      "index": 17
     },
     {
       "title": "你们起过最爆笑的外号是什么",
       "url": "https://www.bilibili.com/video/BV1TpGw6JEKH",
-      "hot_value": "590883播放",
+      "hot_value": "665679播放",
+      "index": 18
+    },
+    {
+      "title": "跟资本对赌！全场都说走 她非要赌上身家再贪一手！《一掷千金》",
+      "url": "https://www.bilibili.com/video/BV1VbGc6xEsJ",
+      "hot_value": "475040播放",
+      "index": 19
+    },
+    {
+      "title": "我的朋友患上了朊病毒病，我们眼睁睁地看着她忘记了眼前人",
+      "url": "https://www.bilibili.com/video/BV1MzGc6UEtT",
+      "hot_value": "818828播放",
+      "index": 20
+    },
+    {
+      "title": "奇怪的玩具工厂 第五章 Part2，结局",
+      "url": "https://www.bilibili.com/video/BV1DT3x6XEYv",
+      "hot_value": "2227786播放",
+      "index": 21
+    },
+    {
+      "title": "《整改到胃》",
+      "url": "https://www.bilibili.com/video/BV1ZS3p64Ejs",
+      "hot_value": "3138037播放",
+      "index": 22
+    },
+    {
+      "title": "一条蛆的使命",
+      "url": "https://www.bilibili.com/video/BV1dv3y6jEsk",
+      "hot_value": "974481播放",
+      "index": 23
+    },
+    {
+      "title": "在课堂上搞笑被抓了",
+      "url": "https://www.bilibili.com/video/BV1aj3n6GEyE",
+      "hot_value": "1795104播放",
+      "index": 24
+    },
+    {
+      "title": "跨次元空间改造大作战！MC搭子闯关途中触及盲区⚡能顺利通关吗？",
+      "url": "https://www.bilibili.com/video/BV1kpgQ6yEhB",
+      "hot_value": "3749484播放",
+      "index": 25
+    },
+    {
+      "title": "“ 恋 爱 大 师 ”2.0",
+      "url": "https://www.bilibili.com/video/BV1hD3x6sEcC",
+      "hot_value": "521507播放",
       "index": 26
     },
     {
-      "title": "《非霸凌不可吗》",
-      "url": "https://www.bilibili.com/video/BV1G93r6qEbU",
-      "hot_value": "3641554播放",
+      "title": "【第二集】🐧赛伊德：“我变成女孩了？！”🐧",
+      "url": "https://www.bilibili.com/video/BV1zL346TEuB",
+      "hot_value": "1383539播放",
       "index": 27
     },
     {
       "title": "当所有人随机获得英雄联盟的一个技能...【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1rw316ZEmM",
-      "hot_value": "3457121播放",
+      "hot_value": "3488494播放",
       "index": 28
     },
     {
       "title": "🍎不要让苹果穿这个啊喂！！（读评论）",
       "url": "https://www.bilibili.com/video/BV1ZZGc6vEkC",
-      "hot_value": "666222播放",
+      "hot_value": "705047播放",
       "index": 29
     },
     {
-      "title": "王者荣耀这自动寻路太好用了，以后跑图方便了",
-      "url": "https://www.bilibili.com/video/BV1bC3h6eE1u",
-      "hot_value": "1303370播放",
+      "title": "遗忘之海×海绵宝宝联动PV——出发！蟹堡王分店！",
+      "url": "https://www.bilibili.com/video/BV1V83b6vEaa",
+      "hot_value": "1112978播放",
       "index": 30
     }
   ]

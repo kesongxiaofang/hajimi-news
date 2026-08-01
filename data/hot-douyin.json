@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-07-31T20:43:46Z",
+  "update_time": "2026-08-01T00:13:40Z",
   "count": 30,
   "list": [
     {
-      "title": "吴宜泽无缘上海大师赛决赛",
-      "url": "https://www.douyin.com/search/%E5%90%B4%E5%AE%9C%E6%B3%BD%E6%97%A0%E7%BC%98%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%86%B3%E8%B5%9B?type=general",
-      "hot_value": "11101555",
+      "title": "八一建军节之际致敬中国军人",
+      "url": "https://www.douyin.com/search/%E5%85%AB%E4%B8%80%E5%BB%BA%E5%86%9B%E8%8A%82%E4%B9%8B%E9%99%85%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA?type=general",
+      "hot_value": "12108477",
       "index": 1
     },
     {
-      "title": "把盛夏交给火把节",
-      "url": "https://www.douyin.com/search/%E6%8A%8A%E7%9B%9B%E5%A4%8F%E4%BA%A4%E7%BB%99%E7%81%AB%E6%8A%8A%E8%8A%82?type=general",
-      "hot_value": "11044550",
+      "title": "吴宜泽无缘上海大师赛决赛",
+      "url": "https://www.douyin.com/search/%E5%90%B4%E5%AE%9C%E6%B3%BD%E6%97%A0%E7%BC%98%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%E5%86%B3%E8%B5%9B?type=general",
+      "hot_value": "12103937",
       "index": 2
     },
     {
       "title": "4万亿元将投向算力网建设",
       "url": "https://www.douyin.com/search/4%E4%B8%87%E4%BA%BF%E5%85%83%E5%B0%86%E6%8A%95%E5%90%91%E7%AE%97%E5%8A%9B%E7%BD%91%E5%BB%BA%E8%AE%BE?type=general",
-      "hot_value": "11028668",
+      "hot_value": "11783280",
       "index": 3
     },
     {
-      "title": "八一建军节之际致敬中国军人",
-      "url": "https://www.douyin.com/search/%E5%85%AB%E4%B8%80%E5%BB%BA%E5%86%9B%E8%8A%82%E4%B9%8B%E9%99%85%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA?type=general",
-      "hot_value": "10916475",
+      "title": "把盛夏交给火把节",
+      "url": "https://www.douyin.com/search/%E6%8A%8A%E7%9B%9B%E5%A4%8F%E4%BA%A4%E7%BB%99%E7%81%AB%E6%8A%8A%E8%8A%82?type=general",
+      "hot_value": "11402476",
       "index": 4
     },
     {
-      "title": "AI生成的作品算艺术吗",
-      "url": "https://www.douyin.com/search/AI%E7%94%9F%E6%88%90%E7%9A%84%E4%BD%9C%E5%93%81%E7%AE%97%E8%89%BA%E6%9C%AF%E5%90%97?type=general",
-      "hot_value": "10368965",
+      "title": "日本政府正式设立“国家情报局”",
+      "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%AD%A3%E5%BC%8F%E8%AE%BE%E7%AB%8B%E2%80%9C%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E2%80%9D?type=general",
+      "hot_value": "10634460",
       "index": 5
     },
     {
       "title": "非法移民冲击西班牙飞地边境",
       "url": "https://www.douyin.com/search/%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E5%86%B2%E5%87%BB%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A3%9E%E5%9C%B0%E8%BE%B9%E5%A2%83?type=general",
-      "hot_value": "10279584",
+      "hot_value": "10555547",
       "index": 6
     },
     {
       "title": "AC米兰传奇队长巴雷西去世",
       "url": "https://www.douyin.com/search/AC%E7%B1%B3%E5%85%B0%E4%BC%A0%E5%A5%87%E9%98%9F%E9%95%BF%E5%B7%B4%E9%9B%B7%E8%A5%BF%E5%8E%BB%E4%B8%96?type=general",
-      "hot_value": "9162188",
+      "hot_value": "9390054",
       "index": 7
     },
     {
-      "title": "日本政府正式设立“国家情报局”",
-      "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%AD%A3%E5%BC%8F%E8%AE%BE%E7%AB%8B%E2%80%9C%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E2%80%9D?type=general",
-      "hot_value": "8310599",
+      "title": "AI生成的作品算艺术吗",
+      "url": "https://www.douyin.com/search/AI%E7%94%9F%E6%88%90%E7%9A%84%E4%BD%9C%E5%93%81%E7%AE%97%E8%89%BA%E6%9C%AF%E5%90%97?type=general",
+      "hot_value": "9371799",
       "index": 8
     },
     {
       "title": "我的暑期限定solotrip",
       "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E6%9A%91%E6%9C%9F%E9%99%90%E5%AE%9Asolotrip?type=general",
-      "hot_value": "8016831",
+      "hot_value": "9332364",
       "index": 9
     },
     {
-      "title": "欧足联宣布抵制所有国际足联赛事",
-      "url": "https://www.douyin.com/search/%E6%AC%A7%E8%B6%B3%E8%81%94%E5%AE%A3%E5%B8%83%E6%8A%B5%E5%88%B6%E6%89%80%E6%9C%89%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E8%B5%9B%E4%BA%8B?type=general",
-      "hot_value": "7934248",
+      "title": "特斯拉辟谣剥离中国业务",
+      "url": "https://www.douyin.com/search/%E7%89%B9%E6%96%AF%E6%8B%89%E8%BE%9F%E8%B0%A3%E5%89%A5%E7%A6%BB%E4%B8%AD%E5%9B%BD%E4%B8%9A%E5%8A%A1?type=general",
+      "hot_value": "9310785",
       "index": 10
     },
     {
       "title": "国家电网原董事长辛保安被查",
       "url": "https://www.douyin.com/search/%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E4%BF%9D%E5%AE%89%E8%A2%AB%E6%9F%A5?type=general",
-      "hot_value": "7843294",
+      "hot_value": "9209249",
       "index": 11
     },
     {
-      "title": "职场人通勤motd",
-      "url": "https://www.douyin.com/search/%E8%81%8C%E5%9C%BA%E4%BA%BA%E9%80%9A%E5%8B%A4motd?type=general",
-      "hot_value": "7837622",
+      "title": "原神至冬版本前瞻",
+      "url": "https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC%E7%89%88%E6%9C%AC%E5%89%8D%E7%9E%BB?type=general",
+      "hot_value": "9190517",
       "index": 12
     },
     {
       "title": "河南两市可申领备孕补贴系谣言",
       "url": "https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E4%B8%A4%E5%B8%82%E5%8F%AF%E7%94%B3%E9%A2%86%E5%A4%87%E5%AD%95%E8%A1%A5%E8%B4%B4%E7%B3%BB%E8%B0%A3%E8%A8%80?type=general",
-      "hot_value": "7797894",
+      "hot_value": "8866593",
       "index": 13
     },
     {
-      "title": "胡锡进谈连云港火灾母女坠楼事件",
-      "url": "https://www.douyin.com/search/%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E8%BF%9E%E4%BA%91%E6%B8%AF%E7%81%AB%E7%81%BE%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC%E4%BA%8B%E4%BB%B6?type=general",
-      "hot_value": "7795546",
+      "title": "陈新武任重庆市代市长",
+      "url": "https://www.douyin.com/search/%E9%99%88%E6%96%B0%E6%AD%A6%E4%BB%BB%E9%87%8D%E5%BA%86%E5%B8%82%E4%BB%A3%E5%B8%82%E9%95%BF?type=general",
+      "hot_value": "8675550",
       "index": 14
     },
     {
-      "title": "原神至冬版本前瞻",
-      "url": "https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC%E7%89%88%E6%9C%AC%E5%89%8D%E7%9E%BB?type=general",
-      "hot_value": "7792188",
+      "title": "Uzi怀旧服表演赛",
+      "url": "https://www.douyin.com/search/Uzi%E6%80%80%E6%97%A7%E6%9C%8D%E8%A1%A8%E6%BC%94%E8%B5%9B?type=general",
+      "hot_value": "8624649",
       "index": 15
     },
     {
-      "title": "蜘蛛侠4结尾神来之笔",
-      "url": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%BB%93%E5%B0%BE%E7%A5%9E%E6%9D%A5%E4%B9%8B%E7%AC%94?type=general",
-      "hot_value": "7785662",
+      "title": "伊朗打击美军空中任务后勤保障枢纽",
+      "url": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E7%A9%BA%E4%B8%AD%E4%BB%BB%E5%8A%A1%E5%90%8E%E5%8B%A4%E4%BF%9D%E9%9A%9C%E6%9E%A2%E7%BA%BD?type=general",
+      "hot_value": "8487865",
       "index": 16
-    },
-    {
-      "title": "阿哲自制综艺蜥蜴头造型太炸裂了",
-      "url": "https://www.douyin.com/search/%E9%98%BF%E5%93%B2%E8%87%AA%E5%88%B6%E7%BB%BC%E8%89%BA%E8%9C%A5%E8%9C%B4%E5%A4%B4%E9%80%A0%E5%9E%8B%E5%A4%AA%E7%82%B8%E8%A3%82%E4%BA%86?type=general",
-      "hot_value": "7756518",
-      "index": 17
-    },
-    {
-      "title": "何秋亊的兔子小火人上线啦",
-      "url": "https://www.douyin.com/search/%E4%BD%95%E7%A7%8B%E4%BA%8A%E7%9A%84%E5%85%94%E5%AD%90%E5%B0%8F%E7%81%AB%E4%BA%BA%E4%B8%8A%E7%BA%BF%E5%95%A6?type=general",
-      "hot_value": "7750569",
-      "index": 18
-    },
-    {
-      "title": "总是为路边的小猫驻足算幼稚吗",
-      "url": "https://www.douyin.com/search/%E6%80%BB%E6%98%AF%E4%B8%BA%E8%B7%AF%E8%BE%B9%E7%9A%84%E5%B0%8F%E7%8C%AB%E9%A9%BB%E8%B6%B3%E7%AE%97%E5%B9%BC%E7%A8%9A%E5%90%97?type=general",
-      "hot_value": "7746627",
-      "index": 19
-    },
-    {
-      "title": "手瓦墨武曝光",
-      "url": "https://www.douyin.com/search/%E6%89%8B%E7%93%A6%E5%A2%A8%E6%AD%A6%E6%9B%9D%E5%85%89?type=general",
-      "hot_value": "7738672",
-      "index": 20
-    },
-    {
-      "title": "歌手冲刺赛第二场舞台",
-      "url": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%9C%BA%E8%88%9E%E5%8F%B0?type=general",
-      "hot_value": "7738620",
-      "index": 21
     },
     {
       "title": "凤凰传奇成都演唱会",
       "url": "https://www.douyin.com/search/%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "7729317",
-      "index": 22
+      "hot_value": "7784489",
+      "index": 17
     },
     {
-      "title": "罗正甩衣架版冷笑话说唱",
-      "url": "https://www.douyin.com/search/%E7%BD%97%E6%AD%A3%E7%94%A9%E8%A1%A3%E6%9E%B6%E7%89%88%E5%86%B7%E7%AC%91%E8%AF%9D%E8%AF%B4%E5%94%B1?type=general",
-      "hot_value": "7724709",
-      "index": 23
+      "title": "胡锡进谈连云港火灾母女坠楼事件",
+      "url": "https://www.douyin.com/search/%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E8%BF%9E%E4%BA%91%E6%B8%AF%E7%81%AB%E7%81%BE%E6%AF%8D%E5%A5%B3%E5%9D%A0%E6%A5%BC%E4%BA%8B%E4%BB%B6?type=general",
+      "hot_value": "7778771",
+      "index": 18
+    },
+    {
+      "title": "鞍山凌晨多人飙车炸街被警方处置",
+      "url": "https://www.douyin.com/search/%E9%9E%8D%E5%B1%B1%E5%87%8C%E6%99%A8%E5%A4%9A%E4%BA%BA%E9%A3%99%E8%BD%A6%E7%82%B8%E8%A1%97%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%A4%84%E7%BD%AE?type=general",
+      "hot_value": "7770552",
+      "index": 19
     },
     {
       "title": "母单恋综就该听单身人士的看法",
       "url": "https://www.douyin.com/search/%E6%AF%8D%E5%8D%95%E6%81%8B%E7%BB%BC%E5%B0%B1%E8%AF%A5%E5%90%AC%E5%8D%95%E8%BA%AB%E4%BA%BA%E5%A3%AB%E7%9A%84%E7%9C%8B%E6%B3%95?type=general",
-      "hot_value": "7723254",
-      "index": 24
+      "hot_value": "7726268",
+      "index": 20
     },
     {
       "title": "把快乐装进云朵里",
       "url": "https://www.douyin.com/search/%E6%8A%8A%E5%BF%AB%E4%B9%90%E8%A3%85%E8%BF%9B%E4%BA%91%E6%9C%B5%E9%87%8C?type=general",
-      "hot_value": "7709821",
-      "index": 25
+      "hot_value": "7709334",
+      "index": 21
     },
     {
-      "title": "CORTIS新歌MOTION上线",
-      "url": "https://www.douyin.com/search/CORTIS%E6%96%B0%E6%AD%8CMOTION%E4%B8%8A%E7%BA%BF?type=general",
-      "hot_value": "7707359",
-      "index": 26
-    },
-    {
-      "title": "洛克王国武斗酷猫",
-      "url": "https://www.douyin.com/search/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E6%AD%A6%E6%96%97%E9%85%B7%E7%8C%AB?type=general",
-      "hot_value": "7703311",
-      "index": 27
-    },
-    {
-      "title": "窝囊five哪凉快哪去",
-      "url": "https://www.douyin.com/search/%E7%AA%9D%E5%9B%8Afive%E5%93%AA%E5%87%89%E5%BF%AB%E5%93%AA%E5%8E%BB?type=general",
-      "hot_value": "7702167",
-      "index": 28
+      "title": "蜘蛛侠4结尾神来之笔",
+      "url": "https://www.douyin.com/search/%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%BB%93%E5%B0%BE%E7%A5%9E%E6%9D%A5%E4%B9%8B%E7%AC%94?type=general",
+      "hot_value": "7705118",
+      "index": 22
     },
     {
       "title": "台风白海豚最新路径有变",
       "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84%E6%9C%89%E5%8F%98?type=general",
-      "hot_value": "7696738",
+      "hot_value": "7703319",
+      "index": 23
+    },
+    {
+      "title": "罗文任河北省委书记",
+      "url": "https://www.douyin.com/search/%E7%BD%97%E6%96%87%E4%BB%BB%E6%B2%B3%E5%8C%97%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0?type=general",
+      "hot_value": "7701969",
+      "index": 24
+    },
+    {
+      "title": "罗正甩衣架版冷笑话说唱",
+      "url": "https://www.douyin.com/search/%E7%BD%97%E6%AD%A3%E7%94%A9%E8%A1%A3%E6%9E%B6%E7%89%88%E5%86%B7%E7%AC%91%E8%AF%9D%E8%AF%B4%E5%94%B1?type=general",
+      "hot_value": "7693682",
+      "index": 25
+    },
+    {
+      "title": "何秋亊的兔子小火人上线啦",
+      "url": "https://www.douyin.com/search/%E4%BD%95%E7%A7%8B%E4%BA%8A%E7%9A%84%E5%85%94%E5%AD%90%E5%B0%8F%E7%81%AB%E4%BA%BA%E4%B8%8A%E7%BA%BF%E5%95%A6?type=general",
+      "hot_value": "7685410",
+      "index": 26
+    },
+    {
+      "title": "九门吴老狗不识字",
+      "url": "https://www.douyin.com/search/%E4%B9%9D%E9%97%A8%E5%90%B4%E8%80%81%E7%8B%97%E4%B8%8D%E8%AF%86%E5%AD%97?type=general",
+      "hot_value": "7672521",
+      "index": 27
+    },
+    {
+      "title": "洛克王国武斗酷猫",
+      "url": "https://www.douyin.com/search/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E6%AD%A6%E6%96%97%E9%85%B7%E7%8C%AB?type=general",
+      "hot_value": "7672519",
+      "index": 28
+    },
+    {
+      "title": "歌手冲刺赛第二场舞台",
+      "url": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B%E5%86%B2%E5%88%BA%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%9C%BA%E8%88%9E%E5%8F%B0?type=general",
+      "hot_value": "7671935",
       "index": 29
     },
     {
       "title": "我想要个潇洒的以后",
       "url": "https://www.douyin.com/search/%E6%88%91%E6%83%B3%E8%A6%81%E4%B8%AA%E6%BD%87%E6%B4%92%E7%9A%84%E4%BB%A5%E5%90%8E?type=general",
-      "hot_value": "7694143",
+      "hot_value": "7671565",
       "index": 30
     }
   ]
