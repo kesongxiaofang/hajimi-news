@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-01T00:13:40Z",
+  "update_time": "2026-08-01T08:56:17Z",
   "count": 30,
   "list": [
     {
-      "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗？",
-      "url": "https://www.zhihu.com/question/2066479058599113686",
-      "hot_value": "252 万热度",
+      "title": "《国务院关于出境入境管理的规定》将于 9 月 15 日起施行，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2066576404393583263",
+      "hot_value": "1203 万热度",
       "index": 1
     },
     {
-      "title": "徐福记突发声明称拼多多店铺非官方自营，网传纠纷原因为个体商家为报复平台秒退款，具体什么情况？",
-      "url": "https://www.zhihu.com/question/2065846000862720837",
-      "hot_value": "219 万热度",
+      "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+      "url": "https://www.zhihu.com/question/2066223484309434997",
+      "hot_value": "634 万热度",
       "index": 2
     },
     {
-      "title": "马特·达蒙中国宣传《奥德赛》，谈及电影《长城》直言「好莱坞让张艺谋失望了」，怎样理解这一说法？",
-      "url": "https://www.zhihu.com/question/2066461420372190170",
-      "hot_value": "176 万热度",
+      "title": "字节系在移动互联网用户时长的占比升至  40.1%，正式超越腾讯系的 29.7%，你怎么看？",
+      "url": "https://www.zhihu.com/question/2066465522137260391",
+      "hot_value": "559 万热度",
       "index": 3
     },
     {
-      "title": "如何评价凡人修仙传 182 集再做修改？",
-      "url": "https://www.zhihu.com/question/2066206247049753794",
-      "hot_value": "159 万热度",
+      "title": "自己暂时没有开车需求，却不断被父母催着考驾照，有必要为了「以后总会用到」现在就学吗？",
+      "url": "https://www.zhihu.com/question/2065447454913335537",
+      "hot_value": "511 万热度",
       "index": 4
     },
     {
-      "title": "女子做支气管镜时身亡，丈夫称麻醉师全程玩手机，院方则称医生责任不大，卫健部门已介入，责任该如何认定？",
-      "url": "https://www.zhihu.com/question/2066454251669124944",
-      "hot_value": "138 万热度",
+      "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
+      "url": "https://www.zhihu.com/question/2066605797186823402",
+      "hot_value": "463 万热度",
       "index": 5
     },
     {
-      "title": "宇树科技 IPO 时间定了，8 月 10 日开启新股申购，怎样看待其市场前景？",
-      "url": "https://www.zhihu.com/question/2066287957024281069",
-      "hot_value": "115 万热度",
+      "title": "战鹰的「熬鹰杯」举办到第三届了，这项比赛今年有什么亮点吗？",
+      "url": "https://www.zhihu.com/question/2066508146441287245",
+      "hot_value": "395 万热度",
       "index": 6
     },
     {
-      "title": "如何评价华为盘古 5050 亿参数的 openPangu-2.0-Pro 模型及技术报告正式开源上线？",
-      "url": "https://www.zhihu.com/question/2066567142019786000",
-      "hot_value": "113 万热度",
+      "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
+      "url": "https://www.zhihu.com/question/2066835566323136078",
+      "hot_value": "384 万热度",
       "index": 7
+    },
+    {
+      "title": "青铜器普遍认同是金色的，现在都绿了一帮人说「美啊，美啊！」，原因是什么？",
+      "url": "https://www.zhihu.com/question/2049427129285321969",
+      "hot_value": "378 万热度",
+      "index": 8
+    },
+    {
+      "title": "如何评价最新发布的人民军队宣传片《制胜》？有哪些值得关注的细节？",
+      "url": "https://www.zhihu.com/question/2065877408276918979",
+      "hot_value": "372 万热度",
+      "index": 9
+    },
+    {
+      "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+      "url": "https://www.zhihu.com/question/2066599476764964006",
+      "hot_value": "367 万热度",
+      "index": 10
+    },
+    {
+      "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
+      "url": "https://www.zhihu.com/question/2066620089789407496",
+      "hot_value": "348 万热度",
+      "index": 11
     },
     {
       "title": "如何看待房主任因《姐姐当家 2》中不当言论，遭经纪公司禁演三个月？",
       "url": "https://www.zhihu.com/question/2066581443300569756",
-      "hot_value": "113 万热度",
-      "index": 8
-    },
-    {
-      "title": "如果有人抱着机关枪坠高楼，垂直向下持续开枪，能避免摔死吗？",
-      "url": "https://www.zhihu.com/question/7448099655",
-      "hot_value": "113 万热度",
-      "index": 9
-    },
-    {
-      "title": "为什么说「战士知道为什么而战很重要」？",
-      "url": "https://www.zhihu.com/question/796560164",
-      "hot_value": "113 万热度",
-      "index": 10
-    },
-    {
-      "title": "敦煌融媒体拟招聘的外籍主播已放弃聘任资格，当地已开展调查招聘合规性问题，还有哪些信息值得重点关注？",
-      "url": "https://www.zhihu.com/question/2066623656264820599",
-      "hot_value": "113 万热度",
-      "index": 11
-    },
-    {
-      "title": "codex 有哪些奇技淫巧？",
-      "url": "https://www.zhihu.com/question/2063557784394785882",
-      "hot_value": "113 万热度",
+      "hot_value": "338 万热度",
       "index": 12
     },
     {
-      "title": "为什么梦幻西游端游能活将近 19 年？",
-      "url": "https://www.zhihu.com/question/550082623",
-      "hot_value": "111 万热度",
+      "title": "「白海豚」爆发式增强，已成超强台风，中心最大风力 17 级，或直奔华东，最新动向如何？应做好哪些应对？",
+      "url": "https://www.zhihu.com/question/2065082521570600023",
+      "hot_value": "328 万热度",
       "index": 13
     },
     {
-      "title": "怎么看 Anthropic 公布的 Claude 也发生了沙箱逃逸，真实入侵了三家组织的事？",
-      "url": "https://www.zhihu.com/question/2066465758503252393",
-      "hot_value": "105 万热度",
+      "title": "喜羊羊新作画面疑似擦边，美羊羊抬手捂住裙摆引发争议，是过度解读吗？面向少儿的动画须把握怎样的创作边界？",
+      "url": "https://www.zhihu.com/question/2066829239035196838",
+      "hot_value": "253 万热度",
       "index": 14
     },
     {
-      "title": "连云港火灾丈夫曾喊「不要喷水」，火灾时高压水枪对人喷水，这会给人带来怎样的二次伤害？水蒸气会烫伤人吗？",
-      "url": "https://www.zhihu.com/question/2066521456100337329",
-      "hot_value": "105 万热度",
+      "title": "如何看待董宇辉称自己看过至少 500 遍《大话西游》，看 500 遍《大话西游》是什么概念？",
+      "url": "https://www.zhihu.com/question/2066124597305652933",
+      "hot_value": "231 万热度",
       "index": 15
     },
     {
-      "title": "好莱坞女星赞达亚 2026 年有 4 部电影上映，其中 3 部都是大片，她怎么崛起的？如何评价其演技？",
-      "url": "https://www.zhihu.com/question/2066119170039572343",
-      "hot_value": "104 万热度",
+      "title": "韩国股市今年以来第九次触发熔断机制，120 万人爆仓，但为什么对韩国人日常生活的冲击看起来好像并不明显？",
+      "url": "https://www.zhihu.com/question/2064266887324775991",
+      "hot_value": "206 万热度",
       "index": 16
     },
     {
-      "title": "如何评价柯洁夺冠后称「最近在琢磨别的几乎没花时间在围棋上，7 月份下棋不到 5 小时，不知道为什么就赢了」？",
-      "url": "https://www.zhihu.com/question/2066503028652204150",
-      "hot_value": "92 万热度",
+      "title": "虎鲸作为大型食肉动物为何对人类如此温和？",
+      "url": "https://www.zhihu.com/question/1915452192191681796",
+      "hot_value": "181 万热度",
       "index": 17
     },
     {
-      "title": "西班牙北非飞地休达遭遇大规模移民涌入，负责人直言边境已「完全崩溃」，目前情况如何?",
-      "url": "https://www.zhihu.com/question/2066407134779138989",
-      "hot_value": "90 万热度",
+      "title": "林如海不过是一个七品官，为何能娶到贾家的小姐？",
+      "url": "https://www.zhihu.com/question/8205928708",
+      "hot_value": "179 万热度",
       "index": 18
     },
     {
-      "title": "周星驰反向采访董宇辉，口称「辉哥」，坦言已无太大动力再出演，年纪大了，体能跟不上，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2066155942396350474",
-      "hot_value": "87 万热度",
+      "title": "光是有速度的，它的速度会降低吗？",
+      "url": "https://www.zhihu.com/question/3629624731",
+      "hot_value": "179 万热度",
       "index": 19
-    },
-    {
-      "title": "当开源权重大到没有人能部署,”开源“的实际意义还剩多少?",
-      "url": "https://www.zhihu.com/question/2064429823846568390",
-      "hot_value": "85 万热度",
-      "index": 20
     },
     {
       "title": "广西梧州一公职人员称领导私联医生询问病情，警方已立案，这涉嫌侵犯隐私吗？院方可向第三方透露患者病情吗？",
       "url": "https://www.zhihu.com/question/2066061932646197067",
-      "hot_value": "84 万热度",
+      "hot_value": "178 万热度",
+      "index": 20
+    },
+    {
+      "title": "如何看待 2026 年 7 月 31 日《原神》7.0 版本主题曲《至冬》重新启用陈致逸「足迹」PV 旧有旋律？",
+      "url": "https://www.zhihu.com/question/2066637302248560470",
+      "hot_value": "141 万热度",
       "index": 21
     },
     {
-      "title": "C 盘被不知名东西占满了，怎么清理?",
-      "url": "https://www.zhihu.com/question/14987433022",
-      "hot_value": "80 万热度",
+      "title": "如何评价华为拟向 Mesa 提交自研 GPU Vulkan 驱动，但要求保留闭源着色器编译器？",
+      "url": "https://www.zhihu.com/question/2066264273798670178",
+      "hot_value": "134 万热度",
       "index": 22
     },
     {
-      "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-      "url": "https://www.zhihu.com/question/2066288437683032785",
-      "hot_value": "79 万热度",
+      "title": "武汉一对父子历时 46 天骑行 3400 公里到拉萨，如何评价这种教育方式？如果有机会，你最想带孩子去哪里？",
+      "url": "https://www.zhihu.com/question/2066572338452062965",
+      "hot_value": "126 万热度",
       "index": 23
     },
     {
-      "title": "长鑫上市，对合肥普通市民能有影响吗？",
-      "url": "https://www.zhihu.com/question/2065114398650283660",
-      "hot_value": "79 万热度",
+      "title": "多家大行重启 5 年期大额存单，利率最高 1.8%，20 万起存，释放什么信号？普通储户值得入手吗？",
+      "url": "https://www.zhihu.com/question/2066179717942850839",
+      "hot_value": "116 万热度",
       "index": 24
     },
     {
-      "title": "日本作家东野圭吾去世，回想他的作品，有哪些情节让你真正感到震撼？",
-      "url": "https://www.zhihu.com/question/2065106531771572801",
-      "hot_value": "77 万热度",
+      "title": "个贷新规 8 月 1 日起实施，银行个贷综合融资成本上限公布，所有息费统一折算年化，对普通人借钱意味着什么？",
+      "url": "https://www.zhihu.com/question/2066825729162195132",
+      "hot_value": "113 万热度",
       "index": 25
     },
     {
-      "title": "你见过的最搞笑的穿帮镜头有哪些？",
-      "url": "https://www.zhihu.com/question/37096099",
-      "hot_value": "75 万热度",
+      "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
+      "url": "https://www.zhihu.com/question/2066465758503252393",
+      "hot_value": "112 万热度",
       "index": 26
     },
     {
-      "title": "为什么日本人的审美从以前的大和抚子变成了现在的元气少女？",
-      "url": "https://www.zhihu.com/question/2061739415513326263",
-      "hot_value": "73 万热度",
+      "title": "如何评价现在的年轻人，睡觉越来越不行了？",
+      "url": "https://www.zhihu.com/question/447722689",
+      "hot_value": "100 万热度",
       "index": 27
     },
     {
-      "title": "5 元水饺 4 元面馆，一批低价餐饮爆火，真能赚到钱吗？背后是怎样的商业逻辑？",
-      "url": "https://www.zhihu.com/question/2065429603510740131",
-      "hot_value": "66 万热度",
+      "title": "庄子在理论上头头是道，可他为什么不敢从政实施无为而治行大道？",
+      "url": "https://www.zhihu.com/question/1920841732855169165",
+      "hot_value": "91 万热度",
       "index": 28
     },
     {
-      "title": "如何评价 2026 年 7 月米哈游《原神》7.0 前瞻直播【无神怜爱的雪国】？",
-      "url": "https://www.zhihu.com/question/2066447691849192124",
-      "hot_value": "63 万热度",
+      "title": "曾被称为「三双王」的威斯布鲁克如今无人问津，如何评价他在 NBA 的职业生涯？",
+      "url": "https://www.zhihu.com/question/2066468055635465926",
+      "hot_value": "83 万热度",
       "index": 29
     },
     {
-      "title": "如何评价全球首部伊藤润二官方授权、亲自全程监修的 Netflix 台剧《聪明镇》？",
-      "url": "https://www.zhihu.com/question/2065493187284530321",
-      "hot_value": "63 万热度",
+      "title": "人到中年，什么最重要?",
+      "url": "https://www.zhihu.com/question/1921916216467002274",
+      "hot_value": "80 万热度",
       "index": 30
     }
   ]
