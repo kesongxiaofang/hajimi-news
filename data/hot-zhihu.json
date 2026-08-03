@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-03T12:39:34Z",
+  "update_time": "2026-08-03T19:00:26Z",
   "count": 30,
   "list": [
     {
-      "title": "住房公积金条例迎重大修订，装修、物业费被明确纳入范围，灵活就业人员可自愿缴存，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2067218440234985170",
-      "hot_value": "1208 万热度",
+      "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+      "url": "https://www.zhihu.com/question/2067512422555029717",
+      "hot_value": "554 万热度",
       "index": 1
     },
     {
-      "title": "康师傅冰红茶为何一次涨价就大幅丢失市场？",
-      "url": "https://www.zhihu.com/question/2063895390546563948",
-      "hot_value": "750 万热度",
+      "title": "消费者因银鹭抽奖码被提前核销维权，获赔后却被备注「敲诈」，企业后称财务失误，这个回应站得住脚吗？",
+      "url": "https://www.zhihu.com/question/2067542275152765264",
+      "hot_value": "360 万热度",
       "index": 2
     },
     {
-      "title": "精神科医生「10 级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
-      "url": "https://www.zhihu.com/question/2066913394364568113",
-      "hot_value": "330 万热度",
+      "title": "樊振东逆转张本智和，这场球到底神在哪？",
+      "url": "https://www.zhihu.com/question/2067255348658974721",
+      "hot_value": "256 万热度",
       "index": 3
     },
     {
       "title": "1.55 升哑铃造型矿泉水走红，这种创意设计能代替正规哑铃吗？你愿为这种创意买单吗？",
       "url": "https://www.zhihu.com/question/2066555609168568629",
-      "hot_value": "215 万热度",
+      "hot_value": "243 万热度",
       "index": 4
     },
     {
-      "title": "消费者因银鹭抽奖码被提前核销维权，获赔后却被备注「敲诈」，企业后称财务失误，这个回应站得住脚吗？",
-      "url": "https://www.zhihu.com/question/2067542275152765264",
-      "hot_value": "214 万热度",
+      "title": "精神科医生「10 级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
+      "url": "https://www.zhihu.com/question/2066913394364568113",
+      "hot_value": "220 万热度",
       "index": 5
     },
     {
-      "title": "为什么我觉得贵的耳机反倒不如几十块的好用呢？",
-      "url": "https://www.zhihu.com/question/2004137076707328548",
-      "hot_value": "210 万热度",
+      "title": "建设银行多网点试行午休制度，如何看待这一调整？网友反对称未来办业务会更难，你支持银行午休推广吗？",
+      "url": "https://www.zhihu.com/question/2067294066811856636",
+      "hot_value": "211 万热度",
       "index": 6
+    },
+    {
+      "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+      "url": "https://www.zhihu.com/question/2067545767003120313",
+      "hot_value": "202 万热度",
+      "index": 7
     },
     {
       "title": "巴基斯坦发生雪崩，10 人国际登山队全部遇难，中国登山者王钟遗体被冲到千米之下，雪山雪崩究竟有多危险？",
       "url": "https://www.zhihu.com/question/2066825720576398691",
-      "hot_value": "206 万热度",
-      "index": 7
-    },
-    {
-      "title": "多平台牛蛙抽检抗生素超标，为什么这类成分屡屡超标？吃了对身体有危害吗？购买时有办法辨别牛蛙是否安全吗？",
-      "url": "https://www.zhihu.com/question/2067556268080722795",
-      "hot_value": "204 万热度",
+      "hot_value": "175 万热度",
       "index": 8
     },
     {
-      "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
-      "url": "https://www.zhihu.com/question/2067534271393133838",
-      "hot_value": "202 万热度",
+      "title": "竹知了视频被投诉下架，对品牌来说，这类事情有没有更好的公关办法？你知道哪些可供借鉴的经典案例？",
+      "url": "https://www.zhihu.com/question/2067599395801883263",
+      "hot_value": "172 万热度",
       "index": 9
     },
     {
       "title": "一夜无梦才是高质量的睡眠是真的吗？",
       "url": "https://www.zhihu.com/question/2017951131049883567",
-      "hot_value": "201 万热度",
+      "hot_value": "160 万热度",
       "index": 10
     },
     {
-      "title": "哥哥离世两次请假被拒，男子返乡奔丧被辞退后起诉公司赔款，奔丧算「擅自离岗」吗？公司的行为违法了吗？",
-      "url": "https://www.zhihu.com/question/2066121773574369559",
-      "hot_value": "201 万热度",
+      "title": "多平台牛蛙抽检抗生素超标，为什么这类成分屡屡超标？吃了对身体有危害吗？购买时有办法辨别牛蛙是否安全吗？",
+      "url": "https://www.zhihu.com/question/2067556268080722795",
+      "hot_value": "155 万热度",
       "index": 11
-    },
-    {
-      "title": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？",
-      "url": "https://www.zhihu.com/question/2067550234776020574",
-      "hot_value": "201 万热度",
-      "index": 12
-    },
-    {
-      "title": "王宝强为何戏路比黄渤更宽？",
-      "url": "https://www.zhihu.com/question/2066441179537920711",
-      "hot_value": "192 万热度",
-      "index": 13
-    },
-    {
-      "title": "樊振东逆转张本智和，这场球到底神在哪？",
-      "url": "https://www.zhihu.com/question/2067255348658974721",
-      "hot_value": "181 万热度",
-      "index": 14
-    },
-    {
-      "title": "米哈游终止与云南昊曦文化传媒合作并将其列入黑名单，游戏厂商和内容创作者之间的合作还有哪些坑需要注意？",
-      "url": "https://www.zhihu.com/question/2067558770406683905",
-      "hot_value": "150 万热度",
-      "index": 15
     },
     {
       "title": "为什么截止目前，小米澎程 n70 max 全网不开放内饰评测？",
       "url": "https://www.zhihu.com/question/2067015006886032075",
-      "hot_value": "143 万热度",
-      "index": 16
-    },
-    {
-      "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
-      "url": "https://www.zhihu.com/question/2067512422555029717",
-      "hot_value": "116 万热度",
-      "index": 17
-    },
-    {
-      "title": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称昨晚接到调价通知，购机该趁早入手还是继续观望？",
-      "url": "https://www.zhihu.com/question/2067266099025011702",
-      "hot_value": "102 万热度",
-      "index": 18
-    },
-    {
-      "title": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
-      "url": "https://www.zhihu.com/question/2062848132044607495",
-      "hot_value": "99 万热度",
-      "index": 19
-    },
-    {
-      "title": "如何看待雷军在发布会最后说「晚安」被指营销？",
-      "url": "https://www.zhihu.com/question/2067158057784718693",
-      "hot_value": "99 万热度",
-      "index": 20
+      "hot_value": "149 万热度",
+      "index": 12
     },
     {
       "title": "米莱推出「让阿根廷再次伟大」改革，主动戴上「财政脚镣」，甚至禁止央行为财政融资，对此你怎么看？",
       "url": "https://www.zhihu.com/question/2067222221161078816",
+      "hot_value": "133 万热度",
+      "index": 13
+    },
+    {
+      "title": "如何看待蜘蛛侠片方呼吁拒绝屏摄，结果评论区很多人都在发《蜘蛛侠：崭新之日》屏摄？你怎么看屏摄这一行为？",
+      "url": "https://www.zhihu.com/question/2067362444213576792",
+      "hot_value": "129 万热度",
+      "index": 14
+    },
+    {
+      "title": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称昨晚接到调价通知，购机该趁早入手还是继续观望？",
+      "url": "https://www.zhihu.com/question/2067266099025011702",
+      "hot_value": "116 万热度",
+      "index": 15
+    },
+    {
+      "title": "2026 年手机市场大盘跌 3% 华为涨 24%，哪些因素导致「冰火两重天」？",
+      "url": "https://www.zhihu.com/question/2062848132044607495",
+      "hot_value": "115 万热度",
+      "index": 16
+    },
+    {
+      "title": "如何评价美剧《龙之家族 第三季》第七集？",
+      "url": "https://www.zhihu.com/question/2067554876889081115",
+      "hot_value": "113 万热度",
+      "index": 17
+    },
+    {
+      "title": "住房公积金条例迎重大修订，装修、物业费被明确纳入范围，灵活就业人员可自愿缴存，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2067218440234985170",
+      "hot_value": "105 万热度",
+      "index": 18
+    },
+    {
+      "title": "为什么琴葛蕾在大街上屠杀了那么多平民， 蜘蛛侠还把她放走？",
+      "url": "https://www.zhihu.com/question/2067534626999079319",
+      "hot_value": "101 万热度",
+      "index": 19
+    },
+    {
+      "title": "为什么好多人不想买新能源汽车？",
+      "url": "https://www.zhihu.com/question/2067315373137990163",
       "hot_value": "98 万热度",
+      "index": 20
+    },
+    {
+      "title": "公司 IT 提议，为员工设置打印用户 ID 和密码，限定打印数量，因为有人利用打印机给小孩打印作业，如何解？",
+      "url": "https://www.zhihu.com/question/2058465119013803631",
+      "hot_value": "92 万热度",
       "index": 21
     },
     {
-      "title": "如果我有每天一吨的可稳定供应的西葫芦炖茄子，可以发财吗？",
-      "url": "https://www.zhihu.com/question/2017228756352266760",
-      "hot_value": "91 万热度",
+      "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
+      "url": "https://www.zhihu.com/question/2067534271393133838",
+      "hot_value": "84 万热度",
       "index": 22
     },
     {
-      "title": "如何评价华为全新笔记本高能效 XE90 处理器性能？",
-      "url": "https://www.zhihu.com/question/2065934109432664496",
-      "hot_value": "87 万热度",
+      "title": "假如每年给你 10 万元，让你辞掉工作回老家种地，你愿意吗？",
+      "url": "https://www.zhihu.com/question/1979507827035874658",
+      "hot_value": "78 万热度",
       "index": 23
+    },
+    {
+      "title": "原神里你的第一位五星角色是谁?",
+      "url": "https://www.zhihu.com/question/1938581354431353543",
+      "hot_value": "77 万热度",
+      "index": 24
+    },
+    {
+      "title": "西蒙尼真的毁掉了阿尔瓦雷斯的灵气吗？",
+      "url": "https://www.zhihu.com/question/2058641274014638997",
+      "hot_value": "72 万热度",
+      "index": 25
+    },
+    {
+      "title": "学习基础的心理学知识，对生活有何作用？",
+      "url": "https://www.zhihu.com/question/660987297",
+      "hot_value": "69 万热度",
+      "index": 26
+    },
+    {
+      "title": "游戏《明日方舟：终末地》中，塔卫二历史上最伟大的人是谁？",
+      "url": "https://www.zhihu.com/question/2067676826403616590",
+      "hot_value": "61 万热度",
+      "index": 27
     },
     {
       "title": "为什么商博良一个人就破译了古埃及象形文字，而直到现在还有很多甲骨文没有被破译？",
       "url": "https://www.zhihu.com/question/503162307",
-      "hot_value": "81 万热度",
-      "index": 24
-    },
-    {
-      "title": "创业最折磨人的到底是什么？为什么很多人撑不住？",
-      "url": "https://www.zhihu.com/question/1993340498715373736",
-      "hot_value": "64 万热度",
-      "index": 25
-    },
-    {
-      "title": "在你们眼里有什么东西比「黄金」更重要？是什么原因让你觉得它比「黄金」的地位更重要？",
-      "url": "https://www.zhihu.com/question/2066528448470897398",
-      "hot_value": "61 万热度",
-      "index": 26
-    },
-    {
-      "title": "盒马、山姆等顶流商超接连布局县城，如何看待头部商超集体「下乡」这一趋势？县城消费力能否支撑其野心？",
-      "url": "https://www.zhihu.com/question/2066600913112753139",
-      "hot_value": "59 万热度",
-      "index": 27
-    },
-    {
-      "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
-      "url": "https://www.zhihu.com/question/2065010626171293829",
       "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "面对「好好读书走出大山」的评论，小孩回应「坐公交车就可以出去了」，这算不算一种很智慧的态度？",
-      "url": "https://www.zhihu.com/question/2067170309786924998",
+      "title": "为什么以前的商家是「宰生」，现在「杀熟」了？",
+      "url": "https://www.zhihu.com/question/275099819",
       "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "挺聪明的一个孩子，成绩也在班里前几名，就是不自觉，不爱学习，各位有什么办法吗？",
-      "url": "https://www.zhihu.com/question/1917853765861640018",
+      "title": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？",
+      "url": "https://www.zhihu.com/question/2067550234776020574",
       "hot_value": "59 万热度",
       "index": 30
     }
