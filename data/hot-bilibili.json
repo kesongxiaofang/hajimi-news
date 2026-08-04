@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-04T02:05:44Z",
+  "update_time": "2026-08-04T05:29:08Z",
   "count": 30,
   "list": [
     {
       "title": "【最闪暖的一集】闪暖七周年CG首曝 | 8月5日更新",
       "url": "https://www.bilibili.com/video/BV1xS396ZEUz",
-      "hot_value": "3283521播放",
+      "hot_value": "3630196播放",
       "index": 1
     },
     {
-      "title": "⚡对 对 子 战 神 9⚡",
-      "url": "https://www.bilibili.com/video/BV1p4MD6KEaM",
-      "hot_value": "827248播放",
+      "title": "《四驱兄弟》骗了我20年，直到我把真车改成了四驱车",
+      "url": "https://www.bilibili.com/video/BV1xtGV61Et4",
+      "hot_value": "3461578播放",
       "index": 2
     },
     {
       "title": "“当你凝视深渊时，深渊也在凝视你”",
       "url": "https://www.bilibili.com/video/BV1CuM96LEdH",
-      "hot_value": "572021播放",
+      "hot_value": "1040674播放",
       "index": 3
     },
     {
       "title": "【独家】《记忆管理局》第2集 陀螺，记忆层，管理员们【8月国创】",
       "url": "https://www.bilibili.com/video/BV1M6GA6dEtM",
-      "hot_value": "592241播放",
+      "hot_value": "622339播放",
       "index": 4
-    },
-    {
-      "title": "东百顶上战争",
-      "url": "https://www.bilibili.com/video/BV1xz3m63EgP",
-      "hot_value": "1466010播放",
-      "index": 5
-    },
-    {
-      "title": "猫咖续命计划",
-      "url": "https://www.bilibili.com/video/BV1JfGA6CEgg",
-      "hot_value": "895755播放",
-      "index": 6
     },
     {
       "title": "当黑客入侵我家摄像头将看到……",
       "url": "https://www.bilibili.com/video/BV1Lg3R65EZn",
-      "hot_value": "3467820播放",
-      "index": 7
+      "hot_value": "3932749播放",
+      "index": 5
     },
     {
-      "title": "“不存在能主动使出黑闪的咒术师，除非他是...”",
-      "url": "https://www.bilibili.com/video/BV1raMX66EvB",
-      "hot_value": "365147播放",
-      "index": 8
+      "title": "8月8日，我打算去寻宝，谁赞成，谁反对？",
+      "url": "https://www.bilibili.com/video/BV1SvMQ6UEKR",
+      "hot_value": "1875722播放",
+      "index": 6
+    },
+    {
+      "title": "猫咖续命计划",
+      "url": "https://www.bilibili.com/video/BV1JfGA6CEgg",
+      "hot_value": "1243656播放",
+      "index": 7
     },
     {
       "title": "过年的鞭炮声太吵，以后看你的时候我带上一束花",
       "url": "https://www.bilibili.com/video/BV1z9MQ6iEtv",
-      "hot_value": "1243308播放",
+      "hot_value": "1932052播放",
+      "index": 8
+    },
+    {
+      "title": "大家还想看我搬空什么店",
+      "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
+      "hot_value": "3338154播放",
       "index": 9
     },
     {
       "title": "【剧情】昭阳公主（2026）14【孔雪儿/李宏毅】（按姓氏笔画排序）",
       "url": "https://www.bilibili.com/video/BV1ST3v6yEGZ",
-      "hot_value": "396516播放",
+      "hot_value": "403759播放",
       "index": 10
-    },
-    {
-      "title": "大家还想看我搬空什么店",
-      "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
-      "hot_value": "3045304播放",
-      "index": 11
     },
     {
       "title": "完全看不懂中国网络梗的日本人，被40位中国人一人一句写出了一首神曲",
       "url": "https://www.bilibili.com/video/BV1TY3o6TEqR",
-      "hot_value": "1469136播放",
-      "index": 12
-    },
-    {
-      "title": "【半佛】小米澎程，让行业睡不着了？",
-      "url": "https://www.bilibili.com/video/BV1iFMX6aE9b",
-      "hot_value": "1446746播放",
-      "index": 13
-    },
-    {
-      "title": "这 期 神 了！",
-      "url": "https://www.bilibili.com/video/BV1ANMQ6gEz9",
-      "hot_value": "468882播放",
-      "index": 14
-    },
-    {
-      "title": "几十块入手世界级顶尖好物——居家用品篇",
-      "url": "https://www.bilibili.com/video/BV1Vo3C6VE1B",
-      "hot_value": "2613940播放",
-      "index": 15
-    },
-    {
-      "title": "陈翔六点半：已知的数字，未知的人",
-      "url": "https://www.bilibili.com/video/BV1Gz396iEa1",
-      "hot_value": "5631643播放",
-      "index": 16
-    },
-    {
-      "title": "当伪人全面入侵学校！",
-      "url": "https://www.bilibili.com/video/BV1RtM96wEHr",
-      "hot_value": "458058播放",
-      "index": 17
-    },
-    {
-      "title": "“以色列士兵正在快速接近我们”",
-      "url": "https://www.bilibili.com/video/BV1eCMD6sEEq",
-      "hot_value": "657719播放",
-      "index": 18
-    },
-    {
-      "title": "我的世界 但是「碰到经验」就会死亡？？！",
-      "url": "https://www.bilibili.com/video/BV1dNGV68EcW",
-      "hot_value": "72127播放",
-      "index": 19
-    },
-    {
-      "title": "老大，你的意思是我们抽烟抽的慢也得死吗？",
-      "url": "https://www.bilibili.com/video/BV126GG62E9G",
-      "hot_value": "6299750播放",
-      "index": 20
-    },
-    {
-      "title": "干空气肘击：台风白海豚确定影响我国，进入东海后有两种可能",
-      "url": "https://www.bilibili.com/video/BV14WMR69Eer",
-      "hot_value": "444182播放",
-      "index": 21
-    },
-    {
-      "title": "鲁豫对话钟美美：从13岁到19岁，欢迎来到成人世界 | 陈鲁豫·慢谈EP23【视频播客】",
-      "url": "https://www.bilibili.com/video/BV1CTGc66EFB",
-      "hot_value": "647727播放",
-      "index": 22
+      "hot_value": "1989828播放",
+      "index": 11
     },
     {
       "title": "柯洁与褚赢 列棋棋圣对决千岁老人",
       "url": "https://www.bilibili.com/video/BV1qFMX6aEJn",
-      "hot_value": "412870播放",
-      "index": 23
+      "hot_value": "790139播放",
+      "index": 12
+    },
+    {
+      "title": "几十块入手世界级顶尖好物——居家用品篇",
+      "url": "https://www.bilibili.com/video/BV1Vo3C6VE1B",
+      "hot_value": "2870375播放",
+      "index": 13
+    },
+    {
+      "title": "热搜上“仙桃电梯20秒”监控流出，炸出多少毁三观的成年巨婴",
+      "url": "https://www.bilibili.com/video/BV1G8Gc6REfA",
+      "hot_value": "3385383播放",
+      "index": 14
+    },
+    {
+      "title": "东百顶上战争",
+      "url": "https://www.bilibili.com/video/BV1xz3m63EgP",
+      "hot_value": "1706196播放",
+      "index": 15
+    },
+    {
+      "title": "老大，你的意思是我们抽烟抽的慢也得死吗？",
+      "url": "https://www.bilibili.com/video/BV126GG62E9G",
+      "hot_value": "6644450播放",
+      "index": 16
+    },
+    {
+      "title": "“不存在能主动使出黑闪的咒术师，除非他是...”",
+      "url": "https://www.bilibili.com/video/BV1raMX66EvB",
+      "hot_value": "610729播放",
+      "index": 17
     },
     {
       "title": "还来！！！！！！！！！！！",
       "url": "https://www.bilibili.com/video/BV1xwMQ6GEix",
-      "hot_value": "382463播放",
+      "hot_value": "648003播放",
+      "index": 18
+    },
+    {
+      "title": "【半佛】小米澎程，让行业睡不着了？",
+      "url": "https://www.bilibili.com/video/BV1iFMX6aE9b",
+      "hot_value": "1786339播放",
+      "index": 19
+    },
+    {
+      "title": "在电影《桥》的取景地，我遇见了正在修桥的中国人",
+      "url": "https://www.bilibili.com/video/BV1WE3v6TE7f",
+      "hot_value": "1512488播放",
+      "index": 20
+    },
+    {
+      "title": "当伪人全面入侵学校！",
+      "url": "https://www.bilibili.com/video/BV1RtM96wEHr",
+      "hot_value": "731659播放",
+      "index": 21
+    },
+    {
+      "title": "【MC】耗时一年制作真正能玩的赛博朋克世界！？丨RPG剧情向地图丨",
+      "url": "https://www.bilibili.com/video/BV1pt3x6gErU",
+      "hot_value": "1149623播放",
+      "index": 22
+    },
+    {
+      "title": "三锅演义：win 9斩华雄",
+      "url": "https://www.bilibili.com/video/BV1kUGg6YEFT",
+      "hot_value": "837661播放",
+      "index": 23
+    },
+    {
+      "title": "⚡对 对 子 战 神 9⚡",
+      "url": "https://www.bilibili.com/video/BV1p4MD6KEaM",
+      "hot_value": "1018232播放",
       "index": 24
     },
     {
-      "title": "英国新首相拯救英国的计划",
-      "url": "https://www.bilibili.com/video/BV15H3f6pEVd",
-      "hot_value": "1355559播放",
+      "title": "《零号档案》不存在的战友？耗时7天创作三角洲悬疑剧情短剧",
+      "url": "https://www.bilibili.com/video/BV1jk3z6TEQz",
+      "hot_value": "251668播放",
       "index": 25
     },
     {
-      "title": "你 吸 不 过 我 你 信 吗",
-      "url": "https://www.bilibili.com/video/BV1HA3o6ZEbL",
-      "hot_value": "2340368播放",
+      "title": "武 松 打 虎 ！",
+      "url": "https://www.bilibili.com/video/BV14B3f6rEfQ",
+      "hot_value": "929191播放",
       "index": 26
     },
     {
-      "title": "⚡️宗 主 连 携 技⚡️",
-      "url": "https://www.bilibili.com/video/BV1Nr3s6rE79",
-      "hot_value": "4149001播放",
+      "title": "当哥哥跟弟弟不同的年龄差",
+      "url": "https://www.bilibili.com/video/BV1RQ3X6qEPN",
+      "hot_value": "3815180播放",
       "index": 27
     },
     {
       "title": "鉴定咬伤粉丝的毒蛇(37)广西一男孩被五步蛇咬伤后毒牙断在了伤口里？",
       "url": "https://www.bilibili.com/video/BV1853z6xE7x",
-      "hot_value": "2563251播放",
+      "hot_value": "3923448播放",
       "index": 28
     },
     {
-      "title": "我修改了Minecraft的村民：",
-      "url": "https://www.bilibili.com/video/BV1TpGw6JExW",
-      "hot_value": "834695播放",
+      "title": "母牛忙着吃草找不到小牛向主人求助，主人开启“碎碎念”模式。网友：句句有回应，句句听不懂！",
+      "url": "https://www.bilibili.com/video/BV1j6MX6NEzM",
+      "hot_value": "1429701播放",
       "index": 29
     },
     {
-      "title": "印度种姓外溢，引爆全球排印主义！西方为何突然爆发排印主义？印度又为何死不废种姓制度？",
-      "url": "https://www.bilibili.com/video/BV1yHGu6AE14",
-      "hot_value": "1072675播放",
+      "title": "英国新首相拯救英国的计划",
+      "url": "https://www.bilibili.com/video/BV15H3f6pEVd",
+      "hot_value": "1482722播放",
       "index": 30
     }
   ]
