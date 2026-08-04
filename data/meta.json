@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-04T05:29:08Z",
+  "update_time": "2026-08-04T08:02:31Z",
   "platforms": [
     {
       "type": "weibo",
@@ -24,7 +24,8 @@
     {
       "type": "xiaohongshu",
       "name": "小红书热搜",
-      "count": 20
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "type": "kuaishou",
