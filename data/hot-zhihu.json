@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-04T22:07:42Z",
+  "update_time": "2026-08-04T23:32:17Z",
   "count": 30,
   "list": [
     {
-      "title": "外媒称美国拟禁止进口中国新型数据中心设备，此举将对中美科技竞争及全球数据产业带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2068088684528791862",
-      "hot_value": "171 万热度",
-      "index": 1
-    },
-    {
-      "title": "上海维也纳酒店客房遍布床虱，酒店反问为何不自行检查，卫生监督所称将立案处罚，谁的责任？床虱有哪些风险？",
-      "url": "https://www.zhihu.com/question/2067904199212232854",
-      "hot_value": "169 万热度",
-      "index": 2
-    },
-    {
       "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
       "url": "https://www.zhihu.com/question/2067544727931417556",
-      "hot_value": "151 万热度",
-      "index": 3
-    },
-    {
-      "title": "「发现好多大学生不懂邮件礼仪」上热搜，你认为这有必要纳入大学课程吗？",
-      "url": "https://www.zhihu.com/question/2067004574997730697",
-      "hot_value": "131 万热度",
-      "index": 4
-    },
-    {
-      "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷？",
-      "url": "https://www.zhihu.com/question/2067883838911377616",
-      "hot_value": "128 万热度",
-      "index": 5
+      "hot_value": "169 万热度",
+      "index": 1
     },
     {
       "title": "如何看待松岛辉空近日接受采访时说，只要拿到奥运会冠军，就算 21 岁，也会立即退役？",
       "url": "https://www.zhihu.com/question/2067891941233124072",
-      "hot_value": "125 万热度",
-      "index": 6
+      "hot_value": "117 万热度",
+      "index": 2
+    },
+    {
+      "title": "外媒称美国拟禁止进口中国新型数据中心设备，此举将对中美科技竞争及全球数据产业带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2068088684528791862",
+      "hot_value": "113 万热度",
+      "index": 3
+    },
+    {
+      "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷？",
+      "url": "https://www.zhihu.com/question/2067883838911377616",
+      "hot_value": "109 万热度",
+      "index": 4
     },
     {
       "title": "「精神小伙」一篇《致我十年未见的妈妈》获赞 200 万，看完这篇文章你有哪些感触？",
       "url": "https://www.zhihu.com/question/2067703500390097949",
-      "hot_value": "109 万热度",
-      "index": 7
+      "hot_value": "107 万热度",
+      "index": 5
     },
     {
       "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆？",
       "url": "https://www.zhihu.com/question/2067882801500836048",
-      "hot_value": "108 万热度",
-      "index": 8
-    },
-    {
-      "title": "现在几千块钱音响的音质，是否能秒杀 90 年代初十几万的音响？",
-      "url": "https://www.zhihu.com/question/2064454034640074374",
-      "hot_value": "105 万热度",
-      "index": 9
+      "hot_value": "107 万热度",
+      "index": 6
     },
     {
       "title": "2026 年 wtt 横滨冠军赛，周启豪 1：3 不敌松岛辉空止步男单 32 强，怎么评价这一场比赛？",
       "url": "https://www.zhihu.com/question/2068062107787064141",
-      "hot_value": "98 万热度",
+      "hot_value": "105 万热度",
+      "index": 7
+    },
+    {
+      "title": "如何评价丰田上半年全球销量 539 万，连续 7 年稳居全球第一？",
+      "url": "https://www.zhihu.com/question/2066505620371531312",
+      "hot_value": "100 万热度",
+      "index": 8
+    },
+    {
+      "title": "哈啰电车突然落锁致大学生十级伤残，交警多次调取后台数据失败，数据调取为什么这么难？还能如何取证？",
+      "url": "https://www.zhihu.com/question/2065477563548546516",
+      "hot_value": "95 万热度",
+      "index": 9
+    },
+    {
+      "title": "姆巴佩、哈兰德之后，谁最有希望成为下一代「球王」候选人？",
+      "url": "https://www.zhihu.com/question/2067602381546823765",
+      "hot_value": "93 万热度",
       "index": 10
     },
     {
       "title": "美日近 30 年来首次联手直接买入日元「围剿」空头，这是否能扭转日元长期贬值趋势？",
       "url": "https://www.zhihu.com/question/2067234430759047586",
-      "hot_value": "98 万热度",
+      "hot_value": "93 万热度",
       "index": 11
     },
     {
       "title": "王楚钦男单世界排名断层第一，前五仅剩一位中国选手，国乒面临哪些挑战？",
       "url": "https://www.zhihu.com/question/2067661424697123587",
-      "hot_value": "98 万热度",
+      "hot_value": "93 万热度",
       "index": 12
     },
     {
       "title": "歼 -20 部队将「飞行二大队 20 分钟覆灭耻辱记」永久悬挂，这体现了怎样的军事管理和训练理念？",
       "url": "https://www.zhihu.com/question/2067370559768367212",
-      "hot_value": "98 万热度",
+      "hot_value": "93 万热度",
       "index": 13
     },
     {
-      "title": "哈啰电车突然落锁致大学生十级伤残，交警多次调取后台数据失败，数据调取为什么这么难？还能如何取证？",
-      "url": "https://www.zhihu.com/question/2065477563548546516",
-      "hot_value": "97 万热度",
+      "title": "上海维也纳酒店客房遍布床虱，酒店反问为何不自行检查，卫生监督所称将立案处罚，谁的责任？床虱有哪些风险？",
+      "url": "https://www.zhihu.com/question/2067904199212232854",
+      "hot_value": "92 万热度",
       "index": 14
     },
     {
       "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事？",
       "url": "https://www.zhihu.com/question/2067920572915216640",
-      "hot_value": "94 万热度",
+      "hot_value": "91 万热度",
       "index": 15
     },
     {
-      "title": "姆巴佩、哈兰德之后，谁最有希望成为下一代「球王」候选人？",
-      "url": "https://www.zhihu.com/question/2067602381546823765",
+      "title": "「发现好多大学生不懂邮件礼仪」上热搜，你认为这有必要纳入大学课程吗？",
+      "url": "https://www.zhihu.com/question/2067004574997730697",
       "hot_value": "91 万热度",
       "index": 16
     },
     {
-      "title": "《蜘蛛侠：崭新之日》全球开画票房 9.27 亿美元，仅次于《复仇者联盟 4》居影史第二，如何评价这一成绩？",
-      "url": "https://www.zhihu.com/question/2067561924846248123",
-      "hot_value": "91 万热度",
+      "title": "桂林师范学院招聘被指萝卜岗，考生称音乐教师面试仅 5 分钟，学校回应称招聘合规，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2068011101589956354",
+      "hot_value": "90 万热度",
       "index": 17
     },
     {
-      "title": "桂林师范学院招聘被指萝卜岗，考生称音乐教师面试仅 5 分钟，学校回应称招聘合规，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2068011101589956354",
-      "hot_value": "89 万热度",
+      "title": "现在几千块钱音响的音质，是否能秒杀 90 年代初十几万的音响？",
+      "url": "https://www.zhihu.com/question/2064454034640074374",
+      "hot_value": "88 万热度",
       "index": 18
     },
     {
       "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
       "url": "https://www.zhihu.com/question/2066578072997049748",
-      "hot_value": "88 万热度",
+      "hot_value": "86 万热度",
       "index": 19
     },
     {
-      "title": "姆巴佩会成为梅西之后的新球王吗？",
-      "url": "https://www.zhihu.com/question/2060899576832435034",
-      "hot_value": "87 万热度",
+      "title": "《蜘蛛侠：崭新之日》全球开画票房 9.27 亿美元，仅次于《复仇者联盟 4》居影史第二，如何评价这一成绩？",
+      "url": "https://www.zhihu.com/question/2067561924846248123",
+      "hot_value": "82 万热度",
       "index": 20
-    },
-    {
-      "title": "玩了《英雄联盟》经典模式发现提莫从远古时代到现在技能组从未变化，他的技能有这么优秀吗？",
-      "url": "https://www.zhihu.com/question/2066106449541981322",
-      "hot_value": "83 万热度",
-      "index": 21
-    },
-    {
-      "title": "阿森纳 1 亿欧报价维尼修斯，这笔交易能否达成？皇马是否会放人？",
-      "url": "https://www.zhihu.com/question/2067519029196207256",
-      "hot_value": "82 万热度",
-      "index": 22
-    },
-    {
-      "title": "你的生活现在感觉幸福嘛？",
-      "url": "https://www.zhihu.com/question/2066252715982951617",
-      "hot_value": "82 万热度",
-      "index": 23
-    },
-    {
-      "title": "人类现有技术能够建造深度达到 1000 米的水库么?",
-      "url": "https://www.zhihu.com/question/1926023216679327077",
-      "hot_value": "80 万热度",
-      "index": 24
     },
     {
       "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
       "url": "https://www.zhihu.com/question/2067576901791638083",
       "hot_value": "77 万热度",
-      "index": 25
-    },
-    {
-      "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
-      "url": "https://www.zhihu.com/question/2067720724765045518",
-      "hot_value": "76 万热度",
-      "index": 26
-    },
-    {
-      "title": "在对国内外各种 AI 大模型的讨论中，为什么很少提到小米的 MiMo 大模型，这个模型的水平如何，好用吗？",
-      "url": "https://www.zhihu.com/question/2037174106265736183",
-      "hot_value": "76 万热度",
-      "index": 27
-    },
-    {
-      "title": "如何评价 Gemini 3.6 Flash？",
-      "url": "https://www.zhihu.com/question/2063036425445042100",
-      "hot_value": "73 万热度",
-      "index": 28
+      "index": 21
     },
     {
       "title": "为什么《英雄联盟》要把纯肉装设定为性价比非常低？",
       "url": "https://www.zhihu.com/question/533106223",
-      "hot_value": "72 万热度",
+      "hot_value": "74 万热度",
+      "index": 22
+    },
+    {
+      "title": "在对国内外各种 AI 大模型的讨论中，为什么很少提到小米的 MiMo 大模型，这个模型的水平如何，好用吗？",
+      "url": "https://www.zhihu.com/question/2037174106265736183",
+      "hot_value": "73 万热度",
+      "index": 23
+    },
+    {
+      "title": "怎样在不变得过度多疑的情况下，更早识别恶意和越界？",
+      "url": "https://www.zhihu.com/question/2066181477746972398",
+      "hot_value": "67 万热度",
+      "index": 24
+    },
+    {
+      "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
+      "url": "https://www.zhihu.com/question/2067572483331291076",
+      "hot_value": "67 万热度",
+      "index": 25
+    },
+    {
+      "title": "为什么英国每次都能够精准的站在胜利的一方？",
+      "url": "https://www.zhihu.com/question/1969002958478873550",
+      "hot_value": "66 万热度",
+      "index": 26
+    },
+    {
+      "title": "仅仅国科大一家在学的博士生数量已经突破了 3 万，身处一个硕博狂飙的大时代，我们的下一代该怎么办？",
+      "url": "https://www.zhihu.com/question/2065845417858819171",
+      "hot_value": "66 万热度",
+      "index": 27
+    },
+    {
+      "title": "在孩子的成长过程中，总有一段时间喜欢和家长对着干，这是为什么呢？",
+      "url": "https://www.zhihu.com/question/2066610162094322745",
+      "hot_value": "65 万热度",
+      "index": 28
+    },
+    {
+      "title": "人类现有技术能够建造深度达到 1000 米的水库么?",
+      "url": "https://www.zhihu.com/question/1926023216679327077",
+      "hot_value": "61 万热度",
       "index": 29
     },
     {
-      "title": "顶级交易员是怎样炼成的？",
-      "url": "https://www.zhihu.com/question/399717101",
-      "hot_value": "72 万热度",
+      "title": "游戏最吸引你的核心元素是什么？",
+      "url": "https://www.zhihu.com/question/2067904271463495592",
+      "hot_value": "60 万热度",
       "index": 30
     }
   ]
