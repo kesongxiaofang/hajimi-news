@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-04T11:02:24Z",
+  "update_time": "2026-08-04T13:14:37Z",
   "count": 30,
   "list": [
     {
-      "title": "台风“白海豚”两种路径公布",
-      "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%99%BD%E6%B5%B7%E8%B1%9A%E2%80%9D%E4%B8%A4%E7%A7%8D%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83?type=general",
-      "hot_value": "11244388",
+      "title": "周启豪1:3松岛辉空",
+      "url": "https://www.douyin.com/search/%E5%91%A8%E5%90%AF%E8%B1%AA1%3A3%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA?type=general",
+      "hot_value": "11223195",
       "index": 1
     },
     {
-      "title": "特朗普威胁对伊朗采取“斩首”行动",
-      "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%87%87%E5%8F%96%E2%80%9C%E6%96%A9%E9%A6%96%E2%80%9D%E8%A1%8C%E5%8A%A8?type=general",
-      "hot_value": "11077391",
+      "title": "台风“白海豚”两种路径公布",
+      "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%99%BD%E6%B5%B7%E8%B1%9A%E2%80%9D%E4%B8%A4%E7%A7%8D%E8%B7%AF%E5%BE%84%E5%85%AC%E5%B8%83?type=general",
+      "hot_value": "11203119",
       "index": 2
     },
     {
-      "title": "加快构建绿色低碳电力供给格局",
-      "url": "https://www.douyin.com/search/%E5%8A%A0%E5%BF%AB%E6%9E%84%E5%BB%BA%E7%BB%BF%E8%89%B2%E4%BD%8E%E7%A2%B3%E7%94%B5%E5%8A%9B%E4%BE%9B%E7%BB%99%E6%A0%BC%E5%B1%80?type=general",
-      "hot_value": "10991230",
+      "title": "中欧班列高质量发展取得显著成效",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E5%8F%96%E5%BE%97%E6%98%BE%E8%91%97%E6%88%90%E6%95%88?type=general",
+      "hot_value": "11199522",
       "index": 3
+    },
+    {
+      "title": "国务院成立重庆山体崩塌调查评估组",
+      "url": "https://www.douyin.com/search/%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0%E7%BB%84?type=general",
+      "hot_value": "11141211",
+      "index": 4
     },
     {
       "title": "谁懂奶油风OOTD的含金量",
       "url": "https://www.douyin.com/search/%E8%B0%81%E6%87%82%E5%A5%B6%E6%B2%B9%E9%A3%8EOOTD%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F?type=general",
-      "hot_value": "10975248",
-      "index": 4
+      "hot_value": "10497025",
+      "index": 5
+    },
+    {
+      "title": "山西菜申请出战暑期美食展",
+      "url": "https://www.douyin.com/search/%E5%B1%B1%E8%A5%BF%E8%8F%9C%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98%E6%9A%91%E6%9C%9F%E7%BE%8E%E9%A3%9F%E5%B1%95?type=general",
+      "hot_value": "10431547",
+      "index": 6
+    },
+    {
+      "title": "国家邮政局对申通立案调查",
+      "url": "https://www.douyin.com/search/%E5%9B%BD%E5%AE%B6%E9%82%AE%E6%94%BF%E5%B1%80%E5%AF%B9%E7%94%B3%E9%80%9A%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5?type=general",
+      "hot_value": "9279382",
+      "index": 7
     },
     {
       "title": "瑙鲁正式更改国名 中文译名不变",
       "url": "https://www.douyin.com/search/%E7%91%99%E9%B2%81%E6%AD%A3%E5%BC%8F%E6%9B%B4%E6%94%B9%E5%9B%BD%E5%90%8D%20%E4%B8%AD%E6%96%87%E8%AF%91%E5%90%8D%E4%B8%8D%E5%8F%98?type=general",
-      "hot_value": "10394273",
-      "index": 5
+      "hot_value": "9261472",
+      "index": 8
+    },
+    {
+      "title": "火影手游百战虎皮初爆料",
+      "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E7%99%BE%E6%88%98%E8%99%8E%E7%9A%AE%E5%88%9D%E7%88%86%E6%96%99?type=general",
+      "hot_value": "9179592",
+      "index": 9
     },
     {
       "title": "秋天的第一束奶茶花准备好了",
       "url": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%9F%E5%A5%B6%E8%8C%B6%E8%8A%B1%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86?type=general",
-      "hot_value": "10334305",
-      "index": 6
+      "hot_value": "9108144",
+      "index": 10
     },
     {
       "title": "夏日无痛避暑的快乐谁懂啊",
       "url": "https://www.douyin.com/search/%E5%A4%8F%E6%97%A5%E6%97%A0%E7%97%9B%E9%81%BF%E6%9A%91%E7%9A%84%E5%BF%AB%E4%B9%90%E8%B0%81%E6%87%82%E5%95%8A?type=general",
-      "hot_value": "8839984",
-      "index": 7
+      "hot_value": "9013241",
+      "index": 11
     },
     {
-      "title": "俄一海滩度假村遭袭致7死",
-      "url": "https://www.douyin.com/search/%E4%BF%84%E4%B8%80%E6%B5%B7%E6%BB%A9%E5%BA%A6%E5%81%87%E6%9D%91%E9%81%AD%E8%A2%AD%E8%87%B47%E6%AD%BB?type=general",
-      "hot_value": "8611740",
-      "index": 8
+      "title": "哈尔滨暴雨多地积水",
+      "url": "https://www.douyin.com/search/%E5%93%88%E5%B0%94%E6%BB%A8%E6%9A%B4%E9%9B%A8%E5%A4%9A%E5%9C%B0%E7%A7%AF%E6%B0%B4?type=general",
+      "hot_value": "8922183",
+      "index": 12
+    },
+    {
+      "title": "大连湾海底隧道看到鲨鱼系谣言",
+      "url": "https://www.douyin.com/search/%E5%A4%A7%E8%BF%9E%E6%B9%BE%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93%E7%9C%8B%E5%88%B0%E9%B2%A8%E9%B1%BC%E7%B3%BB%E8%B0%A3%E8%A8%80?type=general",
+      "hot_value": "8806770",
+      "index": 13
     },
     {
       "title": "香港传奇歌舞女星葛兰去世",
       "url": "https://www.douyin.com/search/%E9%A6%99%E6%B8%AF%E4%BC%A0%E5%A5%87%E6%AD%8C%E8%88%9E%E5%A5%B3%E6%98%9F%E8%91%9B%E5%85%B0%E5%8E%BB%E4%B8%96?type=general",
-      "hot_value": "8596701",
-      "index": 9
-    },
-    {
-      "title": "美媒：因凡蒂诺向特朗普求助",
-      "url": "https://www.douyin.com/search/%E7%BE%8E%E5%AA%92%EF%BC%9A%E5%9B%A0%E5%87%A1%E8%92%82%E8%AF%BA%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%B1%82%E5%8A%A9?type=general",
-      "hot_value": "8051580",
-      "index": 10
+      "hot_value": "8774818",
+      "index": 14
     },
     {
       "title": "发送mj触发蜘蛛侠特效",
       "url": "https://www.douyin.com/search/%E5%8F%91%E9%80%81mj%E8%A7%A6%E5%8F%91%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%89%B9%E6%95%88?type=general",
-      "hot_value": "7899077",
-      "index": 11
+      "hot_value": "8628395",
+      "index": 15
     },
     {
-      "title": "内马尔回应退役相关问题",
-      "url": "https://www.douyin.com/search/%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%BA%94%E9%80%80%E5%BD%B9%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98?type=general",
-      "hot_value": "7852522",
-      "index": 12
-    },
-    {
-      "title": "开学季如何避坑",
-      "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E5%AD%A3%E5%A6%82%E4%BD%95%E9%81%BF%E5%9D%91?type=general",
-      "hot_value": "7803391",
-      "index": 13
+      "title": "俄一海滩度假村遭袭致7死",
+      "url": "https://www.douyin.com/search/%E4%BF%84%E4%B8%80%E6%B5%B7%E6%BB%A9%E5%BA%A6%E5%81%87%E6%9D%91%E9%81%AD%E8%A2%AD%E8%87%B47%E6%AD%BB?type=general",
+      "hot_value": "8432527",
+      "index": 16
     },
     {
       "title": "花小龙带张伟丽自律的一天",
       "url": "https://www.douyin.com/search/%E8%8A%B1%E5%B0%8F%E9%BE%99%E5%B8%A6%E5%BC%A0%E4%BC%9F%E4%B8%BD%E8%87%AA%E5%BE%8B%E7%9A%84%E4%B8%80%E5%A4%A9?type=general",
-      "hot_value": "7795457",
-      "index": 14
-    },
-    {
-      "title": "MV既视感拿捏住了",
-      "url": "https://www.douyin.com/search/MV%E6%97%A2%E8%A7%86%E6%84%9F%E6%8B%BF%E6%8D%8F%E4%BD%8F%E4%BA%86?type=general",
-      "hot_value": "7775301",
-      "index": 15
-    },
-    {
-      "title": "四川10家农商行获批解散",
-      "url": "https://www.douyin.com/search/%E5%9B%9B%E5%B7%9D10%E5%AE%B6%E5%86%9C%E5%95%86%E8%A1%8C%E8%8E%B7%E6%89%B9%E8%A7%A3%E6%95%A3?type=general",
-      "hot_value": "7764758",
-      "index": 16
-    },
-    {
-      "title": "别把夏天关掉",
-      "url": "https://www.douyin.com/search/%E5%88%AB%E6%8A%8A%E5%A4%8F%E5%A4%A9%E5%85%B3%E6%8E%89?type=general",
-      "hot_value": "7756168",
+      "hot_value": "8306792",
       "index": 17
     },
     {
       "title": "这城市那么空 这回忆那么凶",
       "url": "https://www.douyin.com/search/%E8%BF%99%E5%9F%8E%E5%B8%82%E9%82%A3%E4%B9%88%E7%A9%BA%20%E8%BF%99%E5%9B%9E%E5%BF%86%E9%82%A3%E4%B9%88%E5%87%B6?type=general",
-      "hot_value": "7744808",
+      "hot_value": "7822613",
       "index": 18
+    },
+    {
+      "title": "MV既视感拿捏住了",
+      "url": "https://www.douyin.com/search/MV%E6%97%A2%E8%A7%86%E6%84%9F%E6%8B%BF%E6%8D%8F%E4%BD%8F%E4%BA%86?type=general",
+      "hot_value": "7800756",
+      "index": 19
+    },
+    {
+      "title": "张智扬vs皮带哥KAM二番战",
+      "url": "https://www.douyin.com/search/%E5%BC%A0%E6%99%BA%E6%89%ACvs%E7%9A%AE%E5%B8%A6%E5%93%A5KAM%E4%BA%8C%E7%95%AA%E6%88%98?type=general",
+      "hot_value": "7795520",
+      "index": 20
     },
     {
       "title": "蔡徐坤澳门演唱会",
       "url": "https://www.douyin.com/search/%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "7735802",
-      "index": 19
-    },
-    {
-      "title": "歌手2026帮唱阵容居然这么抽象",
-      "url": "https://www.douyin.com/search/%E6%AD%8C%E6%89%8B2026%E5%B8%AE%E5%94%B1%E9%98%B5%E5%AE%B9%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E6%8A%BD%E8%B1%A1?type=general",
-      "hot_value": "7722743",
-      "index": 20
-    },
-    {
-      "title": "修理工小猫在线接单",
-      "url": "https://www.douyin.com/search/%E4%BF%AE%E7%90%86%E5%B7%A5%E5%B0%8F%E7%8C%AB%E5%9C%A8%E7%BA%BF%E6%8E%A5%E5%8D%95?type=general",
-      "hot_value": "7712025",
+      "hot_value": "7780979",
       "index": 21
     },
     {
       "title": "王者荣耀无尽之局新皮肤",
       "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%B0%BD%E4%B9%8B%E5%B1%80%E6%96%B0%E7%9A%AE%E8%82%A4?type=general",
-      "hot_value": "7704570",
+      "hot_value": "7773873",
       "index": 22
     },
     {
-      "title": "Ruins摇手势舞",
-      "url": "https://www.douyin.com/search/Ruins%E6%91%87%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
-      "hot_value": "7695506",
+      "title": "长八甲火箭升级后首次验证飞行",
+      "url": "https://www.douyin.com/search/%E9%95%BF%E5%85%AB%E7%94%B2%E7%81%AB%E7%AE%AD%E5%8D%87%E7%BA%A7%E5%90%8E%E9%A6%96%E6%AC%A1%E9%AA%8C%E8%AF%81%E9%A3%9E%E8%A1%8C?type=general",
+      "hot_value": "7761123",
       "index": 23
     },
     {
-      "title": "布伦森难绷表情包上新",
-      "url": "https://www.douyin.com/search/%E5%B8%83%E4%BC%A6%E6%A3%AE%E9%9A%BE%E7%BB%B7%E8%A1%A8%E6%83%85%E5%8C%85%E4%B8%8A%E6%96%B0?type=general",
-      "hot_value": "7686702",
+      "title": "别把夏天关掉",
+      "url": "https://www.douyin.com/search/%E5%88%AB%E6%8A%8A%E5%A4%8F%E5%A4%A9%E5%85%B3%E6%8E%89?type=general",
+      "hot_value": "7756099",
       "index": 24
     },
     {
-      "title": "篆刻一个蜘蛛侠Q版印章",
-      "url": "https://www.douyin.com/search/%E7%AF%86%E5%88%BB%E4%B8%80%E4%B8%AA%E8%9C%98%E8%9B%9B%E4%BE%A0Q%E7%89%88%E5%8D%B0%E7%AB%A0?type=general",
-      "hot_value": "7684697",
+      "title": "修理工小猫在线接单",
+      "url": "https://www.douyin.com/search/%E4%BF%AE%E7%90%86%E5%B7%A5%E5%B0%8F%E7%8C%AB%E5%9C%A8%E7%BA%BF%E6%8E%A5%E5%8D%95?type=general",
+      "hot_value": "7744294",
       "index": 25
     },
     {
       "title": "虞书欣歌舞青春手势舞好明媚",
       "url": "https://www.douyin.com/search/%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%AD%8C%E8%88%9E%E9%9D%92%E6%98%A5%E6%89%8B%E5%8A%BF%E8%88%9E%E5%A5%BD%E6%98%8E%E5%AA%9A?type=general",
-      "hot_value": "7669953",
+      "hot_value": "7742505",
       "index": 26
     },
     {
-      "title": "谢谢你们出现在我身边",
-      "url": "https://www.douyin.com/search/%E8%B0%A2%E8%B0%A2%E4%BD%A0%E4%BB%AC%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9?type=general",
-      "hot_value": "7666426",
+      "title": "撕漫脸都去用odd蓝调网纱",
+      "url": "https://www.douyin.com/search/%E6%92%95%E6%BC%AB%E8%84%B8%E9%83%BD%E5%8E%BB%E7%94%A8odd%E8%93%9D%E8%B0%83%E7%BD%91%E7%BA%B1?type=general",
+      "hot_value": "7740541",
       "index": 27
     },
     {
-      "title": "没人告诉我打十个蛋这么难啊",
-      "url": "https://www.douyin.com/search/%E6%B2%A1%E4%BA%BA%E5%91%8A%E8%AF%89%E6%88%91%E6%89%93%E5%8D%81%E4%B8%AA%E8%9B%8B%E8%BF%99%E4%B9%88%E9%9A%BE%E5%95%8A?type=general",
-      "hot_value": "7659670",
+      "title": "Ruins摇手势舞",
+      "url": "https://www.douyin.com/search/Ruins%E6%91%87%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
+      "hot_value": "7735311",
       "index": 28
-    },
-    {
-      "title": "电影痴迷二刷全是细节",
-      "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%97%B4%E8%BF%B7%E4%BA%8C%E5%88%B7%E5%85%A8%E6%98%AF%E7%BB%86%E8%8A%82?type=general",
-      "hot_value": "7656498",
-      "index": 29
     },
     {
       "title": "谁有后羿电话帮我打一下",
       "url": "https://www.douyin.com/search/%E8%B0%81%E6%9C%89%E5%90%8E%E7%BE%BF%E7%94%B5%E8%AF%9D%E5%B8%AE%E6%88%91%E6%89%93%E4%B8%80%E4%B8%8B?type=general",
-      "hot_value": "7656313",
+      "hot_value": "7730587",
+      "index": 29
+    },
+    {
+      "title": "约翰尼德普入驻抖音",
+      "url": "https://www.douyin.com/search/%E7%BA%A6%E7%BF%B0%E5%B0%BC%E5%BE%B7%E6%99%AE%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3?type=general",
+      "hot_value": "7714668",
       "index": 30
     }
   ]
