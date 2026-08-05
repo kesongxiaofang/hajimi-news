@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-08-05T10:59:07Z",
+  "update_time": "2026-08-05T12:58:57Z",
   "count": 30,
   "list": [
     {
+      "title": "这一秒过火全员be",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%85%A8%E5%91%98be%23",
+      "hot_value": "1184329",
+      "index": 1
+    },
+    {
       "title": "苹果要求长鑫降价反遭涨价",
       "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%95%BF%E9%91%AB%E9%99%8D%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%B6%A8%E4%BB%B7%23",
-      "hot_value": "1549978",
-      "index": 1
+      "hot_value": "859734",
+      "index": 2
+    },
+    {
+      "title": "预拨3.3亿元支持8省市抢险救灾",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%A2%84%E6%8B%A83.3%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%818%E7%9C%81%E5%B8%82%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%23",
+      "hot_value": "762722",
+      "index": 3
+    },
+    {
+      "title": "成年人的体面是把请客说得很自然",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E4%BD%93%E9%9D%A2%E6%98%AF%E6%8A%8A%E8%AF%B7%E5%AE%A2%E8%AF%B4%E5%BE%97%E5%BE%88%E8%87%AA%E7%84%B6%23",
+      "hot_value": "756294",
+      "index": 4
+    },
+    {
+      "title": "余承东回应口误",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%8F%A3%E8%AF%AF%23",
+      "hot_value": "727041",
+      "index": 5
     },
     {
       "title": "AI做的动物尺度太大了",
       "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23",
-      "hot_value": "902469",
-      "index": 2
-    },
-    {
-      "title": "火遍全球的Chinamaxxing是什么",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E9%81%8D%E5%85%A8%E7%90%83%E7%9A%84Chinamaxxing%E6%98%AF%E4%BB%80%E4%B9%88%23",
-      "hot_value": "742085",
-      "index": 3
-    },
-    {
-      "title": "恋与深空将永远只有五位男主",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%B0%86%E6%B0%B8%E8%BF%9C%E5%8F%AA%E6%9C%89%E4%BA%94%E4%BD%8D%E7%94%B7%E4%B8%BB%23",
-      "hot_value": "724788",
-      "index": 4
-    },
-    {
-      "title": "千山茶客 新文",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%B1%B1%E8%8C%B6%E5%AE%A2+%E6%96%B0%E6%96%87%23",
-      "hot_value": "698947",
-      "index": 5
-    },
-    {
-      "title": "怪不得淋雨后要洗澡换衣服",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E6%B7%8B%E9%9B%A8%E5%90%8E%E8%A6%81%E6%B4%97%E6%BE%A1%E6%8D%A2%E8%A1%A3%E6%9C%8D%23",
-      "hot_value": "681340",
+      "hot_value": "544543",
       "index": 6
     },
     {
-      "title": "玩具公司签67亿元算力大单",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%A9%E5%85%B7%E5%85%AC%E5%8F%B8%E7%AD%BE67%E4%BA%BF%E5%85%83%E7%AE%97%E5%8A%9B%E5%A4%A7%E5%8D%95%23",
-      "hot_value": "650613",
+      "title": "时代少年团演唱会节目单",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23",
+      "hot_value": "528664",
       "index": 7
     },
     {
-      "title": "这一秒过火大结局",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%A4%A7%E7%BB%93%E5%B1%80%23",
-      "hot_value": "620699",
+      "title": "王俊凯 南京",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF+%E5%8D%97%E4%BA%AC%23",
+      "hot_value": "495559",
       "index": 8
     },
     {
-      "title": "官方通报赛格商场坠亡事件",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%23",
-      "hot_value": "582678",
+      "title": "丈夫称已销毁胚胎妻子不知情",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%B7%B2%E9%94%80%E6%AF%81%E8%83%9A%E8%83%8E%E5%A6%BB%E5%AD%90%E4%B8%8D%E7%9F%A5%E6%83%85%23",
+      "hot_value": "488123",
       "index": 9
     },
     {
-      "title": "电影欢迎来龙餐馆官宣定档",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23",
-      "hot_value": "368703",
+      "title": "Meiko力竭了",
+      "url": "https://s.weibo.com/weibo?q=%23Meiko%E5%8A%9B%E7%AB%AD%E4%BA%86%23",
+      "hot_value": "450011",
       "index": 10
     },
     {
-      "title": "苹果手机 适合老人",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA+%E9%80%82%E5%90%88%E8%80%81%E4%BA%BA%23",
-      "hot_value": "368658",
+      "title": "高会 TFBOYS联名鞋",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BC%9A+TFBOYS%E8%81%94%E5%90%8D%E9%9E%8B%23",
+      "hot_value": "449587",
       "index": 11
     },
     {
       "title": "一姐姐在肯德基干了30年",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A7%90%E5%A7%90%E5%9C%A8%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B9%B2%E4%BA%8630%E5%B9%B4%23",
-      "hot_value": "368627",
+      "hot_value": "449408",
       "index": 12
     },
     {
-      "title": "中传 取消艺考",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BC%A0+%E5%8F%96%E6%B6%88%E8%89%BA%E8%80%83%23",
-      "hot_value": "368489",
+      "title": "泸溪河 废油",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B8%E6%BA%AA%E6%B2%B3+%E5%BA%9F%E6%B2%B9%23",
+      "hot_value": "441639",
       "index": 13
     },
     {
-      "title": "云旗 锅有点沉",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E6%97%97+%E9%94%85%E6%9C%89%E7%82%B9%E6%B2%89%23",
-      "hot_value": "368450",
+      "title": "刘耀文拍了正太扭腰",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E6%8B%8D%E4%BA%86%E6%AD%A3%E5%A4%AA%E6%89%AD%E8%85%B0%23",
+      "hot_value": "439182",
       "index": 14
     },
     {
-      "title": "DeepSeek干完活自己写了个游戏",
-      "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F%23",
-      "hot_value": "368382",
+      "title": "Jennie自曝曾因身材自卑",
+      "url": "https://s.weibo.com/weibo?q=%23Jennie%E8%87%AA%E6%9B%9D%E6%9B%BE%E5%9B%A0%E8%BA%AB%E6%9D%90%E8%87%AA%E5%8D%91%23",
+      "hot_value": "428948",
       "index": 15
+    },
+    {
+      "title": "你常吃的兰州拉面要改名了",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%B8%B8%E5%90%83%E7%9A%84%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E8%A6%81%E6%94%B9%E5%90%8D%E4%BA%86%23",
+      "hot_value": "393810",
+      "index": 16
+    },
+    {
+      "title": "卜冠今吓到我了",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%9C%E5%86%A0%E4%BB%8A%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86%23",
+      "hot_value": "355009",
+      "index": 17
+    },
+    {
+      "title": "官方通报赛格商场坠亡事件",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%23",
+      "hot_value": "287185",
+      "index": 18
+    },
+    {
+      "title": "玩具公司签67亿元算力大单",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%A9%E5%85%B7%E5%85%AC%E5%8F%B8%E7%AD%BE67%E4%BA%BF%E5%85%83%E7%AE%97%E5%8A%9B%E5%A4%A7%E5%8D%95%23",
+      "hot_value": "274508",
+      "index": 19
+    },
+    {
+      "title": "跟着大国交通看山河中国",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%9D%80%E5%A4%A7%E5%9B%BD%E4%BA%A4%E9%80%9A%E7%9C%8B%E5%B1%B1%E6%B2%B3%E4%B8%AD%E5%9B%BD%23",
+      "hot_value": "269741",
+      "index": 20
+    },
+    {
+      "title": "卫生院回应针头完全扎进宝宝胳膊",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E9%99%A2%E5%9B%9E%E5%BA%94%E9%92%88%E5%A4%B4%E5%AE%8C%E5%85%A8%E6%89%8E%E8%BF%9B%E5%AE%9D%E5%AE%9D%E8%83%B3%E8%86%8A%23",
+      "hot_value": "268480",
+      "index": 21
+    },
+    {
+      "title": "迪丽热巴直播",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9B%B4%E6%92%AD%23",
+      "hot_value": "255483",
+      "index": 22
+    },
+    {
+      "title": "怪不得淋雨后要洗澡换衣服",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E6%B7%8B%E9%9B%A8%E5%90%8E%E8%A6%81%E6%B4%97%E6%BE%A1%E6%8D%A2%E8%A1%A3%E6%9C%8D%23",
+      "hot_value": "243394",
+      "index": 23
     },
     {
       "title": "华妃一个月吃了60斤鸡蛋500条鱼",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%A6%83%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%83%E4%BA%8660%E6%96%A4%E9%B8%A1%E8%9B%8B500%E6%9D%A1%E9%B1%BC%23",
-      "hot_value": "368295",
-      "index": 16
-    },
-    {
-      "title": "曝刘亦菲演过迪士尼高定待遇不同",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%98%E4%BA%A6%E8%8F%B2%E6%BC%94%E8%BF%87%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%AB%98%E5%AE%9A%E5%BE%85%E9%81%87%E4%B8%8D%E5%90%8C%23",
-      "hot_value": "368205",
-      "index": 17
-    },
-    {
-      "title": "无畏契约",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%23",
-      "hot_value": "368151",
-      "index": 18
-    },
-    {
-      "title": "冻香蕉",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%86%BB%E9%A6%99%E8%95%89%23",
-      "hot_value": "368017",
-      "index": 19
-    },
-    {
-      "title": "成都冰雹",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%86%B0%E9%9B%B9%23",
-      "hot_value": "367970",
-      "index": 20
-    },
-    {
-      "title": "69.9元牛奶号称能护眼",
-      "url": "https://s.weibo.com/weibo?q=%2369.9%E5%85%83%E7%89%9B%E5%A5%B6%E5%8F%B7%E7%A7%B0%E8%83%BD%E6%8A%A4%E7%9C%BC%23",
-      "hot_value": "367866",
-      "index": 21
-    },
-    {
-      "title": "其实已经过上普通人里最好的生活",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E5%B7%B2%E7%BB%8F%E8%BF%87%E4%B8%8A%E6%99%AE%E9%80%9A%E4%BA%BA%E9%87%8C%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%9F%E6%B4%BB%23",
-      "hot_value": "367787",
-      "index": 22
-    },
-    {
-      "title": "河南试行周五半天加周末加年假模式",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%AF%95%E8%A1%8C%E5%91%A8%E4%BA%94%E5%8D%8A%E5%A4%A9%E5%8A%A0%E5%91%A8%E6%9C%AB%E5%8A%A0%E5%B9%B4%E5%81%87%E6%A8%A1%E5%BC%8F%23",
-      "hot_value": "367786",
-      "index": 23
-    },
-    {
-      "title": "韩国宣布国家灾难状态",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81%23",
-      "hot_value": "307977",
+      "hot_value": "243042",
       "index": 24
     },
     {
-      "title": "小澈藤壶背没有了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%E8%97%A4%E5%A3%B6%E8%83%8C%E6%B2%A1%E6%9C%89%E4%BA%86%23",
-      "hot_value": "289189",
+      "title": "这一秒过火大结局",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%A4%A7%E7%BB%93%E5%B1%80%23",
+      "hot_value": "239391",
       "index": 25
     },
     {
-      "title": "华为MatePadPro创作好拍档",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMatePadPro%E5%88%9B%E4%BD%9C%E5%A5%BD%E6%8B%8D%E6%A1%A3%23",
-      "hot_value": "279496",
+      "title": "千山茶客 新文",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%B1%B1%E8%8C%B6%E5%AE%A2+%E6%96%B0%E6%96%87%23",
+      "hot_value": "238138",
       "index": 26
     },
     {
-      "title": "余承东称手机将大规模涨价",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E6%89%8B%E6%9C%BA%E5%B0%86%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7%23",
-      "hot_value": "270532",
+      "title": "AI短剧更新慢的原因",
+      "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E6%9B%B4%E6%96%B0%E6%85%A2%E7%9A%84%E5%8E%9F%E5%9B%A0%23",
+      "hot_value": "222498",
       "index": 27
     },
     {
-      "title": "公司财务被AI逼跑了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%B4%A2%E5%8A%A1%E8%A2%ABAI%E9%80%BC%E8%B7%91%E4%BA%86%23",
-      "hot_value": "263036",
+      "title": "费大厨全国小炒肉大王仅凭视频评出",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%A4%A7%E5%8E%A8%E5%85%A8%E5%9B%BD%E5%B0%8F%E7%82%92%E8%82%89%E5%A4%A7%E7%8E%8B%E4%BB%85%E5%87%AD%E8%A7%86%E9%A2%91%E8%AF%84%E5%87%BA%23",
+      "hot_value": "222296",
       "index": 28
     },
     {
-      "title": "陈瑶空中一字马",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%91%B6%E7%A9%BA%E4%B8%AD%E4%B8%80%E5%AD%97%E9%A9%AC%23",
-      "hot_value": "213492",
+      "title": "范丞丞没胖但肌肉快掉没了",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%B2%A1%E8%83%96%E4%BD%86%E8%82%8C%E8%82%89%E5%BF%AB%E6%8E%89%E6%B2%A1%E4%BA%86%23",
+      "hot_value": "215899",
       "index": 29
     },
     {
-      "title": "迪丽热巴王与嫣",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%8E%8B%E4%B8%8E%E5%AB%A3%23",
-      "hot_value": "213008",
+      "title": "6图看AI领域的中国加速度",
+      "url": "https://s.weibo.com/weibo?q=%236%E5%9B%BE%E7%9C%8BAI%E9%A2%86%E5%9F%9F%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%BA%A6%23",
+      "hot_value": "214653",
       "index": 30
     }
   ]
