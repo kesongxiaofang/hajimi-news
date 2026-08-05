@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-05T15:19:15Z",
+  "update_time": "2026-08-05T17:00:23Z",
   "count": 30,
   "list": [
     {
       "title": "《雾海之下》首曝PV｜贪吃无罪，撤离万岁！",
       "url": "https://www.bilibili.com/video/BV17vuw68E58",
-      "hot_value": "3058798播放",
+      "hot_value": "3373431播放",
       "index": 1
-    },
-    {
-      "title": "看完7月新番，我走火入魔！浑身燥热！【泛式】",
-      "url": "https://www.bilibili.com/video/BV1tcMy6fEEU",
-      "hot_value": "269336播放",
-      "index": 2
     },
     {
       "title": "柯洁VS党毅飞（不可能的逆转）",
       "url": "https://www.bilibili.com/video/BV1kxuw6iEb2",
-      "hot_value": "2304376播放",
+      "hot_value": "2617479播放",
+      "index": 2
+    },
+    {
+      "title": "看完7月新番，我走火入魔！浑身燥热！【泛式】",
+      "url": "https://www.bilibili.com/video/BV1tcMy6fEEU",
+      "hot_value": "380273播放",
       "index": 3
     },
     {
       "title": "你说偷吃零食被发现会死是吗？",
       "url": "https://www.bilibili.com/video/BV1fGuc6xEmp",
-      "hot_value": "4687471播放",
+      "hot_value": "4842813播放",
       "index": 4
+    },
+    {
+      "title": "什么年代了还在做诸葛王朗传统鬼畜",
+      "url": "https://www.bilibili.com/video/BV19puc6UEVg",
+      "hot_value": "467833播放",
+      "index": 5
     },
     {
       "title": "大家还想看我搬空什么店",
       "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
-      "hot_value": "6990330播放",
-      "index": 5
+      "hot_value": "7090202播放",
+      "index": 6
     },
     {
       "title": "完蛋！我被男同学包围了",
       "url": "https://www.bilibili.com/video/BV1uPMZ6NEBb",
-      "hot_value": "4323005播放",
-      "index": 6
+      "hot_value": "4439150播放",
+      "index": 7
     },
     {
-      "title": "当我被外星人取代",
-      "url": "https://www.bilibili.com/video/BV1RoMf6mEra",
-      "hot_value": "2517916播放",
-      "index": 7
+      "title": "《别接我，我改！》",
+      "url": "https://www.bilibili.com/video/BV1v1Mr6wEiP",
+      "hot_value": "467775播放",
+      "index": 8
     },
     {
       "title": "【TF家族练习生】《突围II破局》EP06：加更",
       "url": "https://www.bilibili.com/video/BV1xmMy6tEui",
-      "hot_value": "624605播放",
-      "index": 8
+      "hot_value": "714388播放",
+      "index": 9
     },
     {
-      "title": "厕  所  大  师",
-      "url": "https://www.bilibili.com/video/BV11duF6TEfz",
-      "hot_value": "1522464播放",
-      "index": 9
+      "title": "当我被外星人取代",
+      "url": "https://www.bilibili.com/video/BV1RoMf6mEra",
+      "hot_value": "2600937播放",
+      "index": 10
     },
     {
       "title": "欢迎来到研究生的世界",
       "url": "https://www.bilibili.com/video/BV1R53R6rE7a",
-      "hot_value": "841489播放",
-      "index": 10
-    },
-    {
-      "title": "赢出定义，我即定义｜烽火职业联赛夏季赛宣传片",
-      "url": "https://www.bilibili.com/video/BV1MEMr6DEu3",
-      "hot_value": "903033播放",
+      "hot_value": "984532播放",
       "index": 11
-    },
-    {
-      "title": "带君哥在上海逛菜场，炫本帮面…",
-      "url": "https://www.bilibili.com/video/BV11xMR6pEiF",
-      "hot_value": "800542播放",
-      "index": 12
-    },
-    {
-      "title": "在擂台上使出宗主进阶功法《九摇坤典》和核心功法《苏珊六式》",
-      "url": "https://www.bilibili.com/video/BV1vG3X6NEFB",
-      "hot_value": "1365003播放",
-      "index": 13
-    },
-    {
-      "title": "一朝悟道见真我，何惧昔日旧加锁",
-      "url": "https://www.bilibili.com/video/BV1FDMB6wEt5",
-      "hot_value": "460527播放",
-      "index": 14
     },
     {
       "title": "《最讨厌复联の一集》",
       "url": "https://www.bilibili.com/video/BV1KduF6ME4b",
-      "hot_value": "5505711播放",
+      "hot_value": "5609688播放",
+      "index": 12
+    },
+    {
+      "title": "赢出定义，我即定义｜烽火职业联赛夏季赛宣传片",
+      "url": "https://www.bilibili.com/video/BV1MEMr6DEu3",
+      "hot_value": "998024播放",
+      "index": 13
+    },
+    {
+      "title": "点开前没想到这么逆天",
+      "url": "https://www.bilibili.com/video/BV1eFuw6WE1M",
+      "hot_value": "484443播放",
+      "index": 14
+    },
+    {
+      "title": "在擂台上使出宗主进阶功法《九摇坤典》和核心功法《苏珊六式》",
+      "url": "https://www.bilibili.com/video/BV1vG3X6NEFB",
+      "hot_value": "1646963播放",
       "index": 15
     },
     {
-      "title": "华为WATCH GT 7 告别续航焦虑？续航从未焦虑！",
-      "url": "https://www.bilibili.com/video/BV1x1My6fEd9",
-      "hot_value": "151796播放",
+      "title": "啊？58.5",
+      "url": "https://www.bilibili.com/video/BV1vGMf6mEri",
+      "hot_value": "477604播放",
       "index": 16
     },
     {
-      "title": "80后老登勇闯加勒比海无人岛，谁知夜里的海底都是巨型犀牛虾！",
-      "url": "https://www.bilibili.com/video/BV1xkuA6CE7h",
-      "hot_value": "549016播放",
+      "title": "厕  所  大  师",
+      "url": "https://www.bilibili.com/video/BV11duF6TEfz",
+      "hot_value": "1750754播放",
       "index": 17
     },
     {
-      "title": "闺蜜你怎么去韩国后就不笑了。。",
-      "url": "https://www.bilibili.com/video/BV1Qxuc62E1y",
-      "hot_value": "859238播放",
+      "title": "带君哥在上海逛菜场，炫本帮面…",
+      "url": "https://www.bilibili.com/video/BV11xMR6pEiF",
+      "hot_value": "892586播放",
       "index": 18
     },
     {
-      "title": "曼玉火山主题SPA日",
-      "url": "https://www.bilibili.com/video/BV1Nr346JEsS",
-      "hot_value": "1767764播放",
+      "title": "“至此，神性已成！！！”",
+      "url": "https://www.bilibili.com/video/BV13J3R6MEkE",
+      "hot_value": "1898657播放",
       "index": 19
     },
     {
-      "title": "(完整版)再见了，我那有着婴儿般蓝色眼睛的爱人【Emoji】",
-      "url": "https://www.bilibili.com/video/BV1WbMX6kEMG",
-      "hot_value": "1210383播放",
+      "title": "一朝悟道见真我，何惧昔日旧加锁",
+      "url": "https://www.bilibili.com/video/BV1FDMB6wEt5",
+      "hot_value": "532200播放",
       "index": 20
     },
     {
       "title": "我们从网上买来了一些泡面尝了尝…",
       "url": "https://www.bilibili.com/video/BV1oKM165EkC",
-      "hot_value": "248413播放",
+      "hot_value": "314080播放",
       "index": 21
     },
     {
-      "title": "《别接我，我改！》",
-      "url": "https://www.bilibili.com/video/BV1v1Mr6wEiP",
-      "hot_value": "329160播放",
+      "title": "闺蜜你怎么去韩国后就不笑了。。",
+      "url": "https://www.bilibili.com/video/BV1Qxuc62E1y",
+      "hot_value": "919588播放",
       "index": 22
     },
     {
-      "title": "当我梦到了一段很锈湖的音乐。",
-      "url": "https://www.bilibili.com/video/BV1eKMX6tERP",
-      "hot_value": "2102319播放",
+      "title": "80后老登勇闯加勒比海无人岛，谁知夜里的海底都是巨型犀牛虾！",
+      "url": "https://www.bilibili.com/video/BV1xkuA6CE7h",
+      "hot_value": "633686播放",
       "index": 23
     },
     {
-      "title": "“至此，神性已成！！！”",
-      "url": "https://www.bilibili.com/video/BV13J3R6MEkE",
-      "hot_value": "1826770播放",
+      "title": "抽象新闻：7月人类迷惑行为大赏（下）",
+      "url": "https://www.bilibili.com/video/BV16QuA6qEDG",
+      "hot_value": "1355757播放",
       "index": 24
     },
     {
       "title": "美利坚糖门黄油大胃袋VS国产味真族良子板面长老",
       "url": "https://www.bilibili.com/video/BV1JmMf69EZY",
-      "hot_value": "3228047播放",
+      "hot_value": "3275377播放",
       "index": 25
     },
     {
-      "title": "街霸6｜还原2S4口",
-      "url": "https://www.bilibili.com/video/BV1MqMQ6EEe4",
-      "hot_value": "631788播放",
+      "title": "当我梦到了一段很锈湖的音乐。",
+      "url": "https://www.bilibili.com/video/BV1eKMX6tERP",
+      "hot_value": "2161403播放",
       "index": 26
     },
     {
-      "title": "8月份返校的高三生",
-      "url": "https://www.bilibili.com/video/BV1QgMX6REzf",
-      "hot_value": "4402150播放",
+      "title": "孤身骑行穿越罗布泊失联，2009妙淡罗布泊失踪事件",
+      "url": "https://www.bilibili.com/video/BV152Mr6aEum",
+      "hot_value": "308535播放",
       "index": 27
     },
     {
-      "title": "哥哥升入高三后离奇去世，这所无人毕业的高中到底藏了什么？",
-      "url": "https://www.bilibili.com/video/BV1pAMB6PEv3",
-      "hot_value": "401524播放",
+      "title": "曼玉火山主题SPA日",
+      "url": "https://www.bilibili.com/video/BV1Nr346JEsS",
+      "hot_value": "1836477播放",
       "index": 28
     },
     {
-      "title": "为什么必须有残疾证才能证明是残疾人？",
-      "url": "https://www.bilibili.com/video/BV1CsMr61EfJ",
-      "hot_value": "324010播放",
+      "title": "鬼椒面！",
+      "url": "https://www.bilibili.com/video/BV1N7uF6PEWP",
+      "hot_value": "598536播放",
       "index": 29
     },
     {
-      "title": "这狗可能有病",
-      "url": "https://www.bilibili.com/video/BV1RVM16zEuM",
-      "hot_value": "231096播放",
+      "title": "(完整版)再见了，我那有着婴儿般蓝色眼睛的爱人【Emoji】",
+      "url": "https://www.bilibili.com/video/BV1WbMX6kEMG",
+      "hot_value": "1241388播放",
       "index": 30
     }
   ]
