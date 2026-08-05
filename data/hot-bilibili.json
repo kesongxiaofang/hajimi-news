@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-04T23:32:17Z",
+  "update_time": "2026-08-05T02:04:49Z",
   "count": 30,
   "list": [
     {
       "title": "美利坚糖门黄油大胃袋VS国产味真族良子板面长老",
       "url": "https://www.bilibili.com/video/BV1JmMf69EZY",
-      "hot_value": "1244006播放",
+      "hot_value": "1877584播放",
       "index": 1
     },
     {
       "title": "完蛋！我被男同学包围了",
       "url": "https://www.bilibili.com/video/BV1uPMZ6NEBb",
-      "hot_value": "1293685播放",
+      "hot_value": "1828076播放",
       "index": 2
+    },
+    {
+      "title": "【短的发布会】纯平地板？百变空间？全网热议的9系旗舰竟是五菱扬光Pro！",
+      "url": "https://www.bilibili.com/video/BV179uc6tECJ",
+      "hot_value": "868890播放",
+      "index": 3
     },
     {
       "title": "你说偷吃零食被发现会死是吗？",
       "url": "https://www.bilibili.com/video/BV1fGuc6xEmp",
-      "hot_value": "868528播放",
-      "index": 3
+      "hot_value": "1431687播放",
+      "index": 4
     },
     {
       "title": "《最讨厌复联の一集》",
       "url": "https://www.bilibili.com/video/BV1KduF6ME4b",
-      "hot_value": "3411189播放",
-      "index": 4
-    },
-    {
-      "title": "大家还想看我搬空什么店",
-      "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
-      "hot_value": "5280354播放",
+      "hot_value": "3768174播放",
       "index": 5
-    },
-    {
-      "title": "过年的鞭炮声太吵，以后看你的时候我带上一束花",
-      "url": "https://www.bilibili.com/video/BV1z9MQ6iEtv",
-      "hot_value": "2945834播放",
-      "index": 6
-    },
-    {
-      "title": "几十块入手世界级顶尖好物——居家用品篇",
-      "url": "https://www.bilibili.com/video/BV1Vo3C6VE1B",
-      "hot_value": "3835882播放",
-      "index": 7
-    },
-    {
-      "title": "挑战开局零元生存第1期",
-      "url": "https://www.bilibili.com/video/BV1e4GG64Ej4",
-      "hot_value": "1092447播放",
-      "index": 8
-    },
-    {
-      "title": "哈哈哈别跑~李信叔叔抓你来喽！!  !  !  !  !  !",
-      "url": "https://www.bilibili.com/video/BV1X3GV6xEfG",
-      "hot_value": "1003187播放",
-      "index": 9
-    },
-    {
-      "title": "东百顶上战争",
-      "url": "https://www.bilibili.com/video/BV1xz3m63EgP",
-      "hot_value": "2060087播放",
-      "index": 10
-    },
-    {
-      "title": "老大，你的意思是我们抽烟抽的慢也得死吗？",
-      "url": "https://www.bilibili.com/video/BV126GG62E9G",
-      "hot_value": "8064857播放",
-      "index": 11
-    },
-    {
-      "title": "还来！！！！！！！！！！！",
-      "url": "https://www.bilibili.com/video/BV1xwMQ6GEix",
-      "hot_value": "1731526播放",
-      "index": 12
     },
     {
       "title": "“至此，神性已成！！！”",
       "url": "https://www.bilibili.com/video/BV13J3R6MEkE",
-      "hot_value": "924390播放",
-      "index": 13
+      "hot_value": "1116921播放",
+      "index": 6
     },
     {
-      "title": "【半佛】小米澎程，让行业睡不着了？",
-      "url": "https://www.bilibili.com/video/BV1iFMX6aE9b",
-      "hot_value": "2567299播放",
-      "index": 14
+      "title": "【非遗】AE特效——战斗鸡",
+      "url": "https://www.bilibili.com/video/BV1sR396sEx5",
+      "hot_value": "1081780播放",
+      "index": 7
     },
     {
-      "title": "“不存在能主动使出黑闪的咒术师，除非他是...”",
-      "url": "https://www.bilibili.com/video/BV1raMX66EvB",
-      "hot_value": "1237494播放",
-      "index": 15
+      "title": "十年之后，再筑新馆",
+      "url": "https://www.bilibili.com/video/BV1EEM96uEPh",
+      "hot_value": "407377播放",
+      "index": 8
+    },
+    {
+      "title": "大家还想看我搬空什么店",
+      "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
+      "hot_value": "5396166播放",
+      "index": 9
     },
     {
       "title": "“ 最 终 幻 想 ”",
       "url": "https://www.bilibili.com/video/BV1wSMQ6gEAv",
-      "hot_value": "480477播放",
-      "index": 16
-    },
-    {
-      "title": "热搜上“仙桃电梯20秒”监控流出，炸出多少毁三观的成年巨婴",
-      "url": "https://www.bilibili.com/video/BV1G8Gc6REfA",
-      "hot_value": "6046303播放",
-      "index": 17
+      "hot_value": "608619播放",
+      "index": 10
     },
     {
       "title": "自制短剧《全民围棋：我觉醒了金铲铲业余玩家》第一集",
       "url": "https://www.bilibili.com/video/BV1gRMX6RE1P",
-      "hot_value": "465239播放",
-      "index": 18
+      "hot_value": "589337播放",
+      "index": 11
     },
     {
-      "title": "猫咖续命计划",
-      "url": "https://www.bilibili.com/video/BV1JfGA6CEgg",
-      "hot_value": "1820871播放",
-      "index": 19
+      "title": "再度超强台风：台风白海豚加强并西调，登陆我国可能性在提升",
+      "url": "https://www.bilibili.com/video/BV1cVuA6eE3J",
+      "hot_value": "452066播放",
+      "index": 12
     },
     {
-      "title": "“当你凝视深渊时，深渊也在凝视你”",
-      "url": "https://www.bilibili.com/video/BV1CuM96LEdH",
-      "hot_value": "1982077播放",
-      "index": 20
+      "title": "哈哈哈别跑~李信叔叔抓你来喽！!  !  !  !  !  !",
+      "url": "https://www.bilibili.com/video/BV1X3GV6xEfG",
+      "hot_value": "1106475播放",
+      "index": 13
     },
     {
-      "title": "想不通，太逆天，25 位名人整形手术前后的对比：过去与现在",
-      "url": "https://www.bilibili.com/video/BV1z5MQ6PESW",
-      "hot_value": "732641播放",
-      "index": 21
+      "title": "障碍赛",
+      "url": "https://www.bilibili.com/video/BV1ZGuc6xErQ",
+      "hot_value": "610933播放",
+      "index": 14
     },
     {
       "title": "柯洁与褚赢 列棋棋圣对决千岁老人",
       "url": "https://www.bilibili.com/video/BV1qFMX6aEJn",
-      "hot_value": "1667462播放",
-      "index": 22
+      "hot_value": "1750200播放",
+      "index": 15
     },
     {
-      "title": "有些善意当时没有声音，但总有一天，你会听到它的回响。",
-      "url": "https://www.bilibili.com/video/BV1BG3f6bExg",
-      "hot_value": "803026播放",
-      "index": 23
+      "title": "还来！！！！！！！！！！！",
+      "url": "https://www.bilibili.com/video/BV1xwMQ6GEix",
+      "hot_value": "1793372播放",
+      "index": 16
     },
     {
-      "title": "⚡️宗 主 连 携 技⚡️",
-      "url": "https://www.bilibili.com/video/BV1Nr3s6rE79",
-      "hot_value": "4612352播放",
-      "index": 24
+      "title": "老大，你的意思是我们抽烟抽的慢也得死吗？",
+      "url": "https://www.bilibili.com/video/BV126GG62E9G",
+      "hot_value": "8147203播放",
+      "index": 17
     },
     {
-      "title": "丧尸末日生存，装备食物药品全靠捡【亡者世界】",
-      "url": "https://www.bilibili.com/video/BV1m1Md6tEem",
-      "hot_value": "761059播放",
-      "index": 25
+      "title": "柯洁VS党毅飞（不可能的逆转）",
+      "url": "https://www.bilibili.com/video/BV1kxuw6iEb2",
+      "hot_value": "344298播放",
+      "index": 18
     },
     {
-      "title": "⚡对 对 子 战 神 9⚡",
-      "url": "https://www.bilibili.com/video/BV1p4MD6KEaM",
-      "hot_value": "1879939播放",
-      "index": 26
+      "title": "【MC】耗时一年制作真正能玩的赛博朋克世界！？丨RPG剧情向地图丨",
+      "url": "https://www.bilibili.com/video/BV1pt3x6gErU",
+      "hot_value": "1646940播放",
+      "index": 19
     },
     {
-      "title": "《现在的小孩 vs bro小时候》",
-      "url": "https://www.bilibili.com/video/BV19QMR6vEQV",
-      "hot_value": "1405944播放",
-      "index": 27
+      "title": "没水没电没床没吃40度中暑但“感恩高市总理”",
+      "url": "https://www.bilibili.com/video/BV14euc63Emz",
+      "hot_value": "526880播放",
+      "index": 20
+    },
+    {
+      "title": "当我梦到了一段很锈湖的音乐。",
+      "url": "https://www.bilibili.com/video/BV1eKMX6tERP",
+      "hot_value": "998681播放",
+      "index": 21
     },
     {
       "title": "课桌山河1566 (1)",
       "url": "https://www.bilibili.com/video/BV1MT3d6KEd1",
-      "hot_value": "996778播放",
-      "index": 28
+      "hot_value": "1064797播放",
+      "index": 22
+    },
+    {
+      "title": "过年的鞭炮声太吵，以后看你的时候我带上一束花",
+      "url": "https://www.bilibili.com/video/BV1z9MQ6iEtv",
+      "hot_value": "2979151播放",
+      "index": 23
+    },
+    {
+      "title": "五万非法移民“勇闯”西班牙小城，围墙一定要修在大海里",
+      "url": "https://www.bilibili.com/video/BV1iLuc6WE4s",
+      "hot_value": "581794播放",
+      "index": 24
+    },
+    {
+      "title": "天宫学院 #微剧情",
+      "url": "https://www.bilibili.com/video/BV1KY3R6bExg",
+      "hot_value": "448289播放",
+      "index": 25
     },
     {
       "title": "八月新番:《国家队》第二季-第1話“未重逢的相遇”",
       "url": "https://www.bilibili.com/video/BV1omgx6aEy8",
-      "hot_value": "572000播放",
+      "hot_value": "625981播放",
+      "index": 26
+    },
+    {
+      "title": "热搜上“仙桃电梯20秒”监控流出，炸出多少毁三观的成年巨婴",
+      "url": "https://www.bilibili.com/video/BV1G8Gc6REfA",
+      "hot_value": "6138691播放",
+      "index": 27
+    },
+    {
+      "title": "有些善意当时没有声音，但总有一天，你会听到它的回响。",
+      "url": "https://www.bilibili.com/video/BV1BG3f6bExg",
+      "hot_value": "848790播放",
+      "index": 28
+    },
+    {
+      "title": "挑战开局零元生存第1期",
+      "url": "https://www.bilibili.com/video/BV1e4GG64Ej4",
+      "hot_value": "1116654播放",
       "index": 29
     },
     {
-      "title": "普通人能买到的世界顶级产品，第五期",
-      "url": "https://www.bilibili.com/video/BV12AM96JEM5",
-      "hot_value": "578609播放",
+      "title": "两次承认黄岩岛是中国的，菲律宾上演“抽象反华”？【毒舌的南瓜】",
+      "url": "https://www.bilibili.com/video/BV1EmMf69Eer",
+      "hot_value": "312266播放",
       "index": 30
     }
   ]

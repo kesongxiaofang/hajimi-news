@@ -1,24 +1,24 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-08-04T23:32:17Z",
+  "update_time": "2026-08-05T02:04:49Z",
   "count": 20,
   "list": [
-    {
-      "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33713617",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "抢劫杀人犯死刑改死缓被害人家属十年后才知晓，申诉已获云南省检受理",
       "url": "https://www.thepaper.cn/newsDetail_forward_33714213",
       "hot_value": "",
+      "index": 1
+    },
+    {
+      "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33713617",
+      "hot_value": "",
       "index": 2
     },
     {
-      "title": "邯郸中院通报“女子举报执行局长骚扰索贿”：不当言论录音属实，涉事局长停职",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33711711",
+      "title": "地方餐饮协会加速清理“名厨”“名店”：线下门店须摘除销毁荣誉牌匾",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33716153",
       "hot_value": "",
       "index": 3
     },
@@ -29,8 +29,8 @@
       "index": 4
     },
     {
-      "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33710926",
+      "title": "鸿蒙智行：“竹知了”相关投诉均有明确侵权事实，不存在仅为正常制作展示内容",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33713612",
       "hot_value": "",
       "index": 5
     },
@@ -41,8 +41,8 @@
       "index": 6
     },
     {
-      "title": "鸿蒙智行：“竹知了”相关投诉均有明确侵权事实，不存在仅为正常制作展示内容",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33713612",
+      "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33713556",
       "hot_value": "",
       "index": 7
     },
@@ -53,44 +53,44 @@
       "index": 8
     },
     {
-      "title": "多个省份将召开省级党代会",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33711427",
-      "hot_value": "",
-      "index": 9
-    },
-    {
       "title": "鸿蒙智行回应“竹知了”事件",
       "url": "https://www.thepaper.cn/newsDetail_forward_33715905",
       "hot_value": "",
-      "index": 10
-    },
-    {
-      "title": "工人日报社评：让骑手“等得起红灯”，构建数字时代和谐劳动关系",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33711596",
-      "hot_value": "",
-      "index": 11
+      "index": 9
     },
     {
       "title": "150年来最强厄尔尼诺或将来袭，全球多地身陷“水深火热”",
       "url": "https://www.thepaper.cn/newsDetail_forward_33711975",
       "hot_value": "",
-      "index": 12
+      "index": 10
     },
     {
       "title": "韦布望远镜看穿戴森球假象：所谓“外星文明巨型工程”实为天然天体物理源",
       "url": "https://www.thepaper.cn/newsDetail_forward_33711823",
       "hot_value": "",
-      "index": 13
+      "index": 11
     },
     {
       "title": "高压线断裂致村民身亡村委会一审被判担责九成，死者家属和村委会提出上诉",
       "url": "https://www.thepaper.cn/newsDetail_forward_33712145",
       "hot_value": "",
-      "index": 14
+      "index": 12
+    },
+    {
+      "title": "多地停车计费试行取消“向上取整”，“按分钟计费”试点加速落地",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33715593",
+      "hot_value": "",
+      "index": 13
     },
     {
       "title": "打卡中国｜原来茂名，藏着这样的山海生活",
       "url": "https://www.thepaper.cn/newsDetail_forward_33709994",
+      "hot_value": "",
+      "index": 14
+    },
+    {
+      "title": "济南卫健委回应两位休班护士抢救溺水初中生：后续将予以表彰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33713570",
       "hot_value": "",
       "index": 15
     },
@@ -119,8 +119,8 @@
       "index": 19
     },
     {
-      "title": "地方餐饮协会加速清理“名厨”“名店”：线下门店须摘除销毁荣誉牌匾",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33716153",
+      "title": "陕西汉中村支书李杨在防汛工作中被洪水冲走不幸遇难，村民：是个不小的打击",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33716460",
       "hot_value": "",
       "index": 20
     }
