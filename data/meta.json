@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-06T07:13:47Z",
+  "update_time": "2026-08-06T10:07:06Z",
   "platforms": [
     {
       "type": "weibo",
@@ -29,7 +29,8 @@
     {
       "type": "kuaishou",
       "name": "快手热搜",
-      "count": 30
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "type": "baidu",
