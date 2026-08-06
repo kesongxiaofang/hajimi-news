@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-05T23:28:10Z",
+  "update_time": "2026-08-06T00:52:06Z",
   "count": 30,
   "list": [
     {
       "title": "周 处 除 三 害 现实版",
       "url": "https://www.bilibili.com/video/BV1bpM16eEAk",
-      "hot_value": "395534播放",
+      "hot_value": "509682播放",
       "index": 1
-    },
-    {
-      "title": "《雾海之下》首曝PV｜贪吃无罪，撤离万岁！",
-      "url": "https://www.bilibili.com/video/BV17vuw68E58",
-      "hot_value": "3481951播放",
-      "index": 2
     },
     {
       "title": "《别接我，我改！》",
       "url": "https://www.bilibili.com/video/BV1v1Mr6wEiP",
-      "hot_value": "773446播放",
-      "index": 3
-    },
-    {
-      "title": "你说偷吃零食被发现会死是吗？",
-      "url": "https://www.bilibili.com/video/BV1fGuc6xEmp",
-      "hot_value": "5029327播放",
-      "index": 4
-    },
-    {
-      "title": "完蛋！我被男同学包围了",
-      "url": "https://www.bilibili.com/video/BV1uPMZ6NEBb",
-      "hot_value": "4594571播放",
-      "index": 5
+      "hot_value": "885322播放",
+      "index": 2
     },
     {
       "title": "柯洁VS党毅飞（不可能的逆转）",
       "url": "https://www.bilibili.com/video/BV1kxuw6iEb2",
-      "hot_value": "3022377播放",
-      "index": 6
+      "hot_value": "3111289播放",
+      "index": 3
     },
     {
-      "title": "当我被外星人取代",
-      "url": "https://www.bilibili.com/video/BV1RoMf6mEra",
-      "hot_value": "2722400播放",
-      "index": 7
+      "title": "《雾海之下》首曝PV｜贪吃无罪，撤离万岁！",
+      "url": "https://www.bilibili.com/video/BV17vuw68E58",
+      "hot_value": "3492616播放",
+      "index": 4
     },
     {
-      "title": "大家还想看我搬空什么店",
-      "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
-      "hot_value": "7189597播放",
-      "index": 8
+      "title": "你说偷吃零食被发现会死是吗？",
+      "url": "https://www.bilibili.com/video/BV1fGuc6xEmp",
+      "hot_value": "5070292播放",
+      "index": 5
     },
     {
       "title": "欢迎来到研究生的世界",
       "url": "https://www.bilibili.com/video/BV1R53R6rE7a",
-      "hot_value": "1210440播放",
+      "hot_value": "1297795播放",
+      "index": 6
+    },
+    {
+      "title": "抓小三，但超燃上海话",
+      "url": "https://www.bilibili.com/video/BV1GLM16uEf6",
+      "hot_value": "634245播放",
+      "index": 7
+    },
+    {
+      "title": "当我被外星人取代",
+      "url": "https://www.bilibili.com/video/BV1RoMf6mEra",
+      "hot_value": "2761657播放",
+      "index": 8
+    },
+    {
+      "title": "完蛋！我被男同学包围了",
+      "url": "https://www.bilibili.com/video/BV1uPMZ6NEBb",
+      "hot_value": "4621105播放",
       "index": 9
     },
     {
       "title": "看完7月新番，我走火入魔！浑身燥热！【泛式】",
       "url": "https://www.bilibili.com/video/BV1tcMy6fEEU",
-      "hot_value": "545436播放",
+      "hot_value": "578930播放",
       "index": 10
+    },
+    {
+      "title": "大家还想看我搬空什么店",
+      "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
+      "hot_value": "7204120播放",
+      "index": 11
     },
     {
       "title": "为什么必须有残疾证才能证明是残疾人？",
       "url": "https://www.bilibili.com/video/BV1CsMr61EfJ",
-      "hot_value": "518629播放",
-      "index": 11
-    },
-    {
-      "title": "抓小三，但超燃上海话",
-      "url": "https://www.bilibili.com/video/BV1GLM16uEf6",
-      "hot_value": "489078播放",
+      "hot_value": "553393播放",
       "index": 12
     },
     {
-      "title": "《最讨厌复联の一集》",
-      "url": "https://www.bilibili.com/video/BV1KduF6ME4b",
-      "hot_value": "5783923播放",
+      "title": "一朝悟道见真我，何惧昔日旧加锁",
+      "url": "https://www.bilibili.com/video/BV1FDMB6wEt5",
+      "hot_value": "695041播放",
       "index": 13
-    },
-    {
-      "title": "近期热点事件：7月神人合集（二）",
-      "url": "https://www.bilibili.com/video/BV1Vcuw6XEfx",
-      "hot_value": "1288051播放",
-      "index": 14
     },
     {
       "title": "生活中最阴的概念神实力排行（2）",
       "url": "https://www.bilibili.com/video/BV1LcMr6AESQ",
-      "hot_value": "511975播放",
+      "hot_value": "587921播放",
+      "index": 14
+    },
+    {
+      "title": "《最讨厌复联の一集》",
+      "url": "https://www.bilibili.com/video/BV1KduF6ME4b",
+      "hot_value": "5809771播放",
       "index": 15
     },
     {
       "title": "自制短剧《全民围棋：我觉醒了金铲铲业余玩家》第一集",
       "url": "https://www.bilibili.com/video/BV1gRMX6RE1P",
-      "hot_value": "1315570播放",
+      "hot_value": "1344790播放",
       "index": 16
     },
     {
-      "title": "“至此，神性已成！！！”",
-      "url": "https://www.bilibili.com/video/BV13J3R6MEkE",
-      "hot_value": "2001711播放",
+      "title": "这是哑巴还是啥子？「谁是伪人？！」",
+      "url": "https://www.bilibili.com/video/BV1sFMB6KE7J",
+      "hot_value": "606472播放",
       "index": 17
     },
     {
-      "title": "美利坚糖门黄油大胃袋VS国产味真族良子板面长老",
-      "url": "https://www.bilibili.com/video/BV1JmMf69EZY",
-      "hot_value": "3349192播放",
+      "title": "近期热点事件：7月神人合集（二）",
+      "url": "https://www.bilibili.com/video/BV1Vcuw6XEfx",
+      "hot_value": "1313921播放",
       "index": 18
     },
     {
       "title": "哥哥升入高三后离奇去世，这所无人毕业的高中到底藏了什么？",
       "url": "https://www.bilibili.com/video/BV1pAMB6PEv3",
-      "hot_value": "526571播放",
+      "hot_value": "562694播放",
       "index": 19
     },
     {
-      "title": "抽象新闻：7月人类迷惑行为大赏（下）",
-      "url": "https://www.bilibili.com/video/BV16QuA6qEDG",
-      "hot_value": "1517291播放",
+      "title": "“至此，神性已成！！！”",
+      "url": "https://www.bilibili.com/video/BV13J3R6MEkE",
+      "hot_value": "2024141播放",
       "index": 20
-    },
-    {
-      "title": "这是哑巴还是啥子？「谁是伪人？！」",
-      "url": "https://www.bilibili.com/video/BV1sFMB6KE7J",
-      "hot_value": "579729播放",
-      "index": 21
     },
     {
       "title": "8.4事态升级！泰国俄罗斯姐弟，案中案爆发！ 毛骨悚然！全网炸锅！网友纷纷退P！泰国旅游业直接无了！",
       "url": "https://www.bilibili.com/video/BV1Ryuw6pEA9",
-      "hot_value": "906162播放",
+      "hot_value": "940821播放",
+      "index": 21
+    },
+    {
+      "title": "鬼椒面！",
+      "url": "https://www.bilibili.com/video/BV1N7uF6PEWP",
+      "hot_value": "789285播放",
       "index": 22
-    },
-    {
-      "title": "(完整版)再见了，我那有着婴儿般蓝色眼睛的爱人【Emoji】",
-      "url": "https://www.bilibili.com/video/BV1WbMX6kEMG",
-      "hot_value": "1291117播放",
-      "index": 23
-    },
-    {
-      "title": "我们从网上买来了一些泡面尝了尝…",
-      "url": "https://www.bilibili.com/video/BV1oKM165EkC",
-      "hot_value": "416763播放",
-      "index": 24
     },
     {
       "title": "谁能绷住！特效小哥大战网吧女王！",
       "url": "https://www.bilibili.com/video/BV1xvuc66EU5",
-      "hot_value": "737648播放",
+      "hot_value": "762518播放",
+      "index": 23
+    },
+    {
+      "title": "私房照模特，状告摄影师猥亵，到底摸没摸，各位来评判！《开庭》第一案",
+      "url": "https://www.bilibili.com/video/BV17ZM66NETP",
+      "hot_value": "339669播放",
+      "index": 24
+    },
+    {
+      "title": "美利坚糖门黄油大胃袋VS国产味真族良子板面长老",
+      "url": "https://www.bilibili.com/video/BV1JmMf69EZY",
+      "hot_value": "3356302播放",
       "index": 25
     },
     {
-      "title": "一朝悟道见真我，何惧昔日旧加锁",
-      "url": "https://www.bilibili.com/video/BV1FDMB6wEt5",
-      "hot_value": "633719播放",
+      "title": "(完整版)再见了，我那有着婴儿般蓝色眼睛的爱人【Emoji】",
+      "url": "https://www.bilibili.com/video/BV1WbMX6kEMG",
+      "hot_value": "1301101播放",
       "index": 26
     },
     {
-      "title": "带君哥在上海逛菜场，炫本帮面…",
-      "url": "https://www.bilibili.com/video/BV11xMR6pEiF",
-      "hot_value": "1003335播放",
+      "title": "厕  所  大  师",
+      "url": "https://www.bilibili.com/video/BV11duF6TEfz",
+      "hot_value": "2185185播放",
       "index": 27
-    },
-    {
-      "title": "“ 最 终 幻 想 ”",
-      "url": "https://www.bilibili.com/video/BV1wSMQ6gEAv",
-      "hot_value": "1269949播放",
-      "index": 28
     },
     {
       "title": "当我梦到了一段很锈湖的音乐。",
       "url": "https://www.bilibili.com/video/BV1eKMX6tERP",
-      "hot_value": "2224349播放",
+      "hot_value": "2242088播放",
+      "index": 28
+    },
+    {
+      "title": "80后老登勇闯加勒比海无人岛，谁知夜里的海底都是巨型犀牛虾！",
+      "url": "https://www.bilibili.com/video/BV1xkuA6CE7h",
+      "hot_value": "791802播放",
       "index": 29
     },
     {
-      "title": "老大，你的意思是我们抽烟抽的慢也得死吗？",
-      "url": "https://www.bilibili.com/video/BV126GG62E9G",
-      "hot_value": "8858325播放",
+      "title": "我们从网上买来了一些泡面尝了尝…",
+      "url": "https://www.bilibili.com/video/BV1oKM165EkC",
+      "hot_value": "430325播放",
       "index": 30
     }
   ]
