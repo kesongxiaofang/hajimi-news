@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-06T14:52:00Z",
+  "update_time": "2026-08-07T00:22:29Z",
   "count": 30,
   "list": [
     {
-      "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-      "url": "https://www.zhihu.com/question/2068628771687625392",
-      "hot_value": "883 万热度",
+      "title": "宇树科技发行价 150.80 元 / 股，发行市盈率高达 219.23 倍，这个定价贵不贵？",
+      "url": "https://www.zhihu.com/question/2068776757054760833",
+      "hot_value": "427 万热度",
       "index": 1
     },
     {
-      "title": "我国首次证实「胶球」存在，对物理研究有什么影响？",
-      "url": "https://www.zhihu.com/question/2068632379342714042",
-      "hot_value": "523 万热度",
+      "title": "网传南航一航班提供饮料为西梅汁，致乘客大排长队上厕所，是真的吗？如何评价这一事件？",
+      "url": "https://www.zhihu.com/question/2068358710498254999",
+      "hot_value": "397 万热度",
       "index": 2
     },
     {
-      "title": "张一鸣罕见发声称「不用别人的输出换榜单排名」，内部对开源模型严禁蒸馏，有哪些考量？会怎样影响字节发展？",
-      "url": "https://www.zhihu.com/question/2068681750381683955",
-      "hot_value": "279 万热度",
+      "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
+      "url": "https://www.zhihu.com/question/2068637080209421054",
+      "hot_value": "360 万热度",
       "index": 3
     },
     {
-      "title": "看了陈鲁豫对钟美美的采访，你有什么收获与思考？",
-      "url": "https://www.zhihu.com/question/2068014292029420677",
-      "hot_value": "267 万热度",
+      "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
+      "url": "https://www.zhihu.com/question/2068631767326660517",
+      "hot_value": "348 万热度",
       "index": 4
-    },
-    {
-      "title": "苹果为降低成本要求长鑫降价反遭涨价，长鑫的市场筹码来自哪里？反映了怎样的市场博弈？",
-      "url": "https://www.zhihu.com/question/2068598800793303020",
-      "hot_value": "239 万热度",
-      "index": 5
-    },
-    {
-      "title": "《完蛋！我被男同学包围了》为什么会好评如潮，纯粹因为它是高中生玩票制作的搞笑玩梗游戏吗？",
-      "url": "https://www.zhihu.com/question/2068004843956827148",
-      "hot_value": "231 万热度",
-      "index": 6
     },
     {
       "title": "为什么《黑悟空》游科公司不做国民 IP 的动作 RPG《黑水浒》，而做没名气的《黑钟馗》？",
       "url": "https://www.zhihu.com/question/2068128337650791904",
-      "hot_value": "208 万热度",
+      "hot_value": "293 万热度",
+      "index": 5
+    },
+    {
+      "title": "小米徐洁云就「孩 Go」言论回应，称有用户宠物名叫「孩 Go」，如何评价其这一解释？",
+      "url": "https://www.zhihu.com/question/2068733400928753119",
+      "hot_value": "221 万热度",
+      "index": 6
+    },
+    {
+      "title": "三战全胜，国足 U17 2:1 勒沃库森 U17，赵松源替补登场 1 分钟即取得一球一助攻，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2068815066917516958",
+      "hot_value": "151 万热度",
       "index": 7
     },
     {
-      "title": "黄金、白银大涨，黄金盘中重回 4300 美元，白银突破 62 美元，品牌金饰价涨超 55 元，开启新一轮上涨了吗？",
-      "url": "https://www.zhihu.com/question/2068465234843530940",
-      "hot_value": "196 万热度",
+      "title": "本人某 C9 毕业学生，想从事教培工作，但是被家里人骂得狗血淋头，难道教培就怎么不堪吗？",
+      "url": "https://www.zhihu.com/question/1988235352129962827",
+      "hot_value": "149 万热度",
       "index": 8
     },
     {
-      "title": "梅姨案已进入审查起诉阶段，梅姨真实姓名曝光，年龄或致死刑适用受限，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2068598762075682268",
-      "hot_value": "185 万热度",
+      "title": "《封神演义》中，为什么最后反而是姜子牙自己没被封神？",
+      "url": "https://www.zhihu.com/question/12458892686",
+      "hot_value": "145 万热度",
       "index": 9
     },
     {
-      "title": "如何看待《蜘蛛侠 4》导演否认成家班参与设计电影？",
-      "url": "https://www.zhihu.com/question/2068278852867166688",
-      "hot_value": "172 万热度",
+      "title": "商务部宣布加强无人机相关两用物项对美出口管制，此举会带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2068368932424115158",
+      "hot_value": "124 万热度",
       "index": 10
     },
     {
-      "title": "日本网红 Mina 轻生离世，曾疑因偶像的含沙射影被大批粉丝人肉、网暴，直播含泪肯求停止网暴，发生了什么？",
-      "url": "https://www.zhihu.com/question/2068633449532076447",
-      "hot_value": "170 万热度",
+      "title": "中际旭创、新易盛、天孚通信集体回应美国光模块禁令，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2068313501182039316",
+      "hot_value": "120 万热度",
       "index": 11
     },
     {
-      "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
-      "url": "https://www.zhihu.com/question/2068498722300990537",
-      "hot_value": "169 万热度",
+      "title": "如何看待新筹建的新疆外国语学院？",
+      "url": "https://www.zhihu.com/question/2067923123509227955",
+      "hot_value": "116 万热度",
       "index": 12
     },
     {
-      "title": "如何看待尊界新车上市 1 小时大定 2115 台？订单热度能延续到交付阶段吗？",
-      "url": "https://www.zhihu.com/question/2068403196586897921",
-      "hot_value": "163 万热度",
+      "title": "沈腾新片《欢迎来龙餐馆》映前 6 天极限定档，你觉得这部电影会爆吗？",
+      "url": "https://www.zhihu.com/question/2068391874478465188",
+      "hot_value": "111 万热度",
       "index": 13
     },
     {
-      "title": "网传吃 20 个饺子，等于吃下 6 到 7 个馒头，是真的吗？",
-      "url": "https://www.zhihu.com/question/2067988257770574731",
-      "hot_value": "163 万热度",
+      "title": "如何看待日本网红 Mina 轻生离世，曾疑因偶像的含沙射影被大批粉丝人肉、网暴，直播含泪恳求停止网暴？",
+      "url": "https://www.zhihu.com/question/2068633449532076447",
+      "hot_value": "110 万热度",
       "index": 14
     },
     {
-      "title": "如果刘邦、刘秀、刘备处于同一个时代，诸葛亮会选择谁？",
-      "url": "https://www.zhihu.com/question/655170670",
-      "hot_value": "162 万热度",
+      "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+      "url": "https://www.zhihu.com/question/2068628771687625392",
+      "hot_value": "101 万热度",
       "index": 15
-    },
-    {
-      "title": "怎么看 OpenAI 工程师说「现在大多数大型实验室成员几乎不看论文，因为大部分都是欺诈」？",
-      "url": "https://www.zhihu.com/question/2068662948407546390",
-      "hot_value": "161 万热度",
-      "index": 16
     },
     {
       "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
       "url": "https://www.zhihu.com/question/2068728009981440588",
-      "hot_value": "135 万热度",
+      "hot_value": "100 万热度",
+      "index": 16
+    },
+    {
+      "title": "近期人民币兑美元汇率在 6.7-6.8 徘徊，接下来会继续升值还是转向贬值？",
+      "url": "https://www.zhihu.com/question/2061473659827627539",
+      "hot_value": "100 万热度",
       "index": 17
     },
     {
-      "title": "中方宣布对 FCC 、美国土安全部涉华消极措施实施反制，7 家美国实体被列入反制清单，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2068370541296328814",
-      "hot_value": "134 万热度",
+      "title": "职场新人需要主动拉近和上司的距离吗？在工作中，如何与上司打交道？",
+      "url": "https://www.zhihu.com/question/2067992204371669527",
+      "hot_value": "97 万热度",
       "index": 18
     },
     {
-      "title": "余承东发布会上误将 24999 元念成 2499 元，客观来看 MateBook Fold 这个定价合理吗？",
-      "url": "https://www.zhihu.com/question/2068437296529897006",
-      "hot_value": "134 万热度",
+      "title": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？",
+      "url": "https://www.zhihu.com/question/2068724870267891996",
+      "hot_value": "94 万热度",
       "index": 19
     },
     {
-      "title": "在科幻中几乎所有的高等外星生命都是恶意的？难道不是文明越高，看到宇宙美妙越多，从而变得更高尚吗？",
-      "url": "https://www.zhihu.com/question/1961366053536916038",
-      "hot_value": "134 万热度",
+      "title": "老乡鸡主动邀约求职者，得知二人同名后又直接拒绝，称喊一个名字会有两个人答应，仅因同名就拒绝录用合理吗？",
+      "url": "https://www.zhihu.com/question/2067990469624304935",
+      "hot_value": "93 万热度",
       "index": 20
     },
     {
       "title": "周杰伦公司发声明否认私生子传闻，已完成证据保全，保留追责权利，如何看待这一事件？",
       "url": "https://www.zhihu.com/question/2068633668600296912",
-      "hot_value": "134 万热度",
+      "hot_value": "93 万热度",
       "index": 21
     },
     {
-      "title": "本人某 C9 毕业学生，想从事教培工作，但是被家里人骂得狗血淋头，难道教培就怎么不堪吗？",
-      "url": "https://www.zhihu.com/question/1988235352129962827",
-      "hot_value": "134 万热度",
+      "title": "在科幻中几乎所有的高等外星生命都是恶意的？难道不是文明越高，看到宇宙美妙越多，从而变得更高尚吗？",
+      "url": "https://www.zhihu.com/question/1961366053536916038",
+      "hot_value": "92 万热度",
       "index": 22
-    },
-    {
-      "title": "《影之刃零》发布最新实机预告，8 月 12 日将开启预购，官方称已经完成全部内容研发，对此你有什么期待？",
-      "url": "https://www.zhihu.com/question/2068643584761500614",
-      "hot_value": "106 万热度",
-      "index": 23
-    },
-    {
-      "title": "用惯拼多多才发现很多东西不该这么贵，大家有同感吗？",
-      "url": "https://www.zhihu.com/question/2068493502313412463",
-      "hot_value": "97 万热度",
-      "index": 24
     },
     {
       "title": "三星海力士美光 2027 年的预计内存供应已全部售罄，且暂无新增产能规划，这意味着什么？有哪些影响？",
       "url": "https://www.zhihu.com/question/2068641344700905379",
-      "hot_value": "93 万热度",
+      "hot_value": "91 万热度",
+      "index": 23
+    },
+    {
+      "title": "我国首次证实「胶球」存在，对物理研究有什么影响？",
+      "url": "https://www.zhihu.com/question/2068632379342714042",
+      "hot_value": "89 万热度",
+      "index": 24
+    },
+    {
+      "title": "世卫组织建议新冠疫苗接种从「应急」转向「常规」，意味着以后要定期接种新冠疫苗了吗？",
+      "url": "https://www.zhihu.com/question/2067928197945980131",
+      "hot_value": "86 万热度",
       "index": 25
     },
     {
-      "title": "如何评价 Meta 刚发布的 Muse Spark 1.2？",
-      "url": "https://www.zhihu.com/question/2068610748578898866",
-      "hot_value": "92 万热度",
+      "title": "用惯拼多多才发现很多东西不该这么贵，大家有同感吗？",
+      "url": "https://www.zhihu.com/question/2068493502313412463",
+      "hot_value": "83 万热度",
       "index": 26
     },
     {
-      "title": "宇树科技发行价 150.80 元 / 股，发行市盈率高达 219.23 倍，这个定价贵不贵？",
-      "url": "https://www.zhihu.com/question/2068776757054760833",
-      "hot_value": "89 万热度",
+      "title": "黄金、白银大涨，黄金盘中重回 4300 美元，白银突破 62 美元，品牌金饰价涨超 55 元，开启新一轮上涨了吗？",
+      "url": "https://www.zhihu.com/question/2068465234843530940",
+      "hot_value": "81 万热度",
       "index": 27
     },
     {
-      "title": "特朗普和贝森特说美伊将在两天内谈判成功，海峡开放，美股历史新高，油价大跌，后续怎么看？",
-      "url": "https://www.zhihu.com/question/2068212281289319956",
-      "hot_value": "84 万热度",
+      "title": "你希望你的墓碑上写什么？",
+      "url": "https://www.zhihu.com/question/1945898188629321098",
+      "hot_value": "72 万热度",
       "index": 28
     },
     {
-      "title": "阿联酋航空 A380 备降杭州，373 名乘客被困机舱超 10 小时，具体情况如何？航司需负哪些责任？",
-      "url": "https://www.zhihu.com/question/2063583750584275618",
-      "hot_value": "80 万热度",
+      "title": "孩子的自驱力从哪来？",
+      "url": "https://www.zhihu.com/question/2058872831988052595",
+      "hot_value": "71 万热度",
       "index": 29
     },
     {
-      "title": "恋与深空再确认敖尹不会上线，将永远只有五位男主，为啥时隔一个月舆论还在发酵？官方有啥好的应对办法吗？",
-      "url": "https://www.zhihu.com/question/2068411990985236481",
-      "hot_value": "80 万热度",
+      "title": "立秋为什么要「贴秋膘」？",
+      "url": "https://www.zhihu.com/question/2065129497867956895",
+      "hot_value": "70 万热度",
       "index": 30
     }
   ]
