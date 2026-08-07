@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-07T00:22:29Z",
+  "update_time": "2026-08-07T03:26:04Z",
   "count": 30,
   "list": [
     {
-      "title": "宇树科技发行价 150.80 元 / 股，发行市盈率高达 219.23 倍，这个定价贵不贵？",
-      "url": "https://www.zhihu.com/question/2068776757054760833",
-      "hot_value": "427 万热度",
-      "index": 1
-    },
-    {
-      "title": "网传南航一航班提供饮料为西梅汁，致乘客大排长队上厕所，是真的吗？如何评价这一事件？",
-      "url": "https://www.zhihu.com/question/2068358710498254999",
-      "hot_value": "397 万热度",
-      "index": 2
-    },
-    {
-      "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
+      "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
       "url": "https://www.zhihu.com/question/2068637080209421054",
-      "hot_value": "360 万热度",
-      "index": 3
-    },
-    {
-      "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
-      "url": "https://www.zhihu.com/question/2068631767326660517",
-      "hot_value": "348 万热度",
-      "index": 4
+      "hot_value": "680 万热度",
+      "index": 1
     },
     {
       "title": "为什么《黑悟空》游科公司不做国民 IP 的动作 RPG《黑水浒》，而做没名气的《黑钟馗》？",
       "url": "https://www.zhihu.com/question/2068128337650791904",
-      "hot_value": "293 万热度",
+      "hot_value": "413 万热度",
+      "index": 2
+    },
+    {
+      "title": "网传南航一航班提供饮料为西梅汁，致乘客大排长队上厕所，是真的吗？如何评价这一事件？",
+      "url": "https://www.zhihu.com/question/2068358710498254999",
+      "hot_value": "308 万热度",
+      "index": 3
+    },
+    {
+      "title": "《蜘蛛侠：崭新之日》大爆，前三部导演乔恩·瓦茨遭网暴「永远别再执导蜘蛛侠了」，客观来说前三部质量如何？",
+      "url": "https://www.zhihu.com/question/2068304398212495175",
+      "hot_value": "205 万热度",
+      "index": 4
+    },
+    {
+      "title": "老乡鸡主动邀约求职者，得知二人同名后又直接拒绝，称喊一个名字会有两个人答应，仅因同名就拒绝录用合理吗？",
+      "url": "https://www.zhihu.com/question/2067990469624304935",
+      "hot_value": "178 万热度",
       "index": 5
     },
     {
-      "title": "小米徐洁云就「孩 Go」言论回应，称有用户宠物名叫「孩 Go」，如何评价其这一解释？",
-      "url": "https://www.zhihu.com/question/2068733400928753119",
-      "hot_value": "221 万热度",
+      "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
+      "url": "https://www.zhihu.com/question/2062925324489339966",
+      "hot_value": "157 万热度",
       "index": 6
     },
     {
-      "title": "三战全胜，国足 U17 2:1 勒沃库森 U17，赵松源替补登场 1 分钟即取得一球一助攻，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2068815066917516958",
-      "hot_value": "151 万热度",
+      "title": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？",
+      "url": "https://www.zhihu.com/question/2068724870267891996",
+      "hot_value": "154 万热度",
       "index": 7
     },
     {
-      "title": "本人某 C9 毕业学生，想从事教培工作，但是被家里人骂得狗血淋头，难道教培就怎么不堪吗？",
-      "url": "https://www.zhihu.com/question/1988235352129962827",
-      "hot_value": "149 万热度",
+      "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
+      "url": "https://www.zhihu.com/question/2068727171682718365",
+      "hot_value": "154 万热度",
       "index": 8
+    },
+    {
+      "title": "胖东来宣布暂别行业会议和帮扶，是否意味着中国零售业「向胖东来学习」的热潮正在退去？",
+      "url": "https://www.zhihu.com/question/2068641150270026516",
+      "hot_value": "132 万热度",
+      "index": 9
+    },
+    {
+      "title": "新生儿入住月子会所 4 天后颅内出血进 ICU，监控现护理人员拍打、吼叫行为，相关方应承担怎样责任？",
+      "url": "https://www.zhihu.com/question/2068703340356003104",
+      "hot_value": "125 万热度",
+      "index": 10
+    },
+    {
+      "title": "立秋为什么要「贴秋膘」？",
+      "url": "https://www.zhihu.com/question/2065129497867956895",
+      "hot_value": "124 万热度",
+      "index": 11
     },
     {
       "title": "《封神演义》中，为什么最后反而是姜子牙自己没被封神？",
       "url": "https://www.zhihu.com/question/12458892686",
-      "hot_value": "145 万热度",
-      "index": 9
-    },
-    {
-      "title": "商务部宣布加强无人机相关两用物项对美出口管制，此举会带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2068368932424115158",
-      "hot_value": "124 万热度",
-      "index": 10
-    },
-    {
-      "title": "中际旭创、新易盛、天孚通信集体回应美国光模块禁令，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2068313501182039316",
-      "hot_value": "120 万热度",
-      "index": 11
-    },
-    {
-      "title": "如何看待新筹建的新疆外国语学院？",
-      "url": "https://www.zhihu.com/question/2067923123509227955",
-      "hot_value": "116 万热度",
+      "hot_value": "122 万热度",
       "index": 12
     },
     {
-      "title": "沈腾新片《欢迎来龙餐馆》映前 6 天极限定档，你觉得这部电影会爆吗？",
-      "url": "https://www.zhihu.com/question/2068391874478465188",
-      "hot_value": "111 万热度",
+      "title": "孩子准备上大一了，一个月跟我要 1500 的生活费，会不会太多了？",
+      "url": "https://www.zhihu.com/question/2066558957930420222",
+      "hot_value": "121 万热度",
       "index": 13
     },
     {
       "title": "如何看待日本网红 Mina 轻生离世，曾疑因偶像的含沙射影被大批粉丝人肉、网暴，直播含泪恳求停止网暴？",
       "url": "https://www.zhihu.com/question/2068633449532076447",
-      "hot_value": "110 万热度",
+      "hot_value": "120 万热度",
       "index": 14
     },
     {
-      "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-      "url": "https://www.zhihu.com/question/2068628771687625392",
-      "hot_value": "101 万热度",
+      "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
+      "url": "https://www.zhihu.com/question/2068423522058244663",
+      "hot_value": "114 万热度",
       "index": 15
     },
     {
-      "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
-      "url": "https://www.zhihu.com/question/2068728009981440588",
-      "hot_value": "100 万热度",
+      "title": "专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？",
+      "url": "https://www.zhihu.com/question/2068732573711329057",
+      "hot_value": "114 万热度",
       "index": 16
     },
     {
-      "title": "近期人民币兑美元汇率在 6.7-6.8 徘徊，接下来会继续升值还是转向贬值？",
-      "url": "https://www.zhihu.com/question/2061473659827627539",
-      "hot_value": "100 万热度",
+      "title": "如何看待新筹建的新疆外国语学院？",
+      "url": "https://www.zhihu.com/question/2067923123509227955",
+      "hot_value": "113 万热度",
       "index": 17
     },
     {
-      "title": "职场新人需要主动拉近和上司的距离吗？在工作中，如何与上司打交道？",
-      "url": "https://www.zhihu.com/question/2067992204371669527",
-      "hot_value": "97 万热度",
+      "title": "LPL2026 赛季第三赛段组内赛 WE 2:0 AL，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2068810865269268538",
+      "hot_value": "111 万热度",
       "index": 18
     },
     {
-      "title": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？",
-      "url": "https://www.zhihu.com/question/2068724870267891996",
-      "hot_value": "94 万热度",
+      "title": "大家怎么看《风筝》里面的郑耀先？",
+      "url": "https://www.zhihu.com/question/265408426",
+      "hot_value": "110 万热度",
       "index": 19
     },
     {
-      "title": "老乡鸡主动邀约求职者，得知二人同名后又直接拒绝，称喊一个名字会有两个人答应，仅因同名就拒绝录用合理吗？",
-      "url": "https://www.zhihu.com/question/2067990469624304935",
+      "title": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？",
+      "url": "https://www.zhihu.com/question/59229305",
       "hot_value": "93 万热度",
       "index": 20
     },
     {
-      "title": "周杰伦公司发声明否认私生子传闻，已完成证据保全，保留追责权利，如何看待这一事件？",
-      "url": "https://www.zhihu.com/question/2068633668600296912",
-      "hot_value": "93 万热度",
-      "index": 21
-    },
-    {
-      "title": "在科幻中几乎所有的高等外星生命都是恶意的？难道不是文明越高，看到宇宙美妙越多，从而变得更高尚吗？",
-      "url": "https://www.zhihu.com/question/1961366053536916038",
-      "hot_value": "92 万热度",
-      "index": 22
-    },
-    {
-      "title": "三星海力士美光 2027 年的预计内存供应已全部售罄，且暂无新增产能规划，这意味着什么？有哪些影响？",
-      "url": "https://www.zhihu.com/question/2068641344700905379",
+      "title": "2016 年詹姆斯率骑士 1-3 逆转夺冠，这在 NBA 史上具有怎样的意义？",
+      "url": "https://www.zhihu.com/question/2068528499690885875",
       "hot_value": "91 万热度",
-      "index": 23
-    },
-    {
-      "title": "我国首次证实「胶球」存在，对物理研究有什么影响？",
-      "url": "https://www.zhihu.com/question/2068632379342714042",
-      "hot_value": "89 万热度",
-      "index": 24
+      "index": 21
     },
     {
       "title": "世卫组织建议新冠疫苗接种从「应急」转向「常规」，意味着以后要定期接种新冠疫苗了吗？",
       "url": "https://www.zhihu.com/question/2067928197945980131",
-      "hot_value": "86 万热度",
+      "hot_value": "89 万热度",
+      "index": 22
+    },
+    {
+      "title": "职场新人需要主动拉近和上司的距离吗？在工作中，如何与上司打交道？",
+      "url": "https://www.zhihu.com/question/2067992204371669527",
+      "hot_value": "83 万热度",
+      "index": 23
+    },
+    {
+      "title": "小米澎程系列配置「低速慢行灯」，时速低于 10km/h 自动开启，实用性如何？能解决哪些夜间驾驶痛点？",
+      "url": "https://www.zhihu.com/question/2067414687868774120",
+      "hot_value": "82 万热度",
+      "index": 24
+    },
+    {
+      "title": "奥特曼称 6 年后人均月耗 5000 亿 token，这一预测在技术和资源上是否可行？",
+      "url": "https://www.zhihu.com/question/2065474702030661526",
+      "hot_value": "68 万热度",
       "index": 25
     },
     {
-      "title": "用惯拼多多才发现很多东西不该这么贵，大家有同感吗？",
-      "url": "https://www.zhihu.com/question/2068493502313412463",
-      "hot_value": "83 万热度",
+      "title": "如何看待儿科医生韩杰「漏诊」获刑 1 年，本人称「认错但不认罪」？从专业角度看他应该获刑吗？",
+      "url": "https://www.zhihu.com/question/2068723614723956859",
+      "hot_value": "67 万热度",
       "index": 26
     },
     {
-      "title": "黄金、白银大涨，黄金盘中重回 4300 美元，白银突破 62 美元，品牌金饰价涨超 55 元，开启新一轮上涨了吗？",
-      "url": "https://www.zhihu.com/question/2068465234843530940",
-      "hot_value": "81 万热度",
+      "title": "《崩坏: 星穹铁道》中，托帕向贝洛伯格讨债的剧情，现在看来是不是不合理？",
+      "url": "https://www.zhihu.com/question/2068060157125435644",
+      "hot_value": "67 万热度",
       "index": 27
     },
     {
-      "title": "你希望你的墓碑上写什么？",
-      "url": "https://www.zhihu.com/question/1945898188629321098",
-      "hot_value": "72 万热度",
+      "title": "如果你获得了《原神》的神之眼，你希望它是什么元素的？",
+      "url": "https://www.zhihu.com/question/6351897929",
+      "hot_value": "65 万热度",
       "index": 28
     },
     {
-      "title": "孩子的自驱力从哪来？",
-      "url": "https://www.zhihu.com/question/2058872831988052595",
-      "hot_value": "71 万热度",
+      "title": "2026WTT 横滨冠军赛女单八分之一决赛，中国小将陈熠 2 比 3 遭张本美和逆转，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2068773341004146431",
+      "hot_value": "65 万热度",
       "index": 29
     },
     {
-      "title": "立秋为什么要「贴秋膘」？",
-      "url": "https://www.zhihu.com/question/2065129497867956895",
-      "hot_value": "70 万热度",
+      "title": "我国首次证实「胶球」存在，对物理研究有什么影响？",
+      "url": "https://www.zhihu.com/question/2068632379342714042",
+      "hot_value": "64 万热度",
       "index": 30
     }
   ]

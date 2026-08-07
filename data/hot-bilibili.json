@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-07T00:22:29Z",
+  "update_time": "2026-08-07T03:26:04Z",
   "count": 30,
   "list": [
     {
+      "title": "《死》死亡是什么？",
+      "url": "https://www.bilibili.com/video/BV115un6dE9a",
+      "hot_value": "713212播放",
+      "index": 1
+    },
+    {
       "title": "周 处 除 三 害 现实版",
       "url": "https://www.bilibili.com/video/BV1bpM16eEAk",
-      "hot_value": "2764708播放",
-      "index": 1
+      "hot_value": "3112691播放",
+      "index": 2
     },
     {
       "title": "欢迎来到研究生的世界",
       "url": "https://www.bilibili.com/video/BV1R53R6rE7a",
-      "hot_value": "6510996播放",
-      "index": 2
-    },
-    {
-      "title": "《原神》奥黛塔角色PV——「柔雪的幻象」",
-      "url": "https://www.bilibili.com/video/BV1wZMy6DE31",
-      "hot_value": "1511953播放",
+      "hot_value": "6732236播放",
       "index": 3
     },
     {
       "title": "【独家】《将夜》第17集 痛其不通【4月国创】",
       "url": "https://www.bilibili.com/video/BV1LDM16LEfU",
-      "hot_value": "708563播放",
+      "hot_value": "750814播放",
       "index": 4
     },
     {
-      "title": "把课本搬进现实，送娃入住有1000个兵马俑的奇葩酒店！他惊呆了！",
-      "url": "https://www.bilibili.com/video/BV1qyu76BE7F",
-      "hot_value": "1147788播放",
+      "title": "第三集 |🐧赛伊德：“雷斯也变成女孩了？！”🐧",
+      "url": "https://www.bilibili.com/video/BV1T8uJ6oEqK",
+      "hot_value": "485219播放",
       "index": 5
     },
     {
-      "title": "《死》死亡是什么？",
-      "url": "https://www.bilibili.com/video/BV115un6dE9a",
-      "hot_value": "288448播放",
+      "title": "末世羊毛成了硬通货，奏星造出了全自动刷线机【亡者世界】",
+      "url": "https://www.bilibili.com/video/BV1U8uH6eE7b",
+      "hot_value": "150328播放",
       "index": 6
-    },
-    {
-      "title": "《别接我，我改！》",
-      "url": "https://www.bilibili.com/video/BV1v1Mr6wEiP",
-      "hot_value": "5466751播放",
-      "index": 7
-    },
-    {
-      "title": "我好像出了个假国！中国人在纽约建了个新县城？",
-      "url": "https://www.bilibili.com/video/BV1LPMr6cE6u",
-      "hot_value": "1701354播放",
-      "index": 8
     },
     {
       "title": "保安从业手册！超好玩儿的奇幻喜剧，上映20年创意依然脑洞大开",
       "url": "https://www.bilibili.com/video/BV1GYMk6FEPY",
-      "hot_value": "3235358播放",
+      "hot_value": "4111292播放",
+      "index": 7
+    },
+    {
+      "title": "把课本搬进现实，送娃入住有1000个兵马俑的奇葩酒店！他惊呆了！",
+      "url": "https://www.bilibili.com/video/BV1qyu76BE7F",
+      "hot_value": "1442377播放",
+      "index": 8
+    },
+    {
+      "title": "《别接我，我改！》",
+      "url": "https://www.bilibili.com/video/BV1v1Mr6wEiP",
+      "hot_value": "6054529播放",
       "index": 9
     },
     {
-      "title": "完蛋！我被男同学包围了",
-      "url": "https://www.bilibili.com/video/BV1uPMZ6NEBb",
-      "hot_value": "6118014播放",
+      "title": "逆天！1.9元套餐收60元服务费，老板要起诉勇哥并报警！【网络狠人111】",
+      "url": "https://www.bilibili.com/video/BV1LGuJ6uEvx",
+      "hot_value": "459958播放",
       "index": 10
     },
     {
-      "title": "生活中最阴的概念神实力排行（2）",
-      "url": "https://www.bilibili.com/video/BV1LcMr6AESQ",
-      "hot_value": "3694085播放",
+      "title": "你可能不认识我，但是你绝对听过他的歌【网络奇人#1】",
+      "url": "https://www.bilibili.com/video/BV1JtuF64ENj",
+      "hot_value": "530533播放",
       "index": 11
     },
     {
-      "title": "说谎的批判家",
-      "url": "https://www.bilibili.com/video/BV1YC3Z6EEQB",
-      "hot_value": "573636播放",
+      "title": "开火车提问时我的智商:",
+      "url": "https://www.bilibili.com/video/BV1ScuE6oEN5",
+      "hot_value": "288110播放",
       "index": 12
-    },
-    {
-      "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1U8MS65Efm",
-      "hot_value": "347723播放",
-      "index": 13
-    },
-    {
-      "title": "看完7月新番，我走火入魔！浑身燥热！【泛式】",
-      "url": "https://www.bilibili.com/video/BV1tcMy6fEEU",
-      "hot_value": "1350672播放",
-      "index": 14
-    },
-    {
-      "title": "拍铃铛四人版~",
-      "url": "https://www.bilibili.com/video/BV13eMk6bESU",
-      "hot_value": "2633110播放",
-      "index": 15
-    },
-    {
-      "title": "你说偷吃零食被发现会死是吗？",
-      "url": "https://www.bilibili.com/video/BV1fGuc6xEmp",
-      "hot_value": "6461069播放",
-      "index": 16
     },
     {
       "title": "5个天才高中生做的高中生活游戏",
       "url": "https://www.bilibili.com/video/BV19eMy6TEmz",
-      "hot_value": "1713972播放",
+      "hot_value": "1929060播放",
+      "index": 13
+    },
+    {
+      "title": "晚自习的消遣方式！",
+      "url": "https://www.bilibili.com/video/BV1pJun6pEyg",
+      "hot_value": "521391播放",
+      "index": 14
+    },
+    {
+      "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1U8MS65Efm",
+      "hot_value": "558480播放",
+      "index": 15
+    },
+    {
+      "title": "《原神》奥黛塔角色PV——「柔雪的幻象」",
+      "url": "https://www.bilibili.com/video/BV1wZMy6DE31",
+      "hot_value": "1584254播放",
+      "index": 16
+    },
+    {
+      "title": "当和你一起玩的那个兄弟延迟过高：",
+      "url": "https://www.bilibili.com/video/BV1JQuc6fEsA",
+      "hot_value": "4343361播放",
       "index": 17
     },
     {
-      "title": "我们从网上买来了一些泡面尝了尝…",
-      "url": "https://www.bilibili.com/video/BV1oKM165EkC",
-      "hot_value": "1354519播放",
+      "title": "想致富，去航天",
+      "url": "https://www.bilibili.com/video/BV1MR326GEJP",
+      "hot_value": "2191736播放",
       "index": 18
     },
     {
-      "title": "大家还想看我搬空什么店",
-      "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
-      "hot_value": "8450196播放",
+      "title": "离谱！狗子被催五万网贷",
+      "url": "https://www.bilibili.com/video/BV123un6ZEck",
+      "hot_value": "493609播放",
       "index": 19
     },
     {
-      "title": "街头搞笑大冒险，你能坚持第几关？",
-      "url": "https://www.bilibili.com/video/BV1kaMR6EEQ9",
-      "hot_value": "1144625播放",
+      "title": "拍铃铛四人版~",
+      "url": "https://www.bilibili.com/video/BV13eMk6bESU",
+      "hot_value": "2877973播放",
       "index": 20
+    },
+    {
+      "title": "我最爱吃铜锅涮肉啦！",
+      "url": "https://www.bilibili.com/video/BV1EnMk6MEJC",
+      "hot_value": "544111播放",
+      "index": 21
+    },
+    {
+      "title": "宋美龄：唯一女性战犯，曾想用核弹炸中国",
+      "url": "https://www.bilibili.com/video/BV1BQMS6FE9h",
+      "hot_value": "738489播放",
+      "index": 22
+    },
+    {
+      "title": "\"啊？ 还能这样转场?!\"",
+      "url": "https://www.bilibili.com/video/BV1SjMC6fETR",
+      "hot_value": "1148754播放",
+      "index": 23
     },
     {
       "title": "“热度散去，我又回到理塘。”理塘新曲《格聂山的葬礼》",
       "url": "https://www.bilibili.com/video/BV1kRMd6HExX",
-      "hot_value": "821646播放",
-      "index": 21
-    },
-    {
-      "title": "蛋炒饭要想做到粒粒分明 好吃不成坨 注意这个细节#美食 #热门",
-      "url": "https://www.bilibili.com/video/BV1L4Mk6PEbi",
-      "hot_value": "1058352播放",
-      "index": 22
-    },
-    {
-      "title": "“这照片是你吗”",
-      "url": "https://www.bilibili.com/video/BV1S5Mr6pEgE",
-      "hot_value": "1516583播放",
-      "index": 23
-    },
-    {
-      "title": "哥哥升入高三后离奇去世，这所无人毕业的高中到底藏了什么？",
-      "url": "https://www.bilibili.com/video/BV1pAMB6PEv3",
-      "hot_value": "2368921播放",
+      "hot_value": "973129播放",
       "index": 24
     },
     {
-      "title": "犯罪高手",
-      "url": "https://www.bilibili.com/video/BV1LbMy66EWf",
-      "hot_value": "1742851播放",
+      "title": "我好像出了个假国！中国人在纽约建了个新县城？",
+      "url": "https://www.bilibili.com/video/BV1LPMr6cE6u",
+      "hot_value": "2089155播放",
       "index": 25
     },
     {
-      "title": "我最爱吃黄焖鸡了！",
-      "url": "https://www.bilibili.com/video/BV1zEMk6zEJk",
-      "hot_value": "1755490播放",
+      "title": "热血高校",
+      "url": "https://www.bilibili.com/video/BV1Tgun68EKn",
+      "hot_value": "681815播放",
       "index": 26
     },
     {
-      "title": "本想简单吃个见手青小炒，却被云南厨师火焰魔法吓晕了...",
-      "url": "https://www.bilibili.com/video/BV1e8Mk6wEWZ",
-      "hot_value": "1863526播放",
+      "title": "当我让弟弟模仿我的日常第六弹",
+      "url": "https://www.bilibili.com/video/BV16Kuc68Eaz",
+      "hot_value": "1374065播放",
       "index": 27
-    },
-    {
-      "title": "《雾海之下》首曝PV｜贪吃无罪，撤离万岁！",
-      "url": "https://www.bilibili.com/video/BV17vuw68E58",
-      "hot_value": "5920256播放",
-      "index": 28
     },
     {
       "title": "抓小三，但超燃上海话",
       "url": "https://www.bilibili.com/video/BV1GLM16uEf6",
-      "hot_value": "2857306播放",
+      "hot_value": "3092495播放",
+      "index": 28
+    },
+    {
+      "title": "完蛋！我被男同学包围了",
+      "url": "https://www.bilibili.com/video/BV1uPMZ6NEBb",
+      "hot_value": "6255976播放",
       "index": 29
     },
     {
-      "title": "老师：逼疯我，就你这题足以…【小学生作业】",
-      "url": "https://www.bilibili.com/video/BV1oA3t6PEAK",
-      "hot_value": "1517549播放",
+      "title": "犯罪高手",
+      "url": "https://www.bilibili.com/video/BV1LbMy66EWf",
+      "hot_value": "1988369播放",
       "index": 30
     }
   ]
