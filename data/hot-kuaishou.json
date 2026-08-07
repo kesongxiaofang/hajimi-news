@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-08-07T10:48:00Z",
+  "update_time": "2026-08-07T11:41:53Z",
   "count": 30,
   "list": [
     {
       "title": "今日立秋",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%8A%E6%97%A5%E7%AB%8B%E7%A7%8B",
-      "hot_value": "1,318.5万",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E4%BB%8A%E6%97%A5%E7%AB%8B%E7%A7%8B&rankType=1",
+      "hot_value": "1341.9万",
       "index": 1
     },
     {
       "title": "台风白海豚实时路径",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84",
-      "hot_value": "1,318.3万",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84&rankType=1",
+      "hot_value": "1341.8万",
       "index": 2
     },
     {
       "title": "我国乡村产业提质增效",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E5%9B%BD%E4%B9%A1%E6%9D%91%E4%BA%A7%E4%B8%9A%E6%8F%90%E8%B4%A8%E5%A2%9E%E6%95%88",
-      "hot_value": "1,318.1万",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%88%91%E5%9B%BD%E4%B9%A1%E6%9D%91%E4%BA%A7%E4%B8%9A%E6%8F%90%E8%B4%A8%E5%A2%9E%E6%95%88&rankType=1",
+      "hot_value": "1341.1万",
       "index": 3
     },
     {
-      "title": "消防版正太扭腰提醒用电安全",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B6%88%E9%98%B2%E7%89%88%E6%AD%A3%E5%A4%AA%E6%89%AD%E8%85%B0%E6%8F%90%E9%86%92%E7%94%A8%E7%94%B5%E5%AE%89%E5%85%A8",
-      "hot_value": "1,317.8万",
+      "title": "阿伏丢牛是什么梗",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E9%98%BF%E4%BC%8F%E4%B8%A2%E7%89%9B%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97&rankType=1",
+      "hot_value": "1341.0万",
       "index": 4
     },
     {
-      "title": "阿伏丢牛是什么梗",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%98%BF%E4%BC%8F%E4%B8%A2%E7%89%9B%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
-      "hot_value": "1,229.5万",
+      "title": "消防版正太扭腰提醒用电安全",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%B6%88%E9%98%B2%E7%89%88%E6%AD%A3%E5%A4%AA%E6%89%AD%E8%85%B0%E6%8F%90%E9%86%92%E7%94%A8%E7%94%B5%E5%AE%89%E5%85%A8&rankType=1",
+      "hot_value": "1263.3万",
       "index": 5
     },
     {
       "title": "大狗大狗小狗小狗",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E7%8B%97%E5%A4%A7%E7%8B%97%E5%B0%8F%E7%8B%97%E5%B0%8F%E7%8B%97",
-      "hot_value": "1,159.6万",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%A4%A7%E7%8B%97%E5%A4%A7%E7%8B%97%E5%B0%8F%E7%8B%97%E5%B0%8F%E7%8B%97&rankType=1",
+      "hot_value": "1203.6万",
       "index": 6
     },
     {
-      "title": "喝水太多也会中毒",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%96%9D%E6%B0%B4%E5%A4%AA%E5%A4%9A%E4%B9%9F%E4%BC%9A%E4%B8%AD%E6%AF%92",
-      "hot_value": "1,139.5万",
+      "title": "广东人都是不知火舞吗",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E9%83%BD%E6%98%AF%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E%E5%90%97&rankType=1",
+      "hot_value": "1169.5万",
       "index": 7
     },
     {
-      "title": "紫米面包牛肉汉堡",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%B4%AB%E7%B1%B3%E9%9D%A2%E5%8C%85%E7%89%9B%E8%82%89%E6%B1%89%E5%A0%A1",
-      "hot_value": "1,118.7万",
+      "title": "喝水太多也会中毒",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%96%9D%E6%B0%B4%E5%A4%AA%E5%A4%9A%E4%B9%9F%E4%BC%9A%E4%B8%AD%E6%AF%92&rankType=1",
+      "hot_value": "1162.0万",
       "index": 8
     },
     {
       "title": "老吴撼地掌原版",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%80%81%E5%90%B4%E6%92%BC%E5%9C%B0%E6%8E%8C%E5%8E%9F%E7%89%88",
-      "hot_value": "1,095.9万",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E8%80%81%E5%90%B4%E6%92%BC%E5%9C%B0%E6%8E%8C%E5%8E%9F%E7%89%88&rankType=1",
+      "hot_value": "1140.1万",
       "index": 9
     },
     {
-      "title": "广东人都是不知火舞吗",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E9%83%BD%E6%98%AF%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E%E5%90%97",
-      "hot_value": "1,089万",
+      "title": "紫米面包牛肉汉堡",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E7%B4%AB%E7%B1%B3%E9%9D%A2%E5%8C%85%E7%89%9B%E8%82%89%E6%B1%89%E5%A0%A1&rankType=1",
+      "hot_value": "1097.6万",
       "index": 10
     },
     {
       "title": "九寨沟湖水靠染色系谣言",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%B9%96%E6%B0%B4%E9%9D%A0%E6%9F%93%E8%89%B2%E7%B3%BB%E8%B0%A3%E8%A8%80",
-      "hot_value": "1,064.3万",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%B9%96%E6%B0%B4%E9%9D%A0%E6%9F%93%E8%89%B2%E7%B3%BB%E8%B0%A3%E8%A8%80&rankType=1",
+      "hot_value": "1057.7万",
       "index": 11
     },
     {
-      "title": "张婧仪旅行状态绝佳",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%97%85%E8%A1%8C%E7%8A%B6%E6%80%81%E7%BB%9D%E4%BD%B3",
-      "hot_value": "1,020.2万",
+      "title": "中国U17vs河床U17",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E4%B8%AD%E5%9B%BDU17vs%E6%B2%B3%E5%BA%8AU17&rankType=1",
+      "hot_value": "1053.8万",
       "index": 12
     },
     {
-      "title": "阿伏丢牛和外星人同归于尽",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%98%BF%E4%BC%8F%E4%B8%A2%E7%89%9B%E5%92%8C%E5%A4%96%E6%98%9F%E4%BA%BA%E5%90%8C%E5%BD%92%E4%BA%8E%E5%B0%BD",
-      "hot_value": "1,017.2万",
+      "title": "猴子给给",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E7%8C%B4%E5%AD%90%E7%BB%99%E7%BB%99&rankType=1",
+      "hot_value": "1051.5万",
       "index": 13
     },
     {
-      "title": "猴子给给",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8C%B4%E5%AD%90%E7%BB%99%E7%BB%99",
-      "hot_value": "1,008.2万",
+      "title": "和于文华一起与秋天碰个杯",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%92%8C%E4%BA%8E%E6%96%87%E5%8D%8E%E4%B8%80%E8%B5%B7%E4%B8%8E%E7%A7%8B%E5%A4%A9%E7%A2%B0%E4%B8%AA%E6%9D%AF&rankType=1",
+      "hot_value": "1045.1万",
       "index": 14
     },
     {
-      "title": "和于文华一起与秋天碰个杯",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%92%8C%E4%BA%8E%E6%96%87%E5%8D%8E%E4%B8%80%E8%B5%B7%E4%B8%8E%E7%A7%8B%E5%A4%A9%E7%A2%B0%E4%B8%AA%E6%9D%AF",
-      "hot_value": "1,008万",
+      "title": "阿伏丢牛和外星人同归于尽",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E9%98%BF%E4%BC%8F%E4%B8%A2%E7%89%9B%E5%92%8C%E5%A4%96%E6%98%9F%E4%BA%BA%E5%90%8C%E5%BD%92%E4%BA%8E%E5%B0%BD&rankType=1",
+      "hot_value": "1043.3万",
       "index": 15
     },
     {
-      "title": "刘若雪方辟谣与周杰伦私生子传闻",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%98%E8%8B%A5%E9%9B%AA%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%8E%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A7%81%E7%94%9F%E5%AD%90%E4%BC%A0%E9%97%BB",
-      "hot_value": "1,005.4万",
+      "title": "岳明辉火把节彝族妆造好神圣",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%B2%B3%E6%98%8E%E8%BE%89%E7%81%AB%E6%8A%8A%E8%8A%82%E5%BD%9D%E6%97%8F%E5%A6%86%E9%80%A0%E5%A5%BD%E7%A5%9E%E5%9C%A3&rankType=1",
+      "hot_value": "1041.1万",
       "index": 16
     },
     {
-      "title": "岳明辉火把节彝族妆造好神圣",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B2%B3%E6%98%8E%E8%BE%89%E7%81%AB%E6%8A%8A%E8%8A%82%E5%BD%9D%E6%97%8F%E5%A6%86%E9%80%A0%E5%A5%BD%E7%A5%9E%E5%9C%A3",
-      "hot_value": "1,003.9万",
+      "title": "刘若雪方辟谣与周杰伦私生子传闻",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%88%98%E8%8B%A5%E9%9B%AA%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%8E%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A7%81%E7%94%9F%E5%AD%90%E4%BC%A0%E9%97%BB&rankType=1",
+      "hot_value": "1037.9万",
       "index": 17
     },
     {
       "title": "立秋和老铁们一起花式贴秋膘",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AB%8B%E7%A7%8B%E5%92%8C%E8%80%81%E9%93%81%E4%BB%AC%E4%B8%80%E8%B5%B7%E8%8A%B1%E5%BC%8F%E8%B4%B4%E7%A7%8B%E8%86%98",
-      "hot_value": "996.3万",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E7%AB%8B%E7%A7%8B%E5%92%8C%E8%80%81%E9%93%81%E4%BB%AC%E4%B8%80%E8%B5%B7%E8%8A%B1%E5%BC%8F%E8%B4%B4%E7%A7%8B%E8%86%98&rankType=1",
+      "hot_value": "1035.8万",
       "index": 18
     },
     {
       "title": "泰国校园枪击案枪手画面曝光",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B3%B0%E5%9B%BD%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E6%9E%AA%E6%89%8B%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-      "hot_value": "996.2万",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%B3%B0%E5%9B%BD%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E6%9E%AA%E6%89%8B%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89&rankType=1",
+      "hot_value": "1034.7万",
       "index": 19
     },
     {
-      "title": "陈紫函q冰摇舞蹈挑战",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%99%88%E7%B4%AB%E5%87%BDq%E5%86%B0%E6%91%87%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98",
-      "hot_value": "995.4万",
+      "title": "李长皮 阿厦 刘一手 川麻三缺一",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%9D%8E%E9%95%BF%E7%9A%AE+%E9%98%BF%E5%8E%A6+%E5%88%98%E4%B8%80%E6%89%8B+%E5%B7%9D%E9%BA%BB%E4%B8%89%E7%BC%BA%E4%B8%80&rankType=1",
+      "hot_value": "1031.8万",
       "index": 20
     },
     {
-      "title": "李长皮 阿厦 刘一手 川麻三缺一",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E9%95%BF%E7%9A%AE%20%E9%98%BF%E5%8E%A6%20%E5%88%98%E4%B8%80%E6%89%8B%20%E5%B7%9D%E9%BA%BB%E4%B8%89%E7%BC%BA%E4%B8%80",
-      "hot_value": "992.6万",
+      "title": "胡静邀你共赏花腰彝",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E8%83%A1%E9%9D%99%E9%82%80%E4%BD%A0%E5%85%B1%E8%B5%8F%E8%8A%B1%E8%85%B0%E5%BD%9D&rankType=1",
+      "hot_value": "1028.3万",
       "index": 21
     },
     {
-      "title": "胡静邀你共赏花腰彝",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%83%A1%E9%9D%99%E9%82%80%E4%BD%A0%E5%85%B1%E8%B5%8F%E8%8A%B1%E8%85%B0%E5%BD%9D",
-      "hot_value": "984.1万",
+      "title": "陈紫函q冰摇舞蹈挑战",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E9%99%88%E7%B4%AB%E5%87%BDq%E5%86%B0%E6%91%87%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98&rankType=1",
+      "hot_value": "1027.4万",
       "index": 22
     },
     {
-      "title": "爷们是什么梗",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%88%B7%E4%BB%AC%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
-      "hot_value": "982.7万",
+      "title": "张婧仪旅行状态绝佳",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%BC%A0%E5%A9%A7%E4%BB%AA%E6%97%85%E8%A1%8C%E7%8A%B6%E6%80%81%E7%BB%9D%E4%BD%B3&rankType=1",
+      "hot_value": "1024.3万",
       "index": 23
     },
     {
-      "title": "泰国一学校发生枪击事件",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6",
-      "hot_value": "980.4万",
+      "title": "爷们是什么梗",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E7%88%B7%E4%BB%AC%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97&rankType=1",
+      "hot_value": "1020.8万",
       "index": 24
     },
     {
-      "title": "听歌词猜歌王",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%AC%E6%AD%8C%E8%AF%8D%E7%8C%9C%E6%AD%8C%E7%8E%8B",
-      "hot_value": "977.6万",
+      "title": "泰国一学校发生枪击事件",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6&rankType=1",
+      "hot_value": "1017.5万",
       "index": 25
     },
     {
-      "title": "台风白海豚云系堪比7个浙江",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BA%91%E7%B3%BB%E5%A0%AA%E6%AF%947%E4%B8%AA%E6%B5%99%E6%B1%9F",
-      "hot_value": "973万",
+      "title": "德国高温致死1.19万",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%BE%B7%E5%9B%BD%E9%AB%98%E6%B8%A9%E8%87%B4%E6%AD%BB1.19%E4%B8%87&rankType=1",
+      "hot_value": "1014.9万",
       "index": 26
     },
     {
-      "title": "德国高温致死1.19万",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BE%B7%E5%9B%BD%E9%AB%98%E6%B8%A9%E8%87%B4%E6%AD%BB1.19%E4%B8%87",
-      "hot_value": "970.5万",
+      "title": "八一七稻米节光影同途系列形象",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%85%AB%E4%B8%80%E4%B8%83%E7%A8%BB%E7%B1%B3%E8%8A%82%E5%85%89%E5%BD%B1%E5%90%8C%E9%80%94%E7%B3%BB%E5%88%97%E5%BD%A2%E8%B1%A1&rankType=1",
+      "hot_value": "1013.0万",
       "index": 27
     },
     {
-      "title": "老铁露两手",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%80%81%E9%93%81%E9%9C%B2%E4%B8%A4%E6%89%8B",
-      "hot_value": "969.7万",
+      "title": "台风白海豚云系堪比7个浙江",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BA%91%E7%B3%BB%E5%A0%AA%E6%AF%947%E4%B8%AA%E6%B5%99%E6%B1%9F&rankType=1",
+      "hot_value": "1009.6万",
       "index": 28
     },
     {
-      "title": "泰国校园枪击案致7死15伤",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B3%B0%E5%9B%BD%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E8%87%B47%E6%AD%BB15%E4%BC%A4",
-      "hot_value": "965.6万",
+      "title": "女子开一天空调后二氧化碳中毒",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E5%A5%B3%E5%AD%90%E5%BC%80%E4%B8%80%E5%A4%A9%E7%A9%BA%E8%B0%83%E5%90%8E%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92&rankType=1",
+      "hot_value": "1007.1万",
       "index": 29
     },
     {
-      "title": "立秋的第一条祝福送给你",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AB%8B%E7%A7%8B%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%A1%E7%A5%9D%E7%A6%8F%E9%80%81%E7%BB%99%E4%BD%A0",
-      "hot_value": "963.5万",
+      "title": "你就忍忍呗",
+      "url": "https://index.e.kuaishou.com/rank/hotDetail?keyword=%E4%BD%A0%E5%B0%B1%E5%BF%8D%E5%BF%8D%E5%91%97&rankType=1",
+      "hot_value": "1003.9万",
       "index": 30
     }
   ]
