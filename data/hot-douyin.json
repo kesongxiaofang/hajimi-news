@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-07T09:30:18Z",
+  "update_time": "2026-08-07T10:48:00Z",
   "count": 30,
   "list": [
     {
       "title": "台风白海豚实时路径",
       "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84?type=general",
-      "hot_value": "11386365",
+      "hot_value": "11435429",
       "index": 1
     },
     {
       "title": "今日立秋",
       "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E7%AB%8B%E7%A7%8B?type=general",
-      "hot_value": "11124584",
+      "hot_value": "11325730",
       "index": 2
     },
     {
       "title": "海上大风车给油田直供绿电",
       "url": "https://www.douyin.com/search/%E6%B5%B7%E4%B8%8A%E5%A4%A7%E9%A3%8E%E8%BD%A6%E7%BB%99%E6%B2%B9%E7%94%B0%E7%9B%B4%E4%BE%9B%E7%BB%BF%E7%94%B5?type=general",
-      "hot_value": "11086616",
+      "hot_value": "11144592",
       "index": 3
+    },
+    {
+      "title": "河南三支一扶笔试存在组织作弊",
+      "url": "https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E5%AD%98%E5%9C%A8%E7%BB%84%E7%BB%87%E4%BD%9C%E5%BC%8A?type=general",
+      "hot_value": "11119544",
+      "index": 4
     },
     {
       "title": "四川宜宾高县发生4.9级地震",
       "url": "https://www.douyin.com/search/%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E9%AB%98%E5%8E%BF%E5%8F%91%E7%94%9F4.9%E7%BA%A7%E5%9C%B0%E9%9C%87?type=general",
-      "hot_value": "11084026",
-      "index": 4
+      "hot_value": "10520295",
+      "index": 5
     },
     {
       "title": "周五入秋顶流选手已就位",
       "url": "https://www.douyin.com/search/%E5%91%A8%E4%BA%94%E5%85%A5%E7%A7%8B%E9%A1%B6%E6%B5%81%E9%80%89%E6%89%8B%E5%B7%B2%E5%B0%B1%E4%BD%8D?type=general",
-      "hot_value": "10521657",
-      "index": 5
+      "hot_value": "10496420",
+      "index": 6
     },
     {
       "title": "老辈子秋天的第一杯奶茶",
       "url": "https://www.douyin.com/search/%E8%80%81%E8%BE%88%E5%AD%90%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6?type=general",
-      "hot_value": "10468603",
-      "index": 6
+      "hot_value": "9354058",
+      "index": 7
+    },
+    {
+      "title": "北京多区出现降雨天气",
+      "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%8C%BA%E5%87%BA%E7%8E%B0%E9%99%8D%E9%9B%A8%E5%A4%A9%E6%B0%94?type=general",
+      "hot_value": "9352330",
+      "index": 8
     },
     {
       "title": "转眼又是一年秋",
       "url": "https://www.douyin.com/search/%E8%BD%AC%E7%9C%BC%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E7%A7%8B?type=general",
-      "hot_value": "9346770",
-      "index": 7
-    },
-    {
-      "title": "我妈才是真的NPC吧",
-      "url": "https://www.douyin.com/search/%E6%88%91%E5%A6%88%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84NPC%E5%90%A7?type=general",
-      "hot_value": "9344228",
-      "index": 8
-    },
-    {
-      "title": "秋天的第一套奶茶风穿搭",
-      "url": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A5%97%E5%A5%B6%E8%8C%B6%E9%A3%8E%E7%A9%BF%E6%90%AD?type=general",
-      "hot_value": "9235173",
+      "hot_value": "9316725",
       "index": 9
     },
     {
       "title": "沈逸：美国生物战从未真正停止",
       "url": "https://www.douyin.com/search/%E6%B2%88%E9%80%B8%EF%BC%9A%E7%BE%8E%E5%9B%BD%E7%94%9F%E7%89%A9%E6%88%98%E4%BB%8E%E6%9C%AA%E7%9C%9F%E6%AD%A3%E5%81%9C%E6%AD%A2?type=general",
-      "hot_value": "8507481",
+      "hot_value": "8130989",
       "index": 10
-    },
-    {
-      "title": "被非遗人的火把节燃到了",
-      "url": "https://www.douyin.com/search/%E8%A2%AB%E9%9D%9E%E9%81%97%E4%BA%BA%E7%9A%84%E7%81%AB%E6%8A%8A%E8%8A%82%E7%87%83%E5%88%B0%E4%BA%86?type=general",
-      "hot_value": "8412903",
-      "index": 11
-    },
-    {
-      "title": "夏天要结束了对吧",
-      "url": "https://www.douyin.com/search/%E5%A4%8F%E5%A4%A9%E8%A6%81%E7%BB%93%E6%9D%9F%E4%BA%86%E5%AF%B9%E5%90%A7?type=general",
-      "hot_value": "8262868",
-      "index": 12
-    },
-    {
-      "title": "守护汛期食品安全",
-      "url": "https://www.douyin.com/search/%E5%AE%88%E6%8A%A4%E6%B1%9B%E6%9C%9F%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8?type=general",
-      "hot_value": "8253967",
-      "index": 13
-    },
-    {
-      "title": "王者荣耀超极限狂潮",
-      "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%B6%85%E6%9E%81%E9%99%90%E7%8B%82%E6%BD%AE?type=general",
-      "hot_value": "7844825",
-      "index": 14
     },
     {
       "title": "CODM联动崩坏3",
       "url": "https://www.douyin.com/search/CODM%E8%81%94%E5%8A%A8%E5%B4%A9%E5%9D%8F3?type=general",
-      "hot_value": "7831600",
-      "index": 15
+      "hot_value": "8129335",
+      "index": 11
     },
     {
       "title": "秋天的第一杯奶茶我先喝了",
       "url": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E6%88%91%E5%85%88%E5%96%9D%E4%BA%86?type=general",
-      "hot_value": "7818355",
-      "index": 16
+      "hot_value": "8035595",
+      "index": 12
     },
     {
-      "title": "Bsh1把毒蛇搬到说唱巅峰对决",
-      "url": "https://www.douyin.com/search/Bsh1%E6%8A%8A%E6%AF%92%E8%9B%87%E6%90%AC%E5%88%B0%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3?type=general",
-      "hot_value": "7785053",
-      "index": 17
+      "title": "把秋天的仪式感捧在手心",
+      "url": "https://www.douyin.com/search/%E6%8A%8A%E7%A7%8B%E5%A4%A9%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%8D%A7%E5%9C%A8%E6%89%8B%E5%BF%83?type=general",
+      "hot_value": "7960671",
+      "index": 13
+    },
+    {
+      "title": "空调24小时开着更省电吗",
+      "url": "https://www.douyin.com/search/%E7%A9%BA%E8%B0%8324%E5%B0%8F%E6%97%B6%E5%BC%80%E7%9D%80%E6%9B%B4%E7%9C%81%E7%94%B5%E5%90%97?type=general",
+      "hot_value": "7907517",
+      "index": 14
+    },
+    {
+      "title": "王者荣耀超极限狂潮",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%B6%85%E6%9E%81%E9%99%90%E7%8B%82%E6%BD%AE?type=general",
+      "hot_value": "7860497",
+      "index": 15
+    },
+    {
+      "title": "夏天要结束了对吧",
+      "url": "https://www.douyin.com/search/%E5%A4%8F%E5%A4%A9%E8%A6%81%E7%BB%93%E6%9D%9F%E4%BA%86%E5%AF%B9%E5%90%A7?type=general",
+      "hot_value": "7847770",
+      "index": 16
     },
     {
       "title": "重器定档0810",
       "url": "https://www.douyin.com/search/%E9%87%8D%E5%99%A8%E5%AE%9A%E6%A1%A30810?type=general",
-      "hot_value": "7746541",
-      "index": 18
+      "hot_value": "7840196",
+      "index": 17
     },
     {
       "title": "建模不够网纱特效来凑",
       "url": "https://www.douyin.com/search/%E5%BB%BA%E6%A8%A1%E4%B8%8D%E5%A4%9F%E7%BD%91%E7%BA%B1%E7%89%B9%E6%95%88%E6%9D%A5%E5%87%91?type=general",
-      "hot_value": "7736343",
-      "index": 19
+      "hot_value": "7833532",
+      "index": 18
     },
     {
       "title": "七夕到了炫耀一下对象",
       "url": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E5%88%B0%E4%BA%86%E7%82%AB%E8%80%80%E4%B8%80%E4%B8%8B%E5%AF%B9%E8%B1%A1?type=general",
-      "hot_value": "7729345",
-      "index": 20
-    },
-    {
-      "title": "檀健次咳嗽舞虽迟但到",
-      "url": "https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1%E5%92%B3%E5%97%BD%E8%88%9E%E8%99%BD%E8%BF%9F%E4%BD%86%E5%88%B0?type=general",
-      "hot_value": "7726647",
-      "index": 21
+      "hot_value": "7831363",
+      "index": 19
     },
     {
       "title": "电影去你的岛今日上映",
       "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E5%8E%BB%E4%BD%A0%E7%9A%84%E5%B2%9B%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0?type=general",
-      "hot_value": "7723483",
-      "index": 22
-    },
-    {
-      "title": "小猫：应该是在叫我吧",
-      "url": "https://www.douyin.com/search/%E5%B0%8F%E7%8C%AB%EF%BC%9A%E5%BA%94%E8%AF%A5%E6%98%AF%E5%9C%A8%E5%8F%AB%E6%88%91%E5%90%A7?type=general",
-      "hot_value": "7720017",
-      "index": 23
-    },
-    {
-      "title": "贺峻霖water舞蹈",
-      "url": "https://www.douyin.com/search/%E8%B4%BA%E5%B3%BB%E9%9C%96water%E8%88%9E%E8%B9%88?type=general",
-      "hot_value": "7719351",
-      "index": 24
-    },
-    {
-      "title": "浙江队助力纯纯圆梦绿茵场",
-      "url": "https://www.douyin.com/search/%E6%B5%99%E6%B1%9F%E9%98%9F%E5%8A%A9%E5%8A%9B%E7%BA%AF%E7%BA%AF%E5%9C%86%E6%A2%A6%E7%BB%BF%E8%8C%B5%E5%9C%BA?type=general",
-      "hot_value": "7718573",
-      "index": 25
-    },
-    {
-      "title": "把冷饮吃出了热气腾腾的感觉",
-      "url": "https://www.douyin.com/search/%E6%8A%8A%E5%86%B7%E9%A5%AE%E5%90%83%E5%87%BA%E4%BA%86%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE%E7%9A%84%E6%84%9F%E8%A7%89?type=general",
-      "hot_value": "7717150",
-      "index": 26
-    },
-    {
-      "title": "合家欢乐乐乐进行曲",
-      "url": "https://www.douyin.com/search/%E5%90%88%E5%AE%B6%E6%AC%A2%E4%B9%90%E4%B9%90%E4%B9%90%E8%BF%9B%E8%A1%8C%E6%9B%B2?type=general",
-      "hot_value": "7716022",
-      "index": 27
+      "hot_value": "7831064",
+      "index": 20
     },
     {
       "title": "沈腾嗓子里有拖拉机就开出去",
       "url": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E5%97%93%E5%AD%90%E9%87%8C%E6%9C%89%E6%8B%96%E6%8B%89%E6%9C%BA%E5%B0%B1%E5%BC%80%E5%87%BA%E5%8E%BB?type=general",
-      "hot_value": "7715789",
-      "index": 28
+      "hot_value": "7793328",
+      "index": 21
+    },
+    {
+      "title": "小猫：应该是在叫我吧",
+      "url": "https://www.douyin.com/search/%E5%B0%8F%E7%8C%AB%EF%BC%9A%E5%BA%94%E8%AF%A5%E6%98%AF%E5%9C%A8%E5%8F%AB%E6%88%91%E5%90%A7?type=general",
+      "hot_value": "7788363",
+      "index": 22
+    },
+    {
+      "title": "nini摇舞蹈挑战",
+      "url": "https://www.douyin.com/search/nini%E6%91%87%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98?type=general",
+      "hot_value": "7763433",
+      "index": 23
+    },
+    {
+      "title": "Bsh1把毒蛇搬到说唱巅峰对决",
+      "url": "https://www.douyin.com/search/Bsh1%E6%8A%8A%E6%AF%92%E8%9B%87%E6%90%AC%E5%88%B0%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3?type=general",
+      "hot_value": "7745194",
+      "index": 24
+    },
+    {
+      "title": "王橹杰滤镜操控舞",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%BB%A4%E9%95%9C%E6%93%8D%E6%8E%A7%E8%88%9E?type=general",
+      "hot_value": "7740049",
+      "index": 25
+    },
+    {
+      "title": "汪峰称AI越多真人歌手越有价值",
+      "url": "https://www.douyin.com/search/%E6%B1%AA%E5%B3%B0%E7%A7%B0AI%E8%B6%8A%E5%A4%9A%E7%9C%9F%E4%BA%BA%E6%AD%8C%E6%89%8B%E8%B6%8A%E6%9C%89%E4%BB%B7%E5%80%BC?type=general",
+      "hot_value": "7739725",
+      "index": 26
+    },
+    {
+      "title": "我妈才是真的NPC吧",
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%A6%88%E6%89%8D%E6%98%AF%E7%9C%9F%E7%9A%84NPC%E5%90%A7?type=general",
+      "hot_value": "7733378",
+      "index": 27
     },
     {
       "title": "当你被一些麻辣烫选中",
       "url": "https://www.douyin.com/search/%E5%BD%93%E4%BD%A0%E8%A2%AB%E4%B8%80%E4%BA%9B%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%80%89%E4%B8%AD?type=general",
-      "hot_value": "7712403",
+      "hot_value": "7732229",
+      "index": 28
+    },
+    {
+      "title": "合家欢乐乐乐进行曲",
+      "url": "https://www.douyin.com/search/%E5%90%88%E5%AE%B6%E6%AC%A2%E4%B9%90%E4%B9%90%E4%B9%90%E8%BF%9B%E8%A1%8C%E6%9B%B2?type=general",
+      "hot_value": "7732204",
       "index": 29
     },
     {
       "title": "这个skill的美商恐怕在我之上",
       "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AAskill%E7%9A%84%E7%BE%8E%E5%95%86%E6%81%90%E6%80%95%E5%9C%A8%E6%88%91%E4%B9%8B%E4%B8%8A?type=general",
-      "hot_value": "7711929",
+      "hot_value": "7732099",
       "index": 30
     }
   ]
