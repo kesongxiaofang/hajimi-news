@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-08-07T14:10:18Z",
+  "update_time": "2026-08-07T15:23:21Z",
   "count": 30,
   "list": [
     {
-      "title": "湖人 詹姆斯",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA+%E8%A9%B9%E5%A7%86%E6%96%AF%23",
-      "hot_value": "1158148",
+      "title": "歌手第一轮排名",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%8E%92%E5%90%8D%23",
+      "hot_value": "2620926",
       "index": 1
     },
     {
       "title": "一个没有空调外挂机的城市",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%B2%A1%E6%9C%89%E7%A9%BA%E8%B0%83%E5%A4%96%E6%8C%82%E6%9C%BA%E7%9A%84%E5%9F%8E%E5%B8%82%23",
-      "hot_value": "875900",
+      "hot_value": "1005165",
       "index": 2
     },
     {
       "title": "暑期档票房超80亿",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%A5%A8%E6%88%BF%E8%B6%8580%E4%BA%BF%23",
-      "hot_value": "759386",
+      "hot_value": "796361",
       "index": 3
     },
     {
-      "title": "我支持万妮达当歌王",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%94%AF%E6%8C%81%E4%B8%87%E5%A6%AE%E8%BE%BE%E5%BD%93%E6%AD%8C%E7%8E%8B%23",
-      "hot_value": "740253",
+      "title": "齐豫 躲歌王",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%B1%AB+%E8%BA%B2%E6%AD%8C%E7%8E%8B%23",
+      "hot_value": "715901",
       "index": 4
     },
     {
-      "title": "歌手第一轮排名",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%8E%92%E5%90%8D%23",
-      "hot_value": "693049",
+      "title": "湖人 詹姆斯",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA+%E8%A9%B9%E5%A7%86%E6%96%AF%23",
+      "hot_value": "578950",
       "index": 5
     },
     {
-      "title": "国乒男单横滨冠军赛全军覆没",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E6%A8%AA%E6%BB%A8%E5%86%A0%E5%86%9B%E8%B5%9B%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1%23",
-      "hot_value": "354665",
+      "title": "歌手总决赛 孙燕姿吴青峰太伟大了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B+%E5%AD%99%E7%87%95%E5%A7%BF%E5%90%B4%E9%9D%92%E5%B3%B0%E5%A4%AA%E4%BC%9F%E5%A4%A7%E4%BA%86%23",
+      "hot_value": "575469",
       "index": 6
     },
     {
       "title": "歌手总决赛",
       "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%23",
-      "hot_value": "349908",
+      "hot_value": "545441",
       "index": 7
     },
     {
-      "title": "刘浩存红裙跳舞",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E7%BA%A2%E8%A3%99%E8%B7%B3%E8%88%9E%23",
-      "hot_value": "343462",
+      "title": "中山大学23岁直博生确诊胃癌晚期",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A623%E5%B2%81%E7%9B%B4%E5%8D%9A%E7%94%9F%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%23",
+      "hot_value": "513432",
       "index": 8
     },
     {
-      "title": "北京出台房地产新政策",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%E7%AD%96%23",
-      "hot_value": "321457",
+      "title": "TES战胜BLG",
+      "url": "https://s.weibo.com/weibo?q=%23TES%E6%88%98%E8%83%9CBLG%23",
+      "hot_value": "424995",
       "index": 9
     },
     {
       "title": "外国网友也认了中式天庭",
       "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E4%B9%9F%E8%AE%A4%E4%BA%86%E4%B8%AD%E5%BC%8F%E5%A4%A9%E5%BA%AD%23",
-      "hot_value": "320727",
+      "hot_value": "386939",
       "index": 10
     },
     {
       "title": "黄金",
       "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23",
-      "hot_value": "315367",
+      "hot_value": "386640",
       "index": 11
     },
     {
-      "title": "台风",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23",
-      "hot_value": "307823",
+      "title": "娄艺潇海南租房1个月15000",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A8%84%E8%89%BA%E6%BD%87%E6%B5%B7%E5%8D%97%E7%A7%9F%E6%88%BF1%E4%B8%AA%E6%9C%8815000%23",
+      "hot_value": "386635",
       "index": 12
     },
     {
-      "title": "黄子弘凡好稳",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E5%A5%BD%E7%A8%B3%23",
-      "hot_value": "302303",
+      "title": "陈情令外鹅版VS内鹅版",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%83%85%E4%BB%A4%E5%A4%96%E9%B9%85%E7%89%88VS%E5%86%85%E9%B9%85%E7%89%88%23",
+      "hot_value": "386314",
       "index": 13
     },
     {
-      "title": "齐豫毛阿敏秒了",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%B1%AB%E6%AF%9B%E9%98%BF%E6%95%8F%E7%A7%92%E4%BA%86%23",
-      "hot_value": "291787",
+      "title": "北京出台房地产新政策",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%E7%AD%96%23",
+      "hot_value": "384427",
       "index": 14
     },
     {
-      "title": "三支一扶作弊案",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E4%BD%9C%E5%BC%8A%E6%A1%88%23",
-      "hot_value": "290239",
+      "title": "刘浩存红裙跳舞",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E7%BA%A2%E8%A3%99%E8%B7%B3%E8%88%9E%23",
+      "hot_value": "346034",
       "index": 15
     },
     {
-      "title": "胡彦斌韩磊 谁帮谁",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E9%9F%A9%E7%A3%8A+%E8%B0%81%E5%B8%AE%E8%B0%81%23",
-      "hot_value": "287119",
+      "title": "杨幂晒贵阳旅行照",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%99%92%E8%B4%B5%E9%98%B3%E6%97%85%E8%A1%8C%E7%85%A7%23",
+      "hot_value": "330493",
       "index": 16
     },
     {
-      "title": "窦靖童欧阳娜娜 好听",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%AA%A6%E9%9D%96%E7%AB%A5%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C+%E5%A5%BD%E5%90%AC%23",
-      "hot_value": "286410",
+      "title": "原来戴泳帽真的会影响颜值",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%88%B4%E6%B3%B3%E5%B8%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BD%B1%E5%93%8D%E9%A2%9C%E5%80%BC%23",
+      "hot_value": "304905",
       "index": 17
-    },
-    {
-      "title": "突然理解了大爷的绝望感",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%BA%86%E5%A4%A7%E7%88%B7%E7%9A%84%E7%BB%9D%E6%9C%9B%E6%84%9F%23",
-      "hot_value": "280096",
-      "index": 18
-    },
-    {
-      "title": "大麦拦截恶意请求遭质疑",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BA%A6%E6%8B%A6%E6%88%AA%E6%81%B6%E6%84%8F%E8%AF%B7%E6%B1%82%E9%81%AD%E8%B4%A8%E7%96%91%23",
-      "hot_value": "279774",
-      "index": 19
     },
     {
       "title": "理解了孩子平庸就承欢膝下的意义",
       "url": "https://s.weibo.com/weibo?q=%23%E7%90%86%E8%A7%A3%E4%BA%86%E5%AD%A9%E5%AD%90%E5%B9%B3%E5%BA%B8%E5%B0%B1%E6%89%BF%E6%AC%A2%E8%86%9D%E4%B8%8B%E7%9A%84%E6%84%8F%E4%B9%89%23",
-      "hot_value": "277629",
+      "hot_value": "281435",
+      "index": 18
+    },
+    {
+      "title": "雪佛兰将停止在华销售",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%BD%9B%E5%85%B0%E5%B0%86%E5%81%9C%E6%AD%A2%E5%9C%A8%E5%8D%8E%E9%94%80%E5%94%AE%23",
+      "hot_value": "279351",
+      "index": 19
+    },
+    {
+      "title": "台风白海豚逼近日本上万户停电",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E9%80%BC%E8%BF%91%E6%97%A5%E6%9C%AC%E4%B8%8A%E4%B8%87%E6%88%B7%E5%81%9C%E7%94%B5%23",
+      "hot_value": "277095",
       "index": 20
+    },
+    {
+      "title": "张凌赫苍兰诀婚服里面破洞裤",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%8B%8D%E5%85%B0%E8%AF%80%E5%A9%9A%E6%9C%8D%E9%87%8C%E9%9D%A2%E7%A0%B4%E6%B4%9E%E8%A3%A4%23",
+      "hot_value": "272043",
+      "index": 21
+    },
+    {
+      "title": "TF三代常驻综艺",
+      "url": "https://s.weibo.com/weibo?q=%23TF%E4%B8%89%E4%BB%A3%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA%23",
+      "hot_value": "269408",
+      "index": 22
     },
     {
       "title": "iPhone18Pro起售或破万",
       "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E8%B5%B7%E5%94%AE%E6%88%96%E7%A0%B4%E4%B8%87%23",
-      "hot_value": "276013",
-      "index": 21
-    },
-    {
-      "title": "歌手总决赛 孙燕姿吴青峰太伟大了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B+%E5%AD%99%E7%87%95%E5%A7%BF%E5%90%B4%E9%9D%92%E5%B3%B0%E5%A4%AA%E4%BC%9F%E5%A4%A7%E4%BA%86%23",
-      "hot_value": "274966",
-      "index": 22
-    },
-    {
-      "title": "原来这就是抑郁躯体化",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E6%8A%91%E9%83%81%E8%BA%AF%E4%BD%93%E5%8C%96%23",
-      "hot_value": "272638",
+      "hot_value": "266249",
       "index": 23
     },
     {
-      "title": "九尾看九门被陈伟霆盯上了",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E7%9C%8B%E4%B9%9D%E9%97%A8%E8%A2%AB%E9%99%88%E4%BC%9F%E9%9C%86%E7%9B%AF%E4%B8%8A%E4%BA%86%23",
-      "hot_value": "270708",
+      "title": "歌手",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%23",
+      "hot_value": "265283",
       "index": 24
     },
     {
       "title": "吴碧霞 国家队就是国家队",
       "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A2%A7%E9%9C%9E+%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%B0%B1%E6%98%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%23",
-      "hot_value": "269400",
+      "hot_value": "264714",
       "index": 25
+    },
+    {
+      "title": "钎城巴黎特别版plog有56张图",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%92%8E%E5%9F%8E%E5%B7%B4%E9%BB%8E%E7%89%B9%E5%88%AB%E7%89%88plog%E6%9C%8956%E5%BC%A0%E5%9B%BE%23",
+      "hot_value": "263199",
+      "index": 26
+    },
+    {
+      "title": "我支持万妮达当歌王",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%94%AF%E6%8C%81%E4%B8%87%E5%A6%AE%E8%BE%BE%E5%BD%93%E6%AD%8C%E7%8E%8B%23",
+      "hot_value": "254414",
+      "index": 27
+    },
+    {
+      "title": "齐豫毛阿敏秒了",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%B1%AB%E6%AF%9B%E9%98%BF%E6%95%8F%E7%A7%92%E4%BA%86%23",
+      "hot_value": "253851",
+      "index": 28
+    },
+    {
+      "title": "突然理解了大爷的绝望感",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%BA%86%E5%A4%A7%E7%88%B7%E7%9A%84%E7%BB%9D%E6%9C%9B%E6%84%9F%23",
+      "hot_value": "225093",
+      "index": 29
     },
     {
       "title": "四川高县地震1人死亡",
       "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%AB%98%E5%8E%BF%E5%9C%B0%E9%9C%871%E4%BA%BA%E6%AD%BB%E4%BA%A1%23",
-      "hot_value": "268999",
-      "index": 26
-    },
-    {
-      "title": "百花奖开幕式",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%E5%BC%80%E5%B9%95%E5%BC%8F%23",
-      "hot_value": "256287",
-      "index": 27
-    },
-    {
-      "title": "PYL暂停解说LPL",
-      "url": "https://s.weibo.com/weibo?q=%23PYL%E6%9A%82%E5%81%9C%E8%A7%A3%E8%AF%B4LPL%23",
-      "hot_value": "256096",
-      "index": 28
-    },
-    {
-      "title": "这居然是李行亮",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E6%9D%8E%E8%A1%8C%E4%BA%AE%23",
-      "hot_value": "238326",
-      "index": 29
-    },
-    {
-      "title": "非农数据",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9D%9E%E5%86%9C%E6%95%B0%E6%8D%AE%23",
-      "hot_value": "231777",
+      "hot_value": "210043",
       "index": 30
     }
   ]
