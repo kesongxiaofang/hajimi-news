@@ -1,97 +1,97 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-08T01:40:55Z",
+  "update_time": "2026-08-08T03:21:03Z",
   "count": 30,
   "list": [
     {
       "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
       "url": "https://www.zhihu.com/question/2068266947939153909",
-      "hot_value": "371 万热度",
+      "hot_value": "313 万热度",
       "index": 1
     },
     {
       "title": "北大数院 07 级苏炜杰获颁「统计学界的诺贝尔奖」，2026 年度考普斯奖，如何理解他的成果和获奖意义？",
       "url": "https://www.zhihu.com/question/2069013447518287455",
-      "hot_value": "221 万热度",
+      "hot_value": "300 万热度",
       "index": 2
     },
     {
-      "title": "怎么看待黄山一位老人手机拍照被疯狂弹广告的事件？",
-      "url": "https://www.zhihu.com/question/2068808615612490682",
-      "hot_value": "190 万热度",
+      "title": "超强厄尔尼诺正在形成，或为 150 年来最强，对我国有哪些影响？",
+      "url": "https://www.zhihu.com/question/2067780938155790390",
+      "hot_value": "258 万热度",
       "index": 3
     },
     {
       "title": "《楚门的世界》中，妻子既然不爱楚门为什么反复提及要与楚门生一个孩子？",
       "url": "https://www.zhihu.com/question/305864895",
-      "hot_value": "189 万热度",
+      "hot_value": "258 万热度",
       "index": 4
+    },
+    {
+      "title": "怎么看待黄山一位老人手机拍照被疯狂弹广告的事件？",
+      "url": "https://www.zhihu.com/question/2068808615612490682",
+      "hot_value": "255 万热度",
+      "index": 5
     },
     {
       "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2069064416709063399",
-      "hot_value": "188 万热度",
-      "index": 5
-    },
-    {
-      "title": "超强厄尔尼诺正在形成，或为 150 年来最强，对我国有哪些影响？",
-      "url": "https://www.zhihu.com/question/2067780938155790390",
-      "hot_value": "183 万热度",
+      "hot_value": "217 万热度",
       "index": 6
     },
     {
       "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
       "url": "https://www.zhihu.com/question/2068108635620774765",
-      "hot_value": "137 万热度",
+      "hot_value": "178 万热度",
       "index": 7
-    },
-    {
-      "title": "西贝贾国龙又开新店，「天边羊多」主打鲜羊料理，这波他能东山再起吗？",
-      "url": "https://www.zhihu.com/question/2068995470320296480",
-      "hot_value": "130 万热度",
-      "index": 8
     },
     {
       "title": "宇树科技发行价 150.80 元 / 股，总市值突破 600 亿，中一签需缴款 7.54 万元，如何看待这个估值？",
       "url": "https://www.zhihu.com/question/2068420777964315979",
-      "hot_value": "130 万热度",
-      "index": 9
+      "hot_value": "153 万热度",
+      "index": 8
     },
     {
       "title": "我一个人承担部门指标 50% 以上工作，领导一直在贬低我，说我在原来领导手下干的比现在好，该怎么破局？",
       "url": "https://www.zhihu.com/question/2065008805990101463",
-      "hot_value": "128 万热度",
+      "hot_value": "149 万热度",
+      "index": 9
+    },
+    {
+      "title": "今年上大一了，父母要挣多少我才能拿 3000 的生活费？",
+      "url": "https://www.zhihu.com/question/2066558958077220251",
+      "hot_value": "136 万热度",
       "index": 10
     },
     {
       "title": "太原一乘客质疑出租车绕路准备投诉，被司机持铁棍打伤缝 13 针，如何看待此事？",
       "url": "https://www.zhihu.com/question/2068620061821212203",
-      "hot_value": "125 万热度",
+      "hot_value": "136 万热度",
       "index": 11
     },
     {
       "title": "国乒男单横滨冠军赛全军覆没，这次失利主要输在哪些方面？当前男乒该如何破局？",
       "url": "https://www.zhihu.com/question/2069143706372760031",
-      "hot_value": "123 万热度",
+      "hot_value": "136 万热度",
       "index": 12
-    },
-    {
-      "title": "《中餐厅 10》中张雅琪是用力过猛还是摸鱼摆烂？",
-      "url": "https://www.zhihu.com/question/2062327939635716385",
-      "hot_value": "122 万热度",
-      "index": 13
     },
     {
       "title": "四大会计事务所的研究报告集体陷入「AI  幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
       "url": "https://www.zhihu.com/question/2068674224802067300",
-      "hot_value": "117 万热度",
+      "hot_value": "136 万热度",
+      "index": 13
+    },
+    {
+      "title": "谢欣曾为张一鸣梁汝波上级，因飞书调整被降两级，如何看待他的职业路径？面对类似公司战略调整普通人能做啥？",
+      "url": "https://www.zhihu.com/question/2069031988938241094",
+      "hot_value": "128 万热度",
       "index": 14
     },
     {
-      "title": "今年上大一了，父母要挣多少我才能拿 3000 的生活费？",
-      "url": "https://www.zhihu.com/question/2066558958077220251",
-      "hot_value": "110 万热度",
+      "title": "14 岁男生带病跑步心脏骤停后成一级伤残，校内 AED 未启用，这起事故中校方是否失责？",
+      "url": "https://www.zhihu.com/question/2068768070089420997",
+      "hot_value": "116 万热度",
       "index": 15
     },
     {
@@ -103,84 +103,84 @@
     {
       "title": "如果吃一小勺中子星会怎么样？",
       "url": "https://www.zhihu.com/question/26707005",
-      "hot_value": "109 万热度",
+      "hot_value": "106 万热度",
       "index": 17
     },
     {
-      "title": "在法乙场均 20 分 20 篮板的变性女篮选手朱丽叶 - 泰塔特喊话称「不会拒绝 WNBA」，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2068724038579347946",
-      "hot_value": "109 万热度",
+      "title": "西贝贾国龙又开新店，「天边羊多」主打鲜羊料理，这波他能东山再起吗？",
+      "url": "https://www.zhihu.com/question/2068995470320296480",
+      "hot_value": "103 万热度",
       "index": 18
     },
     {
-      "title": "如何看待张一鸣与梁文峰被评「正以完全不同的方向迈向 AGI」？",
-      "url": "https://www.zhihu.com/question/2068998842628793638",
-      "hot_value": "91 万热度",
-      "index": 19
-    },
-    {
-      "title": "柯洁和战鹰谁对于围棋的出圈和推广贡献更大?",
-      "url": "https://www.zhihu.com/question/10727488628",
+      "title": "纽卡即将与阿森纳就吉马良斯转会达协议，7500 万镑无附加，如何评价这笔交易？",
+      "url": "https://www.zhihu.com/question/2068352255871521024",
       "hot_value": "83 万热度",
-      "index": 20
-    },
-    {
-      "title": "请教了解战斗机知友，土耳其韩国伪 5 代 KAAN 和 KF21，综合能力如何，和台风、阵风比？歼 10CE 呢？",
-      "url": "https://www.zhihu.com/question/645316696",
-      "hot_value": "82 万热度",
-      "index": 21
-    },
-    {
-      "title": "LPL2026 赛季第三赛段组内赛 BLG 0:2 TES，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2069156803678675851",
-      "hot_value": "81 万热度",
-      "index": 22
-    },
-    {
-      "title": "外媒曝腾讯《最后的哨兵》烧数亿美金 6 年仍无果，为啥腾讯做不出好的 3A 开放世界作品？",
-      "url": "https://www.zhihu.com/question/2068038088828217340",
-      "hot_value": "77 万热度",
-      "index": 23
-    },
-    {
-      "title": "当人生突然陷入虚无主义后应该如何自救呢？",
-      "url": "https://www.zhihu.com/question/2065138460525073278",
-      "hot_value": "76 万热度",
-      "index": 24
-    },
-    {
-      "title": "全在俊那么爱朴妍珍，为什么输给河道英？崔惠廷那么爱全在俊为什么输给朴妍珍，孙明悟那么爱崔为什么输给全?",
-      "url": "https://www.zhihu.com/question/632072073",
-      "hot_value": "70 万热度",
-      "index": 25
+      "index": 19
     },
     {
       "title": "黄衫女为什么对倚天屠龙里绝世武功秘籍没兴趣、随手就扔？",
       "url": "https://www.zhihu.com/question/433256429",
-      "hot_value": "67 万热度",
-      "index": 26
+      "hot_value": "81 万热度",
+      "index": 20
+    },
+    {
+      "title": "外媒曝腾讯《最后的哨兵》烧数亿美金 6 年仍无果，为啥腾讯做不出好的 3A 开放世界作品？",
+      "url": "https://www.zhihu.com/question/2068038088828217340",
+      "hot_value": "78 万热度",
+      "index": 21
+    },
+    {
+      "title": "全在俊那么爱朴妍珍，为什么输给河道英？崔惠廷那么爱全在俊为什么输给朴妍珍，孙明悟那么爱崔为什么输给全?",
+      "url": "https://www.zhihu.com/question/632072073",
+      "hot_value": "74 万热度",
+      "index": 22
+    },
+    {
+      "title": "有哪些道理越早知道越好？",
+      "url": "https://www.zhihu.com/question/514101079",
+      "hot_value": "70 万热度",
+      "index": 23
+    },
+    {
+      "title": "LPL2026 赛季第三赛段组内赛 BLG 0:2 TES，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2069156803678675851",
+      "hot_value": "70 万热度",
+      "index": 24
     },
     {
       "title": "你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？",
       "url": "https://www.zhihu.com/question/2064051997364506846",
-      "hot_value": "63 万热度",
-      "index": 27
+      "hot_value": "64 万热度",
+      "index": 25
     },
     {
       "title": "网友称寿命长短与外婆奶奶有关，只有母系遗传能遗传线粒体基因，这一说法有科学依据吗？遗传与寿命关系大吗？",
       "url": "https://www.zhihu.com/question/2067926033827722629",
-      "hot_value": "62 万热度",
+      "hot_value": "61 万热度",
+      "index": 26
+    },
+    {
+      "title": "当人生突然陷入虚无主义后应该如何自救呢？",
+      "url": "https://www.zhihu.com/question/2065138460525073278",
+      "hot_value": "59 万热度",
+      "index": 27
+    },
+    {
+      "title": "很多游戏小白又想看后续剧情又打不过那些受苦游戏，为什么不设计一个「投降」按钮，按了能直接过关的那种？",
+      "url": "https://www.zhihu.com/question/2015730909593223417",
+      "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
-      "url": "https://www.zhihu.com/question/2062925324489339966",
+      "title": "张温为什么没有听从孙坚劝说斩杀无法无天的董卓？",
+      "url": "https://www.zhihu.com/question/2031845485393224801",
       "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "男子结婚 8 年发现 3 娃非亲生，要求离婚、返还抚育开支并赔偿精神抚慰金，如何从法律角度解读？",
-      "url": "https://www.zhihu.com/question/2069009762692199687",
+      "title": "张朝阳说「AI 让内容产生了塑料感，像化肥催出来的西红柿」，你认同他的观点吗？AI 创作究竟缺了什么？",
+      "url": "https://www.zhihu.com/question/2069026444722843772",
       "hot_value": "59 万热度",
       "index": 30
     }
