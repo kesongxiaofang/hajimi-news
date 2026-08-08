@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-08-08T23:27:40Z",
+  "update_time": "2026-08-08T23:55:25Z",
   "count": 30,
   "list": [
     {
       "title": "台风白海豚",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23",
-      "hot_value": "741224",
+      "hot_value": "976161",
       "index": 1
     },
     {
-      "title": "金价猛涨踏空的人哭麻了",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23",
-      "hot_value": "522309",
+      "title": "温岭全力搜救被卷走9岁男孩",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B2%AD%E5%85%A8%E5%8A%9B%E6%90%9C%E6%95%91%E8%A2%AB%E5%8D%B7%E8%B5%B09%E5%B2%81%E7%94%B7%E5%AD%A9%23",
+      "hot_value": "723617",
       "index": 2
     },
     {
       "title": "本周这些数据最值得关注",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E8%BF%99%E4%BA%9B%E6%95%B0%E6%8D%AE%E6%9C%80%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%23",
-      "hot_value": "422935",
+      "hot_value": "583891",
       "index": 3
     },
     {
-      "title": "只有小时候发烧才有这种感觉",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E5%B0%8F%E6%97%B6%E5%80%99%E5%8F%91%E7%83%A7%E6%89%8D%E6%9C%89%E8%BF%99%E7%A7%8D%E6%84%9F%E8%A7%89%23",
-      "hot_value": "244519",
+      "title": "金价猛涨踏空的人哭麻了",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23",
+      "hot_value": "500779",
       "index": 4
-    },
-    {
-      "title": "温岭全力搜救被卷走9岁男孩",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B2%AD%E5%85%A8%E5%8A%9B%E6%90%9C%E6%95%91%E8%A2%AB%E5%8D%B7%E8%B5%B09%E5%B2%81%E7%94%B7%E5%AD%A9%23",
-      "hot_value": "216122",
-      "index": 5
     },
     {
       "title": "长期穿碳板鞋的受害者出现了",
       "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%A9%BF%E7%A2%B3%E6%9D%BF%E9%9E%8B%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23",
-      "hot_value": "152059",
+      "hot_value": "245623",
+      "index": 5
+    },
+    {
+      "title": "只有小时候发烧才有这种感觉",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E5%B0%8F%E6%97%B6%E5%80%99%E5%8F%91%E7%83%A7%E6%89%8D%E6%9C%89%E8%BF%99%E7%A7%8D%E6%84%9F%E8%A7%89%23",
+      "hot_value": "226003",
       "index": 6
     },
     {
-      "title": "发现父母开始看自己脸色了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E7%88%B6%E6%AF%8D%E5%BC%80%E5%A7%8B%E7%9C%8B%E8%87%AA%E5%B7%B1%E8%84%B8%E8%89%B2%E4%BA%86%23",
-      "hot_value": "148481",
+      "title": "这种手机壳可能是医疗垃圾做的",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23",
+      "hot_value": "216557",
       "index": 7
     },
     {
       "title": "好像给麻辣烫店的脸太多了",
       "url": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%83%8F%E7%BB%99%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97%E7%9A%84%E8%84%B8%E5%A4%AA%E5%A4%9A%E4%BA%86%23",
-      "hot_value": "100724",
+      "hot_value": "152083",
       "index": 8
     },
     {
       "title": "微博文化之夜之这是谁",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%96%87%E5%8C%96%E4%B9%8B%E5%A4%9C%E4%B9%8B%E8%BF%99%E6%98%AF%E8%B0%81%23",
-      "hot_value": "81782",
+      "hot_value": "101565",
       "index": 9
     },
     {
-      "title": "沈腾感谢惠英红",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E6%84%9F%E8%B0%A2%E6%83%A0%E8%8B%B1%E7%BA%A2%23",
-      "hot_value": "81712",
+      "title": "电影八仙",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%23",
+      "hot_value": "101448",
       "index": 10
-    },
-    {
-      "title": "这种手机壳可能是医疗垃圾做的",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%81%9A%E7%9A%84%23",
-      "hot_value": "81404",
-      "index": 11
-    },
-    {
-      "title": "成毅雨中跪下和粉丝合影",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E9%9B%A8%E4%B8%AD%E8%B7%AA%E4%B8%8B%E5%92%8C%E7%B2%89%E4%B8%9D%E5%90%88%E5%BD%B1%23",
-      "hot_value": "81231",
-      "index": 12
     },
     {
       "title": "经常半夜醒要排查6种疾病",
       "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%8D%8A%E5%A4%9C%E9%86%92%E8%A6%81%E6%8E%92%E6%9F%A56%E7%A7%8D%E7%96%BE%E7%97%85%23",
-      "hot_value": "81148",
+      "hot_value": "100899",
+      "index": 11
+    },
+    {
+      "title": "刘亦菲下沉市场路人缘",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%8B%E6%B2%89%E5%B8%82%E5%9C%BA%E8%B7%AF%E4%BA%BA%E7%BC%98%23",
+      "hot_value": "100570",
+      "index": 12
+    },
+    {
+      "title": "黄子韬徐艺洋直播互扇巴掌",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E7%9B%B4%E6%92%AD%E4%BA%92%E6%89%87%E5%B7%B4%E6%8E%8C%23",
+      "hot_value": "99894",
       "index": 13
     },
     {
-      "title": "KSG夺得KWC冠军",
-      "url": "https://s.weibo.com/weibo?q=%23KSG%E5%A4%BA%E5%BE%97KWC%E5%86%A0%E5%86%9B%23",
-      "hot_value": "80862",
+      "title": "发现父母开始看自己脸色了",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E7%88%B6%E6%AF%8D%E5%BC%80%E5%A7%8B%E7%9C%8B%E8%87%AA%E5%B7%B1%E8%84%B8%E8%89%B2%E4%BA%86%23",
+      "hot_value": "99761",
       "index": 14
     },
     {
-      "title": "国乒围剿张本美和",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%9B%B4%E5%89%BF%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23",
-      "hot_value": "80619",
+      "title": "成毅雨中跪下和粉丝合影",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E9%9B%A8%E4%B8%AD%E8%B7%AA%E4%B8%8B%E5%92%8C%E7%B2%89%E4%B8%9D%E5%90%88%E5%BD%B1%23",
+      "hot_value": "99055",
       "index": 15
     },
     {
-      "title": "奥德赛",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%BE%B7%E8%B5%9B%23",
-      "hot_value": "80430",
+      "title": "男子承认出轨20万赠与第三者追不回",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A820%E4%B8%87%E8%B5%A0%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E8%BF%BD%E4%B8%8D%E5%9B%9E%23",
+      "hot_value": "98919",
       "index": 16
-    },
-    {
-      "title": "成毅这个嗓音不开演唱会可惜了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%BF%99%E4%B8%AA%E5%97%93%E9%9F%B3%E4%B8%8D%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%AF%E6%83%9C%E4%BA%86%23",
-      "hot_value": "80373",
-      "index": 17
     },
     {
       "title": "FMVP句号",
       "url": "https://s.weibo.com/weibo?q=%23FMVP%E5%8F%A5%E5%8F%B7%23",
-      "hot_value": "80317",
+      "hot_value": "98378",
+      "index": 17
+    },
+    {
+      "title": "百花奖",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%23",
+      "hot_value": "97745",
       "index": 18
     },
     {
       "title": "AI帮你开发以前要花钱的功能",
       "url": "https://s.weibo.com/weibo?q=%23AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD%23",
-      "hot_value": "80275",
+      "hot_value": "97566",
       "index": 19
     },
     {
-      "title": "情侣平潭翻墙拍日出坠崖",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%B9%B3%E6%BD%AD%E7%BF%BB%E5%A2%99%E6%8B%8D%E6%97%A5%E5%87%BA%E5%9D%A0%E5%B4%96%23",
-      "hot_value": "80156",
+      "title": "KSG夺得KWC冠军",
+      "url": "https://s.weibo.com/weibo?q=%23KSG%E5%A4%BA%E5%BE%97KWC%E5%86%A0%E5%86%9B%23",
+      "hot_value": "97243",
       "index": 20
     },
     {
       "title": "粉丝说西村力今天演唱会状态特别好",
       "url": "https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E8%AF%B4%E8%A5%BF%E6%9D%91%E5%8A%9B%E4%BB%8A%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%E7%89%B9%E5%88%AB%E5%A5%BD%23",
-      "hot_value": "80070",
+      "hot_value": "96640",
       "index": 21
     },
     {
       "title": "小夜灯 性早熟",
       "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%9C%E7%81%AF+%E6%80%A7%E6%97%A9%E7%86%9F%23",
-      "hot_value": "79995",
+      "hot_value": "96181",
       "index": 22
     },
     {
-      "title": "常吃4种食物不易得胃癌",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%90%834%E7%A7%8D%E9%A3%9F%E7%89%A9%E4%B8%8D%E6%98%93%E5%BE%97%E8%83%83%E7%99%8C%23",
-      "hot_value": "79916",
+      "title": "成毅这个嗓音不开演唱会可惜了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%BF%99%E4%B8%AA%E5%97%93%E9%9F%B3%E4%B8%8D%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%AF%E6%83%9C%E4%BA%86%23",
+      "hot_value": "95991",
       "index": 23
     },
     {
       "title": "殡仪馆回应情侣平潭拍日出坠崖",
       "url": "https://s.weibo.com/weibo?q=%23%E6%AE%A1%E4%BB%AA%E9%A6%86%E5%9B%9E%E5%BA%94%E6%83%85%E4%BE%A3%E5%B9%B3%E6%BD%AD%E6%8B%8D%E6%97%A5%E5%87%BA%E5%9D%A0%E5%B4%96%23",
-      "hot_value": "79870",
+      "hot_value": "95578",
       "index": 24
     },
     {
-      "title": "ewc电竞世界杯",
-      "url": "https://s.weibo.com/weibo?q=%23ewc%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF%23",
-      "hot_value": "79802",
+      "title": "情侣平潭翻墙拍日出坠崖",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%B9%B3%E6%BD%AD%E7%BF%BB%E5%A2%99%E6%8B%8D%E6%97%A5%E5%87%BA%E5%9D%A0%E5%B4%96%23",
+      "hot_value": "94975",
       "index": 25
     },
     {
-      "title": "卫生巾应该分坐用跟躺用",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%BA%94%E8%AF%A5%E5%88%86%E5%9D%90%E7%94%A8%E8%B7%9F%E8%BA%BA%E7%94%A8%23",
-      "hot_value": "79464",
+      "title": "沈腾感谢惠英红",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E6%84%9F%E8%B0%A2%E6%83%A0%E8%8B%B1%E7%BA%A2%23",
+      "hot_value": "94659",
       "index": 26
     },
     {
-      "title": "很瘦但是个胖子",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%88%E7%98%A6%E4%BD%86%E6%98%AF%E4%B8%AA%E8%83%96%E5%AD%90%23",
-      "hot_value": "79405",
+      "title": "敖瑞鹏王玉雯正太扭腰来了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%AD%A3%E5%A4%AA%E6%89%AD%E8%85%B0%E6%9D%A5%E4%BA%86%23",
+      "hot_value": "94175",
       "index": 27
     },
     {
-      "title": "白海豚开始发力了",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%BC%80%E5%A7%8B%E5%8F%91%E5%8A%9B%E4%BA%86%23",
-      "hot_value": "79053",
+      "title": "强台风白海豚来势汹汹",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%9D%A5%E5%8A%BF%E6%B1%B9%E6%B1%B9%23",
+      "hot_value": "93549",
       "index": 28
     },
     {
-      "title": "迪丽热巴香港造型",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%A6%99%E6%B8%AF%E9%80%A0%E5%9E%8B%23",
-      "hot_value": "78676",
+      "title": "印度男子奸杀女孩离开警局缠满绷带",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E5%A5%B8%E6%9D%80%E5%A5%B3%E5%AD%A9%E7%A6%BB%E5%BC%80%E8%AD%A6%E5%B1%80%E7%BC%A0%E6%BB%A1%E7%BB%B7%E5%B8%A6%23",
+      "hot_value": "93261",
       "index": 29
     },
     {
-      "title": "20岁中国男子在泰国被刺多刀身亡",
-      "url": "https://s.weibo.com/weibo?q=%2320%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E8%A2%AB%E5%88%BA%E5%A4%9A%E5%88%80%E8%BA%AB%E4%BA%A1%23",
-      "hot_value": "78380",
+      "title": "Lisa坦言十周年没准备",
+      "url": "https://s.weibo.com/weibo?q=%23Lisa%E5%9D%A6%E8%A8%80%E5%8D%81%E5%91%A8%E5%B9%B4%E6%B2%A1%E5%87%86%E5%A4%87%23",
+      "hot_value": "92875",
       "index": 30
     }
   ]

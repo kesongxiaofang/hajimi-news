@@ -1,79 +1,79 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-08T23:27:40Z",
+  "update_time": "2026-08-08T23:55:25Z",
   "count": 30,
   "list": [
     {
       "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
       "url": "https://www.zhihu.com/question/2068423027138859669",
-      "hot_value": "153 万热度",
+      "hot_value": "152 万热度",
       "index": 1
+    },
+    {
+      "title": "媒体评郑钦文「她需调整自我认知，要听团队的劝」，对此你怎么看，这篇文章说的对吗？",
+      "url": "https://www.zhihu.com/question/2069125628117214469",
+      "hot_value": "152 万热度",
+      "index": 2
     },
     {
       "title": "于东来 8 月 5 日官宣：2030 年后停止所有经营项目发展，转型「学校式企业」，这种打法在商业上站得住吗？",
       "url": "https://www.zhihu.com/question/2068353941474121293",
-      "hot_value": "140 万热度",
-      "index": 2
-    },
-    {
-      "title": "《工人日报》撰文批评郑钦文「盲目自信是自大…要听团队的劝」，对此你怎么看，《工人日报》说的对吗？",
-      "url": "https://www.zhihu.com/question/2069125628117214469",
-      "hot_value": "133 万热度",
+      "hot_value": "135 万热度",
       "index": 3
-    },
-    {
-      "title": "如何评价超前点映中，由文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
-      "url": "https://www.zhihu.com/question/2068425373046544035",
-      "hot_value": "132 万热度",
-      "index": 4
     },
     {
       "title": "于东来称要关闭营业 24 年的生活广场店，每一个项目都是国际一流的品质，达不到的都关了，如何看待此事？",
       "url": "https://www.zhihu.com/question/2069099745738593864",
-      "hot_value": "114 万热度",
-      "index": 5
+      "hot_value": "122 万热度",
+      "index": 4
     },
     {
       "title": "今年前 7 月我国货物贸易进出口总值 30.13 万亿元，同比增长  17.3% ，如何看待这一数据？",
       "url": "https://www.zhihu.com/question/2069008146291496844",
-      "hot_value": "97 万热度",
-      "index": 6
+      "hot_value": "102 万热度",
+      "index": 5
     },
     {
       "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
       "url": "https://www.zhihu.com/question/664667368",
-      "hot_value": "94 万热度",
+      "hot_value": "100 万热度",
+      "index": 6
+    },
+    {
+      "title": "如何评价超前点映中，由文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
+      "url": "https://www.zhihu.com/question/2068425373046544035",
+      "hot_value": "97 万热度",
       "index": 7
     },
     {
       "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
       "url": "https://www.zhihu.com/question/2069421184177763676",
-      "hot_value": "93 万热度",
+      "hot_value": "94 万热度",
       "index": 8
     },
     {
       "title": "游客称睡私家车被酒店收 150 元过夜费，酒店回应费用涉及停车、使用厨具及衣物清洗等，如何看待此事？",
       "url": "https://www.zhihu.com/question/2068356033634898265",
-      "hot_value": "93 万热度",
+      "hot_value": "91 万热度",
       "index": 9
     },
     {
       "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
       "url": "https://www.zhihu.com/question/2068466998103822555",
-      "hot_value": "74 万热度",
-      "index": 10
-    },
-    {
-      "title": "太原一乘客质疑出租车绕路准备投诉，被司机持铁棍打伤缝 13 针，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2068620061821212203",
       "hot_value": "73 万热度",
-      "index": 11
+      "index": 10
     },
     {
       "title": "知名博主峰哥实名举报编剧汪海林偷税漏税，汪海林回应系网红为流量炒作话题，此事真实性如何？两人有何恩怨？",
       "url": "https://www.zhihu.com/question/2069443167678632232",
-      "hot_value": "72 万热度",
+      "hot_value": "73 万热度",
+      "index": 11
+    },
+    {
+      "title": "你心目中最好的十款单机游戏是什么？",
+      "url": "https://www.zhihu.com/question/479719590",
+      "hot_value": "73 万热度",
       "index": 12
     },
     {
@@ -83,21 +83,21 @@
       "index": 13
     },
     {
-      "title": "你心目中最好的十款单机游戏是什么？",
-      "url": "https://www.zhihu.com/question/479719590",
-      "hot_value": "70 万热度",
-      "index": 14
-    },
-    {
       "title": "为什么体制内至今仍不鼓励用人工智能？",
       "url": "https://www.zhihu.com/question/2042649810709239000",
       "hot_value": "68 万热度",
-      "index": 15
+      "index": 14
     },
     {
       "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
       "url": "https://www.zhihu.com/question/2068108635620774765",
       "hot_value": "67 万热度",
+      "index": 15
+    },
+    {
+      "title": "婚外胚胎案男方再发声，在三方律师见证下已销毁胚胎，正遭受严重网暴准备报警，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2068384820644800140",
+      "hot_value": "66 万热度",
       "index": 16
     },
     {
@@ -107,20 +107,20 @@
       "index": 17
     },
     {
-      "title": "你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？",
-      "url": "https://www.zhihu.com/question/2064051997364506846",
-      "hot_value": "59 万热度",
+      "title": "太原一乘客质疑出租车绕路准备投诉，被司机持铁棍打伤缝 13 针，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2068620061821212203",
+      "hot_value": "65 万热度",
       "index": 18
     },
     {
-      "title": "你觉得《三角洲行动》如何改动才能让「黄雀队」的优势不那么明显？",
-      "url": "https://www.zhihu.com/question/2068758417007534713",
-      "hot_value": "58 万热度",
+      "title": "你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？",
+      "url": "https://www.zhihu.com/question/2064051997364506846",
+      "hot_value": "59 万热度",
       "index": 19
     },
     {
-      "title": "《崩坏: 星穹铁道》中，托帕向贝洛伯格讨债的剧情，现在看来是不是不合理？",
-      "url": "https://www.zhihu.com/question/2068060157125435644",
+      "title": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？",
+      "url": "https://www.zhihu.com/question/59229305",
       "hot_value": "58 万热度",
       "index": 20
     },
@@ -131,20 +131,20 @@
       "index": 21
     },
     {
-      "title": "接纳自己与放弃努力的本质区别是什么？",
-      "url": "https://www.zhihu.com/question/1983465849345040877",
+      "title": "35 岁女子 1 天 5 瓶可乐喝成 60 岁脸，可乐危害真有这么大吗？高糖饮食为何会加速健康恶化？",
+      "url": "https://www.zhihu.com/question/2068241594126267915",
       "hot_value": "58 万热度",
       "index": 22
     },
     {
-      "title": "游戏中有哪些让你意难平？",
-      "url": "https://www.zhihu.com/question/2069302358006305599",
+      "title": "如何看待中国传媒大学 2027 年起取消广播电视编导、戏剧影视导演等王牌专业的艺考，改为仅凭文化课录取？",
+      "url": "https://www.zhihu.com/question/2068402377426843072",
       "hot_value": "58 万热度",
       "index": 23
     },
     {
-      "title": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？",
-      "url": "https://www.zhihu.com/question/59229305",
+      "title": "最新消息，巴萨和罗德里就个人条款达成一致，将和曼城谈判，如何评价这次交易？",
+      "url": "https://www.zhihu.com/question/2068844232975070905",
       "hot_value": "58 万热度",
       "index": 24
     },
@@ -155,8 +155,8 @@
       "index": 25
     },
     {
-      "title": "35 岁女子 1 天 5 瓶可乐喝成 60 岁脸，可乐危害真有这么大吗？高糖饮食为何会加速健康恶化？",
-      "url": "https://www.zhihu.com/question/2068241594126267915",
+      "title": "张朝阳说「AI 让内容产生了塑料感，像化肥催出来的西红柿」，你认同他的观点吗？AI 创作究竟缺了什么？",
+      "url": "https://www.zhihu.com/question/2069026444722843772",
       "hot_value": "58 万热度",
       "index": 26
     },
@@ -167,20 +167,20 @@
       "index": 27
     },
     {
-      "title": "电影《功夫女足》映期延长至 9 月 10 日，目前票房破 22 亿，你认为最终票房有望冲击多少？",
-      "url": "https://www.zhihu.com/question/2069082068911502422",
+      "title": "宇树科技发行价 150.80 元 / 股，总市值突破 600 亿，中一签需缴款 7.54 万元，如何看待这个估值？",
+      "url": "https://www.zhihu.com/question/2068420777964315979",
       "hot_value": "58 万热度",
       "index": 28
     },
     {
-      "title": "《八仙 ！》《年会不能停！2》 等电影片名中频繁出现感叹号，为什么会出现这一现象？这算是符号滥用吗？",
-      "url": "https://www.zhihu.com/question/2068340016519107220",
+      "title": "《崩坏 3》第二部主线剧情正式完结，如何评价这场洛星之旅？",
+      "url": "https://www.zhihu.com/question/2068780219134220004",
       "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "如何看待中国传媒大学 2027 年起取消广播电视编导、戏剧影视导演等王牌专业的艺考，改为仅凭文化课录取？",
-      "url": "https://www.zhihu.com/question/2068402377426843072",
+      "title": "如果石油长期保持 150 美元左右一桶，对中国会有什么利好？",
+      "url": "https://www.zhihu.com/question/2025508646889559394",
       "hot_value": "58 万热度",
       "index": 30
     }
