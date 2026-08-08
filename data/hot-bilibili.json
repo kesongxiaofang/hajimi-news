@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-08T03:21:03Z",
+  "update_time": "2026-08-08T04:34:09Z",
   "count": 30,
   "list": [
     {
       "title": "发烧梗",
       "url": "https://www.bilibili.com/video/BV1Unub69EpX",
-      "hot_value": "1298881播放",
+      "hot_value": "1391343播放",
       "index": 1
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第10集【总第186集】",
+      "url": "https://www.bilibili.com/video/BV1uduP69Esr",
+      "hot_value": "845545播放",
+      "index": 2
     },
     {
       "title": "住宅低频噪音现场溯源-山东4家",
       "url": "https://www.bilibili.com/video/BV19juJ6vEqh",
-      "hot_value": "842942播放",
-      "index": 2
-    },
-    {
-      "title": "时停/欧拉！达摩空条承太郎皮肤，三形态白金之星打穿峡谷！自制联动皮肤特效！",
-      "url": "https://www.bilibili.com/video/BV19Yut6oEp7",
-      "hot_value": "1346123播放",
+      "hot_value": "1007712播放",
       "index": 3
     },
     {
-      "title": "【剧情】昭阳公主（2026）18【孔雪儿/李宏毅】（按姓氏笔画排序）",
-      "url": "https://www.bilibili.com/video/BV1bT3v6yEU5",
-      "hot_value": "480143播放",
+      "title": "聪明猫在一起久了也会有一些共同点……",
+      "url": "https://www.bilibili.com/video/BV1Guu46sEkA",
+      "hot_value": "2665386播放",
       "index": 4
     },
     {
       "title": "青春没有售价！面包车？ 直达拉萨！！",
       "url": "https://www.bilibili.com/video/BV1CLuE67Ep9",
-      "hot_value": "926971播放",
+      "hot_value": "1030004播放",
       "index": 5
-    },
-    {
-      "title": "家里的旧光盘，为什么播不出来了？",
-      "url": "https://www.bilibili.com/video/BV1ymux6BEFU",
-      "hot_value": "1733815播放",
-      "index": 6
-    },
-    {
-      "title": "聪明猫在一起久了也会有一些共同点……",
-      "url": "https://www.bilibili.com/video/BV1Guu46sEkA",
-      "hot_value": "2472652播放",
-      "index": 7
-    },
-    {
-      "title": "《鸣潮》3.6版本前瞻通讯 | 回顾影像",
-      "url": "https://www.bilibili.com/video/BV1cout63E9X",
-      "hot_value": "955144播放",
-      "index": 8
-    },
-    {
-      "title": "滑铲全向移动？自动吸附瞄准！原神射击玩法太爽了吧！",
-      "url": "https://www.bilibili.com/video/BV1kWup6tEgL",
-      "hot_value": "967613播放",
-      "index": 9
     },
     {
       "title": "全网首发！藏宝图/宝藏箱全部点位来啦！记得先领口令联动红！",
       "url": "https://www.bilibili.com/video/BV1q4uT6gE71",
-      "hot_value": "472655播放",
-      "index": 10
+      "hot_value": "599270播放",
+      "index": 6
+    },
+    {
+      "title": "家里的旧光盘，为什么播不出来了？",
+      "url": "https://www.bilibili.com/video/BV1ymux6BEFU",
+      "hot_value": "1890878播放",
+      "index": 7
+    },
+    {
+      "title": "时停/欧拉！达摩空条承太郎皮肤，三形态白金之星打穿峡谷！自制联动皮肤特效！",
+      "url": "https://www.bilibili.com/video/BV19Yut6oEp7",
+      "hot_value": "1490538播放",
+      "index": 8
     },
     {
       "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
       "url": "https://www.bilibili.com/video/BV1rRut6rEGS",
-      "hot_value": "1279264播放",
-      "index": 11
+      "hot_value": "1401833播放",
+      "index": 9
+    },
+    {
+      "title": "【剧情】昭阳公主（2026）18【孔雪儿/李宏毅】（按姓氏笔画排序）",
+      "url": "https://www.bilibili.com/video/BV1bT3v6yEU5",
+      "hot_value": "494782播放",
+      "index": 10
     },
     {
       "title": "不要“做”挑战？（第二十一期）",
       "url": "https://www.bilibili.com/video/BV18Jub6sECJ",
-      "hot_value": "1608040播放",
+      "hot_value": "1691865播放",
+      "index": 11
+    },
+    {
+      "title": "滑铲全向移动？自动吸附瞄准！原神射击玩法太爽了吧！",
+      "url": "https://www.bilibili.com/video/BV1kWup6tEgL",
+      "hot_value": "1107771播放",
       "index": 12
     },
     {
-      "title": "那些无法解释的身体感受。。。终于拍出这些微妙的感觉了，你占了几个？",
-      "url": "https://www.bilibili.com/video/BV1vDub6PErF",
-      "hot_value": "720908播放",
+      "title": "《青春期土豆幻想物语》",
+      "url": "https://www.bilibili.com/video/BV1viun6rELr",
+      "hot_value": "558498播放",
       "index": 13
     },
     {
       "title": "在东方明珠玩100人躲猫猫！奖金10万元",
       "url": "https://www.bilibili.com/video/BV1ocu46fE1z",
-      "hot_value": "1058912播放",
+      "hot_value": "1253975播放",
       "index": 14
+    },
+    {
+      "title": "00后新老师被值周生为难",
+      "url": "https://www.bilibili.com/video/BV1AgMy69EQM",
+      "hot_value": "1139065播放",
+      "index": 15
     },
     {
       "title": "怪兽中 出了一个奥特曼的卧底",
       "url": "https://www.bilibili.com/video/BV1gnub6REqy",
-      "hot_value": "744412播放",
-      "index": 15
-    },
-    {
-      "title": "输入口令直接白送联动大红！宝藏月活动大坝和AZ3点位来啦！",
-      "url": "https://www.bilibili.com/video/BV1b6uN6XEEF",
-      "hot_value": "524813播放",
+      "hot_value": "948759播放",
       "index": 16
     },
     {
-      "title": "为了睡个好觉，我们做了这个...",
-      "url": "https://www.bilibili.com/video/BV1vGub6FEcu",
-      "hot_value": "1089033播放",
+      "title": "《鸣潮》3.6版本PV | 蜃云灯影，凡尘剑心",
+      "url": "https://www.bilibili.com/video/BV1Jcub6BEqB",
+      "hot_value": "958072播放",
       "index": 17
     },
     {
       "title": "我变成赖泽平最痛恨的人！【如是书院】",
       "url": "https://www.bilibili.com/video/BV1rvub65EZe",
-      "hot_value": "753579播放",
+      "hot_value": "851448播放",
       "index": 18
+    },
+    {
+      "title": "为了睡个好觉，我们做了这个...",
+      "url": "https://www.bilibili.com/video/BV1vGub6FEcu",
+      "hot_value": "1215354播放",
+      "index": 19
     },
     {
       "title": "啥都能修的异世界修理铺——顾客差点把我店烧了？【首届全国高校AIGC优才创作营】",
       "url": "https://www.bilibili.com/video/BV1ZRMB6tEcp",
-      "hot_value": "793660播放",
-      "index": 19
-    },
-    {
-      "title": "《青春期土豆幻想物语》",
-      "url": "https://www.bilibili.com/video/BV1viun6rELr",
-      "hot_value": "428425播放",
+      "hot_value": "862766播放",
       "index": 20
-    },
-    {
-      "title": "00后新老师被值周生为难",
-      "url": "https://www.bilibili.com/video/BV1AgMy69EQM",
-      "hot_value": "1055757播放",
-      "index": 21
-    },
-    {
-      "title": "“那些只打高端局的神级串烧”",
-      "url": "https://www.bilibili.com/video/BV1J4un6mEV1",
-      "hot_value": "641735播放",
-      "index": 22
-    },
-    {
-      "title": "3种发圈正确戴法！轻松解锁夏日氛围感造型",
-      "url": "https://www.bilibili.com/video/BV1CBuJ6nE33",
-      "hot_value": "1748391播放",
-      "index": 23
-    },
-    {
-      "title": "《死》死亡是什么？",
-      "url": "https://www.bilibili.com/video/BV115un6dE9a",
-      "hot_value": "2304891播放",
-      "index": 24
     },
     {
       "title": "假如你在十万人的宿舍谈恋爱【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1iKub6PELA",
-      "hot_value": "678448播放",
-      "index": 25
-    },
-    {
-      "title": "改画哪有不疯的！（第26期）",
-      "url": "https://www.bilibili.com/video/BV1oxut6hEMH",
-      "hot_value": "442733播放",
-      "index": 26
-    },
-    {
-      "title": "【三角洲】零号大坝1-11藏宝图/宝藏箱所有位置 保姆级教学 全程贴心领跑",
-      "url": "https://www.bilibili.com/video/BV1EwuK6BEir",
-      "hot_value": "446206播放",
-      "index": 27
+      "hot_value": "776577播放",
+      "index": 21
     },
     {
       "title": "疙疙瘩瘩却特别甜的水果，是苦瓜变老了？！【主播说三农】",
       "url": "https://www.bilibili.com/video/BV1mxub6nEgE",
-      "hot_value": "740788播放",
-      "index": 28
+      "hot_value": "829607播放",
+      "index": 22
+    },
+    {
+      "title": "输入口令直接白送联动大红！宝藏月活动大坝和AZ3点位来啦！",
+      "url": "https://www.bilibili.com/video/BV1b6uN6XEEF",
+      "hot_value": "588155播放",
+      "index": 23
     },
     {
       "title": "哈哈哈哈哈哈哈！！！",
       "url": "https://www.bilibili.com/video/BV1NRun6bEgv",
-      "hot_value": "961850播放",
+      "hot_value": "1021840播放",
+      "index": 24
+    },
+    {
+      "title": "【三角洲】零号大坝1-11藏宝图/宝藏箱所有位置 保姆级教学 全程贴心领跑",
+      "url": "https://www.bilibili.com/video/BV1EwuK6BEir",
+      "hot_value": "512425播放",
+      "index": 25
+    },
+    {
+      "title": "【半佛】小米澎程，让行业睡不着了？",
+      "url": "https://www.bilibili.com/video/BV1iFMX6aE9b",
+      "hot_value": "4850868播放",
+      "index": 26
+    },
+    {
+      "title": "周 处 除 三 害 现实版",
+      "url": "https://www.bilibili.com/video/BV1bpM16eEAk",
+      "hot_value": "4587996播放",
+      "index": 27
+    },
+    {
+      "title": "那些无法解释的身体感受。。。终于拍出这些微妙的感觉了，你占了几个？",
+      "url": "https://www.bilibili.com/video/BV1vDub6PErF",
+      "hot_value": "816988播放",
+      "index": 28
+    },
+    {
+      "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1U8MS65Efm",
+      "hot_value": "2191371播放",
       "index": 29
     },
     {
-      "title": "史 密 斯 舍 友",
-      "url": "https://www.bilibili.com/video/BV1bJub6sErS",
-      "hot_value": "705982播放",
+      "title": "古巴的现状有多崩溃？人们靠喝水续命，女性靠特殊方式换钱",
+      "url": "https://www.bilibili.com/video/BV1Ugup6TEYH",
+      "hot_value": "779225播放",
       "index": 30
     }
   ]
