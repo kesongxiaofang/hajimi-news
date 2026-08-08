@@ -1,11 +1,10 @@
 {
-  "update_time": "2026-08-08T17:56:00Z",
+  "update_time": "2026-08-08T18:34:01Z",
   "platforms": [
     {
       "type": "weibo",
       "name": "weibo热搜",
-      "count": 0,
-      "error": "The read operation timed out"
+      "count": 30
     },
     {
       "type": "zhihu",
