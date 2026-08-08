@@ -1,7 +1,7 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-08-08T06:43:09Z",
+  "update_time": "2026-08-08T07:44:38Z",
   "count": 20,
   "list": [
     {
@@ -35,32 +35,32 @@
       "index": 5
     },
     {
-      "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33736773",
-      "hot_value": "",
-      "index": 6
-    },
-    {
       "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
       "url": "https://www.thepaper.cn/newsDetail_forward_33739023",
       "hot_value": "",
-      "index": 7
+      "index": 6
     },
     {
       "title": "利用未成年人喊网友“爸爸”博流量，多个主播账号被封禁",
       "url": "https://www.thepaper.cn/newsDetail_forward_33737072",
       "hot_value": "",
-      "index": 8
+      "index": 7
     },
     {
       "title": "从“福利枪”利益链到深层枪支崇拜，泰国为何反复上演枪击悲剧？",
       "url": "https://www.thepaper.cn/newsDetail_forward_33739635",
       "hot_value": "",
-      "index": 9
+      "index": 8
     },
     {
       "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
       "url": "https://www.thepaper.cn/newsDetail_forward_33740664",
+      "hot_value": "",
+      "index": 9
+    },
+    {
+      "title": "苏州平江历史街区老树疑遭“钻孔灌药”，姑苏区住建委：将持续跟进救助事宜",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33743298",
       "hot_value": "",
       "index": 10
     },
@@ -83,32 +83,32 @@
       "index": 13
     },
     {
-      "title": "苏州平江历史街区老树疑遭“钻孔灌药”，姑苏区住建委：将持续跟进救助事宜",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33743298",
-      "hot_value": "",
-      "index": 14
-    },
-    {
       "title": "从《牧马人》到《送你一朵小红花》，刘浩存致敬中国电影初心",
       "url": "https://www.thepaper.cn/newsDetail_forward_33739863",
       "hot_value": "",
-      "index": 15
+      "index": 14
     },
     {
       "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
       "url": "https://www.thepaper.cn/newsDetail_forward_33739348",
       "hot_value": "",
-      "index": 16
+      "index": 15
     },
     {
       "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
       "url": "https://www.thepaper.cn/newsDetail_forward_33739067",
       "hot_value": "",
-      "index": 17
+      "index": 16
     },
     {
       "title": "当三只松鼠宝宝意外坠落城市街头",
       "url": "https://www.thepaper.cn/newsDetail_forward_33739817",
+      "hot_value": "",
+      "index": 17
+    },
+    {
+      "title": "直播丨泰国发生校园枪击案已致6死23伤，凶手此前枪杀家人，在校行凶后已自杀",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33737522",
       "hot_value": "",
       "index": 18
     },
@@ -119,8 +119,8 @@
       "index": 19
     },
     {
-      "title": "直播丨泰国发生校园枪击案已致6死23伤，凶手此前枪杀家人，在校行凶后已自杀",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33737522",
+      "title": "湖南衡阳蒸湘区住建局民生服务热线刚开通两天就出现故障，官方：正抢修",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33739805",
       "hot_value": "",
       "index": 20
     }
