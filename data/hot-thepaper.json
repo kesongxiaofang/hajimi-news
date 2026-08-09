@@ -1,7 +1,7 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-08-09T14:29:58Z",
+  "update_time": "2026-08-09T15:03:08Z",
   "count": 20,
   "list": [
     {
@@ -35,26 +35,26 @@
       "index": 5
     },
     {
-      "title": "央视中文国际频道迎来新主播孙亚鹏、李秋莹",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33746136",
-      "hot_value": "",
-      "index": 6
-    },
-    {
       "title": "日媒：战时日本多所大学进行输血人体实验，向患者注射动物血",
       "url": "https://www.thepaper.cn/newsDetail_forward_33748107",
       "hot_value": "",
-      "index": 7
+      "index": 6
     },
     {
       "title": "特朗普：“很多人称我是最伟大总统之一”",
       "url": "https://www.thepaper.cn/newsDetail_forward_33746686",
       "hot_value": "",
-      "index": 8
+      "index": 7
     },
     {
       "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
       "url": "https://www.thepaper.cn/newsDetail_forward_33748209",
+      "hot_value": "",
+      "index": 8
+    },
+    {
+      "title": "丘成桐：以好奇为基础的研究才算是真正的基础研究",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33748979",
       "hot_value": "",
       "index": 9
     },
@@ -89,38 +89,38 @@
       "index": 14
     },
     {
-      "title": "中央气象台升级发布台风红警：六省份有大暴雨，浙江局地特大暴雨",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33747722",
+      "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33746645",
       "hot_value": "",
       "index": 15
     },
     {
-      "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33746645",
+      "title": "中央气象台升级发布台风红警：六省份有大暴雨，浙江局地特大暴雨",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33747722",
       "hot_value": "",
       "index": 16
+    },
+    {
+      "title": "分析｜受汽油价格涨幅回落影响，7月CPI同比涨幅有所回落",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33748441",
+      "hot_value": "",
+      "index": 17
     },
     {
       "title": "电子布洛芬与媒介时代的听觉药性——以短视频儿歌的净化效果为中心",
       "url": "https://www.thepaper.cn/newsDetail_forward_33720111",
       "hot_value": "",
-      "index": 17
+      "index": 18
     },
     {
       "title": "中央气象台发布台风红色预警，为何发布最高级别预警",
       "url": "https://www.thepaper.cn/newsDetail_forward_33748039",
       "hot_value": "",
-      "index": 18
+      "index": 19
     },
     {
       "title": "欧盟移民危机升级：西意互设边境管控，新一轮越境潮的虚假信息蔓延",
       "url": "https://www.thepaper.cn/newsDetail_forward_33747915",
-      "hot_value": "",
-      "index": 19
-    },
-    {
-      "title": "分析｜受汽油价格涨幅回落影响，7月CPI同比涨幅有所回落",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33748441",
       "hot_value": "",
       "index": 20
     }

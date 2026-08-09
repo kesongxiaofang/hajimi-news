@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-08-09T14:29:58Z",
+  "update_time": "2026-08-09T15:03:08Z",
   "count": 30,
   "list": [
     {
       "title": "百花奖",
       "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%23",
-      "hot_value": "1719418",
+      "hot_value": "2536944",
       "index": 1
     },
     {
       "title": "台风白海豚",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23",
-      "hot_value": "1496968",
+      "hot_value": "1813618",
       "index": 2
     },
     {
       "title": "中国制造硬核瞬间",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E7%9E%AC%E9%97%B4%23",
-      "hot_value": "1429074",
+      "hot_value": "1489687",
       "index": 3
     },
     {
       "title": "沈腾 影帝",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE+%E5%BD%B1%E5%B8%9D%23",
-      "hot_value": "1422606",
+      "hot_value": "1171086",
       "index": 4
     },
     {
       "title": "龙餐馆 奥斯卡",
       "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E9%A4%90%E9%A6%86+%E5%A5%A5%E6%96%AF%E5%8D%A1%23",
-      "hot_value": "1303694",
+      "hot_value": "874253",
       "index": 5
     },
     {
       "title": "上海地铁",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23",
-      "hot_value": "524151",
+      "hot_value": "824453",
       "index": 6
     },
     {
       "title": "朱一龙鼻子怎么了",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86%23",
-      "hot_value": "499492",
+      "hot_value": "612979",
       "index": 7
     },
     {
-      "title": "医疗垃圾 手机壳",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE+%E6%89%8B%E6%9C%BA%E5%A3%B3%23",
-      "hot_value": "457751",
+      "title": "上海地铁停运",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90%23",
+      "hot_value": "521602",
       "index": 8
     },
     {
       "title": "极氪7X充电起火",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA7X%E5%85%85%E7%94%B5%E8%B5%B7%E7%81%AB%23",
-      "hot_value": "455967",
+      "hot_value": "506395",
       "index": 9
     },
     {
-      "title": "韩乔生谈张本智和获横滨赛冠军",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B9%94%E7%94%9F%E8%B0%88%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%8E%B7%E6%A8%AA%E6%BB%A8%E8%B5%9B%E5%86%A0%E5%86%9B%23",
-      "hot_value": "455227",
+      "title": "张本兄妹 乒坛格局松动",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E5%85%84%E5%A6%B9+%E4%B9%92%E5%9D%9B%E6%A0%BC%E5%B1%80%E6%9D%BE%E5%8A%A8%23",
+      "hot_value": "422415",
       "index": 10
-    },
-    {
-      "title": "张本兄妹同时夺冠",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E5%85%84%E5%A6%B9%E5%90%8C%E6%97%B6%E5%A4%BA%E5%86%A0%23",
-      "hot_value": "452136",
-      "index": 11
-    },
-    {
-      "title": "央视曝光乡村排污乱象",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B9%A1%E6%9D%91%E6%8E%92%E6%B1%A1%E4%B9%B1%E8%B1%A1%23",
-      "hot_value": "451224",
-      "index": 12
     },
     {
       "title": "儿子去世孙子不捧骨灰盒被查出非亲生",
       "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E5%AD%99%E5%AD%90%E4%B8%8D%E6%8D%A7%E9%AA%A8%E7%81%B0%E7%9B%92%E8%A2%AB%E6%9F%A5%E5%87%BA%E9%9D%9E%E4%BA%B2%E7%94%9F%23",
-      "hot_value": "448991",
-      "index": 13
+      "hot_value": "422007",
+      "index": 11
     },
     {
       "title": "迪丽热巴给路人打码",
       "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BB%99%E8%B7%AF%E4%BA%BA%E6%89%93%E7%A0%81%23",
-      "hot_value": "445681",
+      "hot_value": "419528",
+      "index": 12
+    },
+    {
+      "title": "程晓玥谈离婚",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%99%93%E7%8E%A5%E8%B0%88%E7%A6%BB%E5%A9%9A%23",
+      "hot_value": "416844",
+      "index": 13
+    },
+    {
+      "title": "医疗垃圾 手机壳",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE+%E6%89%8B%E6%9C%BA%E5%A3%B3%23",
+      "hot_value": "415309",
       "index": 14
     },
     {
       "title": "田曦薇没刘海差点认不出来",
       "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%B2%A1%E5%88%98%E6%B5%B7%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E6%9D%A5%23",
-      "hot_value": "443501",
+      "hot_value": "414549",
       "index": 15
     },
     {
       "title": "耳机左右耳电量未解之谜",
       "url": "https://s.weibo.com/weibo?q=%23%E8%80%B3%E6%9C%BA%E5%B7%A6%E5%8F%B3%E8%80%B3%E7%94%B5%E9%87%8F%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%B0%9C%23",
-      "hot_value": "442090",
+      "hot_value": "411317",
       "index": 16
     },
     {
-      "title": "伊朗最高领袖与总统会谈",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88%23",
-      "hot_value": "440150",
+      "title": "伊朗婉转回应最高领袖病危传闻",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A9%89%E8%BD%AC%E5%9B%9E%E5%BA%94%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%97%85%E5%8D%B1%E4%BC%A0%E9%97%BB%23",
+      "hot_value": "410789",
       "index": 17
     },
     {
-      "title": "南太行失联女子最后轨迹定位已确认",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E6%9C%80%E5%90%8E%E8%BD%A8%E8%BF%B9%E5%AE%9A%E4%BD%8D%E5%B7%B2%E7%A1%AE%E8%AE%A4%23",
-      "hot_value": "436578",
+      "title": "白海豚 居家办公",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A+%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%23",
+      "hot_value": "408577",
       "index": 18
     },
     {
-      "title": "国乒再次无缘冠军赛冠军",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%86%8D%E6%AC%A1%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B%E8%B5%9B%E5%86%A0%E5%86%9B%23",
-      "hot_value": "435478",
+      "title": "孟子义泰媒生图",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%B3%B0%E5%AA%92%E7%94%9F%E5%9B%BE%23",
+      "hot_value": "405400",
       "index": 19
     },
     {
-      "title": "白海豚 伴手礼",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A+%E4%BC%B4%E6%89%8B%E7%A4%BC%23",
-      "hot_value": "433272",
+      "title": "4.2平卫生间补漏注胶花1.55万",
+      "url": "https://s.weibo.com/weibo?q=%234.2%E5%B9%B3%E5%8D%AB%E7%94%9F%E9%97%B4%E8%A1%A5%E6%BC%8F%E6%B3%A8%E8%83%B6%E8%8A%B11.55%E4%B8%87%23",
+      "hot_value": "404814",
       "index": 20
-    },
-    {
-      "title": "张凌赫直播",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9B%B4%E6%92%AD%23",
-      "hot_value": "430241",
-      "index": 21
     },
     {
       "title": "姚琛程潇 标准的男人女人",
       "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%90%9B%E7%A8%8B%E6%BD%87+%E6%A0%87%E5%87%86%E7%9A%84%E7%94%B7%E4%BA%BA%E5%A5%B3%E4%BA%BA%23",
-      "hot_value": "428950",
+      "hot_value": "401762",
+      "index": 21
+    },
+    {
+      "title": "张凌赫红海",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%BA%A2%E6%B5%B7%23",
+      "hot_value": "400534",
       "index": 22
     },
     {
-      "title": "白海豚提前登陆",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86%23",
-      "hot_value": "427088",
+      "title": "婴儿被子蒙头快窒息时小猫扒醒宝妈",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E8%A2%AB%E5%AD%90%E8%92%99%E5%A4%B4%E5%BF%AB%E7%AA%92%E6%81%AF%E6%97%B6%E5%B0%8F%E7%8C%AB%E6%89%92%E9%86%92%E5%AE%9D%E5%A6%88%23",
+      "hot_value": "399019",
       "index": 23
     },
     {
-      "title": "程晓玥谈离婚",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%99%93%E7%8E%A5%E8%B0%88%E7%A6%BB%E5%A9%9A%23",
-      "hot_value": "425628",
+      "title": "韩乔生谈张本智和获横滨赛冠军",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B9%94%E7%94%9F%E8%B0%88%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%8E%B7%E6%A8%AA%E6%BB%A8%E8%B5%9B%E5%86%A0%E5%86%9B%23",
+      "hot_value": "397047",
       "index": 24
     },
     {
       "title": "SBS夏日歌谣大战MC失误争议",
       "url": "https://s.weibo.com/weibo?q=%23SBS%E5%A4%8F%E6%97%A5%E6%AD%8C%E8%B0%A3%E5%A4%A7%E6%88%98MC%E5%A4%B1%E8%AF%AF%E4%BA%89%E8%AE%AE%23",
-      "hot_value": "422716",
+      "hot_value": "394324",
       "index": 25
     },
     {
-      "title": "男孩1年暴长20厘米全身长满纹",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A91%E5%B9%B4%E6%9A%B4%E9%95%BF20%E5%8E%98%E7%B1%B3%E5%85%A8%E8%BA%AB%E9%95%BF%E6%BB%A1%E7%BA%B9%23",
-      "hot_value": "420159",
+      "title": "娜扎称眼睛恢复情况不太妙",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%A7%B0%E7%9C%BC%E7%9D%9B%E6%81%A2%E5%A4%8D%E6%83%85%E5%86%B5%E4%B8%8D%E5%A4%AA%E5%A6%99%23",
+      "hot_value": "392431",
       "index": 26
-    },
-    {
-      "title": "张凌赫锁骨",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%94%81%E9%AA%A8%23",
-      "hot_value": "419450",
-      "index": 27
-    },
-    {
-      "title": "人鱼",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%B1%BC%23",
-      "hot_value": "416446",
-      "index": 28
     },
     {
       "title": "印度女子出轨被撞破在院子内遭毒打",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%92%9E%E7%A0%B4%E5%9C%A8%E9%99%A2%E5%AD%90%E5%86%85%E9%81%AD%E6%AF%92%E6%89%93%23",
-      "hot_value": "414574",
-      "index": 29
+      "hot_value": "390866",
+      "index": 27
+    },
+    {
+      "title": "白海豚提前登陆",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86%23",
+      "hot_value": "387592",
+      "index": 28
     },
     {
       "title": "迪丽热巴素颜香港plog",
       "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%A0%E9%A2%9C%E9%A6%99%E6%B8%AFplog%23",
-      "hot_value": "412511",
+      "hot_value": "386284",
+      "index": 29
+    },
+    {
+      "title": "赵寅成背后拉手",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AF%85%E6%88%90%E8%83%8C%E5%90%8E%E6%8B%89%E6%89%8B%23",
+      "hot_value": "384886",
       "index": 30
     }
   ]
