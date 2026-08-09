@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-09T19:29:05Z",
+  "update_time": "2026-08-09T19:59:09Z",
   "count": 30,
   "list": [
     {
       "title": "王从天降",
       "url": "https://www.bilibili.com/video/BV1vtMy63E4G",
-      "hot_value": "5433409播放",
+      "hot_value": "5456679播放",
       "index": 1
-    },
-    {
-      "title": "四代同框",
-      "url": "https://www.bilibili.com/video/BV1Bqum6dET6",
-      "hot_value": "877060播放",
-      "index": 2
     },
     {
       "title": "😨\"后室里的乌鲁鲁\"😰",
       "url": "https://www.bilibili.com/video/BV1YYuN6tEWC",
-      "hot_value": "2044395播放",
+      "hot_value": "2050009播放",
+      "index": 2
+    },
+    {
+      "title": "不打游戏这件事害惨了我",
+      "url": "https://www.bilibili.com/video/BV1Bgug6UED8",
+      "hot_value": "794111播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第95集 皇帝“驾崩”",
       "url": "https://www.bilibili.com/video/BV1dSuM6VERb",
-      "hot_value": "2252795播放",
+      "hot_value": "2261700播放",
       "index": 4
-    },
-    {
-      "title": "不打游戏这件事害惨了我",
-      "url": "https://www.bilibili.com/video/BV1Bgug6UED8",
-      "hot_value": "779149播放",
-      "index": 5
-    },
-    {
-      "title": "孙老师也是自己家的小骄傲",
-      "url": "https://www.bilibili.com/video/BV1AHu36cEcU",
-      "hot_value": "680802播放",
-      "index": 6
-    },
-    {
-      "title": "👊一 拳 超 人👊",
-      "url": "https://www.bilibili.com/video/BV19Fu365EqG",
-      "hot_value": "1184132播放",
-      "index": 7
-    },
-    {
-      "title": "史上最难！只有一块黑曜石该如何通关？",
-      "url": "https://www.bilibili.com/video/BV1dcuV6HEig",
-      "hot_value": "241869播放",
-      "index": 8
     },
     {
       "title": "【同人动画】致以辉煌的人 【奥特曼光之创想季】",
       "url": "https://www.bilibili.com/video/BV1tCuT6bE8q",
-      "hot_value": "1006925播放",
+      "hot_value": "1009922播放",
+      "index": 5
+    },
+    {
+      "title": "发烧梗",
+      "url": "https://www.bilibili.com/video/BV1Unub69EpX",
+      "hot_value": "3558509播放",
+      "index": 6
+    },
+    {
+      "title": "四代同框",
+      "url": "https://www.bilibili.com/video/BV1Bqum6dET6",
+      "hot_value": "887595播放",
+      "index": 7
+    },
+    {
+      "title": "“那些只打高端局的神级串烧”",
+      "url": "https://www.bilibili.com/video/BV1J4un6mEV1",
+      "hot_value": "2929099播放",
+      "index": 8
+    },
+    {
+      "title": "在贵州按猪遇见羡慕的婚礼",
+      "url": "https://www.bilibili.com/video/BV1Bbun6jEaJ",
+      "hot_value": "3173394播放",
       "index": 9
     },
     {
       "title": "【独家】《记忆管理局》第4集 燃灯与灰火【8月国创】",
       "url": "https://www.bilibili.com/video/BV1FdMk65EY2",
-      "hot_value": "665702播放",
+      "hot_value": "667162播放",
       "index": 10
+    },
+    {
+      "title": "新篇章 | 《穿越火线：潜伏》CF IP嘉年华发布现场",
+      "url": "https://www.bilibili.com/video/BV1eCuV6XEga",
+      "hot_value": "1109121播放",
+      "index": 11
+    },
+    {
+      "title": "评分8.7！我们奥特曼有救啦！提欧奥特曼开播吐槽！",
+      "url": "https://www.bilibili.com/video/BV1Cnu16ZEnP",
+      "hot_value": "534333播放",
+      "index": 12
     },
     {
       "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
       "url": "https://www.bilibili.com/video/BV1rRut6rEGS",
-      "hot_value": "4371918播放",
-      "index": 11
+      "hot_value": "4378580播放",
+      "index": 13
     },
     {
       "title": "怪兽中 出了一个奥特曼的卧底",
       "url": "https://www.bilibili.com/video/BV1gnub6REqy",
-      "hot_value": "6160606播放",
-      "index": 12
-    },
-    {
-      "title": "“那些只打高端局的神级串烧”",
-      "url": "https://www.bilibili.com/video/BV1J4un6mEV1",
-      "hot_value": "2925561播放",
-      "index": 13
-    },
-    {
-      "title": "我们需要更多异头团建ദ്ദി ꙾ ꒳ ꙾ )✧",
-      "url": "https://www.bilibili.com/video/BV1HduT6nE23",
-      "hot_value": "572641播放",
+      "hot_value": "6167813播放",
       "index": 14
     },
     {
-      "title": "在贵州按猪遇见羡慕的婚礼",
-      "url": "https://www.bilibili.com/video/BV1Bbun6jEaJ",
-      "hot_value": "3165369播放",
+      "title": "哈哈哈哈哈哈哈！！！",
+      "url": "https://www.bilibili.com/video/BV1NRun6bEgv",
+      "hot_value": "3161047播放",
       "index": 15
     },
     {
       "title": "三年之期已到，恭迎世一上归位！",
       "url": "https://www.bilibili.com/video/BV1dvu36nEzG",
-      "hot_value": "1383414播放",
+      "hot_value": "1391683播放",
       "index": 16
-    },
-    {
-      "title": "危险暴雨来了：白海豚提前登陆浙江玉环，将深入南方内陆并去北方",
-      "url": "https://www.bilibili.com/video/BV1JZuU6cE94",
-      "hot_value": "371549播放",
-      "index": 17
     },
     {
       "title": "【TF家族练习生】《突围II破局》EP07：破局（下）",
       "url": "https://www.bilibili.com/video/BV1CWum6eEmZ",
-      "hot_value": "1118841播放",
+      "hot_value": "1124355播放",
+      "index": 17
+    },
+    {
+      "title": "👊一 拳 超 人👊",
+      "url": "https://www.bilibili.com/video/BV19Fu365EqG",
+      "hot_value": "1194296播放",
       "index": 18
-    },
-    {
-      "title": "发烧梗",
-      "url": "https://www.bilibili.com/video/BV1Unub69EpX",
-      "hot_value": "3555832播放",
-      "index": 19
-    },
-    {
-      "title": "去这里旅游的人都失踪了，所谓旅游胜地的背后竟然是...",
-      "url": "https://www.bilibili.com/video/BV1QQuP6xEAd",
-      "hot_value": "1538730播放",
-      "index": 20
-    },
-    {
-      "title": "《穿越三国，复活五虎北伐》第一季1-10集大合集！【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1ByuJ6jEfG",
-      "hot_value": "1813627播放",
-      "index": 21
-    },
-    {
-      "title": "评分8.7！我们奥特曼有救啦！提欧奥特曼开播吐槽！",
-      "url": "https://www.bilibili.com/video/BV1Cnu16ZEnP",
-      "hot_value": "523073播放",
-      "index": 22
-    },
-    {
-      "title": "新篇章 | 《穿越火线：潜伏》CF IP嘉年华发布现场",
-      "url": "https://www.bilibili.com/video/BV1eCuV6XEga",
-      "hot_value": "1094090播放",
-      "index": 23
-    },
-    {
-      "title": "哈哈哈哈哈哈哈！！！",
-      "url": "https://www.bilibili.com/video/BV1NRun6bEgv",
-      "hot_value": "3156102播放",
-      "index": 24
-    },
-    {
-      "title": "【2026LPL第三赛段】8月9日 IG vs LNG",
-      "url": "https://www.bilibili.com/video/BV1cyuy6WEvF",
-      "hot_value": "803315播放",
-      "index": 25
-    },
-    {
-      "title": "住宅低频噪音现场溯源-山东4家",
-      "url": "https://www.bilibili.com/video/BV19juJ6vEqh",
-      "hot_value": "2797466播放",
-      "index": 26
-    },
-    {
-      "title": "你敢让我进来吗？？「谁是伪人」？？！",
-      "url": "https://www.bilibili.com/video/BV11PuN67E5k",
-      "hot_value": "697403播放",
-      "index": 27
     },
     {
       "title": "妈妈，你不能单挑大棕熊，坐坦克打枪吧！？！",
       "url": "https://www.bilibili.com/video/BV1mDuu6aEDF",
-      "hot_value": "2172497播放",
+      "hot_value": "2177355播放",
+      "index": 19
+    },
+    {
+      "title": "在东方明珠玩100人躲猫猫！奖金10万元",
+      "url": "https://www.bilibili.com/video/BV1ocu46fE1z",
+      "hot_value": "5109333播放",
+      "index": 20
+    },
+    {
+      "title": "你敢让我进来吗？？「谁是伪人」？？！",
+      "url": "https://www.bilibili.com/video/BV11PuN67E5k",
+      "hot_value": "702048播放",
+      "index": 21
+    },
+    {
+      "title": "《明日方舟：终末地》梨诺EP - Mirairo Rider",
+      "url": "https://www.bilibili.com/video/BV16euL6qETC",
+      "hot_value": "1074806播放",
+      "index": 22
+    },
+    {
+      "title": "[我的世界怪物学院] 逗逗小乐魂",
+      "url": "https://www.bilibili.com/video/BV1quug6JE11",
+      "hot_value": "1568223播放",
+      "index": 23
+    },
+    {
+      "title": "去这里旅游的人都失踪了，所谓旅游胜地的背后竟然是...",
+      "url": "https://www.bilibili.com/video/BV1QQuP6xEAd",
+      "hot_value": "1542241播放",
+      "index": 24
+    },
+    {
+      "title": "住宅低频噪音现场溯源-山东4家",
+      "url": "https://www.bilibili.com/video/BV19juJ6vEqh",
+      "hot_value": "2802035播放",
+      "index": 25
+    },
+    {
+      "title": "《穿越三国，复活五虎北伐》第一季1-10集大合集！【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1ByuJ6jEfG",
+      "hot_value": "1817455播放",
+      "index": 26
+    },
+    {
+      "title": "【re0】一百块还是吃雪媚娘",
+      "url": "https://www.bilibili.com/video/BV1Uuu36MEg7",
+      "hot_value": "758780播放",
+      "index": 27
+    },
+    {
+      "title": "【2026LPL第三赛段】8月9日 IG vs LNG",
+      "url": "https://www.bilibili.com/video/BV1cyuy6WEvF",
+      "hot_value": "812613播放",
       "index": 28
     },
     {
-      "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1U8MS65Efm",
-      "hot_value": "3441793播放",
+      "title": "危险暴雨来了：白海豚提前登陆浙江玉环，将深入南方内陆并去北方",
+      "url": "https://www.bilibili.com/video/BV1JZuU6cE94",
+      "hot_value": "383176播放",
       "index": 29
     },
     {
-      "title": "20分钟《奥德赛》终极功课！原著/内核/影厅选择，一期视频全搞懂！",
-      "url": "https://www.bilibili.com/video/BV1cPug69Ene",
-      "hot_value": "934331播放",
+      "title": "欢迎来到研究生的世界",
+      "url": "https://www.bilibili.com/video/BV1R53R6rE7a",
+      "hot_value": "9694141播放",
       "index": 30
     }
   ]
