@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-08-09T23:26:32Z",
+  "update_time": "2026-08-09T23:58:27Z",
   "count": 30,
   "list": [
     {
       "title": "白海豚快速减弱",
       "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%BF%AB%E9%80%9F%E5%87%8F%E5%BC%B1%23",
-      "hot_value": "1296937",
+      "hot_value": "1502996",
       "index": 1
     },
     {
       "title": "上海地铁停运",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90%23",
-      "hot_value": "847090",
+      "hot_value": "1284313",
       "index": 2
     },
     {
       "title": "中国制造硬核瞬间",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E7%9E%AC%E9%97%B4%23",
-      "hot_value": "547101",
+      "hot_value": "633032",
       "index": 3
+    },
+    {
+      "title": "上海谁三文鱼吹窗外上了",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%B0%81%E4%B8%89%E6%96%87%E9%B1%BC%E5%90%B9%E7%AA%97%E5%A4%96%E4%B8%8A%E4%BA%86%23",
+      "hot_value": "465378",
+      "index": 4
     },
     {
       "title": "沈腾 影帝",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE+%E5%BD%B1%E5%B8%9D%23",
-      "hot_value": "247065",
-      "index": 4
-    },
-    {
-      "title": "上海地铁",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23",
-      "hot_value": "206200",
+      "hot_value": "344112",
       "index": 5
     },
     {
       "title": "百花奖",
       "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%23",
-      "hot_value": "194886",
+      "hot_value": "251745",
       "index": 6
+    },
+    {
+      "title": "国乒怎么了",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%80%8E%E4%B9%88%E4%BA%86%23",
+      "hot_value": "241197",
+      "index": 7
     },
     {
       "title": "怎么挑选眼镜框",
       "url": "https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%8C%91%E9%80%89%E7%9C%BC%E9%95%9C%E6%A1%86%23",
-      "hot_value": "182659",
-      "index": 7
-    },
-    {
-      "title": "张本智和说和妹妹同时夺冠意义重大",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E5%92%8C%E5%A6%B9%E5%A6%B9%E5%90%8C%E6%97%B6%E5%A4%BA%E5%86%A0%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7%23",
-      "hot_value": "167301",
+      "hot_value": "240129",
       "index": 8
     },
     {
       "title": "极氪7X充电起火",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA7X%E5%85%85%E7%94%B5%E8%B5%B7%E7%81%AB%23",
-      "hot_value": "166752",
+      "hot_value": "239283",
       "index": 9
     },
     {
-      "title": "白海豚 居家办公",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A+%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%23",
-      "hot_value": "165834",
+      "title": "白海豚",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A%23",
+      "hot_value": "238831",
       "index": 10
-    },
-    {
-      "title": "儿子去世孙子不捧骨灰盒被查出非亲生",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E5%AD%99%E5%AD%90%E4%B8%8D%E6%8D%A7%E9%AA%A8%E7%81%B0%E7%9B%92%E8%A2%AB%E6%9F%A5%E5%87%BA%E9%9D%9E%E4%BA%B2%E7%94%9F%23",
-      "hot_value": "165250",
-      "index": 11
     },
     {
       "title": "程晓玥体面",
       "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%99%93%E7%8E%A5%E4%BD%93%E9%9D%A2%23",
-      "hot_value": "164722",
+      "hot_value": "237664",
+      "index": 11
+    },
+    {
+      "title": "儿子去世孙子不捧骨灰盒被查出非亲生",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E5%AD%99%E5%AD%90%E4%B8%8D%E6%8D%A7%E9%AA%A8%E7%81%B0%E7%9B%92%E8%A2%AB%E6%9F%A5%E5%87%BA%E9%9D%9E%E4%BA%B2%E7%94%9F%23",
+      "hot_value": "236407",
       "index": 12
     },
     {
       "title": "张凌赫热成啥样了",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%83%AD%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23",
-      "hot_value": "163657",
+      "hot_value": "234701",
       "index": 13
-    },
-    {
-      "title": "台风白海豚",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23",
-      "hot_value": "163085",
-      "index": 14
     },
     {
       "title": "女演员朱锐自曝破产失业",
       "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E6%9C%B1%E9%94%90%E8%87%AA%E6%9B%9D%E7%A0%B4%E4%BA%A7%E5%A4%B1%E4%B8%9A%23",
-      "hot_value": "162112",
+      "hot_value": "233557",
+      "index": 14
+    },
+    {
+      "title": "上海地铁",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23",
+      "hot_value": "233248",
       "index": 15
     },
     {
-      "title": "浙江省甬江发生2026年第1号洪水",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%9C%81%E7%94%AC%E6%B1%9F%E5%8F%91%E7%94%9F2026%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E6%B4%AA%E6%B0%B4%23",
-      "hot_value": "161798",
+      "title": "易烊千玺进入最佳赏味期",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%B5%8F%E5%91%B3%E6%9C%9F%23",
+      "hot_value": "232082",
       "index": 16
+    },
+    {
+      "title": "张本智和说和妹妹同时夺冠意义重大",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E5%92%8C%E5%A6%B9%E5%A6%B9%E5%90%8C%E6%97%B6%E5%A4%BA%E5%86%A0%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7%23",
+      "hot_value": "230474",
+      "index": 17
     },
     {
       "title": "存款市场罕见两极分化",
       "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E6%AC%BE%E5%B8%82%E5%9C%BA%E7%BD%95%E8%A7%81%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96%23",
-      "hot_value": "160903",
-      "index": 17
-    },
-    {
-      "title": "龙餐馆 奥斯卡",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E9%A4%90%E9%A6%86+%E5%A5%A5%E6%96%AF%E5%8D%A1%23",
-      "hot_value": "159986",
+      "hot_value": "229691",
       "index": 18
     },
     {
-      "title": "仙逆动画",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%99%E9%80%86%E5%8A%A8%E7%94%BB%23",
-      "hot_value": "159195",
+      "title": "沈腾金鸡百花华表一个奖都没拿",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%87%91%E9%B8%A1%E7%99%BE%E8%8A%B1%E5%8D%8E%E8%A1%A8%E4%B8%80%E4%B8%AA%E5%A5%96%E9%83%BD%E6%B2%A1%E6%8B%BF%23",
+      "hot_value": "228542",
       "index": 19
     },
     {
-      "title": "程晓玥谈离婚",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%99%93%E7%8E%A5%E8%B0%88%E7%A6%BB%E5%A9%9A%23",
-      "hot_value": "158658",
+      "title": "白海豚 居家办公",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A+%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%23",
+      "hot_value": "226748",
       "index": 20
-    },
-    {
-      "title": "我每次陷入亲密关系的日常",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%AF%8F%E6%AC%A1%E9%99%B7%E5%85%A5%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E7%9A%84%E6%97%A5%E5%B8%B8%23",
-      "hot_value": "157821",
-      "index": 21
-    },
-    {
-      "title": "时代少年团新歌进度条是永远",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1%E6%98%AF%E6%B0%B8%E8%BF%9C%23",
-      "hot_value": "157232",
-      "index": 22
-    },
-    {
-      "title": "张檬小五带儿子去韩国探亲",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%AA%AC%E5%B0%8F%E4%BA%94%E5%B8%A6%E5%84%BF%E5%AD%90%E5%8E%BB%E9%9F%A9%E5%9B%BD%E6%8E%A2%E4%BA%B2%23",
-      "hot_value": "156309",
-      "index": 23
-    },
-    {
-      "title": "上海地铁明天4条线路全线停运",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%98%8E%E5%A4%A94%E6%9D%A1%E7%BA%BF%E8%B7%AF%E5%85%A8%E7%BA%BF%E5%81%9C%E8%BF%90%23",
-      "hot_value": "155732",
-      "index": 24
-    },
-    {
-      "title": "迪丽热巴给路人打码",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BB%99%E8%B7%AF%E4%BA%BA%E6%89%93%E7%A0%81%23",
-      "hot_value": "154703",
-      "index": 25
     },
     {
       "title": "BIGBANG",
       "url": "https://s.weibo.com/weibo?q=%23BIGBANG%23",
-      "hot_value": "154300",
+      "hot_value": "226518",
+      "index": 21
+    },
+    {
+      "title": "台风白海豚",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23",
+      "hot_value": "225224",
+      "index": 22
+    },
+    {
+      "title": "叶倩文宣布喜添新孙",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%80%A9%E6%96%87%E5%AE%A3%E5%B8%83%E5%96%9C%E6%B7%BB%E6%96%B0%E5%AD%99%23",
+      "hot_value": "223756",
+      "index": 23
+    },
+    {
+      "title": "我每次陷入亲密关系的日常",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%AF%8F%E6%AC%A1%E9%99%B7%E5%85%A5%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E7%9A%84%E6%97%A5%E5%B8%B8%23",
+      "hot_value": "222652",
+      "index": 24
+    },
+    {
+      "title": "浙江省甬江发生2026年第1号洪水",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%9C%81%E7%94%AC%E6%B1%9F%E5%8F%91%E7%94%9F2026%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E6%B4%AA%E6%B0%B4%23",
+      "hot_value": "221680",
+      "index": 25
+    },
+    {
+      "title": "知道为什么说保持饥饿感非常重要了",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E4%BF%9D%E6%8C%81%E9%A5%A5%E9%A5%BF%E6%84%9F%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A6%81%E4%BA%86%23",
+      "hot_value": "219983",
       "index": 26
     },
     {
-      "title": "印度女子出轨被撞破在院子内遭毒打",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%92%9E%E7%A0%B4%E5%9C%A8%E9%99%A2%E5%AD%90%E5%86%85%E9%81%AD%E6%AF%92%E6%89%93%23",
-      "hot_value": "153418",
+      "title": "百花奖预测",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%E9%A2%84%E6%B5%8B%23",
+      "hot_value": "219564",
       "index": 27
     },
     {
-      "title": "朱一龙鼻子怎么了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86%23",
-      "hot_value": "152351",
+      "title": "张睿 披荆斩棘",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF+%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23",
+      "hot_value": "218450",
       "index": 28
     },
     {
-      "title": "宋亚轩IP在浙江",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9IP%E5%9C%A8%E6%B5%99%E6%B1%9F%23",
-      "hot_value": "152160",
+      "title": "高市早苗不敢提谁投的原子弹",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E6%95%A2%E6%8F%90%E8%B0%81%E6%8A%95%E7%9A%84%E5%8E%9F%E5%AD%90%E5%BC%B9%23",
+      "hot_value": "217578",
       "index": 29
     },
     {
-      "title": "婴儿快窒息时被小猫救下宝妈发声",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E5%BF%AB%E7%AA%92%E6%81%AF%E6%97%B6%E8%A2%AB%E5%B0%8F%E7%8C%AB%E6%95%91%E4%B8%8B%E5%AE%9D%E5%A6%88%E5%8F%91%E5%A3%B0%23",
-      "hot_value": "151561",
+      "title": "程晓玥谈离婚",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%99%93%E7%8E%A5%E8%B0%88%E7%A6%BB%E5%A9%9A%23",
+      "hot_value": "215774",
       "index": 30
     }
   ]
