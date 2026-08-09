@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-09T10:28:54Z",
+  "update_time": "2026-08-09T11:03:15Z",
   "count": 30,
   "list": [
     {
       "title": "台风白海豚在浙江台州登陆",
       "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%9C%A8%E6%B5%99%E6%B1%9F%E5%8F%B0%E5%B7%9E%E7%99%BB%E9%99%86?type=general",
-      "hot_value": "12107092",
+      "hot_value": "12002805",
       "index": 1
     },
     {
       "title": "台风白海豚实时路径",
       "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84?type=general",
-      "hot_value": "11757906",
+      "hot_value": "11134463",
       "index": 2
     },
     {
       "title": "我国成全球在研创新药第一大国",
       "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%88%90%E5%85%A8%E7%90%83%E5%9C%A8%E7%A0%94%E5%88%9B%E6%96%B0%E8%8D%AF%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%9B%BD?type=general",
-      "hot_value": "10799286",
+      "hot_value": "11094527",
       "index": 3
-    },
-    {
-      "title": "明日之星决赛取消 两队并列冠军",
-      "url": "https://www.douyin.com/search/%E6%98%8E%E6%97%A5%E4%B9%8B%E6%98%9F%E5%86%B3%E8%B5%9B%E5%8F%96%E6%B6%88%20%E4%B8%A4%E9%98%9F%E5%B9%B6%E5%88%97%E5%86%A0%E5%86%9B?type=general",
-      "hot_value": "10620236",
-      "index": 4
     },
     {
       "title": "贵州菜申请加入暑期美食展",
       "url": "https://www.douyin.com/search/%E8%B4%B5%E5%B7%9E%E8%8F%9C%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5%E6%9A%91%E6%9C%9F%E7%BE%8E%E9%A3%9F%E5%B1%95?type=general",
-      "hot_value": "9670906",
+      "hot_value": "9948043",
+      "index": 4
+    },
+    {
+      "title": "明日之星决赛取消 两队并列冠军",
+      "url": "https://www.douyin.com/search/%E6%98%8E%E6%97%A5%E4%B9%8B%E6%98%9F%E5%86%B3%E8%B5%9B%E5%8F%96%E6%B6%88%20%E4%B8%A4%E9%98%9F%E5%B9%B6%E5%88%97%E5%86%A0%E5%86%9B?type=general",
+      "hot_value": "9180909",
       "index": 5
     },
     {
       "title": "穿搭没有公式",
       "url": "https://www.douyin.com/search/%E7%A9%BF%E6%90%AD%E6%B2%A1%E6%9C%89%E5%85%AC%E5%BC%8F?type=general",
-      "hot_value": "9161743",
+      "hot_value": "9110499",
       "index": 6
     },
     {
       "title": "长崎拟将南京大屠杀改为南京事件",
       "url": "https://www.douyin.com/search/%E9%95%BF%E5%B4%8E%E6%8B%9F%E5%B0%86%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%94%B9%E4%B8%BA%E5%8D%97%E4%BA%AC%E4%BA%8B%E4%BB%B6?type=general",
-      "hot_value": "8004934",
+      "hot_value": "7805425",
       "index": 7
     },
     {
       "title": "佛得角门将身价暴涨1000%",
       "url": "https://www.douyin.com/search/%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E8%BA%AB%E4%BB%B7%E6%9A%B4%E6%B6%A81000%25?type=general",
-      "hot_value": "7794065",
+      "hot_value": "7763133",
       "index": 8
     },
     {
       "title": "金价为何突然大涨",
       "url": "https://www.douyin.com/search/%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%A7%E6%B6%A8?type=general",
-      "hot_value": "7759718",
+      "hot_value": "7747075",
       "index": 9
-    },
-    {
-      "title": "伦纳德被曝隐匿收入超5000万美元",
-      "url": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7%E8%A2%AB%E6%9B%9D%E9%9A%90%E5%8C%BF%E6%94%B6%E5%85%A5%E8%B6%855000%E4%B8%87%E7%BE%8E%E5%85%83?type=general",
-      "hot_value": "7741492",
-      "index": 10
-    },
-    {
-      "title": "冻结那时间 冻结初遇那一天",
-      "url": "https://www.douyin.com/search/%E5%86%BB%E7%BB%93%E9%82%A3%E6%97%B6%E9%97%B4%20%E5%86%BB%E7%BB%93%E5%88%9D%E9%81%87%E9%82%A3%E4%B8%80%E5%A4%A9?type=general",
-      "hot_value": "7739901",
-      "index": 11
     },
     {
       "title": "这张是烂片但我喜欢",
       "url": "https://www.douyin.com/search/%E8%BF%99%E5%BC%A0%E6%98%AF%E7%83%82%E7%89%87%E4%BD%86%E6%88%91%E5%96%9C%E6%AC%A2?type=general",
-      "hot_value": "7737483",
+      "hot_value": "7736114",
+      "index": 10
+    },
+    {
+      "title": "解析台风白海豚的反常特征",
+      "url": "https://www.douyin.com/search/%E8%A7%A3%E6%9E%90%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%9A%84%E5%8F%8D%E5%B8%B8%E7%89%B9%E5%BE%81?type=general",
+      "hot_value": "7735125",
+      "index": 11
+    },
+    {
+      "title": "冻结那时间 冻结初遇那一天",
+      "url": "https://www.douyin.com/search/%E5%86%BB%E7%BB%93%E9%82%A3%E6%97%B6%E9%97%B4%20%E5%86%BB%E7%BB%93%E5%88%9D%E9%81%87%E9%82%A3%E4%B8%80%E5%A4%A9?type=general",
+      "hot_value": "7732117",
       "index": 12
     },
     {
       "title": "如何杜绝二次造谣",
       "url": "https://www.douyin.com/search/%E5%A6%82%E4%BD%95%E6%9D%9C%E7%BB%9D%E4%BA%8C%E6%AC%A1%E9%80%A0%E8%B0%A3?type=general",
-      "hot_value": "7733998",
+      "hot_value": "7730946",
       "index": 13
     },
     {
       "title": "拜登儿子称拜登癌症扩散",
       "url": "https://www.douyin.com/search/%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E7%A7%B0%E6%8B%9C%E7%99%BB%E7%99%8C%E7%97%87%E6%89%A9%E6%95%A3?type=general",
-      "hot_value": "7730085",
+      "hot_value": "7730354",
       "index": 14
     },
     {
-      "title": "解析台风白海豚的反常特征",
-      "url": "https://www.douyin.com/search/%E8%A7%A3%E6%9E%90%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%9A%84%E5%8F%8D%E5%B8%B8%E7%89%B9%E5%BE%81?type=general",
-      "hot_value": "7729444",
+      "title": "伦纳德被曝隐匿收入超5000万美元",
+      "url": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7%E8%A2%AB%E6%9B%9D%E9%9A%90%E5%8C%BF%E6%94%B6%E5%85%A5%E8%B6%855000%E4%B8%87%E7%BE%8E%E5%85%83?type=general",
+      "hot_value": "7730150",
       "index": 15
     },
     {
-      "title": "全球最大级别运输船通过长江大桥",
-      "url": "https://www.douyin.com/search/%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%BA%A7%E5%88%AB%E8%BF%90%E8%BE%93%E8%88%B9%E9%80%9A%E8%BF%87%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5?type=general",
-      "hot_value": "7728745",
+      "title": "陈楚生音乐节真神来的",
+      "url": "https://www.douyin.com/search/%E9%99%88%E6%A5%9A%E7%94%9F%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9C%9F%E7%A5%9E%E6%9D%A5%E7%9A%84?type=general",
+      "hot_value": "7727362",
       "index": 16
-    },
-    {
-      "title": "披荆斩棘官宣完整嘉宾阵容",
-      "url": "https://www.douyin.com/search/%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E5%AE%8C%E6%95%B4%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9?type=general",
-      "hot_value": "7728545",
-      "index": 17
     },
     {
       "title": "浙江上海等地迎强风雨",
       "url": "https://www.douyin.com/search/%E6%B5%99%E6%B1%9F%E4%B8%8A%E6%B5%B7%E7%AD%89%E5%9C%B0%E8%BF%8E%E5%BC%BA%E9%A3%8E%E9%9B%A8?type=general",
-      "hot_value": "7728395",
+      "hot_value": "7726992",
+      "index": 17
+    },
+    {
+      "title": "披荆斩棘官宣完整嘉宾阵容",
+      "url": "https://www.douyin.com/search/%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E5%AE%8C%E6%95%B4%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9?type=general",
+      "hot_value": "7725162",
       "index": 18
     },
     {
       "title": "轰6J挂弹现身黄岩岛海空联合演训",
       "url": "https://www.douyin.com/search/%E8%BD%B06J%E6%8C%82%E5%BC%B9%E7%8E%B0%E8%BA%AB%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%B5%B7%E7%A9%BA%E8%81%94%E5%90%88%E6%BC%94%E8%AE%AD?type=general",
-      "hot_value": "7721261",
+      "hot_value": "7717983",
       "index": 19
     },
     {
-      "title": "内蒙古第十六届运动会启幕",
-      "url": "https://www.douyin.com/search/%E5%86%85%E8%92%99%E5%8F%A4%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%90%AF%E5%B9%95?type=general",
-      "hot_value": "7715021",
+      "title": "全球最大级别运输船通过长江大桥",
+      "url": "https://www.douyin.com/search/%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%BA%A7%E5%88%AB%E8%BF%90%E8%BE%93%E8%88%B9%E9%80%9A%E8%BF%87%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5?type=general",
+      "hot_value": "7703413",
       "index": 20
     },
     {
-      "title": "我在草原上站了一会",
-      "url": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E8%8D%89%E5%8E%9F%E4%B8%8A%E7%AB%99%E4%BA%86%E4%B8%80%E4%BC%9A?type=general",
-      "hot_value": "7711319",
+      "title": "2026年“未录满”本科专业排行榜",
+      "url": "https://www.douyin.com/search/2026%E5%B9%B4%E2%80%9C%E6%9C%AA%E5%BD%95%E6%BB%A1%E2%80%9D%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%E6%8E%92%E8%A1%8C%E6%A6%9C?type=general",
+      "hot_value": "7696036",
       "index": 21
     },
     {
-      "title": "宋茜刺激之夜即兴手势舞",
-      "url": "https://www.douyin.com/search/%E5%AE%8B%E8%8C%9C%E5%88%BA%E6%BF%80%E4%B9%8B%E5%A4%9C%E5%8D%B3%E5%85%B4%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
-      "hot_value": "7705648",
+      "title": "下辈子不一定还能遇见你手势舞",
+      "url": "https://www.douyin.com/search/%E4%B8%8B%E8%BE%88%E5%AD%90%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%BF%98%E8%83%BD%E9%81%87%E8%A7%81%E4%BD%A0%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
+      "hot_value": "7694758",
       "index": 22
     },
     {
       "title": "御廷谣严知有理共创甜到我了",
       "url": "https://www.douyin.com/search/%E5%BE%A1%E5%BB%B7%E8%B0%A3%E4%B8%A5%E7%9F%A5%E6%9C%89%E7%90%86%E5%85%B1%E5%88%9B%E7%94%9C%E5%88%B0%E6%88%91%E4%BA%86?type=general",
-      "hot_value": "7703210",
+      "hot_value": "7693904",
       "index": 23
     },
     {
-      "title": "郝熠然稻田草帽少年",
-      "url": "https://www.douyin.com/search/%E9%83%9D%E7%86%A0%E7%84%B6%E7%A8%BB%E7%94%B0%E8%8D%89%E5%B8%BD%E5%B0%91%E5%B9%B4?type=general",
-      "hot_value": "7688659",
+      "title": "得不到的就更加爱舞蹈挑战",
+      "url": "https://www.douyin.com/search/%E5%BE%97%E4%B8%8D%E5%88%B0%E7%9A%84%E5%B0%B1%E6%9B%B4%E5%8A%A0%E7%88%B1%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98?type=general",
+      "hot_value": "7691557",
       "index": 24
     },
     {
-      "title": "下辈子不一定还能遇见你手势舞",
-      "url": "https://www.douyin.com/search/%E4%B8%8B%E8%BE%88%E5%AD%90%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%BF%98%E8%83%BD%E9%81%87%E8%A7%81%E4%BD%A0%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
-      "hot_value": "7684939",
+      "title": "宋茜刺激之夜即兴手势舞",
+      "url": "https://www.douyin.com/search/%E5%AE%8B%E8%8C%9C%E5%88%BA%E6%BF%80%E4%B9%8B%E5%A4%9C%E5%8D%B3%E5%85%B4%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
+      "hot_value": "7688295",
       "index": 25
     },
     {
-      "title": "陈楚生音乐节真神来的",
-      "url": "https://www.douyin.com/search/%E9%99%88%E6%A5%9A%E7%94%9F%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9C%9F%E7%A5%9E%E6%9D%A5%E7%9A%84?type=general",
-      "hot_value": "7684525",
+      "title": "我在草原上站了一会",
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E8%8D%89%E5%8E%9F%E4%B8%8A%E7%AB%99%E4%BA%86%E4%B8%80%E4%BC%9A?type=general",
+      "hot_value": "7681505",
       "index": 26
     },
     {
       "title": "用慢充旅行治愈自己",
       "url": "https://www.douyin.com/search/%E7%94%A8%E6%85%A2%E5%85%85%E6%97%85%E8%A1%8C%E6%B2%BB%E6%84%88%E8%87%AA%E5%B7%B1?type=general",
-      "hot_value": "7682592",
+      "hot_value": "7678664",
       "index": 27
     },
     {
       "title": "开学三件套全线暴涨",
       "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E4%B8%89%E4%BB%B6%E5%A5%97%E5%85%A8%E7%BA%BF%E6%9A%B4%E6%B6%A8?type=general",
-      "hot_value": "7675147",
+      "hot_value": "7678451",
       "index": 28
     },
     {
-      "title": "白鹿奶油风夏夜随拍",
-      "url": "https://www.douyin.com/search/%E7%99%BD%E9%B9%BF%E5%A5%B6%E6%B2%B9%E9%A3%8E%E5%A4%8F%E5%A4%9C%E9%9A%8F%E6%8B%8D?type=general",
-      "hot_value": "7668623",
+      "title": "内蒙古第十六届运动会启幕",
+      "url": "https://www.douyin.com/search/%E5%86%85%E8%92%99%E5%8F%A4%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%90%AF%E5%B9%95?type=general",
+      "hot_value": "7670008",
       "index": 29
     },
     {
-      "title": "得不到的就更加爱舞蹈挑战",
-      "url": "https://www.douyin.com/search/%E5%BE%97%E4%B8%8D%E5%88%B0%E7%9A%84%E5%B0%B1%E6%9B%B4%E5%8A%A0%E7%88%B1%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98?type=general",
-      "hot_value": "7664569",
+      "title": "郝熠然稻田草帽少年",
+      "url": "https://www.douyin.com/search/%E9%83%9D%E7%86%A0%E7%84%B6%E7%A8%BB%E7%94%B0%E8%8D%89%E5%B8%BD%E5%B0%91%E5%B9%B4?type=general",
+      "hot_value": "7663117",
       "index": 30
     }
   ]
