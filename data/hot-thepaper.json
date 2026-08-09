@@ -1,24 +1,24 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-08-09T11:03:15Z",
+  "update_time": "2026-08-09T11:54:48Z",
   "count": 20,
   "list": [
-    {
-      "title": "永和豆浆创始人林炳生逝世，享年70岁",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33745335",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "“青海和兰州在抢一碗面？”青海媒体：这种说法，格局小了",
       "url": "https://www.thepaper.cn/newsDetail_forward_33745927",
       "hot_value": "",
-      "index": 2
+      "index": 1
     },
     {
       "title": "蓝厅观察丨被中方反制的7家美国实体有何来头？",
       "url": "https://www.thepaper.cn/newsDetail_forward_33746518",
+      "hot_value": "",
+      "index": 2
+    },
+    {
+      "title": "直播丨强台风“白海豚”叩城，澎湃新闻追风记者直击上海防汛第一线",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33744408",
       "hot_value": "",
       "index": 3
     },
@@ -35,92 +35,92 @@
       "index": 5
     },
     {
-      "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33747571",
+      "title": "台风“白海豚”在浙江台州玉环沿海登陆，中心附近最大风力14级",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33748939",
       "hot_value": "",
       "index": 6
     },
     {
-      "title": "直播丨强台风“白海豚”叩城，澎湃新闻追风记者直击上海防汛第一线",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33744408",
+      "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33747571",
       "hot_value": "",
       "index": 7
-    },
-    {
-      "title": "检测列车撞人致11死2伤，施工业务外包单位被罚1.5万元",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33743109",
-      "hot_value": "",
-      "index": 8
     },
     {
       "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
       "url": "https://www.thepaper.cn/newsDetail_forward_33743326",
       "hot_value": "",
-      "index": 9
+      "index": 8
     },
     {
       "title": "央视中文国际频道迎来新主播孙亚鹏、李秋莹",
       "url": "https://www.thepaper.cn/newsDetail_forward_33746136",
       "hot_value": "",
-      "index": 10
+      "index": 9
     },
     {
       "title": "特朗普：“很多人称我是最伟大总统之一”",
       "url": "https://www.thepaper.cn/newsDetail_forward_33746686",
       "hot_value": "",
-      "index": 11
-    },
-    {
-      "title": "河南西平县“7·30”故意伤害案件犯罪嫌疑人夏某钢被抓获",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33745286",
-      "hot_value": "",
-      "index": 12
-    },
-    {
-      "title": "台风、暴雨、强对流等五预警齐发！沿海部分地区将有特大暴雨",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33745275",
-      "hot_value": "",
-      "index": 13
-    },
-    {
-      "title": "伊朗媒体发布伊朗最高领袖视频",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33745289",
-      "hot_value": "",
-      "index": 14
+      "index": 10
     },
     {
       "title": "外媒：阿根廷球星梅西父亲豪尔赫去世，终年68岁",
       "url": "https://www.thepaper.cn/newsDetail_forward_33745546",
       "hot_value": "",
-      "index": 15
+      "index": 11
     },
     {
       "title": "8月9日运营开始起，上海轨交全网络地面高架区段限速运行",
       "url": "https://www.thepaper.cn/newsDetail_forward_33745913",
       "hot_value": "",
-      "index": 16
+      "index": 12
     },
     {
       "title": "受台风“白海豚”影响：千余架次航班取消，多条铁路部分区段停运，浙江多个机场今日停航",
       "url": "https://www.thepaper.cn/newsDetail_forward_33748287",
       "hot_value": "",
-      "index": 17
+      "index": 13
     },
     {
       "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
       "url": "https://www.thepaper.cn/newsDetail_forward_33747633",
       "hot_value": "",
-      "index": 18
+      "index": 14
     },
     {
       "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
       "url": "https://www.thepaper.cn/newsDetail_forward_33744664",
       "hot_value": "",
-      "index": 19
+      "index": 15
     },
     {
       "title": "不足半月茅台自营店再调价！飞天零售价涨至1753元，较i茅台售价高出114元",
       "url": "https://www.thepaper.cn/newsDetail_forward_33745878",
+      "hot_value": "",
+      "index": 16
+    },
+    {
+      "title": "苹果官网：Mac电脑可配合苹果智能使用千问，进行文本创作、使用Siri问答",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33745492",
+      "hot_value": "",
+      "index": 17
+    },
+    {
+      "title": "经济日报：规范航班超售不可错开药方",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33747514",
+      "hot_value": "",
+      "index": 18
+    },
+    {
+      "title": "受台风“白海豚”影响，8月9日上海两大机场近六成航班调减取消",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33746909",
+      "hot_value": "",
+      "index": 19
+    },
+    {
+      "title": "中央气象台升级发布台风红警：六省份有大暴雨，浙江局地特大暴雨",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33747722",
       "hot_value": "",
       "index": 20
     }
