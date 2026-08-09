@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-09T15:56:44Z",
+  "update_time": "2026-08-09T16:34:27Z",
   "count": 30,
   "list": [
     {
       "title": "如何看待日本一医院错把患者脑部当肿瘤切除？",
       "url": "https://www.zhihu.com/question/2069354305589620880",
-      "hot_value": "1240 万热度",
+      "hot_value": "899 万热度",
       "index": 1
     },
     {
       "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
       "url": "https://www.zhihu.com/question/2069715027674624332",
-      "hot_value": "476 万热度",
+      "hot_value": "431 万热度",
       "index": 2
-    },
-    {
-      "title": "你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
-      "url": "https://www.zhihu.com/question/2068398077522793536",
-      "hot_value": "391 万热度",
-      "index": 3
     },
     {
       "title": "女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？",
       "url": "https://www.zhihu.com/question/2069321207866987893",
-      "hot_value": "361 万热度",
+      "hot_value": "380 万热度",
+      "index": 3
+    },
+    {
+      "title": "你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
+      "url": "https://www.zhihu.com/question/2068398077522793536",
+      "hot_value": "298 万热度",
       "index": 4
     },
     {
       "title": "台风「白海豚」在浙江台州玉环沿海登陆，中心附近最大风力 14 级，你那边现在情况如何？",
       "url": "https://www.zhihu.com/question/2068622608979813741",
-      "hot_value": "307 万热度",
+      "hot_value": "273 万热度",
       "index": 5
     },
     {
       "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
       "url": "https://www.zhihu.com/question/1957061060604437527",
-      "hot_value": "279 万热度",
+      "hot_value": "261 万热度",
       "index": 6
     },
     {
       "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
       "url": "https://www.zhihu.com/question/2067910668142093912",
-      "hot_value": "252 万热度",
+      "hot_value": "249 万热度",
       "index": 7
     },
     {
       "title": "菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？",
       "url": "https://www.zhihu.com/question/2069726177812374122",
-      "hot_value": "229 万热度",
+      "hot_value": "239 万热度",
       "index": 8
     },
     {
       "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
       "url": "https://www.zhihu.com/question/2068090103704941168",
-      "hot_value": "206 万热度",
+      "hot_value": "229 万热度",
       "index": 9
     },
     {
       "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
       "url": "https://www.zhihu.com/question/2069512576657105120",
-      "hot_value": "188 万热度",
+      "hot_value": "176 万热度",
       "index": 10
+    },
+    {
+      "title": "2026WTT 横滨冠军赛，张本智和 4:2 击败松岛辉空，挺进决赛，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2069791953693185700",
+      "hot_value": "173 万热度",
+      "index": 11
     },
     {
       "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
       "url": "https://www.zhihu.com/question/2069357693840667744",
-      "hot_value": "179 万热度",
-      "index": 11
+      "hot_value": "135 万热度",
+      "index": 12
     },
     {
       "title": "祁同伟的自杀，对沙瑞金和侯亮平有何影响？",
       "url": "https://www.zhihu.com/question/1928734665180702151",
-      "hot_value": "162 万热度",
-      "index": 12
-    },
-    {
-      "title": "台风「白海豚」逼近，9 岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些？",
-      "url": "https://www.zhihu.com/question/2069556360698488227",
-      "hot_value": "150 万热度",
+      "hot_value": "131 万热度",
       "index": 13
     },
     {
-      "title": "如何看待最近爆火的「成吉思鸡」现象？",
-      "url": "https://www.zhihu.com/question/2065112578406328007",
-      "hot_value": "140 万热度",
+      "title": "还有哪些类似《奥德赛》一样史诗题材的电影值得一看？",
+      "url": "https://www.zhihu.com/question/2068418251516633276",
+      "hot_value": "129 万热度",
       "index": 14
     },
     {
-      "title": "为什么感觉好莱坞的特效越来越不如以前真实？",
-      "url": "https://www.zhihu.com/question/459841876",
-      "hot_value": "119 万热度",
+      "title": "凡人修仙传动画 186 集最高在线人数多少？",
+      "url": "https://www.zhihu.com/question/2068852278321324886",
+      "hot_value": "125 万热度",
       "index": 15
     },
     {
       "title": "2026WTT 横滨冠军赛，张本智和 4 比 1 吴晙诚卫冕成功，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2069869187867137118",
-      "hot_value": "118 万热度",
+      "hot_value": "122 万热度",
       "index": 16
     },
     {
       "title": "河南西平县涉重大刑案逃犯被抓，还有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2069506911318315275",
-      "hot_value": "118 万热度",
+      "hot_value": "119 万热度",
       "index": 17
     },
     {
-      "title": "凡人修仙传动画 186 集最高在线人数多少？",
-      "url": "https://www.zhihu.com/question/2068852278321324886",
-      "hot_value": "116 万热度",
+      "title": "台风「白海豚」逼近，9 岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些？",
+      "url": "https://www.zhihu.com/question/2069556360698488227",
+      "hot_value": "114 万热度",
       "index": 18
     },
     {
-      "title": "段永平称「持有正股 + 卖 call= 持有现金 + 卖 put」，其金融逻辑是怎样的？",
-      "url": "https://www.zhihu.com/question/2069227848829875303",
-      "hot_value": "106 万热度",
+      "title": "为什么感觉好莱坞的特效越来越不如以前真实？",
+      "url": "https://www.zhihu.com/question/459841876",
+      "hot_value": "108 万热度",
       "index": 19
     },
     {
       "title": "医生韩杰因医疗事故获刑仍不认罪，如何界定医疗过失的刑事边界？",
       "url": "https://www.zhihu.com/question/2068717228388888877",
-      "hot_value": "104 万热度",
+      "hot_value": "106 万热度",
       "index": 20
     },
     {
       "title": "要不要做博后？",
       "url": "https://www.zhihu.com/question/2052016546743064407",
-      "hot_value": "103 万热度",
+      "hot_value": "104 万热度",
       "index": 21
-    },
-    {
-      "title": "那么多奸臣和酷吏明知道自己会被皇帝卸磨杀驴，为什么还锲而不舍的做事？",
-      "url": "https://www.zhihu.com/question/424335059",
-      "hot_value": "100 万热度",
-      "index": 22
     },
     {
       "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
       "url": "https://www.zhihu.com/question/2068817961792623517",
-      "hot_value": "100 万热度",
+      "hot_value": "101 万热度",
+      "index": 22
+    },
+    {
+      "title": "如何看待最近爆火的「成吉思鸡」现象？",
+      "url": "https://www.zhihu.com/question/2065112578406328007",
+      "hot_value": "97 万热度",
       "index": 23
     },
     {
-      "title": "既然有电场强度，那么有没有重力场强度?",
-      "url": "https://www.zhihu.com/question/1901789459130857314",
-      "hot_value": "78 万热度",
+      "title": "那么多奸臣和酷吏明知道自己会被皇帝卸磨杀驴，为什么还锲而不舍的做事？",
+      "url": "https://www.zhihu.com/question/424335059",
+      "hot_value": "96 万热度",
       "index": 24
     },
     {
       "title": "《侠客风云传》《逸剑风云决》这类游戏，为何总喜欢将魔教妖女作为红颜知己？江湖中没有好女孩了吗？",
       "url": "https://www.zhihu.com/question/2068272333865891710",
-      "hot_value": "78 万热度",
+      "hot_value": "91 万热度",
       "index": 25
     },
     {
       "title": "BLG 官宣 Flandre 加入，你看好这次的再度联手吗？可能会对选手以及战队有哪些影响？",
       "url": "https://www.zhihu.com/question/2069798790676968723",
-      "hot_value": "77 万热度",
+      "hot_value": "86 万热度",
       "index": 26
     },
     {
-      "title": "在无线耳机大行其道的今天，还有必要用有线耳机吗？",
-      "url": "https://www.zhihu.com/question/1988574173350602669",
-      "hot_value": "58 万热度",
+      "title": "既然有电场强度，那么有没有重力场强度?",
+      "url": "https://www.zhihu.com/question/1901789459130857314",
+      "hot_value": "79 万热度",
       "index": 27
     },
     {
-      "title": "专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？",
-      "url": "https://www.zhihu.com/question/2068732573711329057",
-      "hot_value": "57 万热度",
+      "title": "兹白说钟离曾经是「岩主天星」  那这个  「岩主天星」到底是个什么样的存在？",
+      "url": "https://www.zhihu.com/question/2002423834540778621",
+      "hot_value": "78 万热度",
       "index": 28
     },
     {
-      "title": "量化交易系统在实盘中，如何区分 「 正常回撤 」 和 「 因子失效 」？",
-      "url": "https://www.zhihu.com/question/2042585713821079308",
-      "hot_value": "57 万热度",
+      "title": "家里养宠物，用 84 消毒可以吗？",
+      "url": "https://www.zhihu.com/question/276059064",
+      "hot_value": "76 万热度",
       "index": 29
     },
     {
-      "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
-      "url": "https://www.zhihu.com/question/2062925324489339966",
-      "hot_value": "57 万热度",
+      "title": "面对海量信息流，我该如何有效获取深度知识而非碎片化内容？",
+      "url": "https://www.zhihu.com/question/1973345790182302455",
+      "hot_value": "66 万热度",
       "index": 30
     }
   ]
