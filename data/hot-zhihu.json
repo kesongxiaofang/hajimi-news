@@ -1,85 +1,85 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-09T21:26:47Z",
+  "update_time": "2026-08-09T21:58:12Z",
   "count": 30,
   "list": [
     {
       "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
       "url": "https://www.zhihu.com/question/2068090103704941168",
-      "hot_value": "186 万热度",
+      "hot_value": "181 万热度",
       "index": 1
     },
     {
       "title": "如何看待日本一医院错把患者脑部当肿瘤切除？",
       "url": "https://www.zhihu.com/question/2069354305589620880",
-      "hot_value": "169 万热度",
+      "hot_value": "163 万热度",
       "index": 2
     },
     {
       "title": "Wayward 称 BLG 放弃 Bin 是最错误决定，你如何评价？",
       "url": "https://www.zhihu.com/question/2069827123896907258",
-      "hot_value": "152 万热度",
+      "hot_value": "154 万热度",
       "index": 3
     },
     {
       "title": "如何看待美军林肯号航母爆出物资短缺，环境恶劣、飞行甲板磨出洞等情况？",
       "url": "https://www.zhihu.com/question/2069728803518148969",
-      "hot_value": "138 万热度",
+      "hot_value": "145 万热度",
       "index": 4
     },
     {
       "title": "台风「白海豚」在浙江台州玉环沿海登陆，中心附近最大风力 14 级，你那边现在情况如何？",
       "url": "https://www.zhihu.com/question/2068622608979813741",
-      "hot_value": "135 万热度",
+      "hot_value": "137 万热度",
       "index": 5
     },
     {
       "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
       "url": "https://www.zhihu.com/question/1957061060604437527",
-      "hot_value": "133 万热度",
+      "hot_value": "132 万热度",
       "index": 6
-    },
-    {
-      "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
-      "url": "https://www.zhihu.com/question/2067910668142093912",
-      "hot_value": "131 万热度",
-      "index": 7
-    },
-    {
-      "title": "菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？",
-      "url": "https://www.zhihu.com/question/2069726177812374122",
-      "hot_value": "130 万热度",
-      "index": 8
     },
     {
       "title": "天蚕土豆新书【神通者】到底如何？",
       "url": "https://www.zhihu.com/question/2069430560733369083",
       "hot_value": "128 万热度",
+      "index": 7
+    },
+    {
+      "title": "菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？",
+      "url": "https://www.zhihu.com/question/2069726177812374122",
+      "hot_value": "125 万热度",
+      "index": 8
+    },
+    {
+      "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
+      "url": "https://www.zhihu.com/question/2067910668142093912",
+      "hot_value": "123 万热度",
       "index": 9
     },
     {
       "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
       "url": "https://www.zhihu.com/question/2069715027674624332",
-      "hot_value": "99 万热度",
-      "index": 10
-    },
-    {
-      "title": "你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
-      "url": "https://www.zhihu.com/question/2068398077522793536",
       "hot_value": "98 万热度",
-      "index": 11
+      "index": 10
     },
     {
       "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
       "url": "https://www.zhihu.com/question/2068991097578021742",
       "hot_value": "97 万热度",
+      "index": 11
+    },
+    {
+      "title": "你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
+      "url": "https://www.zhihu.com/question/2068398077522793536",
+      "hot_value": "96 万热度",
       "index": 12
     },
     {
       "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
       "url": "https://www.zhihu.com/question/2068817961792623517",
-      "hot_value": "93 万热度",
+      "hot_value": "92 万热度",
       "index": 13
     },
     {
@@ -91,79 +91,79 @@
     {
       "title": "《亮剑》中有什么不符合逻辑的片段呢？",
       "url": "https://www.zhihu.com/question/1923757189924906939",
-      "hot_value": "85 万热度",
+      "hot_value": "86 万热度",
       "index": 15
     },
     {
       "title": "2026WTT 横滨冠军赛，张本智和 4 比 1 吴晙诚卫冕成功，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2069869187867137118",
-      "hot_value": "84 万热度",
+      "hot_value": "83 万热度",
       "index": 16
-    },
-    {
-      "title": "如何看待最近爆火的「成吉思鸡」现象？",
-      "url": "https://www.zhihu.com/question/2065112578406328007",
-      "hot_value": "82 万热度",
-      "index": 17
     },
     {
       "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
       "url": "https://www.zhihu.com/question/2069512576657105120",
-      "hot_value": "81 万热度",
+      "hot_value": "80 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何看待最近爆火的「成吉思鸡」现象？",
+      "url": "https://www.zhihu.com/question/2065112578406328007",
+      "hot_value": "80 万热度",
       "index": 18
     },
     {
-      "title": "还有哪些类似《奥德赛》一样史诗题材的电影值得一看？",
-      "url": "https://www.zhihu.com/question/2068418251516633276",
-      "hot_value": "72 万热度",
+      "title": "面对海量信息流，我该如何有效获取深度知识而非碎片化内容？",
+      "url": "https://www.zhihu.com/question/1973345790182302455",
+      "hot_value": "70 万热度",
       "index": 19
     },
     {
       "title": "医生韩杰因医疗事故获刑仍不认罪，如何界定医疗过失的刑事边界？",
       "url": "https://www.zhihu.com/question/2068717228388888877",
-      "hot_value": "71 万热度",
+      "hot_value": "70 万热度",
       "index": 20
     },
     {
       "title": "要不要做博后？",
       "url": "https://www.zhihu.com/question/2052016546743064407",
-      "hot_value": "70 万热度",
+      "hot_value": "69 万热度",
       "index": 21
     },
     {
-      "title": "面对海量信息流，我该如何有效获取深度知识而非碎片化内容？",
-      "url": "https://www.zhihu.com/question/1973345790182302455",
-      "hot_value": "69 万热度",
+      "title": "还有哪些类似《奥德赛》一样史诗题材的电影值得一看？",
+      "url": "https://www.zhihu.com/question/2068418251516633276",
+      "hot_value": "68 万热度",
       "index": 22
-    },
-    {
-      "title": "河南西平县涉重大刑案逃犯被抓，还有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2069506911318315275",
-      "hot_value": "67 万热度",
-      "index": 23
     },
     {
       "title": "你们早餐都吃些什么？",
       "url": "https://www.zhihu.com/question/631894574",
+      "hot_value": "66 万热度",
+      "index": 23
+    },
+    {
+      "title": "河南西平县涉重大刑案逃犯被抓，还有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2069506911318315275",
       "hot_value": "66 万热度",
       "index": 24
     },
     {
       "title": "为什么感觉好莱坞的特效越来越不如以前真实？",
       "url": "https://www.zhihu.com/question/459841876",
-      "hot_value": "66 万热度",
+      "hot_value": "65 万热度",
       "index": 25
-    },
-    {
-      "title": "为什么人们总害怕改变现状？",
-      "url": "https://www.zhihu.com/question/8466555607",
-      "hot_value": "66 万热度",
-      "index": 26
     },
     {
       "title": "量化交易系统在实盘中，如何区分 「 正常回撤 」 和 「 因子失效 」？",
       "url": "https://www.zhihu.com/question/2042585713821079308",
-      "hot_value": "66 万热度",
+      "hot_value": "65 万热度",
+      "index": 26
+    },
+    {
+      "title": "为什么人们总害怕改变现状？",
+      "url": "https://www.zhihu.com/question/8466555607",
+      "hot_value": "65 万热度",
       "index": 27
     },
     {
@@ -173,15 +173,15 @@
       "index": 28
     },
     {
-      "title": "2026WTT 横滨冠军赛，张本智和 4:2 击败松岛辉空，挺进决赛，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2069791953693185700",
-      "hot_value": "63 万热度",
+      "title": "为什么会有这么多人喜欢看纪录片？",
+      "url": "https://www.zhihu.com/question/360098555",
+      "hot_value": "62 万热度",
       "index": 29
     },
     {
       "title": "那么多奸臣和酷吏明知道自己会被皇帝卸磨杀驴，为什么还锲而不舍的做事？",
       "url": "https://www.zhihu.com/question/424335059",
-      "hot_value": "62 万热度",
+      "hot_value": "61 万热度",
       "index": 30
     }
   ]
