@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-09T09:34:21Z",
+  "update_time": "2026-08-09T10:28:54Z",
   "count": 30,
   "list": [
     {
-      "title": "《异环》1.3版本PV「雾中朔望星回」",
-      "url": "https://www.bilibili.com/video/BV1egM16kE9D",
-      "hot_value": "1579612播放",
+      "title": "王从天降",
+      "url": "https://www.bilibili.com/video/BV1vtMy63E4G",
+      "hot_value": "3820102播放",
       "index": 1
     },
     {
-      "title": "王从天降",
-      "url": "https://www.bilibili.com/video/BV1vtMy63E4G",
-      "hot_value": "3605159播放",
+      "title": "《异环》1.3版本PV「雾中朔望星回」",
+      "url": "https://www.bilibili.com/video/BV1egM16kE9D",
+      "hot_value": "1653635播放",
       "index": 2
     },
     {
-      "title": "《明日方舟：终末地》梨诺EP - Mirairo Rider",
-      "url": "https://www.bilibili.com/video/BV16euL6qETC",
-      "hot_value": "625252播放",
+      "title": "《鸣潮》3.6版本PV | 蜃云灯影，凡尘剑心",
+      "url": "https://www.bilibili.com/video/BV1Jcub6BEqB",
+      "hot_value": "1791109播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第95集 皇帝“驾崩”",
       "url": "https://www.bilibili.com/video/BV1dSuM6VERb",
-      "hot_value": "1399012播放",
+      "hot_value": "1485565播放",
       "index": 4
-    },
-    {
-      "title": "《鸣潮》3.6版本PV | 蜃云灯影，凡尘剑心",
-      "url": "https://www.bilibili.com/video/BV1Jcub6BEqB",
-      "hot_value": "1700603播放",
-      "index": 5
-    },
-    {
-      "title": "新能源车型越来越重，底盘还能兜得住吗？",
-      "url": "https://www.bilibili.com/video/BV1TXuu6wEKU",
-      "hot_value": "320634播放",
-      "index": 6
-    },
-    {
-      "title": "假如你是小馒头",
-      "url": "https://www.bilibili.com/video/BV1XJMm6VEHC",
-      "hot_value": "2676535播放",
-      "index": 7
     },
     {
       "title": "在贵州按猪遇见羡慕的婚礼",
       "url": "https://www.bilibili.com/video/BV1Bbun6jEaJ",
-      "hot_value": "2496230播放",
+      "hot_value": "2573459播放",
+      "index": 5
+    },
+    {
+      "title": "盒马1000＋产品热量实测，下次逛超市先看这张表！",
+      "url": "https://www.bilibili.com/video/BV1CLuu6xE83",
+      "hot_value": "496773播放",
+      "index": 6
+    },
+    {
+      "title": "新能源车型越来越重，底盘还能兜得住吗？",
+      "url": "https://www.bilibili.com/video/BV1TXuu6wEKU",
+      "hot_value": "351998播放",
+      "index": 7
+    },
+    {
+      "title": "难绷！小偶像戴上雷霆面具，难道是...三角初华？二角梨诺！",
+      "url": "https://www.bilibili.com/video/BV1MSuu6PEYy",
+      "hot_value": "272390播放",
       "index": 8
     },
     {
-      "title": "😨\"后室里的乌鲁鲁\"😰",
-      "url": "https://www.bilibili.com/video/BV1YYuN6tEWC",
-      "hot_value": "1732388播放",
+      "title": "发烧梗",
+      "url": "https://www.bilibili.com/video/BV1Unub69EpX",
+      "hot_value": "3234932播放",
       "index": 9
     },
     {
       "title": "【独家】《记忆管理局》第4集 燃灯与灰火【8月国创】",
       "url": "https://www.bilibili.com/video/BV1FdMk65EY2",
-      "hot_value": "417253播放",
+      "hot_value": "444868播放",
       "index": 10
+    },
+    {
+      "title": "😨\"后室里的乌鲁鲁\"😰",
+      "url": "https://www.bilibili.com/video/BV1YYuN6tEWC",
+      "hot_value": "1760483播放",
+      "index": 11
+    },
+    {
+      "title": "我和bro的潦草日常belike:",
+      "url": "https://www.bilibili.com/video/BV1GAu36VEra",
+      "hot_value": "576738播放",
+      "index": 12
+    },
+    {
+      "title": "假如你是小馒头",
+      "url": "https://www.bilibili.com/video/BV1XJMm6VEHC",
+      "hot_value": "2761275播放",
+      "index": 13
     },
     {
       "title": "[我的世界怪物学院] 逗逗小乐魂",
       "url": "https://www.bilibili.com/video/BV1quug6JE11",
-      "hot_value": "1296098播放",
-      "index": 11
-    },
-    {
-      "title": "发烧梗",
-      "url": "https://www.bilibili.com/video/BV1Unub69EpX",
-      "hot_value": "3195424播放",
-      "index": 12
+      "hot_value": "1336851播放",
+      "index": 14
     },
     {
       "title": "最虚构的一集",
       "url": "https://www.bilibili.com/video/BV1sZu36vEeP",
-      "hot_value": "1084537播放",
-      "index": 13
+      "hot_value": "1157533播放",
+      "index": 15
     },
     {
       "title": "在东方明珠玩100人躲猫猫！奖金10万元",
       "url": "https://www.bilibili.com/video/BV1ocu46fE1z",
-      "hot_value": "4469860播放",
-      "index": 14
-    },
-    {
-      "title": "《忆苦思甜》",
-      "url": "https://www.bilibili.com/video/BV1zVuG6sEwt",
-      "hot_value": "1027200播放",
-      "index": 15
-    },
-    {
-      "title": "三年之期已到，恭迎世一上归位！",
-      "url": "https://www.bilibili.com/video/BV1dvu36nEzG",
-      "hot_value": "856728播放",
+      "hot_value": "4563259播放",
       "index": 16
-    },
-    {
-      "title": "妈妈，你不能单挑大棕熊，坐坦克打枪吧！？！",
-      "url": "https://www.bilibili.com/video/BV1mDuu6aEDF",
-      "hot_value": "1840401播放",
-      "index": 17
-    },
-    {
-      "title": "哈哈哈哈哈哈哈！！！",
-      "url": "https://www.bilibili.com/video/BV1NRun6bEgv",
-      "hot_value": "2748835播放",
-      "index": 18
-    },
-    {
-      "title": "怪兽中 出了一个奥特曼的卧底",
-      "url": "https://www.bilibili.com/video/BV1gnub6REqy",
-      "hot_value": "5684597播放",
-      "index": 19
     },
     {
       "title": "青春没有售价！面包车？ 直达拉萨！！",
       "url": "https://www.bilibili.com/video/BV1CLuE67Ep9",
-      "hot_value": "3177802播放",
-      "index": 20
+      "hot_value": "3225280播放",
+      "index": 17
     },
     {
-      "title": "去这里旅游的人都失踪了，所谓旅游胜地的背后竟然是...",
-      "url": "https://www.bilibili.com/video/BV1QQuP6xEAd",
-      "hot_value": "1210163播放",
-      "index": 21
+      "title": "怪兽中 出了一个奥特曼的卧底",
+      "url": "https://www.bilibili.com/video/BV1gnub6REqy",
+      "hot_value": "5725364播放",
+      "index": 18
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！",
+      "url": "https://www.bilibili.com/video/BV1dvu36nEzG",
+      "hot_value": "900739播放",
+      "index": 19
     },
     {
       "title": "生活零零散散，人生平平蛋蛋",
       "url": "https://www.bilibili.com/video/BV1Neug6AE1p",
-      "hot_value": "815240播放",
+      "hot_value": "863384播放",
+      "index": 20
+    },
+    {
+      "title": "哈哈哈哈哈哈哈！！！",
+      "url": "https://www.bilibili.com/video/BV1NRun6bEgv",
+      "hot_value": "2780119播放",
+      "index": 21
+    },
+    {
+      "title": "《忆苦思甜》",
+      "url": "https://www.bilibili.com/video/BV1zVuG6sEwt",
+      "hot_value": "1088496播放",
       "index": 22
     },
     {
       "title": "《穿越三国，复活五虎北伐》第一季1-10集大合集！【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1ByuJ6jEfG",
-      "hot_value": "1526832播放",
+      "hot_value": "1551662播放",
       "index": 23
     },
     {
-      "title": "为了睡个好觉，我们做了这个...",
-      "url": "https://www.bilibili.com/video/BV1vGub6FEcu",
-      "hot_value": "4605911播放",
+      "title": "《老 头 乐》",
+      "url": "https://www.bilibili.com/video/BV1h8uG6CEN5",
+      "hot_value": "1071154播放",
       "index": 24
+    },
+    {
+      "title": "阿姨您找谁？ 找对象！！！",
+      "url": "https://www.bilibili.com/video/BV1XBuu66EcA",
+      "hot_value": "930476播放",
+      "index": 25
+    },
+    {
+      "title": "👊一 拳 超 人👊",
+      "url": "https://www.bilibili.com/video/BV19Fu365EqG",
+      "hot_value": "494017播放",
+      "index": 26
     },
     {
       "title": "“那些只打高端局的神级串烧”",
       "url": "https://www.bilibili.com/video/BV1J4un6mEV1",
-      "hot_value": "2598536播放",
-      "index": 25
-    },
-    {
-      "title": "20分钟《奥德赛》终极功课！原著/内核/影厅选择，一期视频全搞懂！",
-      "url": "https://www.bilibili.com/video/BV1cPug69Ene",
-      "hot_value": "547636播放",
-      "index": 26
-    },
-    {
-      "title": "改画哪有不疯的！（第26期）",
-      "url": "https://www.bilibili.com/video/BV1oxut6hEMH",
-      "hot_value": "2621253播放",
+      "hot_value": "2648872播放",
       "index": 27
+    },
+    {
+      "title": "妈妈，你不能单挑大棕熊，坐坦克打枪吧！？！",
+      "url": "https://www.bilibili.com/video/BV1mDuu6aEDF",
+      "hot_value": "1871872播放",
+      "index": 28
+    },
+    {
+      "title": "去这里旅游的人都失踪了，所谓旅游胜地的背后竟然是...",
+      "url": "https://www.bilibili.com/video/BV1QQuP6xEAd",
+      "hot_value": "1249782播放",
+      "index": 29
     },
     {
       "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
       "url": "https://www.bilibili.com/video/BV1rRut6rEGS",
-      "hot_value": "3205779播放",
-      "index": 28
-    },
-    {
-      "title": "“ 这 里 是 地 狱 啊... ”",
-      "url": "https://www.bilibili.com/video/BV1Pxu46rE3F",
-      "hot_value": "1040173播放",
-      "index": 29
-    },
-    {
-      "title": "近视手术：人类是怎么敢在眼球上开刀的？",
-      "url": "https://www.bilibili.com/video/BV1uYu56JESd",
-      "hot_value": "656941播放",
+      "hot_value": "3239563播放",
       "index": 30
     }
   ]
