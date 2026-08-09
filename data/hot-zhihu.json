@@ -1,151 +1,151 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-09T13:45:26Z",
+  "update_time": "2026-08-09T14:29:58Z",
   "count": 30,
   "list": [
     {
       "title": "如何看待日本一医院错把患者脑部当肿瘤切除？",
       "url": "https://www.zhihu.com/question/2069354305589620880",
-      "hot_value": "2825 万热度",
+      "hot_value": "1742 万热度",
       "index": 1
-    },
-    {
-      "title": "台风「白海豚」逼近，9 岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些？",
-      "url": "https://www.zhihu.com/question/2069556360698488227",
-      "hot_value": "704 万热度",
-      "index": 2
     },
     {
       "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
       "url": "https://www.zhihu.com/question/2069715027674624332",
-      "hot_value": "643 万热度",
+      "hot_value": "666 万热度",
+      "index": 2
+    },
+    {
+      "title": "台风「白海豚」逼近，9 岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些？",
+      "url": "https://www.zhihu.com/question/2069556360698488227",
+      "hot_value": "564 万热度",
       "index": 3
     },
     {
       "title": "你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破 50 亿吗?",
       "url": "https://www.zhihu.com/question/2068398077522793536",
-      "hot_value": "517 万热度",
+      "hot_value": "503 万热度",
       "index": 4
     },
     {
       "title": "台风「白海豚」在浙江台州玉环沿海登陆，中心附近最大风力 14 级，你那边现在情况如何？",
       "url": "https://www.zhihu.com/question/2068622608979813741",
-      "hot_value": "446 万热度",
+      "hot_value": "448 万热度",
       "index": 5
     },
     {
       "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
       "url": "https://www.zhihu.com/question/1957061060604437527",
-      "hot_value": "411 万热度",
+      "hot_value": "421 万热度",
       "index": 6
     },
     {
       "title": "女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？",
       "url": "https://www.zhihu.com/question/2069321207866987893",
-      "hot_value": "376 万热度",
+      "hot_value": "394 万热度",
       "index": 7
     },
     {
       "title": "菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？",
       "url": "https://www.zhihu.com/question/2069726177812374122",
-      "hot_value": "330 万热度",
+      "hot_value": "321 万热度",
       "index": 8
     },
     {
-      "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
-      "url": "https://www.zhihu.com/question/2068817961792623517",
-      "hot_value": "285 万热度",
+      "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
+      "url": "https://www.zhihu.com/question/2069512576657105120",
+      "hot_value": "250 万热度",
       "index": 9
     },
     {
       "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗？",
       "url": "https://www.zhihu.com/question/2067910668142093912",
-      "hot_value": "264 万热度",
+      "hot_value": "235 万热度",
       "index": 10
     },
     {
-      "title": "BLG 官宣 Flandre 加入，你看好这次的再度联手吗？可能会对选手以及战队有哪些影响？",
-      "url": "https://www.zhihu.com/question/2069798790676968723",
-      "hot_value": "243 万热度",
+      "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
+      "url": "https://www.zhihu.com/question/2068817961792623517",
+      "hot_value": "221 万热度",
       "index": 11
-    },
-    {
-      "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？",
-      "url": "https://www.zhihu.com/question/2069512576657105120",
-      "hot_value": "240 万热度",
-      "index": 12
     },
     {
       "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
       "url": "https://www.zhihu.com/question/2069357693840667744",
-      "hot_value": "240 万热度",
+      "hot_value": "220 万热度",
+      "index": 12
+    },
+    {
+      "title": "BLG 官宣 Flandre 加入，你看好这次的再度联手吗？可能会对选手以及战队有哪些影响？",
+      "url": "https://www.zhihu.com/question/2069798790676968723",
+      "hot_value": "200 万热度",
       "index": 13
     },
     {
       "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？",
       "url": "https://www.zhihu.com/question/2068090103704941168",
-      "hot_value": "150 万热度",
+      "hot_value": "168 万热度",
       "index": 14
-    },
-    {
-      "title": "2026WTT 横滨冠军赛，张本美和 4:2 击败陈幸同，连续击败三名国乒选手夺得冠军，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2069854697909908175",
-      "hot_value": "147 万热度",
-      "index": 15
-    },
-    {
-      "title": "河南西平县涉重大刑案逃犯被抓，还有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2069506911318315275",
-      "hot_value": "147 万热度",
-      "index": 16
     },
     {
       "title": "祁同伟的自杀，对沙瑞金和侯亮平有何影响？",
       "url": "https://www.zhihu.com/question/1928734665180702151",
+      "hot_value": "151 万热度",
+      "index": 15
+    },
+    {
+      "title": "2026WTT 横滨冠军赛，张本智和 4 比 1 吴晙诚卫冕成功，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2069869187867137118",
       "hot_value": "146 万热度",
+      "index": 16
+    },
+    {
+      "title": "河南西平县涉重大刑案逃犯被抓，还有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2069506911318315275",
+      "hot_value": "142 万热度",
       "index": 17
     },
     {
       "title": "如何看待最近爆火的「成吉思鸡」现象？",
       "url": "https://www.zhihu.com/question/2065112578406328007",
-      "hot_value": "132 万热度",
+      "hot_value": "133 万热度",
       "index": 18
     },
     {
-      "title": "如何评价今年被称为「最贵开学季」？游戏本涨至上万元「劝退」准大学生，有哪些平替方案？",
-      "url": "https://www.zhihu.com/question/2058246439600498015",
-      "hot_value": "111 万热度",
+      "title": "2026 年 wtt 横滨冠军赛女单半决赛，张本美和 4：2 击败王艺迪，怎么评价这一场对决？",
+      "url": "https://www.zhihu.com/question/2069751203559366726",
+      "hot_value": "124 万热度",
       "index": 19
+    },
+    {
+      "title": "医生韩杰因医疗事故获刑仍不认罪，如何界定医疗过失的刑事边界？",
+      "url": "https://www.zhihu.com/question/2068717228388888877",
+      "hot_value": "120 万热度",
+      "index": 20
     },
     {
       "title": "要不要做博后？",
       "url": "https://www.zhihu.com/question/2052016546743064407",
-      "hot_value": "98 万热度",
-      "index": 20
+      "hot_value": "116 万热度",
+      "index": 21
     },
     {
-      "title": "雪佛兰退出中国市场，反映出合资车企的哪些困境？",
-      "url": "https://www.zhihu.com/question/2069092577622725405",
-      "hot_value": "86 万热度",
-      "index": 21
+      "title": "为什么感觉好莱坞的特效越来越不如以前真实？",
+      "url": "https://www.zhihu.com/question/459841876",
+      "hot_value": "108 万热度",
+      "index": 22
+    },
+    {
+      "title": "段永平称「持有正股 + 卖 call= 持有现金 + 卖 put」，其金融逻辑是怎样的？",
+      "url": "https://www.zhihu.com/question/2069227848829875303",
+      "hot_value": "98 万热度",
+      "index": 23
     },
     {
       "title": "在无线耳机大行其道的今天，还有必要用有线耳机吗？",
       "url": "https://www.zhihu.com/question/1988574173350602669",
-      "hot_value": "63 万热度",
-      "index": 22
-    },
-    {
-      "title": "学霸是天生的吗？为什么有些孩子学习很轻松，有些却需要家长不断推动？",
-      "url": "https://www.zhihu.com/question/2064019772807942933",
-      "hot_value": "59 万热度",
-      "index": 23
-    },
-    {
-      "title": "如何看待华硕将海外用户已付 4607 美元的 5090 订单强行砍单，并随后提价至 5090 美元？",
-      "url": "https://www.zhihu.com/question/2069330740664439572",
-      "hot_value": "59 万热度",
+      "hot_value": "66 万热度",
       "index": 24
     },
     {
@@ -167,21 +167,21 @@
       "index": 27
     },
     {
-      "title": "于东来称要关闭营业 24 年的生活广场店，每一个项目都是国际一流的品质，达不到的都关了，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2069099745738593864",
+      "title": "如何评价今年被称为「最贵开学季」？游戏本涨至上万元「劝退」准大学生，有哪些平替方案？",
+      "url": "https://www.zhihu.com/question/2058246439600498015",
       "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "本人某 C9 毕业学生，想从事教培工作，但是被家里人骂得狗血淋头，难道教培就怎么不堪吗？",
-      "url": "https://www.zhihu.com/question/1988235352129962827",
-      "hot_value": "57 万热度",
+      "title": "量化交易系统在实盘中，如何区分 「 正常回撤 」 和 「 因子失效 」？",
+      "url": "https://www.zhihu.com/question/2042585713821079308",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
       "title": "那么多奸臣和酷吏明知道自己会被皇帝卸磨杀驴，为什么还锲而不舍的做事？",
       "url": "https://www.zhihu.com/question/424335059",
-      "hot_value": "57 万热度",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
