@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-08-09T16:34:27Z",
+  "update_time": "2026-08-09T17:27:06Z",
   "count": 30,
   "list": [
     {
       "title": "百花奖",
       "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%23",
-      "hot_value": "1261988",
+      "hot_value": "597256",
       "index": 1
     },
     {
       "title": "台风白海豚",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23",
-      "hot_value": "971671",
+      "hot_value": "389624",
       "index": 2
     },
     {
       "title": "中国制造硬核瞬间",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E7%9E%AC%E9%97%B4%23",
-      "hot_value": "850660",
+      "hot_value": "310377",
       "index": 3
     },
     {
       "title": "沈腾 影帝",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE+%E5%BD%B1%E5%B8%9D%23",
-      "hot_value": "846172",
+      "hot_value": "277187",
       "index": 4
-    },
-    {
-      "title": "我叫巴威 是的我重生了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%AB%E5%B7%B4%E5%A8%81+%E6%98%AF%E7%9A%84%E6%88%91%E9%87%8D%E7%94%9F%E4%BA%86%23",
-      "hot_value": "835825",
-      "index": 5
     },
     {
       "title": "上海地铁停运",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90%23",
-      "hot_value": "545688",
-      "index": 6
+      "hot_value": "215366",
+      "index": 5
     },
     {
       "title": "白海豚 居家办公",
       "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A+%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%23",
-      "hot_value": "458460",
-      "index": 7
+      "hot_value": "185105",
+      "index": 6
     },
     {
       "title": "龙餐馆 奥斯卡",
       "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E9%A4%90%E9%A6%86+%E5%A5%A5%E6%96%AF%E5%8D%A1%23",
-      "hot_value": "370545",
+      "hot_value": "181472",
+      "index": 7
+    },
+    {
+      "title": "朱一龙鼻子怎么了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86%23",
+      "hot_value": "181271",
       "index": 8
     },
     {
       "title": "张本智和说和妹妹同时夺冠意义重大",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E5%92%8C%E5%A6%B9%E5%A6%B9%E5%90%8C%E6%97%B6%E5%A4%BA%E5%86%A0%E6%84%8F%E4%B9%89%E9%87%8D%E5%A4%A7%23",
-      "hot_value": "370337",
+      "hot_value": "180931",
       "index": 9
     },
     {
       "title": "极氪7X充电起火",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA7X%E5%85%85%E7%94%B5%E8%B5%B7%E7%81%AB%23",
-      "hot_value": "367527",
+      "hot_value": "180714",
       "index": 10
     },
     {
       "title": "儿子去世孙子不捧骨灰盒被查出非亲生",
       "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E5%AD%99%E5%AD%90%E4%B8%8D%E6%8D%A7%E9%AA%A8%E7%81%B0%E7%9B%92%E8%A2%AB%E6%9F%A5%E5%87%BA%E9%9D%9E%E4%BA%B2%E7%94%9F%23",
-      "hot_value": "366023",
+      "hot_value": "180442",
       "index": 11
     },
     {
-      "title": "女演员朱锐自曝破产失业",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E6%9C%B1%E9%94%90%E8%87%AA%E6%9B%9D%E7%A0%B4%E4%BA%A7%E5%A4%B1%E4%B8%9A%23",
-      "hot_value": "364569",
+      "title": "杭州交警建议明早提前一小时出门",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%A4%E8%AD%A6%E5%BB%BA%E8%AE%AE%E6%98%8E%E6%97%A9%E6%8F%90%E5%89%8D%E4%B8%80%E5%B0%8F%E6%97%B6%E5%87%BA%E9%97%A8%23",
+      "hot_value": "180180",
       "index": 12
     },
     {
-      "title": "田曦薇没刘海差点认不出来",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%B2%A1%E5%88%98%E6%B5%B7%E5%B7%AE%E7%82%B9%E8%AE%A4%E4%B8%8D%E5%87%BA%E6%9D%A5%23",
-      "hot_value": "362821",
+      "title": "婴儿快窒息时被小猫救下宝妈发声",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E5%BF%AB%E7%AA%92%E6%81%AF%E6%97%B6%E8%A2%AB%E5%B0%8F%E7%8C%AB%E6%95%91%E4%B8%8B%E5%AE%9D%E5%A6%88%E5%8F%91%E5%A3%B0%23",
+      "hot_value": "179898",
       "index": 13
-    },
-    {
-      "title": "上海地铁",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23",
-      "hot_value": "360561",
-      "index": 14
-    },
-    {
-      "title": "迪丽热巴给路人打码",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BB%99%E8%B7%AF%E4%BA%BA%E6%89%93%E7%A0%81%23",
-      "hot_value": "359525",
-      "index": 15
-    },
-    {
-      "title": "公园偶遇张极街头唱歌",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%9B%AD%E5%81%B6%E9%81%87%E5%BC%A0%E6%9E%81%E8%A1%97%E5%A4%B4%E5%94%B1%E6%AD%8C%23",
-      "hot_value": "357483",
-      "index": 16
     },
     {
       "title": "上海地铁明天4条线路全线停运",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%98%8E%E5%A4%A94%E6%9D%A1%E7%BA%BF%E8%B7%AF%E5%85%A8%E7%BA%BF%E5%81%9C%E8%BF%90%23",
-      "hot_value": "355778",
-      "index": 17
+      "hot_value": "179703",
+      "index": 14
     },
     {
-      "title": "江波龙定增溢价45%投资者炸锅",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%A2%E9%BE%99%E5%AE%9A%E5%A2%9E%E6%BA%A2%E4%BB%B745%25%E6%8A%95%E8%B5%84%E8%80%85%E7%82%B8%E9%94%85%23",
-      "hot_value": "354504",
-      "index": 18
-    },
-    {
-      "title": "程晓玥谈离婚",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%99%93%E7%8E%A5%E8%B0%88%E7%A6%BB%E5%A9%9A%23",
-      "hot_value": "352285",
-      "index": 19
-    },
-    {
-      "title": "朱一龙鼻子怎么了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86%23",
-      "hot_value": "350647",
-      "index": 20
-    },
-    {
-      "title": "印度女子出轨被撞破在院子内遭毒打",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%92%9E%E7%A0%B4%E5%9C%A8%E9%99%A2%E5%AD%90%E5%86%85%E9%81%AD%E6%AF%92%E6%89%93%23",
-      "hot_value": "348687",
-      "index": 21
-    },
-    {
-      "title": "SBS夏日歌谣大战MC失误争议",
-      "url": "https://s.weibo.com/weibo?q=%23SBS%E5%A4%8F%E6%97%A5%E6%AD%8C%E8%B0%A3%E5%A4%A7%E6%88%98MC%E5%A4%B1%E8%AF%AF%E4%BA%89%E8%AE%AE%23",
-      "hot_value": "347505",
-      "index": 22
-    },
-    {
-      "title": "孟子义泰媒生图",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%B3%B0%E5%AA%92%E7%94%9F%E5%9B%BE%23",
-      "hot_value": "345360",
-      "index": 23
-    },
-    {
-      "title": "婴儿被子蒙头快窒息时小猫扒醒宝妈",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E8%A2%AB%E5%AD%90%E8%92%99%E5%A4%B4%E5%BF%AB%E7%AA%92%E6%81%AF%E6%97%B6%E5%B0%8F%E7%8C%AB%E6%89%92%E9%86%92%E5%AE%9D%E5%A6%88%23",
-      "hot_value": "343903",
-      "index": 24
-    },
-    {
-      "title": "山东泰山2比1天津津门虎",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B12%E6%AF%941%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E%23",
-      "hot_value": "343368",
-      "index": 25
-    },
-    {
-      "title": "姚琛程潇 标准的男人女人",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%90%9B%E7%A8%8B%E6%BD%87+%E6%A0%87%E5%87%86%E7%9A%84%E7%94%B7%E4%BA%BA%E5%A5%B3%E4%BA%BA%23",
-      "hot_value": "340372",
-      "index": 26
-    },
-    {
-      "title": "张凌赫红海",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%BA%A2%E6%B5%B7%23",
-      "hot_value": "339368",
-      "index": 27
-    },
-    {
-      "title": "娜扎称眼睛恢复情况不太妙",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%A7%B0%E7%9C%BC%E7%9D%9B%E6%81%A2%E5%A4%8D%E6%83%85%E5%86%B5%E4%B8%8D%E5%A4%AA%E5%A6%99%23",
-      "hot_value": "337557",
-      "index": 28
+      "title": "张凌赫还原谢征名台词",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BF%98%E5%8E%9F%E8%B0%A2%E5%BE%81%E5%90%8D%E5%8F%B0%E8%AF%8D%23",
+      "hot_value": "179537",
+      "index": 15
     },
     {
       "title": "人鱼",
       "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%B1%BC%23",
-      "hot_value": "336713",
-      "index": 29
+      "hot_value": "179265",
+      "index": 16
+    },
+    {
+      "title": "母亲看自闭症孩子独自玩耍情绪失控",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E7%9C%8B%E8%87%AA%E9%97%AD%E7%97%87%E5%AD%A9%E5%AD%90%E7%8B%AC%E8%87%AA%E7%8E%A9%E8%80%8D%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%23",
+      "hot_value": "179202",
+      "index": 17
+    },
+    {
+      "title": "浙江省甬江发生2026年第1号洪水",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%9C%81%E7%94%AC%E6%B1%9F%E5%8F%91%E7%94%9F2026%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E6%B4%AA%E6%B0%B4%23",
+      "hot_value": "178959",
+      "index": 18
+    },
+    {
+      "title": "患者走了医生躲角落哭半小时",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%82%A3%E8%80%85%E8%B5%B0%E4%BA%86%E5%8C%BB%E7%94%9F%E8%BA%B2%E8%A7%92%E8%90%BD%E5%93%AD%E5%8D%8A%E5%B0%8F%E6%97%B6%23",
+      "hot_value": "178757",
+      "index": 19
     },
     {
       "title": "白海豚提前登陆",
       "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86%23",
-      "hot_value": "334819",
+      "hot_value": "178408",
+      "index": 20
+    },
+    {
+      "title": "我每次陷入亲密关系的日常",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%AF%8F%E6%AC%A1%E9%99%B7%E5%85%A5%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E7%9A%84%E6%97%A5%E5%B8%B8%23",
+      "hot_value": "178327",
+      "index": 21
+    },
+    {
+      "title": "印度女子出轨被撞破在院子内遭毒打",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%92%9E%E7%A0%B4%E5%9C%A8%E9%99%A2%E5%AD%90%E5%86%85%E9%81%AD%E6%AF%92%E6%89%93%23",
+      "hot_value": "174968",
+      "index": 22
+    },
+    {
+      "title": "婴儿被子蒙头快窒息时小猫扒醒宝妈",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E8%A2%AB%E5%AD%90%E8%92%99%E5%A4%B4%E5%BF%AB%E7%AA%92%E6%81%AF%E6%97%B6%E5%B0%8F%E7%8C%AB%E6%89%92%E9%86%92%E5%AE%9D%E5%A6%88%23",
+      "hot_value": "174627",
+      "index": 23
+    },
+    {
+      "title": "宋亚轩IP在浙江",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9IP%E5%9C%A8%E6%B5%99%E6%B1%9F%23",
+      "hot_value": "174282",
+      "index": 24
+    },
+    {
+      "title": "男孩1年暴长20厘米全身长满纹",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A91%E5%B9%B4%E6%9A%B4%E9%95%BF20%E5%8E%98%E7%B1%B3%E5%85%A8%E8%BA%AB%E9%95%BF%E6%BB%A1%E7%BA%B9%23",
+      "hot_value": "174043",
+      "index": 25
+    },
+    {
+      "title": "大家都走到职场的哪一步了",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%B5%B0%E5%88%B0%E8%81%8C%E5%9C%BA%E7%9A%84%E5%93%AA%E4%B8%80%E6%AD%A5%E4%BA%86%23",
+      "hot_value": "173780",
+      "index": 26
+    },
+    {
+      "title": "上海地铁",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23",
+      "hot_value": "173363",
+      "index": 27
+    },
+    {
+      "title": "迪丽热巴素颜香港plog",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%A0%E9%A2%9C%E9%A6%99%E6%B8%AFplog%23",
+      "hot_value": "173062",
+      "index": 28
+    },
+    {
+      "title": "易烊千玺工作室感谢百花奖认可",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%84%9F%E8%B0%A2%E7%99%BE%E8%8A%B1%E5%A5%96%E8%AE%A4%E5%8F%AF%23",
+      "hot_value": "172629",
+      "index": 29
+    },
+    {
+      "title": "鉴定3个孩子非亲生奶奶仍想接手抚养",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%89%B4%E5%AE%9A3%E4%B8%AA%E5%AD%A9%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B6%E5%A5%B6%E4%BB%8D%E6%83%B3%E6%8E%A5%E6%89%8B%E6%8A%9A%E5%85%BB%23",
+      "hot_value": "172373",
       "index": 30
     }
   ]
