@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-09T12:40:09Z",
+  "update_time": "2026-08-09T13:45:26Z",
   "count": 30,
   "list": [
     {
-      "title": "王从天降",
-      "url": "https://www.bilibili.com/video/BV1vtMy63E4G",
-      "hot_value": "4475711播放",
+      "title": "【TF家族练习生】《突围II破局》EP07：破局（下）",
+      "url": "https://www.bilibili.com/video/BV1CWum6eEmZ",
+      "hot_value": "710283播放",
       "index": 1
     },
     {
-      "title": "【STN快报第8.5季16】轮回之兽：我依旧是世一GF游戏",
-      "url": "https://www.bilibili.com/video/BV11pum6NETD",
-      "hot_value": "178956播放",
+      "title": "王从天降",
+      "url": "https://www.bilibili.com/video/BV1vtMy63E4G",
+      "hot_value": "4645018播放",
       "index": 2
     },
     {
-      "title": "在贵州按猪遇见羡慕的婚礼",
-      "url": "https://www.bilibili.com/video/BV1Bbun6jEaJ",
-      "hot_value": "2799018播放",
+      "title": "评分8.7！我们奥特曼有救啦！提欧奥特曼开播吐槽！",
+      "url": "https://www.bilibili.com/video/BV1Cnu16ZEnP",
+      "hot_value": "205536播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第95集 皇帝“驾崩”",
       "url": "https://www.bilibili.com/video/BV1dSuM6VERb",
-      "hot_value": "1787956播放",
+      "hot_value": "1875434播放",
       "index": 4
     },
     {
       "title": "新篇章 | 《穿越火线：潜伏》CF IP嘉年华发布现场",
       "url": "https://www.bilibili.com/video/BV1eCuV6XEga",
-      "hot_value": "673473播放",
+      "hot_value": "736760播放",
       "index": 5
-    },
-    {
-      "title": "阿姨您找谁？ 找对象！！！",
-      "url": "https://www.bilibili.com/video/BV1XBuu66EcA",
-      "hot_value": "1373281播放",
-      "index": 6
     },
     {
       "title": "球球了，我平时好像不长这样啊啊！！",
       "url": "https://www.bilibili.com/video/BV1EVu26pEj3",
-      "hot_value": "1360817播放",
+      "hot_value": "1583943播放",
+      "index": 6
+    },
+    {
+      "title": "假如你是小馒头",
+      "url": "https://www.bilibili.com/video/BV1XJMm6VEHC",
+      "hot_value": "3077944播放",
       "index": 7
     },
     {
       "title": "发烧梗",
       "url": "https://www.bilibili.com/video/BV1Unub69EpX",
-      "hot_value": "3375054播放",
+      "hot_value": "3418281播放",
       "index": 8
     },
     {
-      "title": "《光与夜之恋》全新活动PV：金港往事",
-      "url": "https://www.bilibili.com/video/BV1Btuu67EA2",
-      "hot_value": "1009785播放",
+      "title": "阿姨您找谁？ 找对象！！！",
+      "url": "https://www.bilibili.com/video/BV1XBuu66EcA",
+      "hot_value": "1497001播放",
       "index": 9
     },
     {
       "title": "【独家】《记忆管理局》第4集 燃灯与灰火【8月国创】",
       "url": "https://www.bilibili.com/video/BV1FdMk65EY2",
-      "hot_value": "538749播放",
+      "hot_value": "567404播放",
       "index": 10
     },
     {
-      "title": "假如你是小馒头",
-      "url": "https://www.bilibili.com/video/BV1XJMm6VEHC",
-      "hot_value": "3005492播放",
+      "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
+      "url": "https://www.bilibili.com/video/BV1rRut6rEGS",
+      "hot_value": "4088973播放",
       "index": 11
     },
     {
       "title": "最虚构的一集",
       "url": "https://www.bilibili.com/video/BV1sZu36vEeP",
-      "hot_value": "1450262播放",
+      "hot_value": "1525546播放",
       "index": 12
+    },
+    {
+      "title": "【2026LPL第三赛段】8月9日 IG vs LNG",
+      "url": "https://www.bilibili.com/video/BV1cyuy6WEvF",
+      "hot_value": "478351播放",
+      "index": 13
     },
     {
       "title": "【TF家族练习生】《突围II破局》EP07：破局（上）",
       "url": "https://www.bilibili.com/video/BV1Kaug6eE8s",
-      "hot_value": "1556253播放",
-      "index": 13
+      "hot_value": "1596365播放",
+      "index": 14
+    },
+    {
+      "title": "在贵州按猪遇见羡慕的婚礼",
+      "url": "https://www.bilibili.com/video/BV1Bbun6jEaJ",
+      "hot_value": "2876866播放",
+      "index": 15
     },
     {
       "title": "😨\"后室里的乌鲁鲁\"😰",
       "url": "https://www.bilibili.com/video/BV1YYuN6tEWC",
-      "hot_value": "1851188播放",
-      "index": 14
-    },
-    {
-      "title": "完蛋，我被维维美包围了...致死量浓度这里是天堂吗？",
-      "url": "https://www.bilibili.com/video/BV1rauV6cEG9",
-      "hot_value": "752187播放",
-      "index": 15
-    },
-    {
-      "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
-      "url": "https://www.bilibili.com/video/BV1rRut6rEGS",
-      "hot_value": "4013495播放",
+      "hot_value": "1879901播放",
       "index": 16
-    },
-    {
-      "title": "[我的世界怪物学院] 逗逗小乐魂",
-      "url": "https://www.bilibili.com/video/BV1quug6JE11",
-      "hot_value": "1467277播放",
-      "index": 17
     },
     {
       "title": "哈哈哈哈哈哈哈！！！",
       "url": "https://www.bilibili.com/video/BV1NRun6bEgv",
-      "hot_value": "2902805播放",
-      "index": 18
-    },
-    {
-      "title": "三年之期已到，恭迎世一上归位！",
-      "url": "https://www.bilibili.com/video/BV1dvu36nEzG",
-      "hot_value": "1057720播放",
-      "index": 19
+      "hot_value": "2944016播放",
+      "index": 17
     },
     {
       "title": "怪兽中 出了一个奥特曼的卧底",
       "url": "https://www.bilibili.com/video/BV1gnub6REqy",
-      "hot_value": "5864778播放",
-      "index": 20
+      "hot_value": "5906863播放",
+      "index": 18
+    },
+    {
+      "title": "【STN快报第8.5季16】轮回之兽：我依旧是世一GF游戏",
+      "url": "https://www.bilibili.com/video/BV11pum6NETD",
+      "hot_value": "212101播放",
+      "index": 19
     },
     {
       "title": "在东方明珠玩100人躲猫猫！奖金10万元",
       "url": "https://www.bilibili.com/video/BV1ocu46fE1z",
-      "hot_value": "4809483播放",
+      "hot_value": "4883428播放",
+      "index": 20
+    },
+    {
+      "title": "妈妈，你不能单挑大棕熊，坐坦克打枪吧！？！",
+      "url": "https://www.bilibili.com/video/BV1mDuu6aEDF",
+      "hot_value": "2020026播放",
       "index": 21
     },
     {
-      "title": "我和bro的潦草日常belike:",
-      "url": "https://www.bilibili.com/video/BV1GAu36VEra",
-      "hot_value": "736467播放",
+      "title": "[我的世界怪物学院] 逗逗小乐魂",
+      "url": "https://www.bilibili.com/video/BV1quug6JE11",
+      "hot_value": "1487021播放",
       "index": 22
     },
     {
-      "title": "他骗的不是你一个，是你一整家",
-      "url": "https://www.bilibili.com/video/BV1J4un6UEgf",
-      "hot_value": "370720播放",
+      "title": "三年之期已到，恭迎世一上归位！",
+      "url": "https://www.bilibili.com/video/BV1dvu36nEzG",
+      "hot_value": "1107509播放",
       "index": 23
     },
     {
-      "title": "校园爸临",
-      "url": "https://www.bilibili.com/video/BV1xXuu6wEmt",
-      "hot_value": "838469播放",
+      "title": "完蛋，我被维维美包围了...致死量浓度这里是天堂吗？",
+      "url": "https://www.bilibili.com/video/BV1rauV6cEG9",
+      "hot_value": "795358播放",
       "index": 24
     },
     {
-      "title": "聪明猫在一起久了也会有一些共同点……",
-      "url": "https://www.bilibili.com/video/BV1Guu46sEkA",
-      "hot_value": "3883802播放",
+      "title": "“那些只打高端局的神级串烧”",
+      "url": "https://www.bilibili.com/video/BV1J4un6mEV1",
+      "hot_value": "2786917播放",
       "index": 25
-    },
-    {
-      "title": "👊一 拳 超 人👊",
-      "url": "https://www.bilibili.com/video/BV19Fu365EqG",
-      "hot_value": "699001播放",
-      "index": 26
     },
     {
       "title": "近视手术：人类是怎么敢在眼球上开刀的？",
       "url": "https://www.bilibili.com/video/BV1uYu56JESd",
-      "hot_value": "846655播放",
+      "hot_value": "882658播放",
+      "index": 26
+    },
+    {
+      "title": "【三角洲】零号大坝1-11藏宝图/宝藏箱所有位置 保姆级教学 全程贴心领跑",
+      "url": "https://www.bilibili.com/video/BV1EwuK6BEir",
+      "hot_value": "1587330播放",
       "index": 27
     },
     {
-      "title": "【同人动画】致以辉煌的人 【奥特曼光之创想季】",
-      "url": "https://www.bilibili.com/video/BV1tCuT6bE8q",
-      "hot_value": "895539播放",
+      "title": "👊一 拳 超 人👊",
+      "url": "https://www.bilibili.com/video/BV19Fu365EqG",
+      "hot_value": "781281播放",
       "index": 28
     },
     {
-      "title": "《Sweet boy》发一下库存吧，有点忙最近",
-      "url": "https://www.bilibili.com/video/BV1UYMS6GEWa",
-      "hot_value": "706157播放",
+      "title": "我和bro的潦草日常belike:",
+      "url": "https://www.bilibili.com/video/BV1GAu36VEra",
+      "hot_value": "778491播放",
       "index": 29
     },
     {
-      "title": "青春没有售价！面包车？ 直达拉萨！！",
-      "url": "https://www.bilibili.com/video/BV1CLuE67Ep9",
-      "hot_value": "3390522播放",
+      "title": "《无期迷途》过场动画 | 降临之时【4K/60帧】",
+      "url": "https://www.bilibili.com/video/BV17Quy6UEiG",
+      "hot_value": "413267播放",
       "index": 30
     }
   ]

@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-08-09T12:40:09Z",
+  "update_time": "2026-08-09T13:45:26Z",
   "count": 30,
   "list": [
     {
       "title": "台风白海豚二次登陆",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BA%8C%E6%AC%A1%E7%99%BB%E9%99%86",
-      "hot_value": "1,344.5万",
+      "hot_value": "1,329.7万",
       "index": 1
     },
     {
       "title": "台风白海豚实时路径",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84",
-      "hot_value": "1,344.5万",
+      "hot_value": "1,329.6万",
       "index": 2
     },
     {
-      "title": "全国多个算力节点迎来新一轮扩容",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%85%A8%E5%9B%BD%E5%A4%9A%E4%B8%AA%E7%AE%97%E5%8A%9B%E8%8A%82%E7%82%B9%E8%BF%8E%E6%9D%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E6%89%A9%E5%AE%B9",
-      "hot_value": "1,344.3万",
+      "title": "数说物流网",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%95%B0%E8%AF%B4%E7%89%A9%E6%B5%81%E7%BD%91",
+      "hot_value": "1,329.5万",
       "index": 3
     },
     {
-      "title": "四川路桥被停全军采购资格",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E8%B7%AF%E6%A1%A5%E8%A2%AB%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC",
-      "hot_value": "1,344.3万",
+      "title": "国乒连续两站赛事0冠",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E4%B9%92%E8%BF%9E%E7%BB%AD%E4%B8%A4%E7%AB%99%E8%B5%9B%E4%BA%8B0%E5%86%A0",
+      "hot_value": "1,329.5万",
       "index": 4
     },
     {
       "title": "台风登陆最新进展",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
-      "hot_value": "1,333.7万",
+      "hot_value": "1,293.3万",
       "index": 5
     },
     {
       "title": "赵一曼孙女拒再立碑",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B5%B5%E4%B8%80%E6%9B%BC%E5%AD%99%E5%A5%B3%E6%8B%92%E5%86%8D%E7%AB%8B%E7%A2%91",
-      "hot_value": "1,286.4万",
+      "hot_value": "1,175.9万",
       "index": 6
+    },
+    {
+      "title": "四川路桥被停全军采购资格",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E8%B7%AF%E6%A1%A5%E8%A2%AB%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC",
+      "hot_value": "1,154.5万",
+      "index": 7
     },
     {
       "title": "张凌赫后备箱装了什么",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%8E%E5%A4%87%E7%AE%B1%E8%A3%85%E4%BA%86%E4%BB%80%E4%B9%88",
-      "hot_value": "1,222.5万",
-      "index": 7
+      "hot_value": "1,124万",
+      "index": 8
     },
     {
-      "title": "别的班换座位vs我们班换座位",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%AB%E7%9A%84%E7%8F%AD%E6%8D%A2%E5%BA%A7%E4%BD%8Dvs%E6%88%91%E4%BB%AC%E7%8F%AD%E6%8D%A2%E5%BA%A7%E4%BD%8D",
-      "hot_value": "1,198.6万",
-      "index": 8
+      "title": "火崽崽版闺蜜宣言",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%81%AB%E5%B4%BD%E5%B4%BD%E7%89%88%E9%97%BA%E8%9C%9C%E5%AE%A3%E8%A8%80",
+      "hot_value": "1,110.9万",
+      "index": 9
     },
     {
       "title": "小哈哈火把节带老铁云游西昌",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E5%93%88%E5%93%88%E7%81%AB%E6%8A%8A%E8%8A%82%E5%B8%A6%E8%80%81%E9%93%81%E4%BA%91%E6%B8%B8%E8%A5%BF%E6%98%8C",
-      "hot_value": "1,157.8万",
-      "index": 9
-    },
-    {
-      "title": "上海中心阻尼器摆动明显",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%BF%83%E9%98%BB%E5%B0%BC%E5%99%A8%E6%91%86%E5%8A%A8%E6%98%8E%E6%98%BE",
-      "hot_value": "1,135.3万",
+      "hot_value": "1,089.1万",
       "index": 10
     },
     {
       "title": "网络“跟风评论随意脑补”素养课",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BD%91%E7%BB%9C%E2%80%9C%E8%B7%9F%E9%A3%8E%E8%AF%84%E8%AE%BA%E9%9A%8F%E6%84%8F%E8%84%91%E8%A1%A5%E2%80%9D%E7%B4%A0%E5%85%BB%E8%AF%BE",
-      "hot_value": "1,135.3万",
+      "hot_value": "1,045.9万",
       "index": 11
     },
     {
-      "title": "江西一夜市发生车祸",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%A4%9C%E5%B8%82%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8",
-      "hot_value": "1,091.5万",
+      "title": "别的班换座位vs我们班换座位",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%AB%E7%9A%84%E7%8F%AD%E6%8D%A2%E5%BA%A7%E4%BD%8Dvs%E6%88%91%E4%BB%AC%E7%8F%AD%E6%8D%A2%E5%BA%A7%E4%BD%8D",
+      "hot_value": "1,045万",
       "index": 12
-    },
-    {
-      "title": "百花奖提名者表彰仪式",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8F%90%E5%90%8D%E8%80%85%E8%A1%A8%E5%BD%B0%E4%BB%AA%E5%BC%8F",
-      "hot_value": "1,070万",
-      "index": 13
     },
     {
       "title": "出去玩旅游转场就这么拍",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%87%BA%E5%8E%BB%E7%8E%A9%E6%97%85%E6%B8%B8%E8%BD%AC%E5%9C%BA%E5%B0%B1%E8%BF%99%E4%B9%88%E6%8B%8D",
-      "hot_value": "1,068万",
-      "index": 14
-    },
-    {
-      "title": "窝也得是爷们吗",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AA%9D%E4%B9%9F%E5%BE%97%E6%98%AF%E7%88%B7%E4%BB%AC%E5%90%97",
-      "hot_value": "1,065.7万",
-      "index": 15
-    },
-    {
-      "title": "张本智和横滨赛冠军",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%A8%AA%E6%BB%A8%E8%B5%9B%E5%86%A0%E5%86%9B",
-      "hot_value": "1,060.4万",
-      "index": 16
+      "hot_value": "1,021.5万",
+      "index": 13
     },
     {
       "title": "苏炳添也没拿过省运会冠军",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%B9%9F%E6%B2%A1%E6%8B%BF%E8%BF%87%E7%9C%81%E8%BF%90%E4%BC%9A%E5%86%A0%E5%86%9B",
-      "hot_value": "1,058.2万",
+      "hot_value": "1,019.4万",
+      "index": 14
+    },
+    {
+      "title": "上海中心阻尼器摆动明显",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%BF%83%E9%98%BB%E5%B0%BC%E5%99%A8%E6%91%86%E5%8A%A8%E6%98%8E%E6%98%BE",
+      "hot_value": "1,015.3万",
+      "index": 15
+    },
+    {
+      "title": "89岁钟南山坚持健身",
+      "url": "https://www.kuaishou.com/search/video?searchKey=89%E5%B2%81%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9D%9A%E6%8C%81%E5%81%A5%E8%BA%AB",
+      "hot_value": "1,011.3万",
+      "index": 16
+    },
+    {
+      "title": "12名中国人柬埔寨涉电诈被抓",
+      "url": "https://www.kuaishou.com/search/video?searchKey=12%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%B6%89%E7%94%B5%E8%AF%88%E8%A2%AB%E6%8A%93",
+      "hot_value": "1,010.9万",
       "index": 17
     },
     {
-      "title": "乌海交警高温下坚守岗位",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B9%8C%E6%B5%B7%E4%BA%A4%E8%AD%A6%E9%AB%98%E6%B8%A9%E4%B8%8B%E5%9D%9A%E5%AE%88%E5%B2%97%E4%BD%8D",
-      "hot_value": "1,055.3万",
+      "title": "台风琵鹭来了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%90%B5%E9%B9%AD%E6%9D%A5%E4%BA%86",
+      "hot_value": "1,008.5万",
       "index": 18
     },
     {
       "title": "菲律宾母女酒店遭枪击",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%AF%8D%E5%A5%B3%E9%85%92%E5%BA%97%E9%81%AD%E6%9E%AA%E5%87%BB",
-      "hot_value": "1,054.3万",
+      "hot_value": "1,006万",
       "index": 19
-    },
-    {
-      "title": "12名中国人柬埔寨涉电诈被抓",
-      "url": "https://www.kuaishou.com/search/video?searchKey=12%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%B6%89%E7%94%B5%E8%AF%88%E8%A2%AB%E6%8A%93",
-      "hot_value": "1,049.7万",
-      "index": 20
-    },
-    {
-      "title": "KEG斩获2026PSI地铁四排总冠军",
-      "url": "https://www.kuaishou.com/search/video?searchKey=KEG%E6%96%A9%E8%8E%B72026PSI%E5%9C%B0%E9%93%81%E5%9B%9B%E6%8E%92%E6%80%BB%E5%86%A0%E5%86%9B",
-      "hot_value": "1,046.8万",
-      "index": 21
-    },
-    {
-      "title": "台风琵鹭来了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%90%B5%E9%B9%AD%E6%9D%A5%E4%BA%86",
-      "hot_value": "1,043.9万",
-      "index": 22
-    },
-    {
-      "title": "89岁钟南山坚持健身",
-      "url": "https://www.kuaishou.com/search/video?searchKey=89%E5%B2%81%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9D%9A%E6%8C%81%E5%81%A5%E8%BA%AB",
-      "hot_value": "1,040.3万",
-      "index": 23
-    },
-    {
-      "title": "上海极端强降雨",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A%E6%B5%B7%E6%9E%81%E7%AB%AF%E5%BC%BA%E9%99%8D%E9%9B%A8",
-      "hot_value": "1,039.5万",
-      "index": 24
-    },
-    {
-      "title": "张本美和横滨赛冠军",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E6%A8%AA%E6%BB%A8%E8%B5%9B%E5%86%A0%E5%86%9B",
-      "hot_value": "1,037.2万",
-      "index": 25
-    },
-    {
-      "title": "任贤齐演唱会歌迷热情似火",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%BB%E8%B4%A4%E9%BD%90%E6%BC%94%E5%94%B1%E4%BC%9A%E6%AD%8C%E8%BF%B7%E7%83%AD%E6%83%85%E4%BC%BC%E7%81%AB",
-      "hot_value": "1,031.6万",
-      "index": 26
-    },
-    {
-      "title": "盗墓笔记黑花角色曲花夜棋落",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E9%BB%91%E8%8A%B1%E8%A7%92%E8%89%B2%E6%9B%B2%E8%8A%B1%E5%A4%9C%E6%A3%8B%E8%90%BD",
-      "hot_value": "1,029.7万",
-      "index": 27
     },
     {
       "title": "9岁男孩被海浪卷走 当地回应",
       "url": "https://www.kuaishou.com/search/video?searchKey=9%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%B5%B7%E6%B5%AA%E5%8D%B7%E8%B5%B0%20%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
-      "hot_value": "1,029.4万",
-      "index": 28
+      "hot_value": "1,001万",
+      "index": 20
+    },
+    {
+      "title": "江西一夜市发生车祸",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%A4%9C%E5%B8%82%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8",
+      "hot_value": "999.7万",
+      "index": 21
+    },
+    {
+      "title": "马斯克承认撞月视频造假",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E6%92%9E%E6%9C%88%E8%A7%86%E9%A2%91%E9%80%A0%E5%81%87",
+      "hot_value": "996.7万",
+      "index": 22
+    },
+    {
+      "title": "南屿2026PSI海岛单四总冠军",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%97%E5%B1%BF2026PSI%E6%B5%B7%E5%B2%9B%E5%8D%95%E5%9B%9B%E6%80%BB%E5%86%A0%E5%86%9B",
+      "hot_value": "993.7万",
+      "index": 23
+    },
+    {
+      "title": "盗墓笔记黑花角色曲花夜棋落",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E9%BB%91%E8%8A%B1%E8%A7%92%E8%89%B2%E6%9B%B2%E8%8A%B1%E5%A4%9C%E6%A3%8B%E8%90%BD",
+      "hot_value": "990.8万",
+      "index": 24
+    },
+    {
+      "title": "大狗叫",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E7%8B%97%E5%8F%AB",
+      "hot_value": "983.3万",
+      "index": 25
     },
     {
       "title": "小猪佩奇一家上综艺直播了",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%E4%B8%80%E5%AE%B6%E4%B8%8A%E7%BB%BC%E8%89%BA%E7%9B%B4%E6%92%AD%E4%BA%86",
-      "hot_value": "1,025.7万",
+      "hot_value": "981.3万",
+      "index": 26
+    },
+    {
+      "title": "长崎拟将南京大屠杀改为南京事件",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%95%BF%E5%B4%8E%E6%8B%9F%E5%B0%86%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E6%94%B9%E4%B8%BA%E5%8D%97%E4%BA%AC%E4%BA%8B%E4%BB%B6",
+      "hot_value": "978.2万",
+      "index": 27
+    },
+    {
+      "title": "军营开放日展示强军成果",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%9B%E8%90%A5%E5%BC%80%E6%94%BE%E6%97%A5%E5%B1%95%E7%A4%BA%E5%BC%BA%E5%86%9B%E6%88%90%E6%9E%9C",
+      "hot_value": "975.4万",
+      "index": 28
+    },
+    {
+      "title": "刘亦菲美貌是否算绝美",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BE%8E%E8%B2%8C%E6%98%AF%E5%90%A6%E7%AE%97%E7%BB%9D%E7%BE%8E",
+      "hot_value": "972.5万",
       "index": 29
     },
     {
-      "title": "台风逼近温州现彩虹",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E9%80%BC%E8%BF%91%E6%B8%A9%E5%B7%9E%E7%8E%B0%E5%BD%A9%E8%99%B9",
-      "hot_value": "1,024.4万",
+      "title": "百花奖提名者表彰仪式",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BE%E8%8A%B1%E5%A5%96%E6%8F%90%E5%90%8D%E8%80%85%E8%A1%A8%E5%BD%B0%E4%BB%AA%E5%BC%8F",
+      "hot_value": "970.1万",
       "index": 30
     }
   ]
