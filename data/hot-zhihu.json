@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-10T14:53:54Z",
+  "update_time": "2026-08-10T15:55:57Z",
   "count": 30,
   "list": [
     {
       "title": "武汉司门口黄鹤楼天桥市容管理人员与占道摊贩发生激烈肢体冲突，3 人被刑拘，有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2070076932834550346",
-      "hot_value": "922 万热度",
+      "hot_value": "653 万热度",
       "index": 1
     },
     {
       "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2068484771710293896",
-      "hot_value": "487 万热度",
+      "hot_value": "611 万热度",
       "index": 2
-    },
-    {
-      "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
-      "url": "https://www.zhihu.com/question/2068943667189002947",
-      "hot_value": "281 万热度",
-      "index": 3
     },
     {
       "title": "易烊千玺、卫诗雅分封影帝、影后，如何评价第 38 届大众电影百花奖获奖名单？",
       "url": "https://www.zhihu.com/question/2070241074514224234",
-      "hot_value": "276 万热度",
-      "index": 4
+      "hot_value": "377 万热度",
+      "index": 3
     },
     {
       "title": "于东来回应关闭胖东来生活广场店，因早年租约失误造成租户租金失衡，门店盈利上亿仍闭店，如何看待他的选择？",
       "url": "https://www.zhihu.com/question/2069799083045287916",
-      "hot_value": "259 万热度",
+      "hot_value": "368 万热度",
+      "index": 4
+    },
+    {
+      "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+      "url": "https://www.zhihu.com/question/2068943667189002947",
+      "hot_value": "313 万热度",
       "index": 5
     },
     {
-      "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
-      "url": "https://www.zhihu.com/question/2067683991218607726",
-      "hot_value": "206 万热度",
+      "title": "沈腾新片《欢迎来龙餐馆》点映口碑爆棚，如何评价沈腾此番演技？喜剧演员要打破观众的固有印象难度在哪？",
+      "url": "https://www.zhihu.com/question/2069917740303737208",
+      "hot_value": "216 万热度",
       "index": 6
     },
     {
       "title": "演员秦焰去世，享年 72 岁，曾出演《狂飙》《庆余年第二季》等多部剧集，你对他塑造的角色有哪些记忆？",
       "url": "https://www.zhihu.com/question/2070151359999862687",
-      "hot_value": "176 万热度",
+      "hot_value": "207 万热度",
       "index": 7
     },
     {
       "title": "《欢迎来龙餐馆》为啥不叫《欢迎来到龙餐馆》？",
       "url": "https://www.zhihu.com/question/2069800142161687384",
-      "hot_value": "166 万热度",
+      "hot_value": "178 万热度",
       "index": 8
     },
     {
       "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
       "url": "https://www.zhihu.com/question/268161638",
-      "hot_value": "165 万热度",
+      "hot_value": "168 万热度",
       "index": 9
-    },
-    {
-      "title": "沈腾新片《欢迎来龙餐馆》点映口碑爆棚，如何评价沈腾此番演技？喜剧演员要打破观众的固有印象难度在哪？",
-      "url": "https://www.zhihu.com/question/2069917740303737208",
-      "hot_value": "163 万热度",
-      "index": 10
     },
     {
       "title": "韩信为什么连让他钻裤裆的恶霸都委以重任，但是却拿百钱羞辱让他吃大半年白饭的亭长呢？",
       "url": "https://www.zhihu.com/question/1890833705737646410",
-      "hot_value": "162 万热度",
-      "index": 11
+      "hot_value": "157 万热度",
+      "index": 10
     },
     {
       "title": "多地高分生扎堆填报「3+4」中本贯通，为什么会这样？中本贯通有哪些优势？",
       "url": "https://www.zhihu.com/question/2070067547102082665",
-      "hot_value": "149 万热度",
-      "index": 12
+      "hot_value": "157 万热度",
+      "index": 11
     },
     {
       "title": "硬盘、内存价格还会降回去吗？",
       "url": "https://www.zhihu.com/question/2011092640041570925",
-      "hot_value": "135 万热度",
-      "index": 13
+      "hot_value": "144 万热度",
+      "index": 12
     },
     {
       "title": "如果你只能传送一次 1KB 的数据到三年前的自己面前，你会传什么？",
       "url": "https://www.zhihu.com/question/2009080099056661232",
-      "hot_value": "127 万热度",
-      "index": 14
-    },
-    {
-      "title": "台风「白海豚」疯狂倒水，上海内涝严重，地铁多条线路停运，你的出行和生活受影响了吗？今天有居家办公吗？",
-      "url": "https://www.zhihu.com/question/2070054600602642235",
-      "hot_value": "121 万热度",
-      "index": 15
+      "hot_value": "143 万热度",
+      "index": 13
     },
     {
       "title": "伯克希尔 Q2 净利润 256.67 亿美元，时隔 3 年首次净买入股票，现金储备降至 3655 亿美元，如何解读？",
       "url": "https://www.zhihu.com/question/2069534898092762051",
-      "hot_value": "112 万热度",
-      "index": 16
+      "hot_value": "113 万热度",
+      "index": 14
+    },
+    {
+      "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
+      "url": "https://www.zhihu.com/question/2067683991218607726",
+      "hot_value": "108 万热度",
+      "index": 15
     },
     {
       "title": "山东一中学让新生填家长职务和车价，校方称用于贫困补助甄别，学校该不该收集这类信息？你遇到过类似情况吗？",
       "url": "https://www.zhihu.com/question/2069476448205812044",
-      "hot_value": "101 万热度",
+      "hot_value": "100 万热度",
+      "index": 16
+    },
+    {
+      "title": "中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？",
+      "url": "https://www.zhihu.com/question/1917135578203399143",
+      "hot_value": "92 万热度",
       "index": 17
     },
     {
-      "title": "前勇士传奇主教练唐尼尔森去世，如何评价他的执教生涯，他跟库里有哪些渊源？",
-      "url": "https://www.zhihu.com/question/2070055271376986737",
-      "hot_value": "90 万热度",
+      "title": "电影《奥德赛》中，奥德修斯为什么不想回家？",
+      "url": "https://www.zhihu.com/question/2069853384363059013",
+      "hot_value": "89 万热度",
       "index": 18
+    },
+    {
+      "title": "如何看待 BLG 将先锋赛置顶消息撤下后，Bin 粉丝狂喷过河拆桥？",
+      "url": "https://www.zhihu.com/question/2070108095993180838",
+      "hot_value": "89 万热度",
+      "index": 19
+    },
+    {
+      "title": "中星 4B 卫星发射失利，具体情况如何？可能是什么原因导致发射失利？",
+      "url": "https://www.zhihu.com/question/2070247162118664922",
+      "hot_value": "87 万热度",
+      "index": 20
     },
     {
       "title": "作为 U17 国足核心球员，17 岁的赵松源能不能在如今的北京国安踢主力？",
       "url": "https://www.zhihu.com/question/2069906858593227838",
       "hot_value": "86 万热度",
-      "index": 19
-    },
-    {
-      "title": "电影《奥德赛》中，奥德修斯为什么不想回家？",
-      "url": "https://www.zhihu.com/question/2069853384363059013",
-      "hot_value": "83 万热度",
-      "index": 20
-    },
-    {
-      "title": "诺兰《奥德赛》引发古典文学论战，荷马史诗译者狠批，两作家反击其傲慢刻薄，你觉得改编自由与批评边界在哪？",
-      "url": "https://www.zhihu.com/question/2067555688826365819",
-      "hot_value": "78 万热度",
       "index": 21
-    },
-    {
-      "title": "中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？",
-      "url": "https://www.zhihu.com/question/1917135578203399143",
-      "hot_value": "78 万热度",
-      "index": 22
     },
     {
       "title": "若曦和如懿，谁才是待遇最差的皇帝真爱？",
       "url": "https://www.zhihu.com/question/2061842835394114592",
-      "hot_value": "73 万热度",
-      "index": 23
+      "hot_value": "81 万热度",
+      "index": 22
     },
     {
       "title": "JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？",
       "url": "https://www.zhihu.com/question/2066610730116421630",
-      "hot_value": "72 万热度",
-      "index": 24
+      "hot_value": "80 万热度",
+      "index": 23
     },
     {
       "title": "搜打撤的乐趣是什么，为什么二游流行起了做搜打撤？",
       "url": "https://www.zhihu.com/question/2069366582434959737",
       "hot_value": "72 万热度",
+      "index": 24
+    },
+    {
+      "title": "诺兰《奥德赛》引发古典文学论战，荷马史诗译者狠批，两作家反击其傲慢刻薄，你觉得改编自由与批评边界在哪？",
+      "url": "https://www.zhihu.com/question/2067555688826365819",
+      "hot_value": "68 万热度",
       "index": 25
     },
     {
       "title": "如何构建一套完整的数学知识体系？",
       "url": "https://www.zhihu.com/question/37613872",
-      "hot_value": "64 万热度",
+      "hot_value": "65 万热度",
       "index": 26
-    },
-    {
-      "title": "网传数据显示广东人吃肉量是山西的 4 倍以上，是真是假？",
-      "url": "https://www.zhihu.com/question/1933674150620271789",
-      "hot_value": "59 万热度",
-      "index": 27
-    },
-    {
-      "title": "杨紫琼《流浪地球 3》剧照首度曝光，从中能看出哪些信息？",
-      "url": "https://www.zhihu.com/question/2068659312583340153",
-      "hot_value": "59 万热度",
-      "index": 28
     },
     {
       "title": "《红楼梦》中，贾宝玉为什么不和晴雯发生云雨情？晴雯不是最漂亮吗？",
       "url": "https://www.zhihu.com/question/2036409841296619170",
       "hot_value": "58 万热度",
+      "index": 27
+    },
+    {
+      "title": "前勇士传奇主教练唐尼尔森去世，如何评价他的执教生涯，他跟库里有哪些渊源？",
+      "url": "https://www.zhihu.com/question/2070055271376986737",
+      "hot_value": "58 万热度",
+      "index": 28
+    },
+    {
+      "title": "地球一次自转需要 23 小时 56 分钟，剩下的 4 分钟去哪儿了呢？",
+      "url": "https://www.zhihu.com/question/667183491",
+      "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "如何看待最近爆火的「成吉思鸡」现象？",
-      "url": "https://www.zhihu.com/question/2065112578406328007",
-      "hot_value": "58 万热度",
+      "title": "既然有电场强度，那么有没有重力场强度?",
+      "url": "https://www.zhihu.com/question/1901789459130857314",
+      "hot_value": "57 万热度",
       "index": 30
     }
   ]
