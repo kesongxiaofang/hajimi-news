@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-10T12:10:09Z",
+  "update_time": "2026-08-10T13:53:29Z",
   "count": 30,
   "list": [
     {
       "title": "武汉司门口黄鹤楼天桥市容管理人员与占道摊贩发生激烈肢体冲突，3 人被刑拘，有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2070076932834550346",
-      "hot_value": "1678 万热度",
+      "hot_value": "1139 万热度",
       "index": 1
     },
     {
       "title": "同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？",
       "url": "https://www.zhihu.com/question/2067683991218607726",
-      "hot_value": "579 万热度",
+      "hot_value": "651 万热度",
       "index": 2
-    },
-    {
-      "title": "台风「白海豚」疯狂倒水，上海内涝严重，地铁多条线路停运，你的出行和生活受影响了吗？今天有居家办公吗？",
-      "url": "https://www.zhihu.com/question/2070054600602642235",
-      "hot_value": "400 万热度",
-      "index": 3
-    },
-    {
-      "title": "网传数据显示广东人吃肉量是山西的 4 倍以上，是真是假？",
-      "url": "https://www.zhihu.com/question/1933674150620271789",
-      "hot_value": "340 万热度",
-      "index": 4
-    },
-    {
-      "title": "韩信为什么连让他钻裤裆的恶霸都委以重任，但是却拿百钱羞辱让他吃大半年白饭的亭长呢？",
-      "url": "https://www.zhihu.com/question/1890833705737646410",
-      "hot_value": "244 万热度",
-      "index": 5
-    },
-    {
-      "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
-      "url": "https://www.zhihu.com/question/2068943667189002947",
-      "hot_value": "230 万热度",
-      "index": 6
-    },
-    {
-      "title": "《欢迎来龙餐馆》为啥不叫《欢迎来到龙餐馆》？",
-      "url": "https://www.zhihu.com/question/2069800142161687384",
-      "hot_value": "207 万热度",
-      "index": 7
     },
     {
       "title": "河南 22 岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2068484771710293896",
-      "hot_value": "201 万热度",
+      "hot_value": "408 万热度",
+      "index": 3
+    },
+    {
+      "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+      "url": "https://www.zhihu.com/question/2068943667189002947",
+      "hot_value": "255 万热度",
+      "index": 4
+    },
+    {
+      "title": "《欢迎来龙餐馆》为啥不叫《欢迎来到龙餐馆》？",
+      "url": "https://www.zhihu.com/question/2069800142161687384",
+      "hot_value": "224 万热度",
+      "index": 5
+    },
+    {
+      "title": "韩信为什么连让他钻裤裆的恶霸都委以重任，但是却拿百钱羞辱让他吃大半年白饭的亭长呢？",
+      "url": "https://www.zhihu.com/question/1890833705737646410",
+      "hot_value": "204 万热度",
+      "index": 6
+    },
+    {
+      "title": "台风「白海豚」疯狂倒水，上海内涝严重，地铁多条线路停运，你的出行和生活受影响了吗？今天有居家办公吗？",
+      "url": "https://www.zhihu.com/question/2070054600602642235",
+      "hot_value": "198 万热度",
+      "index": 7
+    },
+    {
+      "title": "于东来回应关闭胖东来生活广场店，因早年租约失误造成租户租金失衡，门店盈利上亿仍闭店，如何看待他的选择？",
+      "url": "https://www.zhihu.com/question/2069799083045287916",
+      "hot_value": "195 万热度",
       "index": 8
     },
     {
       "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
       "url": "https://www.zhihu.com/question/268161638",
-      "hot_value": "200 万热度",
+      "hot_value": "179 万热度",
       "index": 9
     },
     {
-      "title": "硬盘、内存价格还会降回去吗？",
-      "url": "https://www.zhihu.com/question/2011092640041570925",
-      "hot_value": "198 万热度",
+      "title": "网传数据显示广东人吃肉量是山西的 4 倍以上，是真是假？",
+      "url": "https://www.zhihu.com/question/1933674150620271789",
+      "hot_value": "163 万热度",
       "index": 10
     },
     {
-      "title": "杨紫琼《流浪地球 3》剧照首度曝光，从中能看出哪些信息？",
-      "url": "https://www.zhihu.com/question/2068659312583340153",
-      "hot_value": "196 万热度",
+      "title": "演员秦焰去世，享年 72 岁，曾出演《狂飙》《庆余年第二季》等多部剧集，你对他塑造的角色有哪些记忆？",
+      "url": "https://www.zhihu.com/question/2070151359999862687",
+      "hot_value": "155 万热度",
       "index": 11
-    },
-    {
-      "title": "假如全球所有人同时获得三个选项：立刻变成祖国人、十分钟后变成超人、十五分钟后变成曼哈顿博士，怎么选？",
-      "url": "https://www.zhihu.com/question/2069190461437261714",
-      "hot_value": "186 万热度",
-      "index": 12
-    },
-    {
-      "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
-      "url": "https://www.zhihu.com/question/2069770698055050765",
-      "hot_value": "174 万热度",
-      "index": 13
     },
     {
       "title": "多地高分生扎堆填报「3+4」中本贯通，为什么会这样？中本贯通有哪些优势？",
       "url": "https://www.zhihu.com/question/2070067547102082665",
-      "hot_value": "151 万热度",
-      "index": 14
+      "hot_value": "148 万热度",
+      "index": 12
     },
     {
-      "title": "网友发帖吐槽医院梯控员工作太闲，医院梯控员真的「工作清闲」吗？如何看待当事员工称自己因该帖已被开除？",
-      "url": "https://www.zhihu.com/question/2068997018450485887",
-      "hot_value": "151 万热度",
-      "index": 15
+      "title": "假如全球所有人同时获得三个选项：立刻变成祖国人、十分钟后变成超人、十五分钟后变成曼哈顿博士，怎么选？",
+      "url": "https://www.zhihu.com/question/2069190461437261714",
+      "hot_value": "133 万热度",
+      "index": 13
     },
     {
       "title": "沈腾新片《欢迎来龙餐馆》点映口碑爆棚，如何评价沈腾此番演技？喜剧演员要打破观众的固有印象难度在哪？",
       "url": "https://www.zhihu.com/question/2069917740303737208",
-      "hot_value": "108 万热度",
+      "hot_value": "133 万热度",
+      "index": 14
+    },
+    {
+      "title": "硬盘、内存价格还会降回去吗？",
+      "url": "https://www.zhihu.com/question/2011092640041570925",
+      "hot_value": "128 万热度",
+      "index": 15
+    },
+    {
+      "title": "杨紫琼《流浪地球 3》剧照首度曝光，从中能看出哪些信息？",
+      "url": "https://www.zhihu.com/question/2068659312583340153",
+      "hot_value": "115 万热度",
       "index": 16
     },
     {
-      "title": "如何评价美剧《龙之家族 第三季》第八集？",
-      "url": "https://www.zhihu.com/question/2070089801441792938",
-      "hot_value": "98 万热度",
+      "title": "如果你只能传送一次 1KB 的数据到三年前的自己面前，你会传什么？",
+      "url": "https://www.zhihu.com/question/2009080099056661232",
+      "hot_value": "103 万热度",
       "index": 17
     },
     {
       "title": "如何看待西湖大学本科新生开学，施一公用王虹邓煜的故事激励新生？",
       "url": "https://www.zhihu.com/question/2069597421764663135",
-      "hot_value": "97 万热度",
+      "hot_value": "101 万热度",
       "index": 18
     },
     {
-      "title": "宇树科技 8 月 10 日申购，中一签需缴 7.54 万，打新性价比如何？高预期背后哪些风险值得警惕？",
-      "url": "https://www.zhihu.com/question/2069822063146004694",
-      "hot_value": "89 万热度",
+      "title": "前勇士传奇主教练唐尼尔森去世，如何评价他的执教生涯，他跟库里有哪些渊源？",
+      "url": "https://www.zhihu.com/question/2070055271376986737",
+      "hot_value": "90 万热度",
       "index": 19
     },
     {
       "title": "避暑大军已抵达山西，山西为何成为夏季热门避暑选择？",
       "url": "https://www.zhihu.com/question/2068868168844587381",
-      "hot_value": "88 万热度",
+      "hot_value": "86 万热度",
       "index": 20
-    },
-    {
-      "title": "《红楼梦》中，贾宝玉为什么不和晴雯发生云雨情？晴雯不是最漂亮吗？",
-      "url": "https://www.zhihu.com/question/2036409841296619170",
-      "hot_value": "87 万热度",
-      "index": 21
-    },
-    {
-      "title": "如果你只能传送一次 1KB 的数据到三年前的自己面前，你会传什么？",
-      "url": "https://www.zhihu.com/question/2009080099056661232",
-      "hot_value": "84 万热度",
-      "index": 22
     },
     {
       "title": "《蜘蛛侠》后续 MJ 和琴会走向柯兰柯哀的发展方向吗？",
       "url": "https://www.zhihu.com/question/2068412659041399971",
-      "hot_value": "82 万热度",
+      "hot_value": "83 万热度",
+      "index": 21
+    },
+    {
+      "title": "诺兰《奥德赛》引发古典文学论战，荷马史诗译者狠批，两作家反击其傲慢刻薄，你觉得改编自由与批评边界在哪？",
+      "url": "https://www.zhihu.com/question/2067555688826365819",
+      "hot_value": "78 万热度",
+      "index": 22
+    },
+    {
+      "title": "中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？",
+      "url": "https://www.zhihu.com/question/1917135578203399143",
+      "hot_value": "75 万热度",
       "index": 23
     },
     {
-      "title": "高三一年努力一把真的有希望吗？",
-      "url": "https://www.zhihu.com/question/660019693",
-      "hot_value": "78 万热度",
+      "title": "网友发帖吐槽医院梯控员工作太闲，医院梯控员真的「工作清闲」吗？如何看待当事员工称自己因该帖已被开除？",
+      "url": "https://www.zhihu.com/question/2068997018450485887",
+      "hot_value": "74 万热度",
       "index": 24
     },
     {
       "title": "红楼梦里的生活描写真实吗？",
       "url": "https://www.zhihu.com/question/431289971",
-      "hot_value": "71 万热度",
+      "hot_value": "72 万热度",
       "index": 25
     },
     {
-      "title": "中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？",
-      "url": "https://www.zhihu.com/question/1917135578203399143",
-      "hot_value": "62 万热度",
+      "title": "如何评价美剧《龙之家族 第三季》第八集？",
+      "url": "https://www.zhihu.com/question/2070089801441792938",
+      "hot_value": "59 万热度",
       "index": 26
     },
     {
-      "title": "横滨女队三人围剿也没能阻挡张本美和夺冠，是哪里出了问题?",
-      "url": "https://www.zhihu.com/question/2069868227094697646",
+      "title": "《红楼梦》中，贾宝玉为什么不和晴雯发生云雨情？晴雯不是最漂亮吗？",
+      "url": "https://www.zhihu.com/question/2036409841296619170",
       "hot_value": "59 万热度",
       "index": 27
     },
     {
-      "title": "如何看待最近爆火的「成吉思鸡」现象？",
-      "url": "https://www.zhihu.com/question/2065112578406328007",
+      "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
+      "url": "https://www.zhihu.com/question/2069770698055050765",
       "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "「懒」驱动了哪些科技进步？",
-      "url": "https://www.zhihu.com/question/2068822447529226506",
+      "title": "高三一年努力一把真的有希望吗？",
+      "url": "https://www.zhihu.com/question/660019693",
       "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "迎春为什么不救救司棋，任由她被赶出去？",
-      "url": "https://www.zhihu.com/question/8541854965",
+      "title": "如何看待最近爆火的「成吉思鸡」现象？",
+      "url": "https://www.zhihu.com/question/2065112578406328007",
       "hot_value": "58 万热度",
       "index": 30
     }
