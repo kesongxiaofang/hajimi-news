@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-10T04:11:48Z",
+  "update_time": "2026-08-10T05:53:42Z",
   "platforms": [
     {
       "type": "weibo",
@@ -29,7 +29,8 @@
     {
       "type": "kuaishou",
       "name": "快手热搜",
-      "count": 30
+      "count": 0,
+      "error": "IncompleteRead(10550 bytes read, 2864 more expected)"
     },
     {
       "type": "baidu",
