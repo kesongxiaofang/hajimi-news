@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-10T08:56:26Z",
+  "update_time": "2026-08-10T10:15:28Z",
   "count": 30,
   "list": [
     {
-      "title": "CF出新作，居然是3A单机？深度对话《穿越火线：潜伏》首席创意官【视频播客EP.64】",
-      "url": "https://www.bilibili.com/video/BV1PvuQ6CEwK",
-      "hot_value": "526261播放",
-      "index": 1
-    },
-    {
       "title": "《人民の少爷》",
       "url": "https://www.bilibili.com/video/BV1rJuu6XE66",
-      "hot_value": "595333播放",
-      "index": 2
+      "hot_value": "866699播放",
+      "index": 1
     },
     {
       "title": "史上最难！只有一块黑曜石该如何通关？",
       "url": "https://www.bilibili.com/video/BV1dcuV6HEig",
-      "hot_value": "1420037播放",
+      "hot_value": "1568405播放",
+      "index": 2
+    },
+    {
+      "title": "CF出新作，居然是3A单机？深度对话《穿越火线：潜伏》首席创意官【视频播客EP.64】",
+      "url": "https://www.bilibili.com/video/BV1PvuQ6CEwK",
+      "hot_value": "731058播放",
       "index": 3
     },
     {
-      "title": "几十G游戏一碰直传！HarmonyOS 7这能力太顶了",
-      "url": "https://www.bilibili.com/video/BV1x5up6eEYD",
-      "hot_value": "571404播放",
+      "title": "山海兽医 第三集",
+      "url": "https://www.bilibili.com/video/BV1pQuU6NEE3",
+      "hot_value": "758176播放",
       "index": 4
     },
     {
       "title": "2026和平精英刺激之夜完整高清回放",
       "url": "https://www.bilibili.com/video/BV1ffuU6bEHj",
-      "hot_value": "2406398播放",
+      "hot_value": "2566933播放",
       "index": 5
     },
     {
-      "title": "山海兽医 第三集",
-      "url": "https://www.bilibili.com/video/BV1pQuU6NEE3",
-      "hot_value": "585010播放",
+      "title": "自学五天做出来的神人游戏",
+      "url": "https://www.bilibili.com/video/BV1eVuh6TEBG",
+      "hot_value": "615518播放",
       "index": 6
     },
     {
       "title": "我们需要更多异头团建ദ്ദി ꙾ ꒳ ꙾ )✧",
       "url": "https://www.bilibili.com/video/BV1HduT6nE23",
-      "hot_value": "1151396播放",
+      "hot_value": "1299167播放",
       "index": 7
-    },
-    {
-      "title": "只是一个低脂的校园采访而已",
-      "url": "https://www.bilibili.com/video/BV1PtuK6DEqT",
-      "hot_value": "653846播放",
-      "index": 8
     },
     {
       "title": "发烧梗",
       "url": "https://www.bilibili.com/video/BV1Unub69EpX",
-      "hot_value": "3980524播放",
+      "hot_value": "4045519播放",
+      "index": 8
+    },
+    {
+      "title": "校园爸临",
+      "url": "https://www.bilibili.com/video/BV1xXuu6wEmt",
+      "hot_value": "1524449播放",
       "index": 9
     },
     {
       "title": "四代同框",
       "url": "https://www.bilibili.com/video/BV1Bqum6dET6",
-      "hot_value": "1959562播放",
+      "hot_value": "2020377播放",
       "index": 10
     },
     {
-      "title": "自学五天做出来的神人游戏",
-      "url": "https://www.bilibili.com/video/BV1eVuh6TEBG",
-      "hot_value": "506342播放",
+      "title": "限时返场《畅安青岛》云泥之别",
+      "url": "https://www.bilibili.com/video/BV1bPu86sEvx",
+      "hot_value": "1014833播放",
       "index": 11
-    },
-    {
-      "title": "校园爸临",
-      "url": "https://www.bilibili.com/video/BV1xXuu6wEmt",
-      "hot_value": "1422763播放",
-      "index": 12
     },
     {
       "title": "西语Vlog｜我终于来到了巴塔哥尼亚",
       "url": "https://www.bilibili.com/video/BV1DQum6LEiM",
-      "hot_value": "918906播放",
-      "index": 13
+      "hot_value": "986528播放",
+      "index": 12
     },
     {
       "title": "在东方明珠玩100人躲猫猫！奖金10万元",
       "url": "https://www.bilibili.com/video/BV1ocu46fE1z",
-      "hot_value": "5627925播放",
+      "hot_value": "5718268播放",
+      "index": 13
+    },
+    {
+      "title": "啥都能修的异世界修理铺|第二集 我的顾客被蜘蛛咬了？能修！",
+      "url": "https://www.bilibili.com/video/BV16Xu26dEdZ",
+      "hot_value": "230514播放",
       "index": 14
-    },
-    {
-      "title": "【TF家族练习生】《TLOG》15：《异常加载中》MV拍摄花絮",
-      "url": "https://www.bilibili.com/video/BV1JxuR6jEEL",
-      "hot_value": "376025播放",
-      "index": 15
-    },
-    {
-      "title": "你喜欢金还是银的？",
-      "url": "https://www.bilibili.com/video/BV1sKuj61EtZ",
-      "hot_value": "1048648播放",
-      "index": 16
-    },
-    {
-      "title": "你可曾听过洛圣都的叫声？",
-      "url": "https://www.bilibili.com/video/BV1Upu76XEt7",
-      "hot_value": "1158556播放",
-      "index": 17
-    },
-    {
-      "title": "王从天降",
-      "url": "https://www.bilibili.com/video/BV1vtMy63E4G",
-      "hot_value": "6288621播放",
-      "index": 18
-    },
-    {
-      "title": "不打游戏这件事害惨了我",
-      "url": "https://www.bilibili.com/video/BV1Bgug6UED8",
-      "hot_value": "1104714播放",
-      "index": 19
     },
     {
       "title": "连胜越高，对局反而简单了，这都是我努力的结果",
       "url": "https://www.bilibili.com/video/BV1r5uU68EwM",
-      "hot_value": "547919播放",
-      "index": 20
+      "hot_value": "628260播放",
+      "index": 15
     },
     {
-      "title": "你敢让我进来吗？？「谁是伪人」？？！",
-      "url": "https://www.bilibili.com/video/BV11PuN67E5k",
-      "hot_value": "1135909播放",
-      "index": 21
+      "title": "【TF家族练习生】《TLOG》15：《异常加载中》MV拍摄花絮",
+      "url": "https://www.bilibili.com/video/BV1JxuR6jEEL",
+      "hot_value": "452815播放",
+      "index": 16
+    },
+    {
+      "title": "只是一个低脂的校园采访而已",
+      "url": "https://www.bilibili.com/video/BV1PtuK6DEqT",
+      "hot_value": "678835播放",
+      "index": 17
+    },
+    {
+      "title": "不打游戏这件事害惨了我",
+      "url": "https://www.bilibili.com/video/BV1Bgug6UED8",
+      "hot_value": "1160657播放",
+      "index": 18
+    },
+    {
+      "title": "王从天降",
+      "url": "https://www.bilibili.com/video/BV1vtMy63E4G",
+      "hot_value": "6354119播放",
+      "index": 19
     },
     {
       "title": "😨\"后室里的乌鲁鲁\"😰",
       "url": "https://www.bilibili.com/video/BV1YYuN6tEWC",
-      "hot_value": "2343231播放",
-      "index": 22
-    },
-    {
-      "title": "放下电棍，警察叔叔您先听我解释",
-      "url": "https://www.bilibili.com/video/BV12juV63E1G",
-      "hot_value": "2127006播放",
-      "index": 23
-    },
-    {
-      "title": "那个傲慢的黄汤圆小贩又狠狠宰了我一笔",
-      "url": "https://www.bilibili.com/video/BV1aiu86YE1m",
-      "hot_value": "2228876播放",
-      "index": 24
-    },
-    {
-      "title": "👊一 拳 超 人👊",
-      "url": "https://www.bilibili.com/video/BV19Fu365EqG",
-      "hot_value": "2040030播放",
-      "index": 25
+      "hot_value": "2378605播放",
+      "index": 20
     },
     {
       "title": "在贵州按猪遇见羡慕的婚礼",
       "url": "https://www.bilibili.com/video/BV1Bbun6jEaJ",
-      "hot_value": "3580251播放",
+      "hot_value": "3628958播放",
+      "index": 21
+    },
+    {
+      "title": "你敢让我进来吗？？「谁是伪人」？？！",
+      "url": "https://www.bilibili.com/video/BV11PuN67E5k",
+      "hot_value": "1192689播放",
+      "index": 22
+    },
+    {
+      "title": "一句话给老登的心理防线干穿了，顺便剪成了艺术",
+      "url": "https://www.bilibili.com/video/BV17qum6dEsF",
+      "hot_value": "295519播放",
+      "index": 23
+    },
+    {
+      "title": "你可曾听过洛圣都的叫声？",
+      "url": "https://www.bilibili.com/video/BV1Upu76XEt7",
+      "hot_value": "1336356播放",
+      "index": 24
+    },
+    {
+      "title": "欢迎来到研究生的世界",
+      "url": "https://www.bilibili.com/video/BV1R53R6rE7a",
+      "hot_value": "10103998播放",
+      "index": 25
+    },
+    {
+      "title": "你喜欢金还是银的？",
+      "url": "https://www.bilibili.com/video/BV1sKuj61EtZ",
+      "hot_value": "1200791播放",
       "index": 26
-    },
-    {
-      "title": "【三角洲】零号大坝1-11藏宝图/宝藏箱所有位置 保姆级教学 全程贴心领跑",
-      "url": "https://www.bilibili.com/video/BV1EwuK6BEir",
-      "hot_value": "2160430播放",
-      "index": 27
-    },
-    {
-      "title": "【TF家族练习生】《突围II破局》EP07：破局（下）",
-      "url": "https://www.bilibili.com/video/BV1CWum6eEmZ",
-      "hot_value": "1487615播放",
-      "index": 28
     },
     {
       "title": "怪兽中 出了一个奥特曼的卧底",
       "url": "https://www.bilibili.com/video/BV1gnub6REqy",
-      "hot_value": "6669499播放",
-      "index": 29
+      "hot_value": "6729451播放",
+      "index": 27
     },
     {
       "title": "【重大医疗事故】日本一医院错把患者脑部当肿瘤切除，手术后脑干被切除，脑肿瘤完好无损。",
       "url": "https://www.bilibili.com/video/BV1ZFu76BEoU",
-      "hot_value": "1092926播放",
+      "hot_value": "1150061播放",
+      "index": 28
+    },
+    {
+      "title": "【三角洲】零号大坝1-11藏宝图/宝藏箱所有位置 保姆级教学 全程贴心领跑",
+      "url": "https://www.bilibili.com/video/BV1EwuK6BEir",
+      "hot_value": "2205650播放",
+      "index": 29
+    },
+    {
+      "title": "【动漫杂谈】120s带你速通《咒术回战》的暗线内核",
+      "url": "https://www.bilibili.com/video/BV1caum6FE6j",
+      "hot_value": "374808播放",
       "index": 30
     }
   ]

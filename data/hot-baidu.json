@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-08-10T08:56:26Z",
+  "update_time": "2026-08-10T10:15:28Z",
   "count": 30,
   "list": [
     {
       "title": "一诺千金 笃行致远",
       "url": "https://www.baidu.com/s?wd=%E4%B8%80%E8%AF%BA%E5%8D%83%E9%87%91+%E7%AC%83%E8%A1%8C%E8%87%B4%E8%BF%9C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904857",
+      "hot_value": "7904787",
       "index": 1
     },
     {
       "title": "白海豚突然大拐弯 走出罕见路线",
       "url": "https://www.baidu.com/s?wd=%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%AA%81%E7%84%B6%E5%A4%A7%E6%8B%90%E5%BC%AF+%E8%B5%B0%E5%87%BA%E7%BD%95%E8%A7%81%E8%B7%AF%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7809171",
+      "hot_value": "7809724",
       "index": 2
     },
     {
       "title": "演员秦焰去世 曾出演《狂飙》",
       "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%A7%A6%E7%84%B0%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E3%80%8A%E7%8B%82%E9%A3%99%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7713285",
+      "hot_value": "7712420",
       "index": 3
     },
     {
       "title": "APEC峰会倒计时100天",
       "url": "https://www.baidu.com/s?wd=APEC%E5%B3%B0%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B6100%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7618313",
+      "hot_value": "7619077",
       "index": 4
-    },
-    {
-      "title": "独闯南太行失联14天的女子已找到",
-      "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E9%97%AF%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9414%E5%A4%A9%E7%9A%84%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7522851",
-      "index": 5
     },
     {
       "title": "台风天居民窗户上惊现海鲜：已吃掉",
       "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%B1%85%E6%B0%91%E7%AA%97%E6%88%B7%E4%B8%8A%E6%83%8A%E7%8E%B0%E6%B5%B7%E9%B2%9C%EF%BC%9A%E5%B7%B2%E5%90%83%E6%8E%89&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7428548",
+      "hot_value": "7520232",
+      "index": 5
+    },
+    {
+      "title": "独闯南太行失联14天的女子已找到",
+      "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E9%97%AF%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9414%E5%A4%A9%E7%9A%84%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7425301",
       "index": 6
-    },
-    {
-      "title": "“还不如不放假”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%98%E4%B8%8D%E5%A6%82%E4%B8%8D%E6%94%BE%E5%81%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7332210",
-      "index": 7
-    },
-    {
-      "title": "沈腾龙餐馆口碑大爆 出品方一字涨停",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E9%BE%99%E9%A4%90%E9%A6%86%E5%8F%A3%E7%A2%91%E5%A4%A7%E7%88%86+%E5%87%BA%E5%93%81%E6%96%B9%E4%B8%80%E5%AD%97%E6%B6%A8%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7238076",
-      "index": 8
-    },
-    {
-      "title": "钱塘江江滩现“巨型羽毛”",
-      "url": "https://www.baidu.com/s?wd=%E9%92%B1%E5%A1%98%E6%B1%9F%E6%B1%9F%E6%BB%A9%E7%8E%B0%E2%80%9C%E5%B7%A8%E5%9E%8B%E7%BE%BD%E6%AF%9B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7137464",
-      "index": 9
     },
     {
       "title": "《肖申克的救赎》内地定档 豆瓣9.7分",
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3+%E8%B1%86%E7%93%A39.7%E5%88%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7041849",
+      "hot_value": "7333094",
+      "index": 7
+    },
+    {
+      "title": "百花奖红毯",
+      "url": "https://www.baidu.com/s?wd=%E7%99%BE%E8%8A%B1%E5%A5%96%E7%BA%A2%E6%AF%AF&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7237578",
+      "index": 8
+    },
+    {
+      "title": "相声演员李晓龙因病去世 年仅38岁",
+      "url": "https://www.baidu.com/s?wd=%E7%9B%B8%E5%A3%B0%E6%BC%94%E5%91%98%E6%9D%8E%E6%99%93%E9%BE%99%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8538%E5%B2%81&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7144104",
+      "index": 9
+    },
+    {
+      "title": "“还不如不放假”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%98%E4%B8%8D%E5%A6%82%E4%B8%8D%E6%94%BE%E5%81%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7045326",
       "index": 10
     },
     {
-      "title": "贾冰私人饭局被偷拍",
-      "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E5%86%B0%E7%A7%81%E4%BA%BA%E9%A5%AD%E5%B1%80%E8%A2%AB%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6943713",
+      "title": "A股“股王”大跌",
+      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E5%A4%A7%E8%B7%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6946438",
       "index": 11
     },
     {
       "title": "“上海女子在台风中坠楼”不实",
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%8F%B0%E9%A3%8E%E4%B8%AD%E5%9D%A0%E6%A5%BC%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6850502",
+      "hot_value": "6855149",
       "index": 12
     },
     {
       "title": "蔡磊：晚期像反复溺水 狂躁绝望",
       "url": "https://www.baidu.com/s?wd=%E8%94%A1%E7%A3%8A%EF%BC%9A%E6%99%9A%E6%9C%9F%E5%83%8F%E5%8F%8D%E5%A4%8D%E6%BA%BA%E6%B0%B4+%E7%8B%82%E8%BA%81%E7%BB%9D%E6%9C%9B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6761660",
+      "hot_value": "6760223",
       "index": 13
     },
     {
-      "title": "广岛长崎的昨日未必不会是日本的明天",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E7%9A%84%E6%98%A8%E6%97%A5%E6%9C%AA%E5%BF%85%E4%B8%8D%E4%BC%9A%E6%98%AF%E6%97%A5%E6%9C%AC%E7%9A%84%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6660620",
+      "title": "这届大学新生快买不起电脑了",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%A4%A7%E5%AD%A6%E6%96%B0%E7%94%9F%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E7%94%B5%E8%84%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6655232",
       "index": 14
     },
     {
-      "title": "A股收盘：全市场超4000只个股上涨",
-      "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854000%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6559024",
+      "title": "前一小时巨浪滔天 台风过后蜻蜓成群",
+      "url": "https://www.baidu.com/s?wd=%E5%89%8D%E4%B8%80%E5%B0%8F%E6%97%B6%E5%B7%A8%E6%B5%AA%E6%BB%94%E5%A4%A9+%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%90%8E%E8%9C%BB%E8%9C%93%E6%88%90%E7%BE%A4&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6565500",
       "index": 15
     },
     {
-      "title": "女子瘫痪10年重新站起称爱是奇迹",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%98%AB%E7%97%AA10%E5%B9%B4%E9%87%8D%E6%96%B0%E7%AB%99%E8%B5%B7%E7%A7%B0%E7%88%B1%E6%98%AF%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6472816",
+      "title": "沈腾龙餐馆口碑大爆 出品方一字涨停",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E9%BE%99%E9%A4%90%E9%A6%86%E5%8F%A3%E7%A2%91%E5%A4%A7%E7%88%86+%E5%87%BA%E5%93%81%E6%96%B9%E4%B8%80%E5%AD%97%E6%B6%A8%E5%81%9C&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6467143",
       "index": 16
     },
     {
-      "title": "沈腾主演电影票房已破415亿",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B4415%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6368914",
+      "title": "大瓶啤酒为何卖疯了",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%93%B6%E5%95%A4%E9%85%92%E4%B8%BA%E4%BD%95%E5%8D%96%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6373007",
       "index": 17
+    },
+    {
+      "title": "百花奖闭幕式节目单正式揭晓",
+      "url": "https://www.baidu.com/s?wd=%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E8%8A%82%E7%9B%AE%E5%8D%95%E6%AD%A3%E5%BC%8F%E6%8F%AD%E6%99%93&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6279299",
+      "index": 18
     },
     {
       "title": "钟睒睒：必须限制电商平台权力",
       "url": "https://www.baidu.com/s?wd=%E9%92%9F%E7%9D%92%E7%9D%92%EF%BC%9A%E5%BF%85%E9%A1%BB%E9%99%90%E5%88%B6%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E6%9D%83%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6278387",
-      "index": 18
-    },
-    {
-      "title": "中年吃够碳水的人更可能健康老去",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B9%B4%E5%90%83%E5%A4%9F%E7%A2%B3%E6%B0%B4%E7%9A%84%E4%BA%BA%E6%9B%B4%E5%8F%AF%E8%83%BD%E5%81%A5%E5%BA%B7%E8%80%81%E5%8E%BB&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6188702",
+      "hot_value": "6182793",
       "index": 19
     },
     {
       "title": "宇树 中签堪比中彩票",
       "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91+%E4%B8%AD%E7%AD%BE%E5%A0%AA%E6%AF%94%E4%B8%AD%E5%BD%A9%E7%A5%A8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6088987",
+      "hot_value": "6078458",
       "index": 20
     },
     {
-      "title": "大疆错失宇树",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%96%86%E9%94%99%E5%A4%B1%E5%AE%87%E6%A0%91&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5985740",
+      "title": "女子瘫痪10年重新站起称爱是奇迹",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%98%AB%E7%97%AA10%E5%B9%B4%E9%87%8D%E6%96%B0%E7%AB%99%E8%B5%B7%E7%A7%B0%E7%88%B1%E6%98%AF%E5%A5%87%E8%BF%B9&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5997726",
       "index": 21
     },
     {
       "title": "周深演唱会被台下激光笔照射",
       "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%8F%B0%E4%B8%8B%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E5%B0%84&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5892325",
+      "hot_value": "5900197",
       "index": 22
+    },
+    {
+      "title": "贾冰私人饭局被偷拍",
+      "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E5%86%B0%E7%A7%81%E4%BA%BA%E9%A5%AD%E5%B1%80%E8%A2%AB%E5%81%B7%E6%8B%8D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5807335",
+      "index": 23
+    },
+    {
+      "title": "沈腾主演电影票房已破415亿",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B4415%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5714558",
+      "index": 24
+    },
+    {
+      "title": "演员秦焰告别仪式14日举行",
+      "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%A7%A6%E7%84%B0%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F14%E6%97%A5%E4%B8%BE%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5620670",
+      "index": 25
     },
     {
       "title": "世间再无“戴公公”",
       "url": "https://www.baidu.com/s?wd=%E4%B8%96%E9%97%B4%E5%86%8D%E6%97%A0%E2%80%9C%E6%88%B4%E5%85%AC%E5%85%AC%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5805159",
-      "index": 23
-    },
-    {
-      "title": "大瓶啤酒为何卖疯了",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%93%B6%E5%95%A4%E9%85%92%E4%B8%BA%E4%BD%95%E5%8D%96%E7%96%AF%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5713509",
-      "index": 24
-    },
-    {
-      "title": "朱一龙的鼻子怎么了",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%9A%84%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5603361",
-      "index": 25
-    },
-    {
-      "title": "导演看到沈腾老年的样子瞬间落泪",
-      "url": "https://www.baidu.com/s?wd=%E5%AF%BC%E6%BC%94%E7%9C%8B%E5%88%B0%E6%B2%88%E8%85%BE%E8%80%81%E5%B9%B4%E7%9A%84%E6%A0%B7%E5%AD%90%E7%9E%AC%E9%97%B4%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5506058",
+      "hot_value": "5522655",
       "index": 26
     },
     {
-      "title": "这届大学新生快买不起电脑了",
-      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%A4%A7%E5%AD%A6%E6%96%B0%E7%94%9F%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E7%94%B5%E8%84%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5423887",
+      "title": "孙女用AI把奶奶P进《西游记》",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%94%A8AI%E6%8A%8A%E5%A5%B6%E5%A5%B6P%E8%BF%9B%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5428794",
       "index": 27
     },
     {
-      "title": "大学教师铁饭碗不“铁”了吗",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E6%95%99%E5%B8%88%E9%93%81%E9%A5%AD%E7%A2%97%E4%B8%8D%E2%80%9C%E9%93%81%E2%80%9D%E4%BA%86%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5322710",
+      "title": "“青春没有售价 双腿直达拉萨”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%9D%92%E6%98%A5%E6%B2%A1%E6%9C%89%E5%94%AE%E4%BB%B7+%E5%8F%8C%E8%85%BF%E7%9B%B4%E8%BE%BE%E6%8B%89%E8%90%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5314670",
       "index": 28
     },
     {
-      "title": "商场保洁大叔匍匐擦地引共情",
-      "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%9C%BA%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E5%8C%8D%E5%8C%90%E6%93%A6%E5%9C%B0%E5%BC%95%E5%85%B1%E6%83%85&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5221314",
+      "title": "广岛长崎的昨日未必不会是日本的明天",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E7%9A%84%E6%98%A8%E6%97%A5%E6%9C%AA%E5%BF%85%E4%B8%8D%E4%BC%9A%E6%98%AF%E6%97%A5%E6%9C%AC%E7%9A%84%E6%98%8E%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5217524",
       "index": 29
     },
     {
       "title": "韩国泡菜逐渐从小菜变成了配料",
       "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%B3%A1%E8%8F%9C%E9%80%90%E6%B8%90%E4%BB%8E%E5%B0%8F%E8%8F%9C%E5%8F%98%E6%88%90%E4%BA%86%E9%85%8D%E6%96%99&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5135201",
+      "hot_value": "5146621",
       "index": 30
     }
   ]
