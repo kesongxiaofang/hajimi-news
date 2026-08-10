@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-10T18:51:04Z",
+  "update_time": "2026-08-10T19:52:28Z",
   "count": 30,
   "list": [
     {
-      "title": "在墨西哥，你甚至可以和神父摔角?!",
-      "url": "https://www.bilibili.com/video/BV1Ckud6sEHm",
-      "hot_value": "503957播放",
+      "title": "《人民の少爷》",
+      "url": "https://www.bilibili.com/video/BV1rJuu6XE66",
+      "hot_value": "2708871播放",
       "index": 1
     },
     {
-      "title": "《人民の少爷》",
-      "url": "https://www.bilibili.com/video/BV1rJuu6XE66",
-      "hot_value": "2681469播放",
+      "title": "在墨西哥，你甚至可以和神父摔角?!",
+      "url": "https://www.bilibili.com/video/BV1Ckud6sEHm",
+      "hot_value": "531917播放",
       "index": 2
-    },
-    {
-      "title": "大理百元豪车租赁乱象调查：186元租的保时捷是重大事故车，游客拒买高价保险遭敲诈【探照灯计划】",
-      "url": "https://www.bilibili.com/video/BV1xyux6rENC",
-      "hot_value": "1255763播放",
-      "index": 3
-    },
-    {
-      "title": "【萌黄一槽】神秘面具男[百战]全技能爆料！以诡谲的手段穿梭虚实！",
-      "url": "https://www.bilibili.com/video/BV1yfuR69EXK",
-      "hot_value": "1273333播放",
-      "index": 4
     },
     {
       "title": "自学五天做出来的神人游戏",
       "url": "https://www.bilibili.com/video/BV1eVuh6TEBG",
-      "hot_value": "1073441播放",
-      "index": 5
+      "hot_value": "1084971播放",
+      "index": 3
     },
     {
       "title": "史上最难！只有一块黑曜石该如何通关？",
       "url": "https://www.bilibili.com/video/BV1dcuV6HEig",
-      "hot_value": "2158145播放",
-      "index": 6
+      "hot_value": "2164433播放",
+      "index": 4
+    },
+    {
+      "title": "大理百元豪车租赁乱象调查：186元租的保时捷是重大事故车，游客拒买高价保险遭敲诈【探照灯计划】",
+      "url": "https://www.bilibili.com/video/BV1xyux6rENC",
+      "hot_value": "1277217播放",
+      "index": 5
     },
     {
       "title": "2026和平精英刺激之夜完整高清回放",
       "url": "https://www.bilibili.com/video/BV1ffuU6bEHj",
-      "hot_value": "3633647播放",
-      "index": 7
-    },
-    {
-      "title": "不打游戏这件事害惨了我",
-      "url": "https://www.bilibili.com/video/BV1Bgug6UED8",
-      "hot_value": "1605813播放",
-      "index": 8
-    },
-    {
-      "title": "跑步一分钟5块，上不封顶，第147期，广东深圳13岁小姑娘速度耐力惊艳",
-      "url": "https://www.bilibili.com/video/BV1o4u86BEbT",
-      "hot_value": "469987播放",
-      "index": 9
+      "hot_value": "3670179播放",
+      "index": 6
     },
     {
       "title": "山海兽医 第三集",
       "url": "https://www.bilibili.com/video/BV1pQuU6NEE3",
-      "hot_value": "1454001播放",
-      "index": 10
+      "hot_value": "1462963播放",
+      "index": 7
     },
     {
-      "title": "我们需要更多异头团建ദ്ദി ꙾ ꒳ ꙾ )✧",
-      "url": "https://www.bilibili.com/video/BV1HduT6nE23",
-      "hot_value": "2228059播放",
-      "index": 11
+      "title": "【萌黄一槽】神秘面具男[百战]全技能爆料！以诡谲的手段穿梭虚实！",
+      "url": "https://www.bilibili.com/video/BV1yfuR69EXK",
+      "hot_value": "1289532播放",
+      "index": 8
+    },
+    {
+      "title": "不打游戏这件事害惨了我",
+      "url": "https://www.bilibili.com/video/BV1Bgug6UED8",
+      "hot_value": "1629190播放",
+      "index": 9
     },
     {
       "title": "王健林现在怎么样了? 万达什么情况?",
       "url": "https://www.bilibili.com/video/BV1XPuo6uES8",
-      "hot_value": "514973播放",
-      "index": 12
-    },
-    {
-      "title": "白海豚大拐弯：江浙沪多地特大暴雨破纪录，北方暴雨启动或有三个重点",
-      "url": "https://www.bilibili.com/video/BV1G2uo66Enh",
-      "hot_value": "324044播放",
-      "index": 13
-    },
-    {
-      "title": "家里的旧光盘，为什么播不出来了？",
-      "url": "https://www.bilibili.com/video/BV1ymux6BEFU",
-      "hot_value": "5423256播放",
-      "index": 14
+      "hot_value": "531276播放",
+      "index": 10
     },
     {
       "title": "一句话给老登的心理防线干穿了，顺便剪成了艺术",
       "url": "https://www.bilibili.com/video/BV17qum6dEsF",
-      "hot_value": "792163播放",
-      "index": 15
+      "hot_value": "799730播放",
+      "index": 11
+    },
+    {
+      "title": "发烧梗",
+      "url": "https://www.bilibili.com/video/BV1Unub69EpX",
+      "hot_value": "4340840播放",
+      "index": 12
     },
     {
       "title": "假面骑士祥子 01.沉默的骑士",
       "url": "https://www.bilibili.com/video/BV1pmu26FEZZ",
-      "hot_value": "690431播放",
-      "index": 16
+      "hot_value": "700020播放",
+      "index": 13
     },
     {
-      "title": "南宫×新朋友 ☁️白日梦",
-      "url": "https://www.bilibili.com/video/BV124ub6SEce",
-      "hot_value": "737844播放",
-      "index": 17
-    },
-    {
-      "title": "带张伟丽姐自律的一天！",
-      "url": "https://www.bilibili.com/video/BV1vZud6VEYo",
-      "hot_value": "491071播放",
-      "index": 18
+      "title": "跑步一分钟5块，上不封顶，第147期，广东深圳13岁小姑娘速度耐力惊艳",
+      "url": "https://www.bilibili.com/video/BV1o4u86BEbT",
+      "hot_value": "492205播放",
+      "index": 14
     },
     {
       "title": "打骂乡村兽医的后果？？？",
       "url": "https://www.bilibili.com/video/BV1BYu16DEw7",
-      "hot_value": "876038播放",
-      "index": 19
+      "hot_value": "882199播放",
+      "index": 15
+    },
+    {
+      "title": "淀粉：碳基压缩科技",
+      "url": "https://www.bilibili.com/video/BV1ayuR6PE5V",
+      "hot_value": "315315播放",
+      "index": 16
+    },
+    {
+      "title": "我们需要更多异头团建ദ്ദി ꙾ ꒳ ꙾ )✧",
+      "url": "https://www.bilibili.com/video/BV1HduT6nE23",
+      "hot_value": "2246034播放",
+      "index": 17
+    },
+    {
+      "title": "“那些只打高端局的神级串烧”",
+      "url": "https://www.bilibili.com/video/BV1J4un6mEV1",
+      "hot_value": "3508311播放",
+      "index": 18
     },
     {
       "title": "当然评判是不对的  \"但是\"",
       "url": "https://www.bilibili.com/video/BV1r8um68ETu",
-      "hot_value": "603695播放",
+      "hot_value": "614560播放",
+      "index": 19
+    },
+    {
+      "title": "😨\"后室里的乌鲁鲁\"😰",
+      "url": "https://www.bilibili.com/video/BV1YYuN6tEWC",
+      "hot_value": "2582460播放",
       "index": 20
     },
     {
       "title": "放假前夕",
       "url": "https://www.bilibili.com/video/BV1GruR6KEk4",
-      "hot_value": "399900播放",
+      "hot_value": "413812播放",
       "index": 21
     },
     {
-      "title": "淀粉：碳基压缩科技",
-      "url": "https://www.bilibili.com/video/BV1ayuR6PE5V",
-      "hot_value": "298794播放",
+      "title": "王从天降",
+      "url": "https://www.bilibili.com/video/BV1vtMy63E4G",
+      "hot_value": "6730390播放",
       "index": 22
-    },
-    {
-      "title": "西语Vlog｜我终于来到了巴塔哥尼亚",
-      "url": "https://www.bilibili.com/video/BV1DQum6LEiM",
-      "hot_value": "1338881播放",
-      "index": 23
-    },
-    {
-      "title": "“那些只打高端局的神级串烧”",
-      "url": "https://www.bilibili.com/video/BV1J4un6mEV1",
-      "hot_value": "3503211播放",
-      "index": 24
-    },
-    {
-      "title": "发烧梗",
-      "url": "https://www.bilibili.com/video/BV1Unub69EpX",
-      "hot_value": "4336912播放",
-      "index": 25
-    },
-    {
-      "title": "知名UP主去上海暴打粉丝！？",
-      "url": "https://www.bilibili.com/video/BV13Uuw6DEcv",
-      "hot_value": "1027168播放",
-      "index": 26
-    },
-    {
-      "title": "哈哈哈哈哈哈哈！！！",
-      "url": "https://www.bilibili.com/video/BV1NRun6bEgv",
-      "hot_value": "3745315播放",
-      "index": 27
     },
     {
       "title": "一百年前拍电影，没特效没替身没电脑，到底咋拍的？",
       "url": "https://www.bilibili.com/video/BV1Dmu16gEdc",
-      "hot_value": "934617播放",
+      "hot_value": "944544播放",
+      "index": 23
+    },
+    {
+      "title": "西语Vlog｜我终于来到了巴塔哥尼亚",
+      "url": "https://www.bilibili.com/video/BV1DQum6LEiM",
+      "hot_value": "1346937播放",
+      "index": 24
+    },
+    {
+      "title": "张凌赫演技搞笑吐槽：奸臣式演技天花板【铁柱】",
+      "url": "https://www.bilibili.com/video/BV1Z9uy6jEh6",
+      "hot_value": "505180播放",
+      "index": 25
+    },
+    {
+      "title": "【僵毁TV第二季】B42多人联机体验Be like: S2E2【TapNow制作】",
+      "url": "https://www.bilibili.com/video/BV1cAu96VEtv",
+      "hot_value": "217013播放",
+      "index": 26
+    },
+    {
+      "title": "怪兽中 出了一个奥特曼的卧底",
+      "url": "https://www.bilibili.com/video/BV1gnub6REqy",
+      "hot_value": "7060673播放",
+      "index": 27
+    },
+    {
+      "title": "白海豚大拐弯：江浙沪多地特大暴雨破纪录，北方暴雨启动或有三个重点",
+      "url": "https://www.bilibili.com/video/BV1G2uo66Enh",
+      "hot_value": "341349播放",
       "index": 28
     },
     {
-      "title": "😨\"后室里的乌鲁鲁\"😰",
-      "url": "https://www.bilibili.com/video/BV1YYuN6tEWC",
-      "hot_value": "2575723播放",
+      "title": "哈哈哈哈哈哈哈！！！",
+      "url": "https://www.bilibili.com/video/BV1NRun6bEgv",
+      "hot_value": "3751967播放",
       "index": 29
     },
     {
-      "title": "生活在游戏里，你会快乐吗？",
-      "url": "https://www.bilibili.com/video/BV1cTMS6cEi5",
-      "hot_value": "569347播放",
+      "title": "南宫×新朋友 ☁️白日梦",
+      "url": "https://www.bilibili.com/video/BV124ub6SEce",
+      "hot_value": "764286播放",
       "index": 30
     }
   ]
