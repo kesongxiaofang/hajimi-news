@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-08-10T11:29:22Z",
+  "update_time": "2026-08-10T12:10:09Z",
   "count": 30,
   "list": [
     {
-      "title": "双子星的夜晚VS三子星的夜晚",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%8C%E5%AD%90%E6%98%9F%E7%9A%84%E5%A4%9C%E6%99%9AVS%E4%B8%89%E5%AD%90%E6%98%9F%E7%9A%84%E5%A4%9C%E6%99%9A",
-      "hot_value": "1,198.4万",
+      "title": "一花一叶一菩提褚赢版",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%80%E8%8A%B1%E4%B8%80%E5%8F%B6%E4%B8%80%E8%8F%A9%E6%8F%90%E8%A4%9A%E8%B5%A2%E7%89%88",
+      "hot_value": "1,143.1万",
       "index": 1
     },
     {
-      "title": "嫌弃脸这一块",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AB%8C%E5%BC%83%E8%84%B8%E8%BF%99%E4%B8%80%E5%9D%97",
-      "hot_value": "1,111.3万",
+      "title": "演员秦焰因病去世",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%BC%94%E5%91%98%E7%A7%A6%E7%84%B0%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96",
+      "hot_value": "1,123万",
       "index": 2
     },
     {
       "title": "突破瓶颈发展未来产业",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AA%81%E7%A0%B4%E7%93%B6%E9%A2%88%E5%8F%91%E5%B1%95%E6%9C%AA%E6%9D%A5%E4%BA%A7%E4%B8%9A",
-      "hot_value": "1,093.8万",
+      "hot_value": "1,106万",
       "index": 3
     },
     {
-      "title": "演员秦焰因病去世",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%BC%94%E5%91%98%E7%A7%A6%E7%84%B0%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96",
-      "hot_value": "1,089.5万",
+      "title": "嫌弃脸这一块",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AB%8C%E5%BC%83%E8%84%B8%E8%BF%99%E4%B8%80%E5%9D%97",
+      "hot_value": "1,102.2万",
       "index": 4
     },
     {
-      "title": "陆文俊受贿6798万余元获刑15年",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%99%86%E6%96%87%E4%BF%8A%E5%8F%97%E8%B4%BF6798%E4%B8%87%E4%BD%99%E5%85%83%E8%8E%B7%E5%88%9115%E5%B9%B4",
-      "hot_value": "1,069.8万",
+      "title": "双子星的夜晚VS三子星的夜晚",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%8C%E5%AD%90%E6%98%9F%E7%9A%84%E5%A4%9C%E6%99%9AVS%E4%B8%89%E5%AD%90%E6%98%9F%E7%9A%84%E5%A4%9C%E6%99%9A",
+      "hot_value": "1,080.4万",
       "index": 5
-    },
-    {
-      "title": "一花一叶一菩提褚赢版",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%80%E8%8A%B1%E4%B8%80%E5%8F%B6%E4%B8%80%E8%8F%A9%E6%8F%90%E8%A4%9A%E8%B5%A2%E7%89%88",
-      "hot_value": "1,045.3万",
-      "index": 6
-    },
-    {
-      "title": "第38届大众电影百花奖",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AC%AC38%E5%B1%8A%E5%A4%A7%E4%BC%97%E7%94%B5%E5%BD%B1%E7%99%BE%E8%8A%B1%E5%A5%96",
-      "hot_value": "1,037.6万",
-      "index": 7
-    },
-    {
-      "title": "古风小生爆改亚文化冷血伯爵",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%A4%E9%A3%8E%E5%B0%8F%E7%94%9F%E7%88%86%E6%94%B9%E4%BA%9A%E6%96%87%E5%8C%96%E5%86%B7%E8%A1%80%E4%BC%AF%E7%88%B5",
-      "hot_value": "1,036.8万",
-      "index": 8
-    },
-    {
-      "title": "警犬无人机救出6岁男童",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AD%A6%E7%8A%AC%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E5%87%BA6%E5%B2%81%E7%94%B7%E7%AB%A5",
-      "hot_value": "1,035.7万",
-      "index": 9
     },
     {
       "title": "我是爷们儿",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E6%98%AF%E7%88%B7%E4%BB%AC%E5%84%BF",
-      "hot_value": "1,035.6万",
+      "hot_value": "1,057.7万",
+      "index": 6
+    },
+    {
+      "title": "持续深化在华三非外国人治理",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%8C%81%E7%BB%AD%E6%B7%B1%E5%8C%96%E5%9C%A8%E5%8D%8E%E4%B8%89%E9%9D%9E%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%B2%BB%E7%90%86",
+      "hot_value": "1,036.6万",
+      "index": 7
+    },
+    {
+      "title": "陆文俊受贿6798万余元获刑15年",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%99%86%E6%96%87%E4%BF%8A%E5%8F%97%E8%B4%BF6798%E4%B8%87%E4%BD%99%E5%85%83%E8%8E%B7%E5%88%9115%E5%B9%B4",
+      "hot_value": "993.9万",
+      "index": 8
+    },
+    {
+      "title": "夏天西北人必吃解暑浆水面教程",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%8F%E5%A4%A9%E8%A5%BF%E5%8C%97%E4%BA%BA%E5%BF%85%E5%90%83%E8%A7%A3%E6%9A%91%E6%B5%86%E6%B0%B4%E9%9D%A2%E6%95%99%E7%A8%8B",
+      "hot_value": "991.5万",
+      "index": 9
+    },
+    {
+      "title": "中国电影“增增日上”",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E2%80%9C%E5%A2%9E%E5%A2%9E%E6%97%A5%E4%B8%8A%E2%80%9D",
+      "hot_value": "988.9万",
       "index": 10
     },
     {
-      "title": "网络“跟风评论随意脑补”素养课",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BD%91%E7%BB%9C%E2%80%9C%E8%B7%9F%E9%A3%8E%E8%AF%84%E8%AE%BA%E9%9A%8F%E6%84%8F%E8%84%91%E8%A1%A5%E2%80%9D%E7%B4%A0%E5%85%BB%E8%AF%BE",
-      "hot_value": "1,034.6万",
+      "title": "浙江温州一建筑被台风吹塌系谣言",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B5%99%E6%B1%9F%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%BB%BA%E7%AD%91%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%A1%8C%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "hot_value": "986.4万",
       "index": 11
     },
     {
       "title": "天赐的声音7收官",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A9%E8%B5%90%E7%9A%84%E5%A3%B0%E9%9F%B37%E6%94%B6%E5%AE%98",
-      "hot_value": "1,034.3万",
+      "hot_value": "985.4万",
       "index": 12
+    },
+    {
+      "title": "第38届大众电影百花奖",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AC%AC38%E5%B1%8A%E5%A4%A7%E4%BC%97%E7%94%B5%E5%BD%B1%E7%99%BE%E8%8A%B1%E5%A5%96",
+      "hot_value": "983万",
+      "index": 13
+    },
+    {
+      "title": "台风登陆后各地现状如何",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86%E5%90%8E%E5%90%84%E5%9C%B0%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
+      "hot_value": "980.5万",
+      "index": 14
     },
     {
       "title": "这一秒过火收官",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E6%94%B6%E5%AE%98",
-      "hot_value": "1,033.8万",
-      "index": 13
-    },
-    {
-      "title": "吉林市政协党组书记李富民被查",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%89%E6%9E%97%E5%B8%82%E6%94%BF%E5%8D%8F%E5%85%9A%E7%BB%84%E4%B9%A6%E8%AE%B0%E6%9D%8E%E5%AF%8C%E6%B0%91%E8%A2%AB%E6%9F%A5",
-      "hot_value": "1,033.5万",
-      "index": 14
-    },
-    {
-      "title": "边福力奏响星光大道",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BE%B9%E7%A6%8F%E5%8A%9B%E5%A5%8F%E5%93%8D%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93",
-      "hot_value": "1,028.5万",
+      "hot_value": "978.7万",
       "index": 15
     },
     {
-      "title": "刘晓庆75岁状态",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%98%E6%99%93%E5%BA%8675%E5%B2%81%E7%8A%B6%E6%80%81",
-      "hot_value": "1,028.5万",
+      "title": "古力娜扎回应病情",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%A4%E5%8A%9B%E5%A8%9C%E6%89%8E%E5%9B%9E%E5%BA%94%E7%97%85%E6%83%85",
+      "hot_value": "974.9万",
       "index": 16
     },
     {
-      "title": "吴老狗变成干尸",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%B4%E8%80%81%E7%8B%97%E5%8F%98%E6%88%90%E5%B9%B2%E5%B0%B8",
-      "hot_value": "1,028.3万",
+      "title": "警犬无人机救出6岁男童",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AD%A6%E7%8A%AC%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E5%87%BA6%E5%B2%81%E7%94%B7%E7%AB%A5",
+      "hot_value": "972.6万",
       "index": 17
     },
     {
       "title": "小苏求婚阿离",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E8%8B%8F%E6%B1%82%E5%A9%9A%E9%98%BF%E7%A6%BB",
-      "hot_value": "1,026.6万",
+      "hot_value": "969.8万",
       "index": 18
     },
     {
-      "title": "又到了一年一度的赶海季",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%88%E5%88%B0%E4%BA%86%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E7%9A%84%E8%B5%B6%E6%B5%B7%E5%AD%A3",
-      "hot_value": "1,020.4万",
+      "title": "小猪佩奇 童年越来越模糊了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%20%E7%AB%A5%E5%B9%B4%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%A8%A1%E7%B3%8A%E4%BA%86",
+      "hot_value": "969.5万",
       "index": 19
     },
     {
-      "title": "贾冰私人饭局被熟人偷拍惹争议",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B4%BE%E5%86%B0%E7%A7%81%E4%BA%BA%E9%A5%AD%E5%B1%80%E8%A2%AB%E7%86%9F%E4%BA%BA%E5%81%B7%E6%8B%8D%E6%83%B9%E4%BA%89%E8%AE%AE",
-      "hot_value": "1,018.2万",
+      "title": "古风小生爆改亚文化冷血伯爵",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%A4%E9%A3%8E%E5%B0%8F%E7%94%9F%E7%88%86%E6%94%B9%E4%BA%9A%E6%96%87%E5%8C%96%E5%86%B7%E8%A1%80%E4%BC%AF%E7%88%B5",
+      "hot_value": "962.2万",
       "index": 20
-    },
-    {
-      "title": "梅婷12岁女儿百花奖发言落落大方",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%A2%85%E5%A9%B712%E5%B2%81%E5%A5%B3%E5%84%BF%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%91%E8%A8%80%E8%90%BD%E8%90%BD%E5%A4%A7%E6%96%B9",
-      "hot_value": "1,015.9万",
-      "index": 21
-    },
-    {
-      "title": "台风登陆后各地现状如何",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86%E5%90%8E%E5%90%84%E5%9C%B0%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
-      "hot_value": "1,012.6万",
-      "index": 22
-    },
-    {
-      "title": "上海暴雨",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8",
-      "hot_value": "1,010.5万",
-      "index": 23
-    },
-    {
-      "title": "中国电影“增增日上”",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E2%80%9C%E5%A2%9E%E5%A2%9E%E6%97%A5%E4%B8%8A%E2%80%9D",
-      "hot_value": "1,008.5万",
-      "index": 24
-    },
-    {
-      "title": "人鱼 心疼苏琳",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BA%BA%E9%B1%BC%20%E5%BF%83%E7%96%BC%E8%8B%8F%E7%90%B3",
-      "hot_value": "1,006.7万",
-      "index": 25
-    },
-    {
-      "title": "台风白海豚突然大拐弯",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%AA%81%E7%84%B6%E5%A4%A7%E6%8B%90%E5%BC%AF",
-      "hot_value": "1,003.6万",
-      "index": 26
-    },
-    {
-      "title": "女子从9楼扔6个烂桃被刑拘",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E4%BB%8E9%E6%A5%BC%E6%89%946%E4%B8%AA%E7%83%82%E6%A1%83%E8%A2%AB%E5%88%91%E6%8B%98",
-      "hot_value": "1,003.5万",
-      "index": 27
-    },
-    {
-      "title": "沈腾400亿票房中国影史第一人",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%88%E8%85%BE400%E4%BA%BF%E7%A5%A8%E6%88%BF%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%AC%AC%E4%B8%80%E4%BA%BA",
-      "hot_value": "1,002万",
-      "index": 28
     },
     {
       "title": "广西霸总",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%BF%E8%A5%BF%E9%9C%B8%E6%80%BB",
-      "hot_value": "1,001.4万",
-      "index": 29
+      "hot_value": "956.1万",
+      "index": 21
+    },
+    {
+      "title": "梅婷12岁女儿百花奖发言落落大方",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%A2%85%E5%A9%B712%E5%B2%81%E5%A5%B3%E5%84%BF%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%91%E8%A8%80%E8%90%BD%E8%90%BD%E5%A4%A7%E6%96%B9",
+      "hot_value": "953.2万",
+      "index": 22
+    },
+    {
+      "title": "吴老狗变成干尸",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%B4%E8%80%81%E7%8B%97%E5%8F%98%E6%88%90%E5%B9%B2%E5%B0%B8",
+      "hot_value": "950.6万",
+      "index": 23
+    },
+    {
+      "title": "贾冰私人饭局被熟人偷拍惹争议",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B4%BE%E5%86%B0%E7%A7%81%E4%BA%BA%E9%A5%AD%E5%B1%80%E8%A2%AB%E7%86%9F%E4%BA%BA%E5%81%B7%E6%8B%8D%E6%83%B9%E4%BA%89%E8%AE%AE",
+      "hot_value": "950.5万",
+      "index": 24
+    },
+    {
+      "title": "小猪佩奇中的中式教育",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%BC%8F%E6%95%99%E8%82%B2",
+      "hot_value": "948.1万",
+      "index": 25
+    },
+    {
+      "title": "刘晓庆75岁状态",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%98%E6%99%93%E5%BA%8675%E5%B2%81%E7%8A%B6%E6%80%81",
+      "hot_value": "947.8万",
+      "index": 26
+    },
+    {
+      "title": "上海暴雨",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8",
+      "hot_value": "946.5万",
+      "index": 27
+    },
+    {
+      "title": "台风白海豚突然大拐弯",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%AA%81%E7%84%B6%E5%A4%A7%E6%8B%90%E5%BC%AF",
+      "hot_value": "943.6万",
+      "index": 28
     },
     {
       "title": "黄子韬徐艺洋互扇巴掌引争议",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E4%BA%92%E6%89%87%E5%B7%B4%E6%8E%8C%E5%BC%95%E4%BA%89%E8%AE%AE",
-      "hot_value": "994.2万",
+      "hot_value": "940.4万",
+      "index": 29
+    },
+    {
+      "title": "沈腾400亿票房中国影史第一人",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%88%E8%85%BE400%E4%BA%BF%E7%A5%A8%E6%88%BF%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%AC%AC%E4%B8%80%E4%BA%BA",
+      "hot_value": "939.3万",
       "index": 30
     }
   ]
