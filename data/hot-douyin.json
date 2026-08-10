@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-10T13:53:29Z",
+  "update_time": "2026-08-10T14:53:54Z",
   "count": 30,
   "list": [
     {
       "title": "上海暴雨",
       "url": "https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8?type=general",
-      "hot_value": "12059128",
+      "hot_value": "11687858",
       "index": 1
     },
     {
       "title": "台风白海豚实时路径",
       "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84?type=general",
-      "hot_value": "11473817",
+      "hot_value": "11673238",
       "index": 2
     },
     {
       "title": "暑期档电影市场增势向好",
       "url": "https://www.douyin.com/search/%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%E5%A2%9E%E5%8A%BF%E5%90%91%E5%A5%BD?type=general",
-      "hot_value": "11424408",
+      "hot_value": "11432333",
       "index": 3
     },
     {
       "title": "易烊千玺百花奖最佳男主角",
       "url": "https://www.douyin.com/search/%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92?type=general",
-      "hot_value": "11127714",
+      "hot_value": "11318452",
       "index": 4
     },
     {
       "title": "南太行失联22岁女孩遗体被发现",
       "url": "https://www.douyin.com/search/%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9422%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0?type=general",
-      "hot_value": "10509661",
+      "hot_value": "10564085",
       "index": 5
     },
     {
       "title": "演员秦焰去世",
       "url": "https://www.douyin.com/search/%E6%BC%94%E5%91%98%E7%A7%A6%E7%84%B0%E5%8E%BB%E4%B8%96?type=general",
-      "hot_value": "10421133",
+      "hot_value": "10562719",
       "index": 6
     },
     {
       "title": "开封夜市好吃到停不下来",
       "url": "https://www.douyin.com/search/%E5%BC%80%E5%B0%81%E5%A4%9C%E5%B8%82%E5%A5%BD%E5%90%83%E5%88%B0%E5%81%9C%E4%B8%8D%E4%B8%8B%E6%9D%A5?type=general",
-      "hot_value": "9260580",
+      "hot_value": "9435611",
       "index": 7
     },
     {
       "title": "穿搭天才依旧稳定发挥",
       "url": "https://www.douyin.com/search/%E7%A9%BF%E6%90%AD%E5%A4%A9%E6%89%8D%E4%BE%9D%E6%97%A7%E7%A8%B3%E5%AE%9A%E5%8F%91%E6%8C%A5?type=general",
-      "hot_value": "9153763",
+      "hot_value": "9351334",
       "index": 8
     },
     {
       "title": "经销商：雪佛兰暂停在华新车销售",
       "url": "https://www.douyin.com/search/%E7%BB%8F%E9%94%80%E5%95%86%EF%BC%9A%E9%9B%AA%E4%BD%9B%E5%85%B0%E6%9A%82%E5%81%9C%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E5%94%AE?type=general",
-      "hot_value": "9149440",
+      "hot_value": "9244432",
       "index": 9
     },
     {
       "title": "遗忘之海章鱼哥太难听了",
       "url": "https://www.douyin.com/search/%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E7%AB%A0%E9%B1%BC%E5%93%A5%E5%A4%AA%E9%9A%BE%E5%90%AC%E4%BA%86?type=general",
-      "hot_value": "9106370",
+      "hot_value": "9188463",
       "index": 10
+    },
+    {
+      "title": "卫诗雅获百花奖最佳女主角",
+      "url": "https://www.douyin.com/search/%E5%8D%AB%E8%AF%97%E9%9B%85%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92?type=general",
+      "hot_value": "9126957",
+      "index": 11
     },
     {
       "title": "以色列士兵把枪口对准中国记者",
       "url": "https://www.douyin.com/search/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A3%AB%E5%85%B5%E6%8A%8A%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85?type=general",
-      "hot_value": "9102814",
-      "index": 11
-    },
-    {
-      "title": "哥伦比亚发生7.5级地震",
-      "url": "https://www.douyin.com/search/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87?type=general",
-      "hot_value": "9008089",
+      "hot_value": "9084488",
       "index": 12
     },
     {
       "title": "王骁萨日娜百花奖最佳男女配",
       "url": "https://www.douyin.com/search/%E7%8E%8B%E9%AA%81%E8%90%A8%E6%97%A5%E5%A8%9C%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E9%85%8D?type=general",
-      "hot_value": "8977566",
+      "hot_value": "9081089",
       "index": 13
     },
     {
       "title": "“温州一建筑被台风吹塌了”不实",
       "url": "https://www.douyin.com/search/%E2%80%9C%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%BB%BA%E7%AD%91%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%A1%8C%E4%BA%86%E2%80%9D%E4%B8%8D%E5%AE%9E?type=general",
-      "hot_value": "8829143",
+      "hot_value": "8851508",
       "index": 14
     },
     {
-      "title": "宇树科技今日申购",
-      "url": "https://www.douyin.com/search/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%BB%8A%E6%97%A5%E7%94%B3%E8%B4%AD?type=general",
-      "hot_value": "8829032",
+      "title": "百花奖获奖名单",
+      "url": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95?type=general",
+      "hot_value": "8714150",
       "index": 15
     },
     {
-      "title": "台军“汉光演习”再出意外",
-      "url": "https://www.douyin.com/search/%E5%8F%B0%E5%86%9B%E2%80%9C%E6%B1%89%E5%85%89%E6%BC%94%E4%B9%A0%E2%80%9D%E5%86%8D%E5%87%BA%E6%84%8F%E5%A4%96?type=general",
-      "hot_value": "8774788",
+      "title": "哥伦比亚发生7.5级地震",
+      "url": "https://www.douyin.com/search/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87?type=general",
+      "hot_value": "8542590",
       "index": 16
-    },
-    {
-      "title": "电视剧重器开播",
-      "url": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8D%E5%99%A8%E5%BC%80%E6%92%AD?type=general",
-      "hot_value": "8759078",
-      "index": 17
     },
     {
       "title": "苹果被曝探索无屏Apple Watch",
       "url": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E6%8E%A2%E7%B4%A2%E6%97%A0%E5%B1%8FApple%20Watch?type=general",
-      "hot_value": "8134981",
+      "hot_value": "8389545",
+      "index": 17
+    },
+    {
+      "title": "宇树科技今日申购",
+      "url": "https://www.douyin.com/search/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%BB%8A%E6%97%A5%E7%94%B3%E8%B4%AD?type=general",
+      "hot_value": "8192942",
       "index": 18
     },
     {
-      "title": "火影手游百战虎皮全爆料",
-      "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E7%99%BE%E6%88%98%E8%99%8E%E7%9A%AE%E5%85%A8%E7%88%86%E6%96%99?type=general",
-      "hot_value": "7815658",
+      "title": "电视剧重器开播",
+      "url": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8D%E5%99%A8%E5%BC%80%E6%92%AD?type=general",
+      "hot_value": "7935183",
       "index": 19
     },
     {
-      "title": "第38届百花奖闭幕式",
-      "url": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F?type=general",
-      "hot_value": "7800181",
+      "title": "台军“汉光演习”再出意外",
+      "url": "https://www.douyin.com/search/%E5%8F%B0%E5%86%9B%E2%80%9C%E6%B1%89%E5%85%89%E6%BC%94%E4%B9%A0%E2%80%9D%E5%86%8D%E5%87%BA%E6%84%8F%E5%A4%96?type=general",
+      "hot_value": "7807811",
       "index": 20
     },
     {
       "title": "我的暑假漫展日记",
       "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E6%9A%91%E5%81%87%E6%BC%AB%E5%B1%95%E6%97%A5%E8%AE%B0?type=general",
-      "hot_value": "7776005",
+      "hot_value": "7792557",
       "index": 21
-    },
-    {
-      "title": "百花奖闭幕式红毯",
-      "url": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF?type=general",
-      "hot_value": "7769234",
-      "index": 22
     },
     {
       "title": "中国用竹子造无人机",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E6%97%A0%E4%BA%BA%E6%9C%BA?type=general",
-      "hot_value": "7762299",
+      "hot_value": "7791183",
+      "index": 22
+    },
+    {
+      "title": "河北发布暴雨橙色预警信号",
+      "url": "https://www.douyin.com/search/%E6%B2%B3%E5%8C%97%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%E4%BF%A1%E5%8F%B7?type=general",
+      "hot_value": "7775429",
       "index": 23
-    },
-    {
-      "title": "小眼睛避雷这个睫毛特效",
-      "url": "https://www.douyin.com/search/%E5%B0%8F%E7%9C%BC%E7%9D%9B%E9%81%BF%E9%9B%B7%E8%BF%99%E4%B8%AA%E7%9D%AB%E6%AF%9B%E7%89%B9%E6%95%88?type=general",
-      "hot_value": "7752246",
-      "index": 24
-    },
-    {
-      "title": "七夕那天给我虚晃了一枪",
-      "url": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E9%82%A3%E5%A4%A9%E7%BB%99%E6%88%91%E8%99%9A%E6%99%83%E4%BA%86%E4%B8%80%E6%9E%AA?type=general",
-      "hot_value": "7750279",
-      "index": 25
-    },
-    {
-      "title": "杨幂刘诗诗百花奖同框走红毯",
-      "url": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E7%99%BE%E8%8A%B1%E5%A5%96%E5%90%8C%E6%A1%86%E8%B5%B0%E7%BA%A2%E6%AF%AF?type=general",
-      "hot_value": "7742922",
-      "index": 26
     },
     {
       "title": "媒体评雪佛兰退出中国市场",
       "url": "https://www.douyin.com/search/%E5%AA%92%E4%BD%93%E8%AF%84%E9%9B%AA%E4%BD%9B%E5%85%B0%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA?type=general",
-      "hot_value": "7742492",
+      "hot_value": "7774860",
+      "index": 24
+    },
+    {
+      "title": "百花奖最佳新人陈丽君",
+      "url": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E9%99%88%E4%B8%BD%E5%90%9B?type=general",
+      "hot_value": "7763276",
+      "index": 25
+    },
+    {
+      "title": "火影手游百战虎皮全爆料",
+      "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E7%99%BE%E6%88%98%E8%99%8E%E7%9A%AE%E5%85%A8%E7%88%86%E6%96%99?type=general",
+      "hot_value": "7755088",
+      "index": 26
+    },
+    {
+      "title": "第38届百花奖闭幕式",
+      "url": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F?type=general",
+      "hot_value": "7752580",
       "index": 27
     },
     {
-      "title": "用海盐星星妆抓住夏天的尾巴",
-      "url": "https://www.douyin.com/search/%E7%94%A8%E6%B5%B7%E7%9B%90%E6%98%9F%E6%98%9F%E5%A6%86%E6%8A%93%E4%BD%8F%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%B0%BE%E5%B7%B4?type=general",
-      "hot_value": "7742423",
+      "title": "小眼睛避雷这个睫毛特效",
+      "url": "https://www.douyin.com/search/%E5%B0%8F%E7%9C%BC%E7%9D%9B%E9%81%BF%E9%9B%B7%E8%BF%99%E4%B8%AA%E7%9D%AB%E6%AF%9B%E7%89%B9%E6%95%88?type=general",
+      "hot_value": "7751963",
       "index": 28
     },
     {
       "title": "欢迎来龙餐馆沈腾演技",
       "url": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E6%B2%88%E8%85%BE%E6%BC%94%E6%8A%80?type=general",
-      "hot_value": "7737663",
+      "hot_value": "7745700",
       "index": 29
     },
     {
-      "title": "百花奖最佳新人陈丽君",
-      "url": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E9%99%88%E4%B8%BD%E5%90%9B?type=general",
-      "hot_value": "7732521",
+      "title": "用海盐星星妆抓住夏天的尾巴",
+      "url": "https://www.douyin.com/search/%E7%94%A8%E6%B5%B7%E7%9B%90%E6%98%9F%E6%98%9F%E5%A6%86%E6%8A%93%E4%BD%8F%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%B0%BE%E5%B7%B4?type=general",
+      "hot_value": "7741948",
       "index": 30
     }
   ]
