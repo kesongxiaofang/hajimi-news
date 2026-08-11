@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-11T17:57:17Z",
+  "update_time": "2026-08-11T19:03:18Z",
   "count": 30,
   "list": [
     {
       "title": "上海突如其来的大暴雨，市区很多路段全面积水，无法排出的原因是什么？",
       "url": "https://www.zhihu.com/question/2062262812324508088",
-      "hot_value": "428 万热度",
+      "hot_value": "496 万热度",
       "index": 1
     },
     {
-      "title": "如何看待 8 月 10 日沈腾主演电影《欢迎来龙餐馆》总票房预测值大幅提升至  35.4 亿人民币？",
-      "url": "https://www.zhihu.com/question/2070305441545040277",
-      "hot_value": "255 万热度",
+      "title": "炸鸡店外卖爆单致店员压力大到崩溃痛哭，疑出现呼吸碱中毒现象，看完这一幕你想说什么？",
+      "url": "https://www.zhihu.com/question/2070522643753563407",
+      "hot_value": "369 万热度",
       "index": 2
     },
     {
       "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生？",
       "url": "https://www.zhihu.com/question/2070468397289009796",
-      "hot_value": "227 万热度",
+      "hot_value": "277 万热度",
       "index": 3
-    },
-    {
-      "title": "炸鸡店外卖爆单致店员压力大到崩溃痛哭，疑出现呼吸碱中毒现象，看完这一幕你想说什么？",
-      "url": "https://www.zhihu.com/question/2070522643753563407",
-      "hot_value": "221 万热度",
-      "index": 4
     },
     {
       "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
       "url": "https://www.zhihu.com/question/2069887569639248076",
-      "hot_value": "211 万热度",
-      "index": 5
+      "hot_value": "251 万热度",
+      "index": 4
     },
     {
       "title": "今年百花奖王宝强 0 票，对此你的看法是什么？",
       "url": "https://www.zhihu.com/question/2070427612044961729",
-      "hot_value": "201 万热度",
-      "index": 6
+      "hot_value": "250 万热度",
+      "index": 5
     },
     {
       "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
       "url": "https://www.zhihu.com/question/2070452772391194651",
-      "hot_value": "187 万热度",
+      "hot_value": "246 万热度",
+      "index": 6
+    },
+    {
+      "title": "如何看待 8 月 10 日沈腾主演电影《欢迎来龙餐馆》总票房预测值大幅提升至  35.4 亿人民币？",
+      "url": "https://www.zhihu.com/question/2070305441545040277",
+      "hot_value": "211 万热度",
       "index": 7
     },
     {
       "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
       "url": "https://www.zhihu.com/question/2070076711593406558",
-      "hot_value": "149 万热度",
+      "hot_value": "192 万热度",
       "index": 8
     },
     {
-      "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
-      "url": "https://www.zhihu.com/question/2070098614244864702",
-      "hot_value": "130 万热度",
+      "title": "胖东来公布侵犯员工尊严案例，顾客驾车顶撞员工被行拘、掌掴员工被起诉，员工获上万元赔偿，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2070467817976210988",
+      "hot_value": "159 万热度",
       "index": 9
     },
     {
       "title": "现在年轻人都很少主动考驾照了，未来还有必要人手一本驾照吗？",
       "url": "https://www.zhihu.com/question/2066668547292521975",
-      "hot_value": "127 万热度",
+      "hot_value": "156 万热度",
       "index": 10
-    },
-    {
-      "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰？",
-      "url": "https://www.zhihu.com/question/2068757535138566295",
-      "hot_value": "127 万热度",
-      "index": 11
     },
     {
       "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
       "url": "https://www.zhihu.com/question/2069387389651215691",
-      "hot_value": "127 万热度",
-      "index": 12
+      "hot_value": "156 万热度",
+      "index": 11
     },
     {
       "title": "演员贾冰参加朋友饭局被偷拍，网传视频中有爆粗口、抽烟喝酒等行为，是真的吗？为什么反而被网友力挺？",
       "url": "https://www.zhihu.com/question/2070108326516318471",
-      "hot_value": "126 万热度",
-      "index": 13
+      "hot_value": "156 万热度",
+      "index": 12
     },
     {
       "title": "曝方文山长期婚内出轨，精神操控多位女性，方文山回应因筹拍网剧产生纠纷被投资方污蔑，具体啥情况？",
       "url": "https://www.zhihu.com/question/2070481032956962155",
-      "hot_value": "126 万热度",
-      "index": 14
+      "hot_value": "155 万热度",
+      "index": 13
     },
     {
       "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
       "url": "https://www.zhihu.com/question/2070450417981469090",
-      "hot_value": "125 万热度",
+      "hot_value": "155 万热度",
+      "index": 14
+    },
+    {
+      "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
+      "url": "https://www.zhihu.com/question/2068955233896640772",
+      "hot_value": "153 万热度",
       "index": 15
     },
     {
       "title": "张本兄妹同时包揽 WTT 横滨冠军赛单打冠军，会对国乒的霸主地位有影响吗？国乒到底怎么了？",
       "url": "https://www.zhihu.com/question/2069914089296486954",
-      "hot_value": "125 万热度",
+      "hot_value": "152 万热度",
       "index": 16
     },
     {
       "title": "16 岁少年强抱女友跳河自己上岸女友溺亡，凶手母亲包庇其 17 年，凶手及其家属可能受到哪些处罚？",
       "url": "https://www.zhihu.com/question/2070461199141920826",
-      "hot_value": "124 万热度",
+      "hot_value": "150 万热度",
       "index": 17
     },
     {
       "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
       "url": "https://www.zhihu.com/question/2070437867311174069",
-      "hot_value": "124 万热度",
+      "hot_value": "147 万热度",
       "index": 18
-    },
-    {
-      "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
-      "url": "https://www.zhihu.com/question/2068955233896640772",
-      "hot_value": "121 万热度",
-      "index": 19
     },
     {
       "title": "为啥感觉麻辣烫越来越贵，而自助小火锅却在越卷越便宜？同样是汤煮菜，为啥会出现这样的差异？",
       "url": "https://www.zhihu.com/question/2067711801098069791",
-      "hot_value": "115 万热度",
+      "hot_value": "131 万热度",
+      "index": 19
+    },
+    {
+      "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰？",
+      "url": "https://www.zhihu.com/question/2068757535138566295",
+      "hot_value": "130 万热度",
       "index": 20
     },
     {
       "title": "如何看待网红「巴旦木公主」晒结婚证官宣结婚？",
       "url": "https://www.zhihu.com/question/2070519082533614486",
-      "hot_value": "109 万热度",
+      "hot_value": "115 万热度",
       "index": 21
     },
     {
-      "title": "如何评价《崩坏：星穹铁道》阿哈时刻：「真珠」？",
-      "url": "https://www.zhihu.com/question/2070486069435426346",
-      "hot_value": "103 万热度",
+      "title": "20 岁中国富二代在泰国被杀，嫌犯称在女友浴室看到他，还有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2069733970867122230",
+      "hot_value": "101 万热度",
       "index": 22
     },
     {
-      "title": "媒体曝中国网红「雅典娜」确认遇害，宁波警方称并未证实其已遇害，事件真相到底如何？",
-      "url": "https://www.zhihu.com/question/2070285462472582864",
-      "hot_value": "100 万热度",
+      "title": "《欢迎来龙餐馆》老扎为什么没有偷偷放走徐福？",
+      "url": "https://www.zhihu.com/question/2070475496945448034",
+      "hot_value": "98 万热度",
       "index": 23
-    },
-    {
-      "title": "易烊千玺连续四届提名百花奖，终凭《小小的我》刘春和一角成 00 后首位百花影帝，如何评价他的表演？",
-      "url": "https://www.zhihu.com/question/2070253242945106599",
-      "hot_value": "78 万热度",
-      "index": 24
     },
     {
       "title": "我国为什么要反制 RBA 守护产业链自主权？",
       "url": "https://www.zhihu.com/question/2070447830829724154",
-      "hot_value": "75 万热度",
+      "hot_value": "95 万热度",
+      "index": 24
+    },
+    {
+      "title": "作为管理者，在你遇到员工开会怼你，你会怎么办？",
+      "url": "https://www.zhihu.com/question/2047698414016767512",
+      "hot_value": "81 万热度",
       "index": 25
-    },
-    {
-      "title": "为什么很多孩子小学阶段数学成绩很好，到了初中却突然掉队？",
-      "url": "https://www.zhihu.com/question/2068849335777940830",
-      "hot_value": "72 万热度",
-      "index": 26
-    },
-    {
-      "title": "如何提高个人行动力？",
-      "url": "https://www.zhihu.com/question/2023709065998606868",
-      "hot_value": "70 万热度",
-      "index": 27
-    },
-    {
-      "title": "钢筋做弓箭性能极差为何欧洲十字弩用钢做？",
-      "url": "https://www.zhihu.com/question/1943422802867757168",
-      "hot_value": "68 万热度",
-      "index": 28
-    },
-    {
-      "title": "如何评价《欢迎来龙餐馆》里的角色赛夫？",
-      "url": "https://www.zhihu.com/question/2069840201854227464",
-      "hot_value": "68 万热度",
-      "index": 29
     },
     {
       "title": "为什么如来佛祖可以轻松降服孙悟空，太上老君却做不到？",
       "url": "https://www.zhihu.com/question/5602840530",
-      "hot_value": "68 万热度",
+      "hot_value": "79 万热度",
+      "index": 26
+    },
+    {
+      "title": "怎样评价高希希拍新新三国将参考《史记》？",
+      "url": "https://www.zhihu.com/question/2070283490218751936",
+      "hot_value": "78 万热度",
+      "index": 27
+    },
+    {
+      "title": "如何评价《欢迎来龙餐馆》里的角色赛夫？",
+      "url": "https://www.zhihu.com/question/2069840201854227464",
+      "hot_value": "78 万热度",
+      "index": 28
+    },
+    {
+      "title": "为什么很多孩子小学阶段数学成绩很好，到了初中却突然掉队？",
+      "url": "https://www.zhihu.com/question/2068849335777940830",
+      "hot_value": "76 万热度",
+      "index": 29
+    },
+    {
+      "title": "《蜘蛛侠：崭新之日》里为什么惩罚者在 DODC 大楼乱斗中，看上去毫发无损？他的战力属于什么水平？",
+      "url": "https://www.zhihu.com/question/2068012444450907631",
+      "hot_value": "73 万热度",
       "index": 30
     }
   ]
