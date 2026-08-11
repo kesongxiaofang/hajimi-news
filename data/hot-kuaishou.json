@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-08-11T16:57:08Z",
+  "update_time": "2026-08-11T17:57:17Z",
   "count": 30,
   "list": [
     {
       "title": "河南暴雨",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8",
-      "hot_value": "1,305.5万",
+      "hot_value": "1,325.4万",
       "index": 1
     },
     {
       "title": "文献纪录片《江泽民》开播",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%96%87%E7%8C%AE%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%B1%9F%E6%B3%BD%E6%B0%91%E3%80%8B%E5%BC%80%E6%92%AD",
-      "hot_value": "1,305.5万",
+      "hot_value": "1,320.9万",
       "index": 2
     },
     {
       "title": "一组数据看新产业动能强劲",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E6%96%B0%E4%BA%A7%E4%B8%9A%E5%8A%A8%E8%83%BD%E5%BC%BA%E5%8A%B2",
-      "hot_value": "1,305.4万",
+      "hot_value": "1,312.4万",
       "index": 3
     },
     {
       "title": "台风白海豚停止编号",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%81%9C%E6%AD%A2%E7%BC%96%E5%8F%B7",
-      "hot_value": "1,305.1万",
+      "hot_value": "1,308.6万",
       "index": 4
     },
     {
       "title": "2026罕见日全食来袭",
       "url": "https://www.kuaishou.com/search/video?searchKey=2026%E7%BD%95%E8%A7%81%E6%97%A5%E5%85%A8%E9%A3%9F%E6%9D%A5%E8%A2%AD",
-      "hot_value": "1,304.8万",
+      "hot_value": "1,290.3万",
       "index": 5
     },
     {
-      "title": "中央气象台三预警齐发",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%89%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91",
-      "hot_value": "1,304.8万",
+      "title": "雅典娜母亲针对遇害传闻发声",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9B%85%E5%85%B8%E5%A8%9C%E6%AF%8D%E4%BA%B2%E9%92%88%E5%AF%B9%E9%81%87%E5%AE%B3%E4%BC%A0%E9%97%BB%E5%8F%91%E5%A3%B0",
+      "hot_value": "1,285.5万",
       "index": 6
     },
     {
       "title": "巴西顺拐卡点",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B7%B4%E8%A5%BF%E9%A1%BA%E6%8B%90%E5%8D%A1%E7%82%B9",
-      "hot_value": "1,145.5万",
+      "hot_value": "1,213.4万",
       "index": 7
     },
     {
-      "title": "雅典娜母亲针对遇害传闻发声",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9B%85%E5%85%B8%E5%A8%9C%E6%AF%8D%E4%BA%B2%E9%92%88%E5%AF%B9%E9%81%87%E5%AE%B3%E4%BC%A0%E9%97%BB%E5%8F%91%E5%A3%B0",
-      "hot_value": "1,101.5万",
+      "title": "中央气象台三预警齐发",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%89%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91",
+      "hot_value": "1,192.6万",
       "index": 8
     },
     {
       "title": "哥伦比亚强震死亡人数升至181人",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%BC%BA%E9%9C%87%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3181%E4%BA%BA",
-      "hot_value": "1,058.3万",
+      "hot_value": "1,147.2万",
       "index": 9
     },
     {
       "title": "北京暴雨",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8",
-      "hot_value": "1,036.9万",
+      "hot_value": "1,125万",
       "index": 10
     },
     {
       "title": "上海浦东一女子台风中坠楼不实",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C%E4%B8%80%E5%A5%B3%E5%AD%90%E5%8F%B0%E9%A3%8E%E4%B8%AD%E5%9D%A0%E6%A5%BC%E4%B8%8D%E5%AE%9E",
-      "hot_value": "1,026.4万",
+      "hot_value": "1,122.5万",
       "index": 11
     },
     {
       "title": "曝赵一鸣4块牛肉干64元复称17元",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9B%9D%E8%B5%B5%E4%B8%80%E9%B8%A34%E5%9D%97%E7%89%9B%E8%82%89%E5%B9%B264%E5%85%83%E5%A4%8D%E7%A7%B017%E5%85%83",
-      "hot_value": "994.2万",
+      "hot_value": "1,056.3万",
       "index": 12
     },
     {
       "title": "阿伏丢牛又有新活了",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%98%BF%E4%BC%8F%E4%B8%A2%E7%89%9B%E5%8F%88%E6%9C%89%E6%96%B0%E6%B4%BB%E4%BA%86",
-      "hot_value": "991.5万",
+      "hot_value": "1,054万",
       "index": 13
     },
     {
       "title": "从一笔账单看60万亿消费KPI底气",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%8E%E4%B8%80%E7%AC%94%E8%B4%A6%E5%8D%95%E7%9C%8B60%E4%B8%87%E4%BA%BF%E6%B6%88%E8%B4%B9KPI%E5%BA%95%E6%B0%94",
-      "hot_value": "989.1万",
+      "hot_value": "1,049万",
       "index": 14
-    },
-    {
-      "title": "中国愿向哥提供人道主义救援救助",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E6%84%BF%E5%90%91%E5%93%A5%E6%8F%90%E4%BE%9B%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%95%91%E6%8F%B4%E6%95%91%E5%8A%A9",
-      "hot_value": "981.3万",
-      "index": 15
     },
     {
       "title": "叙利亚前总统被判死刑",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%99%E5%88%A9%E4%BA%9A%E5%89%8D%E6%80%BB%E7%BB%9F%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
-      "hot_value": "978.6万",
+      "hot_value": "1,046.4万",
+      "index": 15
+    },
+    {
+      "title": "日全食流星雨六星连珠同日上演",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E5%85%A8%E9%A3%9F%E6%B5%81%E6%98%9F%E9%9B%A8%E5%85%AD%E6%98%9F%E8%BF%9E%E7%8F%A0%E5%90%8C%E6%97%A5%E4%B8%8A%E6%BC%94",
+      "hot_value": "1,042.1万",
       "index": 16
     },
     {
-      "title": "812日全食中国看不到",
-      "url": "https://www.kuaishou.com/search/video?searchKey=812%E6%97%A5%E5%85%A8%E9%A3%9F%E4%B8%AD%E5%9B%BD%E7%9C%8B%E4%B8%8D%E5%88%B0",
-      "hot_value": "975.7万",
+      "title": "北京暴雨女子被困水中央",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E6%B0%B4%E4%B8%AD%E5%A4%AE",
+      "hot_value": "1,037.2万",
       "index": 17
-    },
-    {
-      "title": "邓紫棋演唱会出现预言家了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%87%BA%E7%8E%B0%E9%A2%84%E8%A8%80%E5%AE%B6%E4%BA%86",
-      "hot_value": "968.8万",
-      "index": 18
     },
     {
       "title": "河北暴雨",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8C%97%E6%9A%B4%E9%9B%A8",
-      "hot_value": "968.2万",
+      "hot_value": "1,035万",
+      "index": 18
+    },
+    {
+      "title": "812日全食中国看不到",
+      "url": "https://www.kuaishou.com/search/video?searchKey=812%E6%97%A5%E5%85%A8%E9%A3%9F%E4%B8%AD%E5%9B%BD%E7%9C%8B%E4%B8%8D%E5%88%B0",
+      "hot_value": "1,032.4万",
       "index": 19
     },
     {
       "title": "日全食途经格陵兰冰岛西班牙",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E5%85%A8%E9%A3%9F%E9%80%94%E7%BB%8F%E6%A0%BC%E9%99%B5%E5%85%B0%E5%86%B0%E5%B2%9B%E8%A5%BF%E7%8F%AD%E7%89%99",
-      "hot_value": "965.8万",
+      "hot_value": "1,029.5万",
       "index": 20
     },
     {
       "title": "哪吒获奖无人起立",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%93%AA%E5%90%92%E8%8E%B7%E5%A5%96%E6%97%A0%E4%BA%BA%E8%B5%B7%E7%AB%8B",
-      "hot_value": "963.8万",
+      "hot_value": "1,028万",
       "index": 21
     },
     {
-      "title": "日全食流星雨六星连珠同日上演",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E5%85%A8%E9%A3%9F%E6%B5%81%E6%98%9F%E9%9B%A8%E5%85%AD%E6%98%9F%E8%BF%9E%E7%8F%A0%E5%90%8C%E6%97%A5%E4%B8%8A%E6%BC%94",
-      "hot_value": "962.9万",
+      "title": "邓紫棋演唱会出现预言家了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%87%BA%E7%8E%B0%E9%A2%84%E8%A8%80%E5%AE%B6%E4%BA%86",
+      "hot_value": "1,026.4万",
       "index": 22
-    },
-    {
-      "title": "广西撞死四只鸡是什么梗",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%BF%E8%A5%BF%E6%92%9E%E6%AD%BB%E5%9B%9B%E5%8F%AA%E9%B8%A1%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
-      "hot_value": "958.7万",
-      "index": 23
-    },
-    {
-      "title": "广东告别30度夏天迎来38度秋天",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%BF%E4%B8%9C%E5%91%8A%E5%88%AB30%E5%BA%A6%E5%A4%8F%E5%A4%A9%E8%BF%8E%E6%9D%A538%E5%BA%A6%E7%A7%8B%E5%A4%A9",
-      "hot_value": "956.1万",
-      "index": 24
-    },
-    {
-      "title": "神之一手",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%89%8B",
-      "hot_value": "953.4万",
-      "index": 25
-    },
-    {
-      "title": "全国算力“一张网”加速成形",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%85%A8%E5%9B%BD%E7%AE%97%E5%8A%9B%E2%80%9C%E4%B8%80%E5%BC%A0%E7%BD%91%E2%80%9D%E5%8A%A0%E9%80%9F%E6%88%90%E5%BD%A2",
-      "hot_value": "950.8万",
-      "index": 26
     },
     {
       "title": "河北101岁父亲喊82岁儿子吃饭",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8C%97101%E5%B2%81%E7%88%B6%E4%BA%B2%E5%96%8A82%E5%B2%81%E5%84%BF%E5%AD%90%E5%90%83%E9%A5%AD",
-      "hot_value": "948.2万",
+      "hot_value": "1,024.2万",
+      "index": 23
+    },
+    {
+      "title": "神之一手",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%89%8B",
+      "hot_value": "1,021.6万",
+      "index": 24
+    },
+    {
+      "title": "广东告别30度夏天迎来38度秋天",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%BF%E4%B8%9C%E5%91%8A%E5%88%AB30%E5%BA%A6%E5%A4%8F%E5%A4%A9%E8%BF%8E%E6%9D%A538%E5%BA%A6%E7%A7%8B%E5%A4%A9",
+      "hot_value": "1,019.2万",
+      "index": 25
+    },
+    {
+      "title": "中国愿向哥提供人道主义救援救助",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E6%84%BF%E5%90%91%E5%93%A5%E6%8F%90%E4%BE%9B%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%95%91%E6%8F%B4%E6%95%91%E5%8A%A9",
+      "hot_value": "1,016.4万",
+      "index": 26
+    },
+    {
+      "title": "刘涛成妈祖人间代言",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%98%E6%B6%9B%E6%88%90%E5%A6%88%E7%A5%96%E4%BA%BA%E9%97%B4%E4%BB%A3%E8%A8%80",
+      "hot_value": "1,014万",
       "index": 27
     },
     {
       "title": "红米怎么越来越贵了",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BA%A2%E7%B1%B3%E6%80%8E%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5%E4%BA%86",
-      "hot_value": "945.8万",
+      "hot_value": "1,011.6万",
       "index": 28
     },
     {
-      "title": "开国上将萧华逝世41周年",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E5%9B%BD%E4%B8%8A%E5%B0%86%E8%90%A7%E5%8D%8E%E9%80%9D%E4%B8%9641%E5%91%A8%E5%B9%B4",
-      "hot_value": "942.9万",
+      "title": "日本男子踩断母亲肋骨致死",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%B8%A9%E6%96%AD%E6%AF%8D%E4%BA%B2%E8%82%8B%E9%AA%A8%E8%87%B4%E6%AD%BB",
+      "hot_value": "1,009.5万",
       "index": 29
     },
     {
-      "title": "广西公文包",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%BF%E8%A5%BF%E5%85%AC%E6%96%87%E5%8C%85",
-      "hot_value": "940.9万",
+      "title": "女子下载31个涉诈软件",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E4%B8%8B%E8%BD%BD31%E4%B8%AA%E6%B6%89%E8%AF%88%E8%BD%AF%E4%BB%B6",
+      "hot_value": "1,007.5万",
       "index": 30
     }
   ]
