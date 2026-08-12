@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-12T06:52:06Z",
+  "update_time": "2026-08-12T08:13:05Z",
   "platforms": [
     {
       "type": "weibo",
@@ -14,7 +14,8 @@
     {
       "type": "douyin",
       "name": "抖音热搜",
-      "count": 30
+      "count": 0,
+      "error": "HTTP Error 522: Origin Connection Time-out"
     },
     {
       "type": "bilibili",

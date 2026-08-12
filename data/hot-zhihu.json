@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-12T06:52:06Z",
+  "update_time": "2026-08-12T08:13:05Z",
   "count": 30,
   "list": [
     {
       "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
       "url": "https://www.zhihu.com/question/2070482846033121781",
-      "hot_value": "680 万热度",
+      "hot_value": "813 万热度",
       "index": 1
-    },
-    {
-      "title": "为什么国内大学都不愿意改善学生的住宿条件，比如四人间升级为双人间甚至单人间？",
-      "url": "https://www.zhihu.com/question/2036433829762691742",
-      "hot_value": "463 万热度",
-      "index": 2
-    },
-    {
-      "title": "曾被戏称为「狗剩」的国产龙芯，其 3A6000 出货量突破百万，这对国产 CPU 发展有何意义？",
-      "url": "https://www.zhihu.com/question/2070058112137140135",
-      "hot_value": "393 万热度",
-      "index": 3
     },
     {
       "title": "《影之刃零》正式开启预售，标准版 268 元，甄子丹出演核心角色，11 分钟实机视频全程高能，如何评价？",
       "url": "https://www.zhihu.com/question/2070811856655198163",
-      "hot_value": "329 万热度",
-      "index": 4
+      "hot_value": "483 万热度",
+      "index": 2
+    },
+    {
+      "title": "为什么国内大学都不愿意改善学生的住宿条件，比如四人间升级为双人间甚至单人间？",
+      "url": "https://www.zhihu.com/question/2036433829762691742",
+      "hot_value": "454 万热度",
+      "index": 3
     },
     {
       "title": "如何看待京东上大规模出现「李鬼」笔记本电脑？",
       "url": "https://www.zhihu.com/question/2070197481544201908",
-      "hot_value": "276 万热度",
+      "hot_value": "307 万热度",
+      "index": 4
+    },
+    {
+      "title": "曾被戏称为「狗剩」的国产龙芯，其 3A6000 出货量突破百万，这对国产 CPU 发展有何意义？",
+      "url": "https://www.zhihu.com/question/2070058112137140135",
+      "hot_value": "293 万热度",
       "index": 5
     },
     {
-      "title": "深圳大学拟拿出 5.3 亿元，买下整栋商品房给学生当宿舍，背后有哪些考量？买商品房当宿舍会成为趋势吗？",
-      "url": "https://www.zhihu.com/question/2070596779347916555",
-      "hot_value": "211 万热度",
+      "title": "你遇到的自助餐餐厅为了让顾客尽量少吃都采用了哪些措施？",
+      "url": "https://www.zhihu.com/question/48077715",
+      "hot_value": "244 万热度",
       "index": 6
     },
     {
       "title": "如何看待 C 罗社媒晒婚戒官宣与乔治娜正式完婚，相恋十年低调举办私密婚礼？",
       "url": "https://www.zhihu.com/question/2070785528971239908",
-      "hot_value": "208 万热度",
+      "hot_value": "242 万热度",
       "index": 7
     },
     {
-      "title": "普通人就算有钱，为什么慎重购买别墅？",
-      "url": "https://www.zhihu.com/question/2059460521213146058",
-      "hot_value": "190 万热度",
+      "title": "深圳大学拟拿出 5.3 亿元，买下整栋商品房给学生当宿舍，背后有哪些考量？买商品房当宿舍会成为趋势吗？",
+      "url": "https://www.zhihu.com/question/2070596779347916555",
+      "hot_value": "222 万热度",
       "index": 8
-    },
-    {
-      "title": "你遇到的自助餐餐厅为了让顾客尽量少吃都采用了哪些措施？",
-      "url": "https://www.zhihu.com/question/48077715",
-      "hot_value": "168 万热度",
-      "index": 9
-    },
-    {
-      "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-      "url": "https://www.zhihu.com/question/2070437867311174069",
-      "hot_value": "165 万热度",
-      "index": 10
-    },
-    {
-      "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
-      "url": "https://www.zhihu.com/question/2070445459840000945",
-      "hot_value": "162 万热度",
-      "index": 11
-    },
-    {
-      "title": "李嘉诚再抛售海外资产，估值最多为 166 亿港元，如何理解这一举动？长江实业为何频繁出售海外资产？",
-      "url": "https://www.zhihu.com/question/2070444805600047561",
-      "hot_value": "160 万热度",
-      "index": 12
-    },
-    {
-      "title": "7 月汽车销量前 10 仅卡罗拉锐放 1 款燃油车，吉利星愿、零跑 A10 等持续热销，燃油车还有多大生存空间？",
-      "url": "https://www.zhihu.com/question/2070540304348865265",
-      "hot_value": "153 万热度",
-      "index": 13
     },
     {
       "title": "赵一鸣牛肉干 64 元复称仅 17 元，店方称不知道为啥出错，暴露了哪些管理漏洞？消费者如何避免被坑？",
       "url": "https://www.zhihu.com/question/2070790151454684401",
-      "hot_value": "117 万热度",
+      "hot_value": "194 万热度",
+      "index": 9
+    },
+    {
+      "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
+      "url": "https://www.zhihu.com/question/2070445459840000945",
+      "hot_value": "174 万热度",
+      "index": 10
+    },
+    {
+      "title": "李嘉诚再抛售海外资产，估值最多为 166 亿港元，如何理解这一举动？长江实业为何频繁出售海外资产？",
+      "url": "https://www.zhihu.com/question/2070444805600047561",
+      "hot_value": "174 万热度",
+      "index": 11
+    },
+    {
+      "title": "7 月汽车销量前 10 仅卡罗拉锐放 1 款燃油车，吉利星愿、零跑 A10 等持续热销，燃油车还有多大生存空间？",
+      "url": "https://www.zhihu.com/question/2070540304348865265",
+      "hot_value": "165 万热度",
+      "index": 12
+    },
+    {
+      "title": "普通人就算有钱，为什么慎重购买别墅？",
+      "url": "https://www.zhihu.com/question/2059460521213146058",
+      "hot_value": "150 万热度",
+      "index": 13
+    },
+    {
+      "title": "家里只有自动挡汽车，却被家人劝着考 C1，「驾照能考全就考全」的观念现在还合理吗？",
+      "url": "https://www.zhihu.com/question/2065447455332758792",
+      "hot_value": "148 万热度",
       "index": 14
     },
     {
       "title": "暑期真的是学车的好时机吗？没有开车需求还有必要考驾照吗？",
       "url": "https://www.zhihu.com/roundtable/letsxuekaiche",
-      "hot_value": "114 万热度",
+      "hot_value": "142 万热度",
       "index": 15
     },
     {
       "title": "百万粉丝网红姜小柔去世，年仅 24 岁，还有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2070280309057263511",
-      "hot_value": "112 万热度",
+      "hot_value": "140 万热度",
       "index": 16
+    },
+    {
+      "title": "8 月 12 日河南发布暴雨红色预警，多地停课停工，安徽、浙江、河北等地有大暴雨，你那里情况怎么样？",
+      "url": "https://www.zhihu.com/question/2070779372970012693",
+      "hot_value": "137 万热度",
+      "index": 17
+    },
+    {
+      "title": "沈腾在电影《欢迎来龙餐馆》中从喜剧转型演正剧，如何评价其演技？",
+      "url": "https://www.zhihu.com/question/2069717502976962752",
+      "hot_value": "127 万热度",
+      "index": 18
     },
     {
       "title": "演员包文婧坦言二胎很难一碗水端平，毕竟和女儿相处更久，这种偏心是真实存在的吗？这种话该不该公开说出口？",
       "url": "https://www.zhihu.com/question/2069445513607213352",
       "hot_value": "110 万热度",
-      "index": 17
-    },
-    {
-      "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
-      "url": "https://www.zhihu.com/question/2070230480356634919",
-      "hot_value": "104 万热度",
-      "index": 18
-    },
-    {
-      "title": "家里只有自动挡汽车，却被家人劝着考 C1，「驾照能考全就考全」的观念现在还合理吗？",
-      "url": "https://www.zhihu.com/question/2065447455332758792",
-      "hot_value": "101 万热度",
       "index": 19
+    },
+    {
+      "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
+      "url": "https://www.zhihu.com/question/11742854315",
+      "hot_value": "110 万热度",
+      "index": 20
     },
     {
       "title": "今年「984.5 高校」升温了吗？报考这些新型研究型大学的优劣势都有哪些？",
       "url": "https://www.zhihu.com/question/2070509397264917490",
-      "hot_value": "100 万热度",
-      "index": 20
-    },
-    {
-      "title": "「人民艺术家」郭兰英逝世，享年 97 岁，代表作有《我的祖国》《南泥湾》等，她的哪些作品令你印象深刻？",
-      "url": "https://www.zhihu.com/question/2070707063454537374",
-      "hot_value": "99 万热度",
+      "hot_value": "109 万热度",
       "index": 21
     },
     {
-      "title": "沈腾在电影《欢迎来龙餐馆》中从喜剧转型演正剧，如何评价其演技？",
-      "url": "https://www.zhihu.com/question/2069717502976962752",
-      "hot_value": "97 万热度",
+      "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
+      "url": "https://www.zhihu.com/question/2070230480356634919",
+      "hot_value": "108 万热度",
       "index": 22
+    },
+    {
+      "title": "人类文明的齿轮每天都在滚滚前行，『人工智能』也越来越厉害了，未来黄金会不会被『AI』所淘汰呢？",
+      "url": "https://www.zhihu.com/question/2065896816831378482",
+      "hot_value": "101 万热度",
+      "index": 23
+    },
+    {
+      "title": "从《黑神话：悟空》到《影之刃零》，为啥国产 3A 游戏全都是 ARPG？",
+      "url": "https://www.zhihu.com/question/2070192668974624845",
+      "hot_value": "97 万热度",
+      "index": 24
     },
     {
       "title": "兰州公交规定，车辆能耗超出规定标准将扣除司机绩效工资，导致司机不敢开空调，把车辆能耗和绩效挂钩合理吗？",
       "url": "https://www.zhihu.com/question/2070496558580232566",
       "hot_value": "94 万热度",
-      "index": 23
-    },
-    {
-      "title": "如果可以任意住进一部影视剧里的家一年，你会选择谁的家？",
-      "url": "https://www.zhihu.com/question/2070215170434110147",
-      "hot_value": "76 万热度",
-      "index": 24
-    },
-    {
-      "title": "有什么建议给即将进入北大数院的大一新生？",
-      "url": "https://www.zhihu.com/question/2061765186898359124",
-      "hot_value": "75 万热度",
       "index": 25
-    },
-    {
-      "title": "从《黑神话：悟空》到《影之刃零》，为啥国产 3A 游戏全都是 ARPG？",
-      "url": "https://www.zhihu.com/question/2070192668974624845",
-      "hot_value": "71 万热度",
-      "index": 26
     },
     {
       "title": "厂商为何坚持氪金模式？",
       "url": "https://www.zhihu.com/question/2055993803325159271",
-      "hot_value": "71 万热度",
-      "index": 27
+      "hot_value": "72 万热度",
+      "index": 26
     },
     {
       "title": "暑假中，你会让孩子独自回老家跟外公外婆待一个月吗？",
       "url": "https://www.zhihu.com/question/2070098475115714475",
       "hot_value": "68 万热度",
+      "index": 27
+    },
+    {
+      "title": "如何评价 2026 年 8 月米哈游《原神》7.0 【至冬】大世界地图？",
+      "url": "https://www.zhihu.com/question/2070554826006599113",
+      "hot_value": "68 万热度",
       "index": 28
     },
     {
-      "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
-      "url": "https://www.zhihu.com/question/2070076711593406558",
-      "hot_value": "66 万热度",
+      "title": "拖延症真的是因为懒吗？心理学上有没有更深层的解释？",
+      "url": "https://www.zhihu.com/question/2061017808759154502",
+      "hot_value": "68 万热度",
       "index": 29
     },
     {
       "title": "有什么电视剧或电影情节让你感动？",
       "url": "https://www.zhihu.com/question/316585162",
-      "hot_value": "66 万热度",
+      "hot_value": "68 万热度",
       "index": 30
     }
   ]
