@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-11T23:10:43Z",
+  "update_time": "2026-08-12T00:06:17Z",
   "count": 30,
   "list": [
     {
       "title": "炸鸡店外卖爆单致店员压力大到崩溃痛哭，疑出现呼吸碱中毒现象，看完这一幕你想说什么？",
       "url": "https://www.zhihu.com/question/2070522643753563407",
-      "hot_value": "507 万热度",
+      "hot_value": "514 万热度",
       "index": 1
     },
     {
       "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
       "url": "https://www.zhihu.com/question/2070452772391194651",
-      "hot_value": "223 万热度",
+      "hot_value": "251 万热度",
       "index": 2
+    },
+    {
+      "title": "胖东来公布侵犯员工尊严案例，顾客驾车顶撞员工被行拘、掌掴员工被起诉，员工获上万元赔偿，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2070467817976210988",
+      "hot_value": "248 万热度",
+      "index": 3
     },
     {
       "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生？",
       "url": "https://www.zhihu.com/question/2070468397289009796",
-      "hot_value": "205 万热度",
-      "index": 3
-    },
-    {
-      "title": "今年百花奖王宝强 0 票，对此你的看法是什么？",
-      "url": "https://www.zhihu.com/question/2070427612044961729",
-      "hot_value": "193 万热度",
+      "hot_value": "207 万热度",
       "index": 4
     },
     {
       "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
       "url": "https://www.zhihu.com/question/2068955233896640772",
-      "hot_value": "170 万热度",
+      "hot_value": "205 万热度",
       "index": 5
-    },
-    {
-      "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
-      "url": "https://www.zhihu.com/question/2069887569639248076",
-      "hot_value": "160 万热度",
-      "index": 6
-    },
-    {
-      "title": "胖东来公布侵犯员工尊严案例，顾客驾车顶撞员工被行拘、掌掴员工被起诉，员工获上万元赔偿，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2070467817976210988",
-      "hot_value": "158 万热度",
-      "index": 7
     },
     {
       "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
       "url": "https://www.zhihu.com/question/2070437867311174069",
-      "hot_value": "146 万热度",
+      "hot_value": "168 万热度",
+      "index": 6
+    },
+    {
+      "title": "今年百花奖王宝强 0 票，对此你的看法是什么？",
+      "url": "https://www.zhihu.com/question/2070427612044961729",
+      "hot_value": "167 万热度",
+      "index": 7
+    },
+    {
+      "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
+      "url": "https://www.zhihu.com/question/2069887569639248076",
+      "hot_value": "144 万热度",
       "index": 8
     },
     {
       "title": "上海突如其来的大暴雨，市区很多路段全面积水，无法排出的原因是什么？",
       "url": "https://www.zhihu.com/question/2062262812324508088",
-      "hot_value": "127 万热度",
+      "hot_value": "118 万热度",
       "index": 9
     },
     {
       "title": "现在年轻人都很少主动考驾照了，未来还有必要人手一本驾照吗？",
       "url": "https://www.zhihu.com/question/2066668547292521975",
-      "hot_value": "125 万热度",
+      "hot_value": "113 万热度",
       "index": 10
     },
     {
-      "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
-      "url": "https://www.zhihu.com/question/2070450417981469090",
-      "hot_value": "125 万热度",
+      "title": "曝方文山长期婚内出轨，精神操控多位女性，方文山回应因筹拍网剧产生纠纷被投资方污蔑，具体啥情况？",
+      "url": "https://www.zhihu.com/question/2070481032956962155",
+      "hot_value": "112 万热度",
       "index": 11
-    },
-    {
-      "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2069387389651215691",
-      "hot_value": "125 万热度",
-      "index": 12
     },
     {
       "title": "演员贾冰参加朋友饭局被偷拍，网传视频中有爆粗口、抽烟喝酒等行为，是真的吗？为什么反而被网友力挺？",
       "url": "https://www.zhihu.com/question/2070108326516318471",
-      "hot_value": "124 万热度",
+      "hot_value": "112 万热度",
+      "index": 12
+    },
+    {
+      "title": "短剧演员自曝富婆带资进组演女主，给自己硬加 60 多场吻戏，短剧上线仅数日便被下架，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2069387389651215691",
+      "hot_value": "110 万热度",
       "index": 13
     },
     {
       "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
       "url": "https://www.zhihu.com/question/2070076711593406558",
-      "hot_value": "123 万热度",
+      "hot_value": "108 万热度",
       "index": 14
     },
     {
-      "title": "20 岁中国富二代在泰国被杀，嫌犯称在女友浴室看到他，还有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2069733970867122230",
-      "hot_value": "122 万热度",
+      "title": "东莞招教师将其称作「课时服务人员」，网友质疑老师变为服务者，如何看待这一称呼的转变？会弱化教师身份吗？",
+      "url": "https://www.zhihu.com/question/2070470862801737396",
+      "hot_value": "103 万热度",
       "index": 15
+    },
+    {
+      "title": "孕妇胎监异常被安排 4 天后手术结果胎儿死亡，医院 40 余次篡改病历，法院判医院赔偿 14 万，如何解读？",
+      "url": "https://www.zhihu.com/question/2070525080463828728",
+      "hot_value": "98 万热度",
+      "index": 16
+    },
+    {
+      "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+      "url": "https://www.zhihu.com/question/2070450417981469090",
+      "hot_value": "96 万热度",
+      "index": 17
+    },
+    {
+      "title": "丘成桐称「以好奇为基础的研究才算是真正的基础研究」，如何看待该观点？由好奇心驱动的研究能带来哪些惊喜？",
+      "url": "https://www.zhihu.com/question/2070165833758914438",
+      "hot_value": "93 万热度",
+      "index": 18
+    },
+    {
+      "title": "怎样评价高希希拍《江流不尽之三国时代》将参考《史记》？",
+      "url": "https://www.zhihu.com/question/2070283490218751936",
+      "hot_value": "89 万热度",
+      "index": 19
     },
     {
       "title": "16 岁少年强抱女友跳河自己上岸女友溺亡，凶手母亲包庇其 17 年，凶手及其家属可能受到哪些处罚？",
       "url": "https://www.zhihu.com/question/2070461199141920826",
-      "hot_value": "120 万热度",
-      "index": 16
-    },
-    {
-      "title": "张本兄妹同时包揽 WTT 横滨冠军赛单打冠军，会对国乒的霸主地位有影响吗？国乒到底怎么了？",
-      "url": "https://www.zhihu.com/question/2069914089296486954",
-      "hot_value": "118 万热度",
-      "index": 17
-    },
-    {
-      "title": "曝方文山长期婚内出轨，精神操控多位女性，方文山回应因筹拍网剧产生纠纷被投资方污蔑，具体啥情况？",
-      "url": "https://www.zhihu.com/question/2070481032956962155",
-      "hot_value": "114 万热度",
-      "index": 18
-    },
-    {
-      "title": "央视首次曝光 055 遵义舰演习遭潜艇伏击「击沉」，这一操作的意图是什么？算暴露 055 的短板吗？",
-      "url": "https://www.zhihu.com/question/2069804922732860138",
-      "hot_value": "93 万热度",
-      "index": 19
-    },
-    {
-      "title": "怎样评价高希希拍新新三国将参考《史记》？",
-      "url": "https://www.zhihu.com/question/2070283490218751936",
-      "hot_value": "78 万热度",
+      "hot_value": "79 万热度",
       "index": 20
     },
     {
       "title": "如何看待网红「巴旦木公主」晒结婚证官宣结婚？",
       "url": "https://www.zhihu.com/question/2070519082533614486",
-      "hot_value": "76 万热度",
+      "hot_value": "78 万热度",
       "index": 21
+    },
+    {
+      "title": "为什么国内大学都不愿意改善学生的住宿条件，比如四人间升级为双人间甚至单人间？",
+      "url": "https://www.zhihu.com/question/2036433829762691742",
+      "hot_value": "77 万热度",
+      "index": 22
     },
     {
       "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰？",
       "url": "https://www.zhihu.com/question/2068757535138566295",
       "hot_value": "73 万热度",
-      "index": 22
-    },
-    {
-      "title": "AI 短剧为什么一定会爆发？",
-      "url": "https://www.zhihu.com/question/1987278742163322100",
-      "hot_value": "70 万热度",
       "index": 23
     },
     {
-      "title": "为啥感觉麻辣烫越来越贵，而自助小火锅却在越卷越便宜？同样是汤煮菜，为啥会出现这样的差异？",
-      "url": "https://www.zhihu.com/question/2067711801098069791",
-      "hot_value": "69 万热度",
+      "title": "带孩子出去旅游，孩子真能「长见识」（哪怕一点点）还是说更多的是父母的自我感动？",
+      "url": "https://www.zhihu.com/question/2069894781304574341",
+      "hot_value": "73 万热度",
       "index": 24
-    },
-    {
-      "title": "据称美「爱国者」导弹库存不足 1700 枚，美国军工生产力为何短缺？可能对美伊战争有哪些影响？",
-      "url": "https://www.zhihu.com/question/2070161196481777853",
-      "hot_value": "69 万热度",
-      "index": 25
     },
     {
       "title": "分子模拟和计算化学领域科研是否只是用用软件，没必要掌握编程技术？",
       "url": "https://www.zhihu.com/question/270890878",
-      "hot_value": "68 万热度",
-      "index": 26
-    },
-    {
-      "title": "程序员应该卷业务逻辑还是应该卷底层技术?",
-      "url": "https://www.zhihu.com/question/1909728008983519421",
-      "hot_value": "67 万热度",
-      "index": 27
-    },
-    {
-      "title": "如何提高个人行动力？",
-      "url": "https://www.zhihu.com/question/2023709065998606868",
-      "hot_value": "67 万热度",
-      "index": 28
-    },
-    {
-      "title": "易烊千玺连续四届提名百花奖，终凭《小小的我》刘春和一角成 00 后首位百花影帝，如何评价他的表演？",
-      "url": "https://www.zhihu.com/question/2070253242945106599",
-      "hot_value": "66 万热度",
-      "index": 29
+      "hot_value": "69 万热度",
+      "index": 25
     },
     {
       "title": "神经网络反向传播算法本质是在解决什么问题？",
       "url": "https://www.zhihu.com/question/373841162",
-      "hot_value": "66 万热度",
+      "hot_value": "69 万热度",
+      "index": 26
+    },
+    {
+      "title": "给领导汇报工作，到底怎么说才靠谱、不挨批、效率高？",
+      "url": "https://www.zhihu.com/question/2062994453053363866",
+      "hot_value": "65 万热度",
+      "index": 27
+    },
+    {
+      "title": "为啥感觉麻辣烫越来越贵，而自助小火锅却在越卷越便宜？同样是汤煮菜，为啥会出现这样的差异？",
+      "url": "https://www.zhihu.com/question/2067711801098069791",
+      "hot_value": "63 万热度",
+      "index": 28
+    },
+    {
+      "title": "在什么样的家庭里，「扫地机器人」真的能用回本？",
+      "url": "https://www.zhihu.com/question/2070113922993087476",
+      "hot_value": "62 万热度",
+      "index": 29
+    },
+    {
+      "title": "入学后想把摄影当成一门用心经营的爱好，学摄影最难的到底是技术、审美、还是坚持？",
+      "url": "https://www.zhihu.com/question/2064385995101966548",
+      "hot_value": "62 万热度",
       "index": 30
     }
   ]
