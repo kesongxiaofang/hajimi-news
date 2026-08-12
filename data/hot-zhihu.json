@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-12T19:38:01Z",
+  "update_time": "2026-08-12T20:38:26Z",
   "count": 30,
   "list": [
     {
       "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
       "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
-      "hot_value": "2221 万热度",
+      "hot_value": "2205 万热度",
       "index": 1
     },
     {
       "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
       "url": "https://www.zhihu.com/question/2071014727606703118",
-      "hot_value": "1124 万热度",
+      "hot_value": "1111 万热度",
       "index": 2
     },
     {
       "title": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？",
       "url": "https://www.zhihu.com/question/2070066925363619123",
-      "hot_value": "376 万热度",
+      "hot_value": "357 万热度",
       "index": 3
-    },
-    {
-      "title": "上海、浙江等多地试点直升高中，部分学校改为十二年一贯制，怎样看待这种模式？中考的功能可能发生哪些变化？",
-      "url": "https://www.zhihu.com/question/2070815706040329689",
-      "hot_value": "262 万热度",
-      "index": 4
     },
     {
       "title": "黑洞的引力如此之大，连光都无法逃脱，那它内部的物质最终去了哪里？",
       "url": "https://www.zhihu.com/question/1943680908252148271",
-      "hot_value": "227 万热度",
+      "hot_value": "218 万热度",
+      "index": 4
+    },
+    {
+      "title": "上海、浙江等多地试点直升高中，部分学校改为十二年一贯制，怎样看待这种模式？中考的功能可能发生哪些变化？",
+      "url": "https://www.zhihu.com/question/2070815706040329689",
+      "hot_value": "217 万热度",
       "index": 5
     },
     {
       "title": "7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一，如何评价？",
       "url": "https://www.zhihu.com/question/2070807325699580723",
-      "hot_value": "183 万热度",
+      "hot_value": "180 万热度",
       "index": 6
-    },
-    {
-      "title": "如果城市允许骑马，且有公共马厩供马休息，你愿意骑马通勤吗？",
-      "url": "https://www.zhihu.com/question/2061806723862631112",
-      "hot_value": "146 万热度",
-      "index": 7
-    },
-    {
-      "title": "LPL2026 赛季第三赛段组内赛 BLG 1:2 JDG，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2070969819730536375",
-      "hot_value": "142 万热度",
-      "index": 8
     },
     {
       "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
       "url": "https://www.zhihu.com/question/2071019389479023642",
-      "hot_value": "137 万热度",
-      "index": 9
-    },
-    {
-      "title": "内蒙古一警车被指擅自更换车标，警方称正在整改，会面临哪些处罚？警车作为执法车辆为何会出现此类违规操作？",
-      "url": "https://www.zhihu.com/question/2070438924262929841",
-      "hot_value": "133 万热度",
-      "index": 10
-    },
-    {
-      "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
-      "url": "https://www.zhihu.com/question/2068356359494559541",
-      "hot_value": "133 万热度",
-      "index": 11
-    },
-    {
-      "title": "《王者荣耀世界》第二赛季无限期延期，官方补偿 6500 玄晶加 10 连抽，玩家会买账吗？",
-      "url": "https://www.zhihu.com/question/2070571923441034531",
-      "hot_value": "132 万热度",
-      "index": 12
+      "hot_value": "150 万热度",
+      "index": 7
     },
     {
       "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
       "url": "https://www.zhihu.com/question/2068973888067964954",
-      "hot_value": "131 万热度",
+      "hot_value": "128 万热度",
+      "index": 8
+    },
+    {
+      "title": "家庭资产几乎都在房子里，到底危险在哪？",
+      "url": "https://www.zhihu.com/question/2070454238250111565",
+      "hot_value": "126 万热度",
+      "index": 9
+    },
+    {
+      "title": "LPL2026 赛季第三赛段组内赛 BLG 1:2 JDG，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2070969819730536375",
+      "hot_value": "123 万热度",
+      "index": 10
+    },
+    {
+      "title": "《王者荣耀世界》第二赛季无限期延期，官方补偿 6500 玄晶加 10 连抽，玩家会买账吗？",
+      "url": "https://www.zhihu.com/question/2070571923441034531",
+      "hot_value": "121 万热度",
+      "index": 11
+    },
+    {
+      "title": "为什么有的人天生「精力旺盛」，有的人天生「低精力」？",
+      "url": "https://www.zhihu.com/question/2069144593418003411",
+      "hot_value": "119 万热度",
+      "index": 12
+    },
+    {
+      "title": "内蒙古一警车被指擅自更换车标，警方称正在整改，会面临哪些处罚？警车作为执法车辆为何会出现此类违规操作？",
+      "url": "https://www.zhihu.com/question/2070438924262929841",
+      "hot_value": "116 万热度",
       "index": 13
     },
     {
-      "title": "如何评价 2026 年 8 月米哈游《原神》7.0 至冬，死之执政若娜瓦戏份？",
-      "url": "https://www.zhihu.com/question/2070950459226034925",
-      "hot_value": "130 万热度",
+      "title": "如果城市允许骑马，且有公共马厩供马休息，你愿意骑马通勤吗？",
+      "url": "https://www.zhihu.com/question/2061806723862631112",
+      "hot_value": "114 万热度",
       "index": 14
     },
     {
       "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
       "url": "https://www.zhihu.com/question/2070810807168980648",
-      "hot_value": "129 万热度",
+      "hot_value": "114 万热度",
       "index": 15
     },
     {
-      "title": "家庭资产几乎都在房子里，到底危险在哪？",
-      "url": "https://www.zhihu.com/question/2070454238250111565",
-      "hot_value": "128 万热度",
+      "title": "如何评价 2026 年 8 月米哈游《原神》7.0 至冬，死之执政若娜瓦戏份？",
+      "url": "https://www.zhihu.com/question/2070950459226034925",
+      "hot_value": "113 万热度",
       "index": 16
-    },
-    {
-      "title": "为什么有的人天生「精力旺盛」，有的人天生「低精力」？",
-      "url": "https://www.zhihu.com/question/2069144593418003411",
-      "hot_value": "122 万热度",
-      "index": 17
-    },
-    {
-      "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
-      "url": "https://www.zhihu.com/question/11742854315",
-      "hot_value": "120 万热度",
-      "index": 18
-    },
-    {
-      "title": "腾讯发布二季度财报，上半年资本开支增长 82%，二季度达到 527.84 亿元，如何解读？",
-      "url": "https://www.zhihu.com/question/2070928873705791858",
-      "hot_value": "118 万热度",
-      "index": 19
     },
     {
       "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
       "url": "https://www.zhihu.com/question/2070508935673378471",
-      "hot_value": "115 万热度",
+      "hot_value": "113 万热度",
+      "index": 17
+    },
+    {
+      "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
+      "url": "https://www.zhihu.com/question/2070482846033121781",
+      "hot_value": "109 万热度",
+      "index": 18
+    },
+    {
+      "title": "为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？",
+      "url": "https://www.zhihu.com/question/2068356359494559541",
+      "hot_value": "107 万热度",
+      "index": 19
+    },
+    {
+      "title": "腾讯发布二季度财报，上半年资本开支增长 82%，二季度达到 527.84 亿元，如何解读？",
+      "url": "https://www.zhihu.com/question/2070928873705791858",
+      "hot_value": "105 万热度",
       "index": 20
     },
     {
       "title": "雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，这意味着什么？会带来什么改变？",
       "url": "https://www.zhihu.com/question/2070796946256519933",
-      "hot_value": "114 万热度",
+      "hot_value": "104 万热度",
       "index": 21
     },
     {
-      "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
-      "url": "https://www.zhihu.com/question/2070482846033121781",
-      "hot_value": "113 万热度",
+      "title": "如何看待媒体曝沃尔特 120 亿美元出售湖人，创历史记录？",
+      "url": "https://www.zhihu.com/question/2071009298574829246",
+      "hot_value": "104 万热度",
       "index": 22
     },
     {
       "title": "如何评价《一人之下》第 772 话预告？",
       "url": "https://www.zhihu.com/question/2070891658951005436",
-      "hot_value": "104 万热度",
+      "hot_value": "102 万热度",
       "index": 23
     },
     {
-      "title": "如何看待媒体曝沃尔特 120 亿美元出售湖人，创历史记录？",
-      "url": "https://www.zhihu.com/question/2071009298574829246",
-      "hot_value": "98 万热度",
+      "title": "我一个月挣 3000，有必要花时间去看《资治通鉴》这种书吗？看了又意义何在？",
+      "url": "https://www.zhihu.com/question/665158131",
+      "hot_value": "89 万热度",
       "index": 24
     },
     {
       "title": "为什么一些东北的朋友经常称「手机」为「电话」？",
       "url": "https://www.zhihu.com/question/2050334625361294869",
-      "hot_value": "97 万热度",
+      "hot_value": "88 万热度",
       "index": 25
-    },
-    {
-      "title": "我一个月挣 3000，有必要花时间去看《资治通鉴》这种书吗？看了又意义何在？",
-      "url": "https://www.zhihu.com/question/665158131",
-      "hot_value": "97 万热度",
-      "index": 26
     },
     {
       "title": "如何看待京东上大规模出现「李鬼」笔记本电脑？",
       "url": "https://www.zhihu.com/question/2070197481544201908",
-      "hot_value": "87 万热度",
+      "hot_value": "86 万热度",
+      "index": 26
+    },
+    {
+      "title": "网上说的按照雅思标准语法与外国人交流，真的会被调侃为「小莎士比亚」吗？",
+      "url": "https://www.zhihu.com/question/650095965",
+      "hot_value": "82 万热度",
       "index": 27
     },
     {
-      "title": "你认为川菜的麻辣是为了祛湿，还是为了掩盖食材不新鲜味道？",
-      "url": "https://www.zhihu.com/question/2065696591072203753",
-      "hot_value": "83 万热度",
+      "title": "如何评价鸣潮 3.6 版本前瞻?",
+      "url": "https://www.zhihu.com/question/2069203016696206106",
+      "hot_value": "79 万热度",
       "index": 28
     },
     {
       "title": "武大靖出任中国短道速滑队主教练，他有哪些优势？将面临哪些挑战？",
       "url": "https://www.zhihu.com/question/2070877052618781826",
-      "hot_value": "78 万热度",
+      "hot_value": "76 万热度",
       "index": 29
     },
     {
       "title": "准大一想问，大学老师最喜欢什么样的学生？",
       "url": "https://www.zhihu.com/question/2069510921865492378",
-      "hot_value": "73 万热度",
+      "hot_value": "72 万热度",
       "index": 30
     }
   ]
