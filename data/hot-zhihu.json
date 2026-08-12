@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-12T10:57:13Z",
+  "update_time": "2026-08-12T11:46:53Z",
   "count": 30,
   "list": [
     {
       "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
       "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
-      "hot_value": "1246 万热度",
+      "hot_value": "1193 万热度",
       "index": 1
     },
     {
       "title": "为什么国内大学都不愿意改善学生的住宿条件，比如四人间升级为双人间甚至单人间？",
       "url": "https://www.zhihu.com/question/2036433829762691742",
-      "hot_value": "309 万热度",
+      "hot_value": "265 万热度",
       "index": 2
-    },
-    {
-      "title": "曾被戏称为「狗剩」的国产龙芯，其 3A6000 出货量突破百万，这对国产 CPU 发展有何意义？",
-      "url": "https://www.zhihu.com/question/2070058112137140135",
-      "hot_value": "254 万热度",
-      "index": 3
     },
     {
       "title": "赵一鸣牛肉干 64 元复称仅 17 元，店方称不知道为啥出错，暴露了哪些管理漏洞？消费者如何避免被坑？",
       "url": "https://www.zhihu.com/question/2070790151454684401",
-      "hot_value": "247 万热度",
-      "index": 4
+      "hot_value": "264 万热度",
+      "index": 3
     },
     {
       "title": "家里只有自动挡汽车，却被家人劝着考 C1，「驾照能考全就考全」的观念现在还合理吗？",
       "url": "https://www.zhihu.com/question/2065447455332758792",
-      "hot_value": "231 万热度",
-      "index": 5
-    },
-    {
-      "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
-      "url": "https://www.zhihu.com/question/2070445459840000945",
-      "hot_value": "149 万热度",
-      "index": 6
+      "hot_value": "242 万热度",
+      "index": 4
     },
     {
       "title": "你遇到的自助餐餐厅为了让顾客尽量少吃都采用了哪些措施？",
       "url": "https://www.zhihu.com/question/48077715",
-      "hot_value": "147 万热度",
+      "hot_value": "138 万热度",
+      "index": 5
+    },
+    {
+      "title": "如果城市允许骑马，且有公共马厩供马休息，你愿意骑马通勤吗？",
+      "url": "https://www.zhihu.com/question/2061806723862631112",
+      "hot_value": "130 万热度",
+      "index": 6
+    },
+    {
+      "title": "上海、浙江等多地试点直升高中，部分学校改为十二年一贯制，怎样看待这种模式？中考的功能可能发生哪些变化？",
+      "url": "https://www.zhihu.com/question/2070815706040329689",
+      "hot_value": "129 万热度",
       "index": 7
     },
     {
       "title": "如何看待京东上大规模出现「李鬼」笔记本电脑？",
       "url": "https://www.zhihu.com/question/2070197481544201908",
-      "hot_value": "147 万热度",
+      "hot_value": "127 万热度",
       "index": 8
-    },
-    {
-      "title": "深圳大学拟拿出 5.3 亿元，买下整栋商品房给学生当宿舍，背后有哪些考量？买商品房当宿舍会成为趋势吗？",
-      "url": "https://www.zhihu.com/question/2070596779347916555",
-      "hot_value": "147 万热度",
-      "index": 9
-    },
-    {
-      "title": "8 月 12 日河南发布暴雨红色预警，多地停课停工，安徽、浙江、河北等地有大暴雨，你那里情况怎么样？",
-      "url": "https://www.zhihu.com/question/2070779372970012693",
-      "hot_value": "146 万热度",
-      "index": 10
-    },
-    {
-      "title": "7 月汽车销量前 10 仅卡罗拉锐放 1 款燃油车，吉利星愿、零跑 A10 等持续热销，燃油车还有多大生存空间？",
-      "url": "https://www.zhihu.com/question/2070540304348865265",
-      "hot_value": "142 万热度",
-      "index": 11
-    },
-    {
-      "title": "兰州公交规定，车辆能耗超出规定标准将扣除司机绩效工资，导致司机不敢开空调，把车辆能耗和绩效挂钩合理吗？",
-      "url": "https://www.zhihu.com/question/2070496558580232566",
-      "hot_value": "140 万热度",
-      "index": 12
-    },
-    {
-      "title": "上海、浙江等多地试点直升高中，部分学校改为十二年一贯制，怎样看待这种模式？中考的功能可能发生哪些变化？",
-      "url": "https://www.zhihu.com/question/2070815706040329689",
-      "hot_value": "136 万热度",
-      "index": 13
-    },
-    {
-      "title": "武侠世界的朝廷第一高手，为什么总是深宫里的公公，而不是统兵大将或御前侍卫?",
-      "url": "https://www.zhihu.com/question/2070449010746320771",
-      "hot_value": "116 万热度",
-      "index": 14
-    },
-    {
-      "title": "李嘉诚再抛售海外资产，估值最多为 166 亿港元，如何理解这一举动？长江实业为何频繁出售海外资产？",
-      "url": "https://www.zhihu.com/question/2070444805600047561",
-      "hot_value": "115 万热度",
-      "index": 15
-    },
-    {
-      "title": "为什么一些东北的朋友经常称「手机」为「电话」？",
-      "url": "https://www.zhihu.com/question/2050334625361294869",
-      "hot_value": "109 万热度",
-      "index": 16
-    },
-    {
-      "title": "黑洞的引力如此之大，连光都无法逃脱，那它内部的物质最终去了哪里？",
-      "url": "https://www.zhihu.com/question/1943680908252148271",
-      "hot_value": "108 万热度",
-      "index": 17
     },
     {
       "title": "你认为川菜的麻辣是为了祛湿，还是为了掩盖食材不新鲜味道？",
       "url": "https://www.zhihu.com/question/2065696591072203753",
-      "hot_value": "108 万热度",
-      "index": 18
+      "hot_value": "124 万热度",
+      "index": 9
+    },
+    {
+      "title": "李嘉诚再抛售海外资产，估值最多为 166 亿港元，如何理解这一举动？长江实业为何频繁出售海外资产？",
+      "url": "https://www.zhihu.com/question/2070444805600047561",
+      "hot_value": "123 万热度",
+      "index": 10
+    },
+    {
+      "title": "黑洞的引力如此之大，连光都无法逃脱，那它内部的物质最终去了哪里？",
+      "url": "https://www.zhihu.com/question/1943680908252148271",
+      "hot_value": "120 万热度",
+      "index": 11
+    },
+    {
+      "title": "武侠世界的朝廷第一高手，为什么总是深宫里的公公，而不是统兵大将或御前侍卫?",
+      "url": "https://www.zhihu.com/question/2070449010746320771",
+      "hot_value": "115 万热度",
+      "index": 12
+    },
+    {
+      "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
+      "url": "https://www.zhihu.com/question/2070230480356634919",
+      "hot_value": "113 万热度",
+      "index": 13
+    },
+    {
+      "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
+      "url": "https://www.zhihu.com/question/2070445459840000945",
+      "hot_value": "113 万热度",
+      "index": 14
+    },
+    {
+      "title": "7 月汽车销量前 10 仅卡罗拉锐放 1 款燃油车，吉利星愿、零跑 A10 等持续热销，燃油车还有多大生存空间？",
+      "url": "https://www.zhihu.com/question/2070540304348865265",
+      "hot_value": "111 万热度",
+      "index": 15
     },
     {
       "title": "雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，有哪些突破？会带来什么改变？",
       "url": "https://www.zhihu.com/question/2070796946256519933",
+      "hot_value": "110 万热度",
+      "index": 16
+    },
+    {
+      "title": "兰州公交规定，车辆能耗超出规定标准将扣除司机绩效工资，导致司机不敢开空调，把车辆能耗和绩效挂钩合理吗？",
+      "url": "https://www.zhihu.com/question/2070496558580232566",
       "hot_value": "108 万热度",
+      "index": 17
+    },
+    {
+      "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
+      "url": "https://www.zhihu.com/question/11742854315",
+      "hot_value": "106 万热度",
+      "index": 18
+    },
+    {
+      "title": "目前的 AI 技术是否具备证明著名数学猜想的能力？",
+      "url": "https://www.zhihu.com/question/2019858282664186054",
+      "hot_value": "105 万热度",
       "index": 19
     },
     {
-      "title": "星球的公转和自转速度那么快，为什么没有被摇匀？",
-      "url": "https://www.zhihu.com/question/1984892437014009024",
-      "hot_value": "108 万热度",
+      "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
+      "url": "https://www.zhihu.com/question/2068973888067964954",
+      "hot_value": "105 万热度",
       "index": 20
     },
     {
       "title": "从《黑神话：悟空》到《影之刃零》，为啥国产 3A 游戏全都是 ARPG？",
       "url": "https://www.zhihu.com/question/2070192668974624845",
-      "hot_value": "108 万热度",
+      "hot_value": "105 万热度",
       "index": 21
     },
     {
       "title": "《影之刃零》正式开启预售，标准版 268 元，甄子丹出演核心角色，11 分钟实机视频全程高能，如何评价？",
       "url": "https://www.zhihu.com/question/2070811856655198163",
-      "hot_value": "108 万热度",
+      "hot_value": "105 万热度",
       "index": 22
     },
     {
       "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？",
       "url": "https://www.zhihu.com/question/2070482846033121781",
-      "hot_value": "108 万热度",
+      "hot_value": "105 万热度",
       "index": 23
     },
     {
-      "title": "怎么评价现代拓扑凝聚态物理实验中关于「里程碑式发现」的证据及其可靠性问题？",
-      "url": "https://www.zhihu.com/question/1997000297327919341",
-      "hot_value": "108 万热度",
+      "title": "星球的公转和自转速度那么快，为什么没有被摇匀？",
+      "url": "https://www.zhihu.com/question/1984892437014009024",
+      "hot_value": "105 万热度",
       "index": 24
     },
     {
-      "title": "为什么液体可以完全浮在水上面，固体则必须被淹没一部分？",
-      "url": "https://www.zhihu.com/question/11742854315",
-      "hot_value": "108 万热度",
+      "title": "8 月 12 日河南发布暴雨红色预警，多地停课停工，安徽、浙江、河北等地有大暴雨，你那里情况怎么样？",
+      "url": "https://www.zhihu.com/question/2070779372970012693",
+      "hot_value": "105 万热度",
       "index": 25
-    },
-    {
-      "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
-      "url": "https://www.zhihu.com/question/2070230480356634919",
-      "hot_value": "108 万热度",
-      "index": 26
-    },
-    {
-      "title": "目前的 AI 技术是否具备证明著名数学猜想的能力？",
-      "url": "https://www.zhihu.com/question/2019858282664186054",
-      "hot_value": "102 万热度",
-      "index": 27
     },
     {
       "title": "求职者因已结案诉讼、仲裁记录背调被拒聘，背调信息的准确性谁来保证？打工人怎么才能不被背调「误伤」？",
       "url": "https://www.zhihu.com/question/2070535058113262043",
-      "hot_value": "91 万热度",
+      "hot_value": "103 万热度",
+      "index": 26
+    },
+    {
+      "title": "深圳大学拟拿出 5.3 亿元，买下整栋商品房给学生当宿舍，背后有哪些考量？买商品房当宿舍会成为趋势吗？",
+      "url": "https://www.zhihu.com/question/2070596779347916555",
+      "hot_value": "101 万热度",
+      "index": 27
+    },
+    {
+      "title": "五大热门国产中央空调实测真拆，谁才是真低频、猛高频，更符合中国家庭使用习惯的中央空调？",
+      "url": "https://www.zhihu.com/question/2070120422566278636",
+      "hot_value": "92 万热度",
       "index": 28
     },
     {
       "title": "今年「984.5 高校」升温了吗？报考这些新型研究型大学的优劣势都有哪些？",
       "url": "https://www.zhihu.com/question/2070509397264917490",
-      "hot_value": "90 万热度",
+      "hot_value": "88 万热度",
       "index": 29
     },
     {
-      "title": "五大热门国产中央空调实测真拆，谁才是真低频、猛高频，更符合中国家庭使用习惯的中央空调？",
-      "url": "https://www.zhihu.com/question/2070120422566278636",
-      "hot_value": "89 万热度",
+      "title": "为什么一些东北的朋友经常称「手机」为「电话」？",
+      "url": "https://www.zhihu.com/question/2050334625361294869",
+      "hot_value": "84 万热度",
       "index": 30
     }
   ]
