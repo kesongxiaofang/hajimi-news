@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-12T21:40:05Z",
+  "update_time": "2026-08-12T22:35:18Z",
   "count": 30,
   "list": [
     {
       "title": "山西运城才是旅行的宝藏地",
       "url": "https://www.douyin.com/search/%E5%B1%B1%E8%A5%BF%E8%BF%90%E5%9F%8E%E6%89%8D%E6%98%AF%E6%97%85%E8%A1%8C%E7%9A%84%E5%AE%9D%E8%97%8F%E5%9C%B0?type=general",
-      "hot_value": "10950622",
+      "hot_value": "11187838",
       "index": 1
     },
     {
       "title": "我国加快自然资源一张图建设",
       "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%8A%A0%E5%BF%AB%E8%87%AA%E7%84%B6%E8%B5%84%E6%BA%90%E4%B8%80%E5%BC%A0%E5%9B%BE%E5%BB%BA%E8%AE%BE?type=general",
-      "hot_value": "10896528",
+      "hot_value": "11059212",
       "index": 2
     },
     {
       "title": "沉浸式感受红山石林带来的震撼",
       "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%84%9F%E5%8F%97%E7%BA%A2%E5%B1%B1%E7%9F%B3%E6%9E%97%E5%B8%A6%E6%9D%A5%E7%9A%84%E9%9C%87%E6%92%BC?type=general",
-      "hot_value": "10829531",
+      "hot_value": "10836615",
       "index": 3
     },
     {
       "title": "新台风浪卡生成",
       "url": "https://www.douyin.com/search/%E6%96%B0%E5%8F%B0%E9%A3%8E%E6%B5%AA%E5%8D%A1%E7%94%9F%E6%88%90?type=general",
-      "hot_value": "10282546",
+      "hot_value": "10277895",
       "index": 4
     },
     {
       "title": "徒步人都有的一张照片",
       "url": "https://www.douyin.com/search/%E5%BE%92%E6%AD%A5%E4%BA%BA%E9%83%BD%E6%9C%89%E7%9A%84%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87?type=general",
-      "hot_value": "10196586",
+      "hot_value": "10264868",
       "index": 5
     },
     {
-      "title": "赵心童5:6不敌张安达",
-      "url": "https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A55%3A6%E4%B8%8D%E6%95%8C%E5%BC%A0%E5%AE%89%E8%BE%BE?type=general",
-      "hot_value": "8999887",
+      "title": "硬核运镜闯8D重庆太丝滑了",
+      "url": "https://www.douyin.com/search/%E7%A1%AC%E6%A0%B8%E8%BF%90%E9%95%9C%E9%97%AF8D%E9%87%8D%E5%BA%86%E5%A4%AA%E4%B8%9D%E6%BB%91%E4%BA%86?type=general",
+      "hot_value": "9030349",
       "index": 6
     },
     {
       "title": "中国裁军大使严正驳斥美方无端指责",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%86%9B%E5%A4%A7%E4%BD%BF%E4%B8%A5%E6%AD%A3%E9%A9%B3%E6%96%A5%E7%BE%8E%E6%96%B9%E6%97%A0%E7%AB%AF%E6%8C%87%E8%B4%A3?type=general",
-      "hot_value": "8822672",
+      "hot_value": "8826910",
       "index": 7
-    },
-    {
-      "title": "武大靖出任中国短道速滑队主教练",
-      "url": "https://www.douyin.com/search/%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%87%BA%E4%BB%BB%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83?type=general",
-      "hot_value": "8653348",
-      "index": 8
     },
     {
       "title": "15万亿元投资新机遇来了",
       "url": "https://www.douyin.com/search/15%E4%B8%87%E4%BA%BF%E5%85%83%E6%8A%95%E8%B5%84%E6%96%B0%E6%9C%BA%E9%81%87%E6%9D%A5%E4%BA%86?type=general",
-      "hot_value": "8520068",
+      "hot_value": "8742024",
+      "index": 8
+    },
+    {
+      "title": "赵心童5:6不敌张安达",
+      "url": "https://www.douyin.com/search/%E8%B5%B5%E5%BF%83%E7%AB%A55%3A6%E4%B8%8D%E6%95%8C%E5%BC%A0%E5%AE%89%E8%BE%BE?type=general",
+      "hot_value": "8636464",
       "index": 9
     },
     {
       "title": "一起追英仙座流星雨",
       "url": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E8%BF%BD%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8?type=general",
-      "hot_value": "8474560",
+      "hot_value": "8469762",
       "index": 10
     },
     {
-      "title": "穿搭改变环境",
-      "url": "https://www.douyin.com/search/%E7%A9%BF%E6%90%AD%E6%94%B9%E5%8F%98%E7%8E%AF%E5%A2%83?type=general",
-      "hot_value": "8348185",
+      "title": "原神7.0版本上线",
+      "url": "https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E7.0%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF?type=general",
+      "hot_value": "8264514",
       "index": 11
     },
     {
       "title": "上海安徽这些涉暴雨信息是谣言",
       "url": "https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E5%AE%89%E5%BE%BD%E8%BF%99%E4%BA%9B%E6%B6%89%E6%9A%B4%E9%9B%A8%E4%BF%A1%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80?type=general",
-      "hot_value": "8112647",
+      "hot_value": "7988899",
       "index": 12
+    },
+    {
+      "title": "穿搭改变环境",
+      "url": "https://www.douyin.com/search/%E7%A9%BF%E6%90%AD%E6%94%B9%E5%8F%98%E7%8E%AF%E5%A2%83?type=general",
+      "hot_value": "7844290",
+      "index": 13
     },
     {
       "title": "英仙座流星雨将迎来极大",
       "url": "https://www.douyin.com/search/%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9E%81%E5%A4%A7?type=general",
-      "hot_value": "7812147",
-      "index": 13
-    },
-    {
-      "title": "白海豚停编为何内陆降雨这么强",
-      "url": "https://www.douyin.com/search/%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%81%9C%E7%BC%96%E4%B8%BA%E4%BD%95%E5%86%85%E9%99%86%E9%99%8D%E9%9B%A8%E8%BF%99%E4%B9%88%E5%BC%BA?type=general",
-      "hot_value": "7792016",
+      "hot_value": "7750856",
       "index": 14
     },
     {
       "title": "央行将开展隔夜逆回购操作",
       "url": "https://www.douyin.com/search/%E5%A4%AE%E8%A1%8C%E5%B0%86%E5%BC%80%E5%B1%95%E9%9A%94%E5%A4%9C%E9%80%86%E5%9B%9E%E8%B4%AD%E6%93%8D%E4%BD%9C?type=general",
-      "hot_value": "7762014",
+      "hot_value": "7733563",
       "index": 15
-    },
-    {
-      "title": "杰伦格林抖音海选球迷太夯了",
-      "url": "https://www.douyin.com/search/%E6%9D%B0%E4%BC%A6%E6%A0%BC%E6%9E%97%E6%8A%96%E9%9F%B3%E6%B5%B7%E9%80%89%E7%90%83%E8%BF%B7%E5%A4%AA%E5%A4%AF%E4%BA%86?type=general",
-      "hot_value": "7739725",
-      "index": 16
     },
     {
       "title": "没有花一开始就是一朵花",
       "url": "https://www.douyin.com/search/%E6%B2%A1%E6%9C%89%E8%8A%B1%E4%B8%80%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%98%AF%E4%B8%80%E6%9C%B5%E8%8A%B1?type=general",
-      "hot_value": "7728020",
+      "hot_value": "7713953",
+      "index": 16
+    },
+    {
+      "title": "白海豚停编为何内陆降雨这么强",
+      "url": "https://www.douyin.com/search/%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%81%9C%E7%BC%96%E4%B8%BA%E4%BD%95%E5%86%85%E9%99%86%E9%99%8D%E9%9B%A8%E8%BF%99%E4%B9%88%E5%BC%BA?type=general",
+      "hot_value": "7713463",
       "index": 17
     },
     {
-      "title": "郭兰英经典作品回顾",
-      "url": "https://www.douyin.com/search/%E9%83%AD%E5%85%B0%E8%8B%B1%E7%BB%8F%E5%85%B8%E4%BD%9C%E5%93%81%E5%9B%9E%E9%A1%BE?type=general",
-      "hot_value": "7726898",
+      "title": "武大靖出任中国短道速滑队主教练",
+      "url": "https://www.douyin.com/search/%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%87%BA%E4%BB%BB%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83?type=general",
+      "hot_value": "7695871",
       "index": 18
-    },
-    {
-      "title": "原神7.0版本上线",
-      "url": "https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E7.0%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF?type=general",
-      "hot_value": "7711728",
-      "index": 19
     },
     {
       "title": "李玉刚发文悼念郭兰英",
       "url": "https://www.douyin.com/search/%E6%9D%8E%E7%8E%89%E5%88%9A%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E9%83%AD%E5%85%B0%E8%8B%B1?type=general",
-      "hot_value": "7702113",
+      "hot_value": "7682536",
+      "index": 19
+    },
+    {
+      "title": "英伟达最新开源大模型上线",
+      "url": "https://www.douyin.com/search/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%80%E6%96%B0%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8A%E7%BA%BF?type=general",
+      "hot_value": "7680406",
       "index": 20
     },
     {
       "title": "手瓦莲花套将上线",
       "url": "https://www.douyin.com/search/%E6%89%8B%E7%93%A6%E8%8E%B2%E8%8A%B1%E5%A5%97%E5%B0%86%E4%B8%8A%E7%BA%BF?type=general",
-      "hot_value": "7697231",
+      "hot_value": "7679881",
       "index": 21
     },
     {
-      "title": "感动千万网友的搬瓜少年后续",
-      "url": "https://www.douyin.com/search/%E6%84%9F%E5%8A%A8%E5%8D%83%E4%B8%87%E7%BD%91%E5%8F%8B%E7%9A%84%E6%90%AC%E7%93%9C%E5%B0%91%E5%B9%B4%E5%90%8E%E7%BB%AD?type=general",
-      "hot_value": "7683548",
+      "title": "就把我的吉他带走吧",
+      "url": "https://www.douyin.com/search/%E5%B0%B1%E6%8A%8A%E6%88%91%E7%9A%84%E5%90%89%E4%BB%96%E5%B8%A6%E8%B5%B0%E5%90%A7?type=general",
+      "hot_value": "7671273",
       "index": 22
     },
     {
       "title": "这下七夕你总满意了吧",
       "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%8B%E4%B8%83%E5%A4%95%E4%BD%A0%E6%80%BB%E6%BB%A1%E6%84%8F%E4%BA%86%E5%90%A7?type=general",
-      "hot_value": "7672514",
+      "hot_value": "7666942",
       "index": 23
-    },
-    {
-      "title": "唱最拽的歌吐最萌的泡泡",
-      "url": "https://www.douyin.com/search/%E5%94%B1%E6%9C%80%E6%8B%BD%E7%9A%84%E6%AD%8C%E5%90%90%E6%9C%80%E8%90%8C%E7%9A%84%E6%B3%A1%E6%B3%A1?type=general",
-      "hot_value": "7670887",
-      "index": 24
     },
     {
       "title": "双枪在手怎么颜色还全打错了",
       "url": "https://www.douyin.com/search/%E5%8F%8C%E6%9E%AA%E5%9C%A8%E6%89%8B%E6%80%8E%E4%B9%88%E9%A2%9C%E8%89%B2%E8%BF%98%E5%85%A8%E6%89%93%E9%94%99%E4%BA%86?type=general",
-      "hot_value": "7663736",
+      "hot_value": "7657164",
+      "index": 24
+    },
+    {
+      "title": "唱最拽的歌吐最萌的泡泡",
+      "url": "https://www.douyin.com/search/%E5%94%B1%E6%9C%80%E6%8B%BD%E7%9A%84%E6%AD%8C%E5%90%90%E6%9C%80%E8%90%8C%E7%9A%84%E6%B3%A1%E6%B3%A1?type=general",
+      "hot_value": "7657135",
       "index": 25
     },
     {
       "title": "向流星许个愿",
       "url": "https://www.douyin.com/search/%E5%90%91%E6%B5%81%E6%98%9F%E8%AE%B8%E4%B8%AA%E6%84%BF?type=general",
-      "hot_value": "7658613",
+      "hot_value": "7655976",
       "index": 26
     },
     {
       "title": "英仙座流星雨观赏攻略",
       "url": "https://www.douyin.com/search/%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8%E8%A7%82%E8%B5%8F%E6%94%BB%E7%95%A5?type=general",
-      "hot_value": "7657853",
+      "hot_value": "7655146",
       "index": 27
+    },
+    {
+      "title": "万万没想到飞刀之神这么好当",
+      "url": "https://www.douyin.com/search/%E4%B8%87%E4%B8%87%E6%B2%A1%E6%83%B3%E5%88%B0%E9%A3%9E%E5%88%80%E4%B9%8B%E7%A5%9E%E8%BF%99%E4%B9%88%E5%A5%BD%E5%BD%93?type=general",
+      "hot_value": "7654468",
+      "index": 28
+    },
+    {
+      "title": "感动千万网友的搬瓜少年后续",
+      "url": "https://www.douyin.com/search/%E6%84%9F%E5%8A%A8%E5%8D%83%E4%B8%87%E7%BD%91%E5%8F%8B%E7%9A%84%E6%90%AC%E7%93%9C%E5%B0%91%E5%B9%B4%E5%90%8E%E7%BB%AD?type=general",
+      "hot_value": "7654386",
+      "index": 29
     },
     {
       "title": "甄子丹参演影之刃零",
       "url": "https://www.douyin.com/search/%E7%94%84%E5%AD%90%E4%B8%B9%E5%8F%82%E6%BC%94%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6?type=general",
-      "hot_value": "7656652",
-      "index": 28
-    },
-    {
-      "title": "就把我的吉他带走吧",
-      "url": "https://www.douyin.com/search/%E5%B0%B1%E6%8A%8A%E6%88%91%E7%9A%84%E5%90%89%E4%BB%96%E5%B8%A6%E8%B5%B0%E5%90%A7?type=general",
-      "hot_value": "7655786",
-      "index": 29
-    },
-    {
-      "title": "眉钉火焰特效谁用谁痞帅",
-      "url": "https://www.douyin.com/search/%E7%9C%89%E9%92%89%E7%81%AB%E7%84%B0%E7%89%B9%E6%95%88%E8%B0%81%E7%94%A8%E8%B0%81%E7%97%9E%E5%B8%85?type=general",
-      "hot_value": "7654964",
+      "hot_value": "7648606",
       "index": 30
     }
   ]
