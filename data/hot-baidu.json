@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-08-12T12:58:19Z",
+  "update_time": "2026-08-12T14:21:39Z",
   "count": 30,
   "list": [
     {
       "title": "总书记强调统筹好这几对重要关系",
       "url": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%BA%E8%B0%83%E7%BB%9F%E7%AD%B9%E5%A5%BD%E8%BF%99%E5%87%A0%E5%AF%B9%E9%87%8D%E8%A6%81%E5%85%B3%E7%B3%BB&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904430",
+      "hot_value": "7904845",
       "index": 1
     },
     {
       "title": "朱镕基同志逝世",
       "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7809263",
+      "hot_value": "7809774",
       "index": 2
     },
     {
       "title": "朱镕基同志永垂不朽",
       "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E6%B0%B8%E5%9E%82%E4%B8%8D%E6%9C%BD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7712092",
+      "hot_value": "7711801",
       "index": 3
     },
     {
       "title": "第一视角从中国空间站看地球",
       "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E4%BB%8E%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%9C%8B%E5%9C%B0%E7%90%83&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7616474",
+      "hot_value": "7618553",
       "index": 4
     },
     {
       "title": "朱镕基同志遗像",
       "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E5%83%8F&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7521084",
+      "hot_value": "7519823",
       "index": 5
     },
     {
       "title": "新闻联播播报：朱镕基同志逝世",
       "url": "https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%92%AD%E6%8A%A5%EF%BC%9A%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7424872",
+      "hot_value": "7424384",
       "index": 6
     },
     {
       "title": "成都一面馆老板松弛感营业火爆全网",
       "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF%E6%9D%BE%E5%BC%9B%E6%84%9F%E8%90%A5%E4%B8%9A%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7328723",
+      "hot_value": "7331930",
       "index": 7
     },
     {
-      "title": "被薅怕了的酒店开始往死里防",
-      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E8%96%85%E6%80%95%E4%BA%86%E7%9A%84%E9%85%92%E5%BA%97%E5%BC%80%E5%A7%8B%E5%BE%80%E6%AD%BB%E9%87%8C%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7232614",
+      "title": "英仙座流星雨",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7234026",
       "index": 8
     },
     {
       "title": "中国市场不再是BBA的提款机",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%B8%8D%E5%86%8D%E6%98%AFBBA%E7%9A%84%E6%8F%90%E6%AC%BE%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7140959",
+      "hot_value": "7136749",
       "index": 9
     },
     {
-      "title": "掉队的格力困在“舒适区”里",
-      "url": "https://www.baidu.com/s?wd=%E6%8E%89%E9%98%9F%E7%9A%84%E6%A0%BC%E5%8A%9B%E5%9B%B0%E5%9C%A8%E2%80%9C%E8%88%92%E9%80%82%E5%8C%BA%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7043422",
+      "title": "荣耀发布首款机器人手机 9999元起售",
+      "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7045354",
       "index": 10
     },
     {
-      "title": "“摸到国徽了 我才不害怕”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%91%B8%E5%88%B0%E5%9B%BD%E5%BE%BD%E4%BA%86+%E6%88%91%E6%89%8D%E4%B8%8D%E5%AE%B3%E6%80%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6952843",
+      "title": "中方回应“中印边境是否发生新事件”",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B8%AD%E5%8D%B0%E8%BE%B9%E5%A2%83%E6%98%AF%E5%90%A6%E5%8F%91%E7%94%9F%E6%96%B0%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6949047",
       "index": 11
     },
     {
       "title": "看昌小e怎么破解网络谣言",
       "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E6%98%8C%E5%B0%8Fe%E6%80%8E%E4%B9%88%E7%A0%B4%E8%A7%A3%E7%BD%91%E7%BB%9C%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6856538",
+      "hot_value": "6856088",
       "index": 12
-    },
-    {
-      "title": "赵一鸣4块牛肉干64元 复称仅17元",
-      "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%80%E9%B8%A34%E5%9D%97%E7%89%9B%E8%82%89%E5%B9%B264%E5%85%83+%E5%A4%8D%E7%A7%B0%E4%BB%8517%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6763207",
-      "index": 13
     },
     {
       "title": "男子听老婆话彩票中645万",
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%AC%E8%80%81%E5%A9%86%E8%AF%9D%E5%BD%A9%E7%A5%A8%E4%B8%AD645%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6667271",
+      "hot_value": "6761665",
+      "index": 13
+    },
+    {
+      "title": "幼童趁母亲熟睡爬出17楼窗户",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%BC%E7%AB%A5%E8%B6%81%E6%AF%8D%E4%BA%B2%E7%86%9F%E7%9D%A1%E7%88%AC%E5%87%BA17%E6%A5%BC%E7%AA%97%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6660758",
       "index": 14
     },
     {
-      "title": "“今天歼-10C 昨天歼-20”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%A4%A9%E6%AD%BC-10C+%E6%98%A8%E5%A4%A9%E6%AD%BC-20%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6572446",
+      "title": "男子婚宴后醉驾撞树身亡家属索赔20万",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%A9%9A%E5%AE%B4%E5%90%8E%E9%86%89%E9%A9%BE%E6%92%9E%E6%A0%91%E8%BA%AB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9420%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6569877",
       "index": 15
     },
     {
-      "title": "肖国栋vs墨菲",
-      "url": "https://www.baidu.com/s?wd=%E8%82%96%E5%9B%BD%E6%A0%8Bvs%E5%A2%A8%E8%8F%B2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6463603",
+      "title": "北京全市大雨到暴雨 8区现大暴雨",
+      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%85%A8%E5%B8%82%E5%A4%A7%E9%9B%A8%E5%88%B0%E6%9A%B4%E9%9B%A8+8%E5%8C%BA%E7%8E%B0%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6474151",
       "index": 16
     },
     {
-      "title": "外交部回应有关国家影射中方导弹试射",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9C%89%E5%85%B3%E5%9B%BD%E5%AE%B6%E5%BD%B1%E5%B0%84%E4%B8%AD%E6%96%B9%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6369041",
+      "title": "“摸到国徽了 我才不害怕”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%91%B8%E5%88%B0%E5%9B%BD%E5%BE%BD%E4%BA%86+%E6%88%91%E6%89%8D%E4%B8%8D%E5%AE%B3%E6%80%95%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6377181",
       "index": 17
     },
     {
       "title": "李晨等明星“亮证”直播卖保险",
       "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E6%99%A8%E7%AD%89%E6%98%8E%E6%98%9F%E2%80%9C%E4%BA%AE%E8%AF%81%E2%80%9D%E7%9B%B4%E6%92%AD%E5%8D%96%E4%BF%9D%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6281824",
+      "hot_value": "6286685",
       "index": 18
     },
     {
-      "title": "幼童趁母亲熟睡爬出17楼窗户",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BC%E7%AB%A5%E8%B6%81%E6%AF%8D%E4%BA%B2%E7%86%9F%E7%9D%A1%E7%88%AC%E5%87%BA17%E6%A5%BC%E7%AA%97%E6%88%B7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6185893",
+      "title": "泰国失联女孩发作品称已回国引质疑",
+      "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%8F%91%E4%BD%9C%E5%93%81%E7%A7%B0%E5%B7%B2%E5%9B%9E%E5%9B%BD%E5%BC%95%E8%B4%A8%E7%96%91&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6180795",
       "index": 19
     },
     {
-      "title": "黄金剪开里面竟是钨芯 警方抓9人",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%89%AA%E5%BC%80%E9%87%8C%E9%9D%A2%E7%AB%9F%E6%98%AF%E9%92%A8%E8%8A%AF+%E8%AD%A6%E6%96%B9%E6%8A%939%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6089393",
+      "title": "河南信阳升级发布暴雨红色预警",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%BF%A1%E9%98%B3%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6097569",
       "index": 20
     },
     {
-      "title": "北京解除暴雨橙色预警",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%A7%A3%E9%99%A4%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5982684",
+      "title": "“今天歼-10C 昨天歼-20”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%A4%A9%E6%AD%BC-10C+%E6%98%A8%E5%A4%A9%E6%AD%BC-20%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5999676",
       "index": 21
+    },
+    {
+      "title": "肖国栋vs墨菲",
+      "url": "https://www.baidu.com/s?wd=%E8%82%96%E5%9B%BD%E6%A0%8Bvs%E5%A2%A8%E8%8F%B2&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5906210",
+      "index": 22
     },
     {
       "title": "举报哥哥冒名上大学 弟弟最新发声",
       "url": "https://www.baidu.com/s?wd=%E4%B8%BE%E6%8A%A5%E5%93%A5%E5%93%A5%E5%86%92%E5%90%8D%E4%B8%8A%E5%A4%A7%E5%AD%A6+%E5%BC%9F%E5%BC%9F%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5899318",
-      "index": 22
-    },
-    {
-      "title": "印度和越南也催生了 发钱鼓励生育",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%92%8C%E8%B6%8A%E5%8D%97%E4%B9%9F%E5%82%AC%E7%94%9F%E4%BA%86+%E5%8F%91%E9%92%B1%E9%BC%93%E5%8A%B1%E7%94%9F%E8%82%B2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5812626",
+      "hot_value": "5798847",
       "index": 23
     },
     {
-      "title": "李宁否认签约法国球星姆巴佩",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%81%E5%90%A6%E8%AE%A4%E7%AD%BE%E7%BA%A6%E6%B3%95%E5%9B%BD%E7%90%83%E6%98%9F%E5%A7%86%E5%B7%B4%E4%BD%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5714031",
+      "title": "被薅怕了的酒店开始往死里防",
+      "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E8%96%85%E6%80%95%E4%BA%86%E7%9A%84%E9%85%92%E5%BA%97%E5%BC%80%E5%A7%8B%E5%BE%80%E6%AD%BB%E9%87%8C%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5706709",
       "index": 24
     },
     {
-      "title": "上半年结婚登记327.5万对",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0327.5%E4%B8%87%E5%AF%B9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5612937",
+      "title": "新能源汽车迎来两个“首次”突破",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5617726",
       "index": 25
     },
     {
-      "title": "车门打开他冲进雨里的一幕太帅了",
-      "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E9%97%A8%E6%89%93%E5%BC%80%E4%BB%96%E5%86%B2%E8%BF%9B%E9%9B%A8%E9%87%8C%E7%9A%84%E4%B8%80%E5%B9%95%E5%A4%AA%E5%B8%85%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5502123",
+      "title": "掉队的格力困在“舒适区”里",
+      "url": "https://www.baidu.com/s?wd=%E6%8E%89%E9%98%9F%E7%9A%84%E6%A0%BC%E5%8A%9B%E5%9B%B0%E5%9C%A8%E2%80%9C%E8%88%92%E9%80%82%E5%8C%BA%E2%80%9D%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5522013",
       "index": 26
     },
     {
-      "title": "C919圆满完成首次国际商业航班飞行",
-      "url": "https://www.baidu.com/s?wd=C919%E5%9C%86%E6%BB%A1%E5%AE%8C%E6%88%90%E9%A6%96%E6%AC%A1%E5%9B%BD%E9%99%85%E5%95%86%E4%B8%9A%E8%88%AA%E7%8F%AD%E9%A3%9E%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5426490",
+      "title": "弃量保价的保时捷成为不了法拉利",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%83%E9%87%8F%E4%BF%9D%E4%BB%B7%E7%9A%84%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%88%90%E4%B8%BA%E4%B8%8D%E4%BA%86%E6%B3%95%E6%8B%89%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5407642",
       "index": 27
-    },
-    {
-      "title": "黑龙江一国道上有多人驾轮椅行驶",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%9B%BD%E9%81%93%E4%B8%8A%E6%9C%89%E5%A4%9A%E4%BA%BA%E9%A9%BE%E8%BD%AE%E6%A4%85%E8%A1%8C%E9%A9%B6&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5335701",
-      "index": 28
     },
     {
       "title": "天坛公园保洁用海绵吸地上的水引热议",
       "url": "https://www.baidu.com/s?wd=%E5%A4%A9%E5%9D%9B%E5%85%AC%E5%9B%AD%E4%BF%9D%E6%B4%81%E7%94%A8%E6%B5%B7%E7%BB%B5%E5%90%B8%E5%9C%B0%E4%B8%8A%E7%9A%84%E6%B0%B4%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5216948",
+      "hot_value": "5331639",
+      "index": 28
+    },
+    {
+      "title": "车门打开他冲进雨里的一幕太帅了",
+      "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E9%97%A8%E6%89%93%E5%BC%80%E4%BB%96%E5%86%B2%E8%BF%9B%E9%9B%A8%E9%87%8C%E7%9A%84%E4%B8%80%E5%B9%95%E5%A4%AA%E5%B8%85%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5239825",
       "index": 29
     },
     {
-      "title": "女子花3.6万找名医隆鼻 医院却倒了",
-      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B13.6%E4%B8%87%E6%89%BE%E5%90%8D%E5%8C%BB%E9%9A%86%E9%BC%BB+%E5%8C%BB%E9%99%A2%E5%8D%B4%E5%80%92%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5127101",
+      "title": "C919圆满完成首次国际商业航班飞行",
+      "url": "https://www.baidu.com/s?wd=C919%E5%9C%86%E6%BB%A1%E5%AE%8C%E6%88%90%E9%A6%96%E6%AC%A1%E5%9B%BD%E9%99%85%E5%95%86%E4%B8%9A%E8%88%AA%E7%8F%AD%E9%A3%9E%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5138892",
       "index": 30
     }
   ]
