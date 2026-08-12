@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-12T15:28:41Z",
+  "update_time": "2026-08-12T16:26:58Z",
   "count": 30,
   "list": [
     {
-      "title": "《顽童戏老叟》",
-      "url": "https://www.bilibili.com/video/BV1EAuk6CEfw",
-      "hot_value": "3610682播放",
+      "title": "《影之刃零》预购开启，11分钟实机预告公开",
+      "url": "https://www.bilibili.com/video/BV1Hmuv68EWW",
+      "hot_value": "5162620播放",
       "index": 1
     },
     {
-      "title": "《影之刃零》预购开启，11分钟实机预告公开",
-      "url": "https://www.bilibili.com/video/BV1Hmuv68EWW",
-      "hot_value": "4947756播放",
+      "title": "《顽童戏老叟》",
+      "url": "https://www.bilibili.com/video/BV1EAuk6CEfw",
+      "hot_value": "3856682播放",
       "index": 2
     },
     {
       "title": "百米赛道高难度闯关、只有上过的才知道含金量有多高！",
       "url": "https://www.bilibili.com/video/BV1G2uo66E2J",
-      "hot_value": "2198186播放",
+      "hot_value": "2313019播放",
       "index": 3
-    },
-    {
-      "title": "血糖真相：高血糖是如何钝刀割肉，腐蚀数亿人的血管和神经的？",
-      "url": "https://www.bilibili.com/video/BV1jPgG6xEJw",
-      "hot_value": "330451播放",
-      "index": 4
     },
     {
       "title": "这视频等了五年！",
       "url": "https://www.bilibili.com/video/BV17WgV6hEdX",
-      "hot_value": "684389播放",
-      "index": 5
+      "hot_value": "767448播放",
+      "index": 4
     },
     {
       "title": "2026和平精英刺激之夜完整高清回放",
       "url": "https://www.bilibili.com/video/BV1ffuU6bEHj",
-      "hot_value": "9313023播放",
-      "index": 6
-    },
-    {
-      "title": "【TF家族练习生】《突围II破局》EP07：加更",
-      "url": "https://www.bilibili.com/video/BV1PYg56VEE2",
-      "hot_value": "644760播放",
-      "index": 7
-    },
-    {
-      "title": "船新版本新宝岛！这个联动怎么说？",
-      "url": "https://www.bilibili.com/video/BV1mJuB6jEDj",
-      "hot_value": "2958607播放",
-      "index": 8
-    },
-    {
-      "title": "我们造了1000颗流星！！！",
-      "url": "https://www.bilibili.com/video/BV1qeuC63EPE",
-      "hot_value": "405470播放",
-      "index": 9
-    },
-    {
-      "title": "全程随意发挥挑战，感到尴尬奖励1000",
-      "url": "https://www.bilibili.com/video/BV17Tu966EXs",
-      "hot_value": "1890527播放",
-      "index": 10
-    },
-    {
-      "title": "⚡泥 肘⚡",
-      "url": "https://www.bilibili.com/video/BV1TiuZ6TEQw",
-      "hot_value": "3433954播放",
-      "index": 11
-    },
-    {
-      "title": "【咒术回战IF】高羽史彦:你觉得未来的英雄来救场会搞笑吗？【B萌应援】",
-      "url": "https://www.bilibili.com/video/BV16Tuv6oEqz",
-      "hot_value": "2063859播放",
-      "index": 12
-    },
-    {
-      "title": "诺兰2.5亿巨制！看懂奥德赛",
-      "url": "https://www.bilibili.com/video/BV1qnuq6dEga",
-      "hot_value": "1379418播放",
-      "index": 13
+      "hot_value": "9468584播放",
+      "index": 5
     },
     {
       "title": "「直到大地变成一颗烂苹果！！」",
       "url": "https://www.bilibili.com/video/BV1XXu66hEfT",
-      "hot_value": "356615播放",
-      "index": 14
+      "hot_value": "389567播放",
+      "index": 6
+    },
+    {
+      "title": "船新版本新宝岛！这个联动怎么说？",
+      "url": "https://www.bilibili.com/video/BV1mJuB6jEDj",
+      "hot_value": "3086619播放",
+      "index": 7
     },
     {
       "title": "《癫佬外传》第一季合集",
       "url": "https://www.bilibili.com/video/BV1y1uW6wEAA",
-      "hot_value": "1110003播放",
-      "index": 15
+      "hot_value": "1166022播放",
+      "index": 8
+    },
+    {
+      "title": "🐧当你打游戏时父母进你房间蹭空调🐧",
+      "url": "https://www.bilibili.com/video/BV1nngV6YEzr",
+      "hot_value": "532025播放",
+      "index": 9
+    },
+    {
+      "title": "⚡泥 肘⚡",
+      "url": "https://www.bilibili.com/video/BV1TiuZ6TEQw",
+      "hot_value": "3504771播放",
+      "index": 10
+    },
+    {
+      "title": "【TF家族练习生】《突围II破局》EP07：加更",
+      "url": "https://www.bilibili.com/video/BV1PYg56VEE2",
+      "hot_value": "688134播放",
+      "index": 11
+    },
+    {
+      "title": "全程随意发挥挑战，感到尴尬奖励1000",
+      "url": "https://www.bilibili.com/video/BV17Tu966EXs",
+      "hot_value": "1934203播放",
+      "index": 12
     },
     {
       "title": "这不是黑历史…是23年 我奋斗的开始…差点gg也得拍视频",
       "url": "https://www.bilibili.com/video/BV1qVuv6XEBd",
-      "hot_value": "2076315播放",
-      "index": 16
+      "hot_value": "2136246播放",
+      "index": 13
     },
     {
-      "title": "这些散落在不同作品里的日系旋律，早已不止是耳边流淌的曲调。",
-      "url": "https://www.bilibili.com/video/BV1rguq6YEes",
-      "hot_value": "1199935播放",
-      "index": 17
+      "title": "【咒术回战IF】高羽史彦:你觉得未来的英雄来救场会搞笑吗？【B萌应援】",
+      "url": "https://www.bilibili.com/video/BV16Tuv6oEqz",
+      "hot_value": "2106536播放",
+      "index": 14
+    },
+    {
+      "title": "诺兰2.5亿巨制！看懂奥德赛",
+      "url": "https://www.bilibili.com/video/BV1qnuq6dEga",
+      "hot_value": "1423362播放",
+      "index": 15
+    },
+    {
+      "title": "血糖真相：高血糖是如何钝刀割肉，腐蚀数亿人的血管和神经的？",
+      "url": "https://www.bilibili.com/video/BV1jPgG6xEJw",
+      "hot_value": "347157播放",
+      "index": 16
     },
     {
       "title": "特朗普挥不动的重拳",
       "url": "https://www.bilibili.com/video/BV13XuB69EdA",
-      "hot_value": "1060246播放",
+      "hot_value": "1104452播放",
+      "index": 17
+    },
+    {
+      "title": "这些散落在不同作品里的日系旋律，早已不止是耳边流淌的曲调。",
+      "url": "https://www.bilibili.com/video/BV1rguq6YEes",
+      "hot_value": "1256728播放",
       "index": 18
     },
     {
       "title": "第一印象：毁掉一个人，为什么只需要0.1秒？",
       "url": "https://www.bilibili.com/video/BV1q7uq6fEZ7",
-      "hot_value": "2844018播放",
+      "hot_value": "2886209播放",
       "index": 19
     },
     {
-      "title": "台风大暴雨差点噶进去",
-      "url": "https://www.bilibili.com/video/BV18jgG6jEq6",
-      "hot_value": "347174播放",
+      "title": "打骂乡村兽医的后果？？？",
+      "url": "https://www.bilibili.com/video/BV1BYu16DEw7",
+      "hot_value": "1510128播放",
       "index": 20
-    },
-    {
-      "title": "《影之刃零》：甄子丹？就这？【印象】",
-      "url": "https://www.bilibili.com/video/BV171gG64EHq",
-      "hot_value": "585796播放",
-      "index": 21
     },
     {
       "title": "预制奖，名利场，大众电影百花奖，大众不发音。",
       "url": "https://www.bilibili.com/video/BV1Zuuy67Ef1",
-      "hot_value": "915070播放",
+      "hot_value": "975634播放",
+      "index": 21
+    },
+    {
+      "title": "台风大暴雨差点噶进去",
+      "url": "https://www.bilibili.com/video/BV18jgG6jEq6",
+      "hot_value": "396132播放",
       "index": 22
     },
     {
-      "title": "《英文最差の一集》",
-      "url": "https://www.bilibili.com/video/BV1p5u86mECB",
-      "hot_value": "4919424播放",
+      "title": "《影之刃零》：甄子丹？就这？【印象】",
+      "url": "https://www.bilibili.com/video/BV171gG64EHq",
+      "hot_value": "625224播放",
       "index": 23
     },
     {
-      "title": "飞龙在天！",
-      "url": "https://www.bilibili.com/video/BV16Quv6oEfF",
-      "hot_value": "580001播放",
+      "title": "假千金绑定了云原神系统，没想到我绑定了爱上雷神系统，这都什么和什么啊我剪的时候果珍绷住了吗。",
+      "url": "https://www.bilibili.com/video/BV1nZuz6uEjr",
+      "hot_value": "431429播放",
       "index": 24
-    },
-    {
-      "title": "🐧当你打游戏时父母进你房间蹭空调🐧",
-      "url": "https://www.bilibili.com/video/BV1nngV6YEzr",
-      "hot_value": "436705播放",
-      "index": 25
-    },
-    {
-      "title": "靠这锅沙子烤玉米，他在印度街头撑起了尊严",
-      "url": "https://www.bilibili.com/video/BV15HuZ62E6R",
-      "hot_value": "5085167播放",
-      "index": 26
-    },
-    {
-      "title": "「妄想天使」全新企划《天使导览》第一期",
-      "url": "https://www.bilibili.com/video/BV1x9uC6tEgF",
-      "hot_value": "542469播放",
-      "index": 27
     },
     {
       "title": "为纪念逝去的小狗创作的歌曲，却戳中无数人的内心，火了二十多年",
       "url": "https://www.bilibili.com/video/BV16ku961ESq",
-      "hot_value": "1099761播放",
-      "index": 28
+      "hot_value": "1219023播放",
+      "index": 25
     },
     {
-      "title": "四菜一汤，送到堑壕！",
-      "url": "https://www.bilibili.com/video/BV1xUuz6LE5z",
-      "hot_value": "1021986播放",
-      "index": 29
+      "title": "我追踪到一个外国组织想要影响中国，他们正在行动（我说的是真的，我有点害怕）",
+      "url": "https://www.bilibili.com/video/BV1MwgV61EMj",
+      "hot_value": "183633播放",
+      "index": 26
     },
     {
       "title": "恶心套路？情绪共振！细节夯爆！观众比男主先爱上女主！《花开锦绣》",
       "url": "https://www.bilibili.com/video/BV1mwuz62EPy",
-      "hot_value": "2554059播放",
+      "hot_value": "2620968播放",
+      "index": 27
+    },
+    {
+      "title": "长着云台的手机？荣耀Robot Phone上手",
+      "url": "https://www.bilibili.com/video/BV1UKgL6SEyA",
+      "hot_value": "327433播放",
+      "index": 28
+    },
+    {
+      "title": "靠这锅沙子烤玉米，他在印度街头撑起了尊严",
+      "url": "https://www.bilibili.com/video/BV15HuZ62E6R",
+      "hot_value": "5123870播放",
+      "index": 29
+    },
+    {
+      "title": "四菜一汤，送到堑壕！",
+      "url": "https://www.bilibili.com/video/BV1xUuz6LE5z",
+      "hot_value": "1056028播放",
       "index": 30
     }
   ]
