@@ -1,7 +1,7 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-08-13T17:54:09Z",
+  "update_time": "2026-08-13T18:56:48Z",
   "count": 20,
   "list": [
     {
@@ -35,26 +35,26 @@
       "index": 5
     },
     {
+      "title": "国内成品油价年内第五次下调将至",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33777833",
+      "hot_value": "",
+      "index": 6
+    },
+    {
       "title": "长征主题版画临展现多处错误，浙江省博物馆致歉",
       "url": "https://www.thepaper.cn/newsDetail_forward_33775483",
       "hot_value": "",
-      "index": 6
+      "index": 7
     },
     {
       "title": "湖南益阳市博物馆回应安检牌错字问题：已完成撤换整改",
       "url": "https://www.thepaper.cn/newsDetail_forward_33777130",
       "hot_value": "",
-      "index": 7
+      "index": 8
     },
     {
       "title": "女子称因台风影响出行取消行程后被扣八千余元，携程：不属不可抗力，已提供关怀补偿",
       "url": "https://www.thepaper.cn/newsDetail_forward_33776219",
-      "hot_value": "",
-      "index": 8
-    },
-    {
-      "title": "国内成品油价年内第五次下调将至",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33777833",
       "hot_value": "",
       "index": 9
     },
@@ -119,8 +119,8 @@
       "index": 19
     },
     {
-      "title": "单项冠军县，何以扛打丨灾后横州茉莉花为何仍能守住全球五成份额",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33767600",
+      "title": "《江泽民》第5集《兴国方略》",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33777855",
       "hot_value": "",
       "index": 20
     }
