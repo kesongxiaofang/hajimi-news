@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-13T14:54:17Z",
+  "update_time": "2026-08-13T15:55:08Z",
   "count": 30,
   "list": [
     {
+      "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+      "url": "https://www.zhihu.com/question/2071318356477662328",
+      "hot_value": "510 万热度",
+      "index": 1
+    },
+    {
       "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
       "url": "https://www.zhihu.com/question/2071189146777773055",
-      "hot_value": "363 万热度",
-      "index": 1
+      "hot_value": "354 万热度",
+      "index": 2
     },
     {
       "title": "新规禁止居民楼开油烟餐饮，这类餐饮业未来将何去何从？居民区的「苍蝇馆子」以后会不会越来越少了？",
       "url": "https://www.zhihu.com/question/2071182463498445493",
-      "hot_value": "310 万热度",
-      "index": 2
-    },
-    {
-      "title": "45 岁邹市明宣布年底重返拳击赛场，怎样看待他的决定？他的复出能解决目前的财务困境吗？",
-      "url": "https://www.zhihu.com/question/2071196839705932590",
-      "hot_value": "239 万热度",
+      "hot_value": "340 万热度",
       "index": 3
     },
     {
       "title": "当年为加入 WTO 做出的让步，今天看来到底有多值？",
       "url": "https://www.zhihu.com/question/2070975451988587299",
-      "hot_value": "235 万热度",
+      "hot_value": "331 万热度",
       "index": 4
     },
     {
-      "title": "胖东来、腾讯都曾因涨租金而搬离，有人说房东会视盈利情况涨租，这样做合理吗？对他们有什么影响？",
-      "url": "https://www.zhihu.com/question/2070920779663767010",
-      "hot_value": "231 万热度",
+      "title": "45 岁邹市明宣布年底重返拳击赛场，怎样看待他的决定？他的复出能解决目前的财务困境吗？",
+      "url": "https://www.zhihu.com/question/2071196839705932590",
+      "hot_value": "321 万热度",
       "index": 5
     },
     {
-      "title": "如何看待 2026 年 8 月 13 日 A 股市场行情？跳空高开尾盘却突发跳水，发生了什么？",
-      "url": "https://www.zhihu.com/question/2067634093093818544",
-      "hot_value": "225 万热度",
+      "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
+      "url": "https://www.zhihu.com/question/2071335529577239335",
+      "hot_value": "249 万热度",
       "index": 6
     },
     {
       "title": "网传《欢迎来龙餐馆》男主角原定为徐峥，消息靠谱吗？如果是徐峥来演的话你认为效果会比沈腾好吗？",
       "url": "https://www.zhihu.com/question/2070925244152246749",
-      "hot_value": "222 万热度",
+      "hot_value": "247 万热度",
       "index": 7
     },
     {
       "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
       "url": "https://www.zhihu.com/question/2071169289697092854",
-      "hot_value": "220 万热度",
+      "hot_value": "246 万热度",
       "index": 8
+    },
+    {
+      "title": "胖东来、腾讯都曾因涨租金而搬离，有人说房东会视盈利情况涨租，这样做合理吗？对他们有什么影响？",
+      "url": "https://www.zhihu.com/question/2070920779663767010",
+      "hot_value": "245 万热度",
+      "index": 9
     },
     {
       "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
       "url": "https://www.zhihu.com/question/2070208110300608458",
-      "hot_value": "218 万热度",
-      "index": 9
-    },
-    {
-      "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
-      "url": "https://www.zhihu.com/question/2071318356477662328",
-      "hot_value": "207 万热度",
+      "hot_value": "235 万热度",
       "index": 10
     },
     {
       "title": "唐朝女人头上插那么多金钗步摇，走路不累吗，她们到底图什么？",
       "url": "https://www.zhihu.com/question/2070260620662924741",
-      "hot_value": "199 万热度",
+      "hot_value": "222 万热度",
       "index": 11
     },
     {
       "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
       "url": "https://www.zhihu.com/question/2069876191474012892",
-      "hot_value": "191 万热度",
+      "hot_value": "208 万热度",
       "index": 12
     },
     {
       "title": "为什么蚊子没有进化成像猫猫那样特别可爱的样子，让人不忍心拍死？",
       "url": "https://www.zhihu.com/question/2059374956157329909",
-      "hot_value": "187 万热度",
+      "hot_value": "204 万热度",
       "index": 13
     },
     {
       "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
       "url": "https://www.zhihu.com/question/2070707279855367104",
-      "hot_value": "184 万热度",
+      "hot_value": "199 万热度",
       "index": 14
-    },
-    {
-      "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
-      "url": "https://www.zhihu.com/question/2071335529577239335",
-      "hot_value": "183 万热度",
-      "index": 15
     },
     {
       "title": "上海一员工台风天请假 1 小时被罚近 1500 元，公司称其未提前一天申请，人社局表示处罚行为违规，怎样解读？",
       "url": "https://www.zhihu.com/question/2071185842455032063",
-      "hot_value": "176 万热度",
+      "hot_value": "191 万热度",
+      "index": 15
+    },
+    {
+      "title": "DeepSeek Harness 已发布，如何评价这款产品？",
+      "url": "https://www.zhihu.com/question/2071335385494557060",
+      "hot_value": "181 万热度",
       "index": 16
     },
     {
       "title": "如何评价 9999 元起售的荣耀 RobotPhone，有哪些亮点值得关注？",
       "url": "https://www.zhihu.com/question/2070972360027591854",
-      "hot_value": "128 万热度",
+      "hot_value": "131 万热度",
       "index": 17
-    },
-    {
-      "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
-      "url": "https://www.zhihu.com/question/2070215170526279459",
-      "hot_value": "115 万热度",
-      "index": 18
     },
     {
       "title": "婚外胚胎案男方已撤销离婚，撤销离婚是否意味此事就此结束？还存在哪些疑点吗？",
       "url": "https://www.zhihu.com/question/2071327029220172908",
-      "hot_value": "95 万热度",
-      "index": 19
+      "hot_value": "130 万热度",
+      "index": 18
     },
     {
       "title": "如何看待娱乐圈大部分明星失业？",
       "url": "https://www.zhihu.com/question/2055941945738933824",
-      "hot_value": "85 万热度",
+      "hot_value": "119 万热度",
+      "index": 19
+    },
+    {
+      "title": "如何看待 2026 年 8 月 13 日 A 股市场行情？跳空高开尾盘却突发跳水，发生了什么？",
+      "url": "https://www.zhihu.com/question/2067634093093818544",
+      "hot_value": "110 万热度",
       "index": 20
     },
     {
-      "title": "花 48 万元给子女买事业编没成功，法院判介绍人返还全额，如何从法律角度解读？花钱买编的背后反映哪些问题？",
-      "url": "https://www.zhihu.com/question/2071254329235879923",
-      "hot_value": "79 万热度",
+      "title": "如何看待 Deepseek Harness 发布？",
+      "url": "https://www.zhihu.com/question/2071331484284220938",
+      "hot_value": "104 万热度",
       "index": 21
+    },
+    {
+      "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
+      "url": "https://www.zhihu.com/question/2070215170526279459",
+      "hot_value": "89 万热度",
+      "index": 22
     },
     {
       "title": "一时冲动打骂无辜的女儿，彻夜无法释怀，想听听大家的建议？",
       "url": "https://www.zhihu.com/question/2069947690046296283",
-      "hot_value": "75 万热度",
-      "index": 22
+      "hot_value": "79 万热度",
+      "index": 23
+    },
+    {
+      "title": "思考为什么克服不了恐惧？",
+      "url": "https://www.zhihu.com/question/2064722414718793198",
+      "hot_value": "67 万热度",
+      "index": 24
+    },
+    {
+      "title": "真的被孩子气到了，真的是我的问题更大吗？",
+      "url": "https://www.zhihu.com/question/2070244150755210109",
+      "hot_value": "66 万热度",
+      "index": 25
     },
     {
       "title": "作为普通用户，Hi-Fi 音箱真的值得投入吗？",
       "url": "https://www.zhihu.com/question/2060329323798827287",
-      "hot_value": "64 万热度",
-      "index": 23
+      "hot_value": "65 万热度",
+      "index": 26
+    },
+    {
+      "title": "AI 画画有机会让不会作画的内容创作者画漫画吗？",
+      "url": "https://www.zhihu.com/question/559933275",
+      "hot_value": "63 万热度",
+      "index": 27
     },
     {
       "title": "月薪三万多，和老公都太忙，都没时间照顾孩子，老公让我回家照顾孩子几年先，如果是你该怎么选？",
       "url": "https://www.zhihu.com/question/2068859762461169652",
       "hot_value": "63 万热度",
-      "index": 24
+      "index": 28
     },
     {
-      "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-      "url": "https://www.zhihu.com/question/2071014727606703118",
-      "hot_value": "59 万热度",
-      "index": 25
-    },
-    {
-      "title": "美国招 2000 名游戏玩家当空中交通管制员，看中了他们哪些技能？",
-      "url": "https://www.zhihu.com/question/2070587395913822209",
-      "hot_value": "59 万热度",
-      "index": 26
-    },
-    {
-      "title": "纯净水不一定较天然水和矿泉水更优质，如何判断饮用水质量？怎样科学饮水？",
-      "url": "https://www.zhihu.com/question/651139390",
-      "hot_value": "59 万热度",
-      "index": 27
+      "title": "春秋时期的战车兵为什么被淘汰了？",
+      "url": "https://www.zhihu.com/question/2061429075579819273",
+      "hot_value": "58 万热度",
+      "index": 29
     },
     {
       "title": "郑州一货车被城管车拦停「罚款」1400 元，罚金却转入个人微信，当地已介入调查，有哪些疑点值得关注？",
       "url": "https://www.zhihu.com/question/2071228717288747092",
-      "hot_value": "59 万热度",
-      "index": 28
-    },
-    {
-      "title": "银行能办结婚证了，天津开放首个银行网点婚姻登记处，这事只是「多一个领证地」这么简单吗？银行有什么盘算？",
-      "url": "https://www.zhihu.com/question/2070960876790572338",
-      "hot_value": "59 万热度",
-      "index": 29
-    },
-    {
-      "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
-      "url": "https://www.zhihu.com/question/2069887569639248076",
       "hot_value": "58 万热度",
       "index": 30
     }
