@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-13T08:49:45Z",
+  "update_time": "2026-08-13T09:59:21Z",
   "count": 30,
   "list": [
     {
       "title": "会跳舞的画",
       "url": "https://www.bilibili.com/video/BV1wSuU6iEdq",
-      "hot_value": "1515565播放",
+      "hot_value": "1890907播放",
       "index": 1
-    },
-    {
-      "title": "长着云台的手机？荣耀Robot Phone上手",
-      "url": "https://www.bilibili.com/video/BV1UKgL6SEyA",
-      "hot_value": "2320895播放",
-      "index": 2
     },
     {
       "title": "《影之刃零》预购开启，11分钟实机预告公开",
       "url": "https://www.bilibili.com/video/BV1Hmuv68EWW",
-      "hot_value": "8070516播放",
+      "hot_value": "8321808播放",
+      "index": 2
+    },
+    {
+      "title": "臣妾要线上告发熹贵妃",
+      "url": "https://www.bilibili.com/video/BV1BsgV6fEv9",
+      "hot_value": "1132014播放",
       "index": 3
     },
     {
       "title": "【独家】《将夜》第18集 茶楼喋血【4月国创】",
       "url": "https://www.bilibili.com/video/BV14SgL6nEn6",
-      "hot_value": "372485播放",
+      "hot_value": "410324播放",
       "index": 4
-    },
-    {
-      "title": "🐧当你打游戏时父母进你房间蹭空调🐧",
-      "url": "https://www.bilibili.com/video/BV1nngV6YEzr",
-      "hot_value": "4014703播放",
-      "index": 5
-    },
-    {
-      "title": "《顽童戏老叟》",
-      "url": "https://www.bilibili.com/video/BV1EAuk6CEfw",
-      "hot_value": "6883466播放",
-      "index": 6
-    },
-    {
-      "title": "臣妾要线上告发熹贵妃",
-      "url": "https://www.bilibili.com/video/BV1BsgV6fEv9",
-      "hot_value": "1008891播放",
-      "index": 7
-    },
-    {
-      "title": "河流地貌",
-      "url": "https://www.bilibili.com/video/BV1o1gG6xEXK",
-      "hot_value": "489714播放",
-      "index": 8
-    },
-    {
-      "title": "【原神一条龙全收集】至冬7.0(成就数/冰神瞳/摩拉/影生翼滴/枪械蓝图)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
-      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
-      "hot_value": "1000345播放",
-      "index": 9
     },
     {
       "title": "《癫佬外传》第一季合集",
       "url": "https://www.bilibili.com/video/BV1y1uW6wEAA",
-      "hot_value": "2384938播放",
+      "hot_value": "2491680播放",
+      "index": 5
+    },
+    {
+      "title": "🐧当你打游戏时父母进你房间蹭空调🐧",
+      "url": "https://www.bilibili.com/video/BV1nngV6YEzr",
+      "hot_value": "4163525播放",
+      "index": 6
+    },
+    {
+      "title": "猎哥说打绝航能让人眼前一亮【三角洲动画·勇敢者篇】",
+      "url": "https://www.bilibili.com/video/BV13Ygn6qEG3",
+      "hot_value": "144904播放",
+      "index": 7
+    },
+    {
+      "title": "《顽童戏老叟》",
+      "url": "https://www.bilibili.com/video/BV1EAuk6CEfw",
+      "hot_value": "7067370播放",
+      "index": 8
+    },
+    {
+      "title": "长着云台的手机？荣耀Robot Phone上手",
+      "url": "https://www.bilibili.com/video/BV1UKgL6SEyA",
+      "hot_value": "2512924播放",
+      "index": 9
+    },
+    {
+      "title": "【原神一条龙全收集】至冬7.0(成就数/冰神瞳/摩拉/影生翼滴/枪械蓝图)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
+      "hot_value": "1140525播放",
       "index": 10
     },
     {
-      "title": "百米赛道高难度闯关、只有上过的才知道含金量有多高！",
-      "url": "https://www.bilibili.com/video/BV1G2uo66E2J",
-      "hot_value": "3817055播放",
+      "title": "河流地貌",
+      "url": "https://www.bilibili.com/video/BV1o1gG6xEXK",
+      "hot_value": "737609播放",
       "index": 11
-    },
-    {
-      "title": "这视频等了五年！",
-      "url": "https://www.bilibili.com/video/BV17WgV6hEdX",
-      "hot_value": "2105325播放",
-      "index": 12
-    },
-    {
-      "title": "「直到大地变成一颗烂苹果！！」",
-      "url": "https://www.bilibili.com/video/BV1XXu66hEfT",
-      "hot_value": "788203播放",
-      "index": 13
     },
     {
       "title": "6年，你们童年的愿望，我帮你们实现了！",
       "url": "https://www.bilibili.com/video/BV1M3uo6vESr",
-      "hot_value": "948434播放",
+      "hot_value": "985362播放",
+      "index": 12
+    },
+    {
+      "title": "百米赛道高难度闯关、只有上过的才知道含金量有多高！",
+      "url": "https://www.bilibili.com/video/BV1G2uo66E2J",
+      "hot_value": "3942257播放",
+      "index": 13
+    },
+    {
+      "title": "这视频等了五年！",
+      "url": "https://www.bilibili.com/video/BV17WgV6hEdX",
+      "hot_value": "2159174播放",
       "index": 14
+    },
+    {
+      "title": "「直到大地变成一颗烂苹果！！」",
+      "url": "https://www.bilibili.com/video/BV1XXu66hEfT",
+      "hot_value": "819072播放",
+      "index": 15
     },
     {
       "title": "🔥全看完的可以封神了！三角洲AI夏日晚会🔥",
       "url": "https://www.bilibili.com/video/BV1QDui6jEbi",
-      "hot_value": "1337941播放",
-      "index": 15
-    },
-    {
-      "title": "大量人员被抓捕！三角洲行动被央视点名",
-      "url": "https://www.bilibili.com/video/BV13wgL6WEPC",
-      "hot_value": "855906播放",
+      "hot_value": "1416126播放",
       "index": 16
-    },
-    {
-      "title": "这些散落在不同作品里的日系旋律，早已不止是耳边流淌的曲调。",
-      "url": "https://www.bilibili.com/video/BV1rguq6YEes",
-      "hot_value": "2435502播放",
-      "index": 17
-    },
-    {
-      "title": "【毕导】吵翻天了！飞机放在跑步机上，到底能不能起飞？",
-      "url": "https://www.bilibili.com/video/BV1MYgE6fE7v",
-      "hot_value": "380977播放",
-      "index": 18
-    },
-    {
-      "title": "为纪念逝去的小狗创作的歌曲，却戳中无数人的内心，火了二十多年",
-      "url": "https://www.bilibili.com/video/BV16ku961ESq",
-      "hot_value": "2355890播放",
-      "index": 19
-    },
-    {
-      "title": "来云南必吃，见太奶套餐",
-      "url": "https://www.bilibili.com/video/BV1vTgG6pEA5",
-      "hot_value": "565059播放",
-      "index": 20
-    },
-    {
-      "title": "高中牲自制蛛丝发射器（一）",
-      "url": "https://www.bilibili.com/video/BV17Bui6xE1n",
-      "hot_value": "1461919播放",
-      "index": 21
-    },
-    {
-      "title": "给养了三年的老狗做一个豪华狗别墅",
-      "url": "https://www.bilibili.com/video/BV1aYuz6xEtP",
-      "hot_value": "628960播放",
-      "index": 22
-    },
-    {
-      "title": "这不是黑历史…是23年 我奋斗的开始…差点gg也得拍视频",
-      "url": "https://www.bilibili.com/video/BV1qVuv6XEBd",
-      "hot_value": "2640235播放",
-      "index": 23
-    },
-    {
-      "title": "爱意随风起",
-      "url": "https://www.bilibili.com/video/BV1TxuQ6SExT",
-      "hot_value": "1034992播放",
-      "index": 24
-    },
-    {
-      "title": "⚡泥 肘⚡",
-      "url": "https://www.bilibili.com/video/BV1TiuZ6TEQw",
-      "hot_value": "4175019播放",
-      "index": 25
-    },
-    {
-      "title": "蒋介石明明是名中正字介石，为何大陆会普遍称他蒋介石？",
-      "url": "https://www.bilibili.com/video/BV1mQuC6fEFz",
-      "hot_value": "841703播放",
-      "index": 26
     },
     {
       "title": "【异环】残虹综合测评：持续伤害+直伤大姐姐！武器对比+技能解读+空幕选择+觉醒提升！",
       "url": "https://www.bilibili.com/video/BV1QCg76AEyc",
-      "hot_value": "336127播放",
-      "index": 27
+      "hot_value": "420883播放",
+      "index": 17
     },
     {
-      "title": "一个\"傻子\"认真画钱，另一个\"傻子\"认真的收了九年。善良不是戳破真相，而是替一个人守住他的世界。AI全民制作人",
-      "url": "https://www.bilibili.com/video/BV1MUuR6hE1r",
-      "hot_value": "629260播放",
-      "index": 28
+      "title": "大量人员被抓捕！三角洲行动被央视点名",
+      "url": "https://www.bilibili.com/video/BV13wgL6WEPC",
+      "hot_value": "931624播放",
+      "index": 18
     },
     {
-      "title": "多  玲  国",
-      "url": "https://www.bilibili.com/video/BV1Zmuk6kExf",
-      "hot_value": "386021播放",
-      "index": 29
+      "title": "【毕导】吵翻天了！飞机放在跑步机上，到底能不能起飞？",
+      "url": "https://www.bilibili.com/video/BV1MYgE6fE7v",
+      "hot_value": "458829播放",
+      "index": 19
+    },
+    {
+      "title": "给养了三年的老狗做一个豪华狗别墅",
+      "url": "https://www.bilibili.com/video/BV1aYuz6xEtP",
+      "hot_value": "690776播放",
+      "index": 20
+    },
+    {
+      "title": "这些散落在不同作品里的日系旋律，早已不止是耳边流淌的曲调。",
+      "url": "https://www.bilibili.com/video/BV1rguq6YEes",
+      "hot_value": "2509885播放",
+      "index": 21
+    },
+    {
+      "title": "这不是黑历史…是23年 我奋斗的开始…差点gg也得拍视频",
+      "url": "https://www.bilibili.com/video/BV1qVuv6XEBd",
+      "hot_value": "2678834播放",
+      "index": 22
     },
     {
       "title": "⚡颅 蹬 的 回 声⚡",
       "url": "https://www.bilibili.com/video/BV1gng56HEDt",
-      "hot_value": "498688播放",
+      "hot_value": "661429播放",
+      "index": 23
+    },
+    {
+      "title": "《人类史上最绝望事件》",
+      "url": "https://www.bilibili.com/video/BV1ZwgG6dEUs",
+      "hot_value": "591808播放",
+      "index": 24
+    },
+    {
+      "title": "路况千千万，总能遇到点新知识，今天是地上的大镜子",
+      "url": "https://www.bilibili.com/video/BV16juq6bEFc",
+      "hot_value": "446211播放",
+      "index": 25
+    },
+    {
+      "title": "你之前放弃的建筑，它们一起回来找你了。",
+      "url": "https://www.bilibili.com/video/BV1ExgV6FE3k",
+      "hot_value": "565490播放",
+      "index": 26
+    },
+    {
+      "title": "来云南必吃，见太奶套餐",
+      "url": "https://www.bilibili.com/video/BV1vTgG6pEA5",
+      "hot_value": "631627播放",
+      "index": 27
+    },
+    {
+      "title": "飞龙在天！",
+      "url": "https://www.bilibili.com/video/BV16Quv6oEfF",
+      "hot_value": "1291532播放",
+      "index": 28
+    },
+    {
+      "title": "奥黛塔阿罗夏全面测评",
+      "url": "https://www.bilibili.com/video/BV1nXgn69EDz",
+      "hot_value": "66647播放",
+      "index": 29
+    },
+    {
+      "title": "为纪念逝去的小狗创作的歌曲，却戳中无数人的内心，火了二十多年",
+      "url": "https://www.bilibili.com/video/BV16ku961ESq",
+      "hot_value": "2404624播放",
       "index": 30
     }
   ]
