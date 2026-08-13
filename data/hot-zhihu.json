@@ -1,49 +1,49 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-13T07:20:03Z",
+  "update_time": "2026-08-13T08:49:45Z",
   "count": 30,
   "list": [
     {
       "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
       "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
-      "hot_value": "2187 万热度",
+      "hot_value": "1431 万热度",
       "index": 1
-    },
-    {
-      "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-      "url": "https://www.zhihu.com/question/2071014727606703118",
-      "hot_value": "1095 万热度",
-      "index": 2
-    },
-    {
-      "title": "网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？",
-      "url": "https://www.zhihu.com/question/2070900468931191892",
-      "hot_value": "518 万热度",
-      "index": 3
     },
     {
       "title": "货拉拉司机中途加价被拒，带货跑 600 公里外，平台介入后仍拒不归还，怎么回事？暴露出平台哪些问题？",
       "url": "https://www.zhihu.com/question/2070902073780953324",
-      "hot_value": "499 万热度",
-      "index": 4
+      "hot_value": "464 万热度",
+      "index": 2
     },
     {
       "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？",
       "url": "https://www.zhihu.com/question/2069876191474012892",
-      "hot_value": "224 万热度",
-      "index": 5
+      "hot_value": "240 万热度",
+      "index": 3
+    },
+    {
+      "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+      "url": "https://www.zhihu.com/question/2071014727606703118",
+      "hot_value": "188 万热度",
+      "index": 4
     },
     {
       "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
       "url": "https://www.zhihu.com/question/2070073820929419121",
-      "hot_value": "169 万热度",
+      "hot_value": "183 万热度",
+      "index": 5
+    },
+    {
+      "title": "中国成功用竹子造出无人机，这对航空材料和制造技术意味着什么？",
+      "url": "https://www.zhihu.com/question/2070132623079379116",
+      "hot_value": "172 万热度",
       "index": 6
     },
     {
       "title": "山西一医院实习护士晒患者隐私照，院方称将严肃处理，具体怎么回事？为什么这类事时有发生，问题出在哪？",
       "url": "https://www.zhihu.com/question/2070271590869070734",
-      "hot_value": "169 万热度",
+      "hot_value": "170 万热度",
       "index": 7
     },
     {
@@ -67,121 +67,121 @@
     {
       "title": "唐朝女人头上插那么多金钗步摇，走路不累吗，她们到底图什么？",
       "url": "https://www.zhihu.com/question/2070260620662924741",
-      "hot_value": "168 万热度",
+      "hot_value": "167 万热度",
       "index": 11
     },
     {
       "title": "威少（维斯布鲁克）宣布退役，结束长达 18 年的 NBA 生涯，如何评价他的职业生涯？",
       "url": "https://www.zhihu.com/question/2071116184003646639",
-      "hot_value": "168 万热度",
+      "hot_value": "167 万热度",
       "index": 12
-    },
-    {
-      "title": "中国成功用竹子造出无人机，这对航空材料和制造技术意味着什么？",
-      "url": "https://www.zhihu.com/question/2070132623079379116",
-      "hot_value": "168 万热度",
-      "index": 13
     },
     {
       "title": "当年为加入 WTO 做出的让步，今天看来到底有多值？",
       "url": "https://www.zhihu.com/question/2070975451988587299",
-      "hot_value": "141 万热度",
+      "hot_value": "167 万热度",
+      "index": 13
+    },
+    {
+      "title": "沈腾最新的电影，欢迎来龙餐馆，你的感受如何？",
+      "url": "https://www.zhihu.com/question/2069745736221192755",
+      "hot_value": "154 万热度",
       "index": 14
     },
     {
       "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
       "url": "https://www.zhihu.com/question/2070215170526279459",
-      "hot_value": "133 万热度",
+      "hot_value": "153 万热度",
       "index": 15
     },
     {
       "title": "银行能办结婚证了，天津开放首个银行网点婚姻登记处，这事只是「多一个领证地」这么简单吗？银行有什么盘算？",
       "url": "https://www.zhihu.com/question/2070960876790572338",
-      "hot_value": "130 万热度",
+      "hot_value": "147 万热度",
       "index": 16
     },
     {
-      "title": "如何评价 Grok4.6，有哪些亮点？",
-      "url": "https://www.zhihu.com/question/2070448386113908957",
-      "hot_value": "127 万热度",
+      "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
+      "url": "https://www.zhihu.com/question/2070707279855367104",
+      "hot_value": "141 万热度",
       "index": 17
     },
     {
-      "title": "如何评价《影之刃零》开启预售之后迅速荣登全球 Steam 畅销榜第一名？",
-      "url": "https://www.zhihu.com/question/2070880919683126799",
-      "hot_value": "121 万热度",
+      "title": "上海一员工台风天请假 1 小时被罚近 1500 元，公司称其未提前一天申请，人社局表示处罚行为违规，怎样解读？",
+      "url": "https://www.zhihu.com/question/2071185842455032063",
+      "hot_value": "133 万热度",
       "index": 18
     },
     {
-      "title": "养了三四年的猫，不想养了，送人没人要，养着又很烦心，该怎么办？",
-      "url": "https://www.zhihu.com/question/2056772743341815048",
-      "hot_value": "117 万热度",
+      "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+      "url": "https://www.zhihu.com/question/2071189146777773055",
+      "hot_value": "123 万热度",
       "index": 19
     },
     {
       "title": "继金像奖后，卫诗雅凭借《破·地狱》获百花奖影后，如何评价她在其中的演绎？",
       "url": "https://www.zhihu.com/question/2070256592973566790",
-      "hot_value": "105 万热度",
+      "hot_value": "110 万热度",
       "index": 20
     },
     {
-      "title": "如何看待郭德纲演出中即兴篡改经典红歌《弹起我心爱的土琵琶》，因未提前报备，遭武汉文旅立案调查？",
-      "url": "https://www.zhihu.com/question/2070889953198979004",
-      "hot_value": "97 万热度",
+      "title": "养了三四年的猫，不想养了，送人没人要，养着又很烦心，该怎么办？",
+      "url": "https://www.zhihu.com/question/2056772743341815048",
+      "hot_value": "103 万热度",
       "index": 21
     },
     {
       "title": "如何评价 9999 元起售的荣耀 RobotPhone，有哪些亮点值得关注？",
       "url": "https://www.zhihu.com/question/2070972360027591854",
-      "hot_value": "89 万热度",
+      "hot_value": "95 万热度",
       "index": 22
     },
     {
-      "title": "星球的公转和自转速度那么快，为什么没有被摇匀？",
-      "url": "https://www.zhihu.com/question/1984892437014009024",
-      "hot_value": "71 万热度",
+      "title": "如何评价《原神》至冬版本新加入的臻冰造物这一玩法机制？",
+      "url": "https://www.zhihu.com/question/2070841511546245576",
+      "hot_value": "93 万热度",
       "index": 23
     },
     {
-      "title": "媒体曝茶颜悦色入职培训强制收手机、被子叠「豆腐块」，具体什么情况？企业的行为侵犯员工权益了吗？",
-      "url": "https://www.zhihu.com/question/2070982459156424668",
-      "hot_value": "69 万热度",
+      "title": "如何评价《影之刃零》开启预售之后迅速荣登全球 Steam 畅销榜第一名？",
+      "url": "https://www.zhihu.com/question/2070880919683126799",
+      "hot_value": "89 万热度",
       "index": 24
     },
     {
-      "title": "如何评价荣耀发布的全球首款机器人手机 Robot Phone，有哪些亮点和槽点？",
-      "url": "https://www.zhihu.com/question/2070661978675209184",
-      "hot_value": "69 万热度",
+      "title": "如何评价《原神》至冬版本加入的射击玩法和手感，是否符合你的预期？",
+      "url": "https://www.zhihu.com/question/2070841746725024848",
+      "hot_value": "88 万热度",
       "index": 25
     },
     {
       "title": "英伟达联手华尔街筹资 5000 亿美元提供芯片贷款，公司股价下跌，黄仁勋喊话这不是循环融资，如何看待此事？",
       "url": "https://www.zhihu.com/question/2070540296862142526",
-      "hot_value": "65 万热度",
+      "hot_value": "84 万热度",
       "index": 26
+    },
+    {
+      "title": "如何看待 2026 年 8 月米哈游《原神》7.0 至冬，派蒙是天空岛的造物？",
+      "url": "https://www.zhihu.com/question/2071177459937105231",
+      "hot_value": "79 万热度",
+      "index": 27
+    },
+    {
+      "title": "为何有人认为世界杯是足球唯一最高荣誉？欧洲杯、欧冠加起来也不如一个世界杯，是真的吗？",
+      "url": "https://www.zhihu.com/question/2065358169019361176",
+      "hot_value": "70 万热度",
+      "index": 28
+    },
+    {
+      "title": "星球的公转和自转速度那么快，为什么没有被摇匀？",
+      "url": "https://www.zhihu.com/question/1984892437014009024",
+      "hot_value": "70 万热度",
+      "index": 29
     },
     {
       "title": "月薪三万多，和老公都太忙，都没时间照顾孩子，老公让我回家照顾孩子几年先，如果是你该怎么选？",
       "url": "https://www.zhihu.com/question/2068859762461169652",
       "hot_value": "61 万热度",
-      "index": 27
-    },
-    {
-      "title": "弗洛伊德的理论那么扯淡为什么他又那么出名？",
-      "url": "https://www.zhihu.com/question/268161638",
-      "hot_value": "59 万热度",
-      "index": 28
-    },
-    {
-      "title": "DeepSeek 的 harness 值得期待吗？",
-      "url": "https://www.zhihu.com/question/2068471750665545109",
-      "hot_value": "59 万热度",
-      "index": 29
-    },
-    {
-      "title": "从电视剧《重器》来看，为何 80 年代流氓罪会被判死刑？",
-      "url": "https://www.zhihu.com/question/2070179095023981949",
-      "hot_value": "59 万热度",
       "index": 30
     }
   ]
