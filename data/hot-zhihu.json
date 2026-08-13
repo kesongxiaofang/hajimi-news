@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-13T21:39:57Z",
+  "update_time": "2026-08-13T22:36:14Z",
   "count": 30,
   "list": [
     {
       "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
       "url": "https://www.zhihu.com/question/2071318356477662328",
-      "hot_value": "1463 万热度",
+      "hot_value": "1325 万热度",
       "index": 1
     },
     {
       "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
       "url": "https://www.zhihu.com/question/2071335529577239335",
-      "hot_value": "844 万热度",
+      "hot_value": "815 万热度",
       "index": 2
     },
     {
       "title": "45 岁邹市明宣布年底重返拳击赛场，怎样看待他的决定？他的复出能解决目前的财务困境吗？",
       "url": "https://www.zhihu.com/question/2071196839705932590",
-      "hot_value": "641 万热度",
+      "hot_value": "603 万热度",
       "index": 3
     },
     {
       "title": "如何看待娱乐圈大部分明星失业？",
       "url": "https://www.zhihu.com/question/2055941945738933824",
-      "hot_value": "332 万热度",
+      "hot_value": "350 万热度",
       "index": 4
     },
     {
       "title": "胖东来、腾讯都曾因涨租金而搬离，有人说房东会视盈利情况涨租，这样做合理吗？对他们有什么影响？",
       "url": "https://www.zhihu.com/question/2070920779663767010",
-      "hot_value": "288 万热度",
+      "hot_value": "281 万热度",
       "index": 5
     },
     {
       "title": "新规禁止居民楼开油烟餐饮，这类餐饮业未来将何去何从？居民区的「苍蝇馆子」以后会不会越来越少了？",
       "url": "https://www.zhihu.com/question/2071182463498445493",
-      "hot_value": "198 万热度",
+      "hot_value": "167 万热度",
       "index": 6
     },
     {
       "title": "婚外胚胎案男方已撤销离婚，撤销离婚是否意味此事就此结束？还存在哪些疑点吗？",
       "url": "https://www.zhihu.com/question/2071327029220172908",
-      "hot_value": "187 万热度",
+      "hot_value": "162 万热度",
       "index": 7
-    },
-    {
-      "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
-      "url": "https://www.zhihu.com/question/2070208110300608458",
-      "hot_value": "118 万热度",
-      "index": 8
-    },
-    {
-      "title": "如何看待 Deepseek Harness 发布？",
-      "url": "https://www.zhihu.com/question/2071331484284220938",
-      "hot_value": "117 万热度",
-      "index": 9
-    },
-    {
-      "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
-      "url": "https://www.zhihu.com/question/2071179550575124530",
-      "hot_value": "108 万热度",
-      "index": 10
-    },
-    {
-      "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
-      "url": "https://www.zhihu.com/question/2071169289697092854",
-      "hot_value": "107 万热度",
-      "index": 11
-    },
-    {
-      "title": "怎么看 DeepSeek  Harness 正式开源，采用一切皆插件的架构？",
-      "url": "https://www.zhihu.com/question/2071348486667237276",
-      "hot_value": "106 万热度",
-      "index": 12
     },
     {
       "title": "铃木、雷诺、 Jeep 、三菱退出中国市场，如今雪佛兰也退出中国市场，说明了什么？",
       "url": "https://www.zhihu.com/question/2069970060106527911",
-      "hot_value": "106 万热度",
-      "index": 13
+      "hot_value": "111 万热度",
+      "index": 8
     },
     {
-      "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
-      "url": "https://www.zhihu.com/question/2070707279855367104",
+      "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解？",
+      "url": "https://www.zhihu.com/question/2070208110300608458",
+      "hot_value": "108 万热度",
+      "index": 9
+    },
+    {
+      "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
+      "url": "https://www.zhihu.com/question/2071169289697092854",
+      "hot_value": "105 万热度",
+      "index": 10
+    },
+    {
+      "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
+      "url": "https://www.zhihu.com/question/2071179550575124530",
       "hot_value": "98 万热度",
-      "index": 14
-    },
-    {
-      "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-      "url": "https://www.zhihu.com/question/2071189146777773055",
-      "hot_value": "94 万热度",
-      "index": 15
-    },
-    {
-      "title": "哈维出任荷兰男足国家队主教练，他能否带领「橙衣军团」重回巅峰？",
-      "url": "https://www.zhihu.com/question/2071168400236327908",
-      "hot_value": "93 万热度",
-      "index": 16
+      "index": 11
     },
     {
       "title": "如何看待 4 月 4 日清明出生、高考 444 分的考生被殡葬专业录取引发热议？殡葬专业真实就业前景如何？",
       "url": "https://www.zhihu.com/question/2070804607966470578",
       "hot_value": "91 万热度",
-      "index": 17
+      "index": 12
     },
     {
       "title": "2026WTT 瑞典大满贯男单第二轮，向鹏 1-3 不敌艾利克斯·勒布伦，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2071322109830230575",
-      "hot_value": "90 万热度",
-      "index": 18
-    },
-    {
-      "title": "《欢迎来龙餐馆》电影里为什么要安排把赛夫一只眼睛炸坏的情节?",
-      "url": "https://www.zhihu.com/question/2070195504701560422",
       "hot_value": "89 万热度",
-      "index": 19
+      "index": 13
     },
     {
-      "title": "LPL2026 赛季第三赛段组内赛 TES 0:2 LGD，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2071298072550889308",
-      "hot_value": "80 万热度",
-      "index": 20
-    },
-    {
-      "title": "上海一员工台风天请假 1 小时被罚近 1500 元，公司称其未提前一天申请，人社局表示处罚行为违规，怎样解读？",
-      "url": "https://www.zhihu.com/question/2071185842455032063",
-      "hot_value": "80 万热度",
-      "index": 21
-    },
-    {
-      "title": "电视剧《重器》「邱阿桂杀夫案」的判决有更好的解决办法吗？如果当时无解现在有解吗？",
-      "url": "https://www.zhihu.com/question/2070179050795094559",
+      "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
+      "url": "https://www.zhihu.com/question/2070707279855367104",
       "hot_value": "79 万热度",
-      "index": 22
+      "index": 14
     },
     {
-      "title": "当年为加入 WTO 做出的让步，今天看来到底有多值？",
-      "url": "https://www.zhihu.com/question/2070975451988587299",
+      "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+      "url": "https://www.zhihu.com/question/2071189146777773055",
       "hot_value": "78 万热度",
-      "index": 23
+      "index": 15
     },
     {
       "title": "为什么认知高的人最终都会走向金融市场？",
       "url": "https://www.zhihu.com/question/2047298291281422231",
       "hot_value": "77 万热度",
-      "index": 24
+      "index": 16
+    },
+    {
+      "title": "当年为加入 WTO 做出的让步，今天看来到底有多值？",
+      "url": "https://www.zhihu.com/question/2070975451988587299",
+      "hot_value": "77 万热度",
+      "index": 17
+    },
+    {
+      "title": "袁崇焕到底是怎么回事，怎么现在网络上还一直有争议？",
+      "url": "https://www.zhihu.com/question/2070479796530852105",
+      "hot_value": "76 万热度",
+      "index": 18
     },
     {
       "title": "如何评价 9999 元起售的荣耀 RobotPhone，有哪些亮点值得关注？",
       "url": "https://www.zhihu.com/question/2070972360027591854",
       "hot_value": "76 万热度",
-      "index": 25
+      "index": 19
     },
     {
-      "title": "为什么创业那么辛苦，还有那多的人选择创业？",
-      "url": "https://www.zhihu.com/question/658447067",
+      "title": "怎么看 DeepSeek  Harness 正式开源，采用一切皆插件的架构？",
+      "url": "https://www.zhihu.com/question/2071348486667237276",
       "hot_value": "72 万热度",
-      "index": 26
-    },
-    {
-      "title": "有没有半岛变成岛屿的例子？",
-      "url": "https://www.zhihu.com/question/2061746108477583522",
-      "hot_value": "71 万热度",
-      "index": 27
+      "index": 20
     },
     {
       "title": "如果在游戏里，只用一个画面来体现「侠」字，你会构建出一个怎么样的游戏场景？",
       "url": "https://www.zhihu.com/question/2064442367629850125",
       "hot_value": "71 万热度",
-      "index": 28
+      "index": 21
     },
     {
-      "title": "网传《欢迎来龙餐馆》男主角原定为徐峥，消息靠谱吗？如果是徐峥来演的话你认为效果会比沈腾好吗？",
-      "url": "https://www.zhihu.com/question/2070925244152246749",
-      "hot_value": "70 万热度",
-      "index": 29
+      "title": "有没有半岛变成岛屿的例子？",
+      "url": "https://www.zhihu.com/question/2061746108477583522",
+      "hot_value": "69 万热度",
+      "index": 22
     },
     {
       "title": "什么样的菜是真正的米饭杀手？",
       "url": "https://www.zhihu.com/question/308310091",
-      "hot_value": "68 万热度",
+      "hot_value": "67 万热度",
+      "index": 23
+    },
+    {
+      "title": "周朝攻打商朝的原因是什么？",
+      "url": "https://www.zhihu.com/question/587459906",
+      "hot_value": "63 万热度",
+      "index": 24
+    },
+    {
+      "title": "固态硬盘健康度达到多少说明必须放弃了？",
+      "url": "https://www.zhihu.com/question/1995423323413292422",
+      "hot_value": "63 万热度",
+      "index": 25
+    },
+    {
+      "title": "月薪三万多，和老公都太忙，都没时间照顾孩子，老公让我回家照顾孩子几年先，如果是你该怎么选？",
+      "url": "https://www.zhihu.com/question/2068859762461169652",
+      "hot_value": "63 万热度",
+      "index": 26
+    },
+    {
+      "title": "如何看待「追星不如追科学家」？",
+      "url": "https://www.zhihu.com/question/403348097",
+      "hot_value": "62 万热度",
+      "index": 27
+    },
+    {
+      "title": "为什么创业那么辛苦，还有那多的人选择创业？",
+      "url": "https://www.zhihu.com/question/658447067",
+      "hot_value": "61 万热度",
+      "index": 28
+    },
+    {
+      "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
+      "url": "https://www.zhihu.com/question/2070215170526279459",
+      "hot_value": "59 万热度",
+      "index": 29
+    },
+    {
+      "title": "网传《欢迎来龙餐馆》男主角原定为徐峥，消息靠谱吗？如果是徐峥来演的话你认为效果会比沈腾好吗？",
+      "url": "https://www.zhihu.com/question/2070925244152246749",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
