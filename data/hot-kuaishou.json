@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-08-13T19:55:07Z",
+  "update_time": "2026-08-13T20:37:24Z",
   "count": 30,
   "list": [
     {
       "title": "台湾歌手陈盈洁去世",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E9%99%88%E7%9B%88%E6%B4%81%E5%8E%BB%E4%B8%96",
-      "hot_value": "1,329万",
+      "hot_value": "1,323.2万",
       "index": 1
     },
     {
       "title": "威少宣布退役",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9",
-      "hot_value": "1,328.8万",
+      "hot_value": "1,323万",
       "index": 2
     },
     {
       "title": "我国汽车出口延续强劲增长态势",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E5%BB%B6%E7%BB%AD%E5%BC%BA%E5%8A%B2%E5%A2%9E%E9%95%BF%E6%80%81%E5%8A%BF",
-      "hot_value": "1,328.5万",
+      "hot_value": "1,322.8万",
       "index": 3
     },
     {
       "title": "白海豚回马枪多地将有暴雨",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%9B%9E%E9%A9%AC%E6%9E%AA%E5%A4%9A%E5%9C%B0%E5%B0%86%E6%9C%89%E6%9A%B4%E9%9B%A8",
-      "hot_value": "1,328.5万",
+      "hot_value": "1,322.8万",
       "index": 4
     },
     {
-      "title": "熊出没致信00后",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%86%8A%E5%87%BA%E6%B2%A1%E8%87%B4%E4%BF%A100%E5%90%8E",
-      "hot_value": "1,328.4万",
+      "title": "南京查获一辆假冒救护车",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%97%E4%BA%AC%E6%9F%A5%E8%8E%B7%E4%B8%80%E8%BE%86%E5%81%87%E5%86%92%E6%95%91%E6%8A%A4%E8%BD%A6",
+      "hot_value": "1,322.4万",
       "index": 5
     },
     {
       "title": "刘备时之恋人回城模仿秀",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%98%E5%A4%87%E6%97%B6%E4%B9%8B%E6%81%8B%E4%BA%BA%E5%9B%9E%E5%9F%8E%E6%A8%A1%E4%BB%BF%E7%A7%80",
-      "hot_value": "1,232.9万",
+      "hot_value": "1,267.4万",
       "index": 6
     },
     {
-      "title": "亳州交警迎战恶劣天气",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BA%B3%E5%B7%9E%E4%BA%A4%E8%AD%A6%E8%BF%8E%E6%88%98%E6%81%B6%E5%8A%A3%E5%A4%A9%E6%B0%94",
-      "hot_value": "1,161.4万",
+      "title": "熊出没致信00后",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%86%8A%E5%87%BA%E6%B2%A1%E8%87%B4%E4%BF%A100%E5%90%8E",
+      "hot_value": "1,159.1万",
       "index": 7
     },
     {
-      "title": "女子内衣裤藏烟被查获",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%86%85%E8%A1%A3%E8%A3%A4%E8%97%8F%E7%83%9F%E8%A2%AB%E6%9F%A5%E8%8E%B7",
-      "hot_value": "1,118.2万",
+      "title": "女子买回被闺蜜偷卖的包",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%9B%9E%E8%A2%AB%E9%97%BA%E8%9C%9C%E5%81%B7%E5%8D%96%E7%9A%84%E5%8C%85",
+      "hot_value": "1,139.1万",
       "index": 8
     },
     {
-      "title": "谢震业100米夺冠",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B0%A2%E9%9C%87%E4%B8%9A100%E7%B1%B3%E5%A4%BA%E5%86%A0",
-      "hot_value": "1,095.8万",
+      "title": "大庆一村庄出现牛奶河",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E5%BA%86%E4%B8%80%E6%9D%91%E5%BA%84%E5%87%BA%E7%8E%B0%E7%89%9B%E5%A5%B6%E6%B2%B3",
+      "hot_value": "1,117.3万",
       "index": 9
     },
     {
-      "title": "炸鸡店员工挠屁股被开除",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%82%B8%E9%B8%A1%E5%BA%97%E5%91%98%E5%B7%A5%E6%8C%A0%E5%B1%81%E8%82%A1%E8%A2%AB%E5%BC%80%E9%99%A4",
-      "hot_value": "1,075.8万",
+      "title": "修车老板暴雨夜借车给女子",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BF%AE%E8%BD%A6%E8%80%81%E6%9D%BF%E6%9A%B4%E9%9B%A8%E5%A4%9C%E5%80%9F%E8%BD%A6%E7%BB%99%E5%A5%B3%E5%AD%90",
+      "hot_value": "1,094.6万",
       "index": 10
     },
     {
       "title": "河南近期这些涉汛传言都是假的",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8D%97%E8%BF%91%E6%9C%9F%E8%BF%99%E4%BA%9B%E6%B6%89%E6%B1%9B%E4%BC%A0%E8%A8%80%E9%83%BD%E6%98%AF%E5%81%87%E7%9A%84",
-      "hot_value": "1,060.8万",
+      "hot_value": "1,087.2万",
       "index": 11
     },
     {
-      "title": "中国足球小将vs巴萨",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86vs%E5%B7%B4%E8%90%A8",
-      "hot_value": "1,054万",
+      "title": "女子加满油感谢借车老板",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%8A%A0%E6%BB%A1%E6%B2%B9%E6%84%9F%E8%B0%A2%E5%80%9F%E8%BD%A6%E8%80%81%E6%9D%BF",
+      "hot_value": "1,072.9万",
       "index": 12
     },
     {
-      "title": "白海豚走了 梭子蟹来了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%B5%B0%E4%BA%86%20%E6%A2%AD%E5%AD%90%E8%9F%B9%E6%9D%A5%E4%BA%86",
-      "hot_value": "1,033.3万",
+      "title": "周口交警涉水帮老人推车",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%91%A8%E5%8F%A3%E4%BA%A4%E8%AD%A6%E6%B6%89%E6%B0%B4%E5%B8%AE%E8%80%81%E4%BA%BA%E6%8E%A8%E8%BD%A6",
+      "hot_value": "1,052.5万",
       "index": 13
     },
     {
-      "title": "银行能办结婚证了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%93%B6%E8%A1%8C%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86",
-      "hot_value": "1,010.6万",
+      "title": "女子内衣裤藏烟被查获",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%86%85%E8%A1%A3%E8%A3%A4%E8%97%8F%E7%83%9F%E8%A2%AB%E6%9F%A5%E8%8E%B7",
+      "hot_value": "1,031.5万",
       "index": 14
     },
     {
       "title": "唱片转场",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%94%B1%E7%89%87%E8%BD%AC%E5%9C%BA",
-      "hot_value": "1,008.2万",
+      "hot_value": "1,008.4万",
       "index": 15
+    },
+    {
+      "title": "白海豚走了 梭子蟹来了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%B5%B0%E4%BA%86%20%E6%A2%AD%E5%AD%90%E8%9F%B9%E6%9D%A5%E4%BA%86",
+      "hot_value": "1,006.4万",
+      "index": 16
+    },
+    {
+      "title": "以军误向友军发射拦截弹",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%A5%E5%86%9B%E8%AF%AF%E5%90%91%E5%8F%8B%E5%86%9B%E5%8F%91%E5%B0%84%E6%8B%A6%E6%88%AA%E5%BC%B9",
+      "hot_value": "1,004.1万",
+      "index": 17
+    },
+    {
+      "title": "银行能办结婚证了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%93%B6%E8%A1%8C%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86",
+      "hot_value": "1,001.4万",
+      "index": 18
+    },
+    {
+      "title": "谢震业100米夺冠",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B0%A2%E9%9C%87%E4%B8%9A100%E7%B1%B3%E5%A4%BA%E5%86%A0",
+      "hot_value": "998.7万",
+      "index": 19
+    },
+    {
+      "title": "炸鸡店员工挠屁股被开除",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%82%B8%E9%B8%A1%E5%BA%97%E5%91%98%E5%B7%A5%E6%8C%A0%E5%B1%81%E8%82%A1%E8%A2%AB%E5%BC%80%E9%99%A4",
+      "hot_value": "996.5万",
+      "index": 20
     },
     {
       "title": "男子每天50支烟肺成蜂窝",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A950%E6%94%AF%E7%83%9F%E8%82%BA%E6%88%90%E8%9C%82%E7%AA%9D",
-      "hot_value": "1,005.4万",
-      "index": 16
+      "hot_value": "993.6万",
+      "index": 21
+    },
+    {
+      "title": "大公鸡啄小孩被奶奶炖了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E5%85%AC%E9%B8%A1%E5%95%84%E5%B0%8F%E5%AD%A9%E8%A2%AB%E5%A5%B6%E5%A5%B6%E7%82%96%E4%BA%86",
+      "hot_value": "990.7万",
+      "index": 22
     },
     {
       "title": "辽宁将迎暴雨强对流",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BE%BD%E5%AE%81%E5%B0%86%E8%BF%8E%E6%9A%B4%E9%9B%A8%E5%BC%BA%E5%AF%B9%E6%B5%81",
-      "hot_value": "1,003.2万",
-      "index": 17
+      "hot_value": "988.3万",
+      "index": 23
     },
     {
-      "title": "胖东来许昌老店关闭周边商户发声",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%AE%B8%E6%98%8C%E8%80%81%E5%BA%97%E5%85%B3%E9%97%AD%E5%91%A8%E8%BE%B9%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0",
-      "hot_value": "1,001.1万",
-      "index": 18
-    },
-    {
-      "title": "邹市明辟谣换老公传闻",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%B9%E5%B8%82%E6%98%8E%E8%BE%9F%E8%B0%A3%E6%8D%A2%E8%80%81%E5%85%AC%E4%BC%A0%E9%97%BB",
-      "hot_value": "995.6万",
-      "index": 19
-    },
-    {
-      "title": "女子看手相被骗63万",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E7%9C%8B%E6%89%8B%E7%9B%B8%E8%A2%AB%E9%AA%9763%E4%B8%87",
-      "hot_value": "991.1万",
-      "index": 20
-    },
-    {
-      "title": "靳东现身爱丁堡艺术节",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9D%B3%E4%B8%9C%E7%8E%B0%E8%BA%AB%E7%88%B1%E4%B8%81%E5%A0%A1%E8%89%BA%E6%9C%AF%E8%8A%82",
-      "hot_value": "990.7万",
-      "index": 21
-    },
-    {
-      "title": "我国加快自然资源“一张图”建设",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E5%9B%BD%E5%8A%A0%E5%BF%AB%E8%87%AA%E7%84%B6%E8%B5%84%E6%BA%90%E2%80%9C%E4%B8%80%E5%BC%A0%E5%9B%BE%E2%80%9D%E5%BB%BA%E8%AE%BE",
+      "title": "中国足球小将vs巴萨",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86vs%E5%B7%B4%E8%90%A8",
       "hot_value": "986.2万",
-      "index": 22
+      "index": 24
     },
     {
       "title": "邓恩熙投喂丁禹兮",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%93%E6%81%A9%E7%86%99%E6%8A%95%E5%96%82%E4%B8%81%E7%A6%B9%E5%85%AE",
-      "hot_value": "985.5万",
-      "index": 23
-    },
-    {
-      "title": "交口县出现雷电天气",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BA%A4%E5%8F%A3%E5%8E%BF%E5%87%BA%E7%8E%B0%E9%9B%B7%E7%94%B5%E5%A4%A9%E6%B0%94",
-      "hot_value": "981.5万",
-      "index": 24
-    },
-    {
-      "title": "香港一野猪卡栏杆后死亡",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A6%99%E6%B8%AF%E4%B8%80%E9%87%8E%E7%8C%AA%E5%8D%A1%E6%A0%8F%E6%9D%86%E5%90%8E%E6%AD%BB%E4%BA%A1",
-      "hot_value": "979.4万",
+      "hot_value": "983.5万",
       "index": 25
     },
     {
-      "title": "大叔胸前长痘确诊乳腺癌",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E5%8F%94%E8%83%B8%E5%89%8D%E9%95%BF%E7%97%98%E7%A1%AE%E8%AF%8A%E4%B9%B3%E8%85%BA%E7%99%8C",
-      "hot_value": "977.1万",
+      "title": "胖东来许昌老店关闭周边商户发声",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%83%96%E4%B8%9C%E6%9D%A5%E8%AE%B8%E6%98%8C%E8%80%81%E5%BA%97%E5%85%B3%E9%97%AD%E5%91%A8%E8%BE%B9%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0",
+      "hot_value": "981.2万",
       "index": 26
     },
     {
-      "title": "左奇函老公王",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B7%A6%E5%A5%87%E5%87%BD%E8%80%81%E5%85%AC%E7%8E%8B",
-      "hot_value": "974.3万",
+      "title": "男子抽搐收费员翻桌救人",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E6%8A%BD%E6%90%90%E6%94%B6%E8%B4%B9%E5%91%98%E7%BF%BB%E6%A1%8C%E6%95%91%E4%BA%BA",
+      "hot_value": "978.6万",
       "index": 27
     },
     {
-      "title": "日本民众呼吁摧毁靖国神社",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%91%BC%E5%90%81%E6%91%A7%E6%AF%81%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE",
-      "hot_value": "971.6万",
+      "title": "村干部舍百万产业保村民",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%91%E5%B9%B2%E9%83%A8%E8%88%8D%E7%99%BE%E4%B8%87%E4%BA%A7%E4%B8%9A%E4%BF%9D%E6%9D%91%E6%B0%91",
+      "hot_value": "976.5万",
       "index": 28
     },
     {
-      "title": "甘肃明令禁止抓蝎子",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%98%E8%82%83%E6%98%8E%E4%BB%A4%E7%A6%81%E6%AD%A2%E6%8A%93%E8%9D%8E%E5%AD%90",
-      "hot_value": "966.6万",
+      "title": "襄阳暴雨突破历史极值",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A5%84%E9%98%B3%E6%9A%B4%E9%9B%A8%E7%AA%81%E7%A0%B4%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC",
+      "hot_value": "974万",
       "index": 29
     },
     {
-      "title": "两弹一星元勋王希季逝世",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E5%85%83%E5%8B%8B%E7%8E%8B%E5%B8%8C%E5%AD%A3%E9%80%9D%E4%B8%96",
-      "hot_value": "964.2万",
+      "title": "河南铸铁锅招工电话打爆",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8D%97%E9%93%B8%E9%93%81%E9%94%85%E6%8B%9B%E5%B7%A5%E7%94%B5%E8%AF%9D%E6%89%93%E7%88%86",
+      "hot_value": "971.8万",
       "index": 30
     }
   ]
