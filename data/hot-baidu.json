@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-08-14T19:27:24Z",
+  "update_time": "2026-08-14T20:03:20Z",
   "count": 30,
   "list": [
     {
       "title": "让思想之光照亮强军征程",
       "url": "https://www.baidu.com/s?wd=%E8%AE%A9%E6%80%9D%E6%83%B3%E4%B9%8B%E5%85%89%E7%85%A7%E4%BA%AE%E5%BC%BA%E5%86%9B%E5%BE%81%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904847",
+      "hot_value": "7904062",
       "index": 1
     },
     {
       "title": "这些一次性塑料制品禁用",
       "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%80%E6%AC%A1%E6%80%A7%E5%A1%91%E6%96%99%E5%88%B6%E5%93%81%E7%A6%81%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7808414",
+      "hot_value": "7808354",
       "index": 2
     },
     {
       "title": "河南一传染病医院被淹",
       "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E4%BC%A0%E6%9F%93%E7%97%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%B7%B9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7713694",
+      "hot_value": "7713510",
       "index": 3
     },
     {
       "title": "暴雨洪涝过后 喝水千万别大意",
       "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E8%BF%87%E5%90%8E+%E5%96%9D%E6%B0%B4%E5%8D%83%E4%B8%87%E5%88%AB%E5%A4%A7%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7616708",
+      "hot_value": "7619140",
       "index": 4
     },
     {
       "title": "河南周口河水暴涨",
       "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3%E6%B2%B3%E6%B0%B4%E6%9A%B4%E6%B6%A8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7522556",
+      "hot_value": "7519640",
       "index": 5
     },
     {
       "title": "放弃酒店睡车里 自驾1月省万元住宿费",
       "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E9%85%92%E5%BA%97%E7%9D%A1%E8%BD%A6%E9%87%8C+%E8%87%AA%E9%A9%BE1%E6%9C%88%E7%9C%81%E4%B8%87%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7423581",
+      "hot_value": "7428024",
       "index": 6
     },
     {
-      "title": "郭德纲西安演出取消",
-      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7327774",
+      "title": "“羊群效应”体现得淋漓尽致",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8A%E7%BE%A4%E6%95%88%E5%BA%94%E2%80%9D%E4%BD%93%E7%8E%B0%E5%BE%97%E6%B7%8B%E6%BC%93%E5%B0%BD%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7327561",
       "index": 7
     },
     {
       "title": "小沈阳刚开播就把腰闪了",
       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%88%9A%E5%BC%80%E6%92%AD%E5%B0%B1%E6%8A%8A%E8%85%B0%E9%97%AA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7231582",
+      "hot_value": "7235888",
       "index": 8
     },
     {
-      "title": "“羊群效应”体现得淋漓尽致",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8A%E7%BE%A4%E6%95%88%E5%BA%94%E2%80%9D%E4%BD%93%E7%8E%B0%E5%BE%97%E6%B7%8B%E6%BC%93%E5%B0%BD%E8%87%B4&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7139652",
+      "title": "郭德纲西安演出取消",
+      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7138006",
       "index": 9
     },
     {
       "title": "王传君19年前就参加过选秀",
       "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B19%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%8F%82%E5%8A%A0%E8%BF%87%E9%80%89%E7%A7%80&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7040119",
+      "hot_value": "7046186",
       "index": 10
     },
     {
       "title": "长三角警惕极端暴雨",
       "url": "https://www.baidu.com/s?wd=%E9%95%BF%E4%B8%89%E8%A7%92%E8%AD%A6%E6%83%95%E6%9E%81%E7%AB%AF%E6%9A%B4%E9%9B%A8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6946086",
+      "hot_value": "6951044",
       "index": 11
     },
     {
       "title": "许昌暴雨60万人断水停电系谣言",
       "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E6%98%8C%E6%9A%B4%E9%9B%A860%E4%B8%87%E4%BA%BA%E6%96%AD%E6%B0%B4%E5%81%9C%E7%94%B5%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6847832",
+      "hot_value": "6857897",
       "index": 12
     },
     {
       "title": "81年前“日本投降矣！”",
       "url": "https://www.baidu.com/s?wd=81%E5%B9%B4%E5%89%8D%E2%80%9C%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E7%9F%A3%EF%BC%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6757252",
+      "hot_value": "6762988",
       "index": 13
-    },
-    {
-      "title": "僵尸广告面包车霸占车位10年有余",
-      "url": "https://www.baidu.com/s?wd=%E5%83%B5%E5%B0%B8%E5%B9%BF%E5%91%8A%E9%9D%A2%E5%8C%85%E8%BD%A6%E9%9C%B8%E5%8D%A0%E8%BD%A6%E4%BD%8D10%E5%B9%B4%E6%9C%89%E4%BD%99&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6663215",
-      "index": 14
-    },
-    {
-      "title": "《我的前半生》 暑期唯一爆剧",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%E3%80%8B+%E6%9A%91%E6%9C%9F%E5%94%AF%E4%B8%80%E7%88%86%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6563884",
-      "index": 15
-    },
-    {
-      "title": "报名费800元受伤率31.8% 图什么",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%A5%E5%90%8D%E8%B4%B9800%E5%85%83%E5%8F%97%E4%BC%A4%E7%8E%8731.8%25+%E5%9B%BE%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6466781",
-      "index": 16
-    },
-    {
-      "title": "12对双胞胎考上同一所大学",
-      "url": "https://www.baidu.com/s?wd=12%E5%AF%B9%E5%8F%8C%E8%83%9E%E8%83%8E%E8%80%83%E4%B8%8A%E5%90%8C%E4%B8%80%E6%89%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6380919",
-      "index": 17
-    },
-    {
-      "title": "茅台已有多名高管落马",
-      "url": "https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%B7%B2%E6%9C%89%E5%A4%9A%E5%90%8D%E9%AB%98%E7%AE%A1%E8%90%BD%E9%A9%AC&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6271009",
-      "index": 18
     },
     {
       "title": "突然走红的韩国冰奶在韩国查无此物",
       "url": "https://www.baidu.com/s?wd=%E7%AA%81%E7%84%B6%E8%B5%B0%E7%BA%A2%E7%9A%84%E9%9F%A9%E5%9B%BD%E5%86%B0%E5%A5%B6%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%9F%A5%E6%97%A0%E6%AD%A4%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6178759",
-      "index": 19
+      "hot_value": "6665550",
+      "index": 14
     },
     {
-      "title": "江浙特大暴雨 白海豚怎么还没走",
-      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E6%B5%99%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8+%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%80%8E%E4%B9%88%E8%BF%98%E6%B2%A1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6097965",
-      "index": 20
+      "title": "僵尸广告面包车霸占车位10年有余",
+      "url": "https://www.baidu.com/s?wd=%E5%83%B5%E5%B0%B8%E5%B9%BF%E5%91%8A%E9%9D%A2%E5%8C%85%E8%BD%A6%E9%9C%B8%E5%8D%A0%E8%BD%A6%E4%BD%8D10%E5%B9%B4%E6%9C%89%E4%BD%99&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6572065",
+      "index": 15
     },
     {
-      "title": "你愿意为电动车智能服务“续费”吗",
-      "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%84%BF%E6%84%8F%E4%B8%BA%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E2%80%9C%E7%BB%AD%E8%B4%B9%E2%80%9D%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5989409",
-      "index": 21
+      "title": "余文乐怎么黑成这样了",
+      "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%96%87%E4%B9%90%E6%80%8E%E4%B9%88%E9%BB%91%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6463893",
+      "index": 16
     },
     {
-      "title": "小伙坐5小时高铁下车突发深静脉血栓",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E4%B8%8B%E8%BD%A6%E7%AA%81%E5%8F%91%E6%B7%B1%E9%9D%99%E8%84%89%E8%A1%80%E6%A0%93&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5907811",
-      "index": 22
+      "title": "《我的前半生》 暑期唯一爆剧",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%E3%80%8B+%E6%9A%91%E6%9C%9F%E5%94%AF%E4%B8%80%E7%88%86%E5%89%A7&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6374012",
+      "index": 17
+    },
+    {
+      "title": "12对双胞胎考上同一所大学",
+      "url": "https://www.baidu.com/s?wd=12%E5%AF%B9%E5%8F%8C%E8%83%9E%E8%83%8E%E8%80%83%E4%B8%8A%E5%90%8C%E4%B8%80%E6%89%80%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6286453",
+      "index": 18
     },
     {
       "title": "二手豪华车为啥卖不动了",
       "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%89%8B%E8%B1%AA%E5%8D%8E%E8%BD%A6%E4%B8%BA%E5%95%A5%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5791156",
+      "hot_value": "6188556",
+      "index": 19
+    },
+    {
+      "title": "报名费800元受伤率31.8% 图什么",
+      "url": "https://www.baidu.com/s?wd=%E6%8A%A5%E5%90%8D%E8%B4%B9800%E5%85%83%E5%8F%97%E4%BC%A4%E7%8E%8731.8%25+%E5%9B%BE%E4%BB%80%E4%B9%88&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6096235",
+      "index": 20
+    },
+    {
+      "title": "朋友圈永远不会有二次编辑功能",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E6%9C%89%E4%BA%8C%E6%AC%A1%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5986507",
+      "index": 21
+    },
+    {
+      "title": "江浙特大暴雨 白海豚怎么还没走",
+      "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E6%B5%99%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8+%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%80%8E%E4%B9%88%E8%BF%98%E6%B2%A1%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5894694",
+      "index": 22
+    },
+    {
+      "title": "小伙坐5小时高铁下车突发深静脉血栓",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E4%B8%8B%E8%BD%A6%E7%AA%81%E5%8F%91%E6%B7%B1%E9%9D%99%E8%84%89%E8%A1%80%E6%A0%93&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5795840",
       "index": 23
     },
     {
-      "title": "对着别人手机念数字就可能背上贷款",
-      "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E7%9D%80%E5%88%AB%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%83%8C%E4%B8%8A%E8%B4%B7%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5707596",
+      "title": "刘畊宏体能比拼输给了余文乐",
+      "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F%E4%BD%93%E8%83%BD%E6%AF%94%E6%8B%BC%E8%BE%93%E7%BB%99%E4%BA%86%E4%BD%99%E6%96%87%E4%B9%90&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5705841",
       "index": 24
     },
     {
       "title": "林诗栋苦战5局遭逆转无缘八强",
       "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%8B%A6%E6%88%985%E5%B1%80%E9%81%AD%E9%80%86%E8%BD%AC%E6%97%A0%E7%BC%98%E5%85%AB%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5619235",
+      "hot_value": "5618491",
       "index": 25
     },
     {
       "title": "刘昊然：2年之后未必不会唱跳",
       "url": "https://www.baidu.com/s?wd=%E5%88%98%E6%98%8A%E7%84%B6%EF%BC%9A2%E5%B9%B4%E4%B9%8B%E5%90%8E%E6%9C%AA%E5%BF%85%E4%B8%8D%E4%BC%9A%E5%94%B1%E8%B7%B3&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5516983",
+      "hot_value": "5506999",
       "index": 26
+    },
+    {
+      "title": "博主被某香港影帝骂穷土包子",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E8%A2%AB%E6%9F%90%E9%A6%99%E6%B8%AF%E5%BD%B1%E5%B8%9D%E9%AA%82%E7%A9%B7%E5%9C%9F%E5%8C%85%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5410977",
+      "index": 27
+    },
+    {
+      "title": "对着别人手机念数字就可能背上贷款",
+      "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E7%9D%80%E5%88%AB%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%83%8C%E4%B8%8A%E8%B4%B7%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5316264",
+      "index": 28
     },
     {
       "title": "餐厅合伙人讲述真实“龙餐馆”",
       "url": "https://www.baidu.com/s?wd=%E9%A4%90%E5%8E%85%E5%90%88%E4%BC%99%E4%BA%BA%E8%AE%B2%E8%BF%B0%E7%9C%9F%E5%AE%9E%E2%80%9C%E9%BE%99%E9%A4%90%E9%A6%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5421640",
-      "index": 27
-    },
-    {
-      "title": "余文乐怎么黑成这样了",
-      "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%96%87%E4%B9%90%E6%80%8E%E4%B9%88%E9%BB%91%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5311816",
-      "index": 28
-    },
-    {
-      "title": "披荆斩棘直播事故",
-      "url": "https://www.baidu.com/s?wd=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD%E4%BA%8B%E6%95%85&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5234548",
+      "hot_value": "5221501",
       "index": 29
     },
     {
-      "title": "刘畊宏来《披荆斩棘》也要跳操",
-      "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F%E6%9D%A5%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E3%80%8B%E4%B9%9F%E8%A6%81%E8%B7%B3%E6%93%8D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5126857",
+      "title": "张彬彬求跟孙楠住一屋",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%B1%82%E8%B7%9F%E5%AD%99%E6%A5%A0%E4%BD%8F%E4%B8%80%E5%B1%8B&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5123282",
       "index": 30
     }
   ]
