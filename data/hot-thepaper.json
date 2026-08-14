@@ -1,7 +1,7 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-08-14T16:14:10Z",
+  "update_time": "2026-08-14T17:26:58Z",
   "count": 20,
   "list": [
     {
@@ -59,32 +59,32 @@
       "index": 9
     },
     {
+      "title": "郭德纲即兴改编被举报后，西安浐灞保利大剧院：麒麟剧社巡演西安站取消正退票",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33784423",
+      "hot_value": "",
+      "index": 10
+    },
+    {
       "title": "宁德福安一船厂发生火灾，23岁消防员池坷杰不幸牺牲",
       "url": "https://www.thepaper.cn/newsDetail_forward_33780632",
       "hot_value": "",
-      "index": 10
+      "index": 11
     },
     {
       "title": "山西一医院通报实习护士晒患者隐私照：终止其实习资格，问责科室责任人",
       "url": "https://www.thepaper.cn/newsDetail_forward_33784353",
       "hot_value": "",
-      "index": 11
-    },
-    {
-      "title": "郭德纲即兴改编被举报后，西安浐灞保利大剧院：麒麟剧社巡演西安站取消正退票",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33784423",
-      "hot_value": "",
       "index": 12
-    },
-    {
-      "title": "湖北省文旅厅：协调处置“郭德纲被举报未报备改编红歌”事件",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33784773",
-      "hot_value": "",
-      "index": 13
     },
     {
       "title": "跨越海峡的亲情纽带，在泸沽湖畔一次偶遇之后重新系紧",
       "url": "https://www.thepaper.cn/newsDetail_forward_33782979",
+      "hot_value": "",
+      "index": 13
+    },
+    {
+      "title": "湖北省文旅厅：协调处置“郭德纲被举报未报备改编红歌”事件",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33784773",
       "hot_value": "",
       "index": 14
     },
@@ -113,14 +113,14 @@
       "index": 18
     },
     {
-      "title": "国防部：“台独”死局演不赢、改不了",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33783003",
+      "title": "对话卡内基梅隆大学教授鲁斯兰（下）：AI时代，我们站在怎样的分岔口？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33737938",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "对话卡内基梅隆大学教授鲁斯兰（下）：AI时代，我们站在怎样的分岔口？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33737938",
+      "title": "国防部：“台独”死局演不赢、改不了",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33783003",
       "hot_value": "",
       "index": 20
     }
