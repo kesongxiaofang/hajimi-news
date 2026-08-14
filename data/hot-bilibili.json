@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-14T05:28:16Z",
+  "update_time": "2026-08-14T06:54:40Z",
   "count": 30,
   "list": [
     {
-      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
-      "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
-      "hot_value": "2666917播放",
+      "title": "长着云台的手机？荣耀Robot Phone上手",
+      "url": "https://www.bilibili.com/video/BV1UKgL6SEyA",
+      "hot_value": "4791060播放",
       "index": 1
     },
     {
-      "title": "琢磨个把月，用一张纸折出了奥黛塔",
-      "url": "https://www.bilibili.com/video/BV1QRuB6HEnA",
-      "hot_value": "1472870播放",
+      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
+      "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
+      "hot_value": "2803211播放",
       "index": 2
     },
     {
-      "title": "黑白色经典星空喷漆画，划走你就草率了",
-      "url": "https://www.bilibili.com/video/BV1Mquv6MEEw",
-      "hot_value": "1376989播放",
+      "title": "《影之刃零》预购开启，11分钟实机预告公开",
+      "url": "https://www.bilibili.com/video/BV1Hmuv68EWW",
+      "hot_value": "12065375播放",
       "index": 3
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第1集 遗忘的过去【8月国创】",
       "url": "https://www.bilibili.com/video/BV1hyuC6eEwm",
-      "hot_value": "725931播放",
+      "hot_value": "848849播放",
       "index": 4
     },
     {
-      "title": "长着云台的手机？荣耀Robot Phone上手",
-      "url": "https://www.bilibili.com/video/BV1UKgL6SEyA",
-      "hot_value": "4593772播放",
+      "title": "琢磨个把月，用一张纸折出了奥黛塔",
+      "url": "https://www.bilibili.com/video/BV1QRuB6HEnA",
+      "hot_value": "1551683播放",
       "index": 5
     },
     {
-      "title": "《影之刃零》预购开启，11分钟实机预告公开",
-      "url": "https://www.bilibili.com/video/BV1Hmuv68EWW",
-      "hot_value": "11935561播放",
+      "title": "黑白色经典星空喷漆画，划走你就草率了",
+      "url": "https://www.bilibili.com/video/BV1Mquv6MEEw",
+      "hot_value": "1440317播放",
       "index": 6
     },
     {
-      "title": "【原神一条龙全收集】至冬7.0(成就数/冰神瞳/摩拉/影生翼滴/枪械蓝图)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
-      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
-      "hot_value": "2853092播放",
+      "title": "河流地貌",
+      "url": "https://www.bilibili.com/video/BV1o1gG6xEXK",
+      "hot_value": "3038169播放",
       "index": 7
     },
     {
       "title": "猎哥说打绝航能让人眼前一亮【三角洲动画·勇敢者篇】",
       "url": "https://www.bilibili.com/video/BV13Ygn6qEG3",
-      "hot_value": "1534205播放",
+      "hot_value": "1585229播放",
       "index": 8
     },
     {
-      "title": "河流地貌",
-      "url": "https://www.bilibili.com/video/BV1o1gG6xEXK",
-      "hot_value": "2974411播放",
+      "title": "【原神一条龙全收集】至冬7.0(成就数/冰神瞳/摩拉/影生翼滴/枪械蓝图)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
+      "hot_value": "2959062播放",
       "index": 9
-    },
-    {
-      "title": "🐧功夫女足🐧",
-      "url": "https://www.bilibili.com/video/BV1PzgE6RE4D",
-      "hot_value": "859656播放",
-      "index": 10
     },
     {
       "title": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
       "url": "https://www.bilibili.com/video/BV1cXgp6aESY",
-      "hot_value": "1075210播放",
+      "hot_value": "1141039播放",
+      "index": 10
+    },
+    {
+      "title": "🐧功夫女足🐧",
+      "url": "https://www.bilibili.com/video/BV1PzgE6RE4D",
+      "hot_value": "916271播放",
       "index": 11
-    },
-    {
-      "title": "【大航海TV】乾乾是海洋之子！？",
-      "url": "https://www.bilibili.com/video/BV1Nrgn6wERm",
-      "hot_value": "1104811播放",
-      "index": 12
-    },
-    {
-      "title": "【恐怖版】PVZ恐怖版：序章宣传片",
-      "url": "https://www.bilibili.com/video/BV1F2gj6GEMw",
-      "hot_value": "959592播放",
-      "index": 13
-    },
-    {
-      "title": "《癫佬外传》第一季合集",
-      "url": "https://www.bilibili.com/video/BV1y1uW6wEAA",
-      "hot_value": "3365131播放",
-      "index": 14
     },
     {
       "title": "路况千千万，总能遇到点新知识，今天是地上的大镜子",
       "url": "https://www.bilibili.com/video/BV16juq6bEFc",
-      "hot_value": "2552756播放",
-      "index": 15
-    },
-    {
-      "title": "谁家的兽耳娘跑出来了？【up动画】",
-      "url": "https://www.bilibili.com/video/BV1EVgn6nEmm",
-      "hot_value": "841756播放",
-      "index": 16
-    },
-    {
-      "title": "⚡️你 上 你 也 肘⚡️",
-      "url": "https://www.bilibili.com/video/BV1QAg768EMb",
-      "hot_value": "1412625播放",
-      "index": 17
-    },
-    {
-      "title": "我们用Seedance2.5重拍了《皇帝的新衣》",
-      "url": "https://www.bilibili.com/video/BV1Mwu86dEfh",
-      "hot_value": "528703播放",
-      "index": 18
-    },
-    {
-      "title": "《人类史上最绝望事件》",
-      "url": "https://www.bilibili.com/video/BV1ZwgG6dEUs",
-      "hot_value": "2398526播放",
-      "index": 19
-    },
-    {
-      "title": "🐧当你打游戏时父母进你房间蹭空调🐧",
-      "url": "https://www.bilibili.com/video/BV1nngV6YEzr",
-      "hot_value": "5524469播放",
-      "index": 20
-    },
-    {
-      "title": "我的世界 但是「网格版」？？！",
-      "url": "https://www.bilibili.com/video/BV144g567EZo",
-      "hot_value": "876635播放",
-      "index": 21
+      "hot_value": "2608568播放",
+      "index": 12
     },
     {
       "title": "《顽童戏老叟》",
       "url": "https://www.bilibili.com/video/BV1EAuk6CEfw",
-      "hot_value": "8725907播放",
-      "index": 22
+      "hot_value": "8779330播放",
+      "index": 13
     },
     {
-      "title": "【毕导】吵翻天了！飞机放在跑步机上，到底能不能起飞？",
-      "url": "https://www.bilibili.com/video/BV1MYgE6fE7v",
-      "hot_value": "1404985播放",
-      "index": 23
+      "title": "⚡️你 上 你 也 肘⚡️",
+      "url": "https://www.bilibili.com/video/BV1QAg768EMb",
+      "hot_value": "1489892播放",
+      "index": 14
     },
     {
-      "title": "悲催历史人物志——梵高",
-      "url": "https://www.bilibili.com/video/BV1k8gH6tEN6",
-      "hot_value": "601984播放",
-      "index": 24
+      "title": "【恐怖版】PVZ恐怖版：序章宣传片",
+      "url": "https://www.bilibili.com/video/BV1F2gj6GEMw",
+      "hot_value": "1024167播放",
+      "index": 15
     },
     {
-      "title": "臣妾要线上告发熹贵妃",
-      "url": "https://www.bilibili.com/video/BV1BsgV6fEv9",
-      "hot_value": "1950846播放",
-      "index": 25
+      "title": "《人类史上最绝望事件》",
+      "url": "https://www.bilibili.com/video/BV1ZwgG6dEUs",
+      "hot_value": "2449795播放",
+      "index": 16
     },
     {
-      "title": "[审美积累]“黑暗时代所定义的中世纪电影美学”",
-      "url": "https://www.bilibili.com/video/BV1MKgL6DEpH",
-      "hot_value": "1402862播放",
-      "index": 26
+      "title": "《癫佬外传》第一季合集",
+      "url": "https://www.bilibili.com/video/BV1y1uW6wEAA",
+      "hot_value": "3403232播放",
+      "index": 17
+    },
+    {
+      "title": "【大航海TV】乾乾是海洋之子！？",
+      "url": "https://www.bilibili.com/video/BV1Nrgn6wERm",
+      "hot_value": "1158058播放",
+      "index": 18
+    },
+    {
+      "title": "🐧当你打游戏时父母进你房间蹭空调🐧",
+      "url": "https://www.bilibili.com/video/BV1nngV6YEzr",
+      "hot_value": "5572199播放",
+      "index": 19
+    },
+    {
+      "title": "用MC还原《神的随波逐流》 【B萌应援】",
+      "url": "https://www.bilibili.com/video/BV1e1gH67EjN",
+      "hot_value": "218674播放",
+      "index": 20
     },
     {
       "title": "这个卖莲蓬的傲慢小贩，差点弄伤我的鳞片！",
       "url": "https://www.bilibili.com/video/BV12Cgp6BE6W",
-      "hot_value": "356826播放",
-      "index": 27
+      "hot_value": "377317播放",
+      "index": 21
     },
     {
-      "title": "哨兵",
-      "url": "https://www.bilibili.com/video/BV1QGgW6mEs9",
-      "hot_value": "778289播放",
-      "index": 28
+      "title": "《洛克王国：世界》皮卡月刊「初心的继承者」上架预告！",
+      "url": "https://www.bilibili.com/video/BV1HTgn6sEU9",
+      "hot_value": "474493播放",
+      "index": 22
+    },
+    {
+      "title": "《夜幕之下》活动版本PV：献予此世之雨",
+      "url": "https://www.bilibili.com/video/BV1udgH6rEjW",
+      "hot_value": "189033播放",
+      "index": 23
+    },
+    {
+      "title": "【毕导】吵翻天了！飞机放在跑步机上，到底能不能起飞？",
+      "url": "https://www.bilibili.com/video/BV1MYgE6fE7v",
+      "hot_value": "1441906播放",
+      "index": 24
+    },
+    {
+      "title": "我的世界恐怖单方块空岛生存【第三期】被虐的有点体无完肤了",
+      "url": "https://www.bilibili.com/video/BV13wua6eEFR",
+      "hot_value": "467178播放",
+      "index": 25
     },
     {
       "title": "仔细想想我们这是被绑架了吧 😱 | TXT第一次旅行去上海 #要逃跑吗？#EP.1",
       "url": "https://www.bilibili.com/video/BV1gcgV6jEgU",
-      "hot_value": "417243播放",
+      "hot_value": "438836播放",
+      "index": 26
+    },
+    {
+      "title": "臣妾要线上告发熹贵妃",
+      "url": "https://www.bilibili.com/video/BV1BsgV6fEv9",
+      "hot_value": "1970306播放",
+      "index": 27
+    },
+    {
+      "title": "牢玩家崛起了，终于可以放心放权给他了",
+      "url": "https://www.bilibili.com/video/BV1tNgs6VESR",
+      "hot_value": "352719播放",
+      "index": 28
+    },
+    {
+      "title": "⚡颅 蹬 的 回 声⚡",
+      "url": "https://www.bilibili.com/video/BV1gng56HEDt",
+      "hot_value": "2437061播放",
       "index": 29
     },
     {
-      "title": "最后离开的人，赢得这座百万豪宅！",
-      "url": "https://www.bilibili.com/video/BV13bgn6gEg1",
-      "hot_value": "541151播放",
+      "title": "谁家的兽耳娘跑出来了？【up动画】",
+      "url": "https://www.bilibili.com/video/BV1EVgn6nEmm",
+      "hot_value": "874357播放",
       "index": 30
     }
   ]
