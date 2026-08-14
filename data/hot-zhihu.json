@@ -1,103 +1,103 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-14T20:03:20Z",
+  "update_time": "2026-08-14T20:54:45Z",
   "count": 30,
   "list": [
     {
       "title": "如何评价零宣发国产动画电影《牛来》上映，建模粗糙惊呆观众，9 天累计票房仅为 7169 元？",
       "url": "https://www.zhihu.com/question/2068124989094733448",
-      "hot_value": "718 万热度",
+      "hot_value": "526 万热度",
       "index": 1
     },
     {
       "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
       "url": "https://www.zhihu.com/question/2071486982732223991",
-      "hot_value": "454 万热度",
+      "hot_value": "303 万热度",
       "index": 2
     },
     {
       "title": "如何看待周星驰经纪人内涵《欢迎来龙餐馆》偷票房《功夫女足》，《龙餐馆》回应系影院操作失误?",
       "url": "https://www.zhihu.com/question/2071540861712721478",
-      "hot_value": "304 万热度",
+      "hot_value": "292 万热度",
       "index": 3
     },
     {
       "title": "男子健身房指导女友被场馆教练认定为外来私教，要求看结婚证，否则就办理退卡，这合理吗？健身房有权核查吗？",
       "url": "https://www.zhihu.com/question/2071379437682267339",
-      "hot_value": "274 万热度",
+      "hot_value": "224 万热度",
       "index": 4
     },
     {
       "title": "如何看待呼兰用三个月让开花俱乐部扭亏为盈，月亏最高 12 万变盈利 7 万？",
       "url": "https://www.zhihu.com/question/2070560169344197783",
-      "hot_value": "197 万热度",
+      "hot_value": "175 万热度",
       "index": 5
     },
     {
       "title": "胖东来生活广场店将关闭，周围商户称超市赚钱房东才涨租，于东来称无论钱多钱少，公平正义是底线，如何解读？",
       "url": "https://www.zhihu.com/question/2071247677271040582",
-      "hot_value": "134 万热度",
+      "hot_value": "135 万热度",
       "index": 6
+    },
+    {
+      "title": "自动驾驶都用激光雷达等以后自动驾驶车多起来了，路上的激光雷达会不会相互干扰？",
+      "url": "https://www.zhihu.com/question/455107544",
+      "hot_value": "96 万热度",
+      "index": 7
     },
     {
       "title": "五粮液要求经销商不得低于 800 元卖酒，低价出货将遭处罚，这合法吗？控价政策会给经销商带来哪些影响？",
       "url": "https://www.zhihu.com/question/2071599755390444398",
-      "hot_value": "120 万热度",
-      "index": 7
+      "hot_value": "96 万热度",
+      "index": 8
     },
     {
       "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
       "url": "https://www.zhihu.com/question/2070634579422196628",
-      "hot_value": "112 万热度",
-      "index": 8
-    },
-    {
-      "title": "胖东来许昌 24 年老店将关闭，对周边商户和商圈发展有哪些影响？",
-      "url": "https://www.zhihu.com/question/2071164419271129079",
-      "hot_value": "105 万热度",
+      "hot_value": "92 万热度",
       "index": 9
     },
     {
       "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
       "url": "https://www.zhihu.com/question/2068917345393940011",
-      "hot_value": "101 万热度",
+      "hot_value": "90 万热度",
       "index": 10
-    },
-    {
-      "title": "自动驾驶都用激光雷达等以后自动驾驶车多起来了，路上的激光雷达会不会相互干扰？",
-      "url": "https://www.zhihu.com/question/455107544",
-      "hot_value": "97 万热度",
-      "index": 11
     },
     {
       "title": "2026 WTT 瑞典大满贯，林诗栋 2-3 再次不敌艾利克斯·勒布伦，无缘 8 强，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2071714744893956265",
-      "hot_value": "92 万热度",
+      "hot_value": "88 万热度",
+      "index": 11
+    },
+    {
+      "title": "胖东来许昌 24 年老店将关闭，对周边商户和商圈发展有哪些影响？",
+      "url": "https://www.zhihu.com/question/2071164419271129079",
+      "hot_value": "85 万热度",
       "index": 12
     },
     {
-      "title": "沈腾回应 0 影帝「重要也不重要」，是个演员都有奖项期待，未必能做到让观众和业内都喜欢，如何看待这一回应？",
-      "url": "https://www.zhihu.com/question/2071537931798274400",
-      "hot_value": "91 万热度",
+      "title": "《影之刃零》预售开启，162 万愿望单的它能复刻《黑神话：悟空》的奇迹吗？",
+      "url": "https://www.zhihu.com/question/2070877827172513729",
+      "hot_value": "85 万热度",
       "index": 13
     },
     {
       "title": "小伙为控体重改喝 「0 糖」「无糖」饮料一年多，体重不降反增血脂也升高了，这是什么原因？",
       "url": "https://www.zhihu.com/question/2071242924139067094",
-      "hot_value": "85 万热度",
+      "hot_value": "84 万热度",
       "index": 14
     },
     {
       "title": "比格披萨创始人评论「看你照片破戒了」引发争议，后回应称开玩笑，作为品牌创始人他这一发言合适吗？",
       "url": "https://www.zhihu.com/question/2071198330508648836",
-      "hot_value": "82 万热度",
+      "hot_value": "81 万热度",
       "index": 15
     },
     {
       "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
       "url": "https://www.zhihu.com/question/2070813507499643585",
-      "hot_value": "81 万热度",
+      "hot_value": "80 万热度",
       "index": 16
     },
     {
@@ -109,7 +109,7 @@
     {
       "title": "我们是不是把「不停忙碌」过度美化，低估了休息的价值？",
       "url": "https://www.zhihu.com/question/2071382010166359490",
-      "hot_value": "74 万热度",
+      "hot_value": "73 万热度",
       "index": 18
     },
     {
@@ -119,68 +119,68 @@
       "index": 19
     },
     {
+      "title": "沈腾回应 0 影帝「重要也不重要」，是个演员都有奖项期待，未必能做到让观众和业内都喜欢，如何看待这一回应？",
+      "url": "https://www.zhihu.com/question/2071537931798274400",
+      "hot_value": "61 万热度",
+      "index": 20
+    },
+    {
       "title": "如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？",
       "url": "https://www.zhihu.com/question/2071536115983410411",
       "hot_value": "59 万热度",
-      "index": 20
+      "index": 21
     },
     {
       "title": "中国有什么成语或者典故可以对应「奥德赛」这个词呢？",
       "url": "https://www.zhihu.com/question/489874919",
       "hot_value": "59 万热度",
-      "index": 21
+      "index": 22
     },
     {
       "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
       "url": "https://www.zhihu.com/question/2068993919958742400",
       "hot_value": "59 万热度",
-      "index": 22
+      "index": 23
     },
     {
       "title": "男子好想来买 111 元零食复称仅 64 元，店员退钱但拒绝道歉，零食店频繁出现少称现象，暴露哪些问题？",
       "url": "https://www.zhihu.com/question/2071284209222510012",
-      "hot_value": "59 万热度",
-      "index": 23
+      "hot_value": "58 万热度",
+      "index": 24
     },
     {
       "title": "月薪三万多，和老公都太忙，都没时间照顾孩子，老公让我回家照顾孩子几年先，如果是你该怎么选？",
       "url": "https://www.zhihu.com/question/2068859762461169652",
       "hot_value": "58 万热度",
-      "index": 24
+      "index": 25
     },
     {
       "title": "电影《奥德赛》，在诺兰的作品里，处于什么水平？",
       "url": "https://www.zhihu.com/question/2068703642505459146",
       "hot_value": "58 万热度",
-      "index": 25
+      "index": 26
     },
     {
       "title": "如何看待 Anthropic 传出最快 10 月 IPO，估值目标飙升至 2 万亿美元？",
       "url": "https://www.zhihu.com/question/2071279053672277791",
       "hot_value": "58 万热度",
-      "index": 26
+      "index": 27
     },
     {
       "title": "我们为什么喜欢黑很熟的人？",
       "url": "https://www.zhihu.com/question/33185166",
       "hot_value": "58 万热度",
-      "index": 27
-    },
-    {
-      "title": "西南医科大回应「舍不得买教材就退学」，称教材自愿购买，网友扒出该校曾涉禁买二手书争议，到底咋回事？",
-      "url": "https://www.zhihu.com/question/2071677617145472973",
-      "hot_value": "58 万热度",
       "index": 28
-    },
-    {
-      "title": "甄子丹惊喜出演《影之刃零》，却遭部分玩家质疑，如何看待此次合作？",
-      "url": "https://www.zhihu.com/question/2070922466810245536",
-      "hot_value": "58 万热度",
-      "index": 29
     },
     {
       "title": "100 多的耳机和 1000 的耳机差在哪了？",
       "url": "https://www.zhihu.com/question/1919725373865834153",
+      "hot_value": "58 万热度",
+      "index": 29
+    },
+    {
+      "title": "如何让大学生活变得更丰富有意义一点？",
+      "url": "https://www.zhihu.com/question/2061121380792407704",
       "hot_value": "58 万热度",
       "index": 30
     }
