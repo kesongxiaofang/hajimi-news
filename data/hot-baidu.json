@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-08-15T05:50:07Z",
+  "update_time": "2026-08-15T06:29:57Z",
   "count": 30,
   "list": [
     {
       "title": "共绘美丽中国新画卷",
       "url": "https://www.baidu.com/s?wd=%E5%85%B1%E7%BB%98%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904186",
+      "hot_value": "7904148",
       "index": 1
     },
     {
       "title": "谁“杀死”了驾校",
       "url": "https://www.baidu.com/s?wd=%E8%B0%81%E2%80%9C%E6%9D%80%E6%AD%BB%E2%80%9D%E4%BA%86%E9%A9%BE%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7807886",
+      "hot_value": "7809654",
       "index": 2
     },
     {
       "title": "国防部：敦促日方认罪赎罪",
       "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E8%AE%A4%E7%BD%AA%E8%B5%8E%E7%BD%AA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7711978",
+      "hot_value": "7714648",
       "index": 3
     },
     {
       "title": "勿忘历史 吾辈自强",
       "url": "https://www.baidu.com/s?wd=%E5%8B%BF%E5%BF%98%E5%8E%86%E5%8F%B2+%E5%90%BE%E8%BE%88%E8%87%AA%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7616669",
+      "hot_value": "7616971",
       "index": 4
     },
     {
       "title": "《牛来》票房飙涨977% 影院紧急加场",
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%A5%A8%E6%88%BF%E9%A3%99%E6%B6%A8977%25+%E5%BD%B1%E9%99%A2%E7%B4%A7%E6%80%A5%E5%8A%A0%E5%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7520825",
+      "hot_value": "7520259",
       "index": 5
     },
     {
       "title": "妈妈带儿子录取通知书给同事看却弄丢",
       "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%B8%A6%E5%84%BF%E5%AD%90%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E7%BB%99%E5%90%8C%E4%BA%8B%E7%9C%8B%E5%8D%B4%E5%BC%84%E4%B8%A2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7429261",
+      "hot_value": "7425505",
       "index": 6
-    },
-    {
-      "title": "大规模涨价 手机快买不起了",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7+%E6%89%8B%E6%9C%BA%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7332365",
-      "index": 7
     },
     {
       "title": "《牛来》总票房已怒破10万",
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E5%B7%B2%E6%80%92%E7%A0%B410%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7234955",
+      "hot_value": "7330195",
+      "index": 7
+    },
+    {
+      "title": "宝宝从餐椅跌落 老人不敢告知父母",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E4%BB%8E%E9%A4%90%E6%A4%85%E8%B7%8C%E8%90%BD+%E8%80%81%E4%BA%BA%E4%B8%8D%E6%95%A2%E5%91%8A%E7%9F%A5%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7236661",
       "index": 8
     },
     {
-      "title": "民政局都搬银行了 为何年轻人不买账",
-      "url": "https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E5%B1%80%E9%83%BD%E6%90%AC%E9%93%B6%E8%A1%8C%E4%BA%86+%E4%B8%BA%E4%BD%95%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E4%B9%B0%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7140655",
+      "title": "5万元小车为何卖不动了",
+      "url": "https://www.baidu.com/s?wd=5%E4%B8%87%E5%85%83%E5%B0%8F%E8%BD%A6%E4%B8%BA%E4%BD%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7143903",
       "index": 9
     },
     {
       "title": "欢子 情商",
       "url": "https://www.baidu.com/s?wd=%E6%AC%A2%E5%AD%90+%E6%83%85%E5%95%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7041213",
+      "hot_value": "7045866",
       "index": 10
     },
     {
-      "title": "宝宝从餐椅跌落 老人不敢告知父母",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E5%AE%9D%E4%BB%8E%E9%A4%90%E6%A4%85%E8%B7%8C%E8%90%BD+%E8%80%81%E4%BA%BA%E4%B8%8D%E6%95%A2%E5%91%8A%E7%9F%A5%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6953401",
+      "title": "胖东来首批刑释职工30人无一离职",
+      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6947326",
       "index": 11
     },
     {
       "title": "电车充电辐射危害健康系谣言",
       "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%BD%A6%E5%85%85%E7%94%B5%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6854361",
+      "hot_value": "6855578",
       "index": 12
     },
     {
-      "title": "谁给小沈阳涂这么白的",
-      "url": "https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E5%B0%8F%E6%B2%88%E9%98%B3%E6%B6%82%E8%BF%99%E4%B9%88%E7%99%BD%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6755306",
+      "title": "35岁男子第二性征没发育尴尬看儿科",
+      "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E7%AC%AC%E4%BA%8C%E6%80%A7%E5%BE%81%E6%B2%A1%E5%8F%91%E8%82%B2%E5%B0%B4%E5%B0%AC%E7%9C%8B%E5%84%BF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6761662",
       "index": 13
     },
     {
-      "title": "5万元小车为何卖不动了",
-      "url": "https://www.baidu.com/s?wd=5%E4%B8%87%E5%85%83%E5%B0%8F%E8%BD%A6%E4%B8%BA%E4%BD%95%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6659714",
+      "title": "印尼7.7级地震引发海啸",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E6%B5%B7%E5%95%B8&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6663624",
       "index": 14
     },
     {
       "title": "手机为什么越卖越贵了",
       "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6563634",
+      "hot_value": "6563327",
       "index": 15
     },
     {
-      "title": "胖东来首批刑释职工30人无一离职",
-      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6465246",
+      "title": "大规模涨价 手机快买不起了",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7+%E6%89%8B%E6%9C%BA%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6477406",
       "index": 16
     },
     {
       "title": "关晓彤状态回春",
       "url": "https://www.baidu.com/s?wd=%E5%85%B3%E6%99%93%E5%BD%A4%E7%8A%B6%E6%80%81%E5%9B%9E%E6%98%A5&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6378728",
+      "hot_value": "6367426",
       "index": 17
     },
     {
-      "title": "35岁男子第二性征没发育尴尬看儿科",
-      "url": "https://www.baidu.com/s?wd=35%E5%B2%81%E7%94%B7%E5%AD%90%E7%AC%AC%E4%BA%8C%E6%80%A7%E5%BE%81%E6%B2%A1%E5%8F%91%E8%82%B2%E5%B0%B4%E5%B0%AC%E7%9C%8B%E5%84%BF%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6285945",
+      "title": "李连杰谈女儿心理问题",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%B0%88%E5%A5%B3%E5%84%BF%E5%BF%83%E7%90%86%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6271374",
       "index": 18
     },
     {
       "title": "《牛来》 逆反心理",
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B+%E9%80%86%E5%8F%8D%E5%BF%83%E7%90%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6178783",
+      "hot_value": "6182468",
       "index": 19
     },
     {
-      "title": "印尼7.7级地震引发海啸",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%BC%95%E5%8F%91%E6%B5%B7%E5%95%B8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6080309",
+      "title": "民政局都搬银行了 为何年轻人不买账",
+      "url": "https://www.baidu.com/s?wd=%E6%B0%91%E6%94%BF%E5%B1%80%E9%83%BD%E6%90%AC%E9%93%B6%E8%A1%8C%E4%BA%86+%E4%B8%BA%E4%BD%95%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E4%B9%B0%E8%B4%A6&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6090164",
       "index": 20
     },
     {
       "title": "律师称结婚不领证影响很大",
       "url": "https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E7%A7%B0%E7%BB%93%E5%A9%9A%E4%B8%8D%E9%A2%86%E8%AF%81%E5%BD%B1%E5%93%8D%E5%BE%88%E5%A4%A7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5992354",
+      "hot_value": "5997686",
       "index": 21
+    },
+    {
+      "title": "谁给小沈阳涂这么白的",
+      "url": "https://www.baidu.com/s?wd=%E8%B0%81%E7%BB%99%E5%B0%8F%E6%B2%88%E9%98%B3%E6%B6%82%E8%BF%99%E4%B9%88%E7%99%BD%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5888613",
+      "index": 22
     },
     {
       "title": "年轻人最解气的事：把领导做成AI桌宠",
       "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%80%E8%A7%A3%E6%B0%94%E7%9A%84%E4%BA%8B%EF%BC%9A%E6%8A%8A%E9%A2%86%E5%AF%BC%E5%81%9A%E6%88%90AI%E6%A1%8C%E5%AE%A0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5886612",
-      "index": 22
-    },
-    {
-      "title": "李连杰谈女儿心理问题",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%B0%88%E5%A5%B3%E5%84%BF%E5%BF%83%E7%90%86%E9%97%AE%E9%A2%98&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5804918",
+      "hot_value": "5810177",
       "index": 23
     },
     {
-      "title": "印尼7.7级地震居民冲上马路避难",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%B1%85%E6%B0%91%E5%86%B2%E4%B8%8A%E9%A9%AC%E8%B7%AF%E9%81%BF%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5701842",
+      "title": "小泉进次郎拜鬼后又称和平",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B3%89%E8%BF%9B%E6%AC%A1%E9%83%8E%E6%8B%9C%E9%AC%BC%E5%90%8E%E5%8F%88%E7%A7%B0%E5%92%8C%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5697547",
       "index": 24
     },
     {
-      "title": "高市早苗向靖国神社供奉“玉串料”",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%BE%9B%E5%A5%89%E2%80%9C%E7%8E%89%E4%B8%B2%E6%96%99%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5611162",
+      "title": "中国城市正在集体“啃老”",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E5%95%83%E8%80%81%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5606717",
       "index": 25
     },
     {
       "title": "大陆美食在台湾“又双叒”火了",
       "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%99%86%E7%BE%8E%E9%A3%9F%E5%9C%A8%E5%8F%B0%E6%B9%BE%E2%80%9C%E5%8F%88%E5%8F%8C%E5%8F%92%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5524426",
+      "hot_value": "5516904",
       "index": 26
     },
     {
       "title": "皇阿玛送考五阿哥",
       "url": "https://www.baidu.com/s?wd=%E7%9A%87%E9%98%BF%E7%8E%9B%E9%80%81%E8%80%83%E4%BA%94%E9%98%BF%E5%93%A5&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5430355",
+      "hot_value": "5421023",
       "index": 27
     },
     {
       "title": "《龙餐馆》 土豆芽",
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B+%E5%9C%9F%E8%B1%86%E8%8A%BD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5322569",
+      "hot_value": "5318510",
       "index": 28
-    },
-    {
-      "title": "身体有这5种表现说明骨头在变脆",
-      "url": "https://www.baidu.com/s?wd=%E8%BA%AB%E4%BD%93%E6%9C%89%E8%BF%995%E7%A7%8D%E8%A1%A8%E7%8E%B0%E8%AF%B4%E6%98%8E%E9%AA%A8%E5%A4%B4%E5%9C%A8%E5%8F%98%E8%84%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5239395",
-      "index": 29
     },
     {
       "title": "牛被电死后印度人疯狂破坏变压器",
       "url": "https://www.baidu.com/s?wd=%E7%89%9B%E8%A2%AB%E7%94%B5%E6%AD%BB%E5%90%8E%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%96%AF%E7%8B%82%E7%A0%B4%E5%9D%8F%E5%8F%98%E5%8E%8B%E5%99%A8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5118754",
+      "hot_value": "5213749",
+      "index": 29
+    },
+    {
+      "title": "身体有这5种表现说明骨头在变脆",
+      "url": "https://www.baidu.com/s?wd=%E8%BA%AB%E4%BD%93%E6%9C%89%E8%BF%995%E7%A7%8D%E8%A1%A8%E7%8E%B0%E8%AF%B4%E6%98%8E%E9%AA%A8%E5%A4%B4%E5%9C%A8%E5%8F%98%E8%84%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5133095",
       "index": 30
     }
   ]
