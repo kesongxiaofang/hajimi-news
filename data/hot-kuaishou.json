@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-08-15T09:48:39Z",
+  "update_time": "2026-08-15T10:17:21Z",
   "count": 30,
   "list": [
     {
       "title": "日本无条件投降81周年",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A5%E6%9C%AC%E6%97%A0%E6%9D%A1%E4%BB%B6%E6%8A%95%E9%99%8D81%E5%91%A8%E5%B9%B4",
-      "hot_value": "1,349.3万",
+      "hot_value": "1,343.9万",
       "index": 1
     },
     {
-      "title": "河南周口宣布进入紧急防汛期",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E9%98%B2%E6%B1%9B%E6%9C%9F",
-      "hot_value": "1,349.2万",
+      "title": "桂哥巴西顺拐卡点",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%A1%82%E5%93%A5%E5%B7%B4%E8%A5%BF%E9%A1%BA%E6%8B%90%E5%8D%A1%E7%82%B9",
+      "hot_value": "1,343.4万",
       "index": 2
     },
     {
       "title": "50秒看中国绿色奇迹",
       "url": "https://www.kuaishou.com/search/video?searchKey=50%E7%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9",
-      "hot_value": "1,348.9万",
+      "hot_value": "1,265.6万",
       "index": 3
-    },
-    {
-      "title": "桂哥巴西顺拐卡点",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%A1%82%E5%93%A5%E5%B7%B4%E8%A5%BF%E9%A1%BA%E6%8B%90%E5%8D%A1%E7%82%B9",
-      "hot_value": "1,348.7万",
-      "index": 4
     },
     {
       "title": "民警以身做桥逆流救援",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B0%91%E8%AD%A6%E4%BB%A5%E8%BA%AB%E5%81%9A%E6%A1%A5%E9%80%86%E6%B5%81%E6%95%91%E6%8F%B4",
-      "hot_value": "1,286.7万",
-      "index": 5
+      "hot_value": "1,241万",
+      "index": 4
     },
     {
       "title": "老铁向前冲",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%80%81%E9%93%81%E5%90%91%E5%89%8D%E5%86%B2",
-      "hot_value": "1,206.1万",
+      "hot_value": "1,088.9万",
+      "index": 5
+    },
+    {
+      "title": "盗墓笔记二十周年二创大赛",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E4%BA%8C%E5%8D%81%E5%91%A8%E5%B9%B4%E4%BA%8C%E5%88%9B%E5%A4%A7%E8%B5%9B",
+      "hot_value": "1,077.3万",
       "index": 6
+    },
+    {
+      "title": "开渔季带娃体验赶海乐趣",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E6%B8%94%E5%AD%A3%E5%B8%A6%E5%A8%83%E4%BD%93%E9%AA%8C%E8%B5%B6%E6%B5%B7%E4%B9%90%E8%B6%A3",
+      "hot_value": "1,042.7万",
+      "index": 7
     },
     {
       "title": "秋天的第一杯奶茶敬山河无恙",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E6%95%AC%E5%B1%B1%E6%B2%B3%E6%97%A0%E6%81%99",
-      "hot_value": "1,165.2万",
-      "index": 7
-    },
-    {
-      "title": "九门大结局",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B9%9D%E9%97%A8%E5%A4%A7%E7%BB%93%E5%B1%80",
-      "hot_value": "1,143.9万",
+      "hot_value": "1,012.2万",
       "index": 8
     },
     {
       "title": "下周三就七夕了",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8B%E5%91%A8%E4%B8%89%E5%B0%B1%E4%B8%83%E5%A4%95%E4%BA%86",
-      "hot_value": "1,129.6万",
+      "hot_value": "1,006.2万",
       "index": 9
     },
     {
-      "title": "印尼地震已造成至少33人死亡",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%B0%E5%B0%BC%E5%9C%B0%E9%9C%87%E5%B7%B2%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%9133%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-      "hot_value": "1,122.1万",
+      "title": "九门大结局",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B9%9D%E9%97%A8%E5%A4%A7%E7%BB%93%E5%B1%80",
+      "hot_value": "990.2万",
       "index": 10
     },
     {
       "title": "我们为什么总是容易相信谣言",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%AE%B9%E6%98%93%E7%9B%B8%E4%BF%A1%E8%B0%A3%E8%A8%80",
-      "hot_value": "1,122.1万",
+      "hot_value": "989.5万",
       "index": 11
     },
     {
-      "title": "开渔季带娃体验赶海乐趣",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E6%B8%94%E5%AD%A3%E5%B8%A6%E5%A8%83%E4%BD%93%E9%AA%8C%E8%B5%B6%E6%B5%B7%E4%B9%90%E8%B6%A3",
-      "hot_value": "1,121.4万",
+      "title": "盗墓笔记十年人间戏腔对味了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E5%8D%81%E5%B9%B4%E4%BA%BA%E9%97%B4%E6%88%8F%E8%85%94%E5%AF%B9%E5%91%B3%E4%BA%86",
+      "hot_value": "989.3万",
       "index": 12
     },
     {
-      "title": "老年机展示人脉",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%80%81%E5%B9%B4%E6%9C%BA%E5%B1%95%E7%A4%BA%E4%BA%BA%E8%84%89",
-      "hot_value": "1,078.4万",
+      "title": "用拼豆拼出日本递交投降书画面",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%A8%E6%8B%BC%E8%B1%86%E6%8B%BC%E5%87%BA%E6%97%A5%E6%9C%AC%E9%80%92%E4%BA%A4%E6%8A%95%E9%99%8D%E4%B9%A6%E7%94%BB%E9%9D%A2",
+      "hot_value": "989万",
       "index": 13
+    },
+    {
+      "title": "时光代理人3翻跳挑战",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA3%E7%BF%BB%E8%B7%B3%E6%8C%91%E6%88%98",
+      "hot_value": "987.7万",
+      "index": 14
+    },
+    {
+      "title": "印尼地震已造成至少33人死亡",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%B0%E5%B0%BC%E5%9C%B0%E9%9C%87%E5%B7%B2%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%9133%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+      "hot_value": "984.7万",
+      "index": 15
     },
     {
       "title": "妙脆角猫真的来到现实世界了",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A6%99%E8%84%86%E8%A7%92%E7%8C%AB%E7%9C%9F%E7%9A%84%E6%9D%A5%E5%88%B0%E7%8E%B0%E5%AE%9E%E4%B8%96%E7%95%8C%E4%BA%86",
-      "hot_value": "1,060万",
-      "index": 14
-    },
-    {
-      "title": "妙脆角小猫跳起来了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A6%99%E8%84%86%E8%A7%92%E5%B0%8F%E7%8C%AB%E8%B7%B3%E8%B5%B7%E6%9D%A5%E4%BA%86",
-      "hot_value": "1,054.7万",
-      "index": 15
-    },
-    {
-      "title": "外交部回应日方政要参拜靖国神社",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E6%94%BF%E8%A6%81%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE",
-      "hot_value": "1,051.8万",
+      "hot_value": "982.1万",
       "index": 16
     },
     {
-      "title": "首发经济重塑中国消费生态",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A6%96%E5%8F%91%E7%BB%8F%E6%B5%8E%E9%87%8D%E5%A1%91%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E7%94%9F%E6%80%81",
-      "hot_value": "1,049.2万",
+      "title": "老年机展示人脉",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%80%81%E5%B9%B4%E6%9C%BA%E5%B1%95%E7%A4%BA%E4%BA%BA%E8%84%89",
+      "hot_value": "979.3万",
       "index": 17
-    },
-    {
-      "title": "北京大雨下到“画面模糊”",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%9B%A8%E4%B8%8B%E5%88%B0%E2%80%9C%E7%94%BB%E9%9D%A2%E6%A8%A1%E7%B3%8A%E2%80%9D",
-      "hot_value": "1,046.9万",
-      "index": 18
-    },
-    {
-      "title": "COS版美女与野兽",
-      "url": "https://www.kuaishou.com/search/video?searchKey=COS%E7%89%88%E7%BE%8E%E5%A5%B3%E4%B8%8E%E9%87%8E%E5%85%BD",
-      "hot_value": "1,044.3万",
-      "index": 19
     },
     {
       "title": "高市早苗死不悔改",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%AD%BB%E4%B8%8D%E6%82%94%E6%94%B9",
-      "hot_value": "1,041.4万",
+      "hot_value": "977万",
+      "index": 18
+    },
+    {
+      "title": "直击印尼7.7级地震现场",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9B%B4%E5%87%BB%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA",
+      "hot_value": "974.3万",
+      "index": 19
+    },
+    {
+      "title": "首发经济重塑中国消费生态",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A6%96%E5%8F%91%E7%BB%8F%E6%B5%8E%E9%87%8D%E5%A1%91%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E7%94%9F%E6%80%81",
+      "hot_value": "971.5万",
       "index": 20
     },
     {
-      "title": "印尼7.7级地震后已发生111次余震",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%90%8E%E5%B7%B2%E5%8F%91%E7%94%9F111%E6%AC%A1%E4%BD%99%E9%9C%87",
-      "hot_value": "1,037万",
+      "title": "北京大雨下到“画面模糊”",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%9B%A8%E4%B8%8B%E5%88%B0%E2%80%9C%E7%94%BB%E9%9D%A2%E6%A8%A1%E7%B3%8A%E2%80%9D",
+      "hot_value": "969.4万",
       "index": 21
     },
     {
       "title": "国防部：敦促日方深刻反省",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E6%B7%B1%E5%88%BB%E5%8F%8D%E7%9C%81",
-      "hot_value": "1,031.2万",
+      "hot_value": "967.2万",
       "index": 22
     },
     {
-      "title": "快手夏日游音节线下逛展",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BF%AB%E6%89%8B%E5%A4%8F%E6%97%A5%E6%B8%B8%E9%9F%B3%E8%8A%82%E7%BA%BF%E4%B8%8B%E9%80%9B%E5%B1%95",
-      "hot_value": "1,028.5万",
+      "title": "酷二狗博雅游音节合体",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%85%B7%E4%BA%8C%E7%8B%97%E5%8D%9A%E9%9B%85%E6%B8%B8%E9%9F%B3%E8%8A%82%E5%90%88%E4%BD%93",
+      "hot_value": "960.7万",
       "index": 23
+    },
+    {
+      "title": "外交部回应日方政要参拜靖国神社",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E6%94%BF%E8%A6%81%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE",
+      "hot_value": "956.7万",
+      "index": 24
+    },
+    {
+      "title": "河南周口宣布进入紧急防汛期",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E9%98%B2%E6%B1%9B%E6%9C%9F",
+      "hot_value": "954万",
+      "index": 25
+    },
+    {
+      "title": "COS版美女与野兽",
+      "url": "https://www.kuaishou.com/search/video?searchKey=COS%E7%89%88%E7%BE%8E%E5%A5%B3%E4%B8%8E%E9%87%8E%E5%85%BD",
+      "hot_value": "951.5万",
+      "index": 26
+    },
+    {
+      "title": "印尼7.7级地震后已发生111次余震",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%90%8E%E5%B7%B2%E5%8F%91%E7%94%9F111%E6%AC%A1%E4%BD%99%E9%9C%87",
+      "hot_value": "949.4万",
+      "index": 27
     },
     {
       "title": "白海豚残余环流致浙江成降雨中心",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%AE%8B%E4%BD%99%E7%8E%AF%E6%B5%81%E8%87%B4%E6%B5%99%E6%B1%9F%E6%88%90%E9%99%8D%E9%9B%A8%E4%B8%AD%E5%BF%83",
-      "hot_value": "1,023.1万",
-      "index": 24
-    },
-    {
-      "title": "波兰女子殴打乌克兰男子",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B3%A2%E5%85%B0%E5%A5%B3%E5%AD%90%E6%AE%B4%E6%89%93%E4%B9%8C%E5%85%8B%E5%85%B0%E7%94%B7%E5%AD%90",
-      "hot_value": "1,020.1万",
-      "index": 25
-    },
-    {
-      "title": "印尼发生7.7级地震",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%B0%E5%B0%BC%E5%8F%91%E7%94%9F7.7%E7%BA%A7%E5%9C%B0%E9%9C%87",
-      "hot_value": "1,017.7万",
-      "index": 26
+      "hot_value": "946.7万",
+      "index": 28
     },
     {
       "title": "直击河南贾鲁河川汇区段堤防溃口",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9B%B4%E5%87%BB%E6%B2%B3%E5%8D%97%E8%B4%BE%E9%B2%81%E6%B2%B3%E5%B7%9D%E6%B1%87%E5%8C%BA%E6%AE%B5%E5%A0%A4%E9%98%B2%E6%BA%83%E5%8F%A3",
-      "hot_value": "1,015.3万",
-      "index": 27
-    },
-    {
-      "title": "听赵一曼孙女重读那封绝笔家书",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%AC%E8%B5%B5%E4%B8%80%E6%9B%BC%E5%AD%99%E5%A5%B3%E9%87%8D%E8%AF%BB%E9%82%A3%E5%B0%81%E7%BB%9D%E7%AC%94%E5%AE%B6%E4%B9%A6",
-      "hot_value": "1,014.4万",
-      "index": 28
-    },
-    {
-      "title": "苏离时代官方都磕疯了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8B%8F%E7%A6%BB%E6%97%B6%E4%BB%A3%E5%AE%98%E6%96%B9%E9%83%BD%E7%A3%95%E7%96%AF%E4%BA%86",
-      "hot_value": "1,014.2万",
+      "hot_value": "943.8万",
       "index": 29
     },
     {
-      "title": "直击印尼7.7级地震现场",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9B%B4%E5%87%BB%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA",
-      "hot_value": "1,007.5万",
+      "title": "周深任湾区升明月宣传大使",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%91%A8%E6%B7%B1%E4%BB%BB%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E5%AE%A3%E4%BC%A0%E5%A4%A7%E4%BD%BF",
+      "hot_value": "940.9万",
       "index": 30
     }
   ]
