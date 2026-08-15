@@ -1,115 +1,115 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-15T16:18:51Z",
+  "update_time": "2026-08-15T16:48:25Z",
   "count": 30,
   "list": [
     {
       "title": "于东来称胖东来首批刑释职工 30 人无一离职，如何评价这一招聘计划的实际效果？其他企业能效仿吗？",
       "url": "https://www.zhihu.com/question/2071985681274855643",
-      "hot_value": "509 万热度",
+      "hot_value": "523 万热度",
       "index": 1
     },
     {
       "title": "大厂员工吐槽现在开会就是互丢 AI 文档，你有同感吗？很多公司都强调内化 AI 能力，但真的有提升产出质量吗？",
       "url": "https://www.zhihu.com/question/2071711669378441934",
-      "hot_value": "392 万热度",
+      "hot_value": "405 万热度",
       "index": 2
     },
     {
       "title": "旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？",
       "url": "https://www.zhihu.com/question/2071910735857333389",
-      "hot_value": "354 万热度",
+      "hot_value": "364 万热度",
       "index": 3
     },
     {
       "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
       "url": "https://www.zhihu.com/question/2071619812795609447",
-      "hot_value": "343 万热度",
+      "hot_value": "358 万热度",
       "index": 4
     },
     {
       "title": "全国票房日冠地图显示「东北龙餐馆，上海奥德赛」，如何看待这一现象？反应了怎样的区域观影偏好差异？",
       "url": "https://www.zhihu.com/question/2070573489396740976",
-      "hot_value": "342 万热度",
+      "hot_value": "350 万热度",
       "index": 5
-    },
-    {
-      "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
-      "url": "https://www.zhihu.com/question/2071601306246932346",
-      "hot_value": "340 万热度",
-      "index": 6
     },
     {
       "title": "如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？",
       "url": "https://www.zhihu.com/question/32244325",
-      "hot_value": "339 万热度",
-      "index": 7
+      "hot_value": "341 万热度",
+      "index": 6
     },
     {
       "title": "曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？",
       "url": "https://www.zhihu.com/question/2070889441451939231",
-      "hot_value": "301 万热度",
-      "index": 8
+      "hot_value": "304 万热度",
+      "index": 7
     },
     {
       "title": "国家叫停「速成车」，新国标落地将如何影响消费者购车？",
       "url": "https://www.zhihu.com/question/2071168780798055732",
-      "hot_value": "300 万热度",
+      "hot_value": "301 万热度",
+      "index": 8
+    },
+    {
+      "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
+      "url": "https://www.zhihu.com/question/2071601306246932346",
+      "hot_value": "288 万热度",
       "index": 9
     },
     {
       "title": "电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？",
       "url": "https://www.zhihu.com/question/2070543205620258082",
-      "hot_value": "254 万热度",
+      "hot_value": "245 万热度",
       "index": 10
     },
     {
       "title": "如何看待 Dota2TI15，XG 0-2 不敌 TR 淘汰回家？如何评价 XG 战队及其本届表现?",
       "url": "https://www.zhihu.com/question/2072042300016964790",
-      "hot_value": "208 万热度",
+      "hot_value": "202 万热度",
       "index": 11
-    },
-    {
-      "title": "如何评价蒋奇明在《欢迎来龙餐馆》里的表现？",
-      "url": "https://www.zhihu.com/question/2071283961712719581",
-      "hot_value": "155 万热度",
-      "index": 12
     },
     {
       "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？",
       "url": "https://www.zhihu.com/question/2070905498790879818",
-      "hot_value": "124 万热度",
+      "hot_value": "150 万热度",
+      "index": 12
+    },
+    {
+      "title": "如何评价蒋奇明在《欢迎来龙餐馆》里的表现？",
+      "url": "https://www.zhihu.com/question/2071283961712719581",
+      "hot_value": "145 万热度",
       "index": 13
     },
     {
       "title": "河南教师清理双户口后常用户口因「虚假户口」被注销成黑户，警方同意重报但无法恢复，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2071261939238544994",
-      "hot_value": "121 万热度",
+      "hot_value": "127 万热度",
       "index": 14
     },
     {
       "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
       "url": "https://www.zhihu.com/question/2071746265390506374",
-      "hot_value": "101 万热度",
+      "hot_value": "105 万热度",
       "index": 15
-    },
-    {
-      "title": "儿科韩医生事件，会不会造成全国的防御性医疗的开端和大面积的医护离职潮爆发？未来儿科医生的数量腰斩？",
-      "url": "https://www.zhihu.com/question/2069050672704705907",
-      "hot_value": "100 万热度",
-      "index": 16
     },
     {
       "title": "贵州茅台上半年归母净利润同比下降 1.95%，这意味着什么？",
       "url": "https://www.zhihu.com/question/2071716274892191308",
-      "hot_value": "99 万热度",
+      "hot_value": "104 万热度",
+      "index": 16
+    },
+    {
+      "title": "准高三生看完《奥本海默》后深感自己平庸，该如何接受与顶尖天才的差距？",
+      "url": "https://www.zhihu.com/question/2071135275296858628",
+      "hot_value": "95 万热度",
       "index": 17
     },
     {
       "title": "如何评价安妮·海瑟薇、伊万·麦克格雷格主演的惊悚电影《逃出绝命街》？",
       "url": "https://www.zhihu.com/question/2071192151078221742",
-      "hot_value": "92 万热度",
+      "hot_value": "93 万热度",
       "index": 18
     },
     {
@@ -121,37 +121,37 @@
     {
       "title": "广州 11 岁男孩暑假在景点为游客拍照，月收入一千多，直言「拍照比刷题好玩」，这种暑假实践适合孩子吗？",
       "url": "https://www.zhihu.com/question/2070926273820489019",
-      "hot_value": "90 万热度",
+      "hot_value": "89 万热度",
       "index": 20
     },
     {
-      "title": "特朗普证实部署中东的林肯号航母将被替换，部署近 9 个月，船员心理崩溃、跳海事件引发质疑，如何看待此事？",
+      "title": "特朗普证实部署中东的林肯号航母将被替换，部署近9个月，船员心理崩溃、跳海事件引发质疑，如何看待此事？",
       "url": "https://www.zhihu.com/question/2071884847304401003",
-      "hot_value": "90 万热度",
+      "hot_value": "89 万热度",
       "index": 21
     },
     {
-      "title": "准高三生看完《奥本海默》后深感自己平庸，该如何接受与顶尖天才的差距？",
-      "url": "https://www.zhihu.com/question/2071135275296858628",
-      "hot_value": "90 万热度",
+      "title": "儿科韩医生事件，会不会造成全国的防御性医疗的开端和大面积的医护离职潮爆发？未来儿科医生的数量腰斩？",
+      "url": "https://www.zhihu.com/question/2069050672704705907",
+      "hot_value": "88 万热度",
       "index": 22
     },
     {
       "title": "如何看待「大学新生三件套」涨价近五成，如果只给 5000 元预算配齐「开学三件套」，你会怎么分配？",
       "url": "https://www.zhihu.com/question/2061220785021268499",
-      "hot_value": "86 万热度",
+      "hot_value": "82 万热度",
       "index": 23
     },
     {
-      "title": "星宇股份裁员数百应届生并要求「个人原因」离职，具体什么情况？拒绝者被调岗打螺丝，面对该操作只能认栽吗？",
-      "url": "https://www.zhihu.com/question/2071043484274921705",
-      "hot_value": "78 万热度",
+      "title": "如何评价电视剧《重器》中律师李乡被抓事件？",
+      "url": "https://www.zhihu.com/question/2070876212935783496",
+      "hot_value": "82 万热度",
       "index": 24
     },
     {
       "title": "有哪些是你上了大学后才知道的冷知识？",
       "url": "https://www.zhihu.com/question/2062937551581849355",
-      "hot_value": "70 万热度",
+      "hot_value": "75 万热度",
       "index": 25
     },
     {
@@ -161,26 +161,26 @@
       "index": 26
     },
     {
-      "title": "猫咪这个动物不是不怕热吗？怎么夏天也趴着不动？",
-      "url": "https://www.zhihu.com/question/1919803591994114757",
+      "title": "星宇股份裁员数百应届生并要求「个人原因」离职，具体什么情况？拒绝者被调岗打螺丝，面对该操作只能认栽吗？",
+      "url": "https://www.zhihu.com/question/2071043484274921705",
       "hot_value": "59 万热度",
       "index": 27
     },
     {
-      "title": "哪一刻你突然觉得读书真的很有用？",
-      "url": "https://www.zhihu.com/question/1881502517067760954",
-      "hot_value": "58 万热度",
+      "title": "电影《奥德赛》，在诺兰的作品里，处于什么水平？",
+      "url": "https://www.zhihu.com/question/2068703642505459146",
+      "hot_value": "57 万热度",
       "index": 28
     },
     {
-      "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
-      "url": "https://www.zhihu.com/question/2070634579422196628",
+      "title": "交流中自认较为严谨、有逻辑，但对方说「不就是想让我承认你是对的吗」，如何分析导致此种情形的原因？",
+      "url": "https://www.zhihu.com/question/2071395504068603926",
       "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "西班牙为什么不吞并葡萄牙，却转而去攻占美洲大陆？",
-      "url": "https://www.zhihu.com/question/8071954131",
+      "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
+      "url": "https://www.zhihu.com/question/2070215170526279459",
       "hot_value": "57 万热度",
       "index": 30
     }
