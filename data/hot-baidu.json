@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-08-15T13:50:56Z",
+  "update_time": "2026-08-15T14:17:02Z",
   "count": 30,
   "list": [
     {
       "title": "嘱托为笔 绘天地国色",
       "url": "https://www.baidu.com/s?wd=%E5%98%B1%E6%89%98%E4%B8%BA%E7%AC%94+%E7%BB%98%E5%A4%A9%E5%9C%B0%E5%9B%BD%E8%89%B2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7903945",
+      "hot_value": "7904589",
       "index": 1
     },
     {
       "title": "纪念江泽民同志诞辰100周年大会",
       "url": "https://www.baidu.com/s?wd=%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7808724",
+      "hot_value": "7809654",
       "index": 2
     },
     {
-      "title": "西湖“长大”了",
-      "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E6%B9%96%E2%80%9C%E9%95%BF%E5%A4%A7%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7712388",
+      "title": "全省仅招2人 俩人同年同月同日生",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%9C%81%E4%BB%85%E6%8B%9B2%E4%BA%BA+%E4%BF%A9%E4%BA%BA%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7714172",
       "index": 3
     },
     {
       "title": "今年外国人最爱逛哪里",
       "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9C%80%E7%88%B1%E9%80%9B%E5%93%AA%E9%87%8C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7617649",
+      "hot_value": "7617419",
       "index": 4
     },
     {
-      "title": "父子决裂40年 亲生儿子仍继承9成遗产",
-      "url": "https://www.baidu.com/s?wd=%E7%88%B6%E5%AD%90%E5%86%B3%E8%A3%8240%E5%B9%B4+%E4%BA%B2%E7%94%9F%E5%84%BF%E5%AD%90%E4%BB%8D%E7%BB%A7%E6%89%BF9%E6%88%90%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7520995",
+      "title": "这些常见日用品正悄悄“催熟”孩子",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E5%B8%B8%E8%A7%81%E6%97%A5%E7%94%A8%E5%93%81%E6%AD%A3%E6%82%84%E6%82%84%E2%80%9C%E5%82%AC%E7%86%9F%E2%80%9D%E5%AD%A9%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7521942",
       "index": 5
     },
     {
-      "title": "刘畊宏把王传君唱哭了",
-      "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F%E6%8A%8A%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%94%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7426493",
+      "title": "港星的含金量还在上升",
+      "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E6%98%9F%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7425287",
       "index": 6
     },
     {
       "title": "男童走失4天找回 父亲设宴200桌答谢",
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E8%B5%B0%E5%A4%B14%E5%A4%A9%E6%89%BE%E5%9B%9E+%E7%88%B6%E4%BA%B2%E8%AE%BE%E5%AE%B4200%E6%A1%8C%E7%AD%94%E8%B0%A2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7331026",
+      "hot_value": "7333951",
       "index": 7
     },
     {
       "title": "河南周口117米溃口成功合龙",
       "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3117%E7%B1%B3%E6%BA%83%E5%8F%A3%E6%88%90%E5%8A%9F%E5%90%88%E9%BE%99&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7236916",
+      "hot_value": "7232746",
       "index": 8
+    },
+    {
+      "title": "父子决裂40年亲生儿子仍继承9成遗产",
+      "url": "https://www.baidu.com/s?wd=%E7%88%B6%E5%AD%90%E5%86%B3%E8%A3%8240%E5%B9%B4%E4%BA%B2%E7%94%9F%E5%84%BF%E5%AD%90%E4%BB%8D%E7%BB%A7%E6%89%BF9%E6%88%90%E9%81%97%E4%BA%A7&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7136370",
+      "index": 9
     },
     {
       "title": "四川一村有33对双胞胎 专家谈成因",
       "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%9D%91%E6%9C%8933%E5%AF%B9%E5%8F%8C%E8%83%9E%E8%83%8E+%E4%B8%93%E5%AE%B6%E8%B0%88%E6%88%90%E5%9B%A0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7143632",
-      "index": 9
+      "hot_value": "7046947",
+      "index": 10
     },
     {
       "title": "男子彩票中598万 没告诉妻儿父母",
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD598%E4%B8%87+%E6%B2%A1%E5%91%8A%E8%AF%89%E5%A6%BB%E5%84%BF%E7%88%B6%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7040776",
-      "index": 10
-    },
-    {
-      "title": "30岁男子患抑郁症被母亲送进特训营",
-      "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%80%81%E8%BF%9B%E7%89%B9%E8%AE%AD%E8%90%A5&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6951997",
+      "hot_value": "6943204",
       "index": 11
     },
     {
       "title": "我们为什么总是容易相信谣言",
       "url": "https://www.baidu.com/s?wd=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%AE%B9%E6%98%93%E7%9B%B8%E4%BF%A1%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6847274",
+      "hot_value": "6848652",
       "index": 12
+    },
+    {
+      "title": "30岁男子患抑郁症被母亲送进特训营",
+      "url": "https://www.baidu.com/s?wd=30%E5%B2%81%E7%94%B7%E5%AD%90%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%80%81%E8%BF%9B%E7%89%B9%E8%AE%AD%E8%90%A5&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6763352",
+      "index": 13
     },
     {
       "title": "旺旺 重大经营危机",
       "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA+%E9%87%8D%E5%A4%A7%E7%BB%8F%E8%90%A5%E5%8D%B1%E6%9C%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6762359",
-      "index": 13
-    },
-    {
-      "title": "对付骚扰电话新思路：“婴语”对线",
-      "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BB%98%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E6%96%B0%E6%80%9D%E8%B7%AF%EF%BC%9A%E2%80%9C%E5%A9%B4%E8%AF%AD%E2%80%9D%E5%AF%B9%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6661063",
+      "hot_value": "6661803",
       "index": 14
-    },
-    {
-      "title": "河南周口溃口封堵现场现“三蹦子”",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3%E6%BA%83%E5%8F%A3%E5%B0%81%E5%A0%B5%E7%8E%B0%E5%9C%BA%E7%8E%B0%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6558942",
-      "index": 15
-    },
-    {
-      "title": "中方：这个人一贯攻击抹黑中国",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%BF%99%E4%B8%AA%E4%BA%BA%E4%B8%80%E8%B4%AF%E6%94%BB%E5%87%BB%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6477882",
-      "index": 16
-    },
-    {
-      "title": "刘畊宏 直播更有兴奋感",
-      "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F+%E7%9B%B4%E6%92%AD%E6%9B%B4%E6%9C%89%E5%85%B4%E5%A5%8B%E6%84%9F&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6377479",
-      "index": 17
     },
     {
       "title": "什么是“984.5高校”",
       "url": "https://www.baidu.com/s?wd=%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C984.5%E9%AB%98%E6%A0%A1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6278717",
+      "hot_value": "6560731",
+      "index": 15
+    },
+    {
+      "title": "河南周口溃口封堵现场现“三蹦子”",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A3%E6%BA%83%E5%8F%A3%E5%B0%81%E5%A0%B5%E7%8E%B0%E5%9C%BA%E7%8E%B0%E2%80%9C%E4%B8%89%E8%B9%A6%E5%AD%90%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6474835",
+      "index": 16
+    },
+    {
+      "title": "《披荆斩棘》初舞台观众现场喊黑幕",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E3%80%8B%E5%88%9D%E8%88%9E%E5%8F%B0%E8%A7%82%E4%BC%97%E7%8E%B0%E5%9C%BA%E5%96%8A%E9%BB%91%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6377556",
+      "index": 17
+    },
+    {
+      "title": "刘畊宏把王传君唱哭了",
+      "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F%E6%8A%8A%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%94%B1%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6273922",
       "index": 18
     },
     {
-      "title": "《疯狂动物城3》官宣",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3%E3%80%8B%E5%AE%98%E5%AE%A3&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6191359",
+      "title": "保时捷溜车2员工飞身拦车 1人升店长",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%BA%9C%E8%BD%A62%E5%91%98%E5%B7%A5%E9%A3%9E%E8%BA%AB%E6%8B%A6%E8%BD%A6+1%E4%BA%BA%E5%8D%87%E5%BA%97%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6180758",
       "index": 19
     },
     {
-      "title": "王曼昱晋级WTT瑞典大满贯女单四强",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%99%8B%E7%BA%A7WTT%E7%91%9E%E5%85%B8%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6094703",
+      "title": "河南瓜农最惨夏天",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%93%9C%E5%86%9C%E6%9C%80%E6%83%A8%E5%A4%8F%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6089364",
       "index": 20
     },
     {
       "title": "国防部回应日本政要参拜靖国神社",
       "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%94%BF%E8%A6%81%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5999649",
+      "hot_value": "5984228",
       "index": 21
     },
     {
-      "title": "《披哥》初舞台全开麦、不修音、无滤镜",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8A%AB%E5%93%A5%E3%80%8B%E5%88%9D%E8%88%9E%E5%8F%B0%E5%85%A8%E5%BC%80%E9%BA%A6%E3%80%81%E4%B8%8D%E4%BF%AE%E9%9F%B3%E3%80%81%E6%97%A0%E6%BB%A4%E9%95%9C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5893933",
+      "title": "《欢迎来龙餐馆》票房破7亿",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B47%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5902614",
       "index": 22
-    },
-    {
-      "title": "高市早苗遥拜靖国神社",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%81%A5%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5797078",
-      "index": 23
-    },
-    {
-      "title": "比利时学生打工挖到900万欧元金库",
-      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AD%A6%E7%94%9F%E6%89%93%E5%B7%A5%E6%8C%96%E5%88%B0900%E4%B8%87%E6%AC%A7%E5%85%83%E9%87%91%E5%BA%93&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5704856",
-      "index": 24
-    },
-    {
-      "title": "保时捷溜车2员工飞身拦车 1人升店长",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%BA%9C%E8%BD%A62%E5%91%98%E5%B7%A5%E9%A3%9E%E8%BA%AB%E6%8B%A6%E8%BD%A6+1%E4%BA%BA%E5%8D%87%E5%BA%97%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5617856",
-      "index": 25
-    },
-    {
-      "title": "拉夫劳伦千元Polo衫卖出顶奢的命",
-      "url": "https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%AB%E5%8A%B3%E4%BC%A6%E5%8D%83%E5%85%83Polo%E8%A1%AB%E5%8D%96%E5%87%BA%E9%A1%B6%E5%A5%A2%E7%9A%84%E5%91%BD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5510229",
-      "index": 26
     },
     {
       "title": "秸秆禁烧不再“一刀切”",
       "url": "https://www.baidu.com/s?wd=%E7%A7%B8%E7%A7%86%E7%A6%81%E7%83%A7%E4%B8%8D%E5%86%8D%E2%80%9C%E4%B8%80%E5%88%80%E5%88%87%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5416767",
-      "index": 27
+      "hot_value": "5809604",
+      "index": 23
+    },
+    {
+      "title": "对付骚扰电话新思路：“婴语”对线",
+      "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BB%98%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E6%96%B0%E6%80%9D%E8%B7%AF%EF%BC%9A%E2%80%9C%E5%A9%B4%E8%AF%AD%E2%80%9D%E5%AF%B9%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5711610",
+      "index": 24
     },
     {
       "title": "唐钱婷0.03秒绝杀美国名将西罗基",
       "url": "https://www.baidu.com/s?wd=%E5%94%90%E9%92%B1%E5%A9%B70.03%E7%A7%92%E7%BB%9D%E6%9D%80%E7%BE%8E%E5%9B%BD%E5%90%8D%E5%B0%86%E8%A5%BF%E7%BD%97%E5%9F%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5318038",
+      "hot_value": "5621977",
+      "index": 25
+    },
+    {
+      "title": "榜一大哥打赏千万求交往 被拒后起诉",
+      "url": "https://www.baidu.com/s?wd=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%89%93%E8%B5%8F%E5%8D%83%E4%B8%87%E6%B1%82%E4%BA%A4%E5%BE%80+%E8%A2%AB%E6%8B%92%E5%90%8E%E8%B5%B7%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5510034",
+      "index": 26
+    },
+    {
+      "title": "郑州一景区电子屏播放“虚拟空调”",
+      "url": "https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E4%B8%80%E6%99%AF%E5%8C%BA%E7%94%B5%E5%AD%90%E5%B1%8F%E6%92%AD%E6%94%BE%E2%80%9C%E8%99%9A%E6%8B%9F%E7%A9%BA%E8%B0%83%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5430509",
+      "index": 27
+    },
+    {
+      "title": "美国大模型帮日本对AI进行投毒",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5334391",
       "index": 28
     },
     {
-      "title": "河南瓜农最惨夏天",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E7%93%9C%E5%86%9C%E6%9C%80%E6%83%A8%E5%A4%8F%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5236573",
+      "title": "《疯狂动物城3》开启鸟类世界",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3%E3%80%8B%E5%BC%80%E5%90%AF%E9%B8%9F%E7%B1%BB%E4%B8%96%E7%95%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5239014",
       "index": 29
     },
     {
-      "title": "《披荆斩棘》初舞台观众现场喊黑幕",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E3%80%8B%E5%88%9D%E8%88%9E%E5%8F%B0%E8%A7%82%E4%BC%97%E7%8E%B0%E5%9C%BA%E5%96%8A%E9%BB%91%E5%B9%95&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5122190",
+      "title": "河南“明代石狮被盗17年”最新进展",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E2%80%9C%E6%98%8E%E4%BB%A3%E7%9F%B3%E7%8B%AE%E8%A2%AB%E7%9B%9717%E5%B9%B4%E2%80%9D%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5118913",
       "index": 30
     }
   ]
