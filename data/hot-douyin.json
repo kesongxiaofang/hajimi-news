@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-14T23:45:31Z",
+  "update_time": "2026-08-15T00:58:37Z",
   "count": 30,
   "list": [
     {
-      "title": "周口贾鲁河溃口正开展封堵作业",
-      "url": "https://www.douyin.com/search/%E5%91%A8%E5%8F%A3%E8%B4%BE%E9%B2%81%E6%B2%B3%E6%BA%83%E5%8F%A3%E6%AD%A3%E5%BC%80%E5%B1%95%E5%B0%81%E5%A0%B5%E4%BD%9C%E4%B8%9A?type=general",
-      "hot_value": "12111037",
+      "title": "日本战败投降81周年",
+      "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E6%8A%95%E9%99%8D81%E5%91%A8%E5%B9%B4?type=general",
+      "hot_value": "11965550",
       "index": 1
     },
     {
-      "title": "国防部：敦促日方认罪赎罪",
-      "url": "https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E8%AE%A4%E7%BD%AA%E8%B5%8E%E7%BD%AA?type=general",
-      "hot_value": "11938979",
+      "title": "印尼7.7级强震或引发区域海啸",
+      "url": "https://www.douyin.com/search/%E5%8D%B0%E5%B0%BC7.7%E7%BA%A7%E5%BC%BA%E9%9C%87%E6%88%96%E5%BC%95%E5%8F%91%E5%8C%BA%E5%9F%9F%E6%B5%B7%E5%95%B8?type=general",
+      "hot_value": "11832335",
       "index": 2
     },
     {
       "title": "我国生态环境质量持续向好",
       "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E8%B4%A8%E9%87%8F%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD?type=general",
-      "hot_value": "11801836",
+      "hot_value": "11628585",
       "index": 3
+    },
+    {
+      "title": "周口贾鲁河溃口正开展封堵作业",
+      "url": "https://www.douyin.com/search/%E5%91%A8%E5%8F%A3%E8%B4%BE%E9%B2%81%E6%B2%B3%E6%BA%83%E5%8F%A3%E6%AD%A3%E5%BC%80%E5%B1%95%E5%B0%81%E5%A0%B5%E4%BD%9C%E4%B8%9A?type=general",
+      "hot_value": "11620089",
+      "index": 4
     },
     {
       "title": "七夕约会怎么穿",
       "url": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E7%BA%A6%E4%BC%9A%E6%80%8E%E4%B9%88%E7%A9%BF?type=general",
-      "hot_value": "11596978",
-      "index": 4
+      "hot_value": "10871853",
+      "index": 5
     },
     {
       "title": "想和你一起去海边看晚霞",
       "url": "https://www.douyin.com/search/%E6%83%B3%E5%92%8C%E4%BD%A0%E4%B8%80%E8%B5%B7%E5%8E%BB%E6%B5%B7%E8%BE%B9%E7%9C%8B%E6%99%9A%E9%9C%9E?type=general",
-      "hot_value": "10999784",
-      "index": 5
+      "hot_value": "10839152",
+      "index": 6
     },
     {
-      "title": "WTT瑞典站国乒男女双遭淘汰",
-      "url": "https://www.douyin.com/search/WTT%E7%91%9E%E5%85%B8%E7%AB%99%E5%9B%BD%E4%B9%92%E7%94%B7%E5%A5%B3%E5%8F%8C%E9%81%AD%E6%B7%98%E6%B1%B0?type=general",
-      "hot_value": "10954755",
-      "index": 6
+      "title": "国防部：敦促日方认罪赎罪",
+      "url": "https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E8%AE%A4%E7%BD%AA%E8%B5%8E%E7%BD%AA?type=general",
+      "hot_value": "9483964",
+      "index": 7
     },
     {
       "title": "中国公开赛周跃龙6:5吉尔伯特",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%BC%80%E8%B5%9B%E5%91%A8%E8%B7%83%E9%BE%996%3A5%E5%90%89%E5%B0%94%E4%BC%AF%E7%89%B9?type=general",
-      "hot_value": "9538021",
-      "index": 7
+      "hot_value": "9375682",
+      "index": 8
     },
     {
       "title": "你总认为旅行很贵",
       "url": "https://www.douyin.com/search/%E4%BD%A0%E6%80%BB%E8%AE%A4%E4%B8%BA%E6%97%85%E8%A1%8C%E5%BE%88%E8%B4%B5?type=general",
-      "hot_value": "9537705",
-      "index": 8
+      "hot_value": "9368013",
+      "index": 9
     },
     {
       "title": "躺在没有天花板的地方",
       "url": "https://www.douyin.com/search/%E8%BA%BA%E5%9C%A8%E6%B2%A1%E6%9C%89%E5%A4%A9%E8%8A%B1%E6%9D%BF%E7%9A%84%E5%9C%B0%E6%96%B9?type=general",
-      "hot_value": "9434215",
-      "index": 9
+      "hot_value": "9290553",
+      "index": 10
     },
     {
       "title": "娃圈黑色穿搭大赏",
       "url": "https://www.douyin.com/search/%E5%A8%83%E5%9C%88%E9%BB%91%E8%89%B2%E7%A9%BF%E6%90%AD%E5%A4%A7%E8%B5%8F?type=general",
-      "hot_value": "9393706",
-      "index": 10
+      "hot_value": "9264070",
+      "index": 11
     },
     {
       "title": "水利部升级发布洪水黄色预警",
       "url": "https://www.douyin.com/search/%E6%B0%B4%E5%88%A9%E9%83%A8%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6?type=general",
-      "hot_value": "9372081",
-      "index": 11
-    },
-    {
-      "title": "山东泰山3:1青岛海牛",
-      "url": "https://www.douyin.com/search/%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B13%3A1%E9%9D%92%E5%B2%9B%E6%B5%B7%E7%89%9B?type=general",
-      "hot_value": "9290381",
+      "hot_value": "9235355",
       "index": 12
     },
     {
       "title": "JDG战胜NOVA",
       "url": "https://www.douyin.com/search/JDG%E6%88%98%E8%83%9CNOVA?type=general",
-      "hot_value": "9289613",
+      "hot_value": "9226208",
       "index": 13
     },
     {
       "title": "许昌暴雨60万人断水停电系谣言",
       "url": "https://www.douyin.com/search/%E8%AE%B8%E6%98%8C%E6%9A%B4%E9%9B%A860%E4%B8%87%E4%BA%BA%E6%96%AD%E6%B0%B4%E5%81%9C%E7%94%B5%E7%B3%BB%E8%B0%A3%E8%A8%80?type=general",
-      "hot_value": "9114034",
+      "hot_value": "9180771",
       "index": 14
     },
     {
-      "title": "电影空枪8月19日全国上映",
-      "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A9%BA%E6%9E%AA8%E6%9C%8819%E6%97%A5%E5%85%A8%E5%9B%BD%E4%B8%8A%E6%98%A0?type=general",
-      "hot_value": "9099636",
+      "title": "山东泰山3:1青岛海牛",
+      "url": "https://www.douyin.com/search/%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B13%3A1%E9%9D%92%E5%B2%9B%E6%B5%B7%E7%89%9B?type=general",
+      "hot_value": "9058645",
       "index": 15
     },
     {
       "title": "护士泄露患者隐私被终止实习",
       "url": "https://www.douyin.com/search/%E6%8A%A4%E5%A3%AB%E6%B3%84%E9%9C%B2%E6%82%A3%E8%80%85%E9%9A%90%E7%A7%81%E8%A2%AB%E7%BB%88%E6%AD%A2%E5%AE%9E%E4%B9%A0?type=general",
-      "hot_value": "9084166",
+      "hot_value": "8950944",
       "index": 16
     },
     {
       "title": "邓紫棋嘉兴演唱会暴雨中开唱",
       "url": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E5%98%89%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%BC%80%E5%94%B1?type=general",
-      "hot_value": "8730091",
+      "hot_value": "8747744",
       "index": 17
+    },
+    {
+      "title": "王力宏苏州演唱会",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E8%8B%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "8694853",
+      "index": 18
+    },
+    {
+      "title": "致所有00后蛋仔的一封信",
+      "url": "https://www.douyin.com/search/%E8%87%B4%E6%89%80%E6%9C%8900%E5%90%8E%E8%9B%8B%E4%BB%94%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1?type=general",
+      "hot_value": "8314496",
+      "index": 19
+    },
+    {
+      "title": "电影空枪8月19日全国上映",
+      "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A9%BA%E6%9E%AA8%E6%9C%8819%E6%97%A5%E5%85%A8%E5%9B%BD%E4%B8%8A%E6%98%A0?type=general",
+      "hot_value": "7968949",
+      "index": 20
     },
     {
       "title": "动画电影牛来票房7000多",
       "url": "https://www.douyin.com/search/%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E7%89%9B%E6%9D%A5%E7%A5%A8%E6%88%BF7000%E5%A4%9A?type=general",
-      "hot_value": "8653973",
-      "index": 18
-    },
-    {
-      "title": "伊拉克老王探班龙餐馆",
-      "url": "https://www.douyin.com/search/%E4%BC%8A%E6%8B%89%E5%85%8B%E8%80%81%E7%8E%8B%E6%8E%A2%E7%8F%AD%E9%BE%99%E9%A4%90%E9%A6%86?type=general",
-      "hot_value": "8113209",
-      "index": 19
-    },
-    {
-      "title": "BEST杯中国小将战平巴萨U18",
-      "url": "https://www.douyin.com/search/BEST%E6%9D%AF%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%B0%86%E6%88%98%E5%B9%B3%E5%B7%B4%E8%90%A8U18?type=general",
-      "hot_value": "8064154",
-      "index": 20
-    },
-    {
-      "title": "七夕我就这样发朋友圈",
-      "url": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E6%88%91%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88?type=general",
-      "hot_value": "7905205",
+      "hot_value": "7756306",
       "index": 21
-    },
-    {
-      "title": "电影牛来建模粗糙被网友吐槽",
-      "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%89%9B%E6%9D%A5%E5%BB%BA%E6%A8%A1%E7%B2%97%E7%B3%99%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD?type=general",
-      "hot_value": "7778307",
-      "index": 22
-    },
-    {
-      "title": "用AI给小时候的自己做头像",
-      "url": "https://www.douyin.com/search/%E7%94%A8AI%E7%BB%99%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%87%AA%E5%B7%B1%E5%81%9A%E5%A4%B4%E5%83%8F?type=general",
-      "hot_value": "7771505",
-      "index": 23
     },
     {
       "title": "西瓜少年马成回应网友关心",
       "url": "https://www.douyin.com/search/%E8%A5%BF%E7%93%9C%E5%B0%91%E5%B9%B4%E9%A9%AC%E6%88%90%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%85%B3%E5%BF%83?type=general",
-      "hot_value": "7763270",
+      "hot_value": "7729017",
+      "index": 22
+    },
+    {
+      "title": "欢迎来龙餐馆片方回应被指偷票房",
+      "url": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%89%87%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%81%B7%E7%A5%A8%E6%88%BF?type=general",
+      "hot_value": "7727681",
+      "index": 23
+    },
+    {
+      "title": "电影牛来建模粗糙被网友吐槽",
+      "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%89%9B%E6%9D%A5%E5%BB%BA%E6%A8%A1%E7%B2%97%E7%B3%99%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD?type=general",
+      "hot_value": "7724659",
       "index": 24
     },
     {
       "title": "粉丝们给熊出没的回信",
       "url": "https://www.douyin.com/search/%E7%B2%89%E4%B8%9D%E4%BB%AC%E7%BB%99%E7%86%8A%E5%87%BA%E6%B2%A1%E7%9A%84%E5%9B%9E%E4%BF%A1?type=general",
-      "hot_value": "7759690",
+      "hot_value": "7716722",
       "index": 25
     },
     {
-      "title": "律师看电视剧重器",
-      "url": "https://www.douyin.com/search/%E5%BE%8B%E5%B8%88%E7%9C%8B%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8D%E5%99%A8?type=general",
-      "hot_value": "7755975",
+      "title": "丁当侯明昊给我一个理由忘记",
+      "url": "https://www.douyin.com/search/%E4%B8%81%E5%BD%93%E4%BE%AF%E6%98%8E%E6%98%8A%E7%BB%99%E6%88%91%E4%B8%80%E4%B8%AA%E7%90%86%E7%94%B1%E5%BF%98%E8%AE%B0?type=general",
+      "hot_value": "7688014",
       "index": 26
     },
     {
-      "title": "说唱巅峰12进9淘汰抢先看",
-      "url": "https://www.douyin.com/search/%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B012%E8%BF%9B9%E6%B7%98%E6%B1%B0%E6%8A%A2%E5%85%88%E7%9C%8B?type=general",
-      "hot_value": "7752566",
+      "title": "用AI给小时候的自己做头像",
+      "url": "https://www.douyin.com/search/%E7%94%A8AI%E7%BB%99%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%87%AA%E5%B7%B1%E5%81%9A%E5%A4%B4%E5%83%8F?type=general",
+      "hot_value": "7686754",
       "index": 27
     },
     {
-      "title": "我的瞬移超能力觉醒了",
-      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E7%9E%AC%E7%A7%BB%E8%B6%85%E8%83%BD%E5%8A%9B%E8%A7%89%E9%86%92%E4%BA%86?type=general",
-      "hot_value": "7725446",
+      "title": "七夕我就这样发朋友圈",
+      "url": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E6%88%91%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88?type=general",
+      "hot_value": "7684131",
       "index": 28
+    },
+    {
+      "title": "伊拉克老王探班龙餐馆",
+      "url": "https://www.douyin.com/search/%E4%BC%8A%E6%8B%89%E5%85%8B%E8%80%81%E7%8E%8B%E6%8E%A2%E7%8F%AD%E9%BE%99%E9%A4%90%E9%A6%86?type=general",
+      "hot_value": "7683857",
+      "index": 29
     },
     {
       "title": "平陆运河背后的大战略",
       "url": "https://www.douyin.com/search/%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E8%83%8C%E5%90%8E%E7%9A%84%E5%A4%A7%E6%88%98%E7%95%A5?type=general",
-      "hot_value": "7715665",
-      "index": 29
-    },
-    {
-      "title": "小米澎湃OS 4体验",
-      "url": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS%204%E4%BD%93%E9%AA%8C?type=general",
-      "hot_value": "7706766",
+      "hot_value": "7682493",
       "index": 30
     }
   ]
