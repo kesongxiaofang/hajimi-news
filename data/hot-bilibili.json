@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-15T17:43:57Z",
+  "update_time": "2026-08-15T18:21:25Z",
   "count": 30,
   "list": [
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第11集【总第187集】",
       "url": "https://www.bilibili.com/video/BV1hbgu66EyA",
-      "hot_value": "5066835播放",
+      "hot_value": "5154144播放",
       "index": 1
     },
     {
       "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
       "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
-      "hot_value": "8460107播放",
+      "hot_value": "8609656播放",
       "index": 2
-    },
-    {
-      "title": "难倒100万人的铁球难题，我终于！解！开！了！",
-      "url": "https://www.bilibili.com/video/BV1RYbk6QE9o",
-      "hot_value": "1095339播放",
-      "index": 3
-    },
-    {
-      "title": "【TF家族练习生】《突围II破局》EP08：任何方向都是前方(下)",
-      "url": "https://www.bilibili.com/video/BV1rnby6BEQE",
-      "hot_value": "600133播放",
-      "index": 4
     },
     {
       "title": "飞机安检模拟器",
       "url": "https://www.bilibili.com/video/BV1fTb16KEDk",
-      "hot_value": "900930播放",
-      "index": 5
+      "hot_value": "998135播放",
+      "index": 3
     },
     {
       "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
       "url": "https://www.bilibili.com/video/BV15xgn6GEjH",
-      "hot_value": "6310314播放",
-      "index": 6
+      "hot_value": "6336638播放",
+      "index": 4
+    },
+    {
+      "title": "【TF家族练习生】《突围II破局》EP08：任何方向都是前方(下)",
+      "url": "https://www.bilibili.com/video/BV1rnby6BEQE",
+      "hot_value": "657088播放",
+      "index": 5
     },
     {
       "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
       "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
-      "hot_value": "7649152播放",
-      "index": 7
+      "hot_value": "7711106播放",
+      "index": 6
     },
     {
-      "title": "（补档）雷霆牛来，绷得住的可以去乐山当大佛了",
-      "url": "https://www.bilibili.com/video/BV1nSgT6EEsj",
-      "hot_value": "1391213播放",
-      "index": 8
+      "title": "难倒100万人的铁球难题，我终于！解！开！了！",
+      "url": "https://www.bilibili.com/video/BV1RYbk6QE9o",
+      "hot_value": "1146936播放",
+      "index": 7
     },
     {
       "title": "法国最有松弛感的劫案是哪起？【硬核狠人91】",
       "url": "https://www.bilibili.com/video/BV1y5gP61E6m",
-      "hot_value": "1337284播放",
+      "hot_value": "1375751播放",
+      "index": 8
+    },
+    {
+      "title": "制作糖果的流程—解压",
+      "url": "https://www.bilibili.com/video/BV1MzGc6UEzT",
+      "hot_value": "2436523播放",
       "index": 9
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第2集 困兽【8月国创】",
       "url": "https://www.bilibili.com/video/BV18yuC6eEyM",
-      "hot_value": "1708339播放",
+      "hot_value": "1718766播放",
       "index": 10
-    },
-    {
-      "title": "【TF家族练习生】《突围II破局》EP08：任何方向都是前方（上）",
-      "url": "https://www.bilibili.com/video/BV1Ccb163E7t",
-      "hot_value": "1106818播放",
-      "index": 11
-    },
-    {
-      "title": "制作糖果的流程—解压",
-      "url": "https://www.bilibili.com/video/BV1MzGc6UEzT",
-      "hot_value": "2372795播放",
-      "index": 12
     },
     {
       "title": "老王出息了，今天带家人们一起探班龙餐馆的幕后~",
       "url": "https://www.bilibili.com/video/BV1e5gN6eE1D",
-      "hot_value": "2561240播放",
-      "index": 13
+      "hot_value": "2597736播放",
+      "index": 11
     },
     {
-      "title": "【短的发布会】我要验湃！一条视频带你看懂全网最带湃的澎湃OS 4",
-      "url": "https://www.bilibili.com/video/BV1mygw6jEg6",
-      "hot_value": "1365282播放",
-      "index": 14
+      "title": "【TF家族练习生】《突围II破局》EP08：任何方向都是前方（上）",
+      "url": "https://www.bilibili.com/video/BV1Ccb163E7t",
+      "hot_value": "1145938播放",
+      "index": 12
     },
     {
       "title": "我实现了我儿时的梦想",
       "url": "https://www.bilibili.com/video/BV1iTgA6hENv",
-      "hot_value": "2472715播放",
-      "index": 15
-    },
-    {
-      "title": "那年盖亚的导演选择了弹幕最多的打法！",
-      "url": "https://www.bilibili.com/video/BV1kcgN6VEXC",
-      "hot_value": "2575106播放",
-      "index": 16
+      "hot_value": "2490295播放",
+      "index": 13
     },
     {
       "title": "《牛来》看完了！暑期档最强！哈哈！",
       "url": "https://www.bilibili.com/video/BV1Gkby6WEoo",
-      "hot_value": "379203播放",
-      "index": 17
+      "hot_value": "429483播放",
+      "index": 14
+    },
+    {
+      "title": "【不是只有伟大的艺术家，才能创作出好作品的】",
+      "url": "https://www.bilibili.com/video/BV1PfgK6WEWv",
+      "hot_value": "431498播放",
+      "index": 15
     },
     {
       "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
       "url": "https://www.bilibili.com/video/BV1Z9gT61EnM",
-      "hot_value": "379473播放",
-      "index": 18
+      "hot_value": "413475播放",
+      "index": 16
+    },
+    {
+      "title": "选一颗星球，决定你接下来的旅途",
+      "url": "https://www.bilibili.com/video/BV1F4gK6LE3z",
+      "hot_value": "1066820播放",
+      "index": 17
     },
     {
       "title": "什么时候告白啊！！！！！",
       "url": "https://www.bilibili.com/video/BV1AFbC6PEpV",
-      "hot_value": "263470播放",
-      "index": 19
+      "hot_value": "274869播放",
+      "index": 18
     },
     {
       "title": "这会不会有点太刺激了？！",
       "url": "https://www.bilibili.com/video/BV1Ukgp6uErY",
-      "hot_value": "4787709播放",
+      "hot_value": "4825282播放",
+      "index": 19
+    },
+    {
+      "title": "【短的发布会】我要验湃！一条视频带你看懂全网最带湃的澎湃OS 4",
+      "url": "https://www.bilibili.com/video/BV1mygw6jEg6",
+      "hot_value": "1411635播放",
       "index": 20
     },
     {
       "title": "【直到大地变成一颗酸橙】TO-S-1至TO-S-4突袭至TO-MO-1 摆完挂机 简单好抄",
       "url": "https://www.bilibili.com/video/BV1gybk65EFW",
-      "hot_value": "673163播放",
+      "hot_value": "703006播放",
       "index": 21
-    },
-    {
-      "title": "【不是只有伟大的艺术家，才能创作出好作品的】",
-      "url": "https://www.bilibili.com/video/BV1PfgK6WEWv",
-      "hot_value": "394670播放",
-      "index": 22
-    },
-    {
-      "title": "选一颗星球，决定你接下来的旅途",
-      "url": "https://www.bilibili.com/video/BV1F4gK6LE3z",
-      "hot_value": "1031366播放",
-      "index": 23
     },
     {
       "title": "穿越战锤20年，你却靠实力登上贵族宝座，你的后半生会如何度过？",
       "url": "https://www.bilibili.com/video/BV14yg36ME81",
-      "hot_value": "462828播放",
+      "hot_value": "491193播放",
+      "index": 22
+    },
+    {
+      "title": "29年抓虫第19天，空军了2天半，好像运气回来了#我的农村生活#笋蛆#竹笋虫",
+      "url": "https://www.bilibili.com/video/BV1b6gp66ESP",
+      "hot_value": "1238884播放",
+      "index": 23
+    },
+    {
+      "title": "他说我不会放弃【rs】",
+      "url": "https://www.bilibili.com/video/BV16ugT61EKs",
+      "hot_value": "453674播放",
       "index": 24
     },
     {
-      "title": "【我在现代当幽差】EP01 大哥，你阳寿未尽啊【UP动画】",
-      "url": "https://www.bilibili.com/video/BV17Hgp6XEaR",
-      "hot_value": "1381434播放",
+      "title": "那年盖亚的导演选择了弹幕最多的打法！",
+      "url": "https://www.bilibili.com/video/BV1kcgN6VEXC",
+      "hot_value": "2608157播放",
       "index": 25
     },
     {
       "title": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
       "url": "https://www.bilibili.com/video/BV1cXgp6aESY",
-      "hot_value": "3682314播放",
+      "hot_value": "3711524播放",
       "index": 26
     },
     {
-      "title": "他说我不会放弃【rs】",
-      "url": "https://www.bilibili.com/video/BV16ugT61EKs",
-      "hot_value": "432815播放",
+      "title": "“盘点那些无缝衔接的顶级串烧”",
+      "url": "https://www.bilibili.com/video/BV1abgn6gExX",
+      "hot_value": "1122344播放",
       "index": 27
-    },
-    {
-      "title": "都什么年代，谁还渡传统通天河？！！",
-      "url": "https://www.bilibili.com/video/BV1CDgw6GEQ2",
-      "hot_value": "2075887播放",
-      "index": 28
     },
     {
       "title": "内娱嘉豪，长剧救星，帅比木村，他敢吹我都不敢听【张凌赫嘉豪名场面】盘点",
       "url": "https://www.bilibili.com/video/BV1HQg36YEmt",
-      "hot_value": "1016614播放",
+      "hot_value": "1049412播放",
+      "index": 28
+    },
+    {
+      "title": "当佐娅意外请到哈基蜂一起猛攻航天...",
+      "url": "https://www.bilibili.com/video/BV1Psui6NELL",
+      "hot_value": "3469586播放",
       "index": 29
     },
     {
-      "title": "当单主拿着草稿来找我约稿",
-      "url": "https://www.bilibili.com/video/BV1ALgw6TEtA",
-      "hot_value": "2158937播放",
+      "title": "【我在现代当幽差】EP01 大哥，你阳寿未尽啊【UP动画】",
+      "url": "https://www.bilibili.com/video/BV17Hgp6XEaR",
+      "hot_value": "1398826播放",
       "index": 30
     }
   ]
