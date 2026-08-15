@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-15T12:28:28Z",
+  "update_time": "2026-08-15T13:09:01Z",
   "count": 30,
   "list": [
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第11集【总第187集】",
       "url": "https://www.bilibili.com/video/BV1hbgu66EyA",
-      "hot_value": "3981386播放",
+      "hot_value": "4137417播放",
       "index": 1
     },
     {
       "title": "飞机安检模拟器",
       "url": "https://www.bilibili.com/video/BV1fTb16KEDk",
-      "hot_value": "262452播放",
+      "hot_value": "340050播放",
       "index": 2
     },
     {
-      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
-      "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
-      "hot_value": "7335110播放",
+      "title": "【TF家族练习生】《突围II破局》EP08：任何方向都是前方（上）",
+      "url": "https://www.bilibili.com/video/BV1Ccb163E7t",
+      "hot_value": "482444播放",
       "index": 3
     },
     {
       "title": "制作糖果的流程—解压",
       "url": "https://www.bilibili.com/video/BV1MzGc6UEzT",
-      "hot_value": "1657649播放",
+      "hot_value": "1793661播放",
       "index": 4
     },
     {
-      "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
-      "url": "https://www.bilibili.com/video/BV15xgn6GEjH",
-      "hot_value": "5886240播放",
+      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
+      "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
+      "hot_value": "7461373播放",
       "index": 5
-    },
-    {
-      "title": "我实现了我儿时的梦想",
-      "url": "https://www.bilibili.com/video/BV1iTgA6hENv",
-      "hot_value": "2135153播放",
-      "index": 6
     },
     {
       "title": "十八载征程，感谢有你，一路相伴。",
       "url": "https://www.bilibili.com/video/BV19YgP6aEq6",
-      "hot_value": "1843320播放",
+      "hot_value": "1950622播放",
+      "index": 6
+    },
+    {
+      "title": "我实现了我儿时的梦想",
+      "url": "https://www.bilibili.com/video/BV1iTgA6hENv",
+      "hot_value": "2203419播放",
       "index": 7
     },
     {
-      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉119/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
-      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
-      "hot_value": "6942475播放",
+      "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
+      "url": "https://www.bilibili.com/video/BV15xgn6GEjH",
+      "hot_value": "5957497播放",
       "index": 8
     },
     {
-      "title": "法国最有松弛感的劫案是哪起？【硬核狠人91】",
-      "url": "https://www.bilibili.com/video/BV1y5gP61E6m",
-      "hot_value": "935938播放",
+      "title": "难倒100万人的铁球难题，我终于！解！开！了！",
+      "url": "https://www.bilibili.com/video/BV1RYbk6QE9o",
+      "hot_value": "334220播放",
       "index": 9
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第2集 困兽【8月国创】",
       "url": "https://www.bilibili.com/video/BV18yuC6eEyM",
-      "hot_value": "1596454播放",
+      "hot_value": "1613513播放",
       "index": 10
     },
     {
-      "title": "那年盖亚的导演选择了弹幕最多的打法！",
-      "url": "https://www.bilibili.com/video/BV1kcgN6VEXC",
-      "hot_value": "1898383播放",
+      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉119/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
+      "hot_value": "7036591播放",
       "index": 11
     },
     {
       "title": "【挽救计划】Amaze Amaze Amaze！",
       "url": "https://www.bilibili.com/video/BV1sTgw6kESv",
-      "hot_value": "1102699播放",
+      "hot_value": "1144385播放",
       "index": 12
     },
     {
-      "title": "【时代少年团】《浅炸一下吧！》81：2026夏季时代少年团会运动（上）",
-      "url": "https://www.bilibili.com/video/BV12YbC66EnT",
-      "hot_value": "216077播放",
+      "title": "法国最有松弛感的劫案是哪起？【硬核狠人91】",
+      "url": "https://www.bilibili.com/video/BV1y5gP61E6m",
+      "hot_value": "993582播放",
       "index": 13
+    },
+    {
+      "title": "《异环》剧情过场 | 雾巢游戏",
+      "url": "https://www.bilibili.com/video/BV15DgA6wEyF",
+      "hot_value": "1098673播放",
+      "index": 14
     },
     {
       "title": "老王出息了，今天带家人们一起探班龙餐馆的幕后~",
       "url": "https://www.bilibili.com/video/BV1e5gN6eE1D",
-      "hot_value": "2149162播放",
-      "index": 14
+      "hot_value": "2209096播放",
+      "index": 15
     },
     {
-      "title": "《堡垒之夜》X《明日方舟：终末地》佩丽卡 舞蹈展示",
-      "url": "https://www.bilibili.com/video/BV1m9gM6eE2r",
-      "hot_value": "574744播放",
-      "index": 15
+      "title": "【直到大地变成一颗酸橙】TO-S-1至TO-S-4突袭至TO-MO-1 摆完挂机 简单好抄",
+      "url": "https://www.bilibili.com/video/BV1gybk65EFW",
+      "hot_value": "311000播放",
+      "index": 16
+    },
+    {
+      "title": "那年盖亚的导演选择了弹幕最多的打法！",
+      "url": "https://www.bilibili.com/video/BV1kcgN6VEXC",
+      "hot_value": "2012188播放",
+      "index": 17
     },
     {
       "title": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
       "url": "https://www.bilibili.com/video/BV1cXgp6aESY",
-      "hot_value": "3378277播放",
-      "index": 16
+      "hot_value": "3433696播放",
+      "index": 18
+    },
+    {
+      "title": "【时代少年团】《浅炸一下吧！》81：2026夏季时代少年团会运动（上）",
+      "url": "https://www.bilibili.com/video/BV12YbC66EnT",
+      "hot_value": "273511播放",
+      "index": 19
     },
     {
       "title": "都什么年代，谁还渡传统通天河？！！",
       "url": "https://www.bilibili.com/video/BV1CDgw6GEQ2",
-      "hot_value": "1799698播放",
-      "index": 17
-    },
-    {
-      "title": "这是我经历过的最恐怖的“形影不离”",
-      "url": "https://www.bilibili.com/video/BV1A7gP6CEab",
-      "hot_value": "910815播放",
-      "index": 18
-    },
-    {
-      "title": "第6集丨“各怀心事？”",
-      "url": "https://www.bilibili.com/video/BV1S1gP6WE75",
-      "hot_value": "1208834播放",
-      "index": 19
+      "hot_value": "1848429播放",
+      "index": 20
     },
     {
       "title": "这会不会有点太刺激了？！",
       "url": "https://www.bilibili.com/video/BV1Ukgp6uErY",
-      "hot_value": "4156566播放",
-      "index": 20
-    },
-    {
-      "title": "【千字拆解】全网最细解读《牛来》！有史最烂国产动漫！失眠必看哄，小孩必备！",
-      "url": "https://www.bilibili.com/video/BV1BGgu6HEoJ",
-      "hot_value": "492919播放",
+      "hot_value": "4256991播放",
       "index": 21
-    },
-    {
-      "title": "【我在现代当幽差】EP01 大哥，你阳寿未尽啊【UP动画】",
-      "url": "https://www.bilibili.com/video/BV17Hgp6XEaR",
-      "hot_value": "1191672播放",
-      "index": 22
-    },
-    {
-      "title": "黑白色经典星空喷漆画，划走你就草率了",
-      "url": "https://www.bilibili.com/video/BV1Mquv6MEEw",
-      "hot_value": "2613060播放",
-      "index": 23
-    },
-    {
-      "title": "你醒啦！你已经变成苦力怕娘惹……",
-      "url": "https://www.bilibili.com/video/BV1CmgF6iEyd",
-      "hot_value": "878027播放",
-      "index": 24
-    },
-    {
-      "title": "好消息：有鼠鼠！坏消息：鼠鼠都算好消息了....",
-      "url": "https://www.bilibili.com/video/BV1SSuC6cEC1",
-      "hot_value": "563081播放",
-      "index": 25
-    },
-    {
-      "title": "用MC还原《神的随波逐流》 【B萌应援】",
-      "url": "https://www.bilibili.com/video/BV1e1gH67EjN",
-      "hot_value": "2081698播放",
-      "index": 26
     },
     {
       "title": "【轰】怎么办…老公拿走了我最后的救命钱！！",
       "url": "https://www.bilibili.com/video/BV1L9gA6FExm",
-      "hot_value": "1434798播放",
+      "hot_value": "1540723播放",
+      "index": 22
+    },
+    {
+      "title": "第6集丨“各怀心事？”",
+      "url": "https://www.bilibili.com/video/BV1S1gP6WE75",
+      "hot_value": "1239816播放",
+      "index": 23
+    },
+    {
+      "title": "黑白色经典星空喷漆画，划走你就草率了",
+      "url": "https://www.bilibili.com/video/BV1Mquv6MEEw",
+      "hot_value": "2641967播放",
+      "index": 24
+    },
+    {
+      "title": "【千字拆解】全网最细解读《牛来》！有史最烂国产动漫！失眠必看哄，小孩必备！",
+      "url": "https://www.bilibili.com/video/BV1BGgu6HEoJ",
+      "hot_value": "545155播放",
+      "index": 25
+    },
+    {
+      "title": "【我在现代当幽差】EP01 大哥，你阳寿未尽啊【UP动画】",
+      "url": "https://www.bilibili.com/video/BV17Hgp6XEaR",
+      "hot_value": "1218635播放",
+      "index": 26
+    },
+    {
+      "title": "用MC还原《神的随波逐流》 【B萌应援】",
+      "url": "https://www.bilibili.com/video/BV1e1gH67EjN",
+      "hot_value": "2097950播放",
       "index": 27
+    },
+    {
+      "title": "《堡垒之夜》X《明日方舟：终末地》佩丽卡 舞蹈展示",
+      "url": "https://www.bilibili.com/video/BV1m9gM6eE2r",
+      "hot_value": "605604播放",
+      "index": 28
     },
     {
       "title": "带50位同事去参加水上闯关节目…",
       "url": "https://www.bilibili.com/video/BV1ipgn65EhB",
-      "hot_value": "2611914播放",
-      "index": 28
-    },
-    {
-      "title": "【短的发布会】我要验湃！一条视频带你看懂全网最带湃的澎湃OS 4",
-      "url": "https://www.bilibili.com/video/BV1mygw6jEg6",
-      "hot_value": "1079996播放",
+      "hot_value": "2686742播放",
       "index": 29
     },
     {
-      "title": "厨师长下班，偷吃店里剩的边角料日常记录",
-      "url": "https://www.bilibili.com/video/BV1UTuC6fE1D",
-      "hot_value": "2126177播放",
+      "title": "你醒啦！你已经变成苦力怕娘惹……",
+      "url": "https://www.bilibili.com/video/BV1CmgF6iEyd",
+      "hot_value": "899267播放",
       "index": 30
     }
   ]
