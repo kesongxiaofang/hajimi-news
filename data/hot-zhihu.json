@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-16T05:51:56Z",
+  "update_time": "2026-08-16T06:31:56Z",
   "count": 30,
   "list": [
     {
       "title": "网友称吃寿司郎遇到邻桌光脚踩水龙头，要求当面消毒，店员则拒绝称需要空置半小时消杀，门店的行为有问题吗？",
       "url": "https://www.zhihu.com/question/2071653716847850619",
-      "hot_value": "668 万热度",
+      "hot_value": "679 万热度",
       "index": 1
     },
     {
       "title": "如何看待《欢迎到龙餐馆》讲中东故事，却全程国内取景拍摄，手搓一座乱世下的中东城？",
       "url": "https://www.zhihu.com/question/2071533521441485058",
-      "hot_value": "381 万热度",
+      "hot_value": "426 万热度",
       "index": 2
     },
     {
       "title": "2026 年 WTT 瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？",
       "url": "https://www.zhihu.com/question/2072134899692311514",
-      "hot_value": "320 万热度",
+      "hot_value": "281 万热度",
       "index": 3
     },
     {
       "title": "榜一大哥打赏女主播超千万求交往，遭拒后起诉其诈骗，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2072076213984518341",
-      "hot_value": "226 万热度",
+      "hot_value": "265 万热度",
       "index": 4
     },
     {
       "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
       "url": "https://www.zhihu.com/question/2070435156947462039",
-      "hot_value": "223 万热度",
+      "hot_value": "240 万热度",
       "index": 5
+    },
+    {
+      "title": "如何看待胖东来招聘刑释人员的公告被质疑处理不当？",
+      "url": "https://www.zhihu.com/question/2072055535537316754",
+      "hot_value": "171 万热度",
+      "index": 6
+    },
+    {
+      "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
+      "url": "https://www.zhihu.com/question/2071916942760342436",
+      "hot_value": "117 万热度",
+      "index": 7
+    },
+    {
+      "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
+      "url": "https://www.zhihu.com/question/2064434098815374163",
+      "hot_value": "105 万热度",
+      "index": 8
     },
     {
       "title": "醉鹅娘涉嫌走私遭起诉，年销 3.5 亿的网红品牌，为何走到刑事公诉这一步？醉鹅娘可能面临什么？",
       "url": "https://www.zhihu.com/question/2070904107477333186",
-      "hot_value": "115 万热度",
-      "index": 6
+      "hot_value": "98 万热度",
+      "index": 9
     },
     {
-      "title": "一个先进外星文明拿到地球的一颗完整但孤立的 CPU 会怎样?",
-      "url": "https://www.zhihu.com/question/2070934624273010995",
-      "hot_value": "111 万热度",
-      "index": 7
-    },
-    {
-      "title": "广东上线「Token 贷」，银行以企业 Token 消耗、业务订单等作为授信核心依据，如何看待这一创新模式？",
-      "url": "https://www.zhihu.com/question/2071648717074069267",
-      "hot_value": "101 万热度",
-      "index": 8
+      "title": "为什么成绩好的学霸大多数都是早熟者？",
+      "url": "https://www.zhihu.com/question/2058865477712196520",
+      "hot_value": "91 万热度",
+      "index": 10
     },
     {
       "title": "旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？",
       "url": "https://www.zhihu.com/question/2071910735857333389",
       "hot_value": "90 万热度",
-      "index": 9
+      "index": 11
     },
     {
       "title": "纯数学研究者未来会被 AI 取代吗？",
       "url": "https://www.zhihu.com/question/2014665409727570582",
-      "hot_value": "85 万热度",
-      "index": 10
-    },
-    {
-      "title": "如何评价《原神》7.0 中的「楚古诺夫」？",
-      "url": "https://www.zhihu.com/question/2071532873841108291",
-      "hot_value": "83 万热度",
-      "index": 11
-    },
-    {
-      "title": "为什么成绩好的学霸大多数都是早熟者？",
-      "url": "https://www.zhihu.com/question/2058865477712196520",
-      "hot_value": "83 万热度",
+      "hot_value": "89 万热度",
       "index": 12
+    },
+    {
+      "title": "一个先进外星文明拿到地球的一颗完整但孤立的 CPU 会怎样?",
+      "url": "https://www.zhihu.com/question/2070934624273010995",
+      "hot_value": "85 万热度",
+      "index": 13
     },
     {
       "title": "曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？",
       "url": "https://www.zhihu.com/question/2070889441451939231",
-      "hot_value": "80 万热度",
-      "index": 13
+      "hot_value": "78 万热度",
+      "index": 14
     },
     {
-      "title": "国家叫停「速成车」，新国标落地将如何影响消费者购车？",
-      "url": "https://www.zhihu.com/question/2071168780798055732",
-      "hot_value": "77 万热度",
-      "index": 14
+      "title": "在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料？",
+      "url": "https://www.zhihu.com/question/2068587429079020879",
+      "hot_value": "72 万热度",
+      "index": 15
     },
     {
       "title": "电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？",
       "url": "https://www.zhihu.com/question/2070543205620258082",
-      "hot_value": "68 万热度",
-      "index": 15
+      "hot_value": "69 万热度",
+      "index": 16
     },
     {
       "title": "准高三生看完《奥本海默》后深感自己平庸，该如何接受与顶尖天才的差距？",
       "url": "https://www.zhihu.com/question/2071135275296858628",
       "hot_value": "59 万热度",
-      "index": 16
+      "index": 17
+    },
+    {
+      "title": "广东上线「Token 贷」，银行以企业 Token 消耗、业务订单等作为授信核心依据，如何看待这一创新模式？",
+      "url": "https://www.zhihu.com/question/2071648717074069267",
+      "hot_value": "59 万热度",
+      "index": 18
     },
     {
       "title": "如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？",
       "url": "https://www.zhihu.com/question/32244325",
       "hot_value": "59 万热度",
-      "index": 17
+      "index": 19
+    },
+    {
+      "title": "如何评价《原神》7.0 中的「楚古诺夫」？",
+      "url": "https://www.zhihu.com/question/2071532873841108291",
+      "hot_value": "58 万热度",
+      "index": 20
     },
     {
       "title": "家里六岁男孩，一遇到不顺自己心意的事就哭得很伤心，不完全是撒泼胡闹，该如何帮助引导孩子？",
       "url": "https://www.zhihu.com/question/2010380052173444326",
-      "hot_value": "58 万热度",
-      "index": 18
-    },
-    {
-      "title": "最多落后 28 分！中国男篮热身赛惨败乌拉圭，赵嘉义 17 分，李弘权 10+7，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2072073429633725877",
-      "hot_value": "57 万热度",
-      "index": 19
+      "hot_value": "56 万热度",
+      "index": 21
     },
     {
       "title": "河南教师清理双户口后常用户口因「虚假户口」被注销成黑户，警方同意重报但无法恢复，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2071261939238544994",
-      "hot_value": "56 万热度",
-      "index": 20
-    },
-    {
-      "title": "不同科室的医生都有什么特别心爱的物品吗？",
-      "url": "https://www.zhihu.com/question/820295078",
-      "hot_value": "56 万热度",
-      "index": 21
+      "hot_value": "55 万热度",
+      "index": 22
     },
     {
       "title": "电影《奥德赛》，在诺兰的作品里，处于什么水平？",
       "url": "https://www.zhihu.com/question/2068703642505459146",
       "hot_value": "55 万热度",
-      "index": 22
-    },
-    {
-      "title": "怎样接受「失去」？怎样对抗长时间的消极情绪？",
-      "url": "https://www.zhihu.com/question/773677329",
-      "hot_value": "55 万热度",
       "index": 23
     },
     {
-      "title": "如何评价米哈游《原神》奥黛塔 & 沃雅妮莎 CP？",
-      "url": "https://www.zhihu.com/question/2071589447360108530",
+      "title": "最多落后 28 分！中国男篮热身赛惨败乌拉圭，赵嘉义 17 分，李弘权 10+7，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2072073429633725877",
       "hot_value": "55 万热度",
       "index": 24
     },
     {
-      "title": "《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？",
-      "url": "https://www.zhihu.com/question/2070215170526279459",
-      "hot_value": "55 万热度",
+      "title": "既然知道生存那么艰辛，为什么还要努力去读大学？还不如直接简简单单过一生，岂不是更好？",
+      "url": "https://www.zhihu.com/question/2062951193102529417",
+      "hot_value": "54 万热度",
       "index": 25
     },
     {
-      "title": "如何评价安妮·海瑟薇、伊万·麦克格雷格主演的惊悚电影《逃出绝命街》？",
-      "url": "https://www.zhihu.com/question/2071192151078221742",
-      "hot_value": "55 万热度",
+      "title": "孩子很懒，不做家务，家长该如何做才能让孩子勤快起来呢？",
+      "url": "https://www.zhihu.com/question/2070275974965547614",
+      "hot_value": "54 万热度",
       "index": 26
     },
     {
-      "title": "如何看论文破解了前沿模型的加密思维数据，以及 Kimi K3 / GLM-5.2 是否蒸馏过前沿模型？",
-      "url": "https://www.zhihu.com/question/2070813640966550646",
-      "hot_value": "55 万热度",
+      "title": "猫咪这个动物不是不怕热吗？怎么夏天也趴着不动？",
+      "url": "https://www.zhihu.com/question/1919803591994114757",
+      "hot_value": "54 万热度",
       "index": 27
     },
     {
-      "title": "漫画的信息密度是不是低于文字小说？",
-      "url": "https://www.zhihu.com/question/2052397049744831695",
-      "hot_value": "55 万热度",
+      "title": "如何让大学生活变得更丰富有意义一点？",
+      "url": "https://www.zhihu.com/question/2061121380792407704",
+      "hot_value": "54 万热度",
       "index": 28
     },
     {
-      "title": "懒惰是抗拒劳动还是抗拒社交压力？",
-      "url": "https://www.zhihu.com/question/2065232307854874301",
-      "hot_value": "55 万热度",
+      "title": "如果有可以偷懒的一天，抛开家务、工作等琐事放空摆烂，你会怎么度过这一天？",
+      "url": "https://www.zhihu.com/question/2070400645132301941",
+      "hot_value": "54 万热度",
       "index": 29
     },
     {
-      "title": "如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？",
-      "url": "https://www.zhihu.com/question/2071536115983410411",
-      "hot_value": "55 万热度",
+      "title": "我们为什么喜欢黑很熟的人？",
+      "url": "https://www.zhihu.com/question/33185166",
+      "hot_value": "54 万热度",
       "index": 30
     }
   ]

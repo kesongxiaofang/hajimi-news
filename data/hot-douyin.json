@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-16T05:51:56Z",
+  "update_time": "2026-08-16T06:31:56Z",
   "count": 30,
   "list": [
     {
-      "title": "AC米兰4:2曼联",
-      "url": "https://www.douyin.com/search/AC%E7%B1%B3%E5%85%B04%3A2%E6%9B%BC%E8%81%94?type=general",
-      "hot_value": "11545692",
+      "title": "河南贾鲁河川汇区段溃口完成合龙",
+      "url": "https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E8%B4%BE%E9%B2%81%E6%B2%B3%E5%B7%9D%E6%B1%87%E5%8C%BA%E6%AE%B5%E6%BA%83%E5%8F%A3%E5%AE%8C%E6%88%90%E5%90%88%E9%BE%99?type=general",
+      "hot_value": "11416944",
       "index": 1
-    },
-    {
-      "title": "邓恩卫冕UFC草量级冠军",
-      "url": "https://www.douyin.com/search/%E9%82%93%E6%81%A9%E5%8D%AB%E5%86%95UFC%E8%8D%89%E9%87%8F%E7%BA%A7%E5%86%A0%E5%86%9B?type=general",
-      "hot_value": "11472499",
-      "index": 2
     },
     {
       "title": "暑期服务消费潜能加速释放",
       "url": "https://www.douyin.com/search/%E6%9A%91%E6%9C%9F%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E6%BD%9C%E8%83%BD%E5%8A%A0%E9%80%9F%E9%87%8A%E6%94%BE?type=general",
-      "hot_value": "11408000",
+      "hot_value": "11408189",
+      "index": 2
+    },
+    {
+      "title": "AC米兰4:2曼联",
+      "url": "https://www.douyin.com/search/AC%E7%B1%B3%E5%85%B04%3A2%E6%9B%BC%E8%81%94?type=general",
+      "hot_value": "11163828",
       "index": 3
     },
     {
-      "title": "河南贾鲁河川汇区段溃口完成合龙",
-      "url": "https://www.douyin.com/search/%E6%B2%B3%E5%8D%97%E8%B4%BE%E9%B2%81%E6%B2%B3%E5%B7%9D%E6%B1%87%E5%8C%BA%E6%AE%B5%E6%BA%83%E5%8F%A3%E5%AE%8C%E6%88%90%E5%90%88%E9%BE%99?type=general",
-      "hot_value": "11325989",
+      "title": "邓恩卫冕UFC草量级冠军",
+      "url": "https://www.douyin.com/search/%E9%82%93%E6%81%A9%E5%8D%AB%E5%86%95UFC%E8%8D%89%E9%87%8F%E7%BA%A7%E5%86%A0%E5%86%9B?type=general",
+      "hot_value": "10545687",
       "index": 4
-    },
-    {
-      "title": "人人都是美食艺术家",
-      "url": "https://www.douyin.com/search/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E7%BE%8E%E9%A3%9F%E8%89%BA%E6%9C%AF%E5%AE%B6?type=general",
-      "hot_value": "10560725",
-      "index": 5
-    },
-    {
-      "title": "和妈妈吃一顿漂亮饭",
-      "url": "https://www.douyin.com/search/%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%83%E4%B8%80%E9%A1%BF%E6%BC%82%E4%BA%AE%E9%A5%AD?type=general",
-      "hot_value": "10544343",
-      "index": 6
-    },
-    {
-      "title": "满级人类齐聚HYROX深圳站",
-      "url": "https://www.douyin.com/search/%E6%BB%A1%E7%BA%A7%E4%BA%BA%E7%B1%BB%E9%BD%90%E8%81%9AHYROX%E6%B7%B1%E5%9C%B3%E7%AB%99?type=general",
-      "hot_value": "9432013",
-      "index": 7
     },
     {
       "title": "给童年动画伙伴的回信",
       "url": "https://www.douyin.com/search/%E7%BB%99%E7%AB%A5%E5%B9%B4%E5%8A%A8%E7%94%BB%E4%BC%99%E4%BC%B4%E7%9A%84%E5%9B%9E%E4%BF%A1?type=general",
-      "hot_value": "9402738",
-      "index": 8
+      "hot_value": "10544574",
+      "index": 5
     },
     {
       "title": "兰州拉面为啥改叫青海拉面",
       "url": "https://www.douyin.com/search/%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E4%B8%BA%E5%95%A5%E6%94%B9%E5%8F%AB%E9%9D%92%E6%B5%B7%E6%8B%89%E9%9D%A2?type=general",
-      "hot_value": "9343795",
+      "hot_value": "9429904",
+      "index": 6
+    },
+    {
+      "title": "人人都是美食艺术家",
+      "url": "https://www.douyin.com/search/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E7%BE%8E%E9%A3%9F%E8%89%BA%E6%9C%AF%E5%AE%B6?type=general",
+      "hot_value": "9412241",
+      "index": 7
+    },
+    {
+      "title": "和妈妈吃一顿漂亮饭",
+      "url": "https://www.douyin.com/search/%E5%92%8C%E5%A6%88%E5%A6%88%E5%90%83%E4%B8%80%E9%A1%BF%E6%BC%82%E4%BA%AE%E9%A5%AD?type=general",
+      "hot_value": "9405244",
+      "index": 8
+    },
+    {
+      "title": "满级人类齐聚HYROX深圳站",
+      "url": "https://www.douyin.com/search/%E6%BB%A1%E7%BA%A7%E4%BA%BA%E7%B1%BB%E9%BD%90%E8%81%9AHYROX%E6%B7%B1%E5%9C%B3%E7%AB%99?type=general",
+      "hot_value": "9310544",
       "index": 9
     },
     {
       "title": "60岁AI动画赛道新人",
       "url": "https://www.douyin.com/search/60%E5%B2%81AI%E5%8A%A8%E7%94%BB%E8%B5%9B%E9%81%93%E6%96%B0%E4%BA%BA?type=general",
-      "hot_value": "9309645",
+      "hot_value": "9231214",
       "index": 10
     },
     {
       "title": "熊出没收到了00后们的回信",
       "url": "https://www.douyin.com/search/%E7%86%8A%E5%87%BA%E6%B2%A1%E6%94%B6%E5%88%B0%E4%BA%8600%E5%90%8E%E4%BB%AC%E7%9A%84%E5%9B%9E%E4%BF%A1?type=general",
-      "hot_value": "9223039",
+      "hot_value": "9165606",
       "index": 11
     },
     {
       "title": "这世界大得让爱人很难不旅游",
       "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%96%E7%95%8C%E5%A4%A7%E5%BE%97%E8%AE%A9%E7%88%B1%E4%BA%BA%E5%BE%88%E9%9A%BE%E4%B8%8D%E6%97%85%E6%B8%B8?type=general",
-      "hot_value": "9166790",
+      "hot_value": "9148460",
       "index": 12
     },
     {
-      "title": "陈熠0:4不敌张本美和",
-      "url": "https://www.douyin.com/search/%E9%99%88%E7%86%A00%3A4%E4%B8%8D%E6%95%8C%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C?type=general",
-      "hot_value": "9001160",
+      "title": "一条谣言“诞生”的全流程",
+      "url": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E8%B0%A3%E8%A8%80%E2%80%9C%E8%AF%9E%E7%94%9F%E2%80%9D%E7%9A%84%E5%85%A8%E6%B5%81%E7%A8%8B?type=general",
+      "hot_value": "9059904",
       "index": 13
     },
     {
-      "title": "没有能立刻淡斑美白的护肤品",
-      "url": "https://www.douyin.com/search/%E6%B2%A1%E6%9C%89%E8%83%BD%E7%AB%8B%E5%88%BB%E6%B7%A1%E6%96%91%E7%BE%8E%E7%99%BD%E7%9A%84%E6%8A%A4%E8%82%A4%E5%93%81?type=general",
-      "hot_value": "8938604",
+      "title": "看龙餐馆懂了好好吃饭不只是嘱托",
+      "url": "https://www.douyin.com/search/%E7%9C%8B%E9%BE%99%E9%A4%90%E9%A6%86%E6%87%82%E4%BA%86%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%98%B1%E6%89%98?type=general",
+      "hot_value": "9043760",
       "index": 14
-    },
-    {
-      "title": "所有人感受少时2青春系",
-      "url": "https://www.douyin.com/search/%E6%89%80%E6%9C%89%E4%BA%BA%E6%84%9F%E5%8F%97%E5%B0%91%E6%97%B62%E9%9D%92%E6%98%A5%E7%B3%BB?type=general",
-      "hot_value": "8851186",
-      "index": 15
-    },
-    {
-      "title": "RED广州演唱会",
-      "url": "https://www.douyin.com/search/RED%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "8590047",
-      "index": 16
     },
     {
       "title": "再见太难",
       "url": "https://www.douyin.com/search/%E5%86%8D%E8%A7%81%E5%A4%AA%E9%9A%BE?type=general",
-      "hot_value": "8469131",
-      "index": 17
+      "hot_value": "8721232",
+      "index": 15
+    },
+    {
+      "title": "所有人感受少时2青春系",
+      "url": "https://www.douyin.com/search/%E6%89%80%E6%9C%89%E4%BA%BA%E6%84%9F%E5%8F%97%E5%B0%91%E6%97%B62%E9%9D%92%E6%98%A5%E7%B3%BB?type=general",
+      "hot_value": "8468789",
+      "index": 16
     },
     {
       "title": "我们的少年时代2开播",
       "url": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E5%BC%80%E6%92%AD?type=general",
-      "hot_value": "8240904",
+      "hot_value": "8363618",
+      "index": 17
+    },
+    {
+      "title": "RED广州演唱会",
+      "url": "https://www.douyin.com/search/RED%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "8286863",
       "index": 18
     },
     {
       "title": "当领导说要视频而我只有照片",
       "url": "https://www.douyin.com/search/%E5%BD%93%E9%A2%86%E5%AF%BC%E8%AF%B4%E8%A6%81%E8%A7%86%E9%A2%91%E8%80%8C%E6%88%91%E5%8F%AA%E6%9C%89%E7%85%A7%E7%89%87?type=general",
-      "hot_value": "8098710",
+      "hot_value": "7924724",
       "index": 19
+    },
+    {
+      "title": "陈熠0:4不敌张本美和",
+      "url": "https://www.douyin.com/search/%E9%99%88%E7%86%A00%3A4%E4%B8%8D%E6%95%8C%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C?type=general",
+      "hot_value": "7819539",
+      "index": 20
     },
     {
       "title": "热身赛日本男篮88:68韩国男篮",
       "url": "https://www.douyin.com/search/%E7%83%AD%E8%BA%AB%E8%B5%9B%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE88%3A68%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE?type=general",
-      "hot_value": "7771006",
-      "index": 20
+      "hot_value": "7813418",
+      "index": 21
     },
     {
-      "title": "看龙餐馆懂了好好吃饭不只是嘱托",
-      "url": "https://www.douyin.com/search/%E7%9C%8B%E9%BE%99%E9%A4%90%E9%A6%86%E6%87%82%E4%BA%86%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%98%B1%E6%89%98?type=general",
-      "hot_value": "7768641",
-      "index": 21
+      "title": "伊朗宣布与阿曼达成协议",
+      "url": "https://www.douyin.com/search/%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E4%B8%8E%E9%98%BF%E6%9B%BC%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE?type=general",
+      "hot_value": "7762248",
+      "index": 22
     },
     {
       "title": "德安东尼名人堂演讲致敬哈登",
       "url": "https://www.douyin.com/search/%E5%BE%B7%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%90%8D%E4%BA%BA%E5%A0%82%E6%BC%94%E8%AE%B2%E8%87%B4%E6%95%AC%E5%93%88%E7%99%BB?type=general",
-      "hot_value": "7747687",
-      "index": 22
+      "hot_value": "7760238",
+      "index": 23
     },
     {
       "title": "NBA名宿齐聚名人堂现场",
       "url": "https://www.douyin.com/search/NBA%E5%90%8D%E5%AE%BF%E9%BD%90%E8%81%9A%E5%90%8D%E4%BA%BA%E5%A0%82%E7%8E%B0%E5%9C%BA?type=general",
-      "hot_value": "7738568",
-      "index": 23
-    },
-    {
-      "title": "中超成都蓉城3:2浙江队",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E3%3A2%E6%B5%99%E6%B1%9F%E9%98%9F?type=general",
-      "hot_value": "7738136",
+      "hot_value": "7748362",
       "index": 24
     },
     {
-      "title": "816上手瓦",
-      "url": "https://www.douyin.com/search/816%E4%B8%8A%E6%89%8B%E7%93%A6?type=general",
-      "hot_value": "7734703",
+      "title": "邓超体验重庆背篓轮渡的一天",
+      "url": "https://www.douyin.com/search/%E9%82%93%E8%B6%85%E4%BD%93%E9%AA%8C%E9%87%8D%E5%BA%86%E8%83%8C%E7%AF%93%E8%BD%AE%E6%B8%A1%E7%9A%84%E4%B8%80%E5%A4%A9?type=general",
+      "hot_value": "7742053",
       "index": 25
+    },
+    {
+      "title": "我和闺蜜联手掀翻AI穿书剧本",
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%92%8C%E9%97%BA%E8%9C%9C%E8%81%94%E6%89%8B%E6%8E%80%E7%BF%BBAI%E7%A9%BF%E4%B9%A6%E5%89%A7%E6%9C%AC?type=general",
+      "hot_value": "7740280",
+      "index": 26
+    },
+    {
+      "title": "幸福是和同频的人一起看世界",
+      "url": "https://www.douyin.com/search/%E5%B9%B8%E7%A6%8F%E6%98%AF%E5%92%8C%E5%90%8C%E9%A2%91%E7%9A%84%E4%BA%BA%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%B8%96%E7%95%8C?type=general",
+      "hot_value": "7735845",
+      "index": 27
     },
     {
       "title": "陈赫电竞房的含金量",
       "url": "https://www.douyin.com/search/%E9%99%88%E8%B5%AB%E7%94%B5%E7%AB%9E%E6%88%BF%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F?type=general",
-      "hot_value": "7721643",
-      "index": 26
-    },
-    {
-      "title": "这个秋天我要做个帅女",
-      "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E7%A7%8B%E5%A4%A9%E6%88%91%E8%A6%81%E5%81%9A%E4%B8%AA%E5%B8%85%E5%A5%B3?type=general",
-      "hot_value": "7717504",
-      "index": 27
-    },
-    {
-      "title": "八村垒河村勇辉归队首秀",
-      "url": "https://www.douyin.com/search/%E5%85%AB%E6%9D%91%E5%9E%92%E6%B2%B3%E6%9D%91%E5%8B%87%E8%BE%89%E5%BD%92%E9%98%9F%E9%A6%96%E7%A7%80?type=general",
-      "hot_value": "7701392",
+      "hot_value": "7727328",
       "index": 28
-    },
-    {
-      "title": "纳什维尔大胜迈阿密国际",
-      "url": "https://www.douyin.com/search/%E7%BA%B3%E4%BB%80%E7%BB%B4%E5%B0%94%E5%A4%A7%E8%83%9C%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85?type=general",
-      "hot_value": "7698455",
-      "index": 29
     },
     {
       "title": "中国男篮热身赛72:91不敌乌拉圭",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%83%AD%E8%BA%AB%E8%B5%9B72%3A91%E4%B8%8D%E6%95%8C%E4%B9%8C%E6%8B%89%E5%9C%AD?type=general",
-      "hot_value": "7698047",
+      "hot_value": "7726307",
+      "index": 29
+    },
+    {
+      "title": "胡军李乃文玩拼豆好心酸",
+      "url": "https://www.douyin.com/search/%E8%83%A1%E5%86%9B%E6%9D%8E%E4%B9%83%E6%96%87%E7%8E%A9%E6%8B%BC%E8%B1%86%E5%A5%BD%E5%BF%83%E9%85%B8?type=general",
+      "hot_value": "7719772",
       "index": 30
     }
   ]
