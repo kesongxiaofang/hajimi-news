@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-16T13:51:43Z",
+  "update_time": "2026-08-16T14:17:32Z",
   "platforms": [
     {
       "type": "weibo",
@@ -44,8 +44,7 @@
     {
       "type": "thepaper",
       "name": "澎湃新闻",
-      "count": 0,
-      "error": "HTTP Error 522: Origin Connection Time-out"
+      "count": 20
     }
   ]
 }
