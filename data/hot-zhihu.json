@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-16T08:23:30Z",
+  "update_time": "2026-08-16T08:55:43Z",
   "count": 30,
   "list": [
     {
       "title": "朱镕基同志遗体18日火化 天安门等地将下半旗志哀",
       "url": "https://zhuanlan.zhihu.com/p/2072330702507529924",
-      "hot_value": "1524 万热度",
+      "hot_value": "1562 万热度",
       "index": 1
     },
     {
       "title": "如何看待《欢迎到龙餐馆》讲中东故事，却全程国内取景拍摄，手搓一座乱世下的中东城？",
       "url": "https://www.zhihu.com/question/2071533521441485058",
-      "hot_value": "541 万热度",
+      "hot_value": "573 万热度",
       "index": 2
     },
     {
       "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
       "url": "https://www.zhihu.com/question/2070435156947462039",
-      "hot_value": "279 万热度",
+      "hot_value": "290 万热度",
       "index": 3
     },
     {
       "title": "网友称吃寿司郎遇到邻桌光脚踩水龙头，要求当面消毒，店员则拒绝称需要空置半小时消杀，门店的行为有问题吗？",
       "url": "https://www.zhihu.com/question/2071653716847850619",
-      "hot_value": "261 万热度",
+      "hot_value": "258 万热度",
       "index": 4
     },
     {
       "title": "如何看待胖东来招聘刑释人员的公告被质疑处理不当？",
       "url": "https://www.zhihu.com/question/2072055535537316754",
-      "hot_value": "243 万热度",
+      "hot_value": "227 万热度",
       "index": 5
     },
     {
       "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》？",
       "url": "https://www.zhihu.com/question/2064434098815374163",
-      "hot_value": "151 万热度",
+      "hot_value": "164 万热度",
       "index": 6
     },
     {
       "title": "榜一大哥打赏女主播超千万求交往，遭拒后起诉其诈骗，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2072076213984518341",
-      "hot_value": "148 万热度",
+      "hot_value": "160 万热度",
       "index": 7
+    },
+    {
+      "title": "怎么看澎湃 OS4 正式采用 Flutter + Rust  对系统进行性能和内存优化？",
+      "url": "https://www.zhihu.com/question/2071904280957694354",
+      "hot_value": "156 万热度",
+      "index": 8
     },
     {
       "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
       "url": "https://www.zhihu.com/question/2071916942760342436",
-      "hot_value": "146 万热度",
-      "index": 8
-    },
-    {
-      "title": "为什么成绩好的学霸大多数都是早熟者？",
-      "url": "https://www.zhihu.com/question/2058865477712196520",
-      "hot_value": "116 万热度",
+      "hot_value": "155 万热度",
       "index": 9
     },
     {
-      "title": "LPL2026 赛季第三赛段组内赛 BLG 2:0 WE，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2072063189060150613",
-      "hot_value": "108 万热度",
+      "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？",
+      "url": "https://www.zhihu.com/question/2071306248780255535",
+      "hot_value": "124 万热度",
       "index": 10
     },
     {
       "title": "李宗盛为什么口碑变差了?",
       "url": "https://www.zhihu.com/question/388993745",
-      "hot_value": "99 万热度",
+      "hot_value": "121 万热度",
       "index": 11
     },
     {
-      "title": "旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？",
-      "url": "https://www.zhihu.com/question/2071910735857333389",
-      "hot_value": "90 万热度",
+      "title": "为什么成绩好的学霸大多数都是早熟者？",
+      "url": "https://www.zhihu.com/question/2058865477712196520",
+      "hot_value": "118 万热度",
       "index": 12
     },
     {
-      "title": "2026 年 WTT 瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2072134899692311514",
-      "hot_value": "89 万热度",
+      "title": "LPL2026 赛季第三赛段组内赛 BLG 2:0 WE，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2072063189060150613",
+      "hot_value": "107 万热度",
       "index": 13
     },
     {
       "title": "在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料？",
       "url": "https://www.zhihu.com/question/2068587429079020879",
-      "hot_value": "88 万热度",
+      "hot_value": "93 万热度",
       "index": 14
+    },
+    {
+      "title": "《影之刃零》定价标准版 268 ￥豪华版 328 ￥，和黑神话保持一致，如何看待这个定价？",
+      "url": "https://www.zhihu.com/question/2070810902442532945",
+      "hot_value": "91 万热度",
+      "index": 15
+    },
+    {
+      "title": "旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？",
+      "url": "https://www.zhihu.com/question/2071910735857333389",
+      "hot_value": "90 万热度",
+      "index": 16
     },
     {
       "title": "陕西为什么叫「陕西」，而不叫「天东」、「巴北」或「鄂南」呢？",
       "url": "https://www.zhihu.com/question/1908464657242513982",
-      "hot_value": "82 万热度",
-      "index": 15
+      "hot_value": "84 万热度",
+      "index": 17
+    },
+    {
+      "title": "新番《尼古喵喵》描绘颓废猫娘引发争议，该作是写实神作还是价值观劝退番？",
+      "url": "https://www.zhihu.com/question/2065486161745860072",
+      "hot_value": "79 万热度",
+      "index": 18
     },
     {
       "title": "曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？",
       "url": "https://www.zhihu.com/question/2070889441451939231",
       "hot_value": "78 万热度",
-      "index": 16
-    },
-    {
-      "title": "电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？",
-      "url": "https://www.zhihu.com/question/2070543205620258082",
-      "hot_value": "69 万热度",
-      "index": 17
-    },
-    {
-      "title": "如何在半年内学会四大力学？",
-      "url": "https://www.zhihu.com/question/320472762",
-      "hot_value": "67 万热度",
-      "index": 18
-    },
-    {
-      "title": "一个先进外星文明拿到地球的一颗完整但孤立的 CPU 会怎样?",
-      "url": "https://www.zhihu.com/question/2070934624273010995",
-      "hot_value": "58 万热度",
       "index": 19
     },
     {
       "title": "中国体操运动管理中心发表抵制「饭圈」声明，体操圈最近是有什么事发生吗，体操也有饭圈？",
       "url": "https://www.zhihu.com/question/2070879796272133700",
-      "hot_value": "57 万热度",
+      "hot_value": "72 万热度",
       "index": 20
     },
     {
-      "title": "纯数学研究者未来会被 AI 取代吗？",
-      "url": "https://www.zhihu.com/question/2014665409727570582",
-      "hot_value": "57 万热度",
+      "title": "如何在半年内学会四大力学？",
+      "url": "https://www.zhihu.com/question/320472762",
+      "hot_value": "66 万热度",
       "index": 21
     },
     {
-      "title": "醉鹅娘涉嫌走私遭起诉，年销 3.5 亿的网红品牌，为何走到刑事公诉这一步？醉鹅娘可能面临什么？",
-      "url": "https://www.zhihu.com/question/2070904107477333186",
-      "hot_value": "57 万热度",
+      "title": "物理空间清洁和心理空间清洁有何关联？",
+      "url": "https://www.zhihu.com/question/2067937937573126756",
+      "hot_value": "64 万热度",
       "index": 22
     },
     {
       "title": "家里六岁男孩，一遇到不顺自己心意的事就哭得很伤心，不完全是撒泼胡闹，该如何帮助引导孩子？",
       "url": "https://www.zhihu.com/question/2010380052173444326",
-      "hot_value": "57 万热度",
+      "hot_value": "59 万热度",
       "index": 23
     },
     {
-      "title": "如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？",
-      "url": "https://www.zhihu.com/question/32244325",
-      "hot_value": "57 万热度",
+      "title": "2026 年 WTT 瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2072134899692311514",
+      "hot_value": "58 万热度",
       "index": 24
     },
     {
       "title": "浮岛敏带领 u17 国足连续拿下亚洲杯亚军和上海冠军杯冠军，为什么还是每天被质疑水平不够被球迷要求下课？",
       "url": "https://www.zhihu.com/question/2069872232961253632",
-      "hot_value": "55 万热度",
+      "hot_value": "57 万热度",
       "index": 25
     },
     {
-      "title": "准高三生看完《奥本海默》后深感自己平庸，该如何接受与顶尖天才的差距？",
-      "url": "https://www.zhihu.com/question/2071135275296858628",
-      "hot_value": "54 万热度",
+      "title": "如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？",
+      "url": "https://www.zhihu.com/question/32244325",
+      "hot_value": "56 万热度",
       "index": 26
     },
     {
-      "title": "如何评价安妮·海瑟薇、伊万·麦克格雷格主演的惊悚电影《逃出绝命街》？",
-      "url": "https://www.zhihu.com/question/2071192151078221742",
-      "hot_value": "54 万热度",
+      "title": "一个先进外星文明拿到地球的一颗完整但孤立的 CPU 会怎样?",
+      "url": "https://www.zhihu.com/question/2070934624273010995",
+      "hot_value": "56 万热度",
       "index": 27
     },
     {
-      "title": "如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？",
-      "url": "https://www.zhihu.com/question/2071536115983410411",
-      "hot_value": "54 万热度",
+      "title": "《西游记》里是谁开的天? 是盘古还是太上老君?",
+      "url": "https://www.zhihu.com/question/667947422",
+      "hot_value": "55 万热度",
       "index": 28
     },
     {
-      "title": "BLG 选手 Wenbo 因雨天路滑摔倒将缺席比赛，这对战队成绩影响有多大？",
-      "url": "https://www.zhihu.com/question/2071744863821992655",
-      "hot_value": "54 万热度",
+      "title": "如何评价中国政法大学 26 级法硕被曝隐瞒消息临时变更研究生宿舍？",
+      "url": "https://www.zhihu.com/question/2071954116969080229",
+      "hot_value": "55 万热度",
       "index": 29
     },
     {
-      "title": "你吃过鲫鱼最好吃的做法有哪些？",
-      "url": "https://www.zhihu.com/question/12561851153",
-      "hot_value": "54 万热度",
+      "title": "纯数学研究者未来会被 AI 取代吗？",
+      "url": "https://www.zhihu.com/question/2014665409727570582",
+      "hot_value": "55 万热度",
       "index": 30
     }
   ]
