@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-08-16T05:23:46Z",
+  "update_time": "2026-08-16T05:51:56Z",
   "count": 30,
   "list": [
     {
       "title": "提高防灾减灾救灾能力",
       "url": "https://www.baidu.com/s?wd=%E6%8F%90%E9%AB%98%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E6%95%91%E7%81%BE%E8%83%BD%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904266",
+      "hot_value": "7904621",
       "index": 1
-    },
-    {
-      "title": "市场占有率超6成！中国车发现新大陆",
-      "url": "https://www.baidu.com/s?wd=%E5%B8%82%E5%9C%BA%E5%8D%A0%E6%9C%89%E7%8E%87%E8%B6%856%E6%88%90%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%8F%91%E7%8E%B0%E6%96%B0%E5%A4%A7%E9%99%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7809188",
-      "index": 2
     },
     {
       "title": "请3天假连休13天",
       "url": "https://www.baidu.com/s?wd=%E8%AF%B73%E5%A4%A9%E5%81%87%E8%BF%9E%E4%BC%9113%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7712890",
+      "hot_value": "7808823",
+      "index": 2
+    },
+    {
+      "title": "国产小微型挖掘机刷屏海外",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E5%B0%8F%E5%BE%AE%E5%9E%8B%E6%8C%96%E6%8E%98%E6%9C%BA%E5%88%B7%E5%B1%8F%E6%B5%B7%E5%A4%96&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7714695",
       "index": 3
     },
     {
       "title": "各地多措并举筑牢防汛安全屏障",
       "url": "https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E5%A4%9A%E6%8E%AA%E5%B9%B6%E4%B8%BE%E7%AD%91%E7%89%A2%E9%98%B2%E6%B1%9B%E5%AE%89%E5%85%A8%E5%B1%8F%E9%9A%9C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7618803",
+      "hot_value": "7616501",
       "index": 4
     },
     {
       "title": "孩子考上985 全家免三年物业费",
       "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%80%83%E4%B8%8A985+%E5%85%A8%E5%AE%B6%E5%85%8D%E4%B8%89%E5%B9%B4%E7%89%A9%E4%B8%9A%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7520452",
+      "hot_value": "7524067",
       "index": 5
     },
     {
-      "title": "“全球粮食危机或将在明年爆发”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E7%90%83%E7%B2%AE%E9%A3%9F%E5%8D%B1%E6%9C%BA%E6%88%96%E5%B0%86%E5%9C%A8%E6%98%8E%E5%B9%B4%E7%88%86%E5%8F%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7427914",
+      "title": "孙楠回应体重只有128斤",
+      "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%A5%A0%E5%9B%9E%E5%BA%94%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%89128%E6%96%A4&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7427836",
       "index": 6
     },
     {
       "title": "小米澎程：电池热失控后不起火、爆炸",
       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%EF%BC%9A%E7%94%B5%E6%B1%A0%E7%83%AD%E5%A4%B1%E6%8E%A7%E5%90%8E%E4%B8%8D%E8%B5%B7%E7%81%AB%E3%80%81%E7%88%86%E7%82%B8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7332083",
+      "hot_value": "7330892",
       "index": 7
     },
     {
-      "title": "低成本恐怖片拯救暑期档",
-      "url": "https://www.baidu.com/s?wd=%E4%BD%8E%E6%88%90%E6%9C%AC%E6%81%90%E6%80%96%E7%89%87%E6%8B%AF%E6%95%91%E6%9A%91%E6%9C%9F%E6%A1%A3&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7233301",
+      "title": "雷军晒图：15年前的今天小米手机发布",
+      "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%99%92%E5%9B%BE%EF%BC%9A15%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7237314",
       "index": 8
     },
     {
       "title": "中国博主发布进入靖国神社视频",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E8%BF%9B%E5%85%A5%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A7%86%E9%A2%91&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7139344",
+      "hot_value": "7142643",
       "index": 9
     },
     {
       "title": "龙餐馆、奥德赛爆了！特效厅一票难求",
       "url": "https://www.baidu.com/s?wd=%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%81%E5%A5%A5%E5%BE%B7%E8%B5%9B%E7%88%86%E4%BA%86%EF%BC%81%E7%89%B9%E6%95%88%E5%8E%85%E4%B8%80%E7%A5%A8%E9%9A%BE%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7048055",
+      "hot_value": "7048182",
       "index": 10
     },
     {
       "title": "大雨挡不住沈阳人看海燕的热情",
       "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%A8%E6%8C%A1%E4%B8%8D%E4%BD%8F%E6%B2%88%E9%98%B3%E4%BA%BA%E7%9C%8B%E6%B5%B7%E7%87%95%E7%9A%84%E7%83%AD%E6%83%85&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6953416",
+      "hot_value": "6952833",
       "index": 11
     },
     {
       "title": "一条谣言“诞生”的全流程",
       "url": "https://www.baidu.com/s?wd=%E4%B8%80%E6%9D%A1%E8%B0%A3%E8%A8%80%E2%80%9C%E8%AF%9E%E7%94%9F%E2%80%9D%E7%9A%84%E5%85%A8%E6%B5%81%E7%A8%8B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6850164",
+      "hot_value": "6857156",
       "index": 12
     },
     {
       "title": "妻子产后抑郁自缢 娘家两度起诉女婿",
       "url": "https://www.baidu.com/s?wd=%E5%A6%BB%E5%AD%90%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81%E8%87%AA%E7%BC%A2+%E5%A8%98%E5%AE%B6%E4%B8%A4%E5%BA%A6%E8%B5%B7%E8%AF%89%E5%A5%B3%E5%A9%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6751956",
+      "hot_value": "6757339",
       "index": 13
+    },
+    {
+      "title": "“全球粮食危机或将在明年爆发”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E7%90%83%E7%B2%AE%E9%A3%9F%E5%8D%B1%E6%9C%BA%E6%88%96%E5%B0%86%E5%9C%A8%E6%98%8E%E5%B9%B4%E7%88%86%E5%8F%91%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6656319",
+      "index": 14
     },
     {
       "title": "村民举报：自费查出致癌物超标",
       "url": "https://www.baidu.com/s?wd=%E6%9D%91%E6%B0%91%E4%B8%BE%E6%8A%A5%EF%BC%9A%E8%87%AA%E8%B4%B9%E6%9F%A5%E5%87%BA%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6657048",
-      "index": 14
-    },
-    {
-      "title": "“辣条一哥”不好当",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BE%A3%E6%9D%A1%E4%B8%80%E5%93%A5%E2%80%9D%E4%B8%8D%E5%A5%BD%E5%BD%93&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6562562",
+      "hot_value": "6568947",
       "index": 15
-    },
-    {
-      "title": "山西挖眼案男孩高考全国同专业第一",
-      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E6%8C%96%E7%9C%BC%E6%A1%88%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83%E5%85%A8%E5%9B%BD%E5%90%8C%E4%B8%93%E4%B8%9A%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6466305",
-      "index": 16
     },
     {
       "title": "王传君：喝多了被王鹤棣怂恿才上节目",
       "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%EF%BC%9A%E5%96%9D%E5%A4%9A%E4%BA%86%E8%A2%AB%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%80%82%E6%81%BF%E6%89%8D%E4%B8%8A%E8%8A%82%E7%9B%AE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6370114",
+      "hot_value": "6471375",
+      "index": 16
+    },
+    {
+      "title": "山西挖眼案男孩高考全国同专业第一",
+      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E6%8C%96%E7%9C%BC%E6%A1%88%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83%E5%85%A8%E5%9B%BD%E5%90%8C%E4%B8%93%E4%B8%9A%E7%AC%AC%E4%B8%80&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6380011",
       "index": 17
     },
     {
       "title": "男子造谣青岛大学校徽像旭日旗被拘",
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E9%80%A0%E8%B0%A3%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%BE%BD%E5%83%8F%E6%97%AD%E6%97%A5%E6%97%97%E8%A2%AB%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6279874",
+      "hot_value": "6272293",
       "index": 18
     },
     {
-      "title": "没有老外能空手走出义乌",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%A1%E6%9C%89%E8%80%81%E5%A4%96%E8%83%BD%E7%A9%BA%E6%89%8B%E8%B5%B0%E5%87%BA%E4%B9%89%E4%B9%8C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6175940",
+      "title": "“辣条一哥”不好当",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BE%A3%E6%9D%A1%E4%B8%80%E5%93%A5%E2%80%9D%E4%B8%8D%E5%A5%BD%E5%BD%93&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6182799",
       "index": 19
-    },
-    {
-      "title": "于东来打卡小饭店消费380硬要付600",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%89%93%E5%8D%A1%E5%B0%8F%E9%A5%AD%E5%BA%97%E6%B6%88%E8%B4%B9380%E7%A1%AC%E8%A6%81%E4%BB%98600&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6081649",
-      "index": 20
-    },
-    {
-      "title": "“做梦都在想氢弹”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%9A%E6%A2%A6%E9%83%BD%E5%9C%A8%E6%83%B3%E6%B0%A2%E5%BC%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5992532",
-      "index": 21
-    },
-    {
-      "title": "00后女儿和80后妈妈前后脚生娃",
-      "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E5%84%BF%E5%92%8C80%E5%90%8E%E5%A6%88%E5%A6%88%E5%89%8D%E5%90%8E%E8%84%9A%E7%94%9F%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5904584",
-      "index": 22
-    },
-    {
-      "title": "张彬彬公费追星 和偶像孙楠当室友",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%85%AC%E8%B4%B9%E8%BF%BD%E6%98%9F+%E5%92%8C%E5%81%B6%E5%83%8F%E5%AD%99%E6%A5%A0%E5%BD%93%E5%AE%A4%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5794428",
-      "index": 23
-    },
-    {
-      "title": "未来5年就业优先怎么干",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E5%B0%B1%E4%B8%9A%E4%BC%98%E5%85%88%E6%80%8E%E4%B9%88%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5704905",
-      "index": 24
-    },
-    {
-      "title": "沈腾这次让人哭惨了",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E8%BF%99%E6%AC%A1%E8%AE%A9%E4%BA%BA%E5%93%AD%E6%83%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5598200",
-      "index": 25
-    },
-    {
-      "title": "旺旺晒出无糖低糖新品",
-      "url": "https://www.baidu.com/s?wd=%E6%97%BA%E6%97%BA%E6%99%92%E5%87%BA%E6%97%A0%E7%B3%96%E4%BD%8E%E7%B3%96%E6%96%B0%E5%93%81&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5502914",
-      "index": 26
-    },
-    {
-      "title": "任素汐成都演唱会泪洒舞台",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%BB%E7%B4%A0%E6%B1%90%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B3%AA%E6%B4%92%E8%88%9E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5409804",
-      "index": 27
-    },
-    {
-      "title": "“中国队斩获第一名”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%96%A9%E8%8E%B7%E7%AC%AC%E4%B8%80%E5%90%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5322740",
-      "index": 28
     },
     {
       "title": "老人闯高速身亡子女索赔13万",
       "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E9%97%AF%E9%AB%98%E9%80%9F%E8%BA%AB%E4%BA%A1%E5%AD%90%E5%A5%B3%E7%B4%A2%E8%B5%9413%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5221812",
+      "hot_value": "6097050",
+      "index": 20
+    },
+    {
+      "title": "于东来打卡小饭店消费380硬要付600",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%89%93%E5%8D%A1%E5%B0%8F%E9%A5%AD%E5%BA%97%E6%B6%88%E8%B4%B9380%E7%A1%AC%E8%A6%81%E4%BB%98600&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5999270",
+      "index": 21
+    },
+    {
+      "title": "一个伤害脑血管的动作 你可能正在做",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E4%BC%A4%E5%AE%B3%E8%84%91%E8%A1%80%E7%AE%A1%E7%9A%84%E5%8A%A8%E4%BD%9C+%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%AD%A3%E5%9C%A8%E5%81%9A&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5895464",
+      "index": 22
+    },
+    {
+      "title": "“做梦都在想氢弹”",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%9A%E6%A2%A6%E9%83%BD%E5%9C%A8%E6%83%B3%E6%B0%A2%E5%BC%B9%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5790417",
+      "index": 23
+    },
+    {
+      "title": "市场占有率超6成！中国车发现新大陆",
+      "url": "https://www.baidu.com/s?wd=%E5%B8%82%E5%9C%BA%E5%8D%A0%E6%9C%89%E7%8E%87%E8%B6%856%E6%88%90%EF%BC%81%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%8F%91%E7%8E%B0%E6%96%B0%E5%A4%A7%E9%99%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5705807",
+      "index": 24
+    },
+    {
+      "title": "00后女儿和80后妈妈前后脚生娃",
+      "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%A5%B3%E5%84%BF%E5%92%8C80%E5%90%8E%E5%A6%88%E5%A6%88%E5%89%8D%E5%90%8E%E8%84%9A%E7%94%9F%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5615443",
+      "index": 25
+    },
+    {
+      "title": "手机涨价何时是个头",
+      "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5523517",
+      "index": 26
+    },
+    {
+      "title": "张彬彬公费追星 和偶像孙楠当室友",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%85%AC%E8%B4%B9%E8%BF%BD%E6%98%9F+%E5%92%8C%E5%81%B6%E5%83%8F%E5%AD%99%E6%A5%A0%E5%BD%93%E5%AE%A4%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5419258",
+      "index": 27
+    },
+    {
+      "title": "机型“大换小”却不能全额退款",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%9E%8B%E2%80%9C%E5%A4%A7%E6%8D%A2%E5%B0%8F%E2%80%9D%E5%8D%B4%E4%B8%8D%E8%83%BD%E5%85%A8%E9%A2%9D%E9%80%80%E6%AC%BE&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5325714",
+      "index": 28
+    },
+    {
+      "title": "任素汐成都演唱会泪洒舞台",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%BB%E7%B4%A0%E6%B1%90%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B3%AA%E6%B4%92%E8%88%9E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5240910",
       "index": 29
     },
     {
-      "title": "中行回应“Token贷”",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%A1%8C%E5%9B%9E%E5%BA%94%E2%80%9CToken%E8%B4%B7%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5133477",
+      "title": "未来5年就业优先怎么干",
+      "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E5%B0%B1%E4%B8%9A%E4%BC%98%E5%85%88%E6%80%8E%E4%B9%88%E5%B9%B2&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5143238",
       "index": 30
     }
   ]

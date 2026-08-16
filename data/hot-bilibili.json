@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-16T05:23:46Z",
+  "update_time": "2026-08-16T05:51:56Z",
   "count": 30,
   "list": [
     {
+      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
+      "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
+      "hot_value": "9685477播放",
+      "index": 1
+    },
+    {
       "title": "飞机安检模拟器",
       "url": "https://www.bilibili.com/video/BV1fTb16KEDk",
-      "hot_value": "3983814播放",
-      "index": 1
+      "hot_value": "4091419播放",
+      "index": 2
     },
     {
       "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
       "url": "https://www.bilibili.com/video/BV1Z9gT61EnM",
-      "hot_value": "2022669播放",
-      "index": 2
-    },
-    {
-      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
-      "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
-      "hot_value": "9505291播放",
+      "hot_value": "2142941播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第96集 延康双雄",
       "url": "https://www.bilibili.com/video/BV1Mjgg6BEjx",
-      "hot_value": "594975播放",
+      "hot_value": "748997播放",
       "index": 4
     },
     {
-      "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
-      "url": "https://www.bilibili.com/video/BV15xgn6GEjH",
-      "hot_value": "7404462播放",
+      "title": "我们的秘密……（1）",
+      "url": "https://www.bilibili.com/video/BV1n1gN6VE7j",
+      "hot_value": "163188播放",
       "index": 5
-    },
-    {
-      "title": "《明日方舟》EP - Summer Calling",
-      "url": "https://www.bilibili.com/video/BV1N7gM6FEUA",
-      "hot_value": "167747播放",
-      "index": 6
     },
     {
       "title": "轮  回  跑  酷",
       "url": "https://www.bilibili.com/video/BV1EWbk6ZE6d",
-      "hot_value": "538028播放",
+      "hot_value": "614579播放",
+      "index": 6
+    },
+    {
+      "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
+      "url": "https://www.bilibili.com/video/BV15xgn6GEjH",
+      "hot_value": "7517017播放",
       "index": 7
     },
     {
-      "title": "穿越战锤20年，你却靠实力登上贵族宝座，你的后半生会如何度过？",
-      "url": "https://www.bilibili.com/video/BV14yg36ME81",
-      "hot_value": "1285182播放",
+      "title": "三星堆：是谁杀死了他们的神？",
+      "url": "https://www.bilibili.com/video/BV1o7bm6TEMY",
+      "hot_value": "621516播放",
       "index": 8
     },
     {
       "title": "制作糖果的流程—解压",
       "url": "https://www.bilibili.com/video/BV1MzGc6UEzT",
-      "hot_value": "3198113播放",
+      "hot_value": "3265713播放",
       "index": 9
     },
     {
       "title": "财神窦占龙 第1集 家宴【8月国创】",
       "url": "https://www.bilibili.com/video/BV1azgP6bEaA",
-      "hot_value": "361869播放",
+      "hot_value": "430996播放",
       "index": 10
     },
     {
-      "title": "难倒100万人的铁球难题，我终于！解！开！了！",
-      "url": "https://www.bilibili.com/video/BV1RYbk6QE9o",
-      "hot_value": "2245534播放",
+      "title": "我实现了我儿时的梦想",
+      "url": "https://www.bilibili.com/video/BV1iTgA6hENv",
+      "hot_value": "2847572播放",
       "index": 11
-    },
-    {
-      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
-      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
-      "hot_value": "8232013播放",
-      "index": 12
-    },
-    {
-      "title": "三星堆：是谁杀死了他们的神？",
-      "url": "https://www.bilibili.com/video/BV1o7bm6TEMY",
-      "hot_value": "550540播放",
-      "index": 13
     },
     {
       "title": "“盘点那些无缝衔接的顶级串烧”",
       "url": "https://www.bilibili.com/video/BV1abgn6gExX",
-      "hot_value": "1413374播放",
+      "hot_value": "1449923播放",
+      "index": 12
+    },
+    {
+      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
+      "hot_value": "8298882播放",
+      "index": 13
+    },
+    {
+      "title": "穿越战锤20年，你却靠实力登上贵族宝座，你的后半生会如何度过？",
+      "url": "https://www.bilibili.com/video/BV14yg36ME81",
+      "hot_value": "1332348播放",
       "index": 14
     },
     {
-      "title": "【驼】只有中国人能拍出的反战片，都是反战，西方在ptsd，中国在让你好好吃饭。 [欢迎来龙餐馆]",
-      "url": "https://www.bilibili.com/video/BV1Bng369Emb",
-      "hot_value": "856311播放",
+      "title": "法国最有松弛感的劫案是哪起？【硬核狠人91】",
+      "url": "https://www.bilibili.com/video/BV1y5gP61E6m",
+      "hot_value": "1797826播放",
       "index": 15
     },
     {
       "title": "看完心跳停止 ，可以纳入影史的一坨史--《牛来》观影吐槽【周余】",
       "url": "https://www.bilibili.com/video/BV12Xby62E32",
-      "hot_value": "644616播放",
+      "hot_value": "698730播放",
       "index": 16
-    },
-    {
-      "title": "口技表演《定海神珍铁》",
-      "url": "https://www.bilibili.com/video/BV1N8gG6qEpm",
-      "hot_value": "413817播放",
-      "index": 17
-    },
-    {
-      "title": "法国最有松弛感的劫案是哪起？【硬核狠人91】",
-      "url": "https://www.bilibili.com/video/BV1y5gP61E6m",
-      "hot_value": "1763344播放",
-      "index": 18
     },
     {
       "title": "由上影元授权，第五人格×上海美术电影制片厂《九色鹿》联动PV正式公开！",
       "url": "https://www.bilibili.com/video/BV1MPgP6pEsC",
-      "hot_value": "636704播放",
+      "hot_value": "745770播放",
+      "index": 17
+    },
+    {
+      "title": "【驼】只有中国人能拍出的反战片，都是反战，西方在ptsd，中国在让你好好吃饭。 [欢迎来龙餐馆]",
+      "url": "https://www.bilibili.com/video/BV1Bng369Emb",
+      "hot_value": "898484播放",
+      "index": 18
+    },
+    {
+      "title": "愿世界和平",
+      "url": "https://www.bilibili.com/video/BV1A8gg6fEw1",
+      "hot_value": "314841播放",
       "index": 19
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第2集 困兽【8月国创】",
       "url": "https://www.bilibili.com/video/BV18yuC6eEyM",
-      "hot_value": "1955368播放",
+      "hot_value": "1971415播放",
       "index": 20
     },
     {
-      "title": "都什么年代，谁还渡传统通天河？！！",
-      "url": "https://www.bilibili.com/video/BV1CDgw6GEQ2",
-      "hot_value": "2392383播放",
+      "title": "热播剧《来自河南的你 》",
+      "url": "https://www.bilibili.com/video/BV1JLgp6oEAs",
+      "hot_value": "421640播放",
       "index": 21
+    },
+    {
+      "title": "《小杨有约28#》:王耀庆",
+      "url": "https://www.bilibili.com/video/BV1MSby6UEnJ",
+      "hot_value": "91486播放",
+      "index": 22
+    },
+    {
+      "title": "口技表演《定海神珍铁》",
+      "url": "https://www.bilibili.com/video/BV1N8gG6qEpm",
+      "hot_value": "464806播放",
+      "index": 23
+    },
+    {
+      "title": "特厨探店丨没外卖没优惠？！全靠味道出名的南昌小馆子是啥样！",
+      "url": "https://www.bilibili.com/video/BV1W9bk6MEqV",
+      "hot_value": "162735播放",
+      "index": 24
     },
     {
       "title": "【TF家族练习生】《突围II破局》EP08：任何方向都是前方(下)",
       "url": "https://www.bilibili.com/video/BV1rnby6BEQE",
-      "hot_value": "1143247播放",
-      "index": 22
-    },
-    {
-      "title": "我实现了我儿时的梦想",
-      "url": "https://www.bilibili.com/video/BV1iTgA6hENv",
-      "hot_value": "2792676播放",
-      "index": 23
-    },
-    {
-      "title": "【轰】怎么办…老公拿走了我最后的救命钱！！",
-      "url": "https://www.bilibili.com/video/BV1L9gA6FExm",
-      "hot_value": "2599865播放",
-      "index": 24
-    },
-    {
-      "title": "这是我经历过的最恐怖的“形影不离”",
-      "url": "https://www.bilibili.com/video/BV1A7gP6CEab",
-      "hot_value": "1172022播放",
+      "hot_value": "1177865播放",
       "index": 25
     },
     {
-      "title": "【TF家族练习生】《突围II破局》EP08：任何方向都是前方（上）",
-      "url": "https://www.bilibili.com/video/BV1Ccb163E7t",
-      "hot_value": "1537361播放",
+      "title": "都什么年代，谁还渡传统通天河？！！",
+      "url": "https://www.bilibili.com/video/BV1CDgw6GEQ2",
+      "hot_value": "2423523播放",
       "index": 26
     },
     {
-      "title": "当佐娅意外请到哈基蜂一起猛攻航天...",
-      "url": "https://www.bilibili.com/video/BV1Psui6NELL",
-      "hot_value": "4017648播放",
+      "title": "筋斗云+辅助移动，我现在什么都不缺了",
+      "url": "https://www.bilibili.com/video/BV1ZRb16PErK",
+      "hot_value": "413455播放",
       "index": 27
     },
     {
-      "title": "《牛来》看完了！暑期档最强！哈哈！",
-      "url": "https://www.bilibili.com/video/BV1Gkby6WEoo",
-      "hot_value": "943331播放",
+      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV18Tby67EG9",
+      "hot_value": "291150播放",
       "index": 28
     },
     {
-      "title": "能不跳这些雷霆舞蹈嘛...",
-      "url": "https://www.bilibili.com/video/BV1big36CEp5",
-      "hot_value": "847750播放",
+      "title": "【不是只有伟大的艺术家，才能创作出好作品的】",
+      "url": "https://www.bilibili.com/video/BV1PfgK6WEWv",
+      "hot_value": "929050播放",
       "index": 29
     },
     {
-      "title": "老王出息了，今天带家人们一起探班龙餐馆的幕后~",
-      "url": "https://www.bilibili.com/video/BV1e5gN6eE1D",
-      "hot_value": "2890266播放",
+      "title": "《明日方舟》EP - Summer Calling",
+      "url": "https://www.bilibili.com/video/BV1N7gM6FEUA",
+      "hot_value": "185117播放",
       "index": 30
     }
   ]
