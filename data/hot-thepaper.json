@@ -1,7 +1,7 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-08-16T07:26:43Z",
+  "update_time": "2026-08-16T07:53:53Z",
   "count": 20,
   "list": [
     {
@@ -65,26 +65,26 @@
       "index": 10
     },
     {
+      "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33791922",
+      "hot_value": "",
+      "index": 11
+    },
+    {
       "title": "法国宪法法院否决15岁以下儿童社交媒体禁令",
       "url": "https://www.thepaper.cn/newsDetail_forward_33789573",
       "hot_value": "",
-      "index": 11
+      "index": 12
     },
     {
       "title": "马上评｜医院“揽客”岂能突破底线",
       "url": "https://www.thepaper.cn/newsDetail_forward_33791886",
       "hot_value": "",
-      "index": 12
+      "index": 13
     },
     {
       "title": "江苏如皋通报“智残人员被拉去做眼部手术”",
       "url": "https://www.thepaper.cn/newsDetail_forward_33790448",
-      "hot_value": "",
-      "index": 13
-    },
-    {
-      "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33791922",
       "hot_value": "",
       "index": 14
     },
@@ -113,14 +113,14 @@
       "index": 18
     },
     {
-      "title": "《纪念江泽民同志诞辰100周年》纪念邮票将于8月17日发行",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33789772",
+      "title": "时隔14年重返上海书展，莫言：年轻面孔是写书人的最大安慰",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33788715",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33790363",
+      "title": "《纪念江泽民同志诞辰100周年》纪念邮票将于8月17日发行",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33789772",
       "hot_value": "",
       "index": 20
     }
