@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-17T19:50:07Z",
+  "update_time": "2026-08-17T20:20:26Z",
   "count": 30,
   "list": [
     {
-      "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1wrba6iE56",
-      "hot_value": "863992播放",
+      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV18Tby67EG9",
+      "hot_value": "5378613播放",
       "index": 1
     },
     {
-      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV18Tby67EG9",
-      "hot_value": "5369495播放",
+      "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1wrba6iE56",
+      "hot_value": "901001播放",
       "index": 2
     },
     {
-      "title": "暴躁老爸一命速通",
-      "url": "https://www.bilibili.com/video/BV17aby6cEzR",
-      "hot_value": "1379297播放",
+      "title": "忍术回战   26分钟沉浸式观看",
+      "url": "https://www.bilibili.com/video/BV1GNbv6ZE1N",
+      "hot_value": "304047播放",
       "index": 3
     },
     {
       "title": "【独家】《记忆管理局》第5集 主角光环【8月国创】",
       "url": "https://www.bilibili.com/video/BV1N2gp6iEn8",
-      "hot_value": "892259播放",
+      "hot_value": "894268播放",
       "index": 4
     },
     {
       "title": "周处除三害现实版，我们干掉他了！",
       "url": "https://www.bilibili.com/video/BV1VfbR6pEw9",
-      "hot_value": "1417103播放",
+      "hot_value": "1424295播放",
       "index": 5
+    },
+    {
+      "title": "什么⁉Bye bye baby blue翻译竟然是错的✖！",
+      "url": "https://www.bilibili.com/video/BV1tMby62EC4",
+      "hot_value": "1953187播放",
+      "index": 6
     },
     {
       "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
       "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
-      "hot_value": "11606450播放",
-      "index": 6
-    },
-    {
-      "title": "“盘点那些无缝衔接的顶级串烧”",
-      "url": "https://www.bilibili.com/video/BV1abgn6gExX",
-      "hot_value": "2143028播放",
+      "hot_value": "11622466播放",
       "index": 7
     },
     {
       "title": "这个旅游包活吗？？？【听天由命1】",
       "url": "https://www.bilibili.com/video/BV1SBbS6hEHa",
-      "hot_value": "1174797播放",
+      "hot_value": "1189413播放",
       "index": 8
     },
     {
-      "title": "什么⁉Bye bye baby blue翻译竟然是错的✖！",
-      "url": "https://www.bilibili.com/video/BV1tMby62EC4",
-      "hot_value": "1946400播放",
+      "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
+      "hot_value": "992323播放",
       "index": 9
     },
     {
-      "title": "忍术回战   26分钟沉浸式观看",
-      "url": "https://www.bilibili.com/video/BV1GNbv6ZE1N",
-      "hot_value": "275202播放",
+      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
+      "url": "https://www.bilibili.com/video/BV1Z9gT61EnM",
+      "hot_value": "4438565播放",
       "index": 10
     },
     {
       "title": "龙 餐 馆 连 线 勇 哥",
       "url": "https://www.bilibili.com/video/BV1o8b96pEQA",
-      "hot_value": "2622108播放",
+      "hot_value": "2630682播放",
       "index": 11
-    },
-    {
-      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
-      "url": "https://www.bilibili.com/video/BV1Z9gT61EnM",
-      "hot_value": "4431969播放",
-      "index": 12
-    },
-    {
-      "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
-      "url": "https://www.bilibili.com/video/BV1Kdb26pErB",
-      "hot_value": "1454104播放",
-      "index": 13
-    },
-    {
-      "title": "我们不欢迎这样的客人，也不赚这种米",
-      "url": "https://www.bilibili.com/video/BV1Neba63EDK",
-      "hot_value": "348629播放",
-      "index": 14
     },
     {
       "title": "口技表演《定海神珍铁》",
       "url": "https://www.bilibili.com/video/BV1N8gG6qEpm",
-      "hot_value": "2622059播放",
-      "index": 15
+      "hot_value": "2628721播放",
+      "index": 12
     },
     {
-      "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
-      "hot_value": "989650播放",
-      "index": 16
+      "title": "我们不欢迎这样的客人，也不赚这种米",
+      "url": "https://www.bilibili.com/video/BV1Neba63EDK",
+      "hot_value": "377671播放",
+      "index": 13
+    },
+    {
+      "title": "“盘点那些无缝衔接的顶级串烧”",
+      "url": "https://www.bilibili.com/video/BV1abgn6gExX",
+      "hot_value": "2149375播放",
+      "index": 14
+    },
+    {
+      "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
+      "url": "https://www.bilibili.com/video/BV1Kdb26pErB",
+      "hot_value": "1470173播放",
+      "index": 15
     },
     {
       "title": "ASMR 当憋了半个月没洗头的你去做头疗（绝望的“单王”）",
       "url": "https://www.bilibili.com/video/BV1bXb26sEGu",
-      "hot_value": "2783630播放",
+      "hot_value": "2794172播放",
+      "index": 16
+    },
+    {
+      "title": "《干噎砒霜》",
+      "url": "https://www.bilibili.com/video/BV1LrbU66E1G",
+      "hot_value": "3559149播放",
       "index": 17
     },
     {
-      "title": "极品金灵根各峰主都想收我为徒#meme剧场",
-      "url": "https://www.bilibili.com/video/BV1x6gu6AEyb",
-      "hot_value": "5474787播放",
+      "title": "《鸣潮》共鸣者战斗演示 | 清宵",
+      "url": "https://www.bilibili.com/video/BV1q2b86sEZz",
+      "hot_value": "1988313播放",
       "index": 18
     },
     {
       "title": "严浩翔生日会全程回顾：严浩翔YAN常热爱【2026时代少年团系列直播】",
       "url": "https://www.bilibili.com/video/BV1e3gA6ZE7u",
-      "hot_value": "1528500播放",
+      "hot_value": "1529799播放",
       "index": 19
     },
     {
-      "title": "微酸的青苹果",
-      "url": "https://www.bilibili.com/video/BV1Dxbe6sEgk",
-      "hot_value": "236418播放",
+      "title": "特效小哥大战逗比的雀巢！",
+      "url": "https://www.bilibili.com/video/BV1mkbQ6iEWJ",
+      "hot_value": "1076726播放",
       "index": 20
     },
     {
-      "title": "《干噎砒霜》",
-      "url": "https://www.bilibili.com/video/BV1LrbU66E1G",
-      "hot_value": "3547993播放",
+      "title": "【我在现代当幽差】EP01 大哥，你阳寿未尽啊【UP动画】",
+      "url": "https://www.bilibili.com/video/BV17Hgp6XEaR",
+      "hot_value": "2922734播放",
       "index": 21
     },
     {
       "title": "“菲比，你相信光⚡吗！”《大鸣后宫传》",
       "url": "https://www.bilibili.com/video/BV1vVbX6LEcQ",
-      "hot_value": "974040播放",
+      "hot_value": "980819播放",
       "index": 22
     },
     {
-      "title": "特效小哥大战逗比的雀巢！",
-      "url": "https://www.bilibili.com/video/BV1mkbQ6iEWJ",
-      "hot_value": "1070536播放",
+      "title": "飞机安检模拟器",
+      "url": "https://www.bilibili.com/video/BV1fTb16KEDk",
+      "hot_value": "6344253播放",
       "index": 23
     },
     {
-      "title": "危！秘境最终奖励竟然亮起了血条？！【小明修仙传EP9】【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1uAbh6CEwg",
-      "hot_value": "671560播放",
+      "title": "我把全网热梗做成了捏捏乐【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV173b16eEPD",
+      "hot_value": "1564001播放",
       "index": 24
     },
     {
-      "title": "【我在现代当幽差】EP01 大哥，你阳寿未尽啊【UP动画】",
-      "url": "https://www.bilibili.com/video/BV17Hgp6XEaR",
-      "hot_value": "2916359播放",
+      "title": "关于我的手工猫咪",
+      "url": "https://www.bilibili.com/video/BV1Axgg6aExW",
+      "hot_value": "635280播放",
       "index": 25
-    },
-    {
-      "title": "快去请如来佛祖！",
-      "url": "https://www.bilibili.com/video/BV1azbY6dEYT",
-      "hot_value": "1062481播放",
-      "index": 26
-    },
-    {
-      "title": "为什么说人类的进步永远不会结束？",
-      "url": "https://www.bilibili.com/video/BV1Kjbv6nE4q",
-      "hot_value": "566411播放",
-      "index": 27
-    },
-    {
-      "title": "三角洲s11前瞻爆料",
-      "url": "https://www.bilibili.com/video/BV11Xb96qE97",
-      "hot_value": "2441184播放",
-      "index": 28
     },
     {
       "title": "【ASMR】牛来 轻语助眠",
       "url": "https://www.bilibili.com/video/BV1H4b26GEgV",
-      "hot_value": "1335113播放",
+      "hot_value": "1347223播放",
+      "index": 26
+    },
+    {
+      "title": "三角洲s11前瞻爆料",
+      "url": "https://www.bilibili.com/video/BV11Xb96qE97",
+      "hot_value": "2449948播放",
+      "index": 27
+    },
+    {
+      "title": "我实现了我儿时的梦想",
+      "url": "https://www.bilibili.com/video/BV1iTgA6hENv",
+      "hot_value": "4496681播放",
+      "index": 28
+    },
+    {
+      "title": "极品金灵根各峰主都想收我为徒#meme剧场",
+      "url": "https://www.bilibili.com/video/BV1x6gu6AEyb",
+      "hot_value": "5501473播放",
       "index": 29
     },
     {
-      "title": "《鸣潮》共鸣者战斗演示 | 清宵",
-      "url": "https://www.bilibili.com/video/BV1q2b86sEZz",
-      "hot_value": "1984864播放",
+      "title": "快去请如来佛祖！",
+      "url": "https://www.bilibili.com/video/BV1azbY6dEYT",
+      "hot_value": "1068860播放",
       "index": 30
     }
   ]
