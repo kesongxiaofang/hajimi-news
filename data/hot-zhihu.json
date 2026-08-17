@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-17T16:53:43Z",
+  "update_time": "2026-08-17T17:22:05Z",
   "count": 30,
   "list": [
     {
       "title": "为什么现在小区车位，越来越卖不动了？",
       "url": "https://www.zhihu.com/question/2050150582917259779",
-      "hot_value": "289 万热度",
+      "hot_value": "332 万热度",
       "index": 1
-    },
-    {
-      "title": "胖东来被涨租逼走，为啥它不直接涨入驻商户的租金来平摊？这一权衡背后有啥考量吗？",
-      "url": "https://www.zhihu.com/question/2072622434356651944",
-      "hot_value": "249 万热度",
-      "index": 2
-    },
-    {
-      "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
-      "url": "https://www.zhihu.com/question/2071644037833135057",
-      "hot_value": "217 万热度",
-      "index": 3
     },
     {
       "title": "如何评价刚刚开源的 Qwen3.8-27B？",
       "url": "https://www.zhihu.com/question/2071739761476293183",
-      "hot_value": "214 万热度",
-      "index": 4
+      "hot_value": "235 万热度",
+      "index": 2
     },
     {
       "title": "新规明确厨余垃圾不能直接喂猪，背后出于什么考量？会带来哪些影响？",
       "url": "https://www.zhihu.com/question/2072615174142255425",
-      "hot_value": "211 万热度",
+      "hot_value": "223 万热度",
+      "index": 3
+    },
+    {
+      "title": "胖东来被涨租逼走，为啥它不直接涨入驻商户的租金来平摊？这一权衡背后有啥考量吗？",
+      "url": "https://www.zhihu.com/question/2072622434356651944",
+      "hot_value": "220 万热度",
+      "index": 4
+    },
+    {
+      "title": "9 岁女童确诊性早熟，骨龄超实际年龄近 3 岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟？",
+      "url": "https://www.zhihu.com/question/2067878677702866490",
+      "hot_value": "162 万热度",
       "index": 5
     },
     {
-      "title": "多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解？",
-      "url": "https://www.zhihu.com/question/2071533345910022775",
-      "hot_value": "193 万热度",
+      "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
+      "url": "https://www.zhihu.com/question/2071644037833135057",
+      "hot_value": "161 万热度",
       "index": 6
     },
     {
       "title": "《欢迎来龙餐馆》中，为什么所有对主角徐福好的人都死了？",
       "url": "https://www.zhihu.com/question/2071900200952665710",
-      "hot_value": "192 万热度",
+      "hot_value": "158 万热度",
       "index": 7
     },
     {
       "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
       "url": "https://www.zhihu.com/question/2072607943191696624",
-      "hot_value": "169 万热度",
+      "hot_value": "154 万热度",
       "index": 8
     },
     {
-      "title": "一个每天要喝 8 杯血的吸血鬼，需要多大的贵族头衔与封地才能养活自己？",
-      "url": "https://www.zhihu.com/question/2072526379137213344",
-      "hot_value": "160 万热度",
+      "title": "有研究表示伟哥成分「西地那非」或能抑制癌细胞转移扩散，距离真正用于临床癌症治疗还差什么？",
+      "url": "https://www.zhihu.com/question/2070200885368419979",
+      "hot_value": "135 万热度",
       "index": 9
     },
     {
-      "title": "9 岁女童确诊性早熟，骨龄超实际年龄近 3 岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟？",
-      "url": "https://www.zhihu.com/question/2067878677702866490",
-      "hot_value": "159 万热度",
+      "title": "「世界容得下 C919 与波音、空客一起飞」，如何看待国产大飞机与国际巨头的市场竞争？",
+      "url": "https://www.zhihu.com/question/2071263332770771830",
+      "hot_value": "133 万热度",
       "index": 10
     },
     {
       "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
       "url": "https://www.zhihu.com/question/2072617673721226019",
-      "hot_value": "146 万热度",
+      "hot_value": "132 万热度",
       "index": 11
+    },
+    {
+      "title": "一个每天要喝 8 杯血的吸血鬼，需要多大的贵族头衔与封地才能养活自己？",
+      "url": "https://www.zhihu.com/question/2072526379137213344",
+      "hot_value": "130 万热度",
+      "index": 12
     },
     {
       "title": "蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么？",
       "url": "https://www.zhihu.com/question/2070987118307029732",
-      "hot_value": "133 万热度",
-      "index": 12
-    },
-    {
-      "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-      "url": "https://www.zhihu.com/question/2061136311206073648",
-      "hot_value": "129 万热度",
+      "hot_value": "125 万热度",
       "index": 13
     },
     {
-      "title": "「世界容得下 C919 与波音、空客一起飞」，如何看待国产大飞机与国际巨头的市场竞争？",
-      "url": "https://www.zhihu.com/question/2071263332770771830",
-      "hot_value": "128 万热度",
+      "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
+      "url": "https://www.zhihu.com/question/2072103596481683649",
+      "hot_value": "121 万热度",
       "index": 14
     },
     {
-      "title": "有研究表示伟哥成分「西地那非」或能抑制癌细胞转移扩散，距离真正用于临床癌症治疗还差什么？",
-      "url": "https://www.zhihu.com/question/2070200885368419979",
-      "hot_value": "123 万热度",
+      "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
+      "url": "https://www.zhihu.com/question/2071642621957747105",
+      "hot_value": "106 万热度",
       "index": 15
     },
     {
       "title": "如何看待 2026 年 8 月 17 日 A 股市场行情？逾 4300 只股上涨，发生了什么？",
       "url": "https://www.zhihu.com/question/2072617977044849633",
-      "hot_value": "121 万热度",
+      "hot_value": "105 万热度",
       "index": 16
     },
     {
-      "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-      "url": "https://www.zhihu.com/question/2072103596481683649",
-      "hot_value": "118 万热度",
+      "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+      "url": "https://www.zhihu.com/question/2061136311206073648",
+      "hot_value": "105 万热度",
       "index": 17
     },
     {
       "title": "C 罗主动在专访中表示「这大概会是我职业生涯的最后一年」，对此你怎么看？",
       "url": "https://www.zhihu.com/question/2072504377168991805",
-      "hot_value": "103 万热度",
+      "hot_value": "102 万热度",
       "index": 18
     },
     {
-      "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
-      "url": "https://www.zhihu.com/question/2071642621957747105",
-      "hot_value": "99 万热度",
-      "index": 19
-    },
-    {
-      "title": "为什么我国人民接触不到俄罗斯的汽车？",
-      "url": "https://www.zhihu.com/question/26465203",
+      "title": "如何评价异环新角色残虹 6 级好感度剧情出现的问题？",
+      "url": "https://www.zhihu.com/question/2072239462914995657",
       "hot_value": "97 万热度",
-      "index": 20
-    },
-    {
-      "title": "为什么拿破仑非常厉害？厉害在哪里？厉害在炮兵吗？",
-      "url": "https://www.zhihu.com/question/1897758885521125838",
-      "hot_value": "93 万热度",
-      "index": 21
+      "index": 19
     },
     {
       "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
       "url": "https://www.zhihu.com/question/2071509878875615796",
-      "hot_value": "91 万热度",
-      "index": 22
-    },
-    {
-      "title": "辣条业务已不足卫龙总营收三分之一，卫龙的辣条卖不动了吗？蔬菜制品收入大涨，反映了品牌哪些趋势？",
-      "url": "https://www.zhihu.com/question/2072225642448249024",
-      "hot_value": "90 万热度",
-      "index": 23
+      "hot_value": "94 万热度",
+      "index": 20
     },
     {
       "title": "民法后面多了一个「典」意味着什么 ？这部法典为什么对每个人都如此重要 ？",
       "url": "https://www.zhihu.com/question/395884606",
-      "hot_value": "88 万热度",
-      "index": 24
+      "hot_value": "91 万热度",
+      "index": 21
     },
     {
-      "title": "马斯克的最新采访中，说到未来工作会成为可选项。到那时人该如何安置自己？",
-      "url": "https://www.zhihu.com/question/2071906562340295460",
-      "hot_value": "85 万热度",
-      "index": 25
-    },
-    {
-      "title": "吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现？",
-      "url": "https://www.zhihu.com/question/2072440886320019399",
-      "hot_value": "85 万热度",
-      "index": 26
+      "title": "小说《金瓶梅》中，为什么武大郎对张大户忍气吞声，却对西门庆感到愤怒？",
+      "url": "https://www.zhihu.com/question/40904469",
+      "hot_value": "81 万热度",
+      "index": 22
     },
     {
       "title": "为什么《宝可梦》动画中小智夺冠之后故事不能继续了呢？",
       "url": "https://www.zhihu.com/question/1120364201",
       "hot_value": "77 万热度",
-      "index": 27
+      "index": 23
     },
     {
       "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
       "url": "https://www.zhihu.com/question/2063294189954250663",
+      "hot_value": "76 万热度",
+      "index": 24
+    },
+    {
+      "title": "马斯克的最新采访中，说到未来工作会成为可选项。到那时人该如何安置自己？",
+      "url": "https://www.zhihu.com/question/2071906562340295460",
+      "hot_value": "75 万热度",
+      "index": 25
+    },
+    {
+      "title": "多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解？",
+      "url": "https://www.zhihu.com/question/2071533345910022775",
+      "hot_value": "73 万热度",
+      "index": 26
+    },
+    {
+      "title": "懂得筛选朋友的人，是不是本质就是势利冷漠？",
+      "url": "https://www.zhihu.com/question/2069868054176178879",
+      "hot_value": "73 万热度",
+      "index": 27
+    },
+    {
+      "title": "己巳之变，袁崇焕是否应该且必须负第一责任？",
+      "url": "https://www.zhihu.com/question/2043588507990488992",
       "hot_value": "72 万热度",
       "index": 28
     },
     {
-      "title": "小说《金瓶梅》中，为什么武大郎对张大户忍气吞声，却对西门庆感到愤怒？",
-      "url": "https://www.zhihu.com/question/40904469",
+      "title": "金书只身入阵能破三渡有哪些人？",
+      "url": "https://www.zhihu.com/question/8437307484",
       "hot_value": "71 万热度",
       "index": 29
     },
     {
-      "title": "提到童年，你会想起哪种花？",
-      "url": "https://www.zhihu.com/question/2072303458833769858",
+      "title": "辣条业务已不足卫龙总营收三分之一，卫龙的辣条卖不动了吗？蔬菜制品收入大涨，反映了品牌哪些趋势？",
+      "url": "https://www.zhihu.com/question/2072225642448249024",
       "hot_value": "70 万热度",
       "index": 30
     }
