@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-08-17T17:54:04Z",
+  "update_time": "2026-08-17T18:32:34Z",
   "count": 30,
   "list": [
     {
       "title": "习近平向印尼总统普拉博沃致慰问电",
       "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E5%8D%B0%E5%B0%BC%E6%80%BB%E7%BB%9F%E6%99%AE%E6%8B%89%E5%8D%9A%E6%B2%83%E8%87%B4%E6%85%B0%E9%97%AE%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904582",
+      "hot_value": "7904291",
       "index": 1
     },
     {
       "title": "泡面 突然又行了",
       "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E9%9D%A2+%E7%AA%81%E7%84%B6%E5%8F%88%E8%A1%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7808179",
+      "hot_value": "7808686",
       "index": 2
     },
     {
       "title": "公积金用途又变多",
       "url": "https://www.baidu.com/s?wd=%E5%85%AC%E7%A7%AF%E9%87%91%E7%94%A8%E9%80%94%E5%8F%88%E5%8F%98%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7712581",
+      "hot_value": "7712685",
       "index": 3
     },
     {
       "title": "石油天然气发展“十五五”规划印发",
       "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E6%B2%B9%E5%A4%A9%E7%84%B6%E6%B0%94%E5%8F%91%E5%B1%95%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E5%8D%B0%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7617531",
+      "hot_value": "7616304",
       "index": 4
     },
     {
       "title": "中方回应100余名中国公民在巴被拘留",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94100%E4%BD%99%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B7%B4%E8%A2%AB%E6%8B%98%E7%95%99&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7519646",
+      "hot_value": "7522420",
       "index": 5
     },
     {
       "title": "多地商场外墙广告“C位”让给科学家",
       "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%95%86%E5%9C%BA%E5%A4%96%E5%A2%99%E5%B9%BF%E5%91%8A%E2%80%9CC%E4%BD%8D%E2%80%9D%E8%AE%A9%E7%BB%99%E7%A7%91%E5%AD%A6%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7423715",
+      "hot_value": "7423658",
       "index": 6
     },
     {
       "title": "榴莲价格彻底崩了",
       "url": "https://www.baidu.com/s?wd=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7328605",
+      "hot_value": "7330293",
       "index": 7
     },
     {
       "title": "“所长 有人送来个大冰箱”",
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%80%E9%95%BF+%E6%9C%89%E4%BA%BA%E9%80%81%E6%9D%A5%E4%B8%AA%E5%A4%A7%E5%86%B0%E7%AE%B1%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7234723",
+      "hot_value": "7238891",
       "index": 8
     },
     {
       "title": "大家为啥不借钱了",
       "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AE%B6%E4%B8%BA%E5%95%A5%E4%B8%8D%E5%80%9F%E9%92%B1%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7136868",
+      "hot_value": "7135791",
       "index": 9
     },
     {
       "title": "闪过念头就刷到广告 是手机在偷听吗",
       "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%87%E5%BF%B5%E5%A4%B4%E5%B0%B1%E5%88%B7%E5%88%B0%E5%B9%BF%E5%91%8A+%E6%98%AF%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%81%B7%E5%90%AC%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7044528",
+      "hot_value": "7040639",
       "index": 10
     },
     {
       "title": "75岁王石又创业了",
       "url": "https://www.baidu.com/s?wd=75%E5%B2%81%E7%8E%8B%E7%9F%B3%E5%8F%88%E5%88%9B%E4%B8%9A%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6944694",
+      "hot_value": "6948153",
       "index": 11
     },
     {
       "title": "“青岛大学新校徽像旭日旗”系造谣",
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E6%96%B0%E6%A0%A1%E5%BE%BD%E5%83%8F%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%E7%B3%BB%E9%80%A0%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6856794",
+      "hot_value": "6857673",
       "index": 12
     },
     {
       "title": "女患者称被男医生猥亵揉胸已立案",
       "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%82%A3%E8%80%85%E7%A7%B0%E8%A2%AB%E7%94%B7%E5%8C%BB%E7%94%9F%E7%8C%A5%E4%BA%B5%E6%8F%89%E8%83%B8%E5%B7%B2%E7%AB%8B%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6755565",
+      "hot_value": "6758776",
       "index": 13
     },
     {
       "title": "78岁老人养了头38岁的驴",
       "url": "https://www.baidu.com/s?wd=78%E5%B2%81%E8%80%81%E4%BA%BA%E5%85%BB%E4%BA%86%E5%A4%B438%E5%B2%81%E7%9A%84%E9%A9%B4&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6655340",
+      "hot_value": "6657350",
       "index": 14
-    },
-    {
-      "title": "5岁女童在家中不慎吞下50g金条",
-      "url": "https://www.baidu.com/s?wd=5%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%AE%B6%E4%B8%AD%E4%B8%8D%E6%85%8E%E5%90%9E%E4%B8%8B50g%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6572699",
-      "index": 15
-    },
-    {
-      "title": "全球最大全电动飞机完成首飞",
-      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%85%A8%E7%94%B5%E5%8A%A8%E9%A3%9E%E6%9C%BA%E5%AE%8C%E6%88%90%E9%A6%96%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6463683",
-      "index": 16
-    },
-    {
-      "title": "车越来越多 考驾照的人反而少了",
-      "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A+%E8%80%83%E9%A9%BE%E7%85%A7%E7%9A%84%E4%BA%BA%E5%8F%8D%E8%80%8C%E5%B0%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6373816",
-      "index": 17
     },
     {
       "title": "德国男子家中厕所过于豪华被强拆",
       "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E5%8E%95%E6%89%80%E8%BF%87%E4%BA%8E%E8%B1%AA%E5%8D%8E%E8%A2%AB%E5%BC%BA%E6%8B%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6270949",
+      "hot_value": "6568760",
+      "index": 15
+    },
+    {
+      "title": "车越来越多 考驾照的人反而少了",
+      "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A+%E8%80%83%E9%A9%BE%E7%85%A7%E7%9A%84%E4%BA%BA%E5%8F%8D%E8%80%8C%E5%B0%91%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6464345",
+      "index": 16
+    },
+    {
+      "title": "住了30年的家26年前竟被别人买了",
+      "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E4%BA%8630%E5%B9%B4%E7%9A%84%E5%AE%B626%E5%B9%B4%E5%89%8D%E7%AB%9F%E8%A2%AB%E5%88%AB%E4%BA%BA%E4%B9%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6373005",
+      "index": 17
+    },
+    {
+      "title": "全球最大全电动飞机完成首飞",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%85%A8%E7%94%B5%E5%8A%A8%E9%A3%9E%E6%9C%BA%E5%AE%8C%E6%88%90%E9%A6%96%E9%A3%9E&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6286560",
       "index": 18
     },
     {
       "title": "房企高管涉嫌酒局上伤害女性被免职",
       "url": "https://www.baidu.com/s?wd=%E6%88%BF%E4%BC%81%E9%AB%98%E7%AE%A1%E6%B6%89%E5%AB%8C%E9%85%92%E5%B1%80%E4%B8%8A%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6177190",
+      "hot_value": "6181010",
       "index": 19
     },
     {
-      "title": "BBA集体大降价：宝马5系跌至28万",
-      "url": "https://www.baidu.com/s?wd=BBA%E9%9B%86%E4%BD%93%E5%A4%A7%E9%99%8D%E4%BB%B7%EF%BC%9A%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%B7%8C%E8%87%B328%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6094775",
+      "title": "5岁女童在家中不慎吞下50g金条",
+      "url": "https://www.baidu.com/s?wd=5%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%AE%B6%E4%B8%AD%E4%B8%8D%E6%85%8E%E5%90%9E%E4%B8%8B50g%E9%87%91%E6%9D%A1&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6094779",
       "index": 20
-    },
-    {
-      "title": "长沙九旬夫妻相识相守85年",
-      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B9%9D%E6%97%AC%E5%A4%AB%E5%A6%BB%E7%9B%B8%E8%AF%86%E7%9B%B8%E5%AE%8885%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6000601",
-      "index": 21
-    },
-    {
-      "title": "住了30年的家26年前竟被别人买了",
-      "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E4%BA%8630%E5%B9%B4%E7%9A%84%E5%AE%B626%E5%B9%B4%E5%89%8D%E7%AB%9F%E8%A2%AB%E5%88%AB%E4%BA%BA%E4%B9%B0%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5898997",
-      "index": 22
-    },
-    {
-      "title": "市值蒸发2000亿的商汤突然盈利",
-      "url": "https://www.baidu.com/s?wd=%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%912000%E4%BA%BF%E7%9A%84%E5%95%86%E6%B1%A4%E7%AA%81%E7%84%B6%E7%9B%88%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5804924",
-      "index": 23
-    },
-    {
-      "title": "等了1小时外卖 被狗子“签收”",
-      "url": "https://www.baidu.com/s?wd=%E7%AD%89%E4%BA%861%E5%B0%8F%E6%97%B6%E5%A4%96%E5%8D%96+%E8%A2%AB%E7%8B%97%E5%AD%90%E2%80%9C%E7%AD%BE%E6%94%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5698627",
-      "index": 24
     },
     {
       "title": "湘西“长满”外国人",
       "url": "https://www.baidu.com/s?wd=%E6%B9%98%E8%A5%BF%E2%80%9C%E9%95%BF%E6%BB%A1%E2%80%9D%E5%A4%96%E5%9B%BD%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5601882",
+      "hot_value": "5993339",
+      "index": 21
+    },
+    {
+      "title": "长沙九旬夫妻相识相守85年",
+      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E4%B9%9D%E6%97%AC%E5%A4%AB%E5%A6%BB%E7%9B%B8%E8%AF%86%E7%9B%B8%E5%AE%8885%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5895070",
+      "index": 22
+    },
+    {
+      "title": "等了1小时外卖 被狗子“签收”",
+      "url": "https://www.baidu.com/s?wd=%E7%AD%89%E4%BA%861%E5%B0%8F%E6%97%B6%E5%A4%96%E5%8D%96+%E8%A2%AB%E7%8B%97%E5%AD%90%E2%80%9C%E7%AD%BE%E6%94%B6%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5790205",
+      "index": 23
+    },
+    {
+      "title": "BBA集体大降价：宝马5系跌至28万",
+      "url": "https://www.baidu.com/s?wd=BBA%E9%9B%86%E4%BD%93%E5%A4%A7%E9%99%8D%E4%BB%B7%EF%BC%9A%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%B7%8C%E8%87%B328%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5703048",
+      "index": 24
+    },
+    {
+      "title": "男子查出糖尿病后不忌口住进ICU",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9F%A5%E5%87%BA%E7%B3%96%E5%B0%BF%E7%97%85%E5%90%8E%E4%B8%8D%E5%BF%8C%E5%8F%A3%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5622104",
       "index": 25
     },
     {
-      "title": "薛甄珠才是2026年的大女主",
-      "url": "https://www.baidu.com/s?wd=%E8%96%9B%E7%94%84%E7%8F%A0%E6%89%8D%E6%98%AF2026%E5%B9%B4%E7%9A%84%E5%A4%A7%E5%A5%B3%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5518135",
+      "title": "市值蒸发2000亿的商汤突然盈利",
+      "url": "https://www.baidu.com/s?wd=%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%912000%E4%BA%BF%E7%9A%84%E5%95%86%E6%B1%A4%E7%AA%81%E7%84%B6%E7%9B%88%E5%88%A9&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5507835",
       "index": 26
     },
     {
       "title": "《藏锋》央视开播",
       "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%97%8F%E9%94%8B%E3%80%8B%E5%A4%AE%E8%A7%86%E5%BC%80%E6%92%AD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5431404",
+      "hot_value": "5426947",
       "index": 27
     },
     {
-      "title": "男子查出糖尿病后不忌口住进ICU",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%9F%A5%E5%87%BA%E7%B3%96%E5%B0%BF%E7%97%85%E5%90%8E%E4%B8%8D%E5%BF%8C%E5%8F%A3%E4%BD%8F%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5331593",
+      "title": "薛甄珠才是2026年的大女主",
+      "url": "https://www.baidu.com/s?wd=%E8%96%9B%E7%94%84%E7%8F%A0%E6%89%8D%E6%98%AF2026%E5%B9%B4%E7%9A%84%E5%A4%A7%E5%A5%B3%E4%B8%BB&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5324983",
       "index": 28
     },
     {
       "title": "公司组织无人岛旅游被罚11万元",
       "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%84%E7%BB%87%E6%97%A0%E4%BA%BA%E5%B2%9B%E6%97%85%E6%B8%B8%E8%A2%AB%E7%BD%9A11%E4%B8%87%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5239561",
+      "hot_value": "5216842",
       "index": 29
     },
     {
-      "title": "许昌胖东来老店邻居不舍落泪",
-      "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E6%98%8C%E8%83%96%E4%B8%9C%E6%9D%A5%E8%80%81%E5%BA%97%E9%82%BB%E5%B1%85%E4%B8%8D%E8%88%8D%E8%90%BD%E6%B3%AA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5136809",
+      "title": "杨澜对谈功勋教练郎平",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E6%BE%9C%E5%AF%B9%E8%B0%88%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83%E9%83%8E%E5%B9%B3&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5118345",
       "index": 30
     }
   ]
