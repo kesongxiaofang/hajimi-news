@@ -1,121 +1,121 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-17T11:23:11Z",
+  "update_time": "2026-08-17T11:49:10Z",
   "count": 30,
   "list": [
     {
       "title": "东莞 17 亿元全额付款土地被无偿收回，官方公告称已解除出让合同，怎样从法律角度解读？",
       "url": "https://www.zhihu.com/question/2072365745934005252",
-      "hot_value": "1168 万热度",
+      "hot_value": "789 万热度",
       "index": 1
     },
     {
       "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
       "url": "https://www.zhihu.com/question/2071644037833135057",
-      "hot_value": "456 万热度",
+      "hot_value": "466 万热度",
       "index": 2
     },
     {
       "title": "女儿交了一个保洁员家庭的朋友，我该不该「适度引导」？",
       "url": "https://www.zhihu.com/question/2070952313695555812",
-      "hot_value": "451 万热度",
+      "hot_value": "417 万热度",
       "index": 3
     },
     {
       "title": "胖东来被涨租逼走，为啥它不直接涨入驻商户的租金来平摊？这一权衡背后有啥考量吗？",
       "url": "https://www.zhihu.com/question/2072622434356651944",
-      "hot_value": "362 万热度",
+      "hot_value": "369 万热度",
       "index": 4
     },
     {
       "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
       "url": "https://www.zhihu.com/question/2061136311206073648",
-      "hot_value": "271 万热度",
+      "hot_value": "277 万热度",
       "index": 5
     },
     {
       "title": "多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解？",
       "url": "https://www.zhihu.com/question/2071533345910022775",
-      "hot_value": "267 万热度",
+      "hot_value": "275 万热度",
       "index": 6
     },
     {
       "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
       "url": "https://www.zhihu.com/question/2072598571090538898",
-      "hot_value": "264 万热度",
+      "hot_value": "272 万热度",
       "index": 7
     },
     {
       "title": "蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么？",
       "url": "https://www.zhihu.com/question/2070987118307029732",
-      "hot_value": "261 万热度",
+      "hot_value": "271 万热度",
       "index": 8
     },
     {
       "title": "辣条业务已不足卫龙总营收三分之一，卫龙的辣条卖不动了吗？蔬菜制品收入大涨，反映了品牌哪些趋势？",
       "url": "https://www.zhihu.com/question/2072225642448249024",
-      "hot_value": "225 万热度",
+      "hot_value": "229 万热度",
       "index": 9
     },
     {
       "title": "吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现？",
       "url": "https://www.zhihu.com/question/2072440886320019399",
-      "hot_value": "201 万热度",
+      "hot_value": "205 万热度",
       "index": 10
     },
     {
       "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
       "url": "https://www.zhihu.com/question/2072617673721226019",
-      "hot_value": "182 万热度",
+      "hot_value": "185 万热度",
       "index": 11
-    },
-    {
-      "title": "为什么说「围棋已死」而没有「象棋已死」的说法？",
-      "url": "https://www.zhihu.com/question/624290604",
-      "hot_value": "163 万热度",
-      "index": 12
     },
     {
       "title": "新规明确厨余垃圾不能直接喂猪，背后出于什么考量？会带来哪些影响？",
       "url": "https://www.zhihu.com/question/2072615174142255425",
-      "hot_value": "162 万热度",
+      "hot_value": "166 万热度",
+      "index": 12
+    },
+    {
+      "title": "为什么说「围棋已死」而没有「象棋已死」的说法？",
+      "url": "https://www.zhihu.com/question/624290604",
+      "hot_value": "153 万热度",
       "index": 13
     },
     {
       "title": "9 岁女童确诊性早熟，骨龄超实际年龄近 3 岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟？",
       "url": "https://www.zhihu.com/question/2067878677702866490",
-      "hot_value": "139 万热度",
+      "hot_value": "146 万热度",
       "index": 14
     },
     {
       "title": "诺兰在影史上的地位会超越斯皮尔伯格和马丁斯科塞斯吗？",
       "url": "https://www.zhihu.com/question/620380333",
-      "hot_value": "135 万热度",
+      "hot_value": "140 万热度",
       "index": 15
     },
     {
       "title": "为什么我国人民接触不到俄罗斯的汽车？",
       "url": "https://www.zhihu.com/question/26465203",
-      "hot_value": "131 万热度",
+      "hot_value": "134 万热度",
       "index": 16
     },
     {
       "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
       "url": "https://www.zhihu.com/question/2072607943191696624",
-      "hot_value": "122 万热度",
+      "hot_value": "124 万热度",
       "index": 17
     },
     {
       "title": "《欢迎来龙餐馆》中，为什么所有对主角徐福好的人都死了？",
       "url": "https://www.zhihu.com/question/2071900200952665710",
-      "hot_value": "112 万热度",
+      "hot_value": "114 万热度",
       "index": 18
     },
     {
       "title": "为什么现在小区车位，越来越卖不动了？",
       "url": "https://www.zhihu.com/question/2050150582917259779",
-      "hot_value": "107 万热度",
+      "hot_value": "111 万热度",
       "index": 19
     },
     {
@@ -139,48 +139,48 @@
     {
       "title": "耻辱之月的结局是太空野狼被灭绝，被彻底羞辱会产生多大后果？",
       "url": "https://www.zhihu.com/question/2072306722044112916",
-      "hot_value": "80 万热度",
+      "hot_value": "82 万热度",
       "index": 23
-    },
-    {
-      "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-      "url": "https://www.zhihu.com/question/2072595818725336495",
-      "hot_value": "79 万热度",
-      "index": 24
     },
     {
       "title": "明知人生不止考公考研两条路，但还是不可避免的想要尝试，有人和我有同感吗？该怎么调节这种心态？",
       "url": "https://www.zhihu.com/question/2072640853072246059",
       "hot_value": "79 万热度",
-      "index": 25
+      "index": 24
     },
     {
       "title": "中国古代华北平原为什么不能够像欧洲那样大规模采用马耕，这样不就能够解决马匹不足的问题了吗？",
       "url": "https://www.zhihu.com/question/2072273961271009412",
-      "hot_value": "73 万热度",
-      "index": 26
+      "hot_value": "77 万热度",
+      "index": 25
     },
     {
       "title": "为什么我们明知健身读书有好处，却难以坚持？",
       "url": "https://www.zhihu.com/question/1963211444905554779",
-      "hot_value": "66 万热度",
-      "index": 27
-    },
-    {
-      "title": "XG 战队遗憾告别 TI2026 舞台，如何评价他们在本次比赛中的表现？",
-      "url": "https://www.zhihu.com/question/2072054149634699355",
-      "hot_value": "66 万热度",
-      "index": 28
+      "hot_value": "67 万热度",
+      "index": 26
     },
     {
       "title": "如果弗利萨一开始就说自己的战斗力是一亿两千万，起到的压迫感会不会比说五十三万更强？",
       "url": "https://www.zhihu.com/question/622211572",
-      "hot_value": "63 万热度",
+      "hot_value": "64 万热度",
+      "index": 27
+    },
+    {
+      "title": "新手养猫养狗，最该听听过来人哪句劝？",
+      "url": "https://www.zhihu.com/question/2071695068570838436",
+      "hot_value": "59 万热度",
+      "index": 28
+    },
+    {
+      "title": "如果给你一台会自己「算电费」的 AI 空调，你会设计怎样的极限实验，验证它的省电能力？",
+      "url": "https://www.zhihu.com/question/2072625812197709702",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "大家讨论下，古法编程真的要消失了么？",
-      "url": "https://www.zhihu.com/question/2067930819897964535",
+      "title": "神之瞳在这么显眼的地方，旅行者拿走了，当地人就没什么反应吗？",
+      "url": "https://www.zhihu.com/question/2071034313991254159",
       "hot_value": "59 万热度",
       "index": 30
     }
