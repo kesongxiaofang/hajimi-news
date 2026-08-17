@@ -1,25 +1,25 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-17T22:19:26Z",
+  "update_time": "2026-08-17T22:48:52Z",
   "count": 30,
   "list": [
     {
       "title": "如何评价刚刚开源的 Qwen3.8-27B？",
       "url": "https://www.zhihu.com/question/2071739761476293183",
-      "hot_value": "250 万热度",
+      "hot_value": "251 万热度",
       "index": 1
     },
     {
       "title": "有研究表示伟哥成分「西地那非」或能抑制癌细胞转移扩散，距离真正用于临床癌症治疗还差什么？",
       "url": "https://www.zhihu.com/question/2070200885368419979",
-      "hot_value": "166 万热度",
+      "hot_value": "171 万热度",
       "index": 2
     },
     {
       "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
       "url": "https://www.zhihu.com/question/2071509878875615796",
-      "hot_value": "119 万热度",
+      "hot_value": "125 万热度",
       "index": 3
     },
     {
@@ -31,7 +31,7 @@
     {
       "title": "怎样把茄子炒的好吃，油还不多呢？",
       "url": "https://www.zhihu.com/question/1945624743987353511",
-      "hot_value": "72 万热度",
+      "hot_value": "75 万热度",
       "index": 5
     },
     {
@@ -47,15 +47,15 @@
       "index": 7
     },
     {
-      "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-      "url": "https://www.zhihu.com/question/2072103596481683649",
+      "title": "为什么我国人民接触不到俄罗斯的汽车？",
+      "url": "https://www.zhihu.com/question/26465203",
       "hot_value": "64 万热度",
       "index": 8
     },
     {
-      "title": "为什么我国人民接触不到俄罗斯的汽车？",
-      "url": "https://www.zhihu.com/question/26465203",
-      "hot_value": "64 万热度",
+      "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
+      "url": "https://www.zhihu.com/question/2072103596481683649",
+      "hot_value": "63 万热度",
       "index": 9
     },
     {
@@ -79,7 +79,7 @@
     {
       "title": "新规明确厨余垃圾不能直接喂猪，背后出于什么考量？会带来哪些影响？",
       "url": "https://www.zhihu.com/question/2072615174142255425",
-      "hot_value": "63 万热度",
+      "hot_value": "62 万热度",
       "index": 13
     },
     {
@@ -113,38 +113,38 @@
       "index": 18
     },
     {
-      "title": "提到童年，你会想起哪种花？",
-      "url": "https://www.zhihu.com/question/2072303458833769858",
+      "title": "李宗盛为什么口碑变差了?",
+      "url": "https://www.zhihu.com/question/388993745",
       "hot_value": "59 万热度",
       "index": 19
-    },
-    {
-      "title": "为什么古代中国里没有诞生像《伊利亚特》这样的长篇史诗？",
-      "url": "https://www.zhihu.com/question/9383116898",
-      "hot_value": "59 万热度",
-      "index": 20
-    },
-    {
-      "title": "为什么《宝可梦》动画中小智夺冠之后故事不能继续了呢？",
-      "url": "https://www.zhihu.com/question/1120364201",
-      "hot_value": "59 万热度",
-      "index": 21
     },
     {
       "title": "为什么哈利波特不把他每次遇到的坏人都直接用「阿瓦达索命」干掉?",
       "url": "https://www.zhihu.com/question/476686211",
       "hot_value": "59 万热度",
+      "index": 20
+    },
+    {
+      "title": "马斯克的最新采访中，说到未来工作会成为可选项。到那时人该如何安置自己？",
+      "url": "https://www.zhihu.com/question/2071906562340295460",
+      "hot_value": "59 万热度",
+      "index": 21
+    },
+    {
+      "title": "把家庭照片全部存在硬盘上，真的比存某网盘安全吗？会不会硬盘突然暴毙？",
+      "url": "https://www.zhihu.com/question/2067206788550808727",
+      "hot_value": "59 万热度",
       "index": 22
     },
     {
-      "title": "懂得筛选朋友的人，是不是本质就是势利冷漠？",
-      "url": "https://www.zhihu.com/question/2069868054176178879",
+      "title": "如何评价《异环》1.3 版本的剧情？",
+      "url": "https://www.zhihu.com/question/2071188431926047496",
       "hot_value": "59 万热度",
       "index": 23
     },
     {
-      "title": "金书只身入阵能破三渡有哪些人？",
-      "url": "https://www.zhihu.com/question/8437307484",
+      "title": "民法后面多了一个「典」意味着什么 ？这部法典为什么对每个人都如此重要 ？",
+      "url": "https://www.zhihu.com/question/395884606",
       "hot_value": "59 万热度",
       "index": 24
     },
@@ -155,8 +155,8 @@
       "index": 25
     },
     {
-      "title": "遇事非要争输赢、辩对错，赢了道理，真的算赢吗？",
-      "url": "https://www.zhihu.com/question/2058834561371525729",
+      "title": "能说一种你「情有独钟」的面食吗？",
+      "url": "https://www.zhihu.com/question/1905222372186882832",
       "hot_value": "59 万热度",
       "index": 26
     },
@@ -167,8 +167,8 @@
       "index": 27
     },
     {
-      "title": "李宗盛为什么口碑变差了?",
-      "url": "https://www.zhihu.com/question/388993745",
+      "title": "继小米 YU7 完成品类启蒙后，岚图追光 S 、智界 RX 接连入局，FUV 这个市场到底有没有想象空间？",
+      "url": "https://www.zhihu.com/question/2072291192566452332",
       "hot_value": "59 万热度",
       "index": 28
     },
@@ -179,8 +179,8 @@
       "index": 29
     },
     {
-      "title": "马斯克的最新采访中，说到未来工作会成为可选项。到那时人该如何安置自己？",
-      "url": "https://www.zhihu.com/question/2071906562340295460",
+      "title": "原神 7.0 至冬上线了，大家觉得怎么样？",
+      "url": "https://www.zhihu.com/question/2071669370590336805",
       "hot_value": "59 万热度",
       "index": 30
     }
