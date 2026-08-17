@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-08-17T13:35:53Z",
+  "update_time": "2026-08-17T14:22:37Z",
   "count": 30,
   "list": [
     {
       "title": "大批AI博主停更了",
       "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23",
-      "hot_value": "2055938",
+      "hot_value": "1764539",
       "index": 1
     },
     {
-      "title": "学籍顶替案哥哥称弟弟学籍也要撤销",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%B1%8D%E9%A1%B6%E6%9B%BF%E6%A1%88%E5%93%A5%E5%93%A5%E7%A7%B0%E5%BC%9F%E5%BC%9F%E5%AD%A6%E7%B1%8D%E4%B9%9F%E8%A6%81%E6%92%A4%E9%94%80%23",
-      "hot_value": "1659768",
+      "title": "榴莲价格彻底崩了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86%23",
+      "hot_value": "1093923",
       "index": 2
     },
     {
       "title": "未来5年我国能源蓝图划重点",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E5%9B%BD%E8%83%BD%E6%BA%90%E8%93%9D%E5%9B%BE%E5%88%92%E9%87%8D%E7%82%B9%23",
-      "hot_value": "1584748",
+      "hot_value": "947174",
       "index": 3
+    },
+    {
+      "title": "张艺谋电影 肖战",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%94%B5%E5%BD%B1+%E8%82%96%E6%88%98%23",
+      "hot_value": "944644",
+      "index": 4
     },
     {
       "title": "只有中国人才能识别的加密暗号",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8D%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9A%97%E5%8F%B7%23",
-      "hot_value": "1566639",
-      "index": 4
+      "hot_value": "825478",
+      "index": 5
+    },
+    {
+      "title": "郭敬明发百妖谱原始帧",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%95%AC%E6%98%8E%E5%8F%91%E7%99%BE%E5%A6%96%E8%B0%B1%E5%8E%9F%E5%A7%8B%E5%B8%A7%23",
+      "hot_value": "654481",
+      "index": 6
     },
     {
       "title": "泡面不健康不是因为防腐剂",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E9%9D%A2%E4%B8%8D%E5%81%A5%E5%BA%B7%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E9%98%B2%E8%85%90%E5%89%82%23",
-      "hot_value": "532966",
-      "index": 5
-    },
-    {
-      "title": "大牛股15天10板",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%9B%E8%82%A115%E5%A4%A910%E6%9D%BF%23",
-      "hot_value": "530607",
-      "index": 6
-    },
-    {
-      "title": "中国男篮VS新西兰",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEVS%E6%96%B0%E8%A5%BF%E5%85%B0%23",
-      "hot_value": "528340",
+      "hot_value": "485158",
       "index": 7
     },
     {
-      "title": "宇树发布超人机器人",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%23",
-      "hot_value": "524541",
+      "title": "公积金用途又变多了",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%AF%E9%87%91%E7%94%A8%E9%80%94%E5%8F%88%E5%8F%98%E5%A4%9A%E4%BA%86%23",
+      "hot_value": "434402",
       "index": 8
     },
     {
-      "title": "张睿辟谣被披哥拒绝4次",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9D%BF%E8%BE%9F%E8%B0%A3%E8%A2%AB%E6%8A%AB%E5%93%A5%E6%8B%92%E7%BB%9D4%E6%AC%A1%23",
-      "hot_value": "521487",
+      "title": "中国男篮不敌新西兰",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0%23",
+      "hot_value": "425124",
       "index": 9
     },
     {
-      "title": "AI做的日剧太逼真了",
-      "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E6%97%A5%E5%89%A7%E5%A4%AA%E9%80%BC%E7%9C%9F%E4%BA%86%23",
-      "hot_value": "520103",
+      "title": "什么样的家庭可以买40万的车",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%8F%AF%E4%BB%A5%E4%B9%B040%E4%B8%87%E7%9A%84%E8%BD%A6%23",
+      "hot_value": "420166",
       "index": 10
     },
     {
-      "title": "女孩顺风车内暴晒2小时向家人求救",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%A1%BA%E9%A3%8E%E8%BD%A6%E5%86%85%E6%9A%B4%E6%99%922%E5%B0%8F%E6%97%B6%E5%90%91%E5%AE%B6%E4%BA%BA%E6%B1%82%E6%95%91%23",
-      "hot_value": "518451",
+      "title": "杭州涉事招商蛇口高管已被免职",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%B6%89%E4%BA%8B%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E9%AB%98%E7%AE%A1%E5%B7%B2%E8%A2%AB%E5%85%8D%E8%81%8C%23",
+      "hot_value": "405879",
       "index": 11
+    },
+    {
+      "title": "陈奕恒腹肌",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E8%85%B9%E8%82%8C%23",
+      "hot_value": "402530",
+      "index": 12
     },
     {
       "title": "彭宇案 彭宇确实碰了老人",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%AE%87%E6%A1%88+%E5%BD%AD%E5%AE%87%E7%A1%AE%E5%AE%9E%E7%A2%B0%E4%BA%86%E8%80%81%E4%BA%BA%23",
-      "hot_value": "515244",
-      "index": 12
-    },
-    {
-      "title": "南派三叔直播被封",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E7%9B%B4%E6%92%AD%E8%A2%AB%E5%B0%81%23",
-      "hot_value": "510254",
+      "hot_value": "390027",
       "index": 13
     },
     {
-      "title": "BLACKPINK发文道歉",
-      "url": "https://s.weibo.com/weibo?q=%23BLACKPINK%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23",
-      "hot_value": "509898",
+      "title": "女孩顺风车内暴晒2小时向家人求救",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%A1%BA%E9%A3%8E%E8%BD%A6%E5%86%85%E6%9A%B4%E6%99%922%E5%B0%8F%E6%97%B6%E5%90%91%E5%AE%B6%E4%BA%BA%E6%B1%82%E6%95%91%23",
+      "hot_value": "372687",
       "index": 14
+    },
+    {
+      "title": "茜拉自曝将移居中国",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8C%9C%E6%8B%89%E8%87%AA%E6%9B%9D%E5%B0%86%E7%A7%BB%E5%B1%85%E4%B8%AD%E5%9B%BD%23",
+      "hot_value": "363672",
+      "index": 15
+    },
+    {
+      "title": "大冰瘦了30斤",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%E7%98%A6%E4%BA%8630%E6%96%A4%23",
+      "hot_value": "360973",
+      "index": 16
     },
     {
       "title": "建议大家开车一定要专心",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%BC%80%E8%BD%A6%E4%B8%80%E5%AE%9A%E8%A6%81%E4%B8%93%E5%BF%83%23",
-      "hot_value": "451171",
-      "index": 15
-    },
-    {
-      "title": "王菲基因发力了",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%9F%BA%E5%9B%A0%E5%8F%91%E5%8A%9B%E4%BA%86%23",
-      "hot_value": "447569",
-      "index": 16
-    },
-    {
-      "title": "王橹杰收官碧海",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%94%B6%E5%AE%98%E7%A2%A7%E6%B5%B7%23",
-      "hot_value": "343234",
+      "hot_value": "348546",
       "index": 17
     },
     {
-      "title": "孙颖莎王曼昱仅差708分",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BB%85%E5%B7%AE708%E5%88%86%23",
-      "hot_value": "324760",
+      "title": "BLACKPINK发文道歉",
+      "url": "https://s.weibo.com/weibo?q=%23BLACKPINK%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23",
+      "hot_value": "347920",
       "index": 18
     },
     {
-      "title": "王奕告别丝芭传媒",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A5%95%E5%91%8A%E5%88%AB%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%23",
-      "hot_value": "316070",
+      "title": "大牛股15天10板",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%9B%E8%82%A115%E5%A4%A910%E6%9D%BF%23",
+      "hot_value": "343074",
       "index": 19
     },
     {
-      "title": "八一七稻米节 直播违规",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%B8%80%E4%B8%83%E7%A8%BB%E7%B1%B3%E8%8A%82+%E7%9B%B4%E6%92%AD%E8%BF%9D%E8%A7%84%23",
-      "hot_value": "314830",
+      "title": "学籍顶替案哥哥称弟弟学籍也要撤销",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%B1%8D%E9%A1%B6%E6%9B%BF%E6%A1%88%E5%93%A5%E5%93%A5%E7%A7%B0%E5%BC%9F%E5%BC%9F%E5%AD%A6%E7%B1%8D%E4%B9%9F%E8%A6%81%E6%92%A4%E9%94%80%23",
+      "hot_value": "341452",
       "index": 20
     },
     {
-      "title": "iPhone17国内销量曝光",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%9B%BD%E5%86%85%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23",
-      "hot_value": "313635",
+      "title": "孩子高考失利家长打12345希望重考",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E5%AE%B6%E9%95%BF%E6%89%9312345%E5%B8%8C%E6%9C%9B%E9%87%8D%E8%80%83%23",
+      "hot_value": "339971",
       "index": 21
     },
     {
       "title": "蓝盈莹承认恋情",
       "url": "https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23",
-      "hot_value": "313111",
+      "hot_value": "336168",
       "index": 22
     },
     {
       "title": "Jennie不得不用头发遮挡",
       "url": "https://s.weibo.com/weibo?q=%23Jennie%E4%B8%8D%E5%BE%97%E4%B8%8D%E7%94%A8%E5%A4%B4%E5%8F%91%E9%81%AE%E6%8C%A1%23",
-      "hot_value": "311215",
+      "hot_value": "330840",
       "index": 23
     },
     {
-      "title": "怎么发现一个人不是好人",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%8D%E6%98%AF%E5%A5%BD%E4%BA%BA%23",
-      "hot_value": "306622",
+      "title": "王菲基因发力了",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%9F%BA%E5%9B%A0%E5%8F%91%E5%8A%9B%E4%BA%86%23",
+      "hot_value": "326864",
       "index": 24
+    },
+    {
+      "title": "越不操心的人越是人生赢家",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B6%8A%E4%B8%8D%E6%93%8D%E5%BF%83%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%98%AF%E4%BA%BA%E7%94%9F%E8%B5%A2%E5%AE%B6%23",
+      "hot_value": "322078",
+      "index": 25
     },
     {
       "title": "结婚后才明白的事",
       "url": "https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E5%90%8E%E6%89%8D%E6%98%8E%E7%99%BD%E7%9A%84%E4%BA%8B%23",
-      "hot_value": "294480",
-      "index": 25
-    },
-    {
-      "title": "郝熠然 后台",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%83%9D%E7%86%A0%E7%84%B6+%E5%90%8E%E5%8F%B0%23",
-      "hot_value": "244383",
+      "hot_value": "313178",
       "index": 26
     },
     {
-      "title": "遭伯母挖眼男孩13年后给医生报喜",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%81%AD%E4%BC%AF%E6%AF%8D%E6%8C%96%E7%9C%BC%E7%94%B7%E5%AD%A913%E5%B9%B4%E5%90%8E%E7%BB%99%E5%8C%BB%E7%94%9F%E6%8A%A5%E5%96%9C%23",
-      "hot_value": "239514",
+      "title": "曹骏 蓝盈莹",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%B9%E9%AA%8F+%E8%93%9D%E7%9B%88%E8%8E%B9%23",
+      "hot_value": "308328",
       "index": 27
+    },
+    {
+      "title": "王橹杰收官碧海",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%94%B6%E5%AE%98%E7%A2%A7%E6%B5%B7%23",
+      "hot_value": "283095",
+      "index": 28
+    },
+    {
+      "title": "iPhone17国内销量曝光",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%9B%BD%E5%86%85%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23",
+      "hot_value": "261308",
+      "index": 29
     },
     {
       "title": "今天市场暴涨原因",
       "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%B8%82%E5%9C%BA%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23",
-      "hot_value": "238283",
-      "index": 28
-    },
-    {
-      "title": "父子在海拔4000米高原发现塔黄",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E5%AD%90%E5%9C%A8%E6%B5%B7%E6%8B%944000%E7%B1%B3%E9%AB%98%E5%8E%9F%E5%8F%91%E7%8E%B0%E5%A1%94%E9%BB%84%23",
-      "hot_value": "228994",
-      "index": 29
-    },
-    {
-      "title": "前7个月国民经济总体平稳向新向优",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D7%E4%B8%AA%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%23",
-      "hot_value": "222102",
+      "hot_value": "242200",
       "index": 30
     }
   ]
