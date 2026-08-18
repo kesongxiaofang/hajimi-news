@@ -1,115 +1,115 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-17T23:45:15Z",
+  "update_time": "2026-08-18T00:58:05Z",
   "count": 30,
   "list": [
     {
       "title": "如何评价刚刚开源的 Qwen3.8-27B？",
       "url": "https://www.zhihu.com/question/2071739761476293183",
-      "hot_value": "293 万热度",
+      "hot_value": "487 万热度",
       "index": 1
     },
     {
       "title": "有研究表示伟哥成分「西地那非」或能抑制癌细胞转移扩散，距离真正用于临床癌症治疗还差什么？",
       "url": "https://www.zhihu.com/question/2070200885368419979",
-      "hot_value": "210 万热度",
+      "hot_value": "350 万热度",
       "index": 2
     },
     {
-      "title": "如何看待王曼昱瑞典大满贯冠军？",
-      "url": "https://www.zhihu.com/question/2072589729363763969",
-      "hot_value": "106 万热度",
+      "title": "如何看待瑞幸七夕联名小众情侣 IP 陷争议，被指画风撞款多部日漫且被吐槽给陌生人随份子钱，官方仍合作？",
+      "url": "https://www.zhihu.com/question/2072637486740632508",
+      "hot_value": "219 万热度",
       "index": 3
-    },
-    {
-      "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
-      "url": "https://www.zhihu.com/question/2071644037833135057",
-      "hot_value": "95 万热度",
-      "index": 4
     },
     {
       "title": "特斯拉为什么不上新车型，不配置冰箱彩电大沙发？",
       "url": "https://www.zhihu.com/question/2065004542933067231",
-      "hot_value": "88 万热度",
+      "hot_value": "187 万热度",
+      "index": 4
+    },
+    {
+      "title": "《射雕英雄传》中林朝英那么痴心，为什么感动不了王重阳？",
+      "url": "https://www.zhihu.com/question/379961070",
+      "hot_value": "166 万热度",
       "index": 5
     },
     {
       "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
       "url": "https://www.zhihu.com/question/2071509878875615796",
-      "hot_value": "78 万热度",
+      "hot_value": "143 万热度",
       "index": 6
     },
     {
-      "title": "为什么现在小区车位，越来越卖不动了？",
-      "url": "https://www.zhihu.com/question/2050150582917259779",
-      "hot_value": "69 万热度",
+      "title": "如何看待王曼昱瑞典大满贯冠军？",
+      "url": "https://www.zhihu.com/question/2072589729363763969",
+      "hot_value": "120 万热度",
       "index": 7
+    },
+    {
+      "title": "2026 年羽毛球世锦赛，石宇奇 1：2 不敌阿尤什止步男单 64 强，怎么评价这一场对决？",
+      "url": "https://www.zhihu.com/question/2072803747886114063",
+      "hot_value": "101 万热度",
+      "index": 8
     },
     {
       "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
       "url": "https://www.zhihu.com/question/2072103596481683649",
-      "hot_value": "68 万热度",
-      "index": 8
-    },
-    {
-      "title": "为什么我国人民接触不到俄罗斯的汽车？",
-      "url": "https://www.zhihu.com/question/26465203",
-      "hot_value": "64 万热度",
+      "hot_value": "99 万热度",
       "index": 9
     },
     {
       "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
       "url": "https://www.zhihu.com/question/2063294189954250663",
-      "hot_value": "63 万热度",
+      "hot_value": "90 万热度",
       "index": 10
-    },
-    {
-      "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-      "url": "https://www.zhihu.com/question/2072617673721226019",
-      "hot_value": "63 万热度",
-      "index": 11
     },
     {
       "title": "如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？",
       "url": "https://www.zhihu.com/question/2071642621957747105",
-      "hot_value": "63 万热度",
+      "hot_value": "86 万热度",
+      "index": 11
+    },
+    {
+      "title": "当章子怡、郝蕾等同代演员纷纷减产，秦海璐今年却佳作不断，原因是什么？该如何评价她的演技与演艺成就？",
+      "url": "https://www.zhihu.com/question/2044191556152866765",
+      "hot_value": "82 万热度",
       "index": 12
+    },
+    {
+      "title": "爱一个人和依赖一个人，心理学上有什么区别？",
+      "url": "https://www.zhihu.com/question/2069198733837874598",
+      "hot_value": "75 万热度",
+      "index": 13
+    },
+    {
+      "title": "有哪些惊艳你的影视剧台词？",
+      "url": "https://www.zhihu.com/question/657007877",
+      "hot_value": "71 万热度",
+      "index": 14
+    },
+    {
+      "title": "为什么现在小区车位，越来越卖不动了？",
+      "url": "https://www.zhihu.com/question/2050150582917259779",
+      "hot_value": "70 万热度",
+      "index": 15
+    },
+    {
+      "title": "卤肉里面加入什么香料可以增香去腥？",
+      "url": "https://www.zhihu.com/question/300429428",
+      "hot_value": "67 万热度",
+      "index": 16
+    },
+    {
+      "title": "为什么我国人民接触不到俄罗斯的汽车？",
+      "url": "https://www.zhihu.com/question/26465203",
+      "hot_value": "65 万热度",
+      "index": 17
     },
     {
       "title": "新规明确厨余垃圾不能直接喂猪，背后出于什么考量？会带来哪些影响？",
       "url": "https://www.zhihu.com/question/2072615174142255425",
-      "hot_value": "63 万热度",
-      "index": 13
-    },
-    {
-      "title": "吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现？",
-      "url": "https://www.zhihu.com/question/2072440886320019399",
-      "hot_value": "59 万热度",
-      "index": 14
-    },
-    {
-      "title": "小说《金瓶梅》中，为什么武大郎对张大户忍气吞声，却对西门庆感到愤怒？",
-      "url": "https://www.zhihu.com/question/40904469",
-      "hot_value": "59 万热度",
-      "index": 15
-    },
-    {
-      "title": "李宗盛为什么口碑变差了?",
-      "url": "https://www.zhihu.com/question/388993745",
-      "hot_value": "59 万热度",
-      "index": 16
-    },
-    {
-      "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-      "url": "https://www.zhihu.com/question/2061136311206073648",
-      "hot_value": "59 万热度",
-      "index": 17
-    },
-    {
-      "title": "胖东来被涨租逼走，为啥它不直接涨入驻商户的租金来平摊？这一权衡背后有啥考量吗？",
-      "url": "https://www.zhihu.com/question/2072622434356651944",
-      "hot_value": "59 万热度",
+      "hot_value": "64 万热度",
       "index": 18
     },
     {
@@ -119,8 +119,8 @@
       "index": 19
     },
     {
-      "title": "怎样把茄子炒的好吃，油还不多呢？",
-      "url": "https://www.zhihu.com/question/1945624743987353511",
+      "title": "李宗盛为什么口碑变差了?",
+      "url": "https://www.zhihu.com/question/388993745",
       "hot_value": "59 万热度",
       "index": 20
     },
@@ -143,45 +143,45 @@
       "index": 23
     },
     {
-      "title": "马斯克的最新采访中，说到未来工作会成为可选项。到那时人该如何安置自己？",
-      "url": "https://www.zhihu.com/question/2071906562340295460",
-      "hot_value": "58 万热度",
+      "title": "为什么广式肠粉在非广府地区火不起来？",
+      "url": "https://www.zhihu.com/question/5024577615",
+      "hot_value": "57 万热度",
       "index": 24
     },
     {
-      "title": "考驾照的过程中，你明白了哪些在其他事情上也适用的人生道理？",
-      "url": "https://www.zhihu.com/question/2065447455198598057",
-      "hot_value": "58 万热度",
+      "title": "多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解？",
+      "url": "https://www.zhihu.com/question/2071533345910022775",
+      "hot_value": "57 万热度",
       "index": 25
     },
     {
-      "title": "为什么古代中国里没有诞生像《伊利亚特》这样的长篇史诗？",
-      "url": "https://www.zhihu.com/question/9383116898",
-      "hot_value": "58 万热度",
+      "title": "拿到驾照第一年上高速，副驾必须坐三年老司机，这个规定合理吗？",
+      "url": "https://www.zhihu.com/question/2069553185765725614",
+      "hot_value": "57 万热度",
       "index": 26
     },
     {
       "title": "C 罗主动在专访中表示「这大概会是我职业生涯的最后一年」，对此你怎么看？",
       "url": "https://www.zhihu.com/question/2072504377168991805",
-      "hot_value": "58 万热度",
+      "hot_value": "57 万热度",
       "index": 27
     },
     {
-      "title": "如何评价异环新角色残虹 6 级好感度剧情出现的问题？",
-      "url": "https://www.zhihu.com/question/2072239462914995657",
-      "hot_value": "58 万热度",
+      "title": "大家讨论下，古法编程真的要消失了么？",
+      "url": "https://www.zhihu.com/question/2067930819897964535",
+      "hot_value": "57 万热度",
       "index": 28
     },
     {
-      "title": "为什么广式肠粉在非广府地区火不起来？",
-      "url": "https://www.zhihu.com/question/5024577615",
-      "hot_value": "58 万热度",
+      "title": "在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料？",
+      "url": "https://www.zhihu.com/question/2068587429079020879",
+      "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "民法后面多了一个「典」意味着什么 ？这部法典为什么对每个人都如此重要 ？",
-      "url": "https://www.zhihu.com/question/395884606",
-      "hot_value": "58 万热度",
+      "title": "为什么非洲和拉美的后发国家不能模仿东亚模式发展经济？",
+      "url": "https://www.zhihu.com/question/2070458660610896440",
+      "hot_value": "57 万热度",
       "index": 30
     }
   ]
