@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-18T16:27:27Z",
+  "update_time": "2026-08-18T16:58:15Z",
   "count": 30,
   "list": [
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "3486545播放",
+      "hot_value": "3629162播放",
       "index": 1
     },
     {
       "title": "《影之刃零》专场 State of Play 全程回顾",
       "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "2599495播放",
+      "hot_value": "2637908播放",
       "index": 2
     },
     {
       "title": "《商务柔道》",
       "url": "https://www.bilibili.com/video/BV1cqb86hE8B",
-      "hot_value": "3272232播放",
+      "hot_value": "3410180播放",
       "index": 3
     },
     {
       "title": "【独家】《百日成王》第17集 每一场应援就像一场战斗！【7月国创】",
       "url": "https://www.bilibili.com/video/BV1ndgp68EVE",
-      "hot_value": "774709播放",
+      "hot_value": "778982播放",
       "index": 4
     },
     {
       "title": "我们不欢迎这样的客人，也不赚这种米",
       "url": "https://www.bilibili.com/video/BV1Neba63EDK",
-      "hot_value": "2852119播放",
+      "hot_value": "2906201播放",
       "index": 5
     },
     {
-      "title": "忍术回战   26分钟沉浸式观看",
-      "url": "https://www.bilibili.com/video/BV1GNbv6ZE1N",
-      "hot_value": "2102714播放",
+      "title": "萨特：当所有人都在定义你，你还能怎么做自己？",
+      "url": "https://www.bilibili.com/video/BV1pN8g6yE7m",
+      "hot_value": "885399播放",
       "index": 6
     },
     {
       "title": "地球毁灭后，人类只剩四条路｜你会把文明带向哪里？",
       "url": "https://www.bilibili.com/video/BV1DTbv6xEHK",
-      "hot_value": "3193510播放",
+      "hot_value": "3245581播放",
       "index": 7
+    },
+    {
+      "title": "忍术回战   26分钟沉浸式观看",
+      "url": "https://www.bilibili.com/video/BV1GNbv6ZE1N",
+      "hot_value": "2136355播放",
+      "index": 8
     },
     {
       "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
       "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
-      "hot_value": "13128067播放",
-      "index": 8
-    },
-    {
-      "title": "萨特：当所有人都在定义你，你还能怎么做自己？",
-      "url": "https://www.bilibili.com/video/BV1pN8g6yE7m",
-      "hot_value": "827853播放",
+      "hot_value": "13165117播放",
       "index": 9
     },
     {
       "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1wrba6iE56",
-      "hot_value": "4506386播放",
+      "hot_value": "4532543播放",
       "index": 10
-    },
-    {
-      "title": "《鸣潮》共鸣者「清宵」PV | 修行",
-      "url": "https://www.bilibili.com/video/BV1GFbk6LEVm",
-      "hot_value": "2078374播放",
-      "index": 11
-    },
-    {
-      "title": "当搞艺术的一切需求得到满足",
-      "url": "https://www.bilibili.com/video/BV1DybY6pEiA",
-      "hot_value": "2554842播放",
-      "index": 12
-    },
-    {
-      "title": "我看看谁错字了！",
-      "url": "https://www.bilibili.com/video/BV14Z8u6JEu4",
-      "hot_value": "519915播放",
-      "index": 13
     },
     {
       "title": "《如常运转｜正常運転》MV：全世界都会震惊于日本的灾后重建速度",
       "url": "https://www.bilibili.com/video/BV1h88g6tEQv",
-      "hot_value": "311733播放",
-      "index": 14
+      "hot_value": "336280播放",
+      "index": 11
+    },
+    {
+      "title": "《鸣潮》共鸣者「清宵」PV | 修行",
+      "url": "https://www.bilibili.com/video/BV1GFbk6LEVm",
+      "hot_value": "2095623播放",
+      "index": 12
     },
     {
       "title": "当你相亲遇到天价嫁妆",
       "url": "https://www.bilibili.com/video/BV1wqb86hEZV",
-      "hot_value": "3571779播放",
-      "index": 15
+      "hot_value": "3668313播放",
+      "index": 13
+    },
+    {
+      "title": "代练圈的隐藏卷王，居然是这个品牌？",
+      "url": "https://www.bilibili.com/video/BV18U8u6xERJ",
+      "hot_value": "289960播放",
+      "index": 14
     },
     {
       "title": "意外穿越怪谈世界，十二星座决定你的专属变身 第二期 （下） ASMR",
       "url": "https://www.bilibili.com/video/BV1ynbv62EUZ",
-      "hot_value": "1390029播放",
-      "index": 16
-    },
-    {
-      "title": "70亿Token，B站网友教我做了个AI军官来监督学习【B站AI创造公开赛】",
-      "url": "https://www.bilibili.com/video/BV1XUgg61E3G",
-      "hot_value": "580169播放",
-      "index": 17
-    },
-    {
-      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
-      "url": "https://www.bilibili.com/video/BV1Z9gT61EnM",
-      "hot_value": "5158497播放",
-      "index": 18
-    },
-    {
-      "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
-      "hot_value": "1613170播放",
-      "index": 19
-    },
-    {
-      "title": "欢迎来龙餐馆！世界眼中的中国，与中国眼中的世界",
-      "url": "https://www.bilibili.com/video/BV1sw8g62EFg",
-      "hot_value": "446242播放",
-      "index": 20
-    },
-    {
-      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV18Tby67EG9",
-      "hot_value": "6293654播放",
-      "index": 21
+      "hot_value": "1420176播放",
+      "index": 15
     },
     {
       "title": "魅力四射",
       "url": "https://www.bilibili.com/video/BV1aEba6HEez",
-      "hot_value": "1137731播放",
-      "index": 22
+      "hot_value": "1269686播放",
+      "index": 16
+    },
+    {
+      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
+      "url": "https://www.bilibili.com/video/BV1Z9gT61EnM",
+      "hot_value": "5175764播放",
+      "index": 17
+    },
+    {
+      "title": "我看看谁错字了！",
+      "url": "https://www.bilibili.com/video/BV14Z8u6JEu4",
+      "hot_value": "558399播放",
+      "index": 18
+    },
+    {
+      "title": "欢迎来龙餐馆！世界眼中的中国，与中国眼中的世界",
+      "url": "https://www.bilibili.com/video/BV1sw8g62EFg",
+      "hot_value": "468752播放",
+      "index": 19
+    },
+    {
+      "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
+      "hot_value": "1621884播放",
+      "index": 20
+    },
+    {
+      "title": "当搞艺术的一切需求得到满足",
+      "url": "https://www.bilibili.com/video/BV1DybY6pEiA",
+      "hot_value": "2566494播放",
+      "index": 21
     },
     {
       "title": "音画不同步！为什么视频口型总是怪怪的？",
       "url": "https://www.bilibili.com/video/BV1A2bi6UEev",
-      "hot_value": "1212602播放",
+      "hot_value": "1228025播放",
+      "index": 22
+    },
+    {
+      "title": "挑战中国菜 第一期！“可乐鸡翅”",
+      "url": "https://www.bilibili.com/video/BV1GdbX62EAK",
+      "hot_value": "1831272播放",
       "index": 23
     },
     {
-      "title": "这个旅游包活吗？？？【听天由命1】",
-      "url": "https://www.bilibili.com/video/BV1SBbS6hEHa",
-      "hot_value": "1950395播放",
+      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV18Tby67EG9",
+      "hot_value": "6307515播放",
       "index": 24
     },
     {
       "title": "《关于室友邀请我参加他婚礼这件事》",
       "url": "https://www.bilibili.com/video/BV1QWb16sEjm",
-      "hot_value": "2866474播放",
+      "hot_value": "2896432播放",
       "index": 25
-    },
-    {
-      "title": "挑战中国菜 第一期！“可乐鸡翅”",
-      "url": "https://www.bilibili.com/video/BV1GdbX62EAK",
-      "hot_value": "1812354播放",
-      "index": 26
-    },
-    {
-      "title": "精神小伙爆改霸总",
-      "url": "https://www.bilibili.com/video/BV1MYbe6SEAt",
-      "hot_value": "866057播放",
-      "index": 27
     },
     {
       "title": "绝境降临！狭小缆车空间怎样熬过危机四伏的一百天！！「缆车惊变100天」",
       "url": "https://www.bilibili.com/video/BV1gibB6PEih",
-      "hot_value": "748003播放",
-      "index": 28
-    },
-    {
-      "title": "特效小哥大战逗比的雀巢！",
-      "url": "https://www.bilibili.com/video/BV1mkbQ6iEWJ",
-      "hot_value": "1839710播放",
-      "index": 29
+      "hot_value": "757356播放",
+      "index": 26
     },
     {
       "title": "龙 餐 馆 连 线 勇 哥",
       "url": "https://www.bilibili.com/video/BV1o8b96pEQA",
-      "hot_value": "3868365播放",
+      "hot_value": "3889046播放",
+      "index": 27
+    },
+    {
+      "title": "这个旅游包活吗？？？【听天由命1】",
+      "url": "https://www.bilibili.com/video/BV1SBbS6hEHa",
+      "hot_value": "1964511播放",
+      "index": 28
+    },
+    {
+      "title": "精神小伙爆改霸总",
+      "url": "https://www.bilibili.com/video/BV1MYbe6SEAt",
+      "hot_value": "890636播放",
+      "index": 29
+    },
+    {
+      "title": "特效小哥大战逗比的雀巢！",
+      "url": "https://www.bilibili.com/video/BV1mkbQ6iEWJ",
+      "hot_value": "1847553播放",
       "index": 30
     }
   ]
