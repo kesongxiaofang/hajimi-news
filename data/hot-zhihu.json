@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-18T08:30:56Z",
+  "update_time": "2026-08-18T09:27:22Z",
   "count": 30,
   "list": [
     {
       "title": "朱镕基同志遗体在京火化",
       "url": "https://zhuanlan.zhihu.com/p/2073063979505787803",
-      "hot_value": "1435 万热度",
+      "hot_value": "1260 万热度",
       "index": 1
     },
     {
       "title": "宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？",
       "url": "https://www.zhihu.com/question/2072693901802958901",
-      "hot_value": "929 万热度",
+      "hot_value": "769 万热度",
       "index": 2
-    },
-    {
-      "title": "如何看待瑞幸七夕联名小众情侣 IP 陷争议，被指画风撞款多部日漫且被吐槽给陌生人随份子钱，官方仍合作？",
-      "url": "https://www.zhihu.com/question/2072637486740632508",
-      "hot_value": "467 万热度",
-      "index": 3
-    },
-    {
-      "title": "特斯拉为什么不上新车型，不配置冰箱彩电大沙发？",
-      "url": "https://www.zhihu.com/question/2065004542933067231",
-      "hot_value": "313 万热度",
-      "index": 4
     },
     {
       "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
       "url": "https://www.zhihu.com/question/2072631801164424275",
-      "hot_value": "298 万热度",
+      "hot_value": "321 万热度",
+      "index": 3
+    },
+    {
+      "title": "如何看待瑞幸七夕联名小众情侣 IP 陷争议，被指画风撞款多部日漫且被吐槽给陌生人随份子钱，官方仍合作？",
+      "url": "https://www.zhihu.com/question/2072637486740632508",
+      "hot_value": "238 万热度",
+      "index": 4
+    },
+    {
+      "title": "汽车实体按键正逐步回归，奥迪、奔驰、大众等表态恢复实体按键，自主品牌新车也恢复部分实体按键，如何解读？",
+      "url": "https://www.zhihu.com/question/2071637667490576051",
+      "hot_value": "232 万热度",
       "index": 5
     },
     {
-      "title": "《欢迎来龙餐馆》中徐福救下 23 个孩子这一桥段，是不是有点过于理想化了？",
-      "url": "https://www.zhihu.com/question/2072342392380905179",
-      "hot_value": "260 万热度",
+      "title": "如何看待王传君近年来多次与爱情公寓和解？为什么感觉他这几年 CUE 到爱情公寓比邓家佳孙艺洲等人还要多？",
+      "url": "https://www.zhihu.com/question/2072445082930881876",
+      "hot_value": "200 万热度",
       "index": 6
     },
     {
       "title": "招商蛇口浙江公司负责人赵某峰涉嫌商务饭局中侵犯女性，目前已被免职，接受警方调查，有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2072862065841198775",
-      "hot_value": "223 万热度",
+      "hot_value": "184 万热度",
       "index": 7
     },
     {
-      "title": "如何看待王传君近年来多次与爱情公寓和解？为什么感觉他这几年 CUE 到爱情公寓比邓家佳孙艺洲等人还要多？",
-      "url": "https://www.zhihu.com/question/2072445082930881876",
-      "hot_value": "186 万热度",
+      "title": "《欢迎来龙餐馆》中徐福救下 23 个孩子这一桥段，是不是有点过于理想化了？",
+      "url": "https://www.zhihu.com/question/2072342392380905179",
+      "hot_value": "168 万热度",
       "index": 8
     },
     {
-      "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
-      "url": "https://www.zhihu.com/question/2072650616367853898",
-      "hot_value": "184 万热度",
+      "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
+      "url": "https://www.zhihu.com/question/29983694",
+      "hot_value": "148 万热度",
       "index": 9
     },
     {
       "title": "如何看待 7 月社会消费品零售总额同比增长 0.6%？",
       "url": "https://www.zhihu.com/question/2072987795677606877",
-      "hot_value": "143 万热度",
+      "hot_value": "129 万热度",
       "index": 10
     },
     {
-      "title": "各地陆续推进老旧小区加装电梯，为什么有人积极支持，也有人坚决反对？",
-      "url": "https://www.zhihu.com/question/2032416857903342263",
-      "hot_value": "129 万热度",
+      "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
+      "url": "https://www.zhihu.com/question/2072650616367853898",
+      "hot_value": "127 万热度",
       "index": 11
     },
     {
       "title": "AI 会把数学领域「低垂的果实」全部摘走么？",
       "url": "https://www.zhihu.com/question/2072668885459760739",
-      "hot_value": "113 万热度",
+      "hot_value": "118 万热度",
       "index": 12
+    },
+    {
+      "title": "BBA 集体大降价，宝马 5 系跌至 28 万、奔驰 E 级优惠超 10 万，传统豪华车的价格体系是如何走向瓦解的？",
+      "url": "https://www.zhihu.com/question/2073013614953359329",
+      "hot_value": "118 万热度",
+      "index": 13
     },
     {
       "title": "最近有个观点很火，不允许任何人当众指责你，哪怕自己做错事，这个观点对不对？",
       "url": "https://www.zhihu.com/question/2071911140318254292",
-      "hot_value": "104 万热度",
-      "index": 13
+      "hot_value": "112 万热度",
+      "index": 14
+    },
+    {
+      "title": "日媒称日本在「汇率战争」中「战败」，日本经济面临怎样的两难困境？",
+      "url": "https://www.zhihu.com/question/2071248008604292675",
+      "hot_value": "111 万热度",
+      "index": 15
     },
     {
       "title": "如何评价《影之刃零》的索尼 State of Play 专场发布会，都有哪些亮点？",
       "url": "https://www.zhihu.com/question/2072981880291472040",
-      "hot_value": "100 万热度",
-      "index": 14
-    },
-    {
-      "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
-      "url": "https://www.zhihu.com/question/29983694",
-      "hot_value": "98 万热度",
-      "index": 15
-    },
-    {
-      "title": "汽车实体按键正逐步回归，奥迪、奔驰、大众等表态恢复实体按键，自主品牌新车也恢复部分实体按键，如何解读？",
-      "url": "https://www.zhihu.com/question/2071637667490576051",
-      "hot_value": "93 万热度",
+      "hot_value": "111 万热度",
       "index": 16
-    },
-    {
-      "title": "当章子怡、郝蕾等同代演员纷纷减产，秦海璐今年却佳作不断，原因是什么？该如何评价她的演技与演艺成就？",
-      "url": "https://www.zhihu.com/question/2044191556152866765",
-      "hot_value": "90 万热度",
-      "index": 17
-    },
-    {
-      "title": "一台当下最顶尖的电脑能用几年?",
-      "url": "https://www.zhihu.com/question/617114261",
-      "hot_value": "86 万热度",
-      "index": 18
-    },
-    {
-      "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
-      "url": "https://www.zhihu.com/question/2071509878875615796",
-      "hot_value": "85 万热度",
-      "index": 19
     },
     {
       "title": "如何评价《原神》8 月 18 日发布的「幽歌萦渊•沃雅妮莎」立绘？",
       "url": "https://www.zhihu.com/question/2073017006383689729",
-      "hot_value": "84 万热度",
+      "hot_value": "97 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何看待苏群说「 大环境已变，中国男篮不可能再有规划，未来 10 年都很难再有」？",
+      "url": "https://www.zhihu.com/question/2072793303968396338",
+      "hot_value": "86 万热度",
+      "index": 18
+    },
+    {
+      "title": "奥德修斯还是那个诡计多端的奥德修斯，十年前想不到木马计吗？",
+      "url": "https://www.zhihu.com/question/2072293916758614283",
+      "hot_value": "85 万热度",
+      "index": 19
+    },
+    {
+      "title": "各地陆续推进老旧小区加装电梯，为什么有人积极支持，也有人坚决反对？",
+      "url": "https://www.zhihu.com/question/2032416857903342263",
+      "hot_value": "72 万热度",
       "index": 20
     },
     {
       "title": "黄金，到底贵在哪里？",
       "url": "https://www.zhihu.com/topic/2070529802323194295/hot",
-      "hot_value": "84 万热度",
+      "hot_value": "71 万热度",
       "index": 21
     },
     {
       "title": "顺风车司机中途离车「失联」，女孩车内暴晒 2 小时向家人求救，暴露出顺风车服务哪些问题？",
       "url": "https://www.zhihu.com/question/2072760692617077687",
-      "hot_value": "84 万热度",
+      "hot_value": "71 万热度",
       "index": 22
     },
     {
-      "title": "奥德修斯还是那个诡计多端的奥德修斯，十年前想不到木马计吗？",
-      "url": "https://www.zhihu.com/question/2072293916758614283",
-      "hot_value": "84 万热度",
+      "title": "电竞选手 Elk 的实力如何呀？",
+      "url": "https://www.zhihu.com/question/1429565469",
+      "hot_value": "70 万热度",
       "index": 23
     },
     {
-      "title": "如何看待苏群说「 大环境已变，中国男篮不可能再有规划，未来 10 年都很难再有」？",
-      "url": "https://www.zhihu.com/question/2072793303968396338",
-      "hot_value": "82 万热度",
+      "title": "如何看待贝索斯说的：「如果我们有一万亿人，就会有 1000 个爱因斯坦」？",
+      "url": "https://www.zhihu.com/question/507723428",
+      "hot_value": "63 万热度",
       "index": 24
+    },
+    {
+      "title": "如果没有中科大，合肥会沦为南昌，石家庄，太原之类二流城市，失去如今地位与潜力吗？科大是决定性要素吗？",
+      "url": "https://www.zhihu.com/question/2069629696732553285",
+      "hot_value": "63 万热度",
+      "index": 25
+    },
+    {
+      "title": "抛开工资不谈，请问你每天坚持上班的目的是什么？",
+      "url": "https://www.zhihu.com/question/2072261461347509905",
+      "hot_value": "62 万热度",
+      "index": 26
+    },
+    {
+      "title": "「懒惰是人类进步的源动力」，这句话有科学依据吗？",
+      "url": "https://www.zhihu.com/question/2069136980747753171",
+      "hot_value": "60 万热度",
+      "index": 27
     },
     {
       "title": "如何评价在千禧年经营维修小店的游戏《维修物语》，为什么在游戏里拧螺丝也能上瘾？",
       "url": "https://www.zhihu.com/question/2068849717677650856",
-      "hot_value": "77 万热度",
-      "index": 25
-    },
-    {
-      "title": "C 罗首次透露退役打算，称可能是他踢球的最后一年，未来想多出去旅行并试试板式网球，如何看待这一表态？",
-      "url": "https://www.zhihu.com/question/2072641937627165615",
-      "hot_value": "76 万热度",
-      "index": 26
-    },
-    {
-      "title": "如何评价小宇宙播客《独树不成林》主播仲树疑似洗稿？",
-      "url": "https://www.zhihu.com/question/2072314414301237411",
-      "hot_value": "74 万热度",
-      "index": 27
-    },
-    {
-      "title": "女生怎么穿才显高级感?",
-      "url": "https://www.zhihu.com/question/657834672",
-      "hot_value": "72 万热度",
+      "hot_value": "59 万热度",
       "index": 28
     },
     {
       "title": "长期共同生活的宠物之间，会形成类似友情的关系吗？",
       "url": "https://www.zhihu.com/question/2071248137381836223",
-      "hot_value": "68 万热度",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "抛开工资不谈，请问你每天坚持上班的目的是什么？",
-      "url": "https://www.zhihu.com/question/2072261461347509905",
-      "hot_value": "65 万热度",
+      "title": "当章子怡、郝蕾等同代演员纷纷减产，秦海璐今年却佳作不断，原因是什么？该如何评价她的演技与演艺成就？",
+      "url": "https://www.zhihu.com/question/2044191556152866765",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
