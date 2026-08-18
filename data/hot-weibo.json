@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-08-18T06:35:31Z",
+  "update_time": "2026-08-18T07:33:39Z",
   "count": 30,
   "list": [
     {
-      "title": "天安门下半旗悼念朱镕基同志",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%23",
-      "hot_value": "1086758",
+      "title": "朱镕基同志遗体在京火化",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96%23",
+      "hot_value": "1286968",
       "index": 1
     },
     {
       "title": "游泳 腺病毒",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%B3%B3+%E8%85%BA%E7%97%85%E6%AF%92%23",
-      "hot_value": "1082271",
+      "hot_value": "1272930",
       "index": 2
     },
     {
       "title": "前7个月全国网上商品零售额增长4.6%",
       "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D7%E4%B8%AA%E6%9C%88%E5%85%A8%E5%9B%BD%E7%BD%91%E4%B8%8A%E5%95%86%E5%93%81%E9%9B%B6%E5%94%AE%E9%A2%9D%E5%A2%9E%E9%95%BF4.6%25%23",
-      "hot_value": "1063540",
+      "hot_value": "1263257",
       "index": 3
     },
     {
       "title": "睡前9分钟清除皮质醇的废物",
       "url": "https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D9%E5%88%86%E9%92%9F%E6%B8%85%E9%99%A4%E7%9A%AE%E8%B4%A8%E9%86%87%E7%9A%84%E5%BA%9F%E7%89%A9%23",
-      "hot_value": "1063101",
+      "hot_value": "1258625",
       "index": 4
-    },
-    {
-      "title": "BBA集体大降价",
-      "url": "https://s.weibo.com/weibo?q=%23BBA%E9%9B%86%E4%BD%93%E5%A4%A7%E9%99%8D%E4%BB%B7%23",
-      "hot_value": "1062484",
-      "index": 5
     },
     {
       "title": "巴基斯坦博主看欢迎来龙餐馆不适",
       "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8D%9A%E4%B8%BB%E7%9C%8B%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E4%B8%8D%E9%80%82%23",
-      "hot_value": "811574",
+      "hot_value": "1074046",
+      "index": 5
+    },
+    {
+      "title": "蜜雪冰城 盘账数杯子不数钱",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E+%E7%9B%98%E8%B4%A6%E6%95%B0%E6%9D%AF%E5%AD%90%E4%B8%8D%E6%95%B0%E9%92%B1%23",
+      "hot_value": "635492",
       "index": 6
     },
     {
-      "title": "中1签赚55万",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD1%E7%AD%BE%E8%B5%9A55%E4%B8%87%23",
-      "hot_value": "786239",
+      "title": "厄尔尼诺事件大概率历史最强",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6%E5%A4%A7%E6%A6%82%E7%8E%87%E5%8E%86%E5%8F%B2%E6%9C%80%E5%BC%BA%23",
+      "hot_value": "501714",
       "index": 7
     },
     {
       "title": "12345 滥用",
       "url": "https://s.weibo.com/weibo?q=%2312345+%E6%BB%A5%E7%94%A8%23",
-      "hot_value": "472842",
+      "hot_value": "293615",
       "index": 8
     },
     {
-      "title": "蜜雪冰城 盘账数杯子不数钱",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E+%E7%9B%98%E8%B4%A6%E6%95%B0%E6%9D%AF%E5%AD%90%E4%B8%8D%E6%95%B0%E9%92%B1%23",
-      "hot_value": "469961",
+      "title": "特朗普还对人民大会堂念念不忘",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23",
+      "hot_value": "293587",
       "index": 9
     },
     {
-      "title": "觉醒开机",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%A7%89%E9%86%92%E5%BC%80%E6%9C%BA%23",
-      "hot_value": "466171",
+      "title": "重器 流氓罪死刑",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%99%A8+%E6%B5%81%E6%B0%93%E7%BD%AA%E6%AD%BB%E5%88%91%23",
+      "hot_value": "293439",
       "index": 10
     },
     {
       "title": "易立竞当面拆穿蓝盈莹",
       "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%AB%8B%E7%AB%9E%E5%BD%93%E9%9D%A2%E6%8B%86%E7%A9%BF%E8%93%9D%E7%9B%88%E8%8E%B9%23",
-      "hot_value": "457276",
+      "hot_value": "293404",
       "index": 11
     },
     {
-      "title": "3孩非亲生女方认为男方理应养孩子",
-      "url": "https://s.weibo.com/weibo?q=%233%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E6%96%B9%E8%AE%A4%E4%B8%BA%E7%94%B7%E6%96%B9%E7%90%86%E5%BA%94%E5%85%BB%E5%AD%A9%E5%AD%90%23",
-      "hot_value": "454180",
+      "title": "幸运咖 阴阳瑞幸",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B8%E8%BF%90%E5%92%96+%E9%98%B4%E9%98%B3%E7%91%9E%E5%B9%B8%23",
+      "hot_value": "293296",
       "index": 12
+    },
+    {
+      "title": "林志颖说林俊杰女友很乖很腼腆",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%AF%B4%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A5%B3%E5%8F%8B%E5%BE%88%E4%B9%96%E5%BE%88%E8%85%BC%E8%85%86%23",
+      "hot_value": "293230",
+      "index": 13
     },
     {
       "title": "刘亦菲素颜穿79.8元防晒衣",
       "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%B4%A0%E9%A2%9C%E7%A9%BF79.8%E5%85%83%E9%98%B2%E6%99%92%E8%A1%A3%23",
-      "hot_value": "445064",
-      "index": 13
+      "hot_value": "293098",
+      "index": 14
+    },
+    {
+      "title": "BBA集体大降价",
+      "url": "https://s.weibo.com/weibo?q=%23BBA%E9%9B%86%E4%BD%93%E5%A4%A7%E9%99%8D%E4%BB%B7%23",
+      "hot_value": "293011",
+      "index": 15
+    },
+    {
+      "title": "胡先煦这么帅了",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E8%BF%99%E4%B9%88%E5%B8%85%E4%BA%86%23",
+      "hot_value": "292951",
+      "index": 16
     },
     {
       "title": "贺涵PPT做得太丑了",
       "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E6%B6%B5PPT%E5%81%9A%E5%BE%97%E5%A4%AA%E4%B8%91%E4%BA%86%23",
-      "hot_value": "437220",
-      "index": 14
-    },
-    {
-      "title": "高考只差一分却过上了两种人生",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%8F%AA%E5%B7%AE%E4%B8%80%E5%88%86%E5%8D%B4%E8%BF%87%E4%B8%8A%E4%BA%86%E4%B8%A4%E7%A7%8D%E4%BA%BA%E7%94%9F%23",
-      "hot_value": "435205",
-      "index": 15
-    },
-    {
-      "title": "在华18年日本人参拜靖国神社",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8D%8E18%E5%B9%B4%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%23",
-      "hot_value": "427839",
-      "index": 16
-    },
-    {
-      "title": "吴建豪回应妻子被曝学历造假",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BB%BA%E8%B1%AA%E5%9B%9E%E5%BA%94%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%AD%A6%E5%8E%86%E9%80%A0%E5%81%87%23",
-      "hot_value": "423785",
+      "hot_value": "292833",
       "index": 17
+    },
+    {
+      "title": "红车误入婚车车队成主角",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%BD%A6%E8%AF%AF%E5%85%A5%E5%A9%9A%E8%BD%A6%E8%BD%A6%E9%98%9F%E6%88%90%E4%B8%BB%E8%A7%92%23",
+      "hot_value": "292735",
+      "index": 18
     },
     {
       "title": "时代峰峻半夜发招聘",
       "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%8D%8A%E5%A4%9C%E5%8F%91%E6%8B%9B%E8%81%98%23",
-      "hot_value": "410992",
-      "index": 18
-    },
-    {
-      "title": "为什么榴莲降价反而吐槽多了",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A6%B4%E8%8E%B2%E9%99%8D%E4%BB%B7%E5%8F%8D%E8%80%8C%E5%90%90%E6%A7%BD%E5%A4%9A%E4%BA%86%23",
-      "hot_value": "409030",
+      "hot_value": "292717",
       "index": 19
     },
     {
       "title": "带摄像头AirPods实机演示曝光",
       "url": "https://s.weibo.com/weibo?q=%23%E5%B8%A6%E6%91%84%E5%83%8F%E5%A4%B4AirPods%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E6%9B%9D%E5%85%89%23",
-      "hot_value": "407353",
+      "hot_value": "273057",
       "index": 20
+    },
+    {
+      "title": "法国婚姻制度致全民搭伙时代来临",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%A9%9A%E5%A7%BB%E5%88%B6%E5%BA%A6%E8%87%B4%E5%85%A8%E6%B0%91%E6%90%AD%E4%BC%99%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4%23",
+      "hot_value": "272425",
+      "index": 21
     },
     {
       "title": "张若昀白客玩蔡徐坤梗",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%99%BD%E5%AE%A2%E7%8E%A9%E8%94%A1%E5%BE%90%E5%9D%A4%E6%A2%97%23",
-      "hot_value": "404767",
-      "index": 21
-    },
-    {
-      "title": "顶替案弟弟称哥哥上大学时曾感激自己",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A1%B6%E6%9B%BF%E6%A1%88%E5%BC%9F%E5%BC%9F%E7%A7%B0%E5%93%A5%E5%93%A5%E4%B8%8A%E5%A4%A7%E5%AD%A6%E6%97%B6%E6%9B%BE%E6%84%9F%E6%BF%80%E8%87%AA%E5%B7%B1%23",
-      "hot_value": "402645",
+      "hot_value": "270941",
       "index": 22
     },
     {
       "title": "刘亦菲高定是工作防晒衣是生活",
       "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%AB%98%E5%AE%9A%E6%98%AF%E5%B7%A5%E4%BD%9C%E9%98%B2%E6%99%92%E8%A1%A3%E6%98%AF%E7%94%9F%E6%B4%BB%23",
-      "hot_value": "401910",
+      "hot_value": "267571",
       "index": 23
-    },
-    {
-      "title": "招商蛇口总部开展调查",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E6%80%BB%E9%83%A8%E5%BC%80%E5%B1%95%E8%B0%83%E6%9F%A5%23",
-      "hot_value": "388368",
-      "index": 24
-    },
-    {
-      "title": "李嫣几乎看不见唇腭裂修复痕迹",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AB%A3%E5%87%A0%E4%B9%8E%E7%9C%8B%E4%B8%8D%E8%A7%81%E5%94%87%E8%85%AD%E8%A3%82%E4%BF%AE%E5%A4%8D%E7%97%95%E8%BF%B9%23",
-      "hot_value": "364445",
-      "index": 25
-    },
-    {
-      "title": "林志颖说kimi不想出道",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%AF%B4kimi%E4%B8%8D%E6%83%B3%E5%87%BA%E9%81%93%23",
-      "hot_value": "355077",
-      "index": 26
-    },
-    {
-      "title": "赵海峰酒局 拿地潜规则",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%B5%B7%E5%B3%B0%E9%85%92%E5%B1%80+%E6%8B%BF%E5%9C%B0%E6%BD%9C%E8%A7%84%E5%88%99%23",
-      "hot_value": "344813",
-      "index": 27
-    },
-    {
-      "title": "红车误入婚车车队成主角",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%BD%A6%E8%AF%AF%E5%85%A5%E5%A9%9A%E8%BD%A6%E8%BD%A6%E9%98%9F%E6%88%90%E4%B8%BB%E8%A7%92%23",
-      "hot_value": "318997",
-      "index": 28
     },
     {
       "title": "BBA大降价 宝马5系跌至28万",
       "url": "https://s.weibo.com/weibo?q=%23BBA%E5%A4%A7%E9%99%8D%E4%BB%B7+%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%B7%8C%E8%87%B328%E4%B8%87%23",
-      "hot_value": "317875",
+      "hot_value": "249135",
+      "index": 24
+    },
+    {
+      "title": "林志颖说kimi不想出道",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E8%AF%B4kimi%E4%B8%8D%E6%83%B3%E5%87%BA%E9%81%93%23",
+      "hot_value": "249043",
+      "index": 25
+    },
+    {
+      "title": "吴建豪回应妻子被曝学历造假",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BB%BA%E8%B1%AA%E5%9B%9E%E5%BA%94%E5%A6%BB%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%AD%A6%E5%8E%86%E9%80%A0%E5%81%87%23",
+      "hot_value": "242266",
+      "index": 26
+    },
+    {
+      "title": "在华18年日本人参拜靖国神社",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8D%8E18%E5%B9%B4%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%23",
+      "hot_value": "235159",
+      "index": 27
+    },
+    {
+      "title": "朱镕基同志生平",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%23",
+      "hot_value": "233661",
+      "index": 28
+    },
+    {
+      "title": "李嫣几乎看不见唇腭裂修复痕迹",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AB%A3%E5%87%A0%E4%B9%8E%E7%9C%8B%E4%B8%8D%E8%A7%81%E5%94%87%E8%85%AD%E8%A3%82%E4%BF%AE%E5%A4%8D%E7%97%95%E8%BF%B9%23",
+      "hot_value": "233045",
       "index": 29
     },
     {
       "title": "王橹杰比董洁亲儿子还小一岁",
       "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%AF%94%E8%91%A3%E6%B4%81%E4%BA%B2%E5%84%BF%E5%AD%90%E8%BF%98%E5%B0%8F%E4%B8%80%E5%B2%81%23",
-      "hot_value": "295862",
+      "hot_value": "229728",
       "index": 30
     }
   ]

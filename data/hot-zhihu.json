@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-18T06:35:31Z",
+  "update_time": "2026-08-18T07:33:39Z",
   "count": 30,
   "list": [
     {
-      "title": "天安门下半旗悼念朱镕基同志",
-      "url": "https://www.zhihu.com/pin/2072973976771610297?page=video_pin&scene=share",
-      "hot_value": "1451 万热度",
-      "index": 1
-    },
-    {
       "title": "如何看待瑞幸七夕联名小众情侣 IP 陷争议，被指画风撞款多部日漫且被吐槽给陌生人随份子钱，官方仍合作？",
       "url": "https://www.zhihu.com/question/2072637486740632508",
-      "hot_value": "480 万热度",
-      "index": 2
+      "hot_value": "494 万热度",
+      "index": 1
     },
     {
       "title": "特斯拉为什么不上新车型，不配置冰箱彩电大沙发？",
       "url": "https://www.zhihu.com/question/2065004542933067231",
-      "hot_value": "355 万热度",
-      "index": 3
-    },
-    {
-      "title": "《欢迎来龙餐馆》中徐福救下 23 个孩子这一桥段，是不是有点过于理想化了？",
-      "url": "https://www.zhihu.com/question/2072342392380905179",
-      "hot_value": "256 万热度",
-      "index": 4
+      "hot_value": "371 万热度",
+      "index": 2
     },
     {
       "title": "宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？",
       "url": "https://www.zhihu.com/question/2072693901802958901",
-      "hot_value": "255 万热度",
+      "hot_value": "271 万热度",
+      "index": 3
+    },
+    {
+      "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
+      "url": "https://www.zhihu.com/question/2072631801164424275",
+      "hot_value": "267 万热度",
+      "index": 4
+    },
+    {
+      "title": "《欢迎来龙餐馆》中徐福救下 23 个孩子这一桥段，是不是有点过于理想化了？",
+      "url": "https://www.zhihu.com/question/2072342392380905179",
+      "hot_value": "253 万热度",
       "index": 5
     },
     {
       "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
       "url": "https://www.zhihu.com/question/2072650616367853898",
-      "hot_value": "248 万热度",
+      "hot_value": "202 万热度",
       "index": 6
     },
     {
       "title": "招商蛇口浙江公司负责人赵某峰涉嫌商务饭局中侵犯女性，目前已被免职，接受警方调查，有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2072862065841198775",
-      "hot_value": "244 万热度",
+      "hot_value": "177 万热度",
       "index": 7
-    },
-    {
-      "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
-      "url": "https://www.zhihu.com/question/2072631801164424275",
-      "hot_value": "240 万热度",
-      "index": 8
     },
     {
       "title": "有研究表示伟哥成分「西地那非」或能抑制癌细胞转移扩散，距离真正用于临床癌症治疗还差什么？",
       "url": "https://www.zhihu.com/question/2070200885368419979",
-      "hot_value": "238 万热度",
+      "hot_value": "152 万热度",
+      "index": 8
+    },
+    {
+      "title": "各地陆续推进老旧小区加装电梯，为什么有人积极支持，也有人坚决反对？",
+      "url": "https://www.zhihu.com/question/2032416857903342263",
+      "hot_value": "127 万热度",
       "index": 9
     },
     {
-      "title": "南宁女患者报警称「被男医生猥亵揉胸」已立案，有哪些信息值得关注？如何保障患者就医安全与权益？",
-      "url": "https://www.zhihu.com/question/2072847028510630765",
+      "title": "如何看待 7 月社会消费品零售总额同比增长 0.6%？",
+      "url": "https://www.zhihu.com/question/2072987795677606877",
       "hot_value": "123 万热度",
       "index": 10
     },
     {
-      "title": "公安部网安局公布 14 起涉企网络谣言案例，对企业会造成哪些影响，又该如何防范？",
-      "url": "https://www.zhihu.com/question/2072971742117622259",
-      "hot_value": "118 万热度",
-      "index": 11
-    },
-    {
       "title": "一台当下最顶尖的电脑能用几年?",
       "url": "https://www.zhihu.com/question/617114261",
-      "hot_value": "106 万热度",
-      "index": 12
+      "hot_value": "110 万热度",
+      "index": 11
     },
     {
       "title": "当章子怡、郝蕾等同代演员纷纷减产，秦海璐今年却佳作不断，原因是什么？该如何评价她的演技与演艺成就？",
       "url": "https://www.zhihu.com/question/2044191556152866765",
       "hot_value": "104 万热度",
-      "index": 13
-    },
-    {
-      "title": "《欢迎来龙餐馆》如果老扎真的是故意把车开去边防军那的，为什么又要假装杀了徐福呢？",
-      "url": "https://www.zhihu.com/question/2071580268717150741",
-      "hot_value": "98 万热度",
-      "index": 14
+      "index": 12
     },
     {
       "title": "C 罗首次透露退役打算，称可能是他踢球的最后一年，未来想多出去旅行并试试板式网球，如何看待这一表态？",
       "url": "https://www.zhihu.com/question/2072641937627165615",
-      "hot_value": "95 万热度",
-      "index": 15
+      "hot_value": "98 万热度",
+      "index": 13
+    },
+    {
+      "title": "公安部网安局公布 14 起涉企网络谣言案例，对企业会造成哪些影响，又该如何防范？",
+      "url": "https://www.zhihu.com/question/2072971742117622259",
+      "hot_value": "91 万热度",
+      "index": 14
     },
     {
       "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
       "url": "https://www.zhihu.com/question/2071509878875615796",
-      "hot_value": "85 万热度",
-      "index": 16
+      "hot_value": "86 万热度",
+      "index": 15
     },
     {
       "title": "中国小将魏祥鑫进入欧塞尔一线队名单，这对他职业生涯意味着什么？",
       "url": "https://www.zhihu.com/question/2071359741088085468",
-      "hot_value": "83 万热度",
-      "index": 17
+      "hot_value": "85 万热度",
+      "index": 16
     },
     {
       "title": "安德鲁·加菲尔德确认愿出演《超凡蜘蛛侠 3》，你认为新片需满足哪些条件？",
       "url": "https://www.zhihu.com/question/2068076216998016621",
-      "hot_value": "82 万热度",
+      "hot_value": "83 万热度",
+      "index": 17
+    },
+    {
+      "title": "汽车实体按键正逐步回归，奥迪、奔驰、大众等表态恢复实体按键，自主品牌新车也恢复部分实体按键，如何解读？",
+      "url": "https://www.zhihu.com/question/2071637667490576051",
+      "hot_value": "76 万热度",
       "index": 18
     },
     {
-      "title": "你认为什么样的孩子后劲最大？",
-      "url": "https://www.zhihu.com/question/758329489",
-      "hot_value": "75 万热度",
+      "title": "如何评价在千禧年经营维修小店的游戏《维修物语》，为什么在游戏里拧螺丝也能上瘾？",
+      "url": "https://www.zhihu.com/question/2068849717677650856",
+      "hot_value": "73 万热度",
       "index": 19
     },
     {
-      "title": "没玩过魔兽世界，请问当年的魔兽世界火到什么程度？",
-      "url": "https://www.zhihu.com/question/2069915734050976319",
-      "hot_value": "67 万热度",
+      "title": "女生怎么穿才显高级感?",
+      "url": "https://www.zhihu.com/question/657834672",
+      "hot_value": "68 万热度",
       "index": 20
+    },
+    {
+      "title": "黄金，到底贵在哪里？",
+      "url": "https://www.zhihu.com/topic/2070529802323194295/hot",
+      "hot_value": "66 万热度",
+      "index": 21
     },
     {
       "title": "顺风车司机中途离车「失联」，女孩车内暴晒 2 小时向家人求救，暴露出顺风车服务哪些问题？",
       "url": "https://www.zhihu.com/question/2072760692617077687",
-      "hot_value": "65 万热度",
-      "index": 21
+      "hot_value": "64 万热度",
+      "index": 22
+    },
+    {
+      "title": "「马云给你 5 亿元花呗额度」和「马化腾给你 1 亿 Q 币」，只能要一个，你要哪个？",
+      "url": "https://www.zhihu.com/question/2063350913864054256",
+      "hot_value": "63 万热度",
+      "index": 23
     },
     {
       "title": "抛开工资不谈，请问你每天坚持上班的目的是什么？",
       "url": "https://www.zhihu.com/question/2072261461347509905",
       "hot_value": "63 万热度",
-      "index": 22
+      "index": 24
+    },
+    {
+      "title": "为什么你对别人越好，别人越不珍惜？",
+      "url": "https://www.zhihu.com/question/2018613518765700984",
+      "hot_value": "61 万热度",
+      "index": 25
+    },
+    {
+      "title": "AI 会不会理解爱？它理解的爱和人类的爱有什么不同？",
+      "url": "https://www.zhihu.com/question/2069194695201252236",
+      "hot_value": "60 万热度",
+      "index": 26
+    },
+    {
+      "title": "《欢迎来龙餐馆》如果老扎真的是故意把车开去边防军那的，为什么又要假装杀了徐福呢？",
+      "url": "https://www.zhihu.com/question/2071580268717150741",
+      "hot_value": "59 万热度",
+      "index": 27
     },
     {
       "title": "参数、功能内卷让洗地机笨重且难用，人体工学洗地机的开创能否让大家实现家务减负？",
       "url": "https://www.zhihu.com/question/2072709719777724364",
-      "hot_value": "61 万热度",
-      "index": 23
-    },
-    {
-      "title": "如何评价《海贼王》漫画最新的第 1191 话情报？",
-      "url": "https://www.zhihu.com/question/2072913624373511042",
-      "hot_value": "58 万热度",
-      "index": 24
-    },
-    {
-      "title": "如何评价《原神》新角色薇斯纳立绘？",
-      "url": "https://www.zhihu.com/question/2072655542170955852",
-      "hot_value": "58 万热度",
-      "index": 25
-    },
-    {
-      "title": "地球的哪些资源在目前已知的宇宙里属于稀罕物？",
-      "url": "https://www.zhihu.com/question/2059467655065625666",
-      "hot_value": "57 万热度",
-      "index": 26
-    },
-    {
-      "title": "为什么现在小区车位，越来越卖不动了？",
-      "url": "https://www.zhihu.com/question/2050150582917259779",
-      "hot_value": "56 万热度",
-      "index": 27
-    },
-    {
-      "title": "拿到驾照第一年上高速，副驾必须坐三年老司机，这个规定合理吗？",
-      "url": "https://www.zhihu.com/question/2069553185765725614",
-      "hot_value": "56 万热度",
+      "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "「宝宝水」在母婴市场走红，宣传「低钠淡矿无菌」适合婴幼儿，这是刚需还是智商税？婴幼儿需要饮用特殊水吗？",
-      "url": "https://www.zhihu.com/question/2072684358503248323",
-      "hot_value": "56 万热度",
+      "title": "你认为什么样的孩子后劲最大？",
+      "url": "https://www.zhihu.com/question/758329489",
+      "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-      "url": "https://www.zhihu.com/question/2072103596481683649",
-      "hot_value": "56 万热度",
+      "title": "没玩过魔兽世界，请问当年的魔兽世界火到什么程度？",
+      "url": "https://www.zhihu.com/question/2069915734050976319",
+      "hot_value": "57 万热度",
       "index": 30
     }
   ]
