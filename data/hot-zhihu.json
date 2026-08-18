@@ -1,91 +1,91 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-18T14:28:14Z",
+  "update_time": "2026-08-18T15:02:45Z",
   "count": 30,
   "list": [
     {
       "title": "朱镕基同志遗体在京火化",
       "url": "https://zhuanlan.zhihu.com/p/2073063979505787803",
-      "hot_value": "1306 万热度",
+      "hot_value": "1359 万热度",
       "index": 1
     },
     {
       "title": "康师傅、统一方便面业务上半年双双增长，是什么原因让方便面再度「香」起来？",
       "url": "https://www.zhihu.com/question/2070835091132125605",
-      "hot_value": "811 万热度",
+      "hot_value": "860 万热度",
       "index": 2
     },
     {
       "title": "官方调整住房公积金政策，租房提取公积金取消收入比例门槛，装修自住住房可提取公积金，哪些变化值得关注？",
       "url": "https://www.zhihu.com/question/2073094932298822565",
-      "hot_value": "359 万热度",
+      "hot_value": "404 万热度",
       "index": 3
     },
     {
-      "title": "小米集团第二季度总收入 1089 亿元，经调整净利润 62 亿元，如何评价其业绩表现？",
-      "url": "https://www.zhihu.com/question/2073101523161192426",
-      "hot_value": "203 万热度",
+      "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
+      "url": "https://www.zhihu.com/question/29983694",
+      "hot_value": "217 万热度",
       "index": 4
     },
     {
       "title": "如何看待王传君近年来多次与爱情公寓和解？为什么感觉他这几年 CUE 到爱情公寓比邓家佳孙艺洲等人还要多？",
       "url": "https://www.zhihu.com/question/2072445082930881876",
-      "hot_value": "199 万热度",
+      "hot_value": "216 万热度",
       "index": 5
     },
     {
-      "title": "官方通报杭州酒局事件，赵某峰、郁某栋已被刑拘，二人对被害人实施强制猥亵并致其受伤，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2073089501455504915",
-      "hot_value": "198 万热度",
+      "title": "小米集团第二季度总收入 1089 亿元，经调整净利润 62 亿元，如何评价其业绩表现？",
+      "url": "https://www.zhihu.com/question/2073101523161192426",
+      "hot_value": "215 万热度",
       "index": 6
     },
     {
-      "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
-      "url": "https://www.zhihu.com/question/29983694",
-      "hot_value": "196 万热度",
+      "title": "日本正式实施高端机床出口管制新规，这意味着什么？",
+      "url": "https://www.zhihu.com/question/2069052566969885450",
+      "hot_value": "180 万热度",
       "index": 7
     },
     {
       "title": "档案袋被长辈不慎拆开，毕业生崩溃大吼，学生的档案袋里都有什么？不小心被拆开后如何补救？",
       "url": "https://www.zhihu.com/question/2072646823832031784",
-      "hot_value": "134 万热度",
+      "hot_value": "146 万热度",
       "index": 8
     },
     {
       "title": "榴莲价格大幅回落，多地金枕榴莲售价降至 19.9 元一斤，为什么会降这么多？你最近买了吗？",
       "url": "https://www.zhihu.com/question/2072774044961788460",
-      "hot_value": "130 万热度",
+      "hot_value": "132 万热度",
       "index": 9
     },
     {
-      "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
-      "url": "https://www.zhihu.com/question/2072631801164424275",
-      "hot_value": "127 万热度",
+      "title": "如果没有中科大，合肥会沦为南昌，石家庄，太原之类二流城市，失去如今地位与潜力吗？科大是决定性要素吗？",
+      "url": "https://www.zhihu.com/question/2069629696732553285",
+      "hot_value": "111 万热度",
       "index": 10
     },
     {
       "title": "继林肯号后，华盛顿号航母也被曝厕所卫生状况恶劣，美航母卫生条件为啥这么差？会影响其在中东的军事部署吗？",
       "url": "https://www.zhihu.com/question/2073037772835615238",
-      "hot_value": "122 万热度",
+      "hot_value": "109 万热度",
       "index": 11
     },
     {
       "title": "日媒称日本在「汇率战争」中「战败」，日本经济面临怎样的两难困境？",
       "url": "https://www.zhihu.com/question/2071248008604292675",
-      "hot_value": "117 万热度",
+      "hot_value": "108 万热度",
       "index": 12
     },
     {
-      "title": "如果没有中科大，合肥会沦为南昌，石家庄，太原之类二流城市，失去如今地位与潜力吗？科大是决定性要素吗？",
-      "url": "https://www.zhihu.com/question/2069629696732553285",
-      "hot_value": "107 万热度",
+      "title": "官方通报杭州酒局事件，赵某峰、郁某栋已被刑拘，二人对被害人实施强制猥亵并致其受伤，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2073089501455504915",
+      "hot_value": "104 万热度",
       "index": 13
     },
     {
-      "title": "招商蛇口浙江公司负责人赵某峰涉嫌商务饭局中侵犯女性，目前已被免职，接受警方调查，有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2072862065841198775",
-      "hot_value": "102 万热度",
+      "title": "汽车实体按键正逐步回归，奥迪、奔驰、大众等表态恢复实体按键，自主品牌新车也恢复部分实体按键，如何解读？",
+      "url": "https://www.zhihu.com/question/2071637667490576051",
+      "hot_value": "97 万热度",
       "index": 14
     },
     {
@@ -95,92 +95,92 @@
       "index": 15
     },
     {
-      "title": "汽车实体按键正逐步回归，奥迪、奔驰、大众等表态恢复实体按键，自主品牌新车也恢复部分实体按键，如何解读？",
-      "url": "https://www.zhihu.com/question/2071637667490576051",
-      "hot_value": "90 万热度",
+      "title": "菲尔兹奖得主谈「人工智能可能会杀死数学」，您如何看待这个问题？",
+      "url": "https://www.zhihu.com/question/2065714833606104237",
+      "hot_value": "80 万热度",
       "index": 16
     },
     {
       "title": "「结婚 8 年 3 孩均非亲生」案女方当庭承认出轨，主张男方在婚内已知晓孩子非亲生，这会怎样影响法律判定？",
       "url": "https://www.zhihu.com/question/2072954269062230612",
-      "hot_value": "88 万热度",
+      "hot_value": "80 万热度",
       "index": 17
     },
     {
       "title": "某酸奶因宣传「促进消化」被罚，酸奶中含有乳酸菌能帮助消化不是常识吗？",
       "url": "https://www.zhihu.com/question/2070999506716291233",
-      "hot_value": "87 万热度",
+      "hot_value": "80 万热度",
       "index": 18
     },
     {
-      "title": "重庆哪个瞬间让你觉得「这座城市真的暖到我了」？",
-      "url": "https://www.zhihu.com/question/2072654411457881134",
-      "hot_value": "86 万热度",
+      "title": "《欢迎来龙餐馆》里，赛夫最后说服了 23 个孩子一起逃跑，在密谋的时候，就不怕这些孩子们向校长告密吗？",
+      "url": "https://www.zhihu.com/question/2072103867731244388",
+      "hot_value": "80 万热度",
       "index": 19
     },
     {
-      "title": "菲尔兹奖得主谈「人工智能可能会杀死数学」，您如何看待这个问题？",
-      "url": "https://www.zhihu.com/question/2065714833606104237",
-      "hot_value": "79 万热度",
+      "title": "招商蛇口浙江公司负责人赵某峰涉嫌商务饭局中侵犯女性，目前已被免职，接受警方调查，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2072862065841198775",
+      "hot_value": "75 万热度",
       "index": 20
     },
     {
       "title": "顺风车司机中途离车「失联」，女孩车内暴晒 2 小时向家人求救，暴露出顺风车服务哪些问题？",
       "url": "https://www.zhihu.com/question/2072760692617077687",
-      "hot_value": "78 万热度",
+      "hot_value": "74 万热度",
       "index": 21
     },
     {
       "title": "BBA 集体大降价，宝马 5 系跌至 28 万、奔驰 E 级优惠超 10 万，传统豪华车的价格体系是如何走向瓦解的？",
       "url": "https://www.zhihu.com/question/2073013614953359329",
-      "hot_value": "78 万热度",
+      "hot_value": "73 万热度",
       "index": 22
     },
     {
-      "title": "《欢迎来龙餐馆》里，赛夫最后说服了 23 个孩子一起逃跑，在密谋的时候，就不怕这些孩子们向校长告密吗？",
-      "url": "https://www.zhihu.com/question/2072103867731244388",
-      "hot_value": "76 万热度",
+      "title": "重庆哪个瞬间让你觉得「这座城市真的暖到我了」？",
+      "url": "https://www.zhihu.com/question/2072654411457881134",
+      "hot_value": "71 万热度",
       "index": 23
-    },
-    {
-      "title": "宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？",
-      "url": "https://www.zhihu.com/question/2072693901802958901",
-      "hot_value": "70 万热度",
-      "index": 24
     },
     {
       "title": "工作中遇到问题或困难，你会主动请教，还是自己默默解决?",
       "url": "https://www.zhihu.com/question/2029326923981922397",
-      "hot_value": "63 万热度",
+      "hot_value": "66 万热度",
+      "index": 24
+    },
+    {
+      "title": "宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？",
+      "url": "https://www.zhihu.com/question/2072693901802958901",
+      "hot_value": "59 万热度",
       "index": 25
     },
     {
-      "title": "AI 会不会理解爱？它理解的爱和人类的爱有什么不同？",
-      "url": "https://www.zhihu.com/question/2069194695201252236",
-      "hot_value": "58 万热度",
+      "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
+      "url": "https://www.zhihu.com/question/2072631801164424275",
+      "hot_value": "59 万热度",
       "index": 26
     },
     {
-      "title": "揭穿谎言一定会毁掉一段关系，沉默隐忍又会不断委屈自己，该怎么办？",
-      "url": "https://www.zhihu.com/question/2054659050693042628",
-      "hot_value": "58 万热度",
+      "title": "如何评价《影之刃零》的索尼 State of Play 专场发布会，都有哪些亮点？",
+      "url": "https://www.zhihu.com/question/2072981880291472040",
+      "hot_value": "57 万热度",
       "index": 27
     },
     {
-      "title": "抛开工资不谈，请问你每天坚持上班的目的是什么？",
-      "url": "https://www.zhihu.com/question/2072261461347509905",
+      "title": "如何看待苏群说「 大环境已变，中国男篮不可能再有规划，未来 10 年都很难再有」？",
+      "url": "https://www.zhihu.com/question/2072793303968396338",
       "hot_value": "57 万热度",
       "index": 28
     },
     {
-      "title": "如何评价《原神》8 月 18 日发布的「幽歌萦渊•沃雅妮莎」立绘？",
-      "url": "https://www.zhihu.com/question/2073017006383689729",
+      "title": "AI 会把数学领域「低垂的果实」全部摘走么？",
+      "url": "https://www.zhihu.com/question/2072668885459760739",
       "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "容声方糖 2.0 冰箱，净味除菌天花板到底是不是名副其实？",
-      "url": "https://www.zhihu.com/question/2072825127176352860",
+      "title": "美伊战争第 6 个月，为什么航母的水兵先撑不住了？",
+      "url": "https://www.zhihu.com/question/2071509878875615796",
       "hot_value": "57 万热度",
       "index": 30
     }
