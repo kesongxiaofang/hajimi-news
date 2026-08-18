@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-18T23:17:33Z",
+  "update_time": "2026-08-18T23:45:00Z",
   "count": 30,
   "list": [
     {
-      "title": "【问苍生】我这一生最大的罪，是把人写成了妖……",
-      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "4044036播放",
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "hot_value": "3120692播放",
       "index": 1
     },
     {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "2976282播放",
+      "title": "萨特：当所有人都在定义你，你还能怎么做自己？",
+      "url": "https://www.bilibili.com/video/BV1pN8g6yE7m",
+      "hot_value": "1180626播放",
       "index": 2
     },
     {
-      "title": "忍术回战   26分钟沉浸式观看",
-      "url": "https://www.bilibili.com/video/BV1GNbv6ZE1N",
-      "hot_value": "2246949播放",
+      "title": "《商务柔道》",
+      "url": "https://www.bilibili.com/video/BV1cqb86hE8B",
+      "hot_value": "3933540播放",
       "index": 3
     },
     {
       "title": "【独家】《百日成王》第17集 每一场应援就像一场战斗！【7月国创】",
       "url": "https://www.bilibili.com/video/BV1ndgp68EVE",
-      "hot_value": "794578播放",
+      "hot_value": "797350播放",
       "index": 4
     },
     {
       "title": "地球毁灭后，人类只剩四条路｜你会把文明带向哪里？",
       "url": "https://www.bilibili.com/video/BV1DTbv6xEHK",
-      "hot_value": "3378538播放",
+      "hot_value": "3398455播放",
       "index": 5
+    },
+    {
+      "title": "忍术回战   26分钟沉浸式观看",
+      "url": "https://www.bilibili.com/video/BV1GNbv6ZE1N",
+      "hot_value": "2268641播放",
+      "index": 6
     },
     {
       "title": "我们不欢迎这样的客人，也不赚这种米",
       "url": "https://www.bilibili.com/video/BV1Neba63EDK",
-      "hot_value": "3052615播放",
-      "index": 6
-    },
-    {
-      "title": "《商务柔道》",
-      "url": "https://www.bilibili.com/video/BV1cqb86hE8B",
-      "hot_value": "3866624播放",
+      "hot_value": "3067695播放",
       "index": 7
-    },
-    {
-      "title": "《鸣潮》共鸣者「清宵」PV | 修行",
-      "url": "https://www.bilibili.com/video/BV1GFbk6LEVm",
-      "hot_value": "2147315播放",
-      "index": 8
     },
     {
       "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
-      "hot_value": "1663699播放",
+      "hot_value": "1679257播放",
+      "index": 8
+    },
+    {
+      "title": "第一视角看高中生抢饭（夜宵版）",
+      "url": "https://www.bilibili.com/video/BV12Eb26mEVT",
+      "hot_value": "1771428播放",
       "index": 9
     },
     {
-      "title": "萨特：当所有人都在定义你，你还能怎么做自己？",
-      "url": "https://www.bilibili.com/video/BV1pN8g6yE7m",
-      "hot_value": "1114904播放",
+      "title": "《鸣潮》共鸣者「清宵」PV | 修行",
+      "url": "https://www.bilibili.com/video/BV1GFbk6LEVm",
+      "hot_value": "2155183播放",
       "index": 10
     },
     {
       "title": "绝境降临！狭小缆车空间怎样熬过危机四伏的一百天！！「缆车惊变100天」",
       "url": "https://www.bilibili.com/video/BV1gibB6PEih",
-      "hot_value": "799032播放",
+      "hot_value": "809711播放",
       "index": 11
+    },
+    {
+      "title": "我看看谁错字了！",
+      "url": "https://www.bilibili.com/video/BV14Z8u6JEu4",
+      "hot_value": "706263播放",
+      "index": 12
+    },
+    {
+      "title": "《如常运转｜正常運転》MV：全世界都会震惊于日本的灾后重建速度",
+      "url": "https://www.bilibili.com/video/BV1h88g6tEQv",
+      "hot_value": "459070播放",
+      "index": 13
     },
     {
       "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1wrba6iE56",
-      "hot_value": "4610989播放",
-      "index": 12
-    },
-    {
-      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
-      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
-      "hot_value": "13285149播放",
-      "index": 13
-    },
-    {
-      "title": "第一视角看高中生抢饭（夜宵版）",
-      "url": "https://www.bilibili.com/video/BV12Eb26mEVT",
-      "hot_value": "1718473播放",
+      "hot_value": "4628519播放",
       "index": 14
+    },
+    {
+      "title": "一期疯了的读评论！",
+      "url": "https://www.bilibili.com/video/BV1SR8u6HE5h",
+      "hot_value": "385648播放",
+      "index": 15
     },
     {
       "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
       "url": "https://www.bilibili.com/video/BV1Z9gT61EnM",
-      "hot_value": "5240004播放",
-      "index": 15
-    },
-    {
-      "title": "音画不同步！为什么视频口型总是怪怪的？",
-      "url": "https://www.bilibili.com/video/BV1A2bi6UEev",
-      "hot_value": "1280683播放",
+      "hot_value": "5251731播放",
       "index": 16
-    },
-    {
-      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV18Tby67EG9",
-      "hot_value": "6358690播放",
-      "index": 17
-    },
-    {
-      "title": "特效小哥大战逗比的雀巢！",
-      "url": "https://www.bilibili.com/video/BV1mkbQ6iEWJ",
-      "hot_value": "1874815播放",
-      "index": 18
     },
     {
       "title": "意外穿越怪谈世界，十二星座决定你的专属变身 第二期 （下） ASMR",
       "url": "https://www.bilibili.com/video/BV1ynbv62EUZ",
-      "hot_value": "1516644播放",
+      "hot_value": "1534137播放",
+      "index": 17
+    },
+    {
+      "title": "我把你们对铜的逆天想法都做到了MC里...?!🤣",
+      "url": "https://www.bilibili.com/video/BV1fFbr6sEp9",
+      "hot_value": "472102播放",
+      "index": 18
+    },
+    {
+      "title": "魅力四射",
+      "url": "https://www.bilibili.com/video/BV1aEba6HEez",
+      "hot_value": "1750132播放",
       "index": 19
     },
     {
-      "title": "周处除三害现实版，我们干掉他了！",
-      "url": "https://www.bilibili.com/video/BV1VfbR6pEw9",
-      "hot_value": "2294327播放",
+      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
+      "hot_value": "13293443播放",
       "index": 20
     },
     {
       "title": "70亿Token，B站网友教我做了个AI军官来监督学习【B站AI创造公开赛】",
       "url": "https://www.bilibili.com/video/BV1XUgg61E3G",
-      "hot_value": "663365播放",
+      "hot_value": "676281播放",
       "index": 21
     },
     {
-      "title": "当搞艺术的一切需求得到满足",
-      "url": "https://www.bilibili.com/video/BV1DybY6pEiA",
-      "hot_value": "2599916播放",
+      "title": "音画不同步！为什么视频口型总是怪怪的？",
+      "url": "https://www.bilibili.com/video/BV1A2bi6UEev",
+      "hot_value": "1290154播放",
       "index": 22
     },
     {
-      "title": "我看看谁错字了！",
-      "url": "https://www.bilibili.com/video/BV14Z8u6JEu4",
-      "hot_value": "674300播放",
+      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV18Tby67EG9",
+      "hot_value": "6368415播放",
       "index": 23
     },
     {
       "title": "欢迎来龙餐馆！世界眼中的中国，与中国眼中的世界",
       "url": "https://www.bilibili.com/video/BV1sw8g62EFg",
-      "hot_value": "538709播放",
+      "hot_value": "554514播放",
       "index": 24
     },
     {
       "title": "挑战中国菜 第一期！“可乐鸡翅”",
       "url": "https://www.bilibili.com/video/BV1GdbX62EAK",
-      "hot_value": "1890323播放",
+      "hot_value": "1911786播放",
       "index": 25
     },
     {
-      "title": "微酸的青苹果",
-      "url": "https://www.bilibili.com/video/BV1Dxbe6sEgk",
-      "hot_value": "1513826播放",
+      "title": "特效小哥大战逗比的雀巢！",
+      "url": "https://www.bilibili.com/video/BV1mkbQ6iEWJ",
+      "hot_value": "1879010播放",
       "index": 26
+    },
+    {
+      "title": "周处除三害现实版，我们干掉他了！",
+      "url": "https://www.bilibili.com/video/BV1VfbR6pEw9",
+      "hot_value": "2300115播放",
+      "index": 27
     },
     {
       "title": "差点被系统误判扣分了，还好机制公平没冤枉我",
       "url": "https://www.bilibili.com/video/BV1Zibv6iE55",
-      "hot_value": "1147744播放",
-      "index": 27
-    },
-    {
-      "title": "这个旅游包活吗？？？【听天由命1】",
-      "url": "https://www.bilibili.com/video/BV1SBbS6hEHa",
-      "hot_value": "2009266播放",
+      "hot_value": "1162516播放",
       "index": 28
     },
     {
-      "title": "不缩小20倍，我也吃不了这么多呀……#全世界都吃不下，只有我吃到服务器瘫痪",
-      "url": "https://www.bilibili.com/video/BV1RDb86DE3X",
-      "hot_value": "1628966播放",
+      "title": "当搞艺术的一切需求得到满足",
+      "url": "https://www.bilibili.com/video/BV1DybY6pEiA",
+      "hot_value": "2605768播放",
       "index": 29
     },
     {
       "title": "龙 餐 馆 连 线 勇 哥",
       "url": "https://www.bilibili.com/video/BV1o8b96pEQA",
-      "hot_value": "3964035播放",
+      "hot_value": "3974143播放",
       "index": 30
     }
   ]
