@@ -1,91 +1,91 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-19T04:06:40Z",
+  "update_time": "2026-08-19T05:01:41Z",
   "count": 30,
   "list": [
     {
       "title": "朱雀三号成功回收，我国首次实现火箭陆地回收，这一突破对我国航天意味着什么？",
       "url": "https://www.zhihu.com/question/2073315140213150893",
-      "hot_value": "3776 万热度",
+      "hot_value": "4015 万热度",
       "index": 1
-    },
-    {
-      "title": "小熊电器净利暴跌 41%，那些曾风靡一时的网红小家电为何集体「吃灰」？大家的消费选择发生了怎样的变化？",
-      "url": "https://www.zhihu.com/question/2072348658851436420",
-      "hot_value": "636 万热度",
-      "index": 2
     },
     {
       "title": "宇树科技上市，高开 629% ，总市值达 4449 亿，如何评价其市场表现？",
       "url": "https://www.zhihu.com/question/2073342345676682493",
-      "hot_value": "452 万热度",
+      "hot_value": "751 万热度",
+      "index": 2
+    },
+    {
+      "title": "小熊电器净利暴跌 41%，那些曾风靡一时的网红小家电为何集体「吃灰」？大家的消费选择发生了怎样的变化？",
+      "url": "https://www.zhihu.com/question/2072348658851436420",
+      "hot_value": "693 万热度",
       "index": 3
     },
     {
       "title": "如何看待胖东来澄清称招聘不包含性侵、严重暴力等犯罪人员？这一回应能打消此前的质疑吗？",
       "url": "https://www.zhihu.com/question/2073306220648035519",
-      "hot_value": "342 万热度",
+      "hot_value": "423 万热度",
       "index": 4
     },
     {
       "title": "弟弟举报哥哥冒名上大学案开庭，母亲称弟弟嫌农村人穷，究竟谁在说谎？",
       "url": "https://www.zhihu.com/question/2073048947094992599",
-      "hot_value": "328 万热度",
+      "hot_value": "418 万热度",
       "index": 5
-    },
-    {
-      "title": "档案袋被长辈不慎拆开，毕业生崩溃大吼，学生的档案袋里都有什么？不小心被拆开后如何补救？",
-      "url": "https://www.zhihu.com/question/2072646823832031784",
-      "hot_value": "306 万热度",
-      "index": 6
     },
     {
       "title": "不理解林肯号上的士兵为啥后勤稍微差一点就无法忍受了，不就是水果、日用品短缺吗？",
       "url": "https://www.zhihu.com/question/2072772925095163211",
-      "hot_value": "298 万热度",
+      "hot_value": "347 万热度",
+      "index": 6
+    },
+    {
+      "title": "档案袋被长辈不慎拆开，毕业生崩溃大吼，学生的档案袋里都有什么？不小心被拆开后如何补救？",
+      "url": "https://www.zhihu.com/question/2072646823832031784",
+      "hot_value": "308 万热度",
       "index": 7
     },
     {
       "title": "为什么一年一熟的东北是我国储备粮基地，其他一年多熟的地区能否成为粮仓？",
       "url": "https://www.zhihu.com/question/339610440",
-      "hot_value": "271 万热度",
+      "hot_value": "279 万热度",
       "index": 8
-    },
-    {
-      "title": "转转回收 RTX5090 仅报 1.3 万元引网友热议，二手平台定价是否合理？",
-      "url": "https://www.zhihu.com/question/2072656350430115792",
-      "hot_value": "243 万热度",
-      "index": 9
     },
     {
       "title": "九部门联手力挺县域消费，推动就业创业、增强城镇市场消费力，县域经济要迎来新风口了吗？",
       "url": "https://www.zhihu.com/question/2073086191856100727",
-      "hot_value": "233 万热度",
+      "hot_value": "250 万热度",
+      "index": 9
+    },
+    {
+      "title": "转转回收 RTX5090 仅报 1.3 万元引网友热议，二手平台定价是否合理？",
+      "url": "https://www.zhihu.com/question/2072656350430115792",
+      "hot_value": "241 万热度",
       "index": 10
     },
     {
       "title": "互联网大厂开始后悔搞 AI 了吗？",
       "url": "https://www.zhihu.com/question/2053164433577338668",
-      "hot_value": "205 万热度",
+      "hot_value": "225 万热度",
       "index": 11
     },
     {
-      "title": "如何评价发售一年后国产单机游戏《明末：渊虚之羽》开始风评反转？",
-      "url": "https://www.zhihu.com/question/2072786503843984063",
-      "hot_value": "154 万热度",
+      "title": "四川长宁县一升学宴女儿墙倒塌致 5 人死亡，女儿墙是什么？此次事故暴露了哪些安全隐患？",
+      "url": "https://www.zhihu.com/question/2073336794163012345",
+      "hot_value": "192 万热度",
       "index": 12
     },
     {
       "title": "上海 2026 社保基数下限调整为 7546 元 / 月，平均工资首次突破 12500 元大关，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2073315945364156524",
-      "hot_value": "150 万热度",
+      "hot_value": "171 万热度",
       "index": 13
     },
     {
       "title": "电影《欢迎来龙餐馆》结尾赛夫没有回头，你如何理解导演的这一处理方式？",
       "url": "https://www.zhihu.com/question/2072409293882762928",
-      "hot_value": "143 万热度",
+      "hot_value": "155 万热度",
       "index": 14
     },
     {
@@ -95,93 +95,93 @@
       "index": 15
     },
     {
-      "title": "伊朗称「美军比想象中更弱」，这一判断基于哪些事实，反映出美军的何种现状？",
-      "url": "https://www.zhihu.com/question/2071850141703729771",
-      "hot_value": "132 万热度",
+      "title": "作为医生，你在面对患者的哪一瞬间感到自己「学得还不够」？医生如何与日新月异的医学知识共存？",
+      "url": "https://www.zhihu.com/question/2070101073088475524",
+      "hot_value": "116 万热度",
       "index": 16
     },
     {
       "title": "如何看待马龙注销了名下的无锡华彩工作体育文化工作室？",
       "url": "https://www.zhihu.com/question/2072609279006319921",
-      "hot_value": "130 万热度",
+      "hot_value": "115 万热度",
       "index": 17
     },
     {
       "title": "《甄嬛传》中的瑛贵人，死的冤吗？为什么？",
       "url": "https://www.zhihu.com/question/1904204757645653460",
-      "hot_value": "129 万热度",
+      "hot_value": "114 万热度",
       "index": 18
     },
     {
-      "title": "胖东来胜诉经济学家宋清辉侵犯名誉权，法院判赔 30 万元并登报致歉，这对公众人物的商业评论有何影响？",
-      "url": "https://www.zhihu.com/question/2072673321167106436",
-      "hot_value": "129 万热度",
+      "title": "三体人为什么敢光明正大地侵略地球？",
+      "url": "https://www.zhihu.com/question/1981098534339114904",
+      "hot_value": "113 万热度",
       "index": 19
     },
     {
-      "title": "作为医生，你在面对患者的哪一瞬间感到自己「学得还不够」？医生如何与日新月异的医学知识共存？",
-      "url": "https://www.zhihu.com/question/2070101073088475524",
-      "hot_value": "129 万热度",
+      "title": "天蚕土豆新书更新 8 天吸流 1100 多万，这是成功了吗？",
+      "url": "https://www.zhihu.com/question/2072223568478332548",
+      "hot_value": "113 万热度",
       "index": 20
     },
     {
       "title": "BBA 集体大降价，宝马 5 系跌至 28 万、奔驰 E 级优惠超 10 万，传统豪华车的价格体系是如何走向瓦解的？",
       "url": "https://www.zhihu.com/question/2073013614953359329",
-      "hot_value": "129 万热度",
+      "hot_value": "113 万热度",
       "index": 21
     },
     {
-      "title": "三体人为什么敢光明正大地侵略地球？",
-      "url": "https://www.zhihu.com/question/1981098534339114904",
-      "hot_value": "129 万热度",
+      "title": "伊朗称「美军比想象中更弱」，这一判断基于哪些事实，反映出美军的何种现状？",
+      "url": "https://www.zhihu.com/question/2071850141703729771",
+      "hot_value": "112 万热度",
       "index": 22
     },
     {
-      "title": "天蚕土豆新书更新 8 天吸流 1100 多万，这是成功了吗？",
-      "url": "https://www.zhihu.com/question/2072223568478332548",
-      "hot_value": "128 万热度",
-      "index": 23
-    },
-    {
-      "title": "为什么动漫里的人物放技能要先喊技能名称？",
-      "url": "https://www.zhihu.com/question/2065442748187127951",
+      "title": "如何评价发售一年后国产单机游戏《明末：渊虚之羽》开始风评反转？",
+      "url": "https://www.zhihu.com/question/2072786503843984063",
       "hot_value": "112 万热度",
-      "index": 24
-    },
-    {
-      "title": "宁王称「Bin 性格是打职业被惯出来的」，如何看待电竞选手的性格养成？",
-      "url": "https://www.zhihu.com/question/2064323285223994411",
-      "hot_value": "111 万热度",
-      "index": 25
+      "index": 23
     },
     {
       "title": "免费的 deepseek 能比得上 200 美元 / 月的 ChatGPT 吗？",
       "url": "https://www.zhihu.com/question/14194805205",
-      "hot_value": "109 万热度",
-      "index": 26
-    },
-    {
-      "title": "你觉得《欢迎来龙餐馆》中的老扎该算好人还是坏人？为什么他的立场总是反复摇摆？",
-      "url": "https://www.zhihu.com/question/2072697982588122695",
-      "hot_value": "92 万热度",
-      "index": 27
+      "hot_value": "112 万热度",
+      "index": 24
     },
     {
       "title": "七夕送礼，你有没有收到过因为自己一句无心的话，而被对象默默实现的惊喜？",
       "url": "https://www.zhihu.com/question/2073041227931559152",
-      "hot_value": "90 万热度",
+      "hot_value": "89 万热度",
+      "index": 25
+    },
+    {
+      "title": "GPT‑5.6 Sol 原本支持 1M 上下文，Codex 现已放开此前限制，如何看待这次调整？",
+      "url": "https://www.zhihu.com/question/2072570556805915209",
+      "hot_value": "87 万热度",
+      "index": 26
+    },
+    {
+      "title": "媒体人评论男篮长集训「本质是表演」，此言论反映了中国篮球哪些现状？",
+      "url": "https://www.zhihu.com/question/2072836046593725745",
+      "hot_value": "87 万热度",
+      "index": 27
+    },
+    {
+      "title": "Anthropic 单季营收 115 亿美元，同比暴涨 14 倍，估值 2 万亿美元以上或超 SpaceX，如何解读？",
+      "url": "https://www.zhihu.com/question/2071956776942035553",
+      "hot_value": "80 万热度",
       "index": 28
     },
     {
-      "title": "为什么老一辈厌恶游戏?",
-      "url": "https://www.zhihu.com/question/2055910921130842003",
-      "hot_value": "78 万热度",
+      "title": "想问一下大家有什么养孩子偷懒的方法？",
+      "url": "https://www.zhihu.com/question/2071141683786469802",
+      "hot_value": "79 万热度",
       "index": 29
     },
     {
-      "title": "如何看待王传君近年来多次与爱情公寓和解？为什么感觉他这几年 CUE 到爱情公寓比邓家佳孙艺洲等人还要多？",
-      "url": "https://www.zhihu.com/question/2072445082930881876",
-      "hot_value": "77 万热度",
+      "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
+      "url": "https://www.zhihu.com/question/2072027645802452564",
+      "hot_value": "78 万热度",
       "index": 30
     }
   ]
