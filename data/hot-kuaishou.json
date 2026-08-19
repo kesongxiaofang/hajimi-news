@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-08-19T14:28:16Z",
+  "update_time": "2026-08-19T15:02:59Z",
   "count": 30,
   "list": [
     {
       "title": "今天是七夕节",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%83%E5%A4%95%E8%8A%82",
-      "hot_value": "1,279.3万",
+      "hot_value": "1,265万",
       "index": 1
     },
     {
       "title": "央视七夕晚会",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%AE%E8%A7%86%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A",
-      "hot_value": "1,249万",
+      "hot_value": "1,234.9万",
       "index": 2
     },
     {
       "title": "我国首次实现火箭陆地回收",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6",
-      "hot_value": "1,187.9万",
+      "hot_value": "1,198.2万",
       "index": 3
-    },
-    {
-      "title": "宇树科技上市首日市值突破3400亿",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B43400%E4%BA%BF",
-      "hot_value": "1,163.5万",
-      "index": 4
     },
     {
       "title": "第18号台风沙德尔生成",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AC%AC18%E5%8F%B7%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E7%94%9F%E6%88%90",
-      "hot_value": "1,151.2万",
-      "index": 5
+      "hot_value": "1,150.2万",
+      "index": 4
     },
     {
       "title": "石家庄居民楼坍塌致3人死亡",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B1%85%E6%B0%91%E6%A5%BC%E5%9D%8D%E5%A1%8C%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-      "hot_value": "1,130.8万",
+      "hot_value": "1,131.8万",
+      "index": 5
+    },
+    {
+      "title": "那个被说笨的小孩成了90后新首富",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%A3%E4%B8%AA%E8%A2%AB%E8%AF%B4%E7%AC%A8%E7%9A%84%E5%B0%8F%E5%AD%A9%E6%88%90%E4%BA%8690%E5%90%8E%E6%96%B0%E9%A6%96%E5%AF%8C",
+      "hot_value": "1,125.9万",
       "index": 6
     },
     {
       "title": "光合嘉年华全阵容官宣",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%85%89%E5%90%88%E5%98%89%E5%B9%B4%E5%8D%8E%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3",
-      "hot_value": "1,117.4万",
+      "hot_value": "1,114.7万",
       "index": 7
     },
     {
-      "title": "那个被说笨的小孩成了90后新首富",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%A3%E4%B8%AA%E8%A2%AB%E8%AF%B4%E7%AC%A8%E7%9A%84%E5%B0%8F%E5%AD%A9%E6%88%90%E4%BA%8690%E5%90%8E%E6%96%B0%E9%A6%96%E5%AF%8C",
-      "hot_value": "1,109.6万",
+      "title": "七夕一定要鲜花吗",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%83%E5%A4%95%E4%B8%80%E5%AE%9A%E8%A6%81%E9%B2%9C%E8%8A%B1%E5%90%97",
+      "hot_value": "1,109.7万",
       "index": 8
+    },
+    {
+      "title": "微信开放七夕520大额红包",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BE%AE%E4%BF%A1%E5%BC%80%E6%94%BE%E4%B8%83%E5%A4%95520%E5%A4%A7%E9%A2%9D%E7%BA%A2%E5%8C%85",
+      "hot_value": "1,091.5万",
+      "index": 9
     },
     {
       "title": "亚楠还是太权威了",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BA%9A%E6%A5%A0%E8%BF%98%E6%98%AF%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86",
-      "hot_value": "1,108.3万",
-      "index": 9
-    },
-    {
-      "title": "稻米节音乐会",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A8%BB%E7%B1%B3%E8%8A%82%E9%9F%B3%E4%B9%90%E4%BC%9A",
-      "hot_value": "1,079.1万",
+      "hot_value": "1,037.5万",
       "index": 10
     },
     {
       "title": "台风吹落风力发电机的桨叶系谣言",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%90%BD%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA%E7%9A%84%E6%A1%A8%E5%8F%B6%E7%B3%BB%E8%B0%A3%E8%A8%80",
-      "hot_value": "1,049.8万",
+      "hot_value": "1,028.9万",
       "index": 11
     },
     {
       "title": "全快手都在接王兴兴事业运",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%85%A8%E5%BF%AB%E6%89%8B%E9%83%BD%E5%9C%A8%E6%8E%A5%E7%8E%8B%E5%85%B4%E5%85%B4%E4%BA%8B%E4%B8%9A%E8%BF%90",
-      "hot_value": "1,043.7万",
+      "hot_value": "1,027.1万",
       "index": 12
     },
     {
-      "title": "有毛孩子在七夕处处是温柔",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%89%E6%AF%9B%E5%AD%A9%E5%AD%90%E5%9C%A8%E4%B8%83%E5%A4%95%E5%A4%84%E5%A4%84%E6%98%AF%E6%B8%A9%E6%9F%94",
-      "hot_value": "1,019.7万",
+      "title": "也是你超甜手势舞",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B9%9F%E6%98%AF%E4%BD%A0%E8%B6%85%E7%94%9C%E6%89%8B%E5%8A%BF%E8%88%9E",
+      "hot_value": "1,002.8万",
       "index": 13
-    },
-    {
-      "title": "七夕节爱人亦爱己",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%83%E5%A4%95%E8%8A%82%E7%88%B1%E4%BA%BA%E4%BA%A6%E7%88%B1%E5%B7%B1",
-      "hot_value": "1,017万",
-      "index": 14
     },
     {
       "title": "李永金同志逝世",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E6%B0%B8%E9%87%91%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96",
-      "hot_value": "1,014.1万",
-      "index": 15
-    },
-    {
-      "title": "干娘带你看七夕线下脱单盛况",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%B2%E5%A8%98%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%83%E5%A4%95%E7%BA%BF%E4%B8%8B%E8%84%B1%E5%8D%95%E7%9B%9B%E5%86%B5",
-      "hot_value": "1,009.1万",
-      "index": 16
-    },
-    {
-      "title": "曝迪丽热巴陈飞宇要见家长了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E9%A3%9E%E5%AE%87%E8%A6%81%E8%A7%81%E5%AE%B6%E9%95%BF%E4%BA%86",
-      "hot_value": "1,006.4万",
-      "index": 17
-    },
-    {
-      "title": "闺蜜宣言挑战",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%97%BA%E8%9C%9C%E5%AE%A3%E8%A8%80%E6%8C%91%E6%88%98",
-      "hot_value": "1,004万",
-      "index": 18
-    },
-    {
-      "title": "中国经济正步步向前",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%AD%A3%E6%AD%A5%E6%AD%A5%E5%90%91%E5%89%8D",
-      "hot_value": "1,001.7万",
-      "index": 19
+      "hot_value": "1,000.6万",
+      "index": 14
     },
     {
       "title": "央视七夕晚会节目单公开",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%AE%E8%A7%86%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%BC%80",
-      "hot_value": "998.8万",
-      "index": 20
+      "hot_value": "998.1万",
+      "index": 15
     },
     {
-      "title": "台风沙德尔会抵达江浙沪吗",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E4%BC%9A%E6%8A%B5%E8%BE%BE%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%90%97",
-      "hot_value": "990.5万",
-      "index": 21
+      "title": "曝迪丽热巴陈飞宇要见家长了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E9%A3%9E%E5%AE%87%E8%A6%81%E8%A7%81%E5%AE%B6%E9%95%BF%E4%BA%86",
+      "hot_value": "991.5万",
+      "index": 16
     },
     {
-      "title": "微信开放七夕520大额红包",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BE%AE%E4%BF%A1%E5%BC%80%E6%94%BE%E4%B8%83%E5%A4%95520%E5%A4%A7%E9%A2%9D%E7%BA%A2%E5%8C%85",
-      "hot_value": "988.1万",
-      "index": 22
-    },
-    {
-      "title": "内蒙古29年命案告破",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%85%E8%92%99%E5%8F%A429%E5%B9%B4%E5%91%BD%E6%A1%88%E5%91%8A%E7%A0%B4",
-      "hot_value": "985.8万",
-      "index": 23
-    },
-    {
-      "title": "尘封25年枪击案被重启调查",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%98%E5%B0%8125%E5%B9%B4%E6%9E%AA%E5%87%BB%E6%A1%88%E8%A2%AB%E9%87%8D%E5%90%AF%E8%B0%83%E6%9F%A5",
-      "hot_value": "982.9万",
-      "index": 24
+      "title": "七夕节爱人亦爱己",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%83%E5%A4%95%E8%8A%82%E7%88%B1%E4%BA%BA%E4%BA%A6%E7%88%B1%E5%B7%B1",
+      "hot_value": "988.6万",
+      "index": 17
     },
     {
       "title": "宇树科技中一签赚47万",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E8%B5%9A47%E4%B8%87",
-      "hot_value": "980.7万",
-      "index": 25
+      "hot_value": "986万",
+      "index": 18
     },
     {
-      "title": "姐姐给你一颗靠近你的心",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A7%90%E5%A7%90%E7%BB%99%E4%BD%A0%E4%B8%80%E9%A2%97%E9%9D%A0%E8%BF%91%E4%BD%A0%E7%9A%84%E5%BF%83",
-      "hot_value": "973.4万",
-      "index": 26
+      "title": "干娘带你看七夕线下脱单盛况",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%B2%E5%A8%98%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%83%E5%A4%95%E7%BA%BF%E4%B8%8B%E8%84%B1%E5%8D%95%E7%9B%9B%E5%86%B5",
+      "hot_value": "982.9万",
+      "index": 19
     },
     {
-      "title": "深圳地铁站火了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E7%AB%99%E7%81%AB%E4%BA%86",
-      "hot_value": "970.8万",
-      "index": 27
+      "title": "中国经济正步步向前",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%AD%A3%E6%AD%A5%E6%AD%A5%E5%90%91%E5%89%8D",
+      "hot_value": "981.2万",
+      "index": 20
     },
     {
-      "title": "别人的七夕vs我的七夕",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%AB%E4%BA%BA%E7%9A%84%E4%B8%83%E5%A4%95vs%E6%88%91%E7%9A%84%E4%B8%83%E5%A4%95",
-      "hot_value": "968.2万",
-      "index": 28
+      "title": "赵露思过七夕打了一套组合拳",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%BF%87%E4%B8%83%E5%A4%95%E6%89%93%E4%BA%86%E4%B8%80%E5%A5%97%E7%BB%84%E5%90%88%E6%8B%B3",
+      "hot_value": "981.1万",
+      "index": 21
+    },
+    {
+      "title": "闺蜜宣言挑战",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%97%BA%E8%9C%9C%E5%AE%A3%E8%A8%80%E6%8C%91%E6%88%98",
+      "hot_value": "976.6万",
+      "index": 22
+    },
+    {
+      "title": "稻米节音乐会",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A8%BB%E7%B1%B3%E8%8A%82%E9%9F%B3%E4%B9%90%E4%BC%9A",
+      "hot_value": "974.4万",
+      "index": 23
     },
     {
       "title": "宇树科技正在批量造富",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E9%80%A0%E5%AF%8C",
-      "hot_value": "965.4万",
+      "hot_value": "972.3万",
+      "index": 24
+    },
+    {
+      "title": "内蒙古29年命案告破",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%85%E8%92%99%E5%8F%A429%E5%B9%B4%E5%91%BD%E6%A1%88%E5%91%8A%E7%A0%B4",
+      "hot_value": "969.4万",
+      "index": 25
+    },
+    {
+      "title": "尘封25年枪击案被重启调查",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%98%E5%B0%8125%E5%B9%B4%E6%9E%AA%E5%87%BB%E6%A1%88%E8%A2%AB%E9%87%8D%E5%90%AF%E8%B0%83%E6%9F%A5",
+      "hot_value": "964.9万",
+      "index": 26
+    },
+    {
+      "title": "宇树科技上市首日市值突破3400亿",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B43400%E4%BA%BF",
+      "hot_value": "957.4万",
+      "index": 27
+    },
+    {
+      "title": "深圳地铁站火了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E7%AB%99%E7%81%AB%E4%BA%86",
+      "hot_value": "955.3万",
+      "index": 28
+    },
+    {
+      "title": "台风沙德尔会抵达江浙沪吗",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E4%BC%9A%E6%8A%B5%E8%BE%BE%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%90%97",
+      "hot_value": "952.4万",
       "index": 29
     },
     {
       "title": "稻米节快手定制节目向着光",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A8%BB%E7%B1%B3%E8%8A%82%E5%BF%AB%E6%89%8B%E5%AE%9A%E5%88%B6%E8%8A%82%E7%9B%AE%E5%90%91%E7%9D%80%E5%85%89",
-      "hot_value": "962.7万",
+      "hot_value": "949.1万",
       "index": 30
     }
   ]
