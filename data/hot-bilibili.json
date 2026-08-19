@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-19T13:40:21Z",
+  "update_time": "2026-08-19T14:28:16Z",
   "count": 30,
   "list": [
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "5871435播放",
+      "hot_value": "5966688播放",
       "index": 1
     },
     {
       "title": "《七界梦谭》天上谣三测PV：神仙过招，好戏开场！",
       "url": "https://www.bilibili.com/video/BV1nZb66oEpX",
-      "hot_value": "3186016播放",
+      "hot_value": "3356874播放",
       "index": 2
+    },
+    {
+      "title": "多厨狂喜！舞蹈区顶流锦依卫们来给痒痒鼠庆生啦！",
+      "url": "https://www.bilibili.com/video/BV1Rc8E6JEKV",
+      "hot_value": "450919播放",
+      "index": 3
     },
     {
       "title": "七夕节老番茄就和自己玩游戏",
       "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
-      "hot_value": "1192298播放",
-      "index": 3
-    },
-    {
-      "title": "【TF家族练习生】《突围II破局》EP08：加更",
-      "url": "https://www.bilibili.com/video/BV11Y876BEWA",
-      "hot_value": "314105播放",
+      "hot_value": "1313244播放",
       "index": 4
     },
     {
       "title": "《鸡来》一个半小时超长电影！！！",
       "url": "https://www.bilibili.com/video/BV1NBbe6jEzz",
-      "hot_value": "1209561播放",
+      "hot_value": "1289143播放",
       "index": 5
     },
     {
-      "title": "合资！亏电不到2L油？巨省！",
-      "url": "https://www.bilibili.com/video/BV1NTgw6kEpX",
-      "hot_value": "1670638播放",
+      "title": "双更",
+      "url": "https://www.bilibili.com/video/BV1QK8n69EqF",
+      "hot_value": "170321播放",
       "index": 6
     },
     {
       "title": "我看看谁错字了！",
       "url": "https://www.bilibili.com/video/BV14Z8u6JEu4",
-      "hot_value": "1764180播放",
+      "hot_value": "1842692播放",
       "index": 7
-    },
-    {
-      "title": "【超人盾】第四魂技教学，深蓝武魂融合技，娱乐干货。",
-      "url": "https://www.bilibili.com/video/BV1Rw836vEq1",
-      "hot_value": "1521750播放",
-      "index": 8
-    },
-    {
-      "title": "韩国从黄金时代到黑铁",
-      "url": "https://www.bilibili.com/video/BV1RV876HEd5",
-      "hot_value": "954858播放",
-      "index": 9
-    },
-    {
-      "title": "花41元从中国坐火车去蒙古国，曾经的蒙古帝国现在怎么样了，当地人真实生活又如何",
-      "url": "https://www.bilibili.com/video/BV1XbgF6SEfr",
-      "hot_value": "2257620播放",
-      "index": 10
-    },
-    {
-      "title": "【萌黄一槽】享受痛觉吧！飞段[晓·三]全技能爆料！",
-      "url": "https://www.bilibili.com/video/BV1vT836AEJf",
-      "hot_value": "1548091播放",
-      "index": 11
-    },
-    {
-      "title": "一种很“嘉豪”的合成方式",
-      "url": "https://www.bilibili.com/video/BV18obz6BEiR",
-      "hot_value": "2317763播放",
-      "index": 12
-    },
-    {
-      "title": "好专业的煎饼果子来一套",
-      "url": "https://www.bilibili.com/video/BV18UgK6cEX8",
-      "hot_value": "634496播放",
-      "index": 13
-    },
-    {
-      "title": "《商务柔道》",
-      "url": "https://www.bilibili.com/video/BV1cqb86hE8B",
-      "hot_value": "5983627播放",
-      "index": 14
-    },
-    {
-      "title": "❤爱可以找到完美时间线❤",
-      "url": "https://www.bilibili.com/video/BV1Lt8G6BEGD",
-      "hot_value": "1123230播放",
-      "index": 15
-    },
-    {
-      "title": "我们不欢迎这样的客人，也不赚这种米",
-      "url": "https://www.bilibili.com/video/BV1Neba63EDK",
-      "hot_value": "3719099播放",
-      "index": 16
-    },
-    {
-      "title": "跟着学，你在家也能做出红亮油润、香辣扑鼻的辣椒油#热门 #美食",
-      "url": "https://www.bilibili.com/video/BV1928u6oEw3",
-      "hot_value": "1624446播放",
-      "index": 17
     },
     {
       "title": "《如常运转｜正常運転》MV：全世界都会震惊于日本的灾后重建速度",
       "url": "https://www.bilibili.com/video/BV1h88g6tEQv",
-      "hot_value": "1587495播放",
-      "index": 18
+      "hot_value": "1634808播放",
+      "index": 8
     },
     {
       "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
       "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
-      "hot_value": "14171066播放",
+      "hot_value": "14257364播放",
+      "index": 9
+    },
+    {
+      "title": "一种很“嘉豪”的合成方式",
+      "url": "https://www.bilibili.com/video/BV18obz6BEiR",
+      "hot_value": "2381464播放",
+      "index": 10
+    },
+    {
+      "title": "你们忍得住不说吗？",
+      "url": "https://www.bilibili.com/video/BV1u4876CE5w",
+      "hot_value": "368749播放",
+      "index": 11
+    },
+    {
+      "title": "跟着学，你在家也能做出红亮油润、香辣扑鼻的辣椒油#热门 #美食",
+      "url": "https://www.bilibili.com/video/BV1928u6oEw3",
+      "hot_value": "1678447播放",
+      "index": 12
+    },
+    {
+      "title": "【TF家族练习生】《突围II破局》EP08：加更",
+      "url": "https://www.bilibili.com/video/BV11Y876BEWA",
+      "hot_value": "386634播放",
+      "index": 13
+    },
+    {
+      "title": "韩国从黄金时代到黑铁",
+      "url": "https://www.bilibili.com/video/BV1RV876HEd5",
+      "hot_value": "1021288播放",
+      "index": 14
+    },
+    {
+      "title": "【萌黄一槽】享受痛觉吧！飞段[晓·三]全技能爆料！",
+      "url": "https://www.bilibili.com/video/BV1vT836AEJf",
+      "hot_value": "1615236播放",
+      "index": 15
+    },
+    {
+      "title": "花41元从中国坐火车去蒙古国，曾经的蒙古帝国现在怎么样了，当地人真实生活又如何",
+      "url": "https://www.bilibili.com/video/BV1XbgF6SEfr",
+      "hot_value": "2369069播放",
+      "index": 16
+    },
+    {
+      "title": "《商务柔道》",
+      "url": "https://www.bilibili.com/video/BV1cqb86hE8B",
+      "hot_value": "6073752播放",
+      "index": 17
+    },
+    {
+      "title": "【超人盾】第四魂技教学，深蓝武魂融合技，娱乐干货。",
+      "url": "https://www.bilibili.com/video/BV1Rw836vEq1",
+      "hot_value": "1630535播放",
+      "index": 18
+    },
+    {
+      "title": "我们不欢迎这样的客人，也不赚这种米",
+      "url": "https://www.bilibili.com/video/BV1Neba63EDK",
+      "hot_value": "3763969播放",
       "index": 19
-    },
-    {
-      "title": "【时代少年团】《浅炸一下吧！》82：家有七宝庆七夕",
-      "url": "https://www.bilibili.com/video/BV13x8765ExH",
-      "hot_value": "229115播放",
-      "index": 20
-    },
-    {
-      "title": "不用手机，我们能只靠「默契」找到彼此吗？（!! ° ꒳ ° ）",
-      "url": "https://www.bilibili.com/video/BV1vi8j6mExL",
-      "hot_value": "137141播放",
-      "index": 21
-    },
-    {
-      "title": "疾风借用了泉奈的写轮眼去打航天 ⚡️以防你不知道三角洲也有条疯狗⚡️",
-      "url": "https://www.bilibili.com/video/BV11s836SEbk",
-      "hot_value": "396291播放",
-      "index": 22
     },
     {
       "title": "《影之刃零》专场 State of Play 全程回顾",
       "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "4486537播放",
-      "index": 23
+      "hot_value": "4555843播放",
+      "index": 20
     },
     {
       "title": "忍术回战   26分钟沉浸式观看",
       "url": "https://www.bilibili.com/video/BV1GNbv6ZE1N",
-      "hot_value": "3023415播放",
-      "index": 24
-    },
-    {
-      "title": "怪谈逃生指南第一期：《恶魔法典》",
-      "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
-      "hot_value": "193594播放",
-      "index": 25
-    },
-    {
-      "title": "萨特：当所有人都在定义你，你还能怎么做自己？",
-      "url": "https://www.bilibili.com/video/BV1pN8g6yE7m",
-      "hot_value": "2467321播放",
-      "index": 26
+      "hot_value": "3060645播放",
+      "index": 21
     },
     {
       "title": "顺直大改造-反畸形审美，棒打高街帝少萝cp！",
       "url": "https://www.bilibili.com/video/BV1e18u6tEi7",
-      "hot_value": "1267024播放",
-      "index": 27
+      "hot_value": "1318315播放",
+      "index": 22
     },
     {
-      "title": "我把你们对铜的逆天想法都做到了MC里...?!🤣",
-      "url": "https://www.bilibili.com/video/BV1fFbr6sEp9",
-      "hot_value": "2960711播放",
-      "index": 28
-    },
-    {
-      "title": "当搞艺术的一切需求得到满足",
-      "url": "https://www.bilibili.com/video/BV1DybY6pEiA",
-      "hot_value": "3617622播放",
-      "index": 29
+      "title": "疾风借用了泉奈的写轮眼去打航天 ⚡️以防你不知道三角洲也有条疯狗⚡️",
+      "url": "https://www.bilibili.com/video/BV11s836SEbk",
+      "hot_value": "436347播放",
+      "index": 23
     },
     {
       "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
-      "hot_value": "2119412播放",
+      "hot_value": "2149817播放",
+      "index": 24
+    },
+    {
+      "title": "我把你们对铜的逆天想法都做到了MC里...?!🤣",
+      "url": "https://www.bilibili.com/video/BV1fFbr6sEp9",
+      "hot_value": "3047700播放",
+      "index": 25
+    },
+    {
+      "title": "【时代少年团】《浅炸一下吧！》82：家有七宝庆七夕",
+      "url": "https://www.bilibili.com/video/BV13x8765ExH",
+      "hot_value": "272303播放",
+      "index": 26
+    },
+    {
+      "title": "萨特：当所有人都在定义你，你还能怎么做自己？",
+      "url": "https://www.bilibili.com/video/BV1pN8g6yE7m",
+      "hot_value": "2498927播放",
+      "index": 27
+    },
+    {
+      "title": "怪谈逃生指南第一期：《恶魔法典》",
+      "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
+      "hot_value": "228731播放",
+      "index": 28
+    },
+    {
+      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
+      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
+      "hot_value": "2218295播放",
+      "index": 29
+    },
+    {
+      "title": "当搞艺术的一切需求得到满足",
+      "url": "https://www.bilibili.com/video/BV1DybY6pEiA",
+      "hot_value": "3667528播放",
       "index": 30
     }
   ]
