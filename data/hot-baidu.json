@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-08-19T09:28:53Z",
+  "update_time": "2026-08-19T09:59:32Z",
   "count": 30,
   "list": [
     {
       "title": "您始终有厄瓜多尔这样的朋友",
       "url": "https://www.baidu.com/s?wd=%E6%82%A8%E5%A7%8B%E7%BB%88%E6%9C%89%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E8%BF%99%E6%A0%B7%E7%9A%84%E6%9C%8B%E5%8F%8B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904164",
+      "hot_value": "7904058",
       "index": 1
     },
     {
       "title": "曝韩方性贿赂中国足协人士 足协回应",
       "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%9F%A9%E6%96%B9%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E4%BA%BA%E5%A3%AB+%E8%B6%B3%E5%8D%8F%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7808232",
+      "hot_value": "7807865",
       "index": 2
     },
     {
-      "title": "农村大操大办早该降温了",
-      "url": "https://www.baidu.com/s?wd=%E5%86%9C%E6%9D%91%E5%A4%A7%E6%93%8D%E5%A4%A7%E5%8A%9E%E6%97%A9%E8%AF%A5%E9%99%8D%E6%B8%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7713586",
+      "title": "涉王星案17名嫌疑人被公诉",
+      "url": "https://www.baidu.com/s?wd=%E6%B6%89%E7%8E%8B%E6%98%9F%E6%A1%8817%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%85%AC%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7713697",
       "index": 3
     },
     {
       "title": "全民医保“十五五”规划来了",
       "url": "https://www.baidu.com/s?wd=%E5%85%A8%E6%B0%91%E5%8C%BB%E4%BF%9D%E2%80%9C%E5%8D%81%E4%BA%94%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7619459",
+      "hot_value": "7615845",
       "index": 4
     },
     {
-      "title": "宇树科技首日收涨460.34%",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%A6%96%E6%97%A5%E6%94%B6%E6%B6%A8460.34%25&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7519762",
+      "title": "石家庄坍塌事发地仍有人失联被困",
+      "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%9D%8D%E5%A1%8C%E4%BA%8B%E5%8F%91%E5%9C%B0%E4%BB%8D%E6%9C%89%E4%BA%BA%E5%A4%B1%E8%81%94%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7519621",
       "index": 5
     },
     {
-      "title": "中国兵器 伏羲特种人形机器人",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B5%E5%99%A8+%E4%BC%8F%E7%BE%B2%E7%89%B9%E7%A7%8D%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7427707",
+      "title": "华为“天才少年”回应离职后卖玉米",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E2%80%9C%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E2%80%9D%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C%E5%90%8E%E5%8D%96%E7%8E%89%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7426567",
       "index": 6
     },
     {
       "title": "央视曝光：网红悍马糖竟含处方药",
       "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A%E7%BD%91%E7%BA%A2%E6%82%8D%E9%A9%AC%E7%B3%96%E7%AB%9F%E5%90%AB%E5%A4%84%E6%96%B9%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7331068",
+      "hot_value": "7333128",
       "index": 7
     },
     {
-      "title": "输球不该把火撒在孩子身上",
-      "url": "https://www.baidu.com/s?wd=%E8%BE%93%E7%90%83%E4%B8%8D%E8%AF%A5%E6%8A%8A%E7%81%AB%E6%92%92%E5%9C%A8%E5%AD%A9%E5%AD%90%E8%BA%AB%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7231724",
+      "title": "宇树上市 雷军赚了152亿",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82+%E9%9B%B7%E5%86%9B%E8%B5%9A%E4%BA%86152%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7235259",
       "index": 8
     },
     {
-      "title": "《年会不能停！2》延长上映",
-      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C%EF%BC%812%E3%80%8B%E5%BB%B6%E9%95%BF%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7143561",
+      "title": "王兴兴披红围巾现身宇树上市仪式",
+      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%E6%8A%AB%E7%BA%A2%E5%9B%B4%E5%B7%BE%E7%8E%B0%E8%BA%AB%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7137515",
       "index": 9
     },
     {
       "title": "王力宏和王兴兴坐一桌",
       "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%92%8C%E7%8E%8B%E5%85%B4%E5%85%B4%E5%9D%90%E4%B8%80%E6%A1%8C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7039527",
+      "hot_value": "7039701",
       "index": 10
     },
     {
-      "title": "七夕",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%A4%95&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6947036",
+      "title": "宇树中签投资者清仓净赚37.38万",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%B8%AD%E7%AD%BE%E6%8A%95%E8%B5%84%E8%80%85%E6%B8%85%E4%BB%93%E5%87%80%E8%B5%9A37.38%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6944288",
       "index": 11
     },
     {
       "title": "多所高校发声辟谣",
       "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%8F%91%E5%A3%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6857755",
+      "hot_value": "6855306",
       "index": 12
     },
     {
       "title": "44岁Selina接娃放学大变样",
       "url": "https://www.baidu.com/s?wd=44%E5%B2%81Selina%E6%8E%A5%E5%A8%83%E6%94%BE%E5%AD%A6%E5%A4%A7%E5%8F%98%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6757827",
+      "hot_value": "6753215",
       "index": 13
-    },
-    {
-      "title": "宇树上市 雷军赚了152亿",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82+%E9%9B%B7%E5%86%9B%E8%B5%9A%E4%BA%86152%E4%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6664105",
-      "index": 14
     },
     {
       "title": "医生居家训练一年 高血脂练回正常",
       "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%B1%85%E5%AE%B6%E8%AE%AD%E7%BB%83%E4%B8%80%E5%B9%B4+%E9%AB%98%E8%A1%80%E8%84%82%E7%BB%83%E5%9B%9E%E6%AD%A3%E5%B8%B8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6560189",
+      "hot_value": "6667062",
+      "index": 14
+    },
+    {
+      "title": "输球不该把火撒在孩子身上",
+      "url": "https://www.baidu.com/s?wd=%E8%BE%93%E7%90%83%E4%B8%8D%E8%AF%A5%E6%8A%8A%E7%81%AB%E6%92%92%E5%9C%A8%E5%AD%A9%E5%AD%90%E8%BA%AB%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6566692",
       "index": 15
-    },
-    {
-      "title": "涉王星案17名嫌疑人被公诉",
-      "url": "https://www.baidu.com/s?wd=%E6%B6%89%E7%8E%8B%E6%98%9F%E6%A1%8817%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%85%AC%E8%AF%89&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6477561",
-      "index": 16
-    },
-    {
-      "title": "中方：赞同俄罗斯外长有关涉日表态",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E8%B5%9E%E5%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%9C%89%E5%85%B3%E6%B6%89%E6%97%A5%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6380768",
-      "index": 17
-    },
-    {
-      "title": "华为“天才少年”回应离职后卖玉米",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E2%80%9C%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E2%80%9D%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C%E5%90%8E%E5%8D%96%E7%8E%89%E7%B1%B3&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6282638",
-      "index": 18
     },
     {
       "title": "中央巡查组怒斥企业糊弄都懒得糊弄",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E5%B7%A1%E6%9F%A5%E7%BB%84%E6%80%92%E6%96%A5%E4%BC%81%E4%B8%9A%E7%B3%8A%E5%BC%84%E9%83%BD%E6%87%92%E5%BE%97%E7%B3%8A%E5%BC%84&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6192435",
-      "index": 19
+      "hot_value": "6466192",
+      "index": 16
     },
     {
-      "title": "保时捷回应“2030年前停产Taycan”",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%9B%9E%E5%BA%94%E2%80%9C2030%E5%B9%B4%E5%89%8D%E5%81%9C%E4%BA%A7Taycan%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6082090",
-      "index": 20
-    },
-    {
-      "title": "升学宴事故 邻居孩子被截肢",
-      "url": "https://www.baidu.com/s?wd=%E5%8D%87%E5%AD%A6%E5%AE%B4%E4%BA%8B%E6%95%85+%E9%82%BB%E5%B1%85%E5%AD%A9%E5%AD%90%E8%A2%AB%E6%88%AA%E8%82%A2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5998319",
-      "index": 21
+      "title": "蟒蛇入户狂吃9只鸭子",
+      "url": "https://www.baidu.com/s?wd=%E8%9F%92%E8%9B%87%E5%85%A5%E6%88%B7%E7%8B%82%E5%90%839%E5%8F%AA%E9%B8%AD%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6381633",
+      "index": 17
     },
     {
       "title": "张艾嘉：最有挑战的跨界就是结婚",
       "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BE%E5%98%89%EF%BC%9A%E6%9C%80%E6%9C%89%E6%8C%91%E6%88%98%E7%9A%84%E8%B7%A8%E7%95%8C%E5%B0%B1%E6%98%AF%E7%BB%93%E5%A9%9A&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5890160",
-      "index": 22
+      "hot_value": "6272861",
+      "index": 18
     },
     {
-      "title": "中国实现火箭陆地回收 外媒反应来了",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6+%E5%A4%96%E5%AA%92%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5798992",
-      "index": 23
+      "title": "歌手毕夏首谈丈夫张恒远离世",
+      "url": "https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E6%AF%95%E5%A4%8F%E9%A6%96%E8%B0%88%E4%B8%88%E5%A4%AB%E5%BC%A0%E6%81%92%E8%BF%9C%E7%A6%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6175541",
+      "index": 19
     },
     {
-      "title": "石家庄坍塌事发地仍有人失联被困",
-      "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%9D%8D%E5%A1%8C%E4%BA%8B%E5%8F%91%E5%9C%B0%E4%BB%8D%E6%9C%89%E4%BA%BA%E5%A4%B1%E8%81%94%E8%A2%AB%E5%9B%B0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5717294",
-      "index": 24
+      "title": "笔试前13名全淘汰 倒数5名全逆袭",
+      "url": "https://www.baidu.com/s?wd=%E7%AC%94%E8%AF%95%E5%89%8D13%E5%90%8D%E5%85%A8%E6%B7%98%E6%B1%B0+%E5%80%92%E6%95%B05%E5%90%8D%E5%85%A8%E9%80%86%E8%A2%AD&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6091059",
+      "index": 20
+    },
+    {
+      "title": "集中供冷来了 何时能用上",
+      "url": "https://www.baidu.com/s?wd=%E9%9B%86%E4%B8%AD%E4%BE%9B%E5%86%B7%E6%9D%A5%E4%BA%86+%E4%BD%95%E6%97%B6%E8%83%BD%E7%94%A8%E4%B8%8A&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5988580",
+      "index": 21
     },
     {
       "title": "宇树IPO 王兴兴表情平静得像打工人",
       "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91IPO+%E7%8E%8B%E5%85%B4%E5%85%B4%E8%A1%A8%E6%83%85%E5%B9%B3%E9%9D%99%E5%BE%97%E5%83%8F%E6%89%93%E5%B7%A5%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5617950",
-      "index": 25
+      "hot_value": "5895473",
+      "index": 22
     },
     {
-      "title": "王兴兴 90后新首富",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4+90%E5%90%8E%E6%96%B0%E9%A6%96%E5%AF%8C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5508807",
-      "index": 26
+      "title": "美国制裁赤根智子 日本网民炸锅",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E8%B5%A4%E6%A0%B9%E6%99%BA%E5%AD%90+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%82%B8%E9%94%85&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5803266",
+      "index": 23
     },
     {
-      "title": "宇树中签投资者清仓净赚37.38万",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%B8%AD%E7%AD%BE%E6%8A%95%E8%B5%84%E8%80%85%E6%B8%85%E4%BB%93%E5%87%80%E8%B5%9A37.38%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5415160",
-      "index": 27
-    },
-    {
-      "title": "王兴兴披红围巾现身宇树上市仪式",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%E6%8A%AB%E7%BA%A2%E5%9B%B4%E5%B7%BE%E7%8E%B0%E8%BA%AB%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82%E4%BB%AA%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5319203",
-      "index": 28
-    },
-    {
-      "title": "总台七夕晚会节目单",
-      "url": "https://www.baidu.com/s?wd=%E6%80%BB%E5%8F%B0%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5237338",
-      "index": 29
+      "title": "中国兵器 伏羲特种人形机器人",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%B5%E5%99%A8+%E4%BC%8F%E7%BE%B2%E7%89%B9%E7%A7%8D%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5708280",
+      "index": 24
     },
     {
       "title": "长沙91岁爷爷喊85岁爱妻“镜镜坨”",
       "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%9991%E5%B2%81%E7%88%B7%E7%88%B7%E5%96%8A85%E5%B2%81%E7%88%B1%E5%A6%BB%E2%80%9C%E9%95%9C%E9%95%9C%E5%9D%A8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5131159",
+      "hot_value": "5616311",
+      "index": 25
+    },
+    {
+      "title": "1米28的“村医骑士”",
+      "url": "https://www.baidu.com/s?wd=1%E7%B1%B328%E7%9A%84%E2%80%9C%E6%9D%91%E5%8C%BB%E9%AA%91%E5%A3%AB%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5509253",
+      "index": 26
+    },
+    {
+      "title": "总台七夕晚会节目单",
+      "url": "https://www.baidu.com/s?wd=%E6%80%BB%E5%8F%B0%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5406047",
+      "index": 27
+    },
+    {
+      "title": "宇树科技首日收涨460.34%",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%A6%96%E6%97%A5%E6%94%B6%E6%B6%A8460.34%25&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5319532",
+      "index": 28
+    },
+    {
+      "title": "同济大学 人事改革",
+      "url": "https://www.baidu.com/s?wd=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6+%E4%BA%BA%E4%BA%8B%E6%94%B9%E9%9D%A9&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5241826",
+      "index": 29
+    },
+    {
+      "title": "中国实现火箭陆地回收 外媒反应来了",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6+%E5%A4%96%E5%AA%92%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5122364",
       "index": 30
     }
   ]
