@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-19T07:34:08Z",
+  "update_time": "2026-08-19T08:31:33Z",
   "count": 30,
   "list": [
     {
-      "title": "宇树科技高开629%",
-      "url": "https://www.douyin.com/search/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%AB%98%E5%BC%80629%25?type=general",
-      "hot_value": "11259702",
+      "title": "宇树科技首日收涨460.34%",
+      "url": "https://www.douyin.com/search/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%A6%96%E6%97%A5%E6%94%B6%E6%B6%A8460.34%25?type=general",
+      "hot_value": "12117074",
       "index": 1
     },
     {
-      "title": "今日七夕",
-      "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E4%B8%83%E5%A4%95?type=general",
-      "hot_value": "11125407",
+      "title": "今年第18号台风沙德尔生成",
+      "url": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%AC%AC18%E5%8F%B7%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E7%94%9F%E6%88%90?type=general",
+      "hot_value": "12083868",
       "index": 2
     },
     {
       "title": "中国经济底盘稳动能新",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BA%95%E7%9B%98%E7%A8%B3%E5%8A%A8%E8%83%BD%E6%96%B0?type=general",
-      "hot_value": "11119058",
+      "hot_value": "11087735",
       "index": 3
+    },
+    {
+      "title": "今日七夕",
+      "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E4%B8%83%E5%A4%95?type=general",
+      "hot_value": "10996129",
+      "index": 4
     },
     {
       "title": "我国首次实现火箭陆地回收",
       "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E7%81%AB%E7%AE%AD%E9%99%86%E5%9C%B0%E5%9B%9E%E6%94%B6?type=general",
-      "hot_value": "11002635",
-      "index": 4
-    },
-    {
-      "title": "今年第18号台风沙德尔生成",
-      "url": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%AC%AC18%E5%8F%B7%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E7%94%9F%E6%88%90?type=general",
-      "hot_value": "10423852",
+      "hot_value": "10398258",
       "index": 5
     },
     {
       "title": "我有我的七夕仪式感",
       "url": "https://www.douyin.com/search/%E6%88%91%E6%9C%89%E6%88%91%E7%9A%84%E4%B8%83%E5%A4%95%E4%BB%AA%E5%BC%8F%E6%84%9F?type=general",
-      "hot_value": "10384582",
+      "hot_value": "10394432",
       "index": 6
     },
     {
       "title": "又到了带特产返校的时候了",
       "url": "https://www.douyin.com/search/%E5%8F%88%E5%88%B0%E4%BA%86%E5%B8%A6%E7%89%B9%E4%BA%A7%E8%BF%94%E6%A0%A1%E7%9A%84%E6%97%B6%E5%80%99%E4%BA%86?type=general",
-      "hot_value": "9268245",
+      "hot_value": "9298988",
       "index": 7
     },
     {
       "title": "石家庄一居民楼部分坍塌",
       "url": "https://www.douyin.com/search/%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B8%80%E5%B1%85%E6%B0%91%E6%A5%BC%E9%83%A8%E5%88%86%E5%9D%8D%E5%A1%8C?type=general",
-      "hot_value": "9254105",
+      "hot_value": "9242558",
       "index": 8
     },
     {
       "title": "这场文艺汇演如同百花齐放",
       "url": "https://www.douyin.com/search/%E8%BF%99%E5%9C%BA%E6%96%87%E8%89%BA%E6%B1%87%E6%BC%94%E5%A6%82%E5%90%8C%E7%99%BE%E8%8A%B1%E9%BD%90%E6%94%BE?type=general",
-      "hot_value": "8994252",
+      "hot_value": "9004524",
       "index": 9
     },
     {
       "title": "虹猫蓝兔写给90后00后的一封信",
       "url": "https://www.douyin.com/search/%E8%99%B9%E7%8C%AB%E8%93%9D%E5%85%94%E5%86%99%E7%BB%9990%E5%90%8E00%E5%90%8E%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1?type=general",
-      "hot_value": "8968081",
+      "hot_value": "8982243",
       "index": 10
     },
     {
       "title": "台风沙德尔会抵达江浙沪吗",
       "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E4%BC%9A%E6%8A%B5%E8%BE%BE%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%90%97?type=general",
-      "hot_value": "8218742",
+      "hot_value": "8226050",
       "index": 11
     },
     {
       "title": "车企为什么成为造谣重灾区",
       "url": "https://www.douyin.com/search/%E8%BD%A6%E4%BC%81%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%90%E4%B8%BA%E9%80%A0%E8%B0%A3%E9%87%8D%E7%81%BE%E5%8C%BA?type=general",
-      "hot_value": "7826191",
+      "hot_value": "7832976",
       "index": 12
     },
     {
       "title": "四川一升学宴墙体倒塌 5死17伤",
       "url": "https://www.douyin.com/search/%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%8D%87%E5%AD%A6%E5%AE%B4%E5%A2%99%E4%BD%93%E5%80%92%E5%A1%8C%205%E6%AD%BB17%E4%BC%A4?type=general",
-      "hot_value": "7741522",
+      "hot_value": "7792253",
       "index": 13
     },
     {
-      "title": "师兄太稳健开播",
-      "url": "https://www.douyin.com/search/%E5%B8%88%E5%85%84%E5%A4%AA%E7%A8%B3%E5%81%A5%E5%BC%80%E6%92%AD?type=general",
-      "hot_value": "7737782",
+      "title": "七夕快乐",
+      "url": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90?type=general",
+      "hot_value": "7737984",
       "index": 14
     },
     {
       "title": "升学宴事故亲属说全村人都很悲痛",
       "url": "https://www.douyin.com/search/%E5%8D%87%E5%AD%A6%E5%AE%B4%E4%BA%8B%E6%95%85%E4%BA%B2%E5%B1%9E%E8%AF%B4%E5%85%A8%E6%9D%91%E4%BA%BA%E9%83%BD%E5%BE%88%E6%82%B2%E7%97%9B?type=general",
-      "hot_value": "7734800",
+      "hot_value": "7735458",
       "index": 15
     },
     {
-      "title": "陈新武当选重庆市市长",
-      "url": "https://www.douyin.com/search/%E9%99%88%E6%96%B0%E6%AD%A6%E5%BD%93%E9%80%89%E9%87%8D%E5%BA%86%E5%B8%82%E5%B8%82%E9%95%BF?type=general",
-      "hot_value": "7723641",
+      "title": "火影晓三飞段全技能爆料",
+      "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%99%93%E4%B8%89%E9%A3%9E%E6%AE%B5%E5%85%A8%E6%8A%80%E8%83%BD%E7%88%86%E6%96%99?type=general",
+      "hot_value": "7735292",
       "index": 16
-    },
-    {
-      "title": "火鸡面吃商争霸赛",
-      "url": "https://www.douyin.com/search/%E7%81%AB%E9%B8%A1%E9%9D%A2%E5%90%83%E5%95%86%E4%BA%89%E9%9C%B8%E8%B5%9B?type=general",
-      "hot_value": "7719433",
-      "index": 17
-    },
-    {
-      "title": "七夕礼物有新意",
-      "url": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E7%A4%BC%E7%89%A9%E6%9C%89%E6%96%B0%E6%84%8F?type=general",
-      "hot_value": "7712754",
-      "index": 18
-    },
-    {
-      "title": "七夕花束卷到零食界了",
-      "url": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E8%8A%B1%E6%9D%9F%E5%8D%B7%E5%88%B0%E9%9B%B6%E9%A3%9F%E7%95%8C%E4%BA%86?type=general",
-      "hot_value": "7707765",
-      "index": 19
-    },
-    {
-      "title": "沈文裕默默翻评论满足粉丝点歌",
-      "url": "https://www.douyin.com/search/%E6%B2%88%E6%96%87%E8%A3%95%E9%BB%98%E9%BB%98%E7%BF%BB%E8%AF%84%E8%AE%BA%E6%BB%A1%E8%B6%B3%E7%B2%89%E4%B8%9D%E7%82%B9%E6%AD%8C?type=general",
-      "hot_value": "7704563",
-      "index": 20
-    },
-    {
-      "title": "章子怡230万投资卖出3.05亿",
-      "url": "https://www.douyin.com/search/%E7%AB%A0%E5%AD%90%E6%80%A1230%E4%B8%87%E6%8A%95%E8%B5%84%E5%8D%96%E5%87%BA3.05%E4%BA%BF?type=general",
-      "hot_value": "7701784",
-      "index": 21
     },
     {
       "title": "电影空枪今日上映",
       "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%A9%BA%E6%9E%AA%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0?type=general",
-      "hot_value": "7696874",
+      "hot_value": "7732327",
+      "index": 17
+    },
+    {
+      "title": "陈新武当选重庆市市长",
+      "url": "https://www.douyin.com/search/%E9%99%88%E6%96%B0%E6%AD%A6%E5%BD%93%E9%80%89%E9%87%8D%E5%BA%86%E5%B8%82%E5%B8%82%E9%95%BF?type=general",
+      "hot_value": "7731873",
+      "index": 18
+    },
+    {
+      "title": "火鸡面吃商争霸赛",
+      "url": "https://www.douyin.com/search/%E7%81%AB%E9%B8%A1%E9%9D%A2%E5%90%83%E5%95%86%E4%BA%89%E9%9C%B8%E8%B5%9B?type=general",
+      "hot_value": "7716955",
+      "index": 19
+    },
+    {
+      "title": "七夕花束卷到零食界了",
+      "url": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E8%8A%B1%E6%9D%9F%E5%8D%B7%E5%88%B0%E9%9B%B6%E9%A3%9F%E7%95%8C%E4%BA%86?type=general",
+      "hot_value": "7716885",
+      "index": 20
+    },
+    {
+      "title": "空枪檀健次模仿广西普通话",
+      "url": "https://www.douyin.com/search/%E7%A9%BA%E6%9E%AA%E6%AA%80%E5%81%A5%E6%AC%A1%E6%A8%A1%E4%BB%BF%E5%B9%BF%E8%A5%BF%E6%99%AE%E9%80%9A%E8%AF%9D?type=general",
+      "hot_value": "7713469",
+      "index": 21
+    },
+    {
+      "title": "第五人格加页手记微综艺",
+      "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%8A%A0%E9%A1%B5%E6%89%8B%E8%AE%B0%E5%BE%AE%E7%BB%BC%E8%89%BA?type=general",
+      "hot_value": "7712900",
       "index": 22
     },
     {
-      "title": "火影手游体验服新调整",
-      "url": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E6%89%8B%E6%B8%B8%E4%BD%93%E9%AA%8C%E6%9C%8D%E6%96%B0%E8%B0%83%E6%95%B4?type=general",
-      "hot_value": "7691044",
+      "title": "章子怡230万投资卖出3.05亿",
+      "url": "https://www.douyin.com/search/%E7%AB%A0%E5%AD%90%E6%80%A1230%E4%B8%87%E6%8A%95%E8%B5%84%E5%8D%96%E5%87%BA3.05%E4%BA%BF?type=general",
+      "hot_value": "7712128",
       "index": 23
     },
     {
       "title": "七夕怎么可能和谁过都一样",
       "url": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E6%80%8E%E4%B9%88%E5%8F%AF%E8%83%BD%E5%92%8C%E8%B0%81%E8%BF%87%E9%83%BD%E4%B8%80%E6%A0%B7?type=general",
-      "hot_value": "7690103",
+      "hot_value": "7709345",
       "index": 24
     },
     {
-      "title": "是时候跟上蔡徐坤的old school了",
-      "url": "https://www.douyin.com/search/%E6%98%AF%E6%97%B6%E5%80%99%E8%B7%9F%E4%B8%8A%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9A%84old%20school%E4%BA%86?type=general",
-      "hot_value": "7686381",
+      "title": "拍张写真祝老己七夕快乐",
+      "url": "https://www.douyin.com/search/%E6%8B%8D%E5%BC%A0%E5%86%99%E7%9C%9F%E7%A5%9D%E8%80%81%E5%B7%B1%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90?type=general",
+      "hot_value": "7700993",
       "index": 25
     },
     {
       "title": "包贝尔“翻车”版分离",
       "url": "https://www.douyin.com/search/%E5%8C%85%E8%B4%9D%E5%B0%94%E2%80%9C%E7%BF%BB%E8%BD%A6%E2%80%9D%E7%89%88%E5%88%86%E7%A6%BB?type=general",
-      "hot_value": "7685290",
+      "hot_value": "7695780",
       "index": 26
     },
     {
-      "title": "秦志高妻子大闹别人家婚礼",
-      "url": "https://www.douyin.com/search/%E7%A7%A6%E5%BF%97%E9%AB%98%E5%A6%BB%E5%AD%90%E5%A4%A7%E9%97%B9%E5%88%AB%E4%BA%BA%E5%AE%B6%E5%A9%9A%E7%A4%BC?type=general",
-      "hot_value": "7682885",
+      "title": "是时候跟上蔡徐坤的old school了",
+      "url": "https://www.douyin.com/search/%E6%98%AF%E6%97%B6%E5%80%99%E8%B7%9F%E4%B8%8A%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9A%84old%20school%E4%BA%86?type=general",
+      "hot_value": "7694550",
       "index": 27
-    },
-    {
-      "title": "拍张写真祝老己七夕快乐",
-      "url": "https://www.douyin.com/search/%E6%8B%8D%E5%BC%A0%E5%86%99%E7%9C%9F%E7%A5%9D%E8%80%81%E5%B7%B1%E4%B8%83%E5%A4%95%E5%BF%AB%E4%B9%90?type=general",
-      "hot_value": "7679176",
-      "index": 28
-    },
-    {
-      "title": "田曦薇百万小猫运镜",
-      "url": "https://www.douyin.com/search/%E7%94%B0%E6%9B%A6%E8%96%87%E7%99%BE%E4%B8%87%E5%B0%8F%E7%8C%AB%E8%BF%90%E9%95%9C?type=general",
-      "hot_value": "7678730",
-      "index": 29
     },
     {
       "title": "跟画梅速通油皮养肤攻略",
       "url": "https://www.douyin.com/search/%E8%B7%9F%E7%94%BB%E6%A2%85%E9%80%9F%E9%80%9A%E6%B2%B9%E7%9A%AE%E5%85%BB%E8%82%A4%E6%94%BB%E7%95%A5?type=general",
-      "hot_value": "7675028",
+      "hot_value": "7693401",
+      "index": 28
+    },
+    {
+      "title": "央视七夕晚会节目单",
+      "url": "https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E4%B8%83%E5%A4%95%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95?type=general",
+      "hot_value": "7692213",
+      "index": 29
+    },
+    {
+      "title": "小朱有在很用心的爱着炼炼",
+      "url": "https://www.douyin.com/search/%E5%B0%8F%E6%9C%B1%E6%9C%89%E5%9C%A8%E5%BE%88%E7%94%A8%E5%BF%83%E7%9A%84%E7%88%B1%E7%9D%80%E7%82%BC%E7%82%BC?type=general",
+      "hot_value": "7685977",
       "index": 30
     }
   ]
