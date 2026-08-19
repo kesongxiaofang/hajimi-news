@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-19T19:48:13Z",
+  "update_time": "2026-08-19T20:21:01Z",
   "count": 30,
   "list": [
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "6424615播放",
+      "hot_value": "6437243播放",
       "index": 1
-    },
-    {
-      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
-      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-      "hot_value": "3074616播放",
-      "index": 2
     },
     {
       "title": "多人游戏实机预告片 | 《使命召唤：现代战争4》",
       "url": "https://www.bilibili.com/video/BV1m58n6EE4X",
-      "hot_value": "1047249播放",
+      "hot_value": "1084466播放",
+      "index": 2
+    },
+    {
+      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
+      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
+      "hot_value": "3103776播放",
       "index": 3
     },
     {
       "title": "七夕节老番茄就和自己玩游戏",
       "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
-      "hot_value": "1769982播放",
+      "hot_value": "1781649播放",
       "index": 4
     },
     {
       "title": "《影之刃零》专场 State of Play 全程回顾",
       "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "5059584播放",
+      "hot_value": "5082544播放",
       "index": 5
     },
     {
       "title": "《鸡来》一个半小时超长电影！！！",
       "url": "https://www.bilibili.com/video/BV1NBbe6jEzz",
-      "hot_value": "1627627播放",
+      "hot_value": "1635859播放",
       "index": 6
-    },
-    {
-      "title": "时空列车",
-      "url": "https://www.bilibili.com/video/BV1CUbS69EAs",
-      "hot_value": "1007113播放",
-      "index": 7
-    },
-    {
-      "title": "怪谈逃生指南第一期：《恶魔法典》",
-      "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
-      "hot_value": "427082播放",
-      "index": 8
     },
     {
       "title": "一种很“嘉豪”的合成方式",
       "url": "https://www.bilibili.com/video/BV18obz6BEiR",
-      "hot_value": "2598051播放",
-      "index": 9
+      "hot_value": "2603466播放",
+      "index": 7
     },
     {
-      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
-      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-      "hot_value": "479604播放",
-      "index": 10
-    },
-    {
-      "title": "跟着学，你在家也能做出红亮油润、香辣扑鼻的辣椒油#热门 #美食",
-      "url": "https://www.bilibili.com/video/BV1928u6oEw3",
-      "hot_value": "2005498播放",
-      "index": 11
-    },
-    {
-      "title": "一个小区住了40万人！故宫面积的6倍，亚洲之最。贵州花果园物业服务真实测评",
-      "url": "https://www.bilibili.com/video/BV1yC8g6UEz6",
-      "hot_value": "706092播放",
-      "index": 12
-    },
-    {
-      "title": "顺直大改造-反畸形审美，棒打高街帝少萝cp！",
-      "url": "https://www.bilibili.com/video/BV1e18u6tEi7",
-      "hot_value": "1549137播放",
-      "index": 13
-    },
-    {
-      "title": "永 动 机 豌 豆",
-      "url": "https://www.bilibili.com/video/BV1sJ8u6jEvd",
-      "hot_value": "1017996播放",
-      "index": 14
-    },
-    {
-      "title": "《岸防炮模拟器》",
-      "url": "https://www.bilibili.com/video/BV1b58u6SEu9",
-      "hot_value": "649610播放",
-      "index": 15
+      "title": "时空列车",
+      "url": "https://www.bilibili.com/video/BV1CUbS69EAs",
+      "hot_value": "1024238播放",
+      "index": 8
     },
     {
       "title": "《如常运转｜正常運転》MV：全世界都会震惊于日本的灾后重建速度",
       "url": "https://www.bilibili.com/video/BV1h88g6tEQv",
-      "hot_value": "1772843播放",
-      "index": 16
+      "hot_value": "1776308播放",
+      "index": 9
     },
     {
-      "title": "韩国从黄金时代到黑铁",
-      "url": "https://www.bilibili.com/video/BV1RV876HEd5",
-      "hot_value": "1287202播放",
-      "index": 17
+      "title": "跟着学，你在家也能做出红亮油润、香辣扑鼻的辣椒油#热门 #美食",
+      "url": "https://www.bilibili.com/video/BV1928u6oEw3",
+      "hot_value": "2011413播放",
+      "index": 10
+    },
+    {
+      "title": "怪谈逃生指南第一期：《恶魔法典》",
+      "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
+      "hot_value": "435589播放",
+      "index": 11
     },
     {
       "title": "忍术回战   26分钟沉浸式观看",
       "url": "https://www.bilibili.com/video/BV1GNbv6ZE1N",
-      "hot_value": "3215621播放",
-      "index": 18
+      "hot_value": "3221403播放",
+      "index": 12
     },
     {
-      "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
-      "hot_value": "2286990播放",
-      "index": 19
+      "title": "韩国从黄金时代到黑铁",
+      "url": "https://www.bilibili.com/video/BV1RV876HEd5",
+      "hot_value": "1295674播放",
+      "index": 13
+    },
+    {
+      "title": "一个小区住了40万人！故宫面积的6倍，亚洲之最。贵州花果园物业服务真实测评",
+      "url": "https://www.bilibili.com/video/BV1yC8g6UEz6",
+      "hot_value": "712045播放",
+      "index": 14
     },
     {
       "title": "我们不欢迎这样的客人，也不赚这种米",
       "url": "https://www.bilibili.com/video/BV1Neba63EDK",
-      "hot_value": "3971263播放",
-      "index": 20
+      "hot_value": "3976958播放",
+      "index": 15
     },
     {
-      "title": "《商务柔道》",
-      "url": "https://www.bilibili.com/video/BV1cqb86hE8B",
-      "hot_value": "6413515播放",
-      "index": 21
+      "title": "80后老登，1人，4个月，113分钟AI长片电影《出马仙镇东北》【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1gMgM6KEUM",
+      "hot_value": "2290596播放",
+      "index": 16
     },
     {
-      "title": "你们忍得住不说吗？",
-      "url": "https://www.bilibili.com/video/BV1u4876CE5w",
-      "hot_value": "695956播放",
-      "index": 22
+      "title": "顺直大改造-反畸形审美，棒打高街帝少萝cp！",
+      "url": "https://www.bilibili.com/video/BV1e18u6tEi7",
+      "hot_value": "1555535播放",
+      "index": 17
     },
     {
       "title": "【萌黄一槽】享受痛觉吧！飞段[晓·三]全技能爆料！",
       "url": "https://www.bilibili.com/video/BV1vT836AEJf",
-      "hot_value": "1879454播放",
-      "index": 23
-    },
-    {
-      "title": "70亿Token，B站网友教我做了个AI军官来监督学习【B站AI创造公开赛】",
-      "url": "https://www.bilibili.com/video/BV1XUgg61E3G",
-      "hot_value": "1074279播放",
-      "index": 24
-    },
-    {
-      "title": "花41元从中国坐火车去蒙古国，曾经的蒙古帝国现在怎么样了，当地人真实生活又如何",
-      "url": "https://www.bilibili.com/video/BV1XbgF6SEfr",
-      "hot_value": "2707254播放",
-      "index": 25
-    },
-    {
-      "title": "NiKo vs apEX 测谎仪“对决”",
-      "url": "https://www.bilibili.com/video/BV1ji8n6PEof",
-      "hot_value": "202790播放",
-      "index": 26
-    },
-    {
-      "title": "剩菜剩饭以后不能喂猪了？别慌，真相是这样的！【主播说三农】",
-      "url": "https://www.bilibili.com/video/BV1ZY8E6xEuB",
-      "hot_value": "611589播放",
-      "index": 27
-    },
-    {
-      "title": "一口气看7小时高质量原创文娱漫剧《我只想亏钱，怎么捧出一个时代》1~26集",
-      "url": "https://www.bilibili.com/video/BV17tb96RENv",
-      "hot_value": "364055播放",
-      "index": 28
-    },
-    {
-      "title": "替你们试了网上各种干巴酸奶过滤效果,还是。。。。。",
-      "url": "https://www.bilibili.com/video/BV1Fzb86FEyA",
-      "hot_value": "1238615播放",
-      "index": 29
+      "hot_value": "1885735播放",
+      "index": 18
     },
     {
       "title": "《七界梦谭》天上谣三测PV：神仙过招，好戏开场！",
       "url": "https://www.bilibili.com/video/BV1nZb66oEpX",
-      "hot_value": "3452033播放",
+      "hot_value": "3452280播放",
+      "index": 19
+    },
+    {
+      "title": "《商务柔道》",
+      "url": "https://www.bilibili.com/video/BV1cqb86hE8B",
+      "hot_value": "6422838播放",
+      "index": 20
+    },
+    {
+      "title": "花41元从中国坐火车去蒙古国，曾经的蒙古帝国现在怎么样了，当地人真实生活又如何",
+      "url": "https://www.bilibili.com/video/BV1XbgF6SEfr",
+      "hot_value": "2713293播放",
+      "index": 21
+    },
+    {
+      "title": "绝境降临！狭小缆车空间怎样熬过危机四伏的一百天！！「缆车惊变100天」",
+      "url": "https://www.bilibili.com/video/BV1gibB6PEih",
+      "hot_value": "1532774播放",
+      "index": 22
+    },
+    {
+      "title": "70亿Token，B站网友教我做了个AI军官来监督学习【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1XUgg61E3G",
+      "hot_value": "1082357播放",
+      "index": 23
+    },
+    {
+      "title": "永 动 机 豌 豆",
+      "url": "https://www.bilibili.com/video/BV1sJ8u6jEvd",
+      "hot_value": "1025156播放",
+      "index": 24
+    },
+    {
+      "title": "我把你们对铜的逆天想法都做到了MC里...?!🤣",
+      "url": "https://www.bilibili.com/video/BV1fFbr6sEp9",
+      "hot_value": "3227532播放",
+      "index": 25
+    },
+    {
+      "title": "一口气看7小时高质量原创文娱漫剧《我只想亏钱，怎么捧出一个时代》1~26集",
+      "url": "https://www.bilibili.com/video/BV17tb96RENv",
+      "hot_value": "366584播放",
+      "index": 26
+    },
+    {
+      "title": "“为了保护你而创造的忍术，此术名曰螺旋丸”【无人之岛DJ-降调】【父爱の小曲】",
+      "url": "https://www.bilibili.com/video/BV1otb969EF9",
+      "hot_value": "990422播放",
+      "index": 27
+    },
+    {
+      "title": "你们忍得住不说吗？",
+      "url": "https://www.bilibili.com/video/BV1u4876CE5w",
+      "hot_value": "701795播放",
+      "index": 28
+    },
+    {
+      "title": "我看看谁错字了！",
+      "url": "https://www.bilibili.com/video/BV14Z8u6JEu4",
+      "hot_value": "2015204播放",
+      "index": 29
+    },
+    {
+      "title": "萨特：当所有人都在定义你，你还能怎么做自己？",
+      "url": "https://www.bilibili.com/video/BV1pN8g6yE7m",
+      "hot_value": "2575436播放",
       "index": 30
     }
   ]
