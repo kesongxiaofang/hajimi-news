@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-20T16:00:16Z",
+  "update_time": "2026-08-20T16:59:50Z",
   "count": 30,
   "list": [
     {
       "title": "《黑神话：钟馗》15分钟实机演示",
       "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "7208066播放",
+      "hot_value": "7371318播放",
       "index": 1
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "8521197播放",
+      "hot_value": "8578029播放",
       "index": 2
     },
     {
       "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
       "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-      "hot_value": "2944952播放",
+      "hot_value": "3081124播放",
       "index": 3
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第3集 血洗缅挝【8月国创】",
       "url": "https://www.bilibili.com/video/BV1bX8u6XEWm",
-      "hot_value": "1421900播放",
+      "hot_value": "1467494播放",
       "index": 4
     },
     {
-      "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
-      "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
-      "hot_value": "2705595播放",
+      "title": "我的蚊子生病了，带它去看病",
+      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
+      "hot_value": "1857181播放",
       "index": 5
-    },
-    {
-      "title": "全面拆解钟馗隐藏细节！《黑神话钟馗》PV逐帧解析",
-      "url": "https://www.bilibili.com/video/BV1Ns8w6fE4k",
-      "hot_value": "679052播放",
-      "index": 6
     },
     {
       "title": "知道为啥这乐队没主唱了吧",
       "url": "https://www.bilibili.com/video/BV1vF8n6ZEUz",
-      "hot_value": "1989173播放",
+      "hot_value": "2123687播放",
+      "index": 6
+    },
+    {
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "hot_value": "7320192播放",
       "index": 7
     },
     {
-      "title": "「直到失落的尽头」《遗忘之海》失落海域·第三幕版本PV",
-      "url": "https://www.bilibili.com/video/BV1cSbo6MEYc",
-      "hot_value": "790136播放",
+      "title": "举手之劳 亦是人间微光",
+      "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
+      "hot_value": "682893播放",
       "index": 8
     },
     {
-      "title": "停更7年，我又以经典的方式玩MC",
-      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
-      "hot_value": "1031674播放",
+      "title": "全面拆解钟馗隐藏细节！《黑神话钟馗》PV逐帧解析",
+      "url": "https://www.bilibili.com/video/BV1Ns8w6fE4k",
+      "hot_value": "741447播放",
       "index": 9
     },
     {
       "title": "【独家/完结】《将夜》第19集 光明之夜【4月国创】",
       "url": "https://www.bilibili.com/video/BV1UE8p6WEP3",
-      "hot_value": "1159645播放",
+      "hot_value": "1172721播放",
       "index": 10
     },
     {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "7246703播放",
+      "title": "假如你是一个诗人",
+      "url": "https://www.bilibili.com/video/BV1rTbf6CECX",
+      "hot_value": "1508336播放",
       "index": 11
+    },
+    {
+      "title": "停更7年，我又以经典的方式玩MC",
+      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
+      "hot_value": "1080335播放",
+      "index": 12
     },
     {
       "title": "《黑神话：钟馗》实机终极深扒，游科成为世界第一ARPG开发商的底气！【游戏之外】",
       "url": "https://www.bilibili.com/video/BV1Vxbf6aE9H",
-      "hot_value": "715217播放",
-      "index": 12
+      "hot_value": "773125播放",
+      "index": 13
     },
     {
-      "title": "1美金 VS 10万美金的烟花",
-      "url": "https://www.bilibili.com/video/BV1tvbf6sESW",
-      "hot_value": "334067播放",
-      "index": 13
+      "title": "《大爱仙尊》动画第57集【事暗做，蛊难养】",
+      "url": "https://www.bilibili.com/video/BV1UL8n6mEh7",
+      "hot_value": "527107播放",
+      "index": 14
     },
     {
       "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
       "url": "https://www.bilibili.com/video/BV1yh8w6RE4b",
-      "hot_value": "362895播放",
-      "index": 14
-    },
-    {
-      "title": "《鸡来》一个半小时超长电影！！！",
-      "url": "https://www.bilibili.com/video/BV1NBbe6jEzz",
-      "hot_value": "2492228播放",
+      "hot_value": "411175播放",
       "index": 15
     },
     {
       "title": "好专业的煎饼果子来一套",
       "url": "https://www.bilibili.com/video/BV18UgK6cEX8",
-      "hot_value": "1739339播放",
+      "hot_value": "1804005播放",
       "index": 16
     },
     {
-      "title": "动态视频｜火箭降落的全过程，拍到了！",
-      "url": "https://www.bilibili.com/video/BV1nSbo6TEv4",
-      "hot_value": "656047播放",
+      "title": "1美金 VS 10万美金的烟花",
+      "url": "https://www.bilibili.com/video/BV1tvbf6sESW",
+      "hot_value": "360641播放",
       "index": 17
     },
     {
-      "title": "碟中谍",
-      "url": "https://www.bilibili.com/video/BV1qc8w6LEyU",
-      "hot_value": "428329播放",
+      "title": "《鸡来》一个半小时超长电影！！！",
+      "url": "https://www.bilibili.com/video/BV1NBbe6jEzz",
+      "hot_value": "2523077播放",
       "index": 18
     },
     {
       "title": "【七夕】我用50部电影来感受《出现又离开》这首歌，发现早已热泪盈眶",
       "url": "https://www.bilibili.com/video/BV1Ee8n6vExr",
-      "hot_value": "939014播放",
+      "hot_value": "968381播放",
       "index": 19
-    },
-    {
-      "title": "我的蚊子生病了，带它去看病",
-      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
-      "hot_value": "1780097播放",
-      "index": 20
-    },
-    {
-      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
-      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-      "hot_value": "5145562播放",
-      "index": 21
-    },
-    {
-      "title": "《大爱仙尊》动画第57集【事暗做，蛊难养】",
-      "url": "https://www.bilibili.com/video/BV1UL8n6mEh7",
-      "hot_value": "484298播放",
-      "index": 22
-    },
-    {
-      "title": "七夕节老番茄就和自己玩游戏",
-      "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
-      "hot_value": "3159634播放",
-      "index": 23
-    },
-    {
-      "title": "童年最大愿望实现啦！100元在各家能买多少汉堡？！",
-      "url": "https://www.bilibili.com/video/BV1DKbY6EEF3",
-      "hot_value": "1269177播放",
-      "index": 24
     },
     {
       "title": "【IGN】《黑神话：钟馗》实机演示",
       "url": "https://www.bilibili.com/video/BV1SDbZ6sETi",
-      "hot_value": "1164569播放",
-      "index": 25
+      "hot_value": "1211074播放",
+      "index": 20
     },
     {
-      "title": "做一个最长的蓑衣刀法。",
-      "url": "https://www.bilibili.com/video/BV197876UEAN",
-      "hot_value": "628967播放",
-      "index": 26
+      "title": "碟中谍",
+      "url": "https://www.bilibili.com/video/BV1qc8w6LEyU",
+      "hot_value": "467908播放",
+      "index": 21
+    },
+    {
+      "title": "七夕节老番茄就和自己玩游戏",
+      "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
+      "hot_value": "3186043播放",
+      "index": 22
+    },
+    {
+      "title": "动态视频｜火箭降落的全过程，拍到了！",
+      "url": "https://www.bilibili.com/video/BV1nSbo6TEv4",
+      "hot_value": "679317播放",
+      "index": 23
+    },
+    {
+      "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
+      "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
+      "hot_value": "2710718播放",
+      "index": 24
     },
     {
       "title": "一口气看7小时高质量原创文娱漫剧《我只想亏钱，怎么捧出一个时代》1~26集",
       "url": "https://www.bilibili.com/video/BV17tb96RENv",
-      "hot_value": "832212播放",
+      "hot_value": "848093播放",
+      "index": 25
+    },
+    {
+      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
+      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
+      "hot_value": "5179368播放",
+      "index": 26
+    },
+    {
+      "title": "不是！可她真的不一样！",
+      "url": "https://www.bilibili.com/video/BV1pZ8j6YEHJ",
+      "hot_value": "1291007播放",
       "index": 27
+    },
+    {
+      "title": "一口气看完，原神1.0-7.0！从蒙德到至冬，原神用6年讲了什么？",
+      "url": "https://www.bilibili.com/video/BV1kKbf65Ezj",
+      "hot_value": "252932播放",
+      "index": 28
+    },
+    {
+      "title": "当我给我家鸡找了一个摄影师：",
+      "url": "https://www.bilibili.com/video/BV16Ube6zES1",
+      "hot_value": "520290播放",
+      "index": 29
     },
     {
       "title": "怪谈逃生指南第一期：《恶魔法典》",
       "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
-      "hot_value": "1469836播放",
-      "index": 28
-    },
-    {
-      "title": "花41元从中国坐火车去蒙古国，曾经的蒙古帝国现在怎么样了，当地人真实生活又如何",
-      "url": "https://www.bilibili.com/video/BV1XbgF6SEfr",
-      "hot_value": "4929830播放",
-      "index": 29
-    },
-    {
-      "title": "和朋友极限24小时逛吃杭州，没想到解决了困扰多年的疑惑...",
-      "url": "https://www.bilibili.com/video/BV1S4bC6yEii",
-      "hot_value": "1903376播放",
+      "hot_value": "1483813播放",
       "index": 30
     }
   ]
