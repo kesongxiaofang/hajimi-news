@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-20T10:02:03Z",
+  "update_time": "2026-08-20T10:56:18Z",
   "count": 30,
   "list": [
     {
       "title": "《黑神话：钟馗》15分钟实机演示",
       "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "4846360播放",
+      "hot_value": "5282775播放",
       "index": 1
     },
     {
-      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
-      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-      "hot_value": "1510314播放",
+      "title": "我这一生最大的罪，是把人写成了妖……",
+      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
+      "hot_value": "7862077播放",
       "index": 2
     },
     {
       "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
       "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
-      "hot_value": "1330582播放",
+      "hot_value": "1577028播放",
       "index": 3
     },
     {
       "title": "【独家/完结】《将夜》第19集 光明之夜【4月国创】",
       "url": "https://www.bilibili.com/video/BV1UE8p6WEP3",
-      "hot_value": "862689播放",
+      "hot_value": "915494播放",
       "index": 4
+    },
+    {
+      "title": "他予回声StarToU | MacGuffin团队PV公开",
+      "url": "https://www.bilibili.com/video/BV1vC836qEY1",
+      "hot_value": "969150播放",
+      "index": 5
     },
     {
       "title": "我的蚊子生病了，带它去看病",
       "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
-      "hot_value": "1318438播放",
-      "index": 5
-    },
-    {
-      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
-      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-      "hot_value": "4662313播放",
+      "hot_value": "1388228播放",
       "index": 6
     },
     {
       "title": "好专业的煎饼果子来一套",
       "url": "https://www.bilibili.com/video/BV18UgK6cEX8",
-      "hot_value": "1175673播放",
+      "hot_value": "1266193播放",
       "index": 7
+    },
+    {
+      "title": "知道为啥这乐队没主唱了吧",
+      "url": "https://www.bilibili.com/video/BV1vF8n6ZEUz",
+      "hot_value": "890064播放",
+      "index": 8
+    },
+    {
+      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
+      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
+      "hot_value": "1798641播放",
+      "index": 9
     },
     {
       "title": "怪谈逃生指南第一期：《恶魔法典》",
       "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
-      "hot_value": "1200308播放",
-      "index": 8
-    },
-    {
-      "title": "七夕节老番茄就和自己玩游戏",
-      "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
-      "hot_value": "2733314播放",
-      "index": 9
-    },
-    {
-      "title": "18岁，我做了一个希望永远没人用上的AI产品【B站AI创造公开赛】",
-      "url": "https://www.bilibili.com/video/BV1BvbZ6eE3J",
-      "hot_value": "218457播放",
+      "hot_value": "1255213播放",
       "index": 10
-    },
-    {
-      "title": "停更7年，我又以经典的方式玩MC",
-      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
-      "hot_value": "350265播放",
-      "index": 11
-    },
-    {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "6631053播放",
-      "index": 12
     },
     {
       "title": "【IGN】《黑神话：钟馗》实机演示",
       "url": "https://www.bilibili.com/video/BV1SDbZ6sETi",
-      "hot_value": "684679播放",
+      "hot_value": "794131播放",
+      "index": 11
+    },
+    {
+      "title": "天生的恶人！为啥国漫至今没有比她更极致的反派？",
+      "url": "https://www.bilibili.com/video/BV1VC8E6DEbs",
+      "hot_value": "638574播放",
+      "index": 12
+    },
+    {
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "hot_value": "6722401播放",
       "index": 13
     },
     {
-      "title": "各个省份早餐对比（第一期）",
-      "url": "https://www.bilibili.com/video/BV15a856kEtX",
-      "hot_value": "2824380播放",
+      "title": "七夕节老番茄就和自己玩游戏",
+      "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
+      "hot_value": "2809775播放",
       "index": 14
+    },
+    {
+      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
+      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
+      "hot_value": "4751190播放",
+      "index": 15
     },
     {
       "title": "《鸡来》一个半小时超长电影！！！",
       "url": "https://www.bilibili.com/video/BV1NBbe6jEzz",
-      "hot_value": "2169351播放",
-      "index": 15
+      "hot_value": "2217742播放",
+      "index": 16
+    },
+    {
+      "title": "停更7年，我又以经典的方式玩MC",
+      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
+      "hot_value": "440198播放",
+      "index": 17
     },
     {
       "title": "外卖小哥用电动车撞翻持刀男子，目击者赞撞翻持刀男子小哥有勇有谋",
       "url": "https://www.bilibili.com/video/BV1K78n67EkC",
-      "hot_value": "2342043播放",
-      "index": 16
-    },
-    {
-      "title": "华人美女酒驾，魅力征服警察，全程公主般待遇，4个警察抢着送她 | Eric长安万年",
-      "url": "https://www.bilibili.com/video/BV1iQ8L6mE9o",
-      "hot_value": "1066928播放",
-      "index": 17
+      "hot_value": "2504697播放",
+      "index": 18
     },
     {
       "title": "当朋友总用奇怪的皮肤和你一起玩...",
       "url": "https://www.bilibili.com/video/BV1Hn8j6ZEqN",
-      "hot_value": "1868479播放",
-      "index": 18
-    },
-    {
-      "title": "你们忍得住不说吗？",
-      "url": "https://www.bilibili.com/video/BV1u4876CE5w",
-      "hot_value": "1479182播放",
+      "hot_value": "1987457播放",
       "index": 19
-    },
-    {
-      "title": "【七夕】我用50部电影来感受《出现又离开》这首歌，发现早已热泪盈眶",
-      "url": "https://www.bilibili.com/video/BV1Ee8n6vExr",
-      "hot_value": "668638播放",
-      "index": 20
-    },
-    {
-      "title": "龙 餐 馆 连 线 勇 哥",
-      "url": "https://www.bilibili.com/video/BV1o8b96pEQA",
-      "hot_value": "4770920播放",
-      "index": 21
-    },
-    {
-      "title": "不是！可她真的不一样！",
-      "url": "https://www.bilibili.com/video/BV1pZ8j6YEHJ",
-      "hot_value": "963477播放",
-      "index": 22
     },
     {
       "title": "花41元从中国坐火车去蒙古国，曾经的蒙古帝国现在怎么样了，当地人真实生活又如何",
       "url": "https://www.bilibili.com/video/BV1XbgF6SEfr",
-      "hot_value": "4209791播放",
+      "hot_value": "4339818播放",
+      "index": 20
+    },
+    {
+      "title": "【七夕】我用50部电影来感受《出现又离开》这首歌，发现早已热泪盈眶",
+      "url": "https://www.bilibili.com/video/BV1Ee8n6vExr",
+      "hot_value": "700931播放",
+      "index": 21
+    },
+    {
+      "title": "恒大集团、恒大地产、许家印等案一审宣判",
+      "url": "https://www.bilibili.com/video/BV1Vm8F6KEcC",
+      "hot_value": "702018播放",
+      "index": 22
+    },
+    {
+      "title": "你们忍得住不说吗？",
+      "url": "https://www.bilibili.com/video/BV1u4876CE5w",
+      "hot_value": "1524248播放",
       "index": 23
-    },
-    {
-      "title": "做一个最长的蓑衣刀法。",
-      "url": "https://www.bilibili.com/video/BV197876UEAN",
-      "hot_value": "375020播放",
-      "index": 24
-    },
-    {
-      "title": "他予回声StarToU | MacGuffin团队PV公开",
-      "url": "https://www.bilibili.com/video/BV1vC836qEY1",
-      "hot_value": "956694播放",
-      "index": 25
     },
     {
       "title": "一口气看7小时高质量原创文娱漫剧《我只想亏钱，怎么捧出一个时代》1~26集",
       "url": "https://www.bilibili.com/video/BV17tb96RENv",
-      "hot_value": "692967播放",
-      "index": 26
+      "hot_value": "710959播放",
+      "index": 24
+    },
+    {
+      "title": "龙 餐 馆 连 线 勇 哥",
+      "url": "https://www.bilibili.com/video/BV1o8b96pEQA",
+      "hot_value": "4791302播放",
+      "index": 25
     },
     {
       "title": "全女医生集结！速通医院查体项目！每项都需要暴露到什么程度？",
       "url": "https://www.bilibili.com/video/BV1Ze8E6oEvs",
-      "hot_value": "904028播放",
+      "hot_value": "937878播放",
+      "index": 26
+    },
+    {
+      "title": "华人美女酒驾，魅力征服警察，全程公主般待遇，4个警察抢着送她 | Eric长安万年",
+      "url": "https://www.bilibili.com/video/BV1iQ8L6mE9o",
+      "hot_value": "1116580播放",
       "index": 27
     },
     {
-      "title": "两女孩买三张座票，一人坐一个，零食“坐”一个，站票大姐想坐遭拒，列车员：无权强制让座",
-      "url": "https://www.bilibili.com/video/BV1pk876YEym",
-      "hot_value": "2093649播放",
+      "title": "为什么“空城计”梗能火？只盖一个大门就能骗走2.4万亿？【梗外之音18】",
+      "url": "https://www.bilibili.com/video/BV1pp8E6NES6",
+      "hot_value": "834001播放",
       "index": 28
     },
     {
-      "title": "我在世界地图上发现了一张“鬼脸”！这里真实存在吗？！【世界真相 01】",
-      "url": "https://www.bilibili.com/video/BV1gXb26xEMA",
-      "hot_value": "1727745播放",
+      "title": "各个省份早餐对比（第一期）",
+      "url": "https://www.bilibili.com/video/BV15a856kEtX",
+      "hot_value": "3079763播放",
       "index": 29
     },
     {
-      "title": "动态视频｜火箭降落的全过程，拍到了！",
-      "url": "https://www.bilibili.com/video/BV1nSbo6TEv4",
-      "hot_value": "232932播放",
+      "title": "NiKo vs apEX 测谎仪“对决”",
+      "url": "https://www.bilibili.com/video/BV1ji8n6PEof",
+      "hot_value": "646712播放",
       "index": 30
     }
   ]
