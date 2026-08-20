@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-19T23:45:27Z",
+  "update_time": "2026-08-20T00:58:44Z",
   "count": 30,
   "list": [
     {
       "title": "两人买三张票空座放零食，站票乘客想入座，列车员称无法强制协调，你觉得该让座吗？两人买三座算浪费资源吗？",
       "url": "https://www.zhihu.com/question/2073342342912795120",
-      "hot_value": "666 万热度",
+      "hot_value": "1730 万热度",
       "index": 1
-    },
-    {
-      "title": "大家真的认为华为发现的叫做韬定律的工程方法，之前的芯片厂商发现不了吗？",
-      "url": "https://www.zhihu.com/question/2042381537686151523",
-      "hot_value": "229 万热度",
-      "index": 2
     },
     {
       "title": "王星案跨境人口贩卖集团 17 名犯罪嫌疑人被提起公诉，涉嫌拐卖妇女罪、绑架罪等，他们将面临怎样的判罚？",
       "url": "https://www.zhihu.com/question/2073441150375917533",
-      "hot_value": "228 万热度",
-      "index": 3
-    },
-    {
-      "title": "佛山通报「教师招聘笔试后 5 名进体检」，区教育局局长、副局长被立案调查，将重新面试，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2073462270726595030",
-      "hot_value": "227 万热度",
-      "index": 4
-    },
-    {
-      "title": "美国财政部宣布扩大长期名义国债回购规模，带动 30 年期收益率快速回落，能够扭转本轮全球债市抛售吗？",
-      "url": "https://www.zhihu.com/question/2073513409581146479",
-      "hot_value": "217 万热度",
-      "index": 5
+      "hot_value": "303 万热度",
+      "index": 2
     },
     {
       "title": "上海地铁涨价听证方案公布，同步推出计次票，两种方案平均每人次票价提高 1 元左右，怎样看待这两种方案？",
       "url": "https://www.zhihu.com/question/2073500550092546731",
-      "hot_value": "170 万热度",
-      "index": 6
-    },
-    {
-      "title": "如何看待 8 月 19 日长江存储完成 IPO 辅导验收，「最快速度」冲刺 A 股？",
-      "url": "https://www.zhihu.com/question/2073377944123204915",
-      "hot_value": "158 万热度",
-      "index": 7
-    },
-    {
-      "title": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2073393499173384203",
-      "hot_value": "148 万热度",
-      "index": 8
-    },
-    {
-      "title": "美政府拟要求各方「不得同时加入美中的 AI 生态系统」，中方回应坚决反对搞选边站队，此举会有哪些影响？",
-      "url": "https://www.zhihu.com/question/2073432540069863613",
-      "hot_value": "138 万热度",
-      "index": 9
-    },
-    {
-      "title": "反诈老陈称线上收入难以维持生活，将线下求职，他的转型困境反映了哪些问题？",
-      "url": "https://www.zhihu.com/question/2073385154072897039",
-      "hot_value": "114 万热度",
-      "index": 10
+      "hot_value": "282 万热度",
+      "index": 3
     },
     {
       "title": "武汉一程序员坚持 5 年远距离通勤，每日往返 150 公里通勤 5 小时，称想「多陪陪妻女」，你会这样选择吗？",
       "url": "https://www.zhihu.com/question/2073355037305316715",
-      "hot_value": "111 万热度",
-      "index": 11
+      "hot_value": "241 万热度",
+      "index": 4
     },
     {
-      "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
-      "url": "https://www.zhihu.com/question/2073187251438227532",
-      "hot_value": "105 万热度",
-      "index": 12
+      "title": "电视剧《潜伏》里，吴站长是不是知道余则成的真实身份？",
+      "url": "https://www.zhihu.com/question/31976232",
+      "hot_value": "198 万热度",
+      "index": 5
     },
     {
-      "title": "固态电池真的那么完美吗？",
-      "url": "https://www.zhihu.com/question/667470607",
-      "hot_value": "105 万热度",
-      "index": 13
-    },
-    {
-      "title": "宇树上市后，创始人身家超 1300 亿成 90 后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
-      "url": "https://www.zhihu.com/question/2073357057869050145",
-      "hot_value": "102 万热度",
-      "index": 14
-    },
-    {
-      "title": "如何看待山东聊城「父亲当街脚踹女儿，路人制止反被定罪」一案？",
-      "url": "https://www.zhihu.com/question/2072452521260476023",
-      "hot_value": "102 万热度",
-      "index": 15
-    },
-    {
-      "title": "如何评价起点中文网大量下榜万均 AI 作品的行为？这一举措对网文行业后续发展有何影响？",
-      "url": "https://www.zhihu.com/question/2073053088156594934",
-      "hot_value": "92 万热度",
-      "index": 16
-    },
-    {
-      "title": "转转回收 RTX5090 仅报 1.3 万元引网友热议，二手平台定价是否合理？",
-      "url": "https://www.zhihu.com/question/2072656350430115792",
-      "hot_value": "91 万热度",
-      "index": 17
-    },
-    {
-      "title": "DeepSeek Harness 五天超越 151k star，它能引发一场什么革命？",
-      "url": "https://www.zhihu.com/question/2072997638685864311",
-      "hot_value": "87 万热度",
-      "index": 18
+      "title": "佛山通报「教师招聘笔试后 5 名进体检」，区教育局局长、副局长被立案调查，将重新面试，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2073462270726595030",
+      "hot_value": "156 万热度",
+      "index": 6
     },
     {
       "title": "能考上清华北大的，智商是不是比常人高？",
       "url": "https://www.zhihu.com/question/21025762",
-      "hot_value": "86 万热度",
-      "index": 19
+      "hot_value": "140 万热度",
+      "index": 7
     },
     {
-      "title": "电车自驾游睡车上引发热议，反对者主要出于哪些考虑？",
-      "url": "https://www.zhihu.com/question/2071172037243049309",
-      "hot_value": "80 万热度",
-      "index": 20
+      "title": "如何看待 8 月 19 日长江存储完成 IPO 辅导验收，「最快速度」冲刺 A 股？",
+      "url": "https://www.zhihu.com/question/2073377944123204915",
+      "hot_value": "124 万热度",
+      "index": 8
     },
     {
-      "title": "德国男子因在租用的房屋厕所安装淋浴间被政府强制拆除，当地政府以「过于豪华」为由，为何会有如此规定？",
-      "url": "https://www.zhihu.com/question/2072730357598774584",
-      "hot_value": "78 万热度",
-      "index": 21
+      "title": "宇树上市后，创始人身家超 1300 亿成 90 后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
+      "url": "https://www.zhihu.com/question/2073357057869050145",
+      "hot_value": "108 万热度",
+      "index": 9
     },
     {
-      "title": "热门餐厅免费排号成黄牛牟利新赛道，有人 5 天赚 40 万，专家称无法精准打击，为什么？现行法律存在哪些漏洞？",
-      "url": "https://www.zhihu.com/question/2073144175378133602",
-      "hot_value": "76 万热度",
-      "index": 22
+      "title": "LPL2026 赛季第三赛段组内赛 AL 1:2 TES，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2073472225399804100",
+      "hot_value": "106 万热度",
+      "index": 10
     },
     {
-      "title": "女子隆胸术后一周查出怀孕五周，认为医院术前检查不到位要求退款，院方予以拒绝，如何从法律角度解读？",
-      "url": "https://www.zhihu.com/question/2071567464362676269",
-      "hot_value": "76 万热度",
-      "index": 23
+      "title": "大家真的认为华为发现的叫做韬定律的工程方法，之前的芯片厂商发现不了吗？",
+      "url": "https://www.zhihu.com/question/2042381537686151523",
+      "hot_value": "103 万热度",
+      "index": 11
     },
     {
-      "title": "上海一考生中考 700 分放弃市重点选择中本贯通，中本贯通具有什么竞争优势？如何看待这一选择？",
-      "url": "https://www.zhihu.com/question/2063294236733313496",
-      "hot_value": "70 万热度",
-      "index": 24
+      "title": "8.19 医师节全国多家医院免挂号费，如何看待这一举措？应该被推广吗？",
+      "url": "https://www.zhihu.com/question/2072711368768336197",
+      "hot_value": "101 万热度",
+      "index": 12
     },
     {
-      "title": "我奔跑的时候拿着手电筒向前射出一束光，那这束光的速度是不是相对地面超过了光速？",
-      "url": "https://www.zhihu.com/question/1944101549795153444",
-      "hot_value": "70 万热度",
-      "index": 25
+      "title": "为什么有了孩子之后，夫妻会频繁吵架？",
+      "url": "https://www.zhihu.com/question/308524805",
+      "hot_value": "100 万热度",
+      "index": 13
     },
     {
-      "title": "有哪些体现了时光的照片？",
-      "url": "https://www.zhihu.com/question/61791596",
-      "hot_value": "68 万热度",
-      "index": 26
+      "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
+      "url": "https://www.zhihu.com/question/2073187251438227532",
+      "hot_value": "99 万热度",
+      "index": 14
     },
     {
-      "title": "古惑仔都说为社团做事，被砍、去坐牢也不怕，这么忠诚，社团为什么不送他们去打螺丝？",
-      "url": "https://www.zhihu.com/question/2065854540390438082",
-      "hot_value": "67 万热度",
-      "index": 27
+      "title": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2073393499173384203",
+      "hot_value": "93 万热度",
+      "index": 15
     },
     {
-      "title": "面试被问「你的缺点是什么」该怎么回答 才不扣分？",
-      "url": "https://www.zhihu.com/question/2072106013105432076",
-      "hot_value": "63 万热度",
-      "index": 28
-    },
-    {
-      "title": "那些把软件放 D 盘的人是出于什么目的考虑的？",
-      "url": "https://www.zhihu.com/question/1928464696027112780",
-      "hot_value": "62 万热度",
-      "index": 29
+      "title": "美国财政部宣布扩大长期名义国债回购规模，带动 30 年期收益率快速回落，能够扭转本轮全球债市抛售吗？",
+      "url": "https://www.zhihu.com/question/2073513409581146479",
+      "hot_value": "93 万热度",
+      "index": 16
     },
     {
       "title": "从心理学的角度来看，为什么我们会反复爱上同一种人？",
       "url": "https://www.zhihu.com/question/2069198733942724562",
-      "hot_value": "62 万热度",
+      "hot_value": "92 万热度",
+      "index": 17
+    },
+    {
+      "title": "固态电池真的那么完美吗？",
+      "url": "https://www.zhihu.com/question/667470607",
+      "hot_value": "88 万热度",
+      "index": 18
+    },
+    {
+      "title": "DeepSeek Harness 五天超越 151k star，它能引发一场什么革命？",
+      "url": "https://www.zhihu.com/question/2072997638685864311",
+      "hot_value": "88 万热度",
+      "index": 19
+    },
+    {
+      "title": "宇树开盘暴涨 629%，美团系猛赚 333 亿，雷军浮盈 152 亿，如何看待此次上市带来的财富效应？",
+      "url": "https://www.zhihu.com/question/2073353428940673186",
+      "hot_value": "86 万热度",
+      "index": 20
+    },
+    {
+      "title": "反诈老陈称线上收入难以维持生活，将线下求职，他的转型困境反映了哪些问题？",
+      "url": "https://www.zhihu.com/question/2073385154072897039",
+      "hot_value": "84 万热度",
+      "index": 21
+    },
+    {
+      "title": "小米集团 2026 年 Q2 财报出炉，营收 1089 亿，你认为小米汽车还要几年才能成为第一大营收和利润来源?",
+      "url": "https://www.zhihu.com/question/2073102908065837348",
+      "hot_value": "81 万热度",
+      "index": 22
+    },
+    {
+      "title": "电车自驾游睡车上引发热议，反对者主要出于哪些考虑？",
+      "url": "https://www.zhihu.com/question/2071172037243049309",
+      "hot_value": "81 万热度",
+      "index": 23
+    },
+    {
+      "title": "古惑仔都说为社团做事，被砍、去坐牢也不怕，这么忠诚，社团为什么不送他们去打螺丝？",
+      "url": "https://www.zhihu.com/question/2065854540390438082",
+      "hot_value": "80 万热度",
+      "index": 24
+    },
+    {
+      "title": "河南某小区凭高考成绩减免物业费，有人质疑减免的物业费是否变相由其他业主承担，如何看待这一举措？",
+      "url": "https://www.zhihu.com/question/2073084961134063902",
+      "hot_value": "79 万热度",
+      "index": 25
+    },
+    {
+      "title": "上海一考生中考 700 分放弃市重点选择中本贯通，中本贯通具有什么竞争优势？如何看待这一选择？",
+      "url": "https://www.zhihu.com/question/2063294236733313496",
+      "hot_value": "75 万热度",
+      "index": 26
+    },
+    {
+      "title": "那些把软件放 D 盘的人是出于什么目的考虑的？",
+      "url": "https://www.zhihu.com/question/1928464696027112780",
+      "hot_value": "70 万热度",
+      "index": 27
+    },
+    {
+      "title": "为什么很多人看不惯明星直播带货？",
+      "url": "https://www.zhihu.com/question/525140198",
+      "hot_value": "68 万热度",
+      "index": 28
+    },
+    {
+      "title": "古代那些考不上的读书人最终都去哪了？哪些落榜生对历史进程产生了巨大影响?",
+      "url": "https://www.zhihu.com/question/1982138221526807157",
+      "hot_value": "68 万热度",
+      "index": 29
+    },
+    {
+      "title": "面试被问「你的缺点是什么」该怎么回答 才不扣分？",
+      "url": "https://www.zhihu.com/question/2072106013105432076",
+      "hot_value": "65 万热度",
       "index": 30
     }
   ]
