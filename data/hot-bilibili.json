@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-20T07:36:42Z",
+  "update_time": "2026-08-20T08:32:10Z",
   "count": 30,
   "list": [
     {
       "title": "《黑神话：钟馗》15分钟实机演示",
       "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "3964820播放",
+      "hot_value": "4360178播放",
       "index": 1
     },
     {
-      "title": "我这一生最大的罪，是把人写成了妖……",
-      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "7541079播放",
+      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
+      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
+      "hot_value": "1408146播放",
       "index": 2
     },
     {
-      "title": "我的蚊子生病了，带它去看病",
-      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
-      "hot_value": "1075457播放",
+      "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
+      "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
+      "hot_value": "1085366播放",
       "index": 3
     },
     {
       "title": "【独家/完结】《将夜》第19集 光明之夜【4月国创】",
       "url": "https://www.bilibili.com/video/BV1UE8p6WEP3",
-      "hot_value": "738463播放",
+      "hot_value": "800966播放",
       "index": 4
+    },
+    {
+      "title": "我的蚊子生病了，带它去看病",
+      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
+      "hot_value": "1174956播放",
+      "index": 5
+    },
+    {
+      "title": "他予回声StarToU | MacGuffin团队PV公开",
+      "url": "https://www.bilibili.com/video/BV1vC836qEY1",
+      "hot_value": "874098播放",
+      "index": 6
+    },
+    {
+      "title": "18岁，我做了一个希望永远没人用上的AI产品【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1BvbZ6eE3J",
+      "hot_value": "203488播放",
+      "index": 7
     },
     {
       "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
       "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-      "hot_value": "4445359播放",
-      "index": 5
-    },
-    {
-      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
-      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-      "hot_value": "1173581播放",
-      "index": 6
-    },
-    {
-      "title": "七夕节老番茄就和自己玩游戏",
-      "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
-      "hot_value": "2573621播放",
-      "index": 7
-    },
-    {
-      "title": "怪谈逃生指南第一期：《恶魔法典》",
-      "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
-      "hot_value": "1084333播放",
+      "hot_value": "4550039播放",
       "index": 8
-    },
-    {
-      "title": "《鸡来》一个半小时超长电影！！！",
-      "url": "https://www.bilibili.com/video/BV1NBbe6jEzz",
-      "hot_value": "2077001播放",
-      "index": 9
-    },
-    {
-      "title": "【七夕】我用50部电影来感受《出现又离开》这首歌，发现早已热泪盈眶",
-      "url": "https://www.bilibili.com/video/BV1Ee8n6vExr",
-      "hot_value": "584070播放",
-      "index": 10
-    },
-    {
-      "title": "不是！可她真的不一样！",
-      "url": "https://www.bilibili.com/video/BV1pZ8j6YEHJ",
-      "hot_value": "883136播放",
-      "index": 11
     },
     {
       "title": "【IGN】《黑神话：钟馗》实机演示",
       "url": "https://www.bilibili.com/video/BV1SDbZ6sETi",
-      "hot_value": "506138播放",
+      "hot_value": "575031播放",
+      "index": 9
+    },
+    {
+      "title": "七夕节老番茄就和自己玩游戏",
+      "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
+      "hot_value": "2642832播放",
+      "index": 10
+    },
+    {
+      "title": "怪谈逃生指南第一期：《恶魔法典》",
+      "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
+      "hot_value": "1134483播放",
+      "index": 11
+    },
+    {
+      "title": "《鸡来》一个半小时超长电影！！！",
+      "url": "https://www.bilibili.com/video/BV1NBbe6jEzz",
+      "hot_value": "2114736播放",
       "index": 12
-    },
-    {
-      "title": "当朋友总用奇怪的皮肤和你一起玩...",
-      "url": "https://www.bilibili.com/video/BV1Hn8j6ZEqN",
-      "hot_value": "1487516播放",
-      "index": 13
-    },
-    {
-      "title": "暗区突围手游剧情回顾，S19 赛季「硝烟无声」9 月 2 日即将上线！",
-      "url": "https://www.bilibili.com/video/BV1AHbZ6LEDp",
-      "hot_value": "238139播放",
-      "index": 14
     },
     {
       "title": "外卖小哥用电动车撞翻持刀男子，目击者赞撞翻持刀男子小哥有勇有谋",
       "url": "https://www.bilibili.com/video/BV1K78n67EkC",
-      "hot_value": "1883587播放",
+      "hot_value": "2075885播放",
+      "index": 13
+    },
+    {
+      "title": "《岸防炮模拟器》",
+      "url": "https://www.bilibili.com/video/BV1b58u6SEu9",
+      "hot_value": "1275780播放",
+      "index": 14
+    },
+    {
+      "title": "停更7年，我又以经典的方式玩MC",
+      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
+      "hot_value": "260809播放",
       "index": 15
-    },
-    {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "6467375播放",
-      "index": 16
-    },
-    {
-      "title": "你们忍得住不说吗？",
-      "url": "https://www.bilibili.com/video/BV1u4876CE5w",
-      "hot_value": "1380288播放",
-      "index": 17
-    },
-    {
-      "title": "华人美女酒驾，魅力征服警察，全程公主般待遇，4个警察抢着送她 | Eric长安万年",
-      "url": "https://www.bilibili.com/video/BV1iQ8L6mE9o",
-      "hot_value": "943953播放",
-      "index": 18
-    },
-    {
-      "title": "恒大集团、恒大地产、许家印等案一审宣判",
-      "url": "https://www.bilibili.com/video/BV1Vm8F6KEcC",
-      "hot_value": "363556播放",
-      "index": 19
     },
     {
       "title": "各个省份早餐对比（第一期）",
       "url": "https://www.bilibili.com/video/BV15a856kEtX",
-      "hot_value": "2206896播放",
+      "hot_value": "2475951播放",
+      "index": 16
+    },
+    {
+      "title": "不是！可她真的不一样！",
+      "url": "https://www.bilibili.com/video/BV1pZ8j6YEHJ",
+      "hot_value": "927458播放",
+      "index": 17
+    },
+    {
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "hot_value": "6532044播放",
+      "index": 18
+    },
+    {
+      "title": "你们忍得住不说吗？",
+      "url": "https://www.bilibili.com/video/BV1u4876CE5w",
+      "hot_value": "1430778播放",
+      "index": 19
+    },
+    {
+      "title": "龙 餐 馆 连 线 勇 哥",
+      "url": "https://www.bilibili.com/video/BV1o8b96pEQA",
+      "hot_value": "4715566播放",
       "index": 20
     },
     {
       "title": "做一个最长的蓑衣刀法。",
       "url": "https://www.bilibili.com/video/BV197876UEAN",
-      "hot_value": "280039播放",
+      "hot_value": "329560播放",
       "index": 21
     },
     {
-      "title": "停更7年，我又以经典的方式玩MC",
-      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
-      "hot_value": "198574播放",
+      "title": "当朋友总用奇怪的皮肤和你一起玩...",
+      "url": "https://www.bilibili.com/video/BV1Hn8j6ZEqN",
+      "hot_value": "1660337播放",
       "index": 22
+    },
+    {
+      "title": "【七夕】我用50部电影来感受《出现又离开》这首歌，发现早已热泪盈眶",
+      "url": "https://www.bilibili.com/video/BV1Ee8n6vExr",
+      "hot_value": "621916播放",
+      "index": 23
+    },
+    {
+      "title": "华人美女酒驾，魅力征服警察，全程公主般待遇，4个警察抢着送她 | Eric长安万年",
+      "url": "https://www.bilibili.com/video/BV1iQ8L6mE9o",
+      "hot_value": "1006649播放",
+      "index": 24
+    },
+    {
+      "title": "我穿越了「死亡之海」，发现沙漠里面也全是中国人",
+      "url": "https://www.bilibili.com/video/BV1Z58J6bE6V",
+      "hot_value": "217958播放",
+      "index": 25
+    },
+    {
+      "title": "「直到失落的尽头」《遗忘之海》失落海域·第三幕版本PV",
+      "url": "https://www.bilibili.com/video/BV1cSbo6MEYc",
+      "hot_value": "151239播放",
+      "index": 26
     },
     {
       "title": "日推歌单丨时代峰峻现场喊嘉豪【单刀赴会の小曲】【CONTEMPT】“我们不是孤军奋战”",
       "url": "https://www.bilibili.com/video/BV1WNbi62EVW",
-      "hot_value": "380490播放",
-      "index": 23
+      "hot_value": "413506播放",
+      "index": 27
+    },
+    {
+      "title": "NiKo vs apEX 测谎仪“对决”",
+      "url": "https://www.bilibili.com/video/BV1ji8n6PEof",
+      "hot_value": "573302播放",
+      "index": 28
     },
     {
       "title": "全女医生集结！速通医院查体项目！每项都需要暴露到什么程度？",
       "url": "https://www.bilibili.com/video/BV1Ze8E6oEvs",
-      "hot_value": "828929播放",
-      "index": 24
-    },
-    {
-      "title": "《爱反坐的小孩》",
-      "url": "https://www.bilibili.com/video/BV1kr876AEwV",
-      "hot_value": "1673443播放",
-      "index": 25
-    },
-    {
-      "title": "多厨狂喜！舞蹈区顶流锦依卫们来给痒痒鼠庆生啦！",
-      "url": "https://www.bilibili.com/video/BV1Rc8E6JEKV",
-      "hot_value": "1873119播放",
-      "index": 26
-    },
-    {
-      "title": "《岸防炮模拟器》",
-      "url": "https://www.bilibili.com/video/BV1b58u6SEu9",
-      "hot_value": "1240837播放",
-      "index": 27
+      "hot_value": "862676播放",
+      "index": 29
     },
     {
       "title": "花41元从中国坐火车去蒙古国，曾经的蒙古帝国现在怎么样了，当地人真实生活又如何",
       "url": "https://www.bilibili.com/video/BV1XbgF6SEfr",
-      "hot_value": "3897284播放",
-      "index": 28
-    },
-    {
-      "title": "一个小区住了40万人！故宫面积的6倍，亚洲之最。贵州花果园物业服务真实测评",
-      "url": "https://www.bilibili.com/video/BV1yC8g6UEz6",
-      "hot_value": "1090361播放",
-      "index": 29
-    },
-    {
-      "title": "打了10分钟就我一个在送，这就很尴尬了",
-      "url": "https://www.bilibili.com/video/BV1Vpbo6dEHK",
-      "hot_value": "422485播放",
+      "hot_value": "4034427播放",
       "index": 30
     }
   ]
