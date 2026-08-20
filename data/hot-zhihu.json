@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-20T04:06:11Z",
+  "update_time": "2026-08-20T05:03:01Z",
   "count": 30,
   "list": [
     {
+      "title": "恒大集团、恒大地产等案一审宣判，许家印被判处无期徒刑，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2073742569427526942",
+      "hot_value": "4016 万热度",
+      "index": 1
+    },
+    {
       "title": "两人买三张票空座放零食，站票乘客想入座，列车员称无法强制协调，你觉得该让座吗？两人买三座算浪费资源吗？",
       "url": "https://www.zhihu.com/question/2073342342912795120",
-      "hot_value": "4296 万热度",
-      "index": 1
+      "hot_value": "3151 万热度",
+      "index": 2
     },
     {
       "title": "《黑神话：钟馗》发布 15 分钟实机演示视频，有哪些细节设计值得关注？",
       "url": "https://www.zhihu.com/question/2073711181198357987",
-      "hot_value": "452 万热度",
-      "index": 2
+      "hot_value": "816 万热度",
+      "index": 3
     },
     {
       "title": "抖音推出「馋猫外卖」虚拟点餐，订单不会送达，金额存入「一起攒」，如何看待这一功能？怎样从商业角度解读？",
       "url": "https://www.zhihu.com/question/2073021871205913577",
-      "hot_value": "369 万热度",
-      "index": 3
+      "hot_value": "563 万热度",
+      "index": 4
     },
     {
       "title": "武汉一程序员坚持 5 年远距离通勤，每日往返 150 公里通勤 5 小时，称想「多陪陪妻女」，你会这样选择吗？",
       "url": "https://www.zhihu.com/question/2073355037305316715",
-      "hot_value": "293 万热度",
-      "index": 4
-    },
-    {
-      "title": "为什么苏轼书法被誉为宋朝第一，但是后世却很少学苏轼笔法的人呢？",
-      "url": "https://www.zhihu.com/question/64127378",
-      "hot_value": "159 万热度",
+      "hot_value": "214 万热度",
       "index": 5
     },
     {
       "title": "游客在青岛海之恋拍照遭男子辱骂，随后男子道歉称跑步时比较莽撞，警方目前已介入调查，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2073514345531818022",
-      "hot_value": "158 万热度",
+      "hot_value": "201 万热度",
       "index": 6
+    },
+    {
+      "title": "癌症疫苗真的来了？首个 mRNA 疫苗联合 K 药在黑色素瘤辅助治疗中优于 K 药单药，意味着什么？",
+      "url": "https://www.zhihu.com/question/2073541814556915093",
+      "hot_value": "188 万热度",
+      "index": 7
+    },
+    {
+      "title": "为什么苏轼书法被誉为宋朝第一，但是后世却很少学苏轼笔法的人呢？",
+      "url": "https://www.zhihu.com/question/64127378",
+      "hot_value": "174 万热度",
+      "index": 8
     },
     {
       "title": "那些把软件放 D 盘的人是出于什么目的考虑的？",
       "url": "https://www.zhihu.com/question/1928464696027112780",
-      "hot_value": "157 万热度",
-      "index": 7
+      "hot_value": "171 万热度",
+      "index": 9
     },
     {
       "title": "如何看待大量「有名有姓」的数学猜想被 AI 解决？",
       "url": "https://www.zhihu.com/question/2072638750023055197",
-      "hot_value": "153 万热度",
-      "index": 8
-    },
-    {
-      "title": "如何评价韩延导演，朱一龙、檀健次、梁家辉、卫诗雅等主演的犯罪剧情电影《空枪》？",
-      "url": "https://www.zhihu.com/question/2073409974307222876",
-      "hot_value": "145 万热度",
-      "index": 9
-    },
-    {
-      "title": "古惑仔都说为社团做事，被砍、去坐牢也不怕，这么忠诚，社团为什么不送他们去打螺丝？",
-      "url": "https://www.zhihu.com/question/2065854540390438082",
-      "hot_value": "124 万热度",
+      "hot_value": "168 万热度",
       "index": 10
     },
     {
       "title": "媒体曝劣质手机壳是用医疗垃圾做的，其释放的塑化剂是儿童性早熟主要诱因，长期接触真会导致性早熟吗？",
       "url": "https://www.zhihu.com/question/2072722723030000085",
-      "hot_value": "124 万热度",
+      "hot_value": "162 万热度",
       "index": 11
+    },
+    {
+      "title": "如何评价韩延导演，朱一龙、檀健次、梁家辉、卫诗雅等主演的犯罪剧情电影《空枪》？",
+      "url": "https://www.zhihu.com/question/2073409974307222876",
+      "hot_value": "160 万热度",
+      "index": 12
     },
     {
       "title": "司法部认定欧盟针对京东的《外国补贴条例》跨境调查构成不当域外管辖，任何人不得协助执行，如何看待此事？",
       "url": "https://www.zhihu.com/question/2073493262573352062",
-      "hot_value": "124 万热度",
-      "index": 12
-    },
-    {
-      "title": "大家真的认为华为发现的叫做韬定律的工程方法，之前的芯片厂商发现不了吗？",
-      "url": "https://www.zhihu.com/question/2042381537686151523",
-      "hot_value": "107 万热度",
+      "hot_value": "144 万热度",
       "index": 13
     },
     {
       "title": "电视剧《潜伏》里，吴站长是不是知道余则成的真实身份？",
       "url": "https://www.zhihu.com/question/31976232",
-      "hot_value": "107 万热度",
+      "hot_value": "139 万热度",
       "index": 14
     },
     {
       "title": "每天一瓶饮料和患糖尿病的关系是直接的吗？",
       "url": "https://www.zhihu.com/question/11992433909",
-      "hot_value": "107 万热度",
+      "hot_value": "136 万热度",
       "index": 15
+    },
+    {
+      "title": "Moderna 股价暴涨 177%，创三年半来新高，mRNA 癌症疫苗三期临床达成终点，本次突破含金量多大？",
+      "url": "https://www.zhihu.com/question/2073530862080204910",
+      "hot_value": "134 万热度",
+      "index": 16
     },
     {
       "title": "小米集团 2026 年 Q2 财报出炉，营收 1089 亿，你认为小米汽车还要几年才能成为第一大营收和利润来源?",
       "url": "https://www.zhihu.com/question/2073102908065837348",
-      "hot_value": "107 万热度",
-      "index": 16
+      "hot_value": "112 万热度",
+      "index": 17
     },
     {
       "title": "河南某小区凭高考成绩减免物业费，有人质疑减免的物业费是否变相由其他业主承担，如何看待这一举措？",
       "url": "https://www.zhihu.com/question/2073084961134063902",
-      "hot_value": "99 万热度",
-      "index": 17
+      "hot_value": "110 万热度",
+      "index": 18
+    },
+    {
+      "title": "古惑仔都说为社团做事，被砍、去坐牢也不怕，这么忠诚，社团为什么不送他们去打螺丝？",
+      "url": "https://www.zhihu.com/question/2065854540390438082",
+      "hot_value": "109 万热度",
+      "index": 19
     },
     {
       "title": "德国最忌讳的两线作战，为何到 1941 年，居然让希特勒自己拾了起来？就没人冒死劝谏？",
       "url": "https://www.zhihu.com/question/2073417316793110592",
-      "hot_value": "95 万热度",
-      "index": 18
-    },
-    {
-      "title": "为什么有了孩子之后，夫妻会频繁吵架？",
-      "url": "https://www.zhihu.com/question/308524805",
-      "hot_value": "91 万热度",
-      "index": 19
-    },
-    {
-      "title": "混血后卫朱正完成胯下换手暴扣，他未来能给中国男篮带来一些改变吗？",
-      "url": "https://www.zhihu.com/question/2073359587822891762",
-      "hot_value": "81 万热度",
+      "hot_value": "108 万热度",
       "index": 20
     },
     {
       "title": "现货黄金突破 4500 美元 / 盎司，创逾两个月来新高，白银突破 67 美元 / 盎司，这轮反弹能持续多久？",
       "url": "https://www.zhihu.com/question/2073530857139200679",
-      "hot_value": "81 万热度",
+      "hot_value": "102 万热度",
       "index": 21
     },
     {
       "title": "《鸣潮》清宵 PV「修行」公开，如何评价新角色琴剑仙设计与 3.6 版本？",
       "url": "https://www.zhihu.com/question/2073104967909520597",
-      "hot_value": "81 万热度",
+      "hot_value": "97 万热度",
       "index": 22
     },
     {
-      "title": "很好奇，为什么现在很多家长坚持让孩子从小就学英语？",
-      "url": "https://www.zhihu.com/question/2057374005259153906",
-      "hot_value": "79 万热度",
+      "title": "复旦团队在《Nature》证实高温超导的二维本质，这一研究突破有哪些意义？",
+      "url": "https://www.zhihu.com/question/2071555528765825588",
+      "hot_value": "90 万热度",
       "index": 23
     },
     {
       "title": "要不要等固态电池再买电车？",
       "url": "https://www.zhihu.com/question/2072985731631522803",
-      "hot_value": "78 万热度",
+      "hot_value": "84 万热度",
       "index": 24
+    },
+    {
+      "title": "混血后卫朱正完成胯下换手暴扣，他未来能给中国男篮带来一些改变吗？",
+      "url": "https://www.zhihu.com/question/2073359587822891762",
+      "hot_value": "84 万热度",
+      "index": 25
+    },
+    {
+      "title": "多地商场外墙撤下商业广告，挂上钱学森、邓稼先等多名科学家公益海报，这么做背后可能有哪些考量？",
+      "url": "https://www.zhihu.com/question/2073026704260469328",
+      "hot_value": "82 万热度",
+      "index": 26
     },
     {
       "title": "动作游戏《影之刃零》最高难度仅 66 条命，耗尽需从头再来，这种设定是极致的挑战还是劝退？",
       "url": "https://www.zhihu.com/question/2073003013963359196",
-      "hot_value": "77 万热度",
-      "index": 25
-    },
-    {
-      "title": "如何看待「听话、能干、廉价」和「钱多、事少、离家近」被称为职场的不可能三角定律？大家如何取舍？",
-      "url": "https://www.zhihu.com/question/2071027618393202727",
-      "hot_value": "73 万热度",
-      "index": 26
-    },
-    {
-      "title": "怎样理解经济学里的涓滴效应？",
-      "url": "https://www.zhihu.com/question/7075395702",
-      "hot_value": "72 万热度",
+      "hot_value": "79 万热度",
       "index": 27
+    },
+    {
+      "title": "明末感觉能打的军队还有很多，那为何明朝还是亡了？",
+      "url": "https://www.zhihu.com/question/2072848952014149129",
+      "hot_value": "77 万热度",
+      "index": 28
+    },
+    {
+      "title": "电影《奥德赛》中「雅典娜」必须存在吗？人在彻底迷途时可以靠什么「内在指引」撑下去？",
+      "url": "https://www.zhihu.com/question/2070162795463534431",
+      "hot_value": "76 万热度",
+      "index": 29
     },
     {
       "title": "假如蜀汉统一天下会发生什么事？",
       "url": "https://www.zhihu.com/question/358989669",
-      "hot_value": "70 万热度",
-      "index": 28
-    },
-    {
-      "title": "古代文人书信往来中，最能体现友情深度的细节是什么？",
-      "url": "https://www.zhihu.com/question/2070939626521323305",
-      "hot_value": "68 万热度",
-      "index": 29
-    },
-    {
-      "title": "如果你有 3 万的年终奖，请问你会买包还是会旅行？",
-      "url": "https://www.zhihu.com/question/2072261953335079862",
-      "hot_value": "61 万热度",
+      "hot_value": "73 万热度",
       "index": 30
     }
   ]
