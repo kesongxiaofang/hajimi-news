@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-08-20T05:55:44Z",
+  "update_time": "2026-08-20T06:40:19Z",
   "count": 30,
   "list": [
     {
-      "title": "许家印被判处无期徒刑",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91",
-      "hot_value": "1,340.3万",
+      "title": "这个暑假我一个梗都没落下",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BF%99%E4%B8%AA%E6%9A%91%E5%81%87%E6%88%91%E4%B8%80%E4%B8%AA%E6%A2%97%E9%83%BD%E6%B2%A1%E8%90%BD%E4%B8%8B",
+      "hot_value": "1,335.2万",
       "index": 1
     },
     {
       "title": "恒大集团被罚88.2亿元",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E8%A2%AB%E7%BD%9A88.2%E4%BA%BF%E5%85%83",
-      "hot_value": "1,340.1万",
+      "hot_value": "1,334.7万",
       "index": 2
     },
     {
       "title": "新规激活10万亿公积金",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%96%B0%E8%A7%84%E6%BF%80%E6%B4%BB10%E4%B8%87%E4%BA%BF%E5%85%AC%E7%A7%AF%E9%87%91",
-      "hot_value": "1,340万",
+      "hot_value": "1,275.4万",
       "index": 3
     },
     {
       "title": "上海出台楼市沪八条",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%8F%B0%E6%A5%BC%E5%B8%82%E6%B2%AA%E5%85%AB%E6%9D%A1",
-      "hot_value": "1,339.9万",
+      "hot_value": "1,267.4万",
       "index": 4
     },
     {
-      "title": "世界机器人大会开幕",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%E5%BC%80%E5%B9%95",
-      "hot_value": "1,339.7万",
+      "title": "许家印被判处无期徒刑",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91",
+      "hot_value": "1,252.1万",
       "index": 5
     },
     {
       "title": "台风沙德尔路径存变数",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E8%B7%AF%E5%BE%84%E5%AD%98%E5%8F%98%E6%95%B0",
-      "hot_value": "1,339.7万",
+      "hot_value": "1,225万",
       "index": 6
-    },
-    {
-      "title": "回顾恒大及许家印案时间线",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9E%E9%A1%BE%E6%81%92%E5%A4%A7%E5%8F%8A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%A1%88%E6%97%B6%E9%97%B4%E7%BA%BF",
-      "hot_value": "1,339.4万",
-      "index": 7
-    },
-    {
-      "title": "这个暑假我一个梗都没落下",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BF%99%E4%B8%AA%E6%9A%91%E5%81%87%E6%88%91%E4%B8%80%E4%B8%AA%E6%A2%97%E9%83%BD%E6%B2%A1%E8%90%BD%E4%B8%8B",
-      "hot_value": "1,339.4万",
-      "index": 8
     },
     {
       "title": "当我随手扎了一个丸子头",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BD%93%E6%88%91%E9%9A%8F%E6%89%8B%E6%89%8E%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B8%B8%E5%AD%90%E5%A4%B4",
-      "hot_value": "1,179.1万",
-      "index": 9
+      "hot_value": "1,184.7万",
+      "index": 7
+    },
+    {
+      "title": "巴特勒中国行向凉山捐赠球场",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B7%B4%E7%89%B9%E5%8B%92%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%90%91%E5%87%89%E5%B1%B1%E6%8D%90%E8%B5%A0%E7%90%83%E5%9C%BA",
+      "hot_value": "1,140.9万",
+      "index": 8
     },
     {
       "title": "青岛警方通报男子辱骂女游客",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E5%A5%B3%E6%B8%B8%E5%AE%A2",
-      "hot_value": "1,158.7万",
+      "hot_value": "1,055.3万",
+      "index": 9
+    },
+    {
+      "title": "贺峻霖把Vlog拍成攻略",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%8A%8AVlog%E6%8B%8D%E6%88%90%E6%94%BB%E7%95%A5",
+      "hot_value": "1,032.7万",
       "index": 10
     },
     {
-      "title": "2026年涉汛谣言大起底",
-      "url": "https://www.kuaishou.com/search/video?searchKey=2026%E5%B9%B4%E6%B6%89%E6%B1%9B%E8%B0%A3%E8%A8%80%E5%A4%A7%E8%B5%B7%E5%BA%95",
-      "hot_value": "1,126.6万",
+      "title": "台风吹落风力发电机的桨叶系谣言",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%90%BD%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA%E7%9A%84%E6%A1%A8%E5%8F%B6%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "hot_value": "1,031.1万",
       "index": 11
     },
     {
       "title": "电视剧蝉开播",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B5%E8%A7%86%E5%89%A7%E8%9D%89%E5%BC%80%E6%92%AD",
-      "hot_value": "1,120万",
+      "hot_value": "1,024.4万",
       "index": 12
-    },
-    {
-      "title": "全世界都在找凌玲",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E6%89%BE%E5%87%8C%E7%8E%B2",
-      "hot_value": "1,052万",
-      "index": 13
     },
     {
       "title": "登陆少年二周年有实感了",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E4%BA%8C%E5%91%A8%E5%B9%B4%E6%9C%89%E5%AE%9E%E6%84%9F%E4%BA%86",
-      "hot_value": "1,051.1万",
-      "index": 14
+      "hot_value": "1,024.1万",
+      "index": 13
     },
     {
       "title": "黑神话钟馗实机演示",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-      "hot_value": "1,046.5万",
-      "index": 15
+      "hot_value": "1,022.9万",
+      "index": 14
     },
     {
-      "title": "巴特勒中国行向凉山捐赠球场",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B7%B4%E7%89%B9%E5%8B%92%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%90%91%E5%87%89%E5%B1%B1%E6%8D%90%E8%B5%A0%E7%90%83%E5%9C%BA",
-      "hot_value": "1,044.4万",
-      "index": 16
+      "title": "回顾恒大及许家印案时间线",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9E%E9%A1%BE%E6%81%92%E5%A4%A7%E5%8F%8A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%A1%88%E6%97%B6%E9%97%B4%E7%BA%BF",
+      "hot_value": "1,020万",
+      "index": 15
     },
     {
       "title": "加辣夹心爆改轩姐",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8A%A0%E8%BE%A3%E5%A4%B9%E5%BF%83%E7%88%86%E6%94%B9%E8%BD%A9%E5%A7%90",
-      "hot_value": "1,037.7万",
+      "hot_value": "1,018.2万",
+      "index": 16
+    },
+    {
+      "title": "河南濮阳市范县发生3.7级地震",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E5%B8%82%E8%8C%83%E5%8E%BF%E5%8F%91%E7%94%9F3.7%E7%BA%A7%E5%9C%B0%E9%9C%87",
+      "hot_value": "1,014.7万",
       "index": 17
     },
     {
       "title": "李永金同志逝世",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E6%B0%B8%E9%87%91%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96",
-      "hot_value": "1,036.7万",
+      "hot_value": "1,011.8万",
       "index": 18
     },
     {
-      "title": "河南濮阳市范县发生3.7级地震",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8D%97%E6%BF%AE%E9%98%B3%E5%B8%82%E8%8C%83%E5%8E%BF%E5%8F%91%E7%94%9F3.7%E7%BA%A7%E5%9C%B0%E9%9C%87",
-      "hot_value": "1,034.5万",
+      "title": "世界机器人大会开幕",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%E5%BC%80%E5%B9%95",
+      "hot_value": "1,006.7万",
       "index": 19
-    },
-    {
-      "title": "重器傻子疑似被同村人杀害",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%87%8D%E5%99%A8%E5%82%BB%E5%AD%90%E7%96%91%E4%BC%BC%E8%A2%AB%E5%90%8C%E6%9D%91%E4%BA%BA%E6%9D%80%E5%AE%B3",
-      "hot_value": "1,025.9万",
-      "index": 20
-    },
-    {
-      "title": "记者带你近距离揭秘朱雀三号",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AE%B0%E8%80%85%E5%B8%A6%E4%BD%A0%E8%BF%91%E8%B7%9D%E7%A6%BB%E6%8F%AD%E7%A7%98%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7",
-      "hot_value": "1,023.4万",
-      "index": 21
     },
     {
       "title": "白浩见识到自己的厉害啦",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BD%E6%B5%A9%E8%A7%81%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8E%89%E5%AE%B3%E5%95%A6",
-      "hot_value": "1,014.1万",
-      "index": 22
+      "hot_value": "1,003.1万",
+      "index": 20
+    },
+    {
+      "title": "心雨鸵鸟婚礼高光回顾",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BF%83%E9%9B%A8%E9%B8%B5%E9%B8%9F%E5%A9%9A%E7%A4%BC%E9%AB%98%E5%85%89%E5%9B%9E%E9%A1%BE",
+      "hot_value": "999万",
+      "index": 21
     },
     {
       "title": "宇树大跌",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%87%E6%A0%91%E5%A4%A7%E8%B7%8C",
-      "hot_value": "1,013.5万",
-      "index": 23
-    },
-    {
-      "title": "金饰价格高达1472元",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%AB%98%E8%BE%BE1472%E5%85%83",
-      "hot_value": "1,012.9万",
-      "index": 24
+      "hot_value": "998.8万",
+      "index": 22
     },
     {
       "title": "曝迪丽热巴陈飞宇要见家长了",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E9%A3%9E%E5%AE%87%E8%A6%81%E8%A7%81%E5%AE%B6%E9%95%BF%E4%BA%86",
-      "hot_value": "1,006.6万",
-      "index": 25
+      "hot_value": "994万",
+      "index": 23
     },
     {
-      "title": "重器闫继才案原型",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%87%8D%E5%99%A8%E9%97%AB%E7%BB%A7%E6%89%8D%E6%A1%88%E5%8E%9F%E5%9E%8B",
-      "hot_value": "1,006.5万",
-      "index": 26
+      "title": "记者带你近距离揭秘朱雀三号",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AE%B0%E8%80%85%E5%B8%A6%E4%BD%A0%E8%BF%91%E8%B7%9D%E7%A6%BB%E6%8F%AD%E7%A7%98%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7",
+      "hot_value": "993.4万",
+      "index": 24
     },
     {
       "title": "李佳琦吃过期面包带火品牌",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%90%83%E8%BF%87%E6%9C%9F%E9%9D%A2%E5%8C%85%E5%B8%A6%E7%81%AB%E5%93%81%E7%89%8C",
-      "hot_value": "1,002.6万",
-      "index": 27
+      "hot_value": "990.5万",
+      "index": 25
     },
     {
       "title": "王祖贤上海逛吃vlog",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E7%A5%96%E8%B4%A4%E4%B8%8A%E6%B5%B7%E9%80%9B%E5%90%83vlog",
-      "hot_value": "1,001万",
+      "hot_value": "988.6万",
+      "index": 26
+    },
+    {
+      "title": "重器闫继才案原型",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%87%8D%E5%99%A8%E9%97%AB%E7%BB%A7%E6%89%8D%E6%A1%88%E5%8E%9F%E5%9E%8B",
+      "hot_value": "986.2万",
+      "index": 27
+    },
+    {
+      "title": "第18号台风沙德尔生成",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AC%AC18%E5%8F%B7%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E7%94%9F%E6%88%90",
+      "hot_value": "980.3万",
       "index": 28
     },
     {
       "title": "彭小苒承认圈外恋情",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BD%AD%E5%B0%8F%E8%8B%92%E6%89%BF%E8%AE%A4%E5%9C%88%E5%A4%96%E6%81%8B%E6%83%85",
-      "hot_value": "995.7万",
+      "hot_value": "980万",
       "index": 29
     },
     {
       "title": "妇联回应孕妇带赤裸女童就医",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A6%87%E8%81%94%E5%9B%9E%E5%BA%94%E5%AD%95%E5%A6%87%E5%B8%A6%E8%B5%A4%E8%A3%B8%E5%A5%B3%E7%AB%A5%E5%B0%B1%E5%8C%BB",
-      "hot_value": "995.5万",
+      "hot_value": "975.2万",
       "index": 30
     }
   ]

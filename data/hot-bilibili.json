@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-20T05:55:44Z",
+  "update_time": "2026-08-20T06:40:19Z",
   "count": 30,
   "list": [
     {
       "title": "《黑神话：钟馗》15分钟实机演示",
       "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "3058747播放",
+      "hot_value": "3436497播放",
       "index": 1
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "7353610播放",
+      "hot_value": "7439005播放",
       "index": 2
     },
     {
-      "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
-      "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
-      "hot_value": "702694播放",
+      "title": "多厨狂喜！舞蹈区顶流锦依卫们来给痒痒鼠庆生啦！",
+      "url": "https://www.bilibili.com/video/BV1Rc8E6JEKV",
+      "hot_value": "1857723播放",
       "index": 3
     },
     {
       "title": "【独家/完结】《将夜》第19集 光明之夜【4月国创】",
       "url": "https://www.bilibili.com/video/BV1UE8p6WEP3",
-      "hot_value": "493832播放",
+      "hot_value": "602374播放",
       "index": 4
     },
     {
-      "title": "他予回声StarToU | MacGuffin团队PV公开",
-      "url": "https://www.bilibili.com/video/BV1vC836qEY1",
-      "hot_value": "589958播放",
+      "title": "我的蚊子生病了，带它去看病",
+      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
+      "hot_value": "938811播放",
       "index": 5
     },
     {
       "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
       "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-      "hot_value": "4201364播放",
+      "hot_value": "4296834播放",
       "index": 6
-    },
-    {
-      "title": "时空列车",
-      "url": "https://www.bilibili.com/video/BV1CUbS69EAs",
-      "hot_value": "1809267播放",
-      "index": 7
     },
     {
       "title": "怪谈逃生指南第一期：《恶魔法典》",
       "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
-      "hot_value": "986750播放",
-      "index": 8
+      "hot_value": "1029834播放",
+      "index": 7
     },
     {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "6363370播放",
-      "index": 9
+      "title": "时空列车",
+      "url": "https://www.bilibili.com/video/BV1CUbS69EAs",
+      "hot_value": "1814394播放",
+      "index": 8
     },
     {
       "title": "七夕节老番茄就和自己玩游戏",
       "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
-      "hot_value": "2408531播放",
+      "hot_value": "2482802播放",
+      "index": 9
+    },
+    {
+      "title": "【七夕】我用50部电影来感受《出现又离开》这首歌，发现早已热泪盈眶",
+      "url": "https://www.bilibili.com/video/BV1Ee8n6vExr",
+      "hot_value": "540767播放",
       "index": 10
+    },
+    {
+      "title": "动态视频｜火箭降落的全过程，拍到了！",
+      "url": "https://www.bilibili.com/video/BV1nSbo6TEv4",
+      "hot_value": "129871播放",
+      "index": 11
     },
     {
       "title": "【IGN】《黑神话：钟馗》实机演示",
       "url": "https://www.bilibili.com/video/BV1SDbZ6sETi",
-      "hot_value": "357696播放",
-      "index": 11
+      "hot_value": "421141播放",
+      "index": 12
     },
     {
-      "title": "你们忍得住不说吗？",
-      "url": "https://www.bilibili.com/video/BV1u4876CE5w",
-      "hot_value": "1271213播放",
-      "index": 12
+      "title": "外卖小哥用电动车撞翻持刀男子，目击者赞撞翻持刀男子小哥有勇有谋",
+      "url": "https://www.bilibili.com/video/BV1K78n67EkC",
+      "hot_value": "1619442播放",
+      "index": 13
     },
     {
       "title": "《鸡来》一个半小时超长电影！！！",
       "url": "https://www.bilibili.com/video/BV1NBbe6jEzz",
-      "hot_value": "1985974播放",
-      "index": 13
+      "hot_value": "2027327播放",
+      "index": 14
+    },
+    {
+      "title": "你们忍得住不说吗？",
+      "url": "https://www.bilibili.com/video/BV1u4876CE5w",
+      "hot_value": "1320495播放",
+      "index": 15
     },
     {
       "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
       "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-      "hot_value": "942929播放",
-      "index": 14
-    },
-    {
-      "title": "多厨狂喜！舞蹈区顶流锦依卫们来给痒痒鼠庆生啦！",
-      "url": "https://www.bilibili.com/video/BV1Rc8E6JEKV",
-      "hot_value": "1835585播放",
-      "index": 15
-    },
-    {
-      "title": "《枪战模拟器》",
-      "url": "https://www.bilibili.com/video/BV1B6836zEsB",
-      "hot_value": "1363831播放",
+      "hot_value": "1021764播放",
       "index": 16
-    },
-    {
-      "title": "全女医生集结！速通医院查体项目！每项都需要暴露到什么程度？",
-      "url": "https://www.bilibili.com/video/BV1Ze8E6oEvs",
-      "hot_value": "761556播放",
-      "index": 17
-    },
-    {
-      "title": "《鸣潮》先约电台EP3.6——清宵《尘外客》",
-      "url": "https://www.bilibili.com/video/BV1G48g68Ej1",
-      "hot_value": "111491播放",
-      "index": 18
     },
     {
       "title": "不是！可她真的不一样！",
       "url": "https://www.bilibili.com/video/BV1pZ8j6YEHJ",
-      "hot_value": "747410播放",
+      "hot_value": "810728播放",
+      "index": 17
+    },
+    {
+      "title": "全女医生集结！速通医院查体项目！每项都需要暴露到什么程度？",
+      "url": "https://www.bilibili.com/video/BV1Ze8E6oEvs",
+      "hot_value": "790077播放",
+      "index": 18
+    },
+    {
+      "title": "《岸防炮模拟器》",
+      "url": "https://www.bilibili.com/video/BV1b58u6SEu9",
+      "hot_value": "1141447播放",
       "index": 19
     },
     {
-      "title": "一口气看7小时高质量原创文娱漫剧《我只想亏钱，怎么捧出一个时代》1~26集",
-      "url": "https://www.bilibili.com/video/BV17tb96RENv",
-      "hot_value": "605237播放",
+      "title": "当朋友总用奇怪的皮肤和你一起玩...",
+      "url": "https://www.bilibili.com/video/BV1Hn8j6ZEqN",
+      "hot_value": "1300764播放",
       "index": 20
     },
     {
-      "title": "为什么“空城计”梗能火？只盖一个大门就能骗走2.4万亿？【梗外之音18】",
-      "url": "https://www.bilibili.com/video/BV1pp8E6NES6",
-      "hot_value": "585035播放",
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "hot_value": "6406406播放",
       "index": 21
     },
     {
-      "title": "剩菜剩饭以后不能喂猪了？别慌，真相是这样的！【主播说三农】",
-      "url": "https://www.bilibili.com/video/BV1ZY8E6xEuB",
-      "hot_value": "980226播放",
+      "title": "“当全世界都知道你10天后成为超人（27）”",
+      "url": "https://www.bilibili.com/video/BV13KbZ6xEpR",
+      "hot_value": "119483播放",
       "index": 22
+    },
+    {
+      "title": "打了10分钟就我一个在送，这就很尴尬了",
+      "url": "https://www.bilibili.com/video/BV1Vpbo6dEHK",
+      "hot_value": "377772播放",
+      "index": 23
     },
     {
       "title": "花41元从中国坐火车去蒙古国，曾经的蒙古帝国现在怎么样了，当地人真实生活又如何",
       "url": "https://www.bilibili.com/video/BV1XbgF6SEfr",
-      "hot_value": "3580536播放",
-      "index": 23
-    },
-    {
-      "title": "一种很“嘉豪”的合成方式",
-      "url": "https://www.bilibili.com/video/BV18obz6BEiR",
-      "hot_value": "2865485播放",
+      "hot_value": "3718218播放",
       "index": 24
     },
     {
       "title": "韩国从黄金时代到黑铁",
       "url": "https://www.bilibili.com/video/BV1RV876HEd5",
-      "hot_value": "1607391播放",
+      "hot_value": "1628384播放",
       "index": 25
     },
     {
-      "title": "《如常运转｜正常運転》MV：全世界都会震惊于日本的灾后重建速度",
-      "url": "https://www.bilibili.com/video/BV1h88g6tEQv",
-      "hot_value": "2018594播放",
+      "title": "一口气看7小时高质量原创文娱漫剧《我只想亏钱，怎么捧出一个时代》1~26集",
+      "url": "https://www.bilibili.com/video/BV17tb96RENv",
+      "hot_value": "621415播放",
       "index": 26
-    },
-    {
-      "title": "疾风借用了泉奈的写轮眼去打航天 ⚡️以防你不知道三角洲也有条疯狗⚡️",
-      "url": "https://www.bilibili.com/video/BV11s836SEbk",
-      "hot_value": "758059播放",
-      "index": 27
-    },
-    {
-      "title": "NiKo vs apEX 测谎仪“对决”",
-      "url": "https://www.bilibili.com/video/BV1ji8n6PEof",
-      "hot_value": "466445播放",
-      "index": 28
-    },
-    {
-      "title": "注视着你连唱20分钟~专属于你的七夕甜蜜电台💕",
-      "url": "https://www.bilibili.com/video/BV13N8E6mEiY",
-      "hot_value": "535287播放",
-      "index": 29
     },
     {
       "title": "我把我所有的硬币立在了一支笔上(太简单了，等我弄到更多的硬币 )",
       "url": "https://www.bilibili.com/video/BV1VEba6HEaD",
-      "hot_value": "1828960播放",
+      "hot_value": "1891300播放",
+      "index": 27
+    },
+    {
+      "title": "为什么“空城计”梗能火？只盖一个大门就能骗走2.4万亿？【梗外之音18】",
+      "url": "https://www.bilibili.com/video/BV1pp8E6NES6",
+      "hot_value": "622607播放",
+      "index": 28
+    },
+    {
+      "title": "各个省份早餐对比（第一期）",
+      "url": "https://www.bilibili.com/video/BV15a856kEtX",
+      "hot_value": "1973549播放",
+      "index": 29
+    },
+    {
+      "title": "剩菜剩饭以后不能喂猪了？别慌，真相是这样的！【主播说三农】",
+      "url": "https://www.bilibili.com/video/BV1ZY8E6xEuB",
+      "hot_value": "1003418播放",
       "index": 30
     }
   ]
