@@ -1,49 +1,49 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-20T23:20:45Z",
+  "update_time": "2026-08-20T23:49:07Z",
   "count": 30,
   "list": [
     {
       "title": "蒙不法分子擅闯中资营地侮辱中方员工，如何看待中方提出交涉？",
       "url": "https://www.zhihu.com/question/2073199570427953525",
-      "hot_value": "238 万热度",
+      "hot_value": "307 万热度",
       "index": 1
     },
     {
       "title": "男子不接受公司主动离职安排，公司设「监狱式待岗工位」，每日打卡四次并接受监控，公司这么做合适吗？",
       "url": "https://www.zhihu.com/question/2073722027542893779",
-      "hot_value": "161 万热度",
+      "hot_value": "182 万热度",
       "index": 2
     },
     {
       "title": "如何看待《诡秘之主》称游戏开发总成本已达 12 亿，大型 MMO 没 10 亿上不了桌？钱都烧哪了？能回本吗？",
       "url": "https://www.zhihu.com/question/2073537903460706263",
-      "hot_value": "158 万热度",
+      "hot_value": "156 万热度",
       "index": 3
     },
     {
       "title": "女子多次凌晨倒掉爱心水只为拿走空瓶，这种行为出于什么心理？从法律角度来看，捐水的店主有啥维权的办法吗？",
       "url": "https://www.zhihu.com/question/2073677774934341205",
-      "hot_value": "116 万热度",
+      "hot_value": "126 万热度",
       "index": 4
     },
     {
       "title": "蟹塘每天被国宝「东方白鹳」吃掉三四万元螃蟹，塘主直呼扛不住，有哪些好的解决办法吗？塘主的损失谁该负责？",
       "url": "https://www.zhihu.com/question/2073078431583921634",
-      "hot_value": "111 万热度",
+      "hot_value": "112 万热度",
       "index": 5
-    },
-    {
-      "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
-      "url": "https://www.zhihu.com/question/2072733800774354696",
-      "hot_value": "110 万热度",
-      "index": 6
     },
     {
       "title": "抖音推出「馋猫外卖」虚拟点餐，订单不会送达，金额存入「一起攒」，如何看待这一功能？怎样从商业角度解读？",
       "url": "https://www.zhihu.com/question/2073021871205913577",
       "hot_value": "107 万热度",
+      "index": 6
+    },
+    {
+      "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
+      "url": "https://www.zhihu.com/question/2072733800774354696",
+      "hot_value": "102 万热度",
       "index": 7
     },
     {
@@ -53,63 +53,63 @@
       "index": 8
     },
     {
-      "title": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔？",
-      "url": "https://www.zhihu.com/question/2073734322373267652",
-      "hot_value": "88 万热度",
+      "title": "如何评价《一人之下》第 773（827）话？",
+      "url": "https://www.zhihu.com/question/2073926397064695975",
+      "hot_value": "92 万热度",
       "index": 9
     },
     {
       "title": "如何评价段奕宏主演的警匪剧《藏锋》？",
       "url": "https://www.zhihu.com/question/2072743994971219012",
-      "hot_value": "86 万热度",
+      "hot_value": "91 万热度",
       "index": 10
     },
     {
       "title": "美军驱逐舰南海断电 4 天，是否预示美海军舰艇维护困境？",
       "url": "https://www.zhihu.com/question/2073062309329630659",
-      "hot_value": "86 万热度",
+      "hot_value": "89 万热度",
       "index": 11
     },
     {
       "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
       "url": "https://www.zhihu.com/question/2073476043097359622",
-      "hot_value": "86 万热度",
+      "hot_value": "88 万热度",
       "index": 12
-    },
-    {
-      "title": "RTX5060Ti 显卡价格暴涨至 6000 元，其背后可能存在哪些原因？",
-      "url": "https://www.zhihu.com/question/2071930729903174962",
-      "hot_value": "86 万热度",
-      "index": 13
-    },
-    {
-      "title": "如何评价《一人之下》第 773（827）话？",
-      "url": "https://www.zhihu.com/question/2073926397064695975",
-      "hot_value": "85 万热度",
-      "index": 14
     },
     {
       "title": "顾客曝全季酒店敞房门 8 小时，20 万财产无人看管，片区主管称再追究下去对你我都不好，哪些问题值得关注？",
       "url": "https://www.zhihu.com/question/2073689240164988172",
-      "hot_value": "81 万热度",
-      "index": 15
+      "hot_value": "84 万热度",
+      "index": 13
     },
     {
       "title": "多地商场外墙撤下商业广告，挂上钱学森、邓稼先等多名科学家公益海报，这么做背后可能有哪些考量？",
       "url": "https://www.zhihu.com/question/2073026704260469328",
       "hot_value": "78 万热度",
-      "index": 16
+      "index": 14
     },
     {
-      "title": "如何看待杨国福麻辣烫宣称花滑名将羽生结弦为开业送花，被打假后公开致歉？",
-      "url": "https://www.zhihu.com/question/2073080946471989340",
+      "title": "RTX5060Ti 显卡价格暴涨至 6000 元，其背后可能存在哪些原因？",
+      "url": "https://www.zhihu.com/question/2071930729903174962",
       "hot_value": "78 万热度",
-      "index": 17
+      "index": 15
     },
     {
       "title": "失业真的是一件很可怕的事吗？",
       "url": "https://www.zhihu.com/question/1946369401885561897",
-      "hot_value": "76 万热度",
+      "hot_value": "77 万热度",
+      "index": 16
+    },
+    {
+      "title": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔？",
+      "url": "https://www.zhihu.com/question/2073734322373267652",
+      "hot_value": "75 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何看待杨国福麻辣烫宣称花滑名将羽生结弦为开业送花，被打假后公开致歉？",
+      "url": "https://www.zhihu.com/question/2073080946471989340",
+      "hot_value": "73 万热度",
       "index": 18
     },
     {
@@ -121,19 +121,19 @@
     {
       "title": "黄蓉更疼爱郭芙还是郭襄？",
       "url": "https://www.zhihu.com/question/2023462892490560093",
-      "hot_value": "69 万热度",
+      "hot_value": "71 万热度",
       "index": 20
     },
     {
       "title": "特朗普宣布对伊朗采取「史上最严厉经济行动」，并呼吁盟友一道孤立伊朗，如何看待该举措？将带来哪些影响？",
       "url": "https://www.zhihu.com/question/2073707908609618664",
-      "hot_value": "69 万热度",
+      "hot_value": "70 万热度",
       "index": 21
     },
     {
       "title": "为什么武侠游戏里都没有广东、广西、海南的门派呢？",
       "url": "https://www.zhihu.com/question/2070198890213663148",
-      "hot_value": "68 万热度",
+      "hot_value": "70 万热度",
       "index": 22
     },
     {
@@ -149,39 +149,39 @@
       "index": 24
     },
     {
-      "title": "恒大集团和恒大地产被罚，那些因烂尾楼、理财暴雷等受损的受害者该如何维护自身权益呢？",
-      "url": "https://www.zhihu.com/question/2073766097631671160",
+      "title": "你有没有因为书名而买的书？",
+      "url": "https://www.zhihu.com/question/1148310314",
       "hot_value": "66 万热度",
       "index": 25
     },
     {
-      "title": "你有没有因为书名而买的书？",
-      "url": "https://www.zhihu.com/question/1148310314",
-      "hot_value": "65 万热度",
+      "title": "天蚕土豆新书更新 8 天吸流 1100 多万，这是成功了吗？",
+      "url": "https://www.zhihu.com/question/2072223568478332548",
+      "hot_value": "59 万热度",
       "index": 26
     },
     {
-      "title": "如果半岛没有分裂（韩国继承半岛全境），今天的朝鲜地区城市，如平壤、元山会发展成什么样？",
-      "url": "https://www.zhihu.com/question/1954481061263312821",
-      "hot_value": "63 万热度",
+      "title": "《欢迎来龙餐馆》中的美军监狱为什么会被攻破？",
+      "url": "https://www.zhihu.com/question/2072111940571338706",
+      "hot_value": "59 万热度",
       "index": 27
     },
     {
-      "title": "《欢迎来龙餐馆》中，徐福会后悔没有给校长上真的辣椒水吗？",
-      "url": "https://www.zhihu.com/question/2073088603169857894",
-      "hot_value": "63 万热度",
+      "title": "档案袋被长辈不慎拆开，毕业生崩溃大吼，学生的档案袋里都有什么？不小心被拆开后如何补救？",
+      "url": "https://www.zhihu.com/question/2072646823832031784",
+      "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "拿到录取通知书只是开始，真正迷茫的是大学四年怎么活？",
-      "url": "https://www.zhihu.com/question/2072851098952586927",
-      "hot_value": "62 万热度",
+      "title": "有哪些数学定理或者数学知识惊呆了你？",
+      "url": "https://www.zhihu.com/question/29868843",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
       "title": "网传《空枪》案件原型为李嘉诚儿子被绑案，这一说法有依据吗？在电影里哪些情节有所体现？",
       "url": "https://www.zhihu.com/question/2073693341028284107",
-      "hot_value": "61 万热度",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
