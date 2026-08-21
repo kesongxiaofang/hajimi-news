@@ -1,85 +1,85 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-21T15:58:00Z",
+  "update_time": "2026-08-21T16:37:57Z",
   "count": 30,
   "list": [
     {
       "title": "如何看待一位口腔科医生自述未给无活动性出血患者验血，患者两天后脑出血死亡，自己则被起诉漏诊？",
       "url": "https://www.zhihu.com/question/2073452582614332149",
-      "hot_value": "593 万热度",
+      "hot_value": "640 万热度",
       "index": 1
     },
     {
       "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
       "url": "https://www.zhihu.com/question/2074181821978376015",
-      "hot_value": "442 万热度",
+      "hot_value": "524 万热度",
       "index": 2
     },
     {
       "title": "铁路部门通报「两人买三张票空座放零食事件」，称空座为未检票旅客座位，另两人不能占用，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2074241643339675348",
-      "hot_value": "238 万热度",
+      "hot_value": "276 万热度",
       "index": 3
     },
     {
       "title": "如何看待 8 月 21 日市场监管总局公告 9 家车企（特斯拉，小米，小鹏等）因车门紧急拉手不醒目召回多款汽车？",
       "url": "https://www.zhihu.com/question/2074215531071148357",
-      "hot_value": "181 万热度",
+      "hot_value": "207 万热度",
       "index": 4
     },
     {
       "title": "台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2074104395411584649",
-      "hot_value": "164 万热度",
+      "hot_value": "175 万热度",
       "index": 5
     },
     {
       "title": "问界儿童车开启预售，售价 15800，如何评价其市场竞争力？",
       "url": "https://www.zhihu.com/question/2074138107566191275",
-      "hot_value": "147 万热度",
+      "hot_value": "164 万热度",
       "index": 6
-    },
-    {
-      "title": "柯洁称找到了破解围棋 AI 的方法，只需要装弱智哪怕让 AI 九子也能赢，这招可行吗？是什么原理？",
-      "url": "https://www.zhihu.com/question/2073421689262532035",
-      "hot_value": "141 万热度",
-      "index": 7
     },
     {
       "title": "北京理工大学、南京航空航天大学等多所名校新校区搬到县城，去县城读名校是捡漏还是踩坑？会影响学生发展吗？",
       "url": "https://www.zhihu.com/question/2074111696277337659",
+      "hot_value": "125 万热度",
+      "index": 7
+    },
+    {
+      "title": "什么科学发现起初看似无用，但后来证明非常重要？",
+      "url": "https://www.zhihu.com/question/349247935",
       "hot_value": "119 万热度",
       "index": 8
     },
     {
       "title": "花椒的味道那么奇怪，为什么古代最高级别的宠爱会叫「椒房之宠」呢？",
       "url": "https://www.zhihu.com/question/2045496595798553915",
-      "hot_value": "118 万热度",
+      "hot_value": "113 万热度",
       "index": 9
-    },
-    {
-      "title": "什么科学发现起初看似无用，但后来证明非常重要？",
-      "url": "https://www.zhihu.com/question/349247935",
-      "hot_value": "117 万热度",
-      "index": 10
     },
     {
       "title": "如何看待千万粉丝网红「桃黑黑」发长文称将离开互联网一段时间？",
       "url": "https://www.zhihu.com/question/2073490726688482721",
-      "hot_value": "105 万热度",
-      "index": 11
-    },
-    {
-      "title": "为什么感觉三角洲越来越没意思了？",
-      "url": "https://www.zhihu.com/question/2070144802373506046",
-      "hot_value": "95 万热度",
-      "index": 12
+      "hot_value": "106 万热度",
+      "index": 10
     },
     {
       "title": "MMORPG 游戏《诡秘之主》开服一小时同时在线破 70 万，这游戏玩起来怎么样？",
       "url": "https://www.zhihu.com/question/2074104012740347418",
-      "hot_value": "94 万热度",
+      "hot_value": "106 万热度",
+      "index": 11
+    },
+    {
+      "title": "柯洁称找到了破解围棋 AI 的方法，只需要装弱智哪怕让 AI 九子也能赢，这招可行吗？是什么原理？",
+      "url": "https://www.zhihu.com/question/2073421689262532035",
+      "hot_value": "97 万热度",
+      "index": 12
+    },
+    {
+      "title": "为什么感觉三角洲越来越没意思了？",
+      "url": "https://www.zhihu.com/question/2070144802373506046",
+      "hot_value": "96 万热度",
       "index": 13
     },
     {
@@ -91,7 +91,7 @@
     {
       "title": "相声名家田立禾去世，享年 91 岁，你对他有哪些记忆？",
       "url": "https://www.zhihu.com/question/2074145890470552691",
-      "hot_value": "79 万热度",
+      "hot_value": "84 万热度",
       "index": 15
     },
     {
@@ -103,31 +103,31 @@
     {
       "title": "为什么分手后，大脑常常放大美好回忆，却淡化当初决定离开的原因？",
       "url": "https://www.zhihu.com/question/2072666413798576307",
-      "hot_value": "76 万热度",
+      "hot_value": "74 万热度",
       "index": 17
-    },
-    {
-      "title": "被录到俄语专业了，有没有可能让我迷恋上的俄语文化和人物？",
-      "url": "https://www.zhihu.com/question/2071071147865776621",
-      "hot_value": "75 万热度",
-      "index": 18
     },
     {
       "title": "哪部文学作品中的友情曾深刻改变你对朋友的看法？",
       "url": "https://www.zhihu.com/question/2071246196513792385",
       "hot_value": "70 万热度",
+      "index": 18
+    },
+    {
+      "title": "LPL2026 赛季第三赛段组内赛 TES 0:2 BLG，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2074255171236976505",
+      "hot_value": "64 万热度",
       "index": 19
     },
     {
       "title": "考了驾照的人不一定会开车，你知道这是为什么吗?",
       "url": "https://www.zhihu.com/question/2072909871465377919",
-      "hot_value": "62 万热度",
+      "hot_value": "59 万热度",
       "index": 20
     },
     {
-      "title": "LPL2026 赛季第三赛段组内赛 TES 0:2 BLG，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2074255171236976505",
-      "hot_value": "61 万热度",
+      "title": "被录到俄语专业了，有没有可能让我迷恋上的俄语文化和人物？",
+      "url": "https://www.zhihu.com/question/2071071147865776621",
+      "hot_value": "58 万热度",
       "index": 21
     },
     {
@@ -149,32 +149,32 @@
       "index": 24
     },
     {
-      "title": "如何评价某高校在学生宿舍安装校园网并强制拆除学生自己买的宽带？大学宿舍如何配置网络最合理？",
-      "url": "https://www.zhihu.com/question/2073132995498565827",
+      "title": "如何看待丘成桐领军计划新考纲？",
+      "url": "https://www.zhihu.com/question/2074029985715721172",
       "hot_value": "56 万热度",
       "index": 25
     },
     {
-      "title": "为什么玻璃上两水滴相遇后下落速度变快？",
-      "url": "https://www.zhihu.com/question/265890645",
+      "title": "为什么领导总是强调问题导向？",
+      "url": "https://www.zhihu.com/question/1940022753886466602",
       "hot_value": "56 万热度",
       "index": 26
     },
     {
-      "title": "如何评价鸣潮 3.6 版本的新角色清宵？",
-      "url": "https://www.zhihu.com/question/2073776632259784835",
+      "title": "有孩子和没孩子区别真的很大吗？",
+      "url": "https://www.zhihu.com/question/2020592096608883992",
       "hot_value": "56 万热度",
       "index": 27
     },
     {
-      "title": "你对原神今年的 6 周年庆有哪些擅自期待？",
-      "url": "https://www.zhihu.com/question/2073847648235406731",
+      "title": "面对职场霸凌，是直接还击，还是默不作声继续工作？",
+      "url": "https://www.zhihu.com/question/2025266147155526657",
       "hot_value": "56 万热度",
       "index": 28
     },
     {
-      "title": "复旦团队在《Nature》证实高温超导的二维本质，这一研究突破有哪些意义？",
-      "url": "https://www.zhihu.com/question/2071555528765825588",
+      "title": "《一饭封神》里评委说莫氏鸡煲「技术含量不高」，谢霆锋却夸「鸡好汤好喝」，你更认同哪种评价？",
+      "url": "https://www.zhihu.com/question/2067638264555747023",
       "hot_value": "56 万热度",
       "index": 29
     },
