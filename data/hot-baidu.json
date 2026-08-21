@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-08-21T14:30:05Z",
+  "update_time": "2026-08-21T15:05:03Z",
   "count": 30,
   "list": [
     {
       "title": "绿我涓滴 会它千顷澄碧",
       "url": "https://www.baidu.com/s?wd=%E7%BB%BF%E6%88%91%E6%B6%93%E6%BB%B4+%E4%BC%9A%E5%AE%83%E5%8D%83%E9%A1%B7%E6%BE%84%E7%A2%A7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904307",
+      "hot_value": "7904423",
       "index": 1
     },
     {
       "title": "影城推出午休服务 睡2.5小时仅1元多",
       "url": "https://www.baidu.com/s?wd=%E5%BD%B1%E5%9F%8E%E6%8E%A8%E5%87%BA%E5%8D%88%E4%BC%91%E6%9C%8D%E5%8A%A1+%E7%9D%A12.5%E5%B0%8F%E6%97%B6%E4%BB%851%E5%85%83%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7808421",
+      "hot_value": "7807909",
       "index": 2
     },
     {
       "title": "全球粮食危机或于明年爆发",
       "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%B2%AE%E9%A3%9F%E5%8D%B1%E6%9C%BA%E6%88%96%E4%BA%8E%E6%98%8E%E5%B9%B4%E7%88%86%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7713828",
+      "hot_value": "7712669",
       "index": 3
     },
     {
       "title": "雨天谨防触电 如何科学避险",
       "url": "https://www.baidu.com/s?wd=%E9%9B%A8%E5%A4%A9%E8%B0%A8%E9%98%B2%E8%A7%A6%E7%94%B5+%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7615895",
+      "hot_value": "7617713",
       "index": 4
     },
     {
       "title": "官方回应旅客买票占座放零食",
       "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%85%E5%AE%A2%E4%B9%B0%E7%A5%A8%E5%8D%A0%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7522631",
+      "hot_value": "7524164",
       "index": 5
     },
     {
-      "title": "如是书院被查封 被洗脑的家长还没醒",
-      "url": "https://www.baidu.com/s?wd=%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2%E8%A2%AB%E6%9F%A5%E5%B0%81+%E8%A2%AB%E6%B4%97%E8%84%91%E7%9A%84%E5%AE%B6%E9%95%BF%E8%BF%98%E6%B2%A1%E9%86%92&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7424988",
+      "title": "“假鲁迅”“假余华”泛滥 谁来管",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%87%E9%B2%81%E8%BF%85%E2%80%9D%E2%80%9C%E5%81%87%E4%BD%99%E5%8D%8E%E2%80%9D%E6%B3%9B%E6%BB%A5+%E8%B0%81%E6%9D%A5%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7429294",
       "index": 6
     },
     {
-      "title": "山东临沂一社区发生爆炸 致1死2失联",
-      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%B4%E6%B2%82%E4%B8%80%E7%A4%BE%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8+%E8%87%B41%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7330954",
+      "title": "山东临沂一平房院落爆炸致1死2失联",
+      "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E4%B8%B4%E6%B2%82%E4%B8%80%E5%B9%B3%E6%88%BF%E9%99%A2%E8%90%BD%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB2%E5%A4%B1%E8%81%94&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7332351",
       "index": 7
     },
     {
-      "title": "钓鱼佬钓起一袋疑似公章 当地回应",
-      "url": "https://www.baidu.com/s?wd=%E9%92%93%E9%B1%BC%E4%BD%AC%E9%92%93%E8%B5%B7%E4%B8%80%E8%A2%8B%E7%96%91%E4%BC%BC%E5%85%AC%E7%AB%A0+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7238710",
+      "title": "光纤龙头 净利大增888.88%",
+      "url": "https://www.baidu.com/s?wd=%E5%85%89%E7%BA%A4%E9%BE%99%E5%A4%B4+%E5%87%80%E5%88%A9%E5%A4%A7%E5%A2%9E888.88%25&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7235428",
       "index": 8
     },
     {
       "title": "微信新功能有点丑丑的",
       "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E6%9C%89%E7%82%B9%E4%B8%91%E4%B8%91%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7139256",
+      "hot_value": "7140410",
       "index": 9
     },
     {
-      "title": "“假鲁迅”“假余华”泛滥 谁来管",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%87%E9%B2%81%E8%BF%85%E2%80%9D%E2%80%9C%E5%81%87%E4%BD%99%E5%8D%8E%E2%80%9D%E6%B3%9B%E6%BB%A5+%E8%B0%81%E6%9D%A5%E7%AE%A1&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7043259",
+      "title": "张雪机车召回部分摩托车",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%8F%AC%E5%9B%9E%E9%83%A8%E5%88%86%E6%91%A9%E6%89%98%E8%BD%A6&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7043814",
       "index": 10
     },
     {
-      "title": "美股三大指数高开 SK海力士涨超2%",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%B6%852%25&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6951129",
+      "title": "宁德舰最新训练画面",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E8%88%B0%E6%9C%80%E6%96%B0%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6944912",
       "index": 11
     },
     {
       "title": "湖北快递员被罚100元结束生命不实",
       "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%BF%AB%E9%80%92%E5%91%98%E8%A2%AB%E7%BD%9A100%E5%85%83%E7%BB%93%E6%9D%9F%E7%94%9F%E5%91%BD%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6848600",
+      "hot_value": "6857936",
       "index": 12
     },
     {
       "title": "临沂爆炸疑因租户非法储存捕鱼爆炸物",
       "url": "https://www.baidu.com/s?wd=%E4%B8%B4%E6%B2%82%E7%88%86%E7%82%B8%E7%96%91%E5%9B%A0%E7%A7%9F%E6%88%B7%E9%9D%9E%E6%B3%95%E5%82%A8%E5%AD%98%E6%8D%95%E9%B1%BC%E7%88%86%E7%82%B8%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6755773",
+      "hot_value": "6752433",
       "index": 13
     },
     {
       "title": "小沈阳初舞台摔倒",
       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%88%9D%E8%88%9E%E5%8F%B0%E6%91%94%E5%80%92&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6664105",
+      "hot_value": "6666513",
       "index": 14
     },
     {
-      "title": "12.4万亿元！关乎你的衣食住行",
-      "url": "https://www.baidu.com/s?wd=12.4%E4%B8%87%E4%BA%BF%E5%85%83%EF%BC%81%E5%85%B3%E4%B9%8E%E4%BD%A0%E7%9A%84%E8%A1%A3%E9%A3%9F%E4%BD%8F%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6569430",
+      "title": "500万成本狂揽34亿 这片太恐怖了",
+      "url": "https://www.baidu.com/s?wd=500%E4%B8%87%E6%88%90%E6%9C%AC%E7%8B%82%E6%8F%BD34%E4%BA%BF+%E8%BF%99%E7%89%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6562013",
       "index": 15
     },
     {
       "title": "台风沙德尔周日或升级为超强台风",
       "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E5%91%A8%E6%97%A5%E6%88%96%E5%8D%87%E7%BA%A7%E4%B8%BA%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6478095",
+      "hot_value": "6476005",
       "index": 16
     },
     {
-      "title": "长江存储冲刺科创板",
-      "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%86%B2%E5%88%BA%E7%A7%91%E5%88%9B%E6%9D%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6369368",
+      "title": "如是书院被查封 被洗脑的家长还没醒",
+      "url": "https://www.baidu.com/s?wd=%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2%E8%A2%AB%E6%9F%A5%E5%B0%81+%E8%A2%AB%E6%B4%97%E8%84%91%E7%9A%84%E5%AE%B6%E9%95%BF%E8%BF%98%E6%B2%A1%E9%86%92&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6366952",
       "index": 17
     },
     {
-      "title": "500万成本狂揽34亿 这片太恐怖了",
-      "url": "https://www.baidu.com/s?wd=500%E4%B8%87%E6%88%90%E6%9C%AC%E7%8B%82%E6%8F%BD34%E4%BA%BF+%E8%BF%99%E7%89%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6284196",
+      "title": "钓鱼佬钓起一袋疑似公章 当地回应",
+      "url": "https://www.baidu.com/s?wd=%E9%92%93%E9%B1%BC%E4%BD%AC%E9%92%93%E8%B5%B7%E4%B8%80%E8%A2%8B%E7%96%91%E4%BC%BC%E5%85%AC%E7%AB%A0+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6274993",
       "index": 18
     },
     {
-      "title": "宁德舰最新训练画面",
-      "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E8%88%B0%E6%9C%80%E6%96%B0%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6179229",
+      "title": "阿联酋航司客机播报欢迎来到中国台湾",
+      "url": "https://www.baidu.com/s?wd=%E9%98%BF%E8%81%94%E9%85%8B%E8%88%AA%E5%8F%B8%E5%AE%A2%E6%9C%BA%E6%92%AD%E6%8A%A5%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6178361",
       "index": 19
     },
     {
-      "title": "问界儿童车预计定价15800元",
-      "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E5%84%BF%E7%AB%A5%E8%BD%A6%E9%A2%84%E8%AE%A1%E5%AE%9A%E4%BB%B715800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6095357",
+      "title": "歌手自曝乘网约车在高速上出车祸",
+      "url": "https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E8%87%AA%E6%9B%9D%E4%B9%98%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%9C%A8%E9%AB%98%E9%80%9F%E4%B8%8A%E5%87%BA%E8%BD%A6%E7%A5%B8&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6078494",
       "index": 20
     },
     {
       "title": "本周演唱会热门推荐",
       "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E7%83%AD%E9%97%A8%E6%8E%A8%E8%8D%90&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5989702",
+      "hot_value": "5991045",
       "index": 21
     },
     {
       "title": "微信测试“按住转文字”新功能",
       "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%B5%8B%E8%AF%95%E2%80%9C%E6%8C%89%E4%BD%8F%E8%BD%AC%E6%96%87%E5%AD%97%E2%80%9D%E6%96%B0%E5%8A%9F%E8%83%BD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5887971",
+      "hot_value": "5895287",
       "index": 22
     },
     {
       "title": "湖北一村庄自来水频繁出现黑色沉淀物",
       "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E6%9D%91%E5%BA%84%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%A2%91%E7%B9%81%E5%87%BA%E7%8E%B0%E9%BB%91%E8%89%B2%E6%B2%89%E6%B7%80%E7%89%A9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5797475",
+      "hot_value": "5793713",
       "index": 23
     },
     {
       "title": "小沈阳也搞上唱跳了",
       "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%B2%88%E9%98%B3%E4%B9%9F%E6%90%9E%E4%B8%8A%E5%94%B1%E8%B7%B3%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5699103",
+      "hot_value": "5711167",
       "index": 24
     },
     {
-      "title": "男子给9名聚餐学生买单696元",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%999%E5%90%8D%E8%81%9A%E9%A4%90%E5%AD%A6%E7%94%9F%E4%B9%B0%E5%8D%95696%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5598907",
+      "title": "男子在KTV包厢厕所殴打女子被刑拘",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8KTV%E5%8C%85%E5%8E%A2%E5%8E%95%E6%89%80%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5611262",
       "index": 25
     },
     {
-      "title": "台风沙德尔增强",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E5%A2%9E%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5524671",
+      "title": "问界儿童车预计定价15800元",
+      "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E5%84%BF%E7%AB%A5%E8%BD%A6%E9%A2%84%E8%AE%A1%E5%AE%9A%E4%BB%B715800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5508311",
       "index": 26
-    },
-    {
-      "title": "DeepSeekV4视觉模型上线",
-      "url": "https://www.baidu.com/s?wd=DeepSeekV4%E8%A7%86%E8%A7%89%E6%A8%A1%E5%9E%8B%E4%B8%8A%E7%BA%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5407447",
-      "index": 27
     },
     {
       "title": "34天3条命！河南父子在青岛接续救人",
       "url": "https://www.baidu.com/s?wd=34%E5%A4%A93%E6%9D%A1%E5%91%BD%EF%BC%81%E6%B2%B3%E5%8D%97%E7%88%B6%E5%AD%90%E5%9C%A8%E9%9D%92%E5%B2%9B%E6%8E%A5%E7%BB%AD%E6%95%91%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5311113",
+      "hot_value": "5407070",
+      "index": 27
+    },
+    {
+      "title": "12.4万亿元！关乎你的衣食住行",
+      "url": "https://www.baidu.com/s?wd=12.4%E4%B8%87%E4%BA%BF%E5%85%83%EF%BC%81%E5%85%B3%E4%B9%8E%E4%BD%A0%E7%9A%84%E8%A1%A3%E9%A3%9F%E4%BD%8F%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5331046",
       "index": 28
     },
     {
-      "title": "歌手自曝乘网约车在高速上出车祸",
-      "url": "https://www.baidu.com/s?wd=%E6%AD%8C%E6%89%8B%E8%87%AA%E6%9B%9D%E4%B9%98%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%9C%A8%E9%AB%98%E9%80%9F%E4%B8%8A%E5%87%BA%E8%BD%A6%E7%A5%B8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5236181",
+      "title": "台风沙德尔增强",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E5%A2%9E%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5227223",
       "index": 29
     },
     {
       "title": "民生人寿 生肖不合裁员",
       "url": "https://www.baidu.com/s?wd=%E6%B0%91%E7%94%9F%E4%BA%BA%E5%AF%BF+%E7%94%9F%E8%82%96%E4%B8%8D%E5%90%88%E8%A3%81%E5%91%98&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5125910",
+      "hot_value": "5146799",
       "index": 30
     }
   ]

@@ -1,180 +1,180 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-21T14:30:05Z",
+  "update_time": "2026-08-21T15:05:03Z",
   "count": 30,
   "list": [
     {
       "title": "如何看待一位口腔科医生自述未给无活动性出血患者验血，患者两天后脑出血死亡，自己则被起诉漏诊？",
       "url": "https://www.zhihu.com/question/2073452582614332149",
-      "hot_value": "517 万热度",
+      "hot_value": "539 万热度",
       "index": 1
     },
     {
       "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
       "url": "https://www.zhihu.com/question/2074181821978376015",
-      "hot_value": "295 万热度",
+      "hot_value": "342 万热度",
       "index": 2
     },
     {
       "title": "柯洁称找到了破解围棋 AI 的方法，只需要装弱智哪怕让 AI 九子也能赢，这招可行吗？是什么原理？",
       "url": "https://www.zhihu.com/question/2073421689262532035",
-      "hot_value": "231 万热度",
+      "hot_value": "203 万热度",
       "index": 3
+    },
+    {
+      "title": "铁路部门通报「两人买三张票空座放零食事件」，称空座为未检票旅客座位，另两人不能占用，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2074241643339675348",
+      "hot_value": "183 万热度",
+      "index": 4
     },
     {
       "title": "台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2074104395411584649",
-      "hot_value": "133 万热度",
-      "index": 4
+      "hot_value": "147 万热度",
+      "index": 5
     },
     {
       "title": "问界儿童车开启预售，售价 15800，如何评价其市场竞争力？",
       "url": "https://www.zhihu.com/question/2074138107566191275",
-      "hot_value": "125 万热度",
-      "index": 5
+      "hot_value": "134 万热度",
+      "index": 6
     },
     {
       "title": "什么科学发现起初看似无用，但后来证明非常重要？",
       "url": "https://www.zhihu.com/question/349247935",
       "hot_value": "112 万热度",
-      "index": 6
+      "index": 7
     },
     {
       "title": "北京理工大学、南京航空航天大学等多所名校新校区搬到县城，去县城读名校是捡漏还是踩坑？会影响学生发展吗？",
       "url": "https://www.zhihu.com/question/2074111696277337659",
-      "hot_value": "107 万热度",
-      "index": 7
-    },
-    {
-      "title": "铁路部门通报「两人买三张票空座放零食事件」，称空座为未检票旅客座位，另两人不能占用，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2074241643339675348",
-      "hot_value": "104 万热度",
+      "hot_value": "112 万热度",
       "index": 8
     },
     {
       "title": "花椒的味道那么奇怪，为什么古代最高级别的宠爱会叫「椒房之宠」呢？",
       "url": "https://www.zhihu.com/question/2045496595798553915",
-      "hot_value": "102 万热度",
+      "hot_value": "106 万热度",
       "index": 9
+    },
+    {
+      "title": "如何看待 8 月 21 日市场监管总局公告 9 家车企（特斯拉，小米，小鹏等）因车门紧急拉手不醒目召回多款汽车？",
+      "url": "https://www.zhihu.com/question/2074215531071148357",
+      "hot_value": "101 万热度",
+      "index": 10
     },
     {
       "title": "如何看待千万粉丝网红「桃黑黑」发长文称将离开互联网一段时间？",
       "url": "https://www.zhihu.com/question/2073490726688482721",
-      "hot_value": "99 万热度",
-      "index": 10
-    },
-    {
-      "title": "华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？",
-      "url": "https://www.zhihu.com/question/2073122669688533530",
-      "hot_value": "96 万热度",
+      "hot_value": "101 万热度",
       "index": 11
     },
     {
       "title": "为什么感觉三角洲越来越没意思了？",
       "url": "https://www.zhihu.com/question/2070144802373506046",
-      "hot_value": "94 万热度",
+      "hot_value": "95 万热度",
       "index": 12
+    },
+    {
+      "title": "华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？",
+      "url": "https://www.zhihu.com/question/2073122669688533530",
+      "hot_value": "89 万热度",
+      "index": 13
+    },
+    {
+      "title": "MMORPG 游戏《诡秘之主》开服一小时同时在线破 70 万，这游戏玩起来怎么样？",
+      "url": "https://www.zhihu.com/question/2074104012740347418",
+      "hot_value": "87 万热度",
+      "index": 14
     },
     {
       "title": "被录到俄语专业了，有没有可能让我迷恋上的俄语文化和人物？",
       "url": "https://www.zhihu.com/question/2071071147865776621",
-      "hot_value": "74 万热度",
-      "index": 13
-    },
-    {
-      "title": "考了驾照的人不一定会开车，你知道这是为什么吗?",
-      "url": "https://www.zhihu.com/question/2072909871465377919",
-      "hot_value": "60 万热度",
-      "index": 14
-    },
-    {
-      "title": "女子怀孕被房东要求退租，还被出具《房屋租赁补充告知书》限制在屋内坐月子，这合法吗？房东有权这样做吗？",
-      "url": "https://www.zhihu.com/question/2073852156734436581",
-      "hot_value": "59 万热度",
+      "hot_value": "76 万热度",
       "index": 15
     },
     {
       "title": "曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？",
       "url": "https://www.zhihu.com/question/2072772413494973775",
-      "hot_value": "59 万热度",
+      "hot_value": "68 万热度",
       "index": 16
     },
     {
       "title": "为什么分手后，大脑常常放大美好回忆，却淡化当初决定离开的原因？",
       "url": "https://www.zhihu.com/question/2072666413798576307",
-      "hot_value": "58 万热度",
+      "hot_value": "65 万热度",
       "index": 17
     },
     {
-      "title": "截止本次 15 分钟实机演示，你会愿意尝试玩《黑神话：钟馗》吗？",
-      "url": "https://www.zhihu.com/question/2073715847906813244",
-      "hot_value": "58 万热度",
+      "title": "考了驾照的人不一定会开车，你知道这是为什么吗?",
+      "url": "https://www.zhihu.com/question/2072909871465377919",
+      "hot_value": "61 万热度",
       "index": 18
     },
     {
-      "title": "《原神》中，少女哥伦比娅明明是月神，为什么在剧情中感觉战斗力并不强呢?",
-      "url": "https://www.zhihu.com/question/2073225790473425131",
-      "hot_value": "57 万热度",
+      "title": "女子怀孕被房东要求退租，还被出具《房屋租赁补充告知书》限制在屋内坐月子，这合法吗？房东有权这样做吗？",
+      "url": "https://www.zhihu.com/question/2073852156734436581",
+      "hot_value": "58 万热度",
       "index": 19
     },
     {
-      "title": "如何看待丘成桐领军计划新考纲？",
-      "url": "https://www.zhihu.com/question/2074029985715721172",
+      "title": "如果 AI 能给出很多健康答案，医生真正不可替代的地方是什么？",
+      "url": "https://www.zhihu.com/question/2069490435995832397",
       "hot_value": "57 万热度",
       "index": 20
     },
     {
-      "title": "胖东来回应「招聘刑释人员」，严格按照国家法律执行，先从中轻度犯罪类型逐步开放至中重度，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2073779065585133142",
+      "title": "有哪些数学定理或者数学知识惊呆了你？",
+      "url": "https://www.zhihu.com/question/29868843",
       "hot_value": "57 万热度",
       "index": 21
     },
     {
-      "title": "王重阳和林朝英哪个武功高？",
-      "url": "https://www.zhihu.com/question/309582132",
+      "title": "遇见小面连续 4 年降价，平均客单价降到 27.7 元，上半年净利涨超 50% ，为什么降价后赚更多？",
+      "url": "https://www.zhihu.com/question/2072777383497748766",
       "hot_value": "57 万热度",
       "index": 22
     },
     {
-      "title": "LPL2026 赛季第三赛段组内赛 LGD 1:2 BLG，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2073859761775424875",
+      "title": "网传《空枪》案件原型为李嘉诚儿子被绑案，这一说法有依据吗？在电影里哪些情节有所体现？",
+      "url": "https://www.zhihu.com/question/2073693341028284107",
       "hot_value": "57 万热度",
       "index": 23
     },
     {
-      "title": "黄蓉更疼爱郭芙还是郭襄？",
-      "url": "https://www.zhihu.com/question/2023462892490560093",
+      "title": "老夫妻中一人去世后，另一人是如何度过余下孤独的日子的？",
+      "url": "https://www.zhihu.com/question/319841534",
       "hot_value": "57 万热度",
       "index": 24
     },
     {
-      "title": "日本的信史应该从何时算起？",
-      "url": "https://www.zhihu.com/question/39673593",
+      "title": "自己做饭真的能省钱吗？",
+      "url": "https://www.zhihu.com/question/1985314719804965665",
       "hot_value": "57 万热度",
       "index": 25
     },
     {
-      "title": "日本正式实施高端机床出口管制新规，这意味着什么？",
-      "url": "https://www.zhihu.com/question/2069052566969885450",
+      "title": "鸣潮 3.6 版本「蜃云灯影，凡尘剑心」已开启，如何评价新角色和 3.6 版本剧情？",
+      "url": "https://www.zhihu.com/question/2073730616378537642",
       "hot_value": "57 万热度",
       "index": 26
     },
     {
-      "title": "国产 Linux 还有希望吗?",
-      "url": "https://www.zhihu.com/question/755709371",
+      "title": "有孩子和没孩子区别真的很大吗？",
+      "url": "https://www.zhihu.com/question/2020592096608883992",
       "hot_value": "57 万热度",
       "index": 27
     },
     {
-      "title": "档案袋被长辈不慎拆开，毕业生崩溃大吼，学生的档案袋里都有什么？不小心被拆开后如何补救？",
-      "url": "https://www.zhihu.com/question/2072646823832031784",
+      "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
+      "url": "https://www.zhihu.com/question/2072733800774354696",
       "hot_value": "57 万热度",
       "index": 28
     },
     {
-      "title": "如果半岛没有分裂（韩国继承半岛全境），今天的朝鲜地区城市，如平壤、元山会发展成什么样？",
-      "url": "https://www.zhihu.com/question/1954481061263312821",
+      "title": "《奥德赛》电影里，要是奥德修斯船上带上海格力斯能把船员带回家吗？",
+      "url": "https://www.zhihu.com/question/2072716066388702611",
       "hot_value": "57 万热度",
       "index": 29
     },
