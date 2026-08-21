@@ -1,61 +1,61 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-21T19:08:01Z",
+  "update_time": "2026-08-21T19:46:36Z",
   "count": 30,
   "list": [
     {
       "title": "铁路部门通报「两人买三张票空座放零食事件」，称空座为未检票旅客座位，另两人不能占用，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2074241643339675348",
-      "hot_value": "1059 万热度",
+      "hot_value": "981 万热度",
       "index": 1
     },
     {
       "title": "如何看待一位口腔科医生自述未给无活动性出血患者验血，患者两天后脑出血死亡，自己则被起诉漏诊？",
       "url": "https://www.zhihu.com/question/2073452582614332149",
-      "hot_value": "824 万热度",
+      "hot_value": "780 万热度",
       "index": 2
     },
     {
       "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
       "url": "https://www.zhihu.com/question/2074181821978376015",
-      "hot_value": "644 万热度",
+      "hot_value": "566 万热度",
       "index": 3
     },
     {
       "title": "问界儿童车开启预售，售价 15800，如何评价其市场竞争力？",
       "url": "https://www.zhihu.com/question/2074138107566191275",
-      "hot_value": "258 万热度",
+      "hot_value": "252 万热度",
       "index": 4
-    },
-    {
-      "title": "台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2074104395411584649",
-      "hot_value": "220 万热度",
-      "index": 5
     },
     {
       "title": "30 岁男子失业后网贷缠身，饿 20 天急性肾衰入院确诊韦尼克脑病，这是一种什么病？与其生活习惯有多大关系？",
       "url": "https://www.zhihu.com/question/2074036648128377245",
-      "hot_value": "189 万热度",
+      "hot_value": "208 万热度",
+      "index": 5
+    },
+    {
+      "title": "台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2074104395411584649",
+      "hot_value": "202 万热度",
       "index": 6
     },
     {
       "title": "MMORPG 游戏《诡秘之主》开服一小时同时在线破 70 万，这游戏玩起来怎么样？",
       "url": "https://www.zhihu.com/question/2074104012740347418",
-      "hot_value": "170 万热度",
+      "hot_value": "171 万热度",
       "index": 7
     },
     {
       "title": "北京理工大学、南京航空航天大学等多所名校新校区搬到县城，去县城读名校是捡漏还是踩坑？会影响学生发展吗？",
       "url": "https://www.zhihu.com/question/2074111696277337659",
-      "hot_value": "152 万热度",
+      "hot_value": "147 万热度",
       "index": 8
     },
     {
       "title": "什么科学发现起初看似无用，但后来证明非常重要？",
       "url": "https://www.zhihu.com/question/349247935",
-      "hot_value": "145 万热度",
+      "hot_value": "139 万热度",
       "index": 9
     },
     {
@@ -67,120 +67,120 @@
     {
       "title": "如何看待千万粉丝网红「桃黑黑」发长文称将离开互联网一段时间？",
       "url": "https://www.zhihu.com/question/2073490726688482721",
-      "hot_value": "126 万热度",
+      "hot_value": "124 万热度",
       "index": 11
-    },
-    {
-      "title": "为什么感觉三角洲越来越没意思了？",
-      "url": "https://www.zhihu.com/question/2070144802373506046",
-      "hot_value": "125 万热度",
-      "index": 12
     },
     {
       "title": "创造拼音时，为什么ü不采用 v？",
       "url": "https://www.zhihu.com/question/2067683242879215572",
       "hot_value": "123 万热度",
-      "index": 13
+      "index": 12
     },
     {
-      "title": "为什么诺兰要在《奥德赛》中加入原著没有的西农 (Sinon)？",
-      "url": "https://www.zhihu.com/question/2073384818255947630",
-      "hot_value": "114 万热度",
-      "index": 14
+      "title": "为什么感觉三角洲越来越没意思了？",
+      "url": "https://www.zhihu.com/question/2070144802373506046",
+      "hot_value": "123 万热度",
+      "index": 13
     },
     {
       "title": "《欢迎来龙餐馆》徐福和马俊生到底谁在土豆上做了手脚？",
       "url": "https://www.zhihu.com/question/2072036239923065393",
-      "hot_value": "107 万热度",
-      "index": 15
+      "hot_value": "108 万热度",
+      "index": 14
     },
     {
       "title": "媒体称旺旺集团遇「重大经营危机」裁员，裁员目标 1000 人左右，且要求员工剖析自身不足，这合理吗？",
       "url": "https://www.zhihu.com/question/2074119199954358513",
-      "hot_value": "99 万热度",
-      "index": 16
+      "hot_value": "101 万热度",
+      "index": 15
     },
     {
       "title": "柯洁称找到了破解围棋 AI 的方法，只需要装弱智哪怕让 AI 九子也能赢，这招可行吗？是什么原理？",
       "url": "https://www.zhihu.com/question/2073421689262532035",
-      "hot_value": "96 万热度",
-      "index": 17
+      "hot_value": "95 万热度",
+      "index": 16
     },
     {
       "title": "华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？",
       "url": "https://www.zhihu.com/question/2073122669688533530",
-      "hot_value": "88 万热度",
-      "index": 18
+      "hot_value": "87 万热度",
+      "index": 17
     },
     {
       "title": "曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？",
       "url": "https://www.zhihu.com/question/2072772413494973775",
       "hot_value": "87 万热度",
+      "index": 18
+    },
+    {
+      "title": "为什么诺兰要在《奥德赛》中加入原著没有的西农 (Sinon)？",
+      "url": "https://www.zhihu.com/question/2073384818255947630",
+      "hot_value": "82 万热度",
       "index": 19
     },
     {
       "title": "鼬的十拳剑从哪弄到的？他死后十拳剑消失了吗？",
       "url": "https://www.zhihu.com/question/321328175",
-      "hot_value": "76 万热度",
+      "hot_value": "75 万热度",
       "index": 20
-    },
-    {
-      "title": "哪部影视剧，拍出了你理解中的亲密关系？",
-      "url": "https://www.zhihu.com/question/2069198733858945005",
-      "hot_value": "71 万热度",
-      "index": 21
     },
     {
       "title": "有哪些看似很多实际濒危的动物？",
       "url": "https://www.zhihu.com/question/266703398",
       "hot_value": "71 万热度",
-      "index": 22
+      "index": 21
     },
     {
-      "title": "LPL2026 赛季第三赛段组内赛 TES 0:2 BLG，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2074255171236976505",
+      "title": "哪部影视剧，拍出了你理解中的亲密关系？",
+      "url": "https://www.zhihu.com/question/2069198733858945005",
       "hot_value": "70 万热度",
-      "index": 23
+      "index": 22
     },
     {
       "title": "一直坚持让大娃学钢琴，但是到了六年级，练习的时间越来越少，感觉很难坚持下去。不走专业路线，该坚持吗？",
       "url": "https://www.zhihu.com/question/670433709",
       "hot_value": "69 万热度",
+      "index": 23
+    },
+    {
+      "title": "为什么任天堂的游戏每年这么好卖，但好像话题讨论度都不怎么高呢？",
+      "url": "https://www.zhihu.com/question/1987678614079161398",
+      "hot_value": "69 万热度",
       "index": 24
+    },
+    {
+      "title": "LPL2026 赛季第三赛段组内赛 TES 0:2 BLG，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2074255171236976505",
+      "hot_value": "68 万热度",
+      "index": 25
     },
     {
       "title": "珠穆朗玛峰的海拔全球最高，距离太阳也更近，为何气温反倒很低？",
       "url": "https://www.zhihu.com/question/2073330311388317205",
       "hot_value": "67 万热度",
-      "index": 25
-    },
-    {
-      "title": "相声名家田立禾去世，享年 91 岁，你对他有哪些记忆？",
-      "url": "https://www.zhihu.com/question/2074145890470552691",
-      "hot_value": "57 万热度",
       "index": 26
     },
     {
       "title": "女子怀孕被房东要求退租，还被出具《房屋租赁补充告知书》限制在屋内坐月子，这合法吗？房东有权这样做吗？",
       "url": "https://www.zhihu.com/question/2073852156734436581",
-      "hot_value": "57 万热度",
+      "hot_value": "58 万热度",
       "index": 27
     },
     {
-      "title": "档案袋被长辈不慎拆开，毕业生崩溃大吼，学生的档案袋里都有什么？不小心被拆开后如何补救？",
-      "url": "https://www.zhihu.com/question/2072646823832031784",
+      "title": "相声名家田立禾去世，享年 91 岁，你对他有哪些记忆？",
+      "url": "https://www.zhihu.com/question/2074145890470552691",
       "hot_value": "57 万热度",
       "index": 28
     },
     {
-      "title": "人为何不要长期待在家里？",
-      "url": "https://www.zhihu.com/question/2053800644537012873",
+      "title": "档案袋被长辈不慎拆开，毕业生崩溃大吼，学生的档案袋里都有什么？不小心被拆开后如何补救？",
+      "url": "https://www.zhihu.com/question/2072646823832031784",
       "hot_value": "56 万热度",
       "index": 29
     },
     {
-      "title": "猫咪关家里一辈子，幸福还是可怜？",
-      "url": "https://www.zhihu.com/question/2037788181890905448",
+      "title": "人为何不要长期待在家里？",
+      "url": "https://www.zhihu.com/question/2053800644537012873",
       "hot_value": "56 万热度",
       "index": 30
     }
