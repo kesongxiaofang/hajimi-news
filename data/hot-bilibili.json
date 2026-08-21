@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-21T07:38:34Z",
+  "update_time": "2026-08-21T08:34:50Z",
   "count": 30,
   "list": [
     {
       "title": "《下一个是谁》第七季（3）",
       "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "419885播放",
+      "hot_value": "471701播放",
       "index": 1
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "9554306播放",
+      "hot_value": "9614725播放",
       "index": 2
     },
     {
-      "title": "《黑神话：钟馗》15分钟实机演示",
-      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "8677862播放",
+      "title": "假如你是一个诗人",
+      "url": "https://www.bilibili.com/video/BV1rTbf6CECX",
+      "hot_value": "4212724播放",
       "index": 3
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第3集 血洗缅挝【8月国创】",
       "url": "https://www.bilibili.com/video/BV1bX8u6XEWm",
-      "hot_value": "2317210播放",
+      "hot_value": "2344818播放",
       "index": 4
     },
     {
-      "title": "假如你是一个诗人",
-      "url": "https://www.bilibili.com/video/BV1rTbf6CECX",
-      "hot_value": "4087305播放",
+      "title": "《黑神话：钟馗》15分钟实机演示",
+      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
+      "hot_value": "8729996播放",
       "index": 5
-    },
-    {
-      "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
-      "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
-      "hot_value": "679968播放",
-      "index": 6
     },
     {
       "title": "举手之劳 亦是人间微光",
       "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "hot_value": "1914038播放",
+      "hot_value": "1999025播放",
+      "index": 6
+    },
+    {
+      "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
+      "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
+      "hot_value": "862724播放",
       "index": 7
     },
     {
       "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
       "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
-      "hot_value": "3504180播放",
+      "hot_value": "3611097播放",
       "index": 8
-    },
-    {
-      "title": "唐王随手捐闲钱，竟将阿萨拉扶成王！",
-      "url": "https://www.bilibili.com/video/BV1HQbf6CEG4",
-      "hot_value": "1412951播放",
-      "index": 9
-    },
-    {
-      "title": "我的蚊子生病了，带它去看病",
-      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
-      "hot_value": "2855834播放",
-      "index": 10
     },
     {
       "title": "《诡秘之主》游戏全平台公测现已开启 | 祝你拥有非凡的一天！",
       "url": "https://www.bilibili.com/video/BV1uJ8w6AEm3",
-      "hot_value": "1009226播放",
-      "index": 11
+      "hot_value": "1045916播放",
+      "index": 9
     },
     {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "8947291播放",
-      "index": 12
-    },
-    {
-      "title": "停更7年，我又以经典的方式玩MC",
-      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
-      "hot_value": "1729538播放",
-      "index": 13
-    },
-    {
-      "title": "动态视频｜火箭降落的全过程，拍到了！",
-      "url": "https://www.bilibili.com/video/BV1nSbo6TEv4",
-      "hot_value": "1355873播放",
-      "index": 14
-    },
-    {
-      "title": "知道为啥这乐队没主唱了吧",
-      "url": "https://www.bilibili.com/video/BV1vF8n6ZEUz",
-      "hot_value": "3512391播放",
-      "index": 15
+      "title": "唐王随手捐闲钱，竟将阿萨拉扶成王！",
+      "url": "https://www.bilibili.com/video/BV1HQbf6CEG4",
+      "hot_value": "1519176播放",
+      "index": 10
     },
     {
       "title": "【万字硬核考据】全方位拆解《黑钟馗》-主角/怪物/战斗/剧情/符箓",
       "url": "https://www.bilibili.com/video/BV1Ew8P6pEUE",
-      "hot_value": "695573播放",
+      "hot_value": "756032播放",
+      "index": 11
+    },
+    {
+      "title": "停更7年，我又以经典的方式玩MC",
+      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
+      "hot_value": "1763162播放",
+      "index": 12
+    },
+    {
+      "title": "我的蚊子生病了，带它去看病",
+      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
+      "hot_value": "2943832播放",
+      "index": 13
+    },
+    {
+      "title": "知道为啥这乐队没主唱了吧",
+      "url": "https://www.bilibili.com/video/BV1vF8n6ZEUz",
+      "hot_value": "3562964播放",
+      "index": 14
+    },
+    {
+      "title": "动态视频｜火箭降落的全过程，拍到了！",
+      "url": "https://www.bilibili.com/video/BV1nSbo6TEv4",
+      "hot_value": "1382992播放",
+      "index": 15
+    },
+    {
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "hot_value": "8987527播放",
       "index": 16
     },
     {
-      "title": "楚人美游记1-25合集-纯享版【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1TNb966EvD",
-      "hot_value": "582794播放",
+      "title": "《 黑 神 话 咕 嘎 》终极典藏版",
+      "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
+      "hot_value": "367904播放",
       "index": 17
     },
     {
-      "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
-      "url": "https://www.bilibili.com/video/BV1yh8w6RE4b",
-      "hot_value": "957782播放",
+      "title": "房主反杀非法上门强拆者，陕西判了，无罪",
+      "url": "https://www.bilibili.com/video/BV1pn8E6iEEo",
+      "hot_value": "1186238播放",
       "index": 18
     },
     {
       "title": "奥德修斯，跟我牛来拼你有这个实力吗？！",
       "url": "https://www.bilibili.com/video/BV1ZE8H6eE5W",
-      "hot_value": "927091播放",
+      "hot_value": "954449播放",
       "index": 19
     },
     {
-      "title": "林肯号航母士兵“哗变”？赫排长面临中年危机",
-      "url": "https://www.bilibili.com/video/BV1XP8u6xEwk",
-      "hot_value": "290057播放",
+      "title": "我用AI给我家写了一本史书",
+      "url": "https://www.bilibili.com/video/BV15A8F6KE9v",
+      "hot_value": "581937播放",
       "index": 20
-    },
-    {
-      "title": "房主反杀非法上门强拆者，陕西判了，无罪",
-      "url": "https://www.bilibili.com/video/BV1pn8E6iEEo",
-      "hot_value": "1162711播放",
-      "index": 21
     },
     {
       "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
       "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-      "hot_value": "3692469播放",
-      "index": 22
-    },
-    {
-      "title": "碟中谍",
-      "url": "https://www.bilibili.com/video/BV1qc8w6LEyU",
-      "hot_value": "957454播放",
-      "index": 23
-    },
-    {
-      "title": "《 黑 神 话 咕 嘎 》终极典藏版",
-      "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
-      "hot_value": "342182播放",
-      "index": 24
+      "hot_value": "3725081播放",
+      "index": 21
     },
     {
       "title": "时隔一年！久违的整合包生存，缆车末日惊变 100 天！绝不烂尾！！！",
       "url": "https://www.bilibili.com/video/BV1yM8A6bErQ",
-      "hot_value": "271597播放",
-      "index": 25
+      "hot_value": "302372播放",
+      "index": 22
     },
     {
-      "title": "不是哥们，卡上了？",
-      "url": "https://www.bilibili.com/video/BV14T8j6qEmD",
-      "hot_value": "182533播放",
-      "index": 26
+      "title": "楚人美游记1-25合集-纯享版【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1TNb966EvD",
+      "hot_value": "610339播放",
+      "index": 23
     },
     {
-      "title": "这次来“真”的！ SP 貂蝉传说动态皮肤绝美登场！",
-      "url": "https://www.bilibili.com/video/BV1vb8c6TENA",
-      "hot_value": "436481播放",
-      "index": 27
-    },
-    {
-      "title": "全面拆解钟馗隐藏细节！《黑神话钟馗》PV逐帧解析",
-      "url": "https://www.bilibili.com/video/BV1Ns8w6fE4k",
-      "hot_value": "1573927播放",
-      "index": 28
-    },
-    {
-      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
-      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-      "hot_value": "5726624播放",
-      "index": 29
+      "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
+      "url": "https://www.bilibili.com/video/BV1yh8w6RE4b",
+      "hot_value": "984858播放",
+      "index": 24
     },
     {
       "title": "《外 卖 逆 天 对 话》",
       "url": "https://www.bilibili.com/video/BV16k876aEfn",
-      "hot_value": "1616670播放",
+      "hot_value": "1715505播放",
+      "index": 25
+    },
+    {
+      "title": "天生的恶人！为啥国漫至今没有比她更极致的反派？",
+      "url": "https://www.bilibili.com/video/BV1VC8E6DEbs",
+      "hot_value": "917058播放",
+      "index": 26
+    },
+    {
+      "title": "【2026年8月笔记本推荐】【暑期特辑】【绝不恰饭！】笔记本至暗时刻！到底啥时候买？？挑了几台相对值得购买的游戏本 全能本 轻薄本给大家！",
+      "url": "https://www.bilibili.com/video/BV1MJ8w6AEH5",
+      "hot_value": "58129播放",
+      "index": 27
+    },
+    {
+      "title": "碟中谍",
+      "url": "https://www.bilibili.com/video/BV1qc8w6LEyU",
+      "hot_value": "978904播放",
+      "index": 28
+    },
+    {
+      "title": "林肯号航母士兵“哗变”？赫排长面临中年危机",
+      "url": "https://www.bilibili.com/video/BV1XP8u6xEwk",
+      "hot_value": "318652播放",
+      "index": 29
+    },
+    {
+      "title": "做一个最长的蓑衣刀法。",
+      "url": "https://www.bilibili.com/video/BV197876UEAN",
+      "hot_value": "965262播放",
       "index": 30
     }
   ]
