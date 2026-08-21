@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-21T17:54:53Z",
+  "update_time": "2026-08-21T18:30:03Z",
   "count": 30,
   "list": [
     {
       "title": "\"复活吧！我的（ ）\"",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "766124播放",
+      "hot_value": "806222播放",
       "index": 1
     },
     {
       "title": "《下一个是谁》第七季（3）",
       "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "1473126播放",
+      "hot_value": "1498988播放",
       "index": 2
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "10475185播放",
+      "hot_value": "10500122播放",
       "index": 3
     },
     {
       "title": "举手之劳 亦是人间微光",
       "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "hot_value": "3629249播放",
+      "hot_value": "3687562播放",
       "index": 4
+    },
+    {
+      "title": "每说一个方字，铜人阵难度提升10%",
+      "url": "https://www.bilibili.com/video/BV1Uv8M6jEVB",
+      "hot_value": "548567播放",
+      "index": 5
     },
     {
       "title": "《你咋开的车》",
       "url": "https://www.bilibili.com/video/BV1dS8P6JEha",
-      "hot_value": "2243658播放",
-      "index": 5
-    },
-    {
-      "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
-      "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
-      "hot_value": "2083176播放",
+      "hot_value": "2326308播放",
       "index": 6
-    },
-    {
-      "title": "《黑神话：钟馗》15分钟实机演示",
-      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "9556000播放",
-      "index": 7
     },
     {
       "title": "我收容了100位粉丝到我的一辈子存档里！",
       "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "553545播放",
+      "hot_value": "590049播放",
+      "index": 7
+    },
+    {
+      "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
+      "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
+      "hot_value": "2091690播放",
       "index": 8
     },
     {
-      "title": "《明日方舟：终末地》「雪凇幽梦」版本PV",
-      "url": "https://www.bilibili.com/video/BV1BW8q6jEDo",
-      "hot_value": "1568102播放",
+      "title": "顺直大改造-反畸形审美，棒打高街帝少萝cp！",
+      "url": "https://www.bilibili.com/video/BV1e18u6tEi7",
+      "hot_value": "2390390播放",
       "index": 9
+    },
+    {
+      "title": "《黑神话：钟馗》15分钟实机演示",
+      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
+      "hot_value": "9582900播放",
+      "index": 10
+    },
+    {
+      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
+      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
+      "hot_value": "339236播放",
+      "index": 11
     },
     {
       "title": "《影之刃零》专场 State of Play 全程回顾",
       "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "9663885播放",
-      "index": 10
-    },
-    {
-      "title": "父母给我8k去内蒙，我看向自行车",
-      "url": "https://www.bilibili.com/video/BV11f8u6UEHZ",
-      "hot_value": "813912播放",
-      "index": 11
-    },
-    {
-      "title": "时隔一年！久违的整合包生存，缆车末日惊变 100 天！绝不烂尾！！！",
-      "url": "https://www.bilibili.com/video/BV1yM8A6bErQ",
-      "hot_value": "819443播放",
+      "hot_value": "9718680播放",
       "index": 12
     },
     {
       "title": "唐王随手捐闲钱，竟将阿萨拉扶成王！",
       "url": "https://www.bilibili.com/video/BV1HQbf6CEG4",
-      "hot_value": "2541128播放",
+      "hot_value": "2561493播放",
       "index": 13
     },
     {
-      "title": "结个婚看看怎么个事",
-      "url": "https://www.bilibili.com/video/BV19Q8i6MEkX",
-      "hot_value": "959495播放",
+      "title": "时隔一年！久违的整合包生存，缆车末日惊变 100 天！绝不烂尾！！！",
+      "url": "https://www.bilibili.com/video/BV1yM8A6bErQ",
+      "hot_value": "840385播放",
       "index": 14
-    },
-    {
-      "title": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告",
-      "url": "https://www.bilibili.com/video/BV1VQ8i6uEr4",
-      "hot_value": "814430播放",
-      "index": 15
-    },
-    {
-      "title": "放置园 / 镜音铃・镜音连",
-      "url": "https://www.bilibili.com/video/BV1f98M6AEEz",
-      "hot_value": "42180播放",
-      "index": 16
-    },
-    {
-      "title": "【绍宋：还我河山】这一次，岳飞活下来！",
-      "url": "https://www.bilibili.com/video/BV1PX8q6tEBt",
-      "hot_value": "367534播放",
-      "index": 17
-    },
-    {
-      "title": "每说一个方字，铜人阵难度提升10%",
-      "url": "https://www.bilibili.com/video/BV1Uv8M6jEVB",
-      "hot_value": "500435播放",
-      "index": 18
-    },
-    {
-      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
-      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-      "hot_value": "4242112播放",
-      "index": 19
     },
     {
       "title": "《 黑 神 话 咕 嘎 》终极典藏版",
       "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
-      "hot_value": "804119播放",
-      "index": 20
+      "hot_value": "818759播放",
+      "index": 15
     },
     {
       "title": "全球十大餐厅！为吃这顿饭！我们在欧洲被偷5万！到底值不值？",
       "url": "https://www.bilibili.com/video/BV1UU8q6FEPL",
-      "hot_value": "595256播放",
-      "index": 21
+      "hot_value": "605037播放",
+      "index": 16
+    },
+    {
+      "title": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告",
+      "url": "https://www.bilibili.com/video/BV1VQ8i6uEr4",
+      "hot_value": "831607播放",
+      "index": 17
+    },
+    {
+      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
+      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
+      "hot_value": "4263828播放",
+      "index": 18
     },
     {
       "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
       "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-      "hot_value": "6507412播放",
-      "index": 22
+      "hot_value": "6526162播放",
+      "index": 19
     },
     {
-      "title": "【微综艺】第五人格加页手记·特别企划节目《夜莺的眼泪》",
-      "url": "https://www.bilibili.com/video/BV14L8n6mErK",
-      "hot_value": "911486播放",
-      "index": 23
+      "title": "结个婚看看怎么个事",
+      "url": "https://www.bilibili.com/video/BV19Q8i6MEkX",
+      "hot_value": "1002823播放",
+      "index": 20
     },
     {
       "title": "【万字硬核考据】全方位拆解《黑钟馗》-主角/怪物/战斗/剧情/符箓",
       "url": "https://www.bilibili.com/video/BV1Ew8P6pEUE",
-      "hot_value": "1282162播放",
-      "index": 24
+      "hot_value": "1294932播放",
+      "index": 21
     },
     {
       "title": "停更7年，我又以经典的方式玩MC",
       "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
-      "hot_value": "2172832播放",
-      "index": 25
+      "hot_value": "2186300播放",
+      "index": 22
     },
     {
       "title": "《情歌王》，但如果全是原唱来唱会是什么感觉？",
       "url": "https://www.bilibili.com/video/BV13a8H6dE5L",
-      "hot_value": "477415播放",
-      "index": 26
+      "hot_value": "486721播放",
+      "index": 23
     },
     {
       "title": "当你穿进老钱班33",
       "url": "https://www.bilibili.com/video/BV1kA8M6MEMa",
-      "hot_value": "607924播放",
-      "index": 27
-    },
-    {
-      "title": "我的蚊子生病了，带它去看病",
-      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
-      "hot_value": "3983489播放",
-      "index": 28
-    },
-    {
-      "title": "瑶&影《危险派对》双人舞舞台丨挣脱你的手掌，锁定你的目光",
-      "url": "https://www.bilibili.com/video/BV1Nt8i6RE4P",
-      "hot_value": "267515播放",
-      "index": 29
+      "hot_value": "625165播放",
+      "index": 24
     },
     {
       "title": "我必须救好他",
       "url": "https://www.bilibili.com/video/BV1dQ8i6MEA5",
-      "hot_value": "278704播放",
+      "hot_value": "291530播放",
+      "index": 25
+    },
+    {
+      "title": "瑶&影《危险派对》双人舞舞台丨挣脱你的手掌，锁定你的目光",
+      "url": "https://www.bilibili.com/video/BV1Nt8i6RE4P",
+      "hot_value": "284958播放",
+      "index": 26
+    },
+    {
+      "title": "我的蚊子生病了，带它去看病",
+      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
+      "hot_value": "4007022播放",
+      "index": 27
+    },
+    {
+      "title": "《晒足一百ber天3.0》",
+      "url": "https://www.bilibili.com/video/BV1JDbo6iEaR",
+      "hot_value": "309559播放",
+      "index": 28
+    },
+    {
+      "title": "【绍宋：还我河山】这一次，岳飞活下来！",
+      "url": "https://www.bilibili.com/video/BV1PX8q6tEBt",
+      "hot_value": "387099播放",
+      "index": 29
+    },
+    {
+      "title": "最帅钢铁侠！万字解析《钢铁侠3》！",
+      "url": "https://www.bilibili.com/video/BV1PA8M6uEau",
+      "hot_value": "318134播放",
       "index": 30
     }
   ]
