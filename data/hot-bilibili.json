@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-21T13:40:56Z",
+  "update_time": "2026-08-21T14:30:05Z",
   "count": 30,
   "list": [
     {
-      "title": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告",
-      "url": "https://www.bilibili.com/video/BV1VQ8i6uEr4",
-      "hot_value": "497382播放",
+      "title": "诡秘之主欧式古风发布会！失控版",
+      "url": "https://www.bilibili.com/video/BV1Yq8q6qEyG",
+      "hot_value": "578451播放",
       "index": 1
     },
     {
       "title": "《下一个是谁》第七季（3）",
       "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "1042345播放",
+      "hot_value": "1124730播放",
       "index": 2
+    },
+    {
+      "title": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告",
+      "url": "https://www.bilibili.com/video/BV1VQ8i6uEr4",
+      "hot_value": "576164播放",
+      "index": 3
     },
     {
       "title": "举手之劳 亦是人间微光",
       "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "hot_value": "2916324播放",
-      "index": 3
+      "hot_value": "3039494播放",
+      "index": 4
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "10103280播放",
-      "index": 4
-    },
-    {
-      "title": "《黑神话：钟馗》15分钟实机演示",
-      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "9174364播放",
+      "hot_value": "10164708播放",
       "index": 5
-    },
-    {
-      "title": "【微综艺】第五人格加页手记·特别企划节目《夜莺的眼泪》",
-      "url": "https://www.bilibili.com/video/BV14L8n6mErK",
-      "hot_value": "765742播放",
-      "index": 6
     },
     {
       "title": "\"复活吧！我的（ ）\"",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "286346播放",
+      "hot_value": "375020播放",
+      "index": 6
+    },
+    {
+      "title": "《明日方舟：终末地》「雪凇幽梦」版本PV",
+      "url": "https://www.bilibili.com/video/BV1BW8q6jEDo",
+      "hot_value": "692698播放",
       "index": 7
     },
     {
-      "title": "诡秘之主欧式古风发布会！失控版",
-      "url": "https://www.bilibili.com/video/BV1Yq8q6qEyG",
-      "hot_value": "435273播放",
+      "title": "《黑神话：钟馗》15分钟实机演示",
+      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
+      "hot_value": "9241129播放",
       "index": 8
+    },
+    {
+      "title": "《你咋开的车》",
+      "url": "https://www.bilibili.com/video/BV1dS8P6JEha",
+      "hot_value": "1258401播放",
+      "index": 9
     },
     {
       "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
       "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
-      "hot_value": "1651873播放",
-      "index": 9
-    },
-    {
-      "title": "《恐怖开学游轮》震撼上映，淘瓣评分10.1",
-      "url": "https://www.bilibili.com/video/BV1hz8q6KEY4",
-      "hot_value": "226425播放",
+      "hot_value": "1722281播放",
       "index": 10
     },
     {
       "title": "唐王随手捐闲钱，竟将阿萨拉扶成王！",
       "url": "https://www.bilibili.com/video/BV1HQbf6CEG4",
-      "hot_value": "2221093播放",
+      "hot_value": "2284521播放",
       "index": 11
     },
     {
-      "title": "《明日方舟：终末地》「雪凇幽梦」版本PV",
-      "url": "https://www.bilibili.com/video/BV1BW8q6jEDo",
-      "hot_value": "249714播放",
+      "title": "《鸣潮》巡回演唱会「致予新世界」幕后影像",
+      "url": "https://www.bilibili.com/video/BV1Ts8i6oESh",
+      "hot_value": "81749播放",
       "index": 12
-    },
-    {
-      "title": "《 黑 神 话 咕 嘎 》终极典藏版",
-      "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
-      "hot_value": "636263播放",
-      "index": 13
-    },
-    {
-      "title": "《你咋开的车》",
-      "url": "https://www.bilibili.com/video/BV1dS8P6JEha",
-      "hot_value": "1032054播放",
-      "index": 14
-    },
-    {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "9368551播放",
-      "index": 15
     },
     {
       "title": "我收容了100位粉丝到我的一辈子存档里！",
       "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "207865播放",
+      "hot_value": "257265播放",
+      "index": 13
+    },
+    {
+      "title": "《 黑 神 话 咕 嘎 》终极典藏版",
+      "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
+      "hot_value": "666363播放",
+      "index": 14
+    },
+    {
+      "title": "【速凌宇宙】第二十五集：七人小队大坝集合！典狱长也来了？？",
+      "url": "https://www.bilibili.com/video/BV16x8z6XEFn",
+      "hot_value": "81785播放",
+      "index": 15
+    },
+    {
+      "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
+      "url": "https://www.bilibili.com/video/BV1yh8w6RE4b",
+      "hot_value": "1301310播放",
       "index": 16
     },
     {
       "title": "时隔一年！久违的整合包生存，缆车末日惊变 100 天！绝不烂尾！！！",
       "url": "https://www.bilibili.com/video/BV1yM8A6bErQ",
-      "hot_value": "582374播放",
+      "hot_value": "618921播放",
       "index": 17
     },
     {
-      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
-      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-      "hot_value": "4002593播放",
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "hot_value": "9399024播放",
       "index": 18
     },
     {
       "title": "【万字硬核考据】全方位拆解《黑钟馗》-主角/怪物/战斗/剧情/符箓",
       "url": "https://www.bilibili.com/video/BV1Ew8P6pEUE",
-      "hot_value": "1088743播放",
+      "hot_value": "1121264播放",
       "index": 19
-    },
-    {
-      "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
-      "url": "https://www.bilibili.com/video/BV1yh8w6RE4b",
-      "hot_value": "1265562播放",
-      "index": 20
-    },
-    {
-      "title": "停更7年，我又以经典的方式玩MC",
-      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
-      "hot_value": "2005437播放",
-      "index": 21
-    },
-    {
-      "title": "《开 学 末 日 宿 舍：完 整 电 影 版》",
-      "url": "https://www.bilibili.com/video/BV1BH8A6SEWQ",
-      "hot_value": "220654播放",
-      "index": 22
-    },
-    {
-      "title": "发现百蛇之王！暴躁的王锦蛇还有伪装成毒蛇的颈棱蛇到底有没有毒？",
-      "url": "https://www.bilibili.com/video/BV1bjgg6BEy1",
-      "hot_value": "483887播放",
-      "index": 23
-    },
-    {
-      "title": "奥德修斯，跟我牛来拼你有这个实力吗？！",
-      "url": "https://www.bilibili.com/video/BV1ZE8H6eE5W",
-      "hot_value": "1172798播放",
-      "index": 24
     },
     {
       "title": "当你穿进老钱班33",
       "url": "https://www.bilibili.com/video/BV1kA8M6MEMa",
-      "hot_value": "340486播放",
-      "index": 25
+      "hot_value": "393283播放",
+      "index": 20
+    },
+    {
+      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
+      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
+      "hot_value": "4036195播放",
+      "index": 21
+    },
+    {
+      "title": "停更7年，我又以经典的方式玩MC",
+      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
+      "hot_value": "2034251播放",
+      "index": 22
+    },
+    {
+      "title": "欢迎来鼠餐馆之徐福烩饭，愿世界没有战争，所有孩子都可以好好吃饭",
+      "url": "https://www.bilibili.com/video/BV14S8q6bEYA",
+      "hot_value": "277085播放",
+      "index": 23
     },
     {
       "title": "我的蚊子生病了，带它去看病",
       "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
-      "hot_value": "3603949播放",
+      "hot_value": "3694491播放",
+      "index": 24
+    },
+    {
+      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
+      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
+      "hot_value": "6254063播放",
+      "index": 25
+    },
+    {
+      "title": "奥德修斯，跟我牛来拼你有这个实力吗？！",
+      "url": "https://www.bilibili.com/video/BV1ZE8H6eE5W",
+      "hot_value": "1203362播放",
       "index": 26
     },
     {
-      "title": "只有晚上才会出现的蜡像馆！但蜡像会....《异星蜡像馆》",
-      "url": "https://www.bilibili.com/video/BV1fq8w6SE1D",
-      "hot_value": "364480播放",
+      "title": "父母给我8k去内蒙，我看向自行车",
+      "url": "https://www.bilibili.com/video/BV11f8u6UEHZ",
+      "hot_value": "597703播放",
       "index": 27
     },
     {
       "title": "动态视频｜火箭降落的全过程，拍到了！",
       "url": "https://www.bilibili.com/video/BV1nSbo6TEv4",
-      "hot_value": "1613988播放",
+      "hot_value": "1646839播放",
       "index": 28
     },
     {
-      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
-      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-      "hot_value": "6191955播放",
+      "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
+      "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
+      "hot_value": "4117546播放",
       "index": 29
     },
     {
-      "title": "做一个最长的蓑衣刀法。",
-      "url": "https://www.bilibili.com/video/BV197876UEAN",
-      "hot_value": "1206354播放",
+      "title": "谁说傲娇退环境了！「瞬息甜味丨卡列尼娜角色曲翻唱」",
+      "url": "https://www.bilibili.com/video/BV1gb8M6nEyy",
+      "hot_value": "81761播放",
       "index": 30
     }
   ]
