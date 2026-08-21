@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-21T08:34:50Z",
+  "update_time": "2026-08-21T09:31:50Z",
   "count": 30,
   "list": [
     {
       "title": "为什么宇树科技上市王兴兴好像不高兴？",
       "url": "https://www.zhihu.com/question/2073754816812271402",
-      "hot_value": "1288 万热度",
+      "hot_value": "1535 万热度",
       "index": 1
     },
     {
       "title": "女童遭海蜇蜇伤进 ICU 抢救，母亲称 5 米外救生员未施救，景区和救生员该担责吗？被海蜇蜇伤应怎样处理？",
       "url": "https://www.zhihu.com/question/2073853872498374552",
-      "hot_value": "836 万热度",
+      "hot_value": "729 万热度",
       "index": 2
     },
     {
       "title": "柯洁称找到了破解围棋 AI 的方法，只需要装弱智哪怕让 AI 九子也能赢，这招可行吗？是什么原理？",
       "url": "https://www.zhihu.com/question/2073421689262532035",
-      "hot_value": "478 万热度",
+      "hot_value": "496 万热度",
       "index": 3
-    },
-    {
-      "title": "孩子小学二年级，班主任为 51 个娃设 53 个官职，包括窗台管理员、前后门管理员等，如何评价此事？",
-      "url": "https://www.zhihu.com/question/552899415",
-      "hot_value": "270 万热度",
-      "index": 4
     },
     {
       "title": "老夫妻中一人去世后，另一人是如何度过余下孤独的日子的？",
       "url": "https://www.zhihu.com/question/319841534",
-      "hot_value": "268 万热度",
+      "hot_value": "179 万热度",
+      "index": 4
+    },
+    {
+      "title": "女子怀孕被房东要求退租，还被出具《房屋租赁补充告知书》限制在屋内坐月子，这合法吗？房东有权这样做吗？",
+      "url": "https://www.zhihu.com/question/2073852156734436581",
+      "hot_value": "177 万热度",
       "index": 5
-    },
-    {
-      "title": "小米扫拖机器人避障不灵撞坏百万家具，消费者质疑商家宣传未说明缺点，能向小米索赔吗？",
-      "url": "https://www.zhihu.com/question/2073796382792443105",
-      "hot_value": "186 万热度",
-      "index": 6
-    },
-    {
-      "title": "从《黑神话：钟馗》最新的实机展示来看，是否游戏仍然延续了《黑神话：悟空》的线性关卡设计？",
-      "url": "https://www.zhihu.com/question/2073713384382357637",
-      "hot_value": "185 万热度",
-      "index": 7
     },
     {
       "title": "从当当网李国庆抢公章，到海特高新百人强闯海威华芯，为何企业内部冲突、争夺控制权总要抢公章？真的有用吗？",
       "url": "https://www.zhihu.com/question/2073878007299530878",
-      "hot_value": "178 万热度",
+      "hot_value": "146 万热度",
+      "index": 6
+    },
+    {
+      "title": "小米扫拖机器人避障不灵撞坏百万家具，消费者质疑商家宣传未说明缺点，能向小米索赔吗？",
+      "url": "https://www.zhihu.com/question/2073796382792443105",
+      "hot_value": "139 万热度",
+      "index": 7
+    },
+    {
+      "title": "2 人买 3 个火车座位放零食拒让座，12306 称购票座位属购票人， 这种情况该让座吗？规则可如何完善？",
+      "url": "https://www.zhihu.com/question/2073862940512539817",
+      "hot_value": "135 万热度",
       "index": 8
     },
     {
       "title": "花椒的味道那么奇怪，为什么古代最高级别的宠爱会叫「椒房之宠」呢？",
       "url": "https://www.zhihu.com/question/2045496595798553915",
-      "hot_value": "175 万热度",
+      "hot_value": "133 万热度",
       "index": 9
     },
     {
-      "title": "女子怀孕被房东要求退租，还被出具《房屋租赁补充告知书》限制在屋内坐月子，这合法吗？房东有权这样做吗？",
-      "url": "https://www.zhihu.com/question/2073852156734436581",
-      "hot_value": "172 万热度",
+      "title": "孩子小学二年级，班主任为 51 个娃设 53 个官职，包括窗台管理员、前后门管理员等，如何评价此事？",
+      "url": "https://www.zhihu.com/question/552899415",
+      "hot_value": "133 万热度",
       "index": 10
     },
     {
       "title": "华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？",
       "url": "https://www.zhihu.com/question/2073122669688533530",
-      "hot_value": "169 万热度",
+      "hot_value": "132 万热度",
       "index": 11
     },
     {
-      "title": "字已经丑到了人神共愤的地步，请问怎么把字练好？",
-      "url": "https://www.zhihu.com/question/25058494",
-      "hot_value": "167 万热度",
+      "title": "如何看待韦东奕账号时隔 14 个月更新，橱窗上架「韦东奕主编小学数学练习册」？要开启商业化尝试了吗？",
+      "url": "https://www.zhihu.com/question/2073225405172130332",
+      "hot_value": "132 万热度",
       "index": 12
     },
     {
-      "title": "曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？",
-      "url": "https://www.zhihu.com/question/2072772413494973775",
-      "hot_value": "165 万热度",
+      "title": "从《黑神话：钟馗》最新的实机展示来看，是否游戏仍然延续了《黑神话：悟空》的线性关卡设计？",
+      "url": "https://www.zhihu.com/question/2073713384382357637",
+      "hot_value": "131 万热度",
       "index": 13
-    },
-    {
-      "title": "2 人买 3 个火车座位放零食拒让座，12306 称购票座位属购票人， 这种情况该让座吗？规则可如何完善？",
-      "url": "https://www.zhihu.com/question/2073862940512539817",
-      "hot_value": "129 万热度",
-      "index": 14
     },
     {
       "title": "如何看待丘成桐领军计划新考纲？",
       "url": "https://www.zhihu.com/question/2074029985715721172",
-      "hot_value": "112 万热度",
+      "hot_value": "117 万热度",
+      "index": 14
+    },
+    {
+      "title": "媒体曝知识产权法院驳回 LV 全部诉求，北京知产法院回应尚未一审宣判，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2074126063509009190",
+      "hot_value": "95 万热度",
       "index": 15
     },
     {
-      "title": "如何看待 OpenCode 声称将在下周推出匿名模型 Ox Alpha？它会是 MiMo V3 吗？",
-      "url": "https://www.zhihu.com/question/2074052554372146890",
-      "hot_value": "105 万热度",
+      "title": "曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？",
+      "url": "https://www.zhihu.com/question/2072772413494973775",
+      "hot_value": "92 万热度",
       "index": 16
     },
     {
       "title": "为什么分手后，大脑常常放大美好回忆，却淡化当初决定离开的原因？",
       "url": "https://www.zhihu.com/question/2072666413798576307",
-      "hot_value": "105 万热度",
+      "hot_value": "91 万热度",
       "index": 17
     },
     {
-      "title": "如何看待清华肖鹰发文质疑阎连科的《为人民服务》仿袭《查太莱夫人的情人》？这种异曲同工在法律上算抄袭吗？",
-      "url": "https://www.zhihu.com/question/2073795034885746816",
-      "hot_value": "104 万热度",
+      "title": "字已经丑到了人神共愤的地步，请问怎么把字练好？",
+      "url": "https://www.zhihu.com/question/25058494",
+      "hot_value": "89 万热度",
       "index": 18
-    },
-    {
-      "title": "如何看待韦东奕账号时隔 14 个月更新，橱窗上架「韦东奕主编小学数学练习册」？要开启商业化尝试了吗？",
-      "url": "https://www.zhihu.com/question/2073225405172130332",
-      "hot_value": "102 万热度",
-      "index": 19
     },
     {
       "title": "《一饭封神》里评委说莫氏鸡煲「技术含量不高」，谢霆锋却夸「鸡好汤好喝」，你更认同哪种评价？",
       "url": "https://www.zhihu.com/question/2067638264555747023",
-      "hot_value": "91 万热度",
+      "hot_value": "83 万热度",
+      "index": 19
+    },
+    {
+      "title": "如何评价一人之下 827 话《集结》？",
+      "url": "https://www.zhihu.com/question/2073925677838092054",
+      "hot_value": "78 万热度",
       "index": 20
     },
     {
-      "title": "Shams 报道：巴斯家族投票决定出售剩余 17.8% 的湖人股份，是否标志着湖人巴斯时代的彻底落幕？",
-      "url": "https://www.zhihu.com/question/2072963390453068933",
-      "hot_value": "90 万热度",
+      "title": "如何评价 OpenCode Go 订阅中，新模型 Muse Spark 1.2 可调用额度位居第一？",
+      "url": "https://www.zhihu.com/question/2073429494711566587",
+      "hot_value": "77 万热度",
       "index": 21
     },
     {
-      "title": "男子不接受公司主动离职安排，公司设「监狱式待岗工位」，每日打卡四次并接受监控，公司这么做合适吗？",
-      "url": "https://www.zhihu.com/question/2073722027542893779",
-      "hot_value": "84 万热度",
+      "title": "为什么郭靖的武功配置那么高，却从未赢过任何绝顶高手？",
+      "url": "https://www.zhihu.com/question/2073486144805795581",
+      "hot_value": "77 万热度",
       "index": 22
     },
     {
       "title": "LPL2026 赛季第三赛段组内赛 LGD 1:2 BLG，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2073859761775424875",
-      "hot_value": "77 万热度",
+      "hot_value": "76 万热度",
       "index": 23
-    },
-    {
-      "title": "如何评价一人之下 827 话《集结》？",
-      "url": "https://www.zhihu.com/question/2073925677838092054",
-      "hot_value": "75 万热度",
-      "index": 24
     },
     {
       "title": "《原神》中，少女哥伦比娅明明是月神，为什么在剧情中感觉战斗力并不强呢?",
       "url": "https://www.zhihu.com/question/2073225790473425131",
       "hot_value": "75 万热度",
-      "index": 25
-    },
-    {
-      "title": "为什么郭靖的武功配置那么高，却从未赢过任何绝顶高手？",
-      "url": "https://www.zhihu.com/question/2073486144805795581",
-      "hot_value": "72 万热度",
-      "index": 26
+      "index": 24
     },
     {
       "title": "有孩子和没孩子区别真的很大吗？",
       "url": "https://www.zhihu.com/question/2020592096608883992",
-      "hot_value": "67 万热度",
+      "hot_value": "68 万热度",
+      "index": 25
+    },
+    {
+      "title": "如何评价游戏《密教模拟器》？",
+      "url": "https://www.zhihu.com/question/320034888",
+      "hot_value": "66 万热度",
+      "index": 26
+    },
+    {
+      "title": "男子不接受公司主动离职安排，公司设「监狱式待岗工位」，每日打卡四次并接受监控，公司这么做合适吗？",
+      "url": "https://www.zhihu.com/question/2073722027542893779",
+      "hot_value": "61 万热度",
       "index": 27
     },
     {
-      "title": "使用移动工作站是什么样的体验？",
-      "url": "https://www.zhihu.com/question/327928562",
-      "hot_value": "65 万热度",
-      "index": 28
-    },
-    {
-      "title": "泡泡玛特上半年营收 171.7 亿元，净利润 50.4 亿元，低于市场预期，如何评价其业绩表现？",
-      "url": "https://www.zhihu.com/question/2073810995626107161",
+      "title": "如何看待清华肖鹰发文质疑阎连科的《为人民服务》仿袭《查太莱夫人的情人》？这种异曲同工在法律上算抄袭吗？",
+      "url": "https://www.zhihu.com/question/2073795034885746816",
       "hot_value": "59 万热度",
-      "index": 29
+      "index": 28
     },
     {
       "title": "大学生疯狂刷多段实习，有人大二时已经积累了六段实习，实习为什么越来越「卷」？这份实习焦虑从何而来？",
       "url": "https://www.zhihu.com/question/2073466638532358880",
+      "hot_value": "59 万热度",
+      "index": 29
+    },
+    {
+      "title": "使用移动工作站是什么样的体验？",
+      "url": "https://www.zhihu.com/question/327928562",
       "hot_value": "59 万热度",
       "index": 30
     }
