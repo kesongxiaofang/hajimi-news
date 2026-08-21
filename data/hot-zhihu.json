@@ -1,109 +1,109 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-21T20:48:20Z",
+  "update_time": "2026-08-21T21:19:05Z",
   "count": 30,
   "list": [
     {
       "title": "铁路部门通报「两人买三张票空座放零食事件」，称空座为未检票旅客座位，另两人不能占用，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2074241643339675348",
-      "hot_value": "863 万热度",
+      "hot_value": "838 万热度",
       "index": 1
     },
     {
       "title": "如何看待一位口腔科医生自述未给无活动性出血患者验血，患者两天后脑出血死亡，自己则被起诉漏诊？",
       "url": "https://www.zhihu.com/question/2073452582614332149",
-      "hot_value": "488 万热度",
+      "hot_value": "437 万热度",
       "index": 2
     },
     {
       "title": "问界儿童车开启预售，售价 15800，如何评价其市场竞争力？",
       "url": "https://www.zhihu.com/question/2074138107566191275",
-      "hot_value": "242 万热度",
+      "hot_value": "237 万热度",
       "index": 3
     },
     {
       "title": "30 岁男子失业后网贷缠身，饿 20 天急性肾衰入院确诊韦尼克脑病，这是一种什么病？与其生活习惯有多大关系？",
       "url": "https://www.zhihu.com/question/2074036648128377245",
-      "hot_value": "231 万热度",
+      "hot_value": "237 万热度",
       "index": 4
-    },
-    {
-      "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
-      "url": "https://www.zhihu.com/question/2074181821978376015",
-      "hot_value": "222 万热度",
-      "index": 5
     },
     {
       "title": "MMORPG 游戏《诡秘之主》开服一小时同时在线破 70 万，这游戏玩起来怎么样？",
       "url": "https://www.zhihu.com/question/2074104012740347418",
       "hot_value": "173 万热度",
-      "index": 6
+      "index": 5
     },
     {
       "title": "台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2074104395411584649",
-      "hot_value": "166 万热度",
-      "index": 7
+      "hot_value": "159 万热度",
+      "index": 6
     },
     {
       "title": "北京理工大学、南京航空航天大学等多所名校新校区搬到县城，去县城读名校是捡漏还是踩坑？会影响学生发展吗？",
       "url": "https://www.zhihu.com/question/2074111696277337659",
-      "hot_value": "144 万热度",
-      "index": 8
+      "hot_value": "142 万热度",
+      "index": 7
     },
     {
       "title": "什么科学发现起初看似无用，但后来证明非常重要？",
       "url": "https://www.zhihu.com/question/349247935",
-      "hot_value": "131 万热度",
-      "index": 9
+      "hot_value": "128 万热度",
+      "index": 8
     },
     {
       "title": "外卖小哥骑电动车撞持刀男子，王者荣耀全网寻人望颁发「国服孙策」奖状，如何看待这一系列暖心事迹？",
       "url": "https://www.zhihu.com/question/2074090130067777183",
-      "hot_value": "126 万热度",
-      "index": 10
+      "hot_value": "124 万热度",
+      "index": 9
     },
     {
       "title": "为什么感觉三角洲越来越没意思了？",
       "url": "https://www.zhihu.com/question/2070144802373506046",
-      "hot_value": "123 万热度",
+      "hot_value": "122 万热度",
+      "index": 10
+    },
+    {
+      "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
+      "url": "https://www.zhihu.com/question/2074181821978376015",
+      "hot_value": "122 万热度",
       "index": 11
     },
     {
       "title": "如何看待千万粉丝网红「桃黑黑」发长文称将离开互联网一段时间？",
       "url": "https://www.zhihu.com/question/2073490726688482721",
-      "hot_value": "122 万热度",
+      "hot_value": "121 万热度",
       "index": 12
     },
     {
       "title": "创造拼音时，为什么ü不采用 v？",
       "url": "https://www.zhihu.com/question/2067683242879215572",
-      "hot_value": "122 万热度",
+      "hot_value": "120 万热度",
       "index": 13
     },
     {
       "title": "《欢迎来龙餐馆》徐福和马俊生到底谁在土豆上做了手脚？",
       "url": "https://www.zhihu.com/question/2072036239923065393",
-      "hot_value": "106 万热度",
+      "hot_value": "105 万热度",
       "index": 14
     },
     {
       "title": "媒体称旺旺集团遇「重大经营危机」裁员，裁员目标 1000 人左右，且要求员工剖析自身不足，这合理吗？",
       "url": "https://www.zhihu.com/question/2074119199954358513",
-      "hot_value": "102 万热度",
+      "hot_value": "104 万热度",
       "index": 15
     },
     {
       "title": "柯洁称找到了破解围棋 AI 的方法，只需要装弱智哪怕让 AI 九子也能赢，这招可行吗？是什么原理？",
       "url": "https://www.zhihu.com/question/2073421689262532035",
-      "hot_value": "93 万热度",
+      "hot_value": "92 万热度",
       "index": 16
     },
     {
       "title": "华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？",
       "url": "https://www.zhihu.com/question/2073122669688533530",
-      "hot_value": "86 万热度",
+      "hot_value": "85 万热度",
       "index": 17
     },
     {
@@ -119,15 +119,15 @@
       "index": 19
     },
     {
-      "title": "为什么诺兰要在《奥德赛》中加入原著没有的西农 (Sinon)？",
-      "url": "https://www.zhihu.com/question/2073384818255947630",
-      "hot_value": "76 万热度",
-      "index": 20
-    },
-    {
       "title": "鼬的十拳剑从哪弄到的？他死后十拳剑消失了吗？",
       "url": "https://www.zhihu.com/question/321328175",
       "hot_value": "75 万热度",
+      "index": 20
+    },
+    {
+      "title": "为什么诺兰要在《奥德赛》中加入原著没有的西农 (Sinon)？",
+      "url": "https://www.zhihu.com/question/2073384818255947630",
+      "hot_value": "72 万热度",
       "index": 21
     },
     {
@@ -163,7 +163,7 @@
     {
       "title": "LPL2026 赛季第三赛段组内赛 TES 0:2 BLG，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2074255171236976505",
-      "hot_value": "65 万热度",
+      "hot_value": "62 万热度",
       "index": 27
     },
     {
