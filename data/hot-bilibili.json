@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-22T03:13:48Z",
+  "update_time": "2026-08-22T04:03:57Z",
   "count": 30,
   "list": [
     {
       "title": "\"复活吧！我的（ ）\"",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "1843866播放",
+      "hot_value": "1985264播放",
       "index": 1
     },
     {
       "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
       "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "hot_value": "1134516播放",
+      "hot_value": "1226417播放",
       "index": 2
     },
     {
       "title": "我收容了100位粉丝到我的一辈子存档里！",
       "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "1379912播放",
+      "hot_value": "1503590播放",
       "index": 3
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第12集【总第188集】",
+      "url": "https://www.bilibili.com/video/BV1Ka866BEo8",
+      "hot_value": "642301播放",
+      "index": 4
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "10822334播放",
-      "index": 4
+      "hot_value": "10876561播放",
+      "index": 5
     },
     {
       "title": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
       "url": "https://www.bilibili.com/video/BV1jM8P6EEDy",
-      "hot_value": "861636播放",
-      "index": 5
+      "hot_value": "942596播放",
+      "index": 6
     },
     {
       "title": "《影之刃零》专场 State of Play 全程回顾",
       "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "10591631播放",
-      "index": 6
+      "hot_value": "10621384播放",
+      "index": 7
     },
     {
       "title": "《下一个是谁》第七季（3）",
       "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "1730985播放",
-      "index": 7
+      "hot_value": "1779751播放",
+      "index": 8
     },
     {
       "title": "《你咋开的车》",
       "url": "https://www.bilibili.com/video/BV1dS8P6JEha",
-      "hot_value": "3059308播放",
-      "index": 8
+      "hot_value": "3153128播放",
+      "index": 9
     },
     {
       "title": "全球十大餐厅！为吃这顿饭！我们在欧洲被偷5万！到底值不值？",
       "url": "https://www.bilibili.com/video/BV1UU8q6FEPL",
-      "hot_value": "1126856播放",
-      "index": 9
+      "hot_value": "1212882播放",
+      "index": 10
     },
     {
       "title": "《晒足一百ber天3.0》",
       "url": "https://www.bilibili.com/video/BV1JDbo6iEaR",
-      "hot_value": "765266播放",
-      "index": 10
+      "hot_value": "852482播放",
+      "index": 11
+    },
+    {
+      "title": "父母给我8k去内蒙，我看向自行车",
+      "url": "https://www.bilibili.com/video/BV11f8u6UEHZ",
+      "hot_value": "1188566播放",
+      "index": 12
     },
     {
       "title": "混子哥边走边画边讲：神秘的核电站",
       "url": "https://www.bilibili.com/video/BV1Xg8F6hEMr",
-      "hot_value": "538254播放",
-      "index": 11
+      "hot_value": "593101播放",
+      "index": 13
     },
     {
       "title": "【二维动画】画二渲三，但是渲出来一堆BUG",
       "url": "https://www.bilibili.com/video/BV1rL8q6QEk1",
-      "hot_value": "354080播放",
-      "index": 12
+      "hot_value": "385858播放",
+      "index": 14
     },
     {
       "title": "渣渣辉没更新在干嘛：结婚！生小孩！",
       "url": "https://www.bilibili.com/video/BV1xz8M6CEdi",
-      "hot_value": "886394播放",
-      "index": 13
+      "hot_value": "956498播放",
+      "index": 15
     },
     {
       "title": "时隔一年！久违的整合包生存，缆车末日惊变 100 天！绝不烂尾！！！",
       "url": "https://www.bilibili.com/video/BV1yM8A6bErQ",
-      "hot_value": "1168984播放",
-      "index": 14
+      "hot_value": "1203464播放",
+      "index": 16
     },
     {
       "title": "当你穿进老钱班33",
       "url": "https://www.bilibili.com/video/BV1kA8M6MEMa",
-      "hot_value": "935499播放",
-      "index": 15
+      "hot_value": "980752播放",
+      "index": 17
     },
     {
       "title": "《黑神话：钟馗》15分钟实机演示",
       "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "9790794播放",
-      "index": 16
+      "hot_value": "9818786播放",
+      "index": 18
     },
     {
       "title": "举手之劳 亦是人间微光",
       "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "hot_value": "3925772播放",
-      "index": 17
+      "hot_value": "3954814播放",
+      "index": 19
     },
     {
       "title": "和朋友极限24小时逛吃杭州，没想到解决了困扰多年的疑惑...",
       "url": "https://www.bilibili.com/video/BV1S4bC6yEii",
-      "hot_value": "2435010播放",
-      "index": 18
+      "hot_value": "2454673播放",
+      "index": 20
     },
     {
       "title": "结个婚看看怎么个事",
       "url": "https://www.bilibili.com/video/BV19Q8i6MEkX",
-      "hot_value": "1541858播放",
-      "index": 19
+      "hot_value": "1606051播放",
+      "index": 21
     },
     {
       "title": "《 黑 神 话 咕 嘎 》终极典藏版",
       "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
-      "hot_value": "960717播放",
-      "index": 20
+      "hot_value": "988703播放",
+      "index": 22
     },
     {
       "title": "顺直大改造-反畸形审美，棒打高街帝少萝cp！",
       "url": "https://www.bilibili.com/video/BV1e18u6tEi7",
-      "hot_value": "2728179播放",
-      "index": 21
+      "hot_value": "2765696播放",
+      "index": 23
     },
     {
       "title": "唐王随手捐闲钱，竟将阿萨拉扶成王！",
       "url": "https://www.bilibili.com/video/BV1HQbf6CEG4",
-      "hot_value": "2799889播放",
-      "index": 22
+      "hot_value": "2831875播放",
+      "index": 24
     },
     {
       "title": "【绍宋：还我河山】这一次，岳飞活下来！",
       "url": "https://www.bilibili.com/video/BV1PX8q6tEBt",
-      "hot_value": "691933播放",
-      "index": 23
+      "hot_value": "715988播放",
+      "index": 25
     },
     {
       "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
       "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
-      "hot_value": "2151063播放",
-      "index": 24
+      "hot_value": "2159666播放",
+      "index": 26
     },
     {
       "title": "全球红利全部踩中，沙漠小国极限翻盘？【南非04丨纳米比亚】",
       "url": "https://www.bilibili.com/video/BV1Vngj6FEMD",
-      "hot_value": "88438播放",
-      "index": 25
+      "hot_value": "108347播放",
+      "index": 27
     },
     {
       "title": "《开 学 末 日 宿 舍：完 整 电 影 版》",
       "url": "https://www.bilibili.com/video/BV1BH8A6SEWQ",
-      "hot_value": "463070播放",
-      "index": 26
+      "hot_value": "480557播放",
+      "index": 28
     },
     {
       "title": "放置园 / 镜音铃・镜音连",
       "url": "https://www.bilibili.com/video/BV1f98M6AEEz",
-      "hot_value": "129730播放",
-      "index": 27
+      "hot_value": "145525播放",
+      "index": 29
     },
     {
       "title": "房主反杀非法上门强拆者，陕西判了，无罪",
       "url": "https://www.bilibili.com/video/BV1pn8E6iEEo",
-      "hot_value": "1665685播放",
-      "index": 28
-    },
-    {
-      "title": "【短的发布会】沈腾又闯祸了！华为首款硬派SUV享界G9到底有多硬？",
-      "url": "https://www.bilibili.com/video/BV16s8z6WEA7",
-      "hot_value": "204577播放",
-      "index": 29
-    },
-    {
-      "title": "每说一个方字，铜人阵难度提升10%",
-      "url": "https://www.bilibili.com/video/BV1Uv8M6jEVB",
-      "hot_value": "777928播放",
+      "hot_value": "1689376播放",
       "index": 30
     }
   ]
