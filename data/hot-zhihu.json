@@ -1,73 +1,73 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-22T20:47:09Z",
+  "update_time": "2026-08-22T21:17:13Z",
   "count": 30,
   "list": [
     {
       "title": "林肯号危机「吹哨人」遭清算，因曝光林肯号糟糕处境，美国军报总编辑、发行人、记者均被解雇，如何看待此事？",
       "url": "https://www.zhihu.com/question/2074570591689089958",
-      "hot_value": "240 万热度",
+      "hot_value": "242 万热度",
       "index": 1
     },
     {
       "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
       "url": "https://www.zhihu.com/question/2074601403142649584",
-      "hot_value": "212 万热度",
+      "hot_value": "208 万热度",
       "index": 2
     },
     {
       "title": "如何看待高校录取通知书回归「一页纸」后，清华大学推出立体二校门版「入学纪念证书」？",
       "url": "https://www.zhihu.com/question/2074541381372965994",
-      "hot_value": "205 万热度",
+      "hot_value": "200 万热度",
       "index": 3
-    },
-    {
-      "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢？",
-      "url": "https://www.zhihu.com/question/2065514457850176456",
-      "hot_value": "175 万热度",
-      "index": 4
     },
     {
       "title": "什么操作会对电脑造成永久性伤害？",
       "url": "https://www.zhihu.com/question/275468231",
-      "hot_value": "154 万热度",
-      "index": 5
+      "hot_value": "152 万热度",
+      "index": 4
     },
     {
       "title": "如何看待现在好多小学初中生身高一米八？",
       "url": "https://www.zhihu.com/question/450488929",
-      "hot_value": "147 万热度",
+      "hot_value": "146 万热度",
+      "index": 5
+    },
+    {
+      "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢？",
+      "url": "https://www.zhihu.com/question/2065514457850176456",
+      "hot_value": "145 万热度",
       "index": 6
     },
     {
       "title": "26-27 赛季德甲乒乓球联赛，樊振东 3:1 贝塔斯迈尔，豪取杜塞尔多夫首秀胜利，如何评价本场比赛?",
       "url": "https://www.zhihu.com/question/2074690377878188263",
-      "hot_value": "118 万热度",
+      "hot_value": "128 万热度",
       "index": 7
-    },
-    {
-      "title": "英雄联盟的 「 连招 」 概念为什么消失了？",
-      "url": "https://www.zhihu.com/question/2066201611286885601",
-      "hot_value": "113 万热度",
-      "index": 8
-    },
-    {
-      "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
-      "url": "https://www.zhihu.com/question/2074164491798028674",
-      "hot_value": "112 万热度",
-      "index": 9
     },
     {
       "title": "旅客买票占座放零食引争议，购票是否拥有座位全部使用权？",
       "url": "https://www.zhihu.com/question/2074251022332064658",
       "hot_value": "110 万热度",
+      "index": 8
+    },
+    {
+      "title": "英雄联盟的 「 连招 」 概念为什么消失了？",
+      "url": "https://www.zhihu.com/question/2066201611286885601",
+      "hot_value": "107 万热度",
+      "index": 9
+    },
+    {
+      "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
+      "url": "https://www.zhihu.com/question/2074164491798028674",
+      "hot_value": "100 万热度",
       "index": 10
     },
     {
       "title": "零食占座当事人母亲否认故意占座，称儿童票捆绑成人票销售，退成人票后儿童会被要求下车，哪些问题值得关注？",
       "url": "https://www.zhihu.com/question/2074588443309340001",
-      "hot_value": "103 万热度",
+      "hot_value": "98 万热度",
       "index": 11
     },
     {
@@ -83,86 +83,86 @@
       "index": 13
     },
     {
-      "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？",
-      "url": "https://www.zhihu.com/question/2074086385397544896",
-      "hot_value": "91 万热度",
-      "index": 14
-    },
-    {
       "title": "乘法的本质是什么？",
       "url": "https://www.zhihu.com/question/21247203",
       "hot_value": "85 万热度",
-      "index": 15
+      "index": 14
     },
     {
       "title": "如何看待中国传媒大学拟新增「游戏科学与技术」和「电子竞技」两个游戏类专业？对考生报考有何建议？",
       "url": "https://www.zhihu.com/question/2073440887451955222",
       "hot_value": "83 万热度",
-      "index": 16
-    },
-    {
-      "title": "2026 羽毛球世锦赛，中国男单选手全部止步 16 强‌，创历史最差成绩。对此你怎么看呢？",
-      "url": "https://www.zhihu.com/question/2073921539922306921",
-      "hot_value": "81 万热度",
-      "index": 17
+      "index": 15
     },
     {
       "title": "网友发现 18 岁黑龙江速滑运动员王新睿被冰刀割伤左腿截肢，具体是怎么回事？若如网传是他人撞伤，能赔偿吗？",
       "url": "https://www.zhihu.com/question/2074085560356792017",
       "hot_value": "81 万热度",
-      "index": 18
+      "index": 16
+    },
+    {
+      "title": "2026 羽毛球世锦赛，中国男单选手全部止步 16 强‌，创历史最差成绩。对此你怎么看呢？",
+      "url": "https://www.zhihu.com/question/2073921539922306921",
+      "hot_value": "79 万热度",
+      "index": 17
     },
     {
       "title": "年轻人开始流行「养砖头」，这种看似无意义的爱好为什么会戳中年轻人的心？「养砖头」要注意什么？",
       "url": "https://www.zhihu.com/question/2074081143159371309",
       "hot_value": "78 万热度",
-      "index": 19
-    },
-    {
-      "title": "新赛季第一战，曼联 0-2 赫尔城，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2074608474965787566",
-      "hot_value": "78 万热度",
-      "index": 20
+      "index": 18
     },
     {
       "title": "曹云金在演出中用郭德纲「砸现挂」，此举对相声界传统和师徒关系有何影响？",
       "url": "https://www.zhihu.com/question/2073016995126175490",
       "hot_value": "77 万热度",
-      "index": 21
+      "index": 19
+    },
+    {
+      "title": "新赛季第一战，曼联 0-2 赫尔城，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2074608474965787566",
+      "hot_value": "77 万热度",
+      "index": 20
     },
     {
       "title": "西安一影城推出午休服务，每月 39.9 元还有免费充电、咖啡，这一服务怎么样？你愿意花钱去影院午休吗？",
       "url": "https://www.zhihu.com/question/2074159127287297023",
       "hot_value": "76 万热度",
+      "index": 21
+    },
+    {
+      "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？",
+      "url": "https://www.zhihu.com/question/2074086385397544896",
+      "hot_value": "70 万热度",
       "index": 22
     },
     {
-      "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-      "url": "https://www.zhihu.com/question/2074077084964733784",
-      "hot_value": "69 万热度",
+      "title": "有什么比较好玩的小游戏呢？",
+      "url": "https://www.zhihu.com/question/449917762",
+      "hot_value": "63 万热度",
       "index": 23
     },
     {
       "title": "第二届世界人形机器人运动会在北京启幕，有哪些看点值得关注？",
       "url": "https://www.zhihu.com/question/2073477389846369252",
-      "hot_value": "66 万热度",
+      "hot_value": "59 万热度",
       "index": 24
-    },
-    {
-      "title": "有什么比较好玩的小游戏呢？",
-      "url": "https://www.zhihu.com/question/449917762",
-      "hot_value": "64 万热度",
-      "index": 25
     },
     {
       "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
       "url": "https://www.zhihu.com/question/2073370343264219476",
       "hot_value": "59 万热度",
-      "index": 26
+      "index": 25
     },
     {
       "title": "退休后，把全国的县城都逛一遍这主意怎么样？",
       "url": "https://www.zhihu.com/question/2072594246280929667",
+      "hot_value": "59 万热度",
+      "index": 26
+    },
+    {
+      "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+      "url": "https://www.zhihu.com/question/2074077084964733784",
       "hot_value": "59 万热度",
       "index": 27
     },
