@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-22T13:10:38Z",
+  "update_time": "2026-08-22T13:51:00Z",
   "platforms": [
     {
       "type": "weibo",
@@ -19,8 +19,7 @@
     {
       "type": "bilibili",
       "name": "B站热搜",
-      "count": 0,
-      "error": "HTTP Error 522: Origin Connection Time-out"
+      "count": 30
     },
     {
       "type": "xiaohongshu",

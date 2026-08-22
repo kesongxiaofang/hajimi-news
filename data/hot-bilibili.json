@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-22T12:30:00Z",
+  "update_time": "2026-08-22T13:51:00Z",
   "count": 30,
   "list": [
     {
       "title": "\"复活吧！我的（ ）\"",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "3218216播放",
+      "hot_value": "3270363播放",
       "index": 1
     },
     {
       "title": "严肃观看儿子的历史记录",
       "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "714529播放",
+      "hot_value": "797245播放",
       "index": 2
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "11767409播放",
+      "hot_value": "11823071播放",
       "index": 3
     },
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第12集【总第188集】",
       "url": "https://www.bilibili.com/video/BV1Ka866BEo8",
-      "hot_value": "4271850播放",
+      "hot_value": "4419005播放",
       "index": 4
     },
     {
       "title": "《牛莱》",
       "url": "https://www.bilibili.com/video/BV1vj8K6DE8D",
-      "hot_value": "1388034播放",
+      "hot_value": "1507039播放",
       "index": 5
-    },
-    {
-      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
-      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "hot_value": "2356973播放",
-      "index": 6
-    },
-    {
-      "title": "《原神》过场动画-「『复活』之时将至」",
-      "url": "https://www.bilibili.com/video/BV1UP8q6FEmU",
-      "hot_value": "194273播放",
-      "index": 7
-    },
-    {
-      "title": "本关最优解：放70个窝瓜僵尸 【bilibilionly同人扶持计划】",
-      "url": "https://www.bilibili.com/video/BV1Qc8T6SESo",
-      "hot_value": "1541381播放",
-      "index": 8
     },
     {
       "title": "我收容了100位粉丝到我的一辈子存档里！",
       "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "2641474播放",
+      "hot_value": "2696144播放",
+      "index": 6
+    },
+    {
+      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
+      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
+      "hot_value": "2404335播放",
+      "index": 7
+    },
+    {
+      "title": "《下一个是谁》第七季（3）",
+      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
+      "hot_value": "2313811播放",
+      "index": 8
+    },
+    {
+      "title": "本关最优解：放70个窝瓜僵尸 【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1Qc8T6SESo",
+      "hot_value": "1615308播放",
       "index": 9
     },
     {
       "title": "【纪录片】守护解放西·探案季 第十集  难以“置信”",
       "url": "https://www.bilibili.com/video/BV1ET8K6oETN",
-      "hot_value": "1619365播放",
+      "hot_value": "1646838播放",
       "index": 10
-    },
-    {
-      "title": "牛来听完这故事，哭着喊着说不来了",
-      "url": "https://www.bilibili.com/video/BV1JA8K68Eqa",
-      "hot_value": "1323815播放",
-      "index": 11
-    },
-    {
-      "title": "《下一个是谁》第七季（3）",
-      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "2290301播放",
-      "index": 12
-    },
-    {
-      "title": "上学都被没收过哪些东西？",
-      "url": "https://www.bilibili.com/video/BV1UL8169EUX",
-      "hot_value": "195705播放",
-      "index": 13
-    },
-    {
-      "title": "⚡️很恐怖游戏，使我大叫⚡️",
-      "url": "https://www.bilibili.com/video/BV1NG8q6REJZ",
-      "hot_value": "830430播放",
-      "index": 14
     },
     {
       "title": "当1000倍计量的毒品进入身体，会发生什么？",
       "url": "https://www.bilibili.com/video/BV16s8z6WENQ",
-      "hot_value": "1779122播放",
-      "index": 15
-    },
-    {
-      "title": "读秒挑战~",
-      "url": "https://www.bilibili.com/video/BV1ii8T6dEyP",
-      "hot_value": "2230577播放",
-      "index": 16
-    },
-    {
-      "title": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
-      "url": "https://www.bilibili.com/video/BV1jM8P6EEDy",
-      "hot_value": "1936271播放",
-      "index": 17
-    },
-    {
-      "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
-      "url": "https://www.bilibili.com/video/BV1LP816AETT",
-      "hot_value": "209187播放",
-      "index": 18
-    },
-    {
-      "title": "您好 没有为您拼命的义务 #乐意效劳",
-      "url": "https://www.bilibili.com/video/BV1Kz8M6CEVz",
-      "hot_value": "1278579播放",
-      "index": 19
-    },
-    {
-      "title": "李信没了还可以玩六耳，拆完塔一个筋斗云就走了",
-      "url": "https://www.bilibili.com/video/BV1fm8B6UEnG",
-      "hot_value": "883561播放",
-      "index": 20
-    },
-    {
-      "title": "奶龙大战僵尸最终版",
-      "url": "https://www.bilibili.com/video/BV1ev8z62EU4",
-      "hot_value": "370765播放",
-      "index": 21
-    },
-    {
-      "title": "我要超过杜海皇",
-      "url": "https://www.bilibili.com/video/BV1d18i6GEob",
-      "hot_value": "410441播放",
-      "index": 22
-    },
-    {
-      "title": "吃完享福去了",
-      "url": "https://www.bilibili.com/video/BV1t48i6xEL3",
-      "hot_value": "446633播放",
-      "index": 23
-    },
-    {
-      "title": "《黑神话：钟馗》15分钟实机演示",
-      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "10240327播放",
-      "index": 24
-    },
-    {
-      "title": "举手之劳 亦是人间微光",
-      "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "hot_value": "4370590播放",
-      "index": 25
-    },
-    {
-      "title": "震撼斗法！黄龙山之战藏了多少细节？《凡人修仙传》188逐帧解析",
-      "url": "https://www.bilibili.com/video/BV1P18y6LEm6",
-      "hot_value": "130163播放",
-      "index": 26
+      "hot_value": "1850856播放",
+      "index": 11
     },
     {
       "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
       "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
-      "hot_value": "4942637播放",
+      "hot_value": "4993335播放",
+      "index": 12
+    },
+    {
+      "title": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
+      "url": "https://www.bilibili.com/video/BV1jM8P6EEDy",
+      "hot_value": "1986115播放",
+      "index": 13
+    },
+    {
+      "title": "您好 没有为您拼命的义务 #乐意效劳",
+      "url": "https://www.bilibili.com/video/BV1Kz8M6CEVz",
+      "hot_value": "1327004播放",
+      "index": 14
+    },
+    {
+      "title": "吃完享福去了",
+      "url": "https://www.bilibili.com/video/BV1t48i6xEL3",
+      "hot_value": "476747播放",
+      "index": 15
+    },
+    {
+      "title": "加缪：如果正义必须伤害无辜，它还是正义吗？",
+      "url": "https://www.bilibili.com/video/BV14R8r6rE3C",
+      "hot_value": "1140489播放",
+      "index": 16
+    },
+    {
+      "title": "我要超过杜海皇",
+      "url": "https://www.bilibili.com/video/BV1d18i6GEob",
+      "hot_value": "439862播放",
+      "index": 17
+    },
+    {
+      "title": "举手之劳 亦是人间微光",
+      "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
+      "hot_value": "4402857播放",
+      "index": 18
+    },
+    {
+      "title": "黑乌龟历险记vol.1",
+      "url": "https://www.bilibili.com/video/BV1r88C6iEPo",
+      "hot_value": "339939播放",
+      "index": 19
+    },
+    {
+      "title": "《黑神话：钟馗》15分钟实机演示",
+      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
+      "hot_value": "10266579播放",
+      "index": 20
+    },
+    {
+      "title": "李信没了还可以玩六耳，拆完塔一个筋斗云就走了",
+      "url": "https://www.bilibili.com/video/BV1fm8B6UEnG",
+      "hot_value": "936332播放",
+      "index": 21
+    },
+    {
+      "title": "奶龙大战僵尸最终版",
+      "url": "https://www.bilibili.com/video/BV1ev8z62EU4",
+      "hot_value": "405000播放",
+      "index": 22
+    },
+    {
+      "title": "《晒足一百ber天3.0》",
+      "url": "https://www.bilibili.com/video/BV1JDbo6iEaR",
+      "hot_value": "1795533播放",
+      "index": 23
+    },
+    {
+      "title": "【二维动画】画二渲三，但是渲出来一堆BUG",
+      "url": "https://www.bilibili.com/video/BV1rL8q6QEk1",
+      "hot_value": "740358播放",
+      "index": 24
+    },
+    {
+      "title": "读秒挑战~",
+      "url": "https://www.bilibili.com/video/BV1ii8T6dEyP",
+      "hot_value": "2273145播放",
+      "index": 25
+    },
+    {
+      "title": "混子哥边走边画边讲：神秘的核电站",
+      "url": "https://www.bilibili.com/video/BV1Xg8F6hEMr",
+      "hot_value": "1261699播放",
+      "index": 26
+    },
+    {
+      "title": "牛来听完这故事，哭着喊着说不来了",
+      "url": "https://www.bilibili.com/video/BV1JA8K68Eqa",
+      "hot_value": "1370943播放",
       "index": 27
     },
     {
-      "title": "顺直大改造-反畸形审美，棒打高街帝少萝cp！",
-      "url": "https://www.bilibili.com/video/BV1e18u6tEi7",
-      "hot_value": "3304337播放",
+      "title": "【绍宋：还我河山】这一次，岳飞活下来！",
+      "url": "https://www.bilibili.com/video/BV1PX8q6tEBt",
+      "hot_value": "1098756播放",
       "index": 28
     },
     {
       "title": "🐧穷鬼鹅企🐧【B萌应援】",
       "url": "https://www.bilibili.com/video/BV13R8F6hEjX",
-      "hot_value": "1819120播放",
+      "hot_value": "1915166播放",
       "index": 29
     },
     {
-      "title": "《晒足一百ber天3.0》",
-      "url": "https://www.bilibili.com/video/BV1JDbo6iEaR",
-      "hot_value": "1762462播放",
+      "title": "【传奇耐熬王】😰开局就把渔网烧了？💵奖金是0？最纯粹的荒野独居比赛！没有奖金纯为名",
+      "url": "https://www.bilibili.com/video/BV1xB8M65E5z",
+      "hot_value": "871922播放",
       "index": 30
     }
   ]
