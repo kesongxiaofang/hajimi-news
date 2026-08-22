@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-22T11:43:43Z",
+  "update_time": "2026-08-22T12:30:00Z",
   "count": 30,
   "list": [
     {
       "title": "广东一车主把海鲜忘在车里 4 天，海鲜腐烂生了很多蛆，车是密封的，虫卵是从哪来的啊？",
       "url": "https://www.zhihu.com/question/2071880598914966646",
-      "hot_value": "571 万热度",
+      "hot_value": "611 万热度",
       "index": 1
     },
     {
       "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
       "url": "https://www.zhihu.com/question/2073370343264219476",
-      "hot_value": "323 万热度",
+      "hot_value": "354 万热度",
       "index": 2
-    },
-    {
-      "title": "退休后，把全国的县城都逛一遍这主意怎么样？",
-      "url": "https://www.zhihu.com/question/2072594246280929667",
-      "hot_value": "261 万热度",
-      "index": 3
     },
     {
       "title": "罗永浩公关称曾劝西贝拦住贾国龙，现在复盘的话哪些细节值得一聊？若当时真拦住了，会有怎样的不同？",
       "url": "https://www.zhihu.com/question/2074422136400082078",
-      "hot_value": "223 万热度",
-      "index": 4
+      "hot_value": "244 万热度",
+      "index": 3
     },
     {
       "title": "年轻人开始流行「养砖头」，这种看似无意义的爱好为什么会戳中年轻人的心？「养砖头」要注意什么？",
       "url": "https://www.zhihu.com/question/2074081143159371309",
-      "hot_value": "194 万热度",
+      "hot_value": "204 万热度",
+      "index": 4
+    },
+    {
+      "title": "退休后，把全国的县城都逛一遍这主意怎么样？",
+      "url": "https://www.zhihu.com/question/2072594246280929667",
+      "hot_value": "188 万热度",
       "index": 5
     },
     {
-      "title": "如何评价 0821 发布的 deepseek-v4-flash-vision-exp？",
-      "url": "https://www.zhihu.com/question/2074187767911925314",
-      "hot_value": "170 万热度",
+      "title": "如何评价电影《爸爸咪呀》？",
+      "url": "https://www.zhihu.com/question/2073924400685045576",
+      "hot_value": "173 万热度",
       "index": 6
     },
     {
-      "title": "如何评价《凡人修仙传》第 188 集？",
-      "url": "https://www.zhihu.com/question/2074460517066981712",
-      "hot_value": "167 万热度",
+      "title": "如何看待高校录取通知书回归「一页纸」后，清华大学推出立体二校门版「入学纪念证书」？",
+      "url": "https://www.zhihu.com/question/2074541381372965994",
+      "hot_value": "146 万热度",
       "index": 7
     },
     {
-      "title": "陈柏霖等台湾艺人因逃避兵役首度被传唤出庭，当庭认罪，哪些信息值得关注？为什么这么多台艺人要冒这个风险？",
-      "url": "https://www.zhihu.com/question/2074398319762039323",
-      "hot_value": "158 万热度",
+      "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢？",
+      "url": "https://www.zhihu.com/question/2065514457850176456",
+      "hot_value": "146 万热度",
       "index": 8
     },
     {
       "title": "孙悟空比太上老君差多少？为什么感觉太上老君怕孙悟空？",
       "url": "https://www.zhihu.com/question/1945376533322629616",
-      "hot_value": "153 万热度",
+      "hot_value": "145 万热度",
       "index": 9
-    },
-    {
-      "title": "如何评价电影《爸爸咪呀》？",
-      "url": "https://www.zhihu.com/question/2073924400685045576",
-      "hot_value": "148 万热度",
-      "index": 10
     },
     {
       "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？",
       "url": "https://www.zhihu.com/question/2074086385397544896",
-      "hot_value": "132 万热度",
-      "index": 11
+      "hot_value": "145 万热度",
+      "index": 10
     },
     {
       "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
       "url": "https://www.zhihu.com/question/2074164491798028674",
-      "hot_value": "132 万热度",
+      "hot_value": "140 万热度",
+      "index": 11
+    },
+    {
+      "title": "陈柏霖等台湾艺人因逃避兵役首度被传唤出庭，当庭认罪，哪些信息值得关注？为什么这么多台艺人要冒这个风险？",
+      "url": "https://www.zhihu.com/question/2074398319762039323",
+      "hot_value": "136 万热度",
       "index": 12
     },
     {
-      "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢？",
-      "url": "https://www.zhihu.com/question/2065514457850176456",
-      "hot_value": "130 万热度",
+      "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+      "url": "https://www.zhihu.com/question/2074077084964733784",
+      "hot_value": "133 万热度",
       "index": 13
     },
     {
       "title": "西安一影城推出午休服务，每月 39.9 元还有免费充电、咖啡，这一服务怎么样？你愿意花钱去影院午休吗？",
       "url": "https://www.zhihu.com/question/2074159127287297023",
-      "hot_value": "128 万热度",
+      "hot_value": "111 万热度",
       "index": 14
     },
     {
-      "title": "如何看待高校录取通知书回归「一页纸」后，清华大学推出立体二校门版「入学纪念证书」？",
-      "url": "https://www.zhihu.com/question/2074541381372965994",
-      "hot_value": "128 万热度",
+      "title": "什么操作会对电脑造成永久性伤害？",
+      "url": "https://www.zhihu.com/question/275468231",
+      "hot_value": "108 万热度",
       "index": 15
     },
     {
       "title": "网友发现 18 岁黑龙江速滑运动员王新睿被冰刀割伤左腿截肢，具体是怎么回事？若如网传是他人撞伤，能赔偿吗？",
       "url": "https://www.zhihu.com/question/2074085560356792017",
-      "hot_value": "127 万热度",
+      "hot_value": "108 万热度",
       "index": 16
     },
     {
-      "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-      "url": "https://www.zhihu.com/question/2074077084964733784",
-      "hot_value": "127 万热度",
+      "title": "英雄联盟的 「 连招 」 概念为什么消失了？",
+      "url": "https://www.zhihu.com/question/2066201611286885601",
+      "hot_value": "108 万热度",
       "index": 17
     },
     {
       "title": "曹云金在演出中用郭德纲「砸现挂」，此举对相声界传统和师徒关系有何影响？",
       "url": "https://www.zhihu.com/question/2073016995126175490",
-      "hot_value": "117 万热度",
+      "hot_value": "102 万热度",
       "index": 18
     },
     {
-      "title": "电影放映中途为什么不暂停给上厕所的时间？",
-      "url": "https://www.zhihu.com/question/2073781714695070780",
-      "hot_value": "114 万热度",
+      "title": "如何评价 0821 发布的 deepseek-v4-flash-vision-exp？",
+      "url": "https://www.zhihu.com/question/2074187767911925314",
+      "hot_value": "99 万热度",
       "index": 19
     },
     {
-      "title": "英雄联盟的 「 连招 」 概念为什么消失了？",
-      "url": "https://www.zhihu.com/question/2066201611286885601",
-      "hot_value": "104 万热度",
+      "title": "如何评价《凡人修仙传》第 188 集？",
+      "url": "https://www.zhihu.com/question/2074460517066981712",
+      "hot_value": "96 万热度",
       "index": 20
     },
     {
       "title": "下赛季东契奇肯定拥有无限开火权，他拿到常规赛 MVP 的概率有多大？",
       "url": "https://www.zhihu.com/question/2074298519398135339",
-      "hot_value": "92 万热度",
+      "hot_value": "94 万热度",
       "index": 21
     },
     {
-      "title": "如何看待维斯塔潘与红牛车队续约至 2030 年？",
-      "url": "https://www.zhihu.com/question/2073911233716171705",
-      "hot_value": "75 万热度",
+      "title": "如何看待现在好多小学初中生身高一米八？",
+      "url": "https://www.zhihu.com/question/450488929",
+      "hot_value": "84 万热度",
       "index": 22
-    },
-    {
-      "title": "该不该为了「好的就业」，而放弃「热爱」？",
-      "url": "https://www.zhihu.com/question/2071229337567867394",
-      "hot_value": "71 万热度",
-      "index": 23
     },
     {
       "title": "当你的孩子跟你说读书没有用时，你会怎么办？",
       "url": "https://www.zhihu.com/question/2040821274428043376",
-      "hot_value": "67 万热度",
+      "hot_value": "69 万热度",
+      "index": 23
+    },
+    {
+      "title": "电影放映中途为什么不暂停给上厕所的时间？",
+      "url": "https://www.zhihu.com/question/2073781714695070780",
+      "hot_value": "59 万热度",
       "index": 24
     },
     {
-      "title": "为什么赏金成为了 TI15 的热门英雄？",
-      "url": "https://www.zhihu.com/question/2073992778493715371",
-      "hot_value": "57 万热度",
+      "title": "如何看待维斯塔潘与红牛车队续约至 2030 年？",
+      "url": "https://www.zhihu.com/question/2073911233716171705",
+      "hot_value": "59 万热度",
       "index": 25
     },
     {
-      "title": "导师的水平是否已经决定了一个博士生的天花板？",
-      "url": "https://www.zhihu.com/question/338048657",
-      "hot_value": "56 万热度",
+      "title": "该不该为了「好的就业」，而放弃「热爱」？",
+      "url": "https://www.zhihu.com/question/2071229337567867394",
+      "hot_value": "57 万热度",
       "index": 26
     },
     {
-      "title": "你最讨厌的游戏机制是什么？体力条、 QTE 、强制联网还是其它？",
-      "url": "https://www.zhihu.com/question/2073063703814070914",
+      "title": "在服务型（长线运营）游戏里讲好故事是一个伪命题吗？",
+      "url": "https://www.zhihu.com/question/1966572564005520071",
       "hot_value": "56 万热度",
       "index": 27
     },
     {
-      "title": "有哪些反常识的科学结论，或者反直觉的科学事实？",
-      "url": "https://www.zhihu.com/question/422687386",
+      "title": "为啥天庭里没孔子的仙位呢？",
+      "url": "https://www.zhihu.com/question/455359545",
       "hot_value": "56 万热度",
       "index": 28
     },
     {
-      "title": "年轻时最需要打磨的能力是什么？",
-      "url": "https://www.zhihu.com/question/2070509435370395263",
+      "title": "拳头游戏停止开发《2XKO》，发售至今未掀起波澜，是什么原因造成的？",
+      "url": "https://www.zhihu.com/question/2074074969764541878",
       "hot_value": "56 万热度",
       "index": 29
     },
     {
-      "title": "如何看待《源初之结》于抖音游戏中心透露出的宣传物料?",
-      "url": "https://www.zhihu.com/question/2074270744159183546",
+      "title": "外卖小哥骑电动车撞持刀男子，王者荣耀全网寻人望颁发「国服孙策」奖状，如何看待这一系列暖心事迹？",
+      "url": "https://www.zhihu.com/question/2074090130067777183",
       "hot_value": "56 万热度",
       "index": 30
     }
