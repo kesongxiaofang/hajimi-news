@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-22T17:44:20Z",
+  "update_time": "2026-08-22T18:21:58Z",
   "count": 30,
   "list": [
     {
       "title": "\"复活吧！我的（ ）\"",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "3580291播放",
+      "hot_value": "3619797播放",
       "index": 1
-    },
-    {
-      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
-      "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
-      "hot_value": "459579播放",
-      "index": 2
     },
     {
       "title": "严肃观看儿子的历史记录",
       "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "1268105播放",
+      "hot_value": "1335662播放",
+      "index": 2
+    },
+    {
+      "title": "我这一生最大的罪，是把人写成了妖……",
+      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
+      "hot_value": "12166774播放",
       "index": 3
     },
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第12集【总第188集】",
       "url": "https://www.bilibili.com/video/BV1Ka866BEo8",
-      "hot_value": "5299175播放",
+      "hot_value": "5409750播放",
       "index": 4
-    },
-    {
-      "title": "我这一生最大的罪，是把人写成了妖……",
-      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "12127969播放",
-      "index": 5
-    },
-    {
-      "title": "《晒足一百ber天3.0》",
-      "url": "https://www.bilibili.com/video/BV1JDbo6iEaR",
-      "hot_value": "2142004播放",
-      "index": 6
-    },
-    {
-      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
-      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "hot_value": "2679497播放",
-      "index": 7
     },
     {
       "title": "本关最优解：放70个窝瓜僵尸 【bilibilionly同人扶持计划】",
       "url": "https://www.bilibili.com/video/BV1Qc8T6SESo",
-      "hot_value": "2061539播放",
-      "index": 8
+      "hot_value": "2149164播放",
+      "index": 5
+    },
+    {
+      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
+      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
+      "hot_value": "2717173播放",
+      "index": 6
     },
     {
       "title": "我收容了100位粉丝到我的一辈子存档里！",
       "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "2986468播放",
+      "hot_value": "3012253播放",
+      "index": 7
+    },
+    {
+      "title": "《下一个是谁》第七季（3）",
+      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
+      "hot_value": "2478768播放",
+      "index": 8
+    },
+    {
+      "title": "您好 没有为您拼命的义务 #乐意效劳",
+      "url": "https://www.bilibili.com/video/BV1Kz8M6CEVz",
+      "hot_value": "1698686播放",
       "index": 9
     },
     {
       "title": "【纪录片】守护解放西·探案季 第十集  难以“置信”",
       "url": "https://www.bilibili.com/video/BV1ET8K6oETN",
-      "hot_value": "1763262播放",
+      "hot_value": "1772128播放",
       "index": 10
     },
     {
       "title": "《牛莱》",
       "url": "https://www.bilibili.com/video/BV1vj8K6DE8D",
-      "hot_value": "2076100播放",
+      "hot_value": "2139771播放",
       "index": 11
     },
     {
-      "title": "《下一个是谁》第七季（3）",
-      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "2457157播放",
+      "title": "上学都被没收过哪些东西？",
+      "url": "https://www.bilibili.com/video/BV1UL8169EUX",
+      "hot_value": "611914播放",
       "index": 12
     },
     {
       "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
       "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
-      "hot_value": "540112播放",
+      "hot_value": "595528播放",
       "index": 13
-    },
-    {
-      "title": "您好 没有为您拼命的义务 #乐意效劳",
-      "url": "https://www.bilibili.com/video/BV1Kz8M6CEVz",
-      "hot_value": "1637968播放",
-      "index": 14
-    },
-    {
-      "title": "挑战让精神小妹一天花1500，看她怎么花",
-      "url": "https://www.bilibili.com/video/BV1dw8C6REHJ",
-      "hot_value": "548774播放",
-      "index": 15
     },
     {
       "title": "真的...没有人类了",
       "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
-      "hot_value": "2344636播放",
-      "index": 16
+      "hot_value": "2389279播放",
+      "index": 14
     },
     {
       "title": "《黑神话：钟馗》15分钟实机演示",
       "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "10457964播放",
-      "index": 17
-    },
-    {
-      "title": "上学都被没收过哪些东西？",
-      "url": "https://www.bilibili.com/video/BV1UL8169EUX",
-      "hot_value": "559203播放",
-      "index": 18
+      "hot_value": "10488330播放",
+      "index": 15
     },
     {
       "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
       "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-      "hot_value": "4920436播放",
-      "index": 19
-    },
-    {
-      "title": "顺直大改造-反畸形审美，棒打高街帝少萝cp！",
-      "url": "https://www.bilibili.com/video/BV1e18u6tEi7",
-      "hot_value": "3540782播放",
-      "index": 20
-    },
-    {
-      "title": "举手之劳 亦是人间微光",
-      "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "hot_value": "4582587播放",
-      "index": 21
+      "hot_value": "4955750播放",
+      "index": 16
     },
     {
       "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
       "url": "https://www.bilibili.com/video/BV1LP816AETT",
-      "hot_value": "401588播放",
-      "index": 22
+      "hot_value": "440679播放",
+      "index": 17
     },
     {
-      "title": "震撼斗法！黄龙山之战藏了多少细节？《凡人修仙传》188逐帧解析",
-      "url": "https://www.bilibili.com/video/BV1P18y6LEm6",
-      "hot_value": "351704播放",
-      "index": 23
+      "title": "挑战让精神小妹一天花1500，看她怎么花",
+      "url": "https://www.bilibili.com/video/BV1dw8C6REHJ",
+      "hot_value": "586777播放",
+      "index": 18
+    },
+    {
+      "title": "顺直大改造-反畸形审美，棒打高街帝少萝cp！",
+      "url": "https://www.bilibili.com/video/BV1e18u6tEi7",
+      "hot_value": "3579488播放",
+      "index": 19
     },
     {
       "title": "李信没了还可以玩六耳，拆完塔一个筋斗云就走了",
       "url": "https://www.bilibili.com/video/BV1fm8B6UEnG",
-      "hot_value": "1185480播放",
-      "index": 24
+      "hot_value": "1224174播放",
+      "index": 20
+    },
+    {
+      "title": "震撼斗法！黄龙山之战藏了多少细节？《凡人修仙传》188逐帧解析",
+      "url": "https://www.bilibili.com/video/BV1P18y6LEm6",
+      "hot_value": "380834播放",
+      "index": 21
     },
     {
       "title": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
       "url": "https://www.bilibili.com/video/BV1jM8P6EEDy",
-      "hot_value": "2210658播放",
-      "index": 25
+      "hot_value": "2242326播放",
+      "index": 22
     },
     {
       "title": "《情歌王》，但如果全是原唱来唱会是什么感觉？",
       "url": "https://www.bilibili.com/video/BV13a8H6dE5L",
-      "hot_value": "851864播放",
-      "index": 26
+      "hot_value": "872898播放",
+      "index": 23
+    },
+    {
+      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
+      "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
+      "hot_value": "470030播放",
+      "index": 24
     },
     {
       "title": "《 黑 神 话 咕 嘎 》终极典藏版",
       "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
-      "hot_value": "1402642播放",
-      "index": 27
+      "hot_value": "1418968播放",
+      "index": 25
     },
     {
       "title": "我要超过杜海皇",
       "url": "https://www.bilibili.com/video/BV1d18i6GEob",
-      "hot_value": "586869播放",
-      "index": 28
+      "hot_value": "605603播放",
+      "index": 26
     },
     {
       "title": "【二维动画】画二渲三，但是渲出来一堆BUG",
       "url": "https://www.bilibili.com/video/BV1rL8q6QEk1",
-      "hot_value": "813187播放",
+      "hot_value": "822974播放",
+      "index": 27
+    },
+    {
+      "title": "《晒足一百ber天3.0》",
+      "url": "https://www.bilibili.com/video/BV1JDbo6iEaR",
+      "hot_value": "2165008播放",
+      "index": 28
+    },
+    {
+      "title": "我必须救好他",
+      "url": "https://www.bilibili.com/video/BV1dQ8i6MEA5",
+      "hot_value": "882473播放",
       "index": 29
     },
     {
-      "title": "吃完享福去了",
-      "url": "https://www.bilibili.com/video/BV1t48i6xEL3",
-      "hot_value": "618669播放",
+      "title": "混子哥边走边画边讲：神秘的核电站",
+      "url": "https://www.bilibili.com/video/BV1Xg8F6hEMr",
+      "hot_value": "1435138播放",
       "index": 30
     }
   ]

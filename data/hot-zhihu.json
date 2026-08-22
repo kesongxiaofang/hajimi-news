@@ -1,73 +1,73 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-22T17:44:20Z",
+  "update_time": "2026-08-22T18:21:58Z",
   "count": 30,
   "list": [
     {
-      "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢？",
-      "url": "https://www.zhihu.com/question/2065514457850176456",
-      "hot_value": "388 万热度",
+      "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？",
+      "url": "https://www.zhihu.com/question/2074086385397544896",
+      "hot_value": "312 万热度",
       "index": 1
     },
     {
-      "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？",
-      "url": "https://www.zhihu.com/question/2074086385397544896",
-      "hot_value": "302 万热度",
+      "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢？",
+      "url": "https://www.zhihu.com/question/2065514457850176456",
+      "hot_value": "289 万热度",
       "index": 2
     },
     {
       "title": "林肯号危机「吹哨人」遭清算，因曝光林肯号糟糕处境，美国军报总编辑、发行人、记者均被解雇，如何看待此事？",
       "url": "https://www.zhihu.com/question/2074570591689089958",
-      "hot_value": "232 万热度",
+      "hot_value": "242 万热度",
       "index": 3
     },
     {
       "title": "如何看待高校录取通知书回归「一页纸」后，清华大学推出立体二校门版「入学纪念证书」？",
       "url": "https://www.zhihu.com/question/2074541381372965994",
-      "hot_value": "231 万热度",
+      "hot_value": "228 万热度",
       "index": 4
-    },
-    {
-      "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
-      "url": "https://www.zhihu.com/question/2074164491798028674",
-      "hot_value": "205 万热度",
-      "index": 5
     },
     {
       "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
       "url": "https://www.zhihu.com/question/2074601403142649584",
-      "hot_value": "172 万热度",
+      "hot_value": "200 万热度",
+      "index": 5
+    },
+    {
+      "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
+      "url": "https://www.zhihu.com/question/2074164491798028674",
+      "hot_value": "163 万热度",
       "index": 6
     },
     {
       "title": "什么操作会对电脑造成永久性伤害？",
       "url": "https://www.zhihu.com/question/275468231",
-      "hot_value": "153 万热度",
+      "hot_value": "156 万热度",
       "index": 7
     },
     {
       "title": "如何看待现在好多小学初中生身高一米八？",
       "url": "https://www.zhihu.com/question/450488929",
-      "hot_value": "152 万热度",
+      "hot_value": "150 万热度",
       "index": 8
     },
     {
       "title": "英雄联盟的 「 连招 」 概念为什么消失了？",
       "url": "https://www.zhihu.com/question/2066201611286885601",
-      "hot_value": "140 万热度",
+      "hot_value": "142 万热度",
       "index": 9
     },
     {
       "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
       "url": "https://www.zhihu.com/question/2074077084964733784",
-      "hot_value": "136 万热度",
+      "hot_value": "122 万热度",
       "index": 10
     },
     {
       "title": "零食占座当事人母亲否认故意占座，称儿童票捆绑成人票销售，退成人票后儿童会被要求下车，哪些问题值得关注？",
       "url": "https://www.zhihu.com/question/2074588443309340001",
-      "hot_value": "117 万热度",
+      "hot_value": "110 万热度",
       "index": 11
     },
     {
@@ -77,21 +77,21 @@
       "index": 12
     },
     {
-      "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
-      "url": "https://www.zhihu.com/question/2073370343264219476",
+      "title": "乘法的本质是什么？",
+      "url": "https://www.zhihu.com/question/21247203",
       "hot_value": "86 万热度",
       "index": 13
     },
     {
-      "title": "乘法的本质是什么？",
-      "url": "https://www.zhihu.com/question/21247203",
+      "title": "如何看待中国传媒大学拟新增「游戏科学与技术」和「电子竞技」两个游戏类专业？对考生报考有何建议？",
+      "url": "https://www.zhihu.com/question/2073440887451955222",
       "hot_value": "83 万热度",
       "index": 14
     },
     {
-      "title": "在《新警察故事》突击劫匪巢穴行动中，成龙犯下了哪些战术错误？",
-      "url": "https://www.zhihu.com/question/306729503",
-      "hot_value": "80 万热度",
+      "title": "2026 羽毛球世锦赛，中国男单选手全部止步 16 强‌，创历史最差成绩。对此你怎么看呢？",
+      "url": "https://www.zhihu.com/question/2073921539922306921",
+      "hot_value": "82 万热度",
       "index": 15
     },
     {
@@ -119,68 +119,68 @@
       "index": 19
     },
     {
-      "title": "如何看待中国传媒大学拟新增「游戏科学与技术」和「电子竞技」两个游戏类专业？对考生报考有何建议？",
-      "url": "https://www.zhihu.com/question/2073440887451955222",
-      "hot_value": "77 万热度",
-      "index": 20
-    },
-    {
       "title": "新赛季第一战，曼联 0-2 赫尔城，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2074608474965787566",
-      "hot_value": "76 万热度",
-      "index": 21
-    },
-    {
-      "title": "你和孩子都爱吃的东西，你会自己不吃留给孩子，还是自己吃？",
-      "url": "https://www.zhihu.com/question/2070175804668040223",
-      "hot_value": "76 万热度",
-      "index": 22
+      "hot_value": "73 万热度",
+      "index": 20
     },
     {
       "title": "餐饮现在怎么做才能赚钱？",
       "url": "https://www.zhihu.com/question/4957697804",
-      "hot_value": "73 万热度",
-      "index": 23
+      "hot_value": "68 万热度",
+      "index": 21
     },
     {
-      "title": "第二届世界人形机器人运动会在北京启幕，有哪些看点值得关注？",
-      "url": "https://www.zhihu.com/question/2073477389846369252",
-      "hot_value": "72 万热度",
-      "index": 24
-    },
-    {
-      "title": "如何通过投六面骰子，产生 1-7 均匀分布的随机数？",
-      "url": "https://www.zhihu.com/question/62404167",
-      "hot_value": "70 万热度",
-      "index": 25
+      "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
+      "url": "https://www.zhihu.com/question/2073370343264219476",
+      "hot_value": "59 万热度",
+      "index": 22
     },
     {
       "title": "退休后，把全国的县城都逛一遍这主意怎么样？",
       "url": "https://www.zhihu.com/question/2072594246280929667",
       "hot_value": "59 万热度",
+      "index": 23
+    },
+    {
+      "title": "第二届世界人形机器人运动会在北京启幕，有哪些看点值得关注？",
+      "url": "https://www.zhihu.com/question/2073477389846369252",
+      "hot_value": "59 万热度",
+      "index": 24
+    },
+    {
+      "title": "在《新警察故事》突击劫匪巢穴行动中，成龙犯下了哪些战术错误？",
+      "url": "https://www.zhihu.com/question/306729503",
+      "hot_value": "59 万热度",
+      "index": 25
+    },
+    {
+      "title": "你和孩子都爱吃的东西，你会自己不吃留给孩子，还是自己吃？",
+      "url": "https://www.zhihu.com/question/2070175804668040223",
+      "hot_value": "58 万热度",
       "index": 26
     },
     {
-      "title": "中国有哪些不为人知的濒危物种？",
-      "url": "https://www.zhihu.com/question/363711872",
+      "title": "如何通过投六面骰子，产生 1-7 均匀分布的随机数？",
+      "url": "https://www.zhihu.com/question/62404167",
       "hot_value": "57 万热度",
       "index": 27
-    },
-    {
-      "title": "金族起兵时只有两千人，就把辽国灭亡了，这事怎么说？",
-      "url": "https://www.zhihu.com/question/583009731",
-      "hot_value": "56 万热度",
-      "index": 28
     },
     {
       "title": "《欢迎来龙餐馆》中，徐福会后悔没有给校长上真的辣椒水吗？",
       "url": "https://www.zhihu.com/question/2073088603169857894",
       "hot_value": "55 万热度",
-      "index": 29
+      "index": 28
     },
     {
       "title": "有孩子和没孩子区别真的很大吗？",
       "url": "https://www.zhihu.com/question/2020592096608883992",
+      "hot_value": "55 万热度",
+      "index": 29
+    },
+    {
+      "title": "对于奥德赛这部电影，奥德修斯的饰演者（马特达蒙）你觉得有更合适的人选吗？",
+      "url": "https://www.zhihu.com/question/2071540171628099558",
       "hot_value": "55 万热度",
       "index": 30
     }
