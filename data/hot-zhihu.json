@@ -1,79 +1,79 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-22T18:21:58Z",
+  "update_time": "2026-08-22T18:56:47Z",
   "count": 30,
   "list": [
     {
-      "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？",
-      "url": "https://www.zhihu.com/question/2074086385397544896",
-      "hot_value": "312 万热度",
-      "index": 1
-    },
-    {
       "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢？",
       "url": "https://www.zhihu.com/question/2065514457850176456",
-      "hot_value": "289 万热度",
-      "index": 2
+      "hot_value": "271 万热度",
+      "index": 1
     },
     {
       "title": "林肯号危机「吹哨人」遭清算，因曝光林肯号糟糕处境，美国军报总编辑、发行人、记者均被解雇，如何看待此事？",
       "url": "https://www.zhihu.com/question/2074570591689089958",
-      "hot_value": "242 万热度",
+      "hot_value": "244 万热度",
+      "index": 2
+    },
+    {
+      "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？",
+      "url": "https://www.zhihu.com/question/2074086385397544896",
+      "hot_value": "237 万热度",
       "index": 3
     },
     {
       "title": "如何看待高校录取通知书回归「一页纸」后，清华大学推出立体二校门版「入学纪念证书」？",
       "url": "https://www.zhihu.com/question/2074541381372965994",
-      "hot_value": "228 万热度",
+      "hot_value": "224 万热度",
       "index": 4
     },
     {
       "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
       "url": "https://www.zhihu.com/question/2074601403142649584",
-      "hot_value": "200 万热度",
+      "hot_value": "211 万热度",
       "index": 5
-    },
-    {
-      "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
-      "url": "https://www.zhihu.com/question/2074164491798028674",
-      "hot_value": "163 万热度",
-      "index": 6
     },
     {
       "title": "什么操作会对电脑造成永久性伤害？",
       "url": "https://www.zhihu.com/question/275468231",
-      "hot_value": "156 万热度",
+      "hot_value": "159 万热度",
+      "index": 6
+    },
+    {
+      "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
+      "url": "https://www.zhihu.com/question/2074164491798028674",
+      "hot_value": "155 万热度",
       "index": 7
     },
     {
       "title": "如何看待现在好多小学初中生身高一米八？",
       "url": "https://www.zhihu.com/question/450488929",
-      "hot_value": "150 万热度",
+      "hot_value": "152 万热度",
       "index": 8
     },
     {
       "title": "英雄联盟的 「 连招 」 概念为什么消失了？",
       "url": "https://www.zhihu.com/question/2066201611286885601",
-      "hot_value": "142 万热度",
+      "hot_value": "143 万热度",
       "index": 9
     },
     {
       "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
       "url": "https://www.zhihu.com/question/2074077084964733784",
-      "hot_value": "122 万热度",
+      "hot_value": "111 万热度",
       "index": 10
     },
     {
       "title": "零食占座当事人母亲否认故意占座，称儿童票捆绑成人票销售，退成人票后儿童会被要求下车，哪些问题值得关注？",
       "url": "https://www.zhihu.com/question/2074588443309340001",
-      "hot_value": "110 万热度",
+      "hot_value": "105 万热度",
       "index": 11
     },
     {
       "title": "到底是「女主播隐瞒已婚诱导粉丝打赏 2500 万」，还是「榜一大哥敲诈式维权」？此事关键在哪？",
       "url": "https://www.zhihu.com/question/2074437569970790911",
-      "hot_value": "98 万热度",
+      "hot_value": "99 万热度",
       "index": 12
     },
     {
@@ -91,13 +91,13 @@
     {
       "title": "2026 羽毛球世锦赛，中国男单选手全部止步 16 强‌，创历史最差成绩。对此你怎么看呢？",
       "url": "https://www.zhihu.com/question/2073921539922306921",
-      "hot_value": "82 万热度",
+      "hot_value": "83 万热度",
       "index": 15
     },
     {
       "title": "网友发现 18 岁黑龙江速滑运动员王新睿被冰刀割伤左腿截肢，具体是怎么回事？若如网传是他人撞伤，能赔偿吗？",
       "url": "https://www.zhihu.com/question/2074085560356792017",
-      "hot_value": "80 万热度",
+      "hot_value": "81 万热度",
       "index": 16
     },
     {
@@ -121,37 +121,37 @@
     {
       "title": "新赛季第一战，曼联 0-2 赫尔城，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2074608474965787566",
-      "hot_value": "73 万热度",
+      "hot_value": "65 万热度",
       "index": 20
-    },
-    {
-      "title": "餐饮现在怎么做才能赚钱？",
-      "url": "https://www.zhihu.com/question/4957697804",
-      "hot_value": "68 万热度",
-      "index": 21
     },
     {
       "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
       "url": "https://www.zhihu.com/question/2073370343264219476",
       "hot_value": "59 万热度",
-      "index": 22
+      "index": 21
     },
     {
       "title": "退休后，把全国的县城都逛一遍这主意怎么样？",
       "url": "https://www.zhihu.com/question/2072594246280929667",
       "hot_value": "59 万热度",
+      "index": 22
+    },
+    {
+      "title": "在《新警察故事》突击劫匪巢穴行动中，成龙犯下了哪些战术错误？",
+      "url": "https://www.zhihu.com/question/306729503",
+      "hot_value": "58 万热度",
       "index": 23
     },
     {
       "title": "第二届世界人形机器人运动会在北京启幕，有哪些看点值得关注？",
       "url": "https://www.zhihu.com/question/2073477389846369252",
-      "hot_value": "59 万热度",
+      "hot_value": "58 万热度",
       "index": 24
     },
     {
-      "title": "在《新警察故事》突击劫匪巢穴行动中，成龙犯下了哪些战术错误？",
-      "url": "https://www.zhihu.com/question/306729503",
-      "hot_value": "59 万热度",
+      "title": "餐饮现在怎么做才能赚钱？",
+      "url": "https://www.zhihu.com/question/4957697804",
+      "hot_value": "58 万热度",
       "index": 25
     },
     {
