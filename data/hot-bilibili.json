@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-22T04:58:38Z",
+  "update_time": "2026-08-22T05:32:02Z",
   "count": 30,
   "list": [
     {
       "title": "\"复活吧！我的（ ）\"",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "2106033播放",
+      "hot_value": "2295908播放",
       "index": 1
-    },
-    {
-      "title": "我收容了100位粉丝到我的一辈子存档里！",
-      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "1597526播放",
-      "index": 2
     },
     {
       "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
       "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "hot_value": "1328943播放",
+      "hot_value": "1496168播放",
+      "index": 2
+    },
+    {
+      "title": "我收容了100位粉丝到我的一辈子存档里！",
+      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
+      "hot_value": "1755629播放",
       "index": 3
     },
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第12集【总第188集】",
       "url": "https://www.bilibili.com/video/BV1Ka866BEo8",
-      "hot_value": "1122087播放",
+      "hot_value": "1823747播放",
       "index": 4
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "10930134播放",
+      "hot_value": "11029557播放",
       "index": 5
-    },
-    {
-      "title": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告",
-      "url": "https://www.bilibili.com/video/BV1VQ8i6uEr4",
-      "hot_value": "1157810播放",
-      "index": 6
     },
     {
       "title": "《下一个是谁》第七季（3）",
       "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "1840915播放",
-      "index": 7
+      "hot_value": "1927183播放",
+      "index": 6
     },
     {
       "title": "《晒足一百ber天3.0》",
       "url": "https://www.bilibili.com/video/BV1JDbo6iEaR",
-      "hot_value": "963681播放",
-      "index": 8
+      "hot_value": "1137572播放",
+      "index": 7
     },
     {
       "title": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
       "url": "https://www.bilibili.com/video/BV1jM8P6EEDy",
-      "hot_value": "1007378播放",
+      "hot_value": "1141019播放",
+      "index": 8
+    },
+    {
+      "title": "加缪：如果正义必须伤害无辜，它还是正义吗？",
+      "url": "https://www.bilibili.com/video/BV14R8r6rE3C",
+      "hot_value": "602095播放",
       "index": 9
     },
     {
       "title": "【纪录片】守护解放西·探案季 第十集  难以“置信”",
       "url": "https://www.bilibili.com/video/BV1ET8K6oETN",
-      "hot_value": "1150110播放",
+      "hot_value": "1224043播放",
       "index": 10
-    },
-    {
-      "title": "全球十大餐厅！为吃这顿饭！我们在欧洲被偷5万！到底值不值？",
-      "url": "https://www.bilibili.com/video/BV1UU8q6FEPL",
-      "hot_value": "1368700播放",
-      "index": 11
-    },
-    {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "10629913播放",
-      "index": 12
-    },
-    {
-      "title": "父母给我8k去内蒙，我看向自行车",
-      "url": "https://www.bilibili.com/video/BV11f8u6UEHZ",
-      "hot_value": "1208740播放",
-      "index": 13
     },
     {
       "title": "《你咋开的车》",
       "url": "https://www.bilibili.com/video/BV1dS8P6JEha",
-      "hot_value": "3243864播放",
-      "index": 14
+      "hot_value": "3382842播放",
+      "index": 11
     },
     {
-      "title": "【二维动画】画二渲三，但是渲出来一堆BUG",
-      "url": "https://www.bilibili.com/video/BV1rL8q6QEk1",
-      "hot_value": "414566播放",
-      "index": 15
-    },
-    {
-      "title": "加缪：如果正义必须伤害无辜，它还是正义吗？",
-      "url": "https://www.bilibili.com/video/BV14R8r6rE3C",
-      "hot_value": "472885播放",
-      "index": 16
+      "title": "全球十大餐厅！为吃这顿饭！我们在欧洲被偷5万！到底值不值？",
+      "url": "https://www.bilibili.com/video/BV1UU8q6FEPL",
+      "hot_value": "1572784播放",
+      "index": 12
     },
     {
       "title": "混子哥边走边画边讲：神秘的核电站",
       "url": "https://www.bilibili.com/video/BV1Xg8F6hEMr",
-      "hot_value": "644811播放",
-      "index": 17
+      "hot_value": "733734播放",
+      "index": 13
+    },
+    {
+      "title": "【二维动画】画二渲三，但是渲出来一堆BUG",
+      "url": "https://www.bilibili.com/video/BV1rL8q6QEk1",
+      "hot_value": "458323播放",
+      "index": 14
+    },
+    {
+      "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
+      "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
+      "hot_value": "4405735播放",
+      "index": 15
     },
     {
       "title": "时隔一年！久违的整合包生存，缆车末日惊变 100 天！绝不烂尾！！！",
       "url": "https://www.bilibili.com/video/BV1yM8A6bErQ",
-      "hot_value": "1229484播放",
-      "index": 18
-    },
-    {
-      "title": "渣渣辉没更新在干嘛：结婚！生小孩！",
-      "url": "https://www.bilibili.com/video/BV1xz8M6CEdi",
-      "hot_value": "1001957播放",
-      "index": 19
-    },
-    {
-      "title": "举手之劳 亦是人间微光",
-      "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "hot_value": "3983474播放",
-      "index": 20
-    },
-    {
-      "title": "《黑神话：钟馗》15分钟实机演示",
-      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "9847265播放",
-      "index": 21
+      "hot_value": "1270807播放",
+      "index": 16
     },
     {
       "title": "《 黑 神 话 咕 嘎 》终极典藏版",
       "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
-      "hot_value": "1013942播放",
-      "index": 22
+      "hot_value": "1053162播放",
+      "index": 17
+    },
+    {
+      "title": "举手之劳 亦是人间微光",
+      "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
+      "hot_value": "4032505播放",
+      "index": 18
+    },
+    {
+      "title": "《黑神话：钟馗》15分钟实机演示",
+      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
+      "hot_value": "9896973播放",
+      "index": 19
+    },
+    {
+      "title": "我必须救好他",
+      "url": "https://www.bilibili.com/video/BV1dQ8i6MEA5",
+      "hot_value": "540551播放",
+      "index": 20
+    },
+    {
+      "title": "冒死揭秘！苗疆的巫蛊之术到底是什么？",
+      "url": "https://www.bilibili.com/video/BV1Yy8T6nETp",
+      "hot_value": "415310播放",
+      "index": 21
     },
     {
       "title": "当你穿进老钱班33",
       "url": "https://www.bilibili.com/video/BV1kA8M6MEMa",
-      "hot_value": "1022471播放",
-      "index": 23
-    },
-    {
-      "title": "结个婚看看怎么个事",
-      "url": "https://www.bilibili.com/video/BV19Q8i6MEkX",
-      "hot_value": "1653048播放",
-      "index": 24
-    },
-    {
-      "title": "唐王随手捐闲钱，竟将阿萨拉扶成王！",
-      "url": "https://www.bilibili.com/video/BV1HQbf6CEG4",
-      "hot_value": "2856413播放",
-      "index": 25
-    },
-    {
-      "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
-      "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
-      "hot_value": "2168065播放",
-      "index": 26
+      "hot_value": "1068371播放",
+      "index": 22
     },
     {
       "title": "顺直大改造-反畸形审美，棒打高街帝少萝cp！",
       "url": "https://www.bilibili.com/video/BV1e18u6tEi7",
-      "hot_value": "2802548播放",
-      "index": 27
-    },
-    {
-      "title": "每说一个方字，铜人阵难度提升10%",
-      "url": "https://www.bilibili.com/video/BV1Uv8M6jEVB",
-      "hot_value": "831430播放",
-      "index": 28
-    },
-    {
-      "title": "《开 学 末 日 宿 舍：完 整 电 影 版》",
-      "url": "https://www.bilibili.com/video/BV1BH8A6SEWQ",
-      "hot_value": "493395播放",
-      "index": 29
+      "hot_value": "2863649播放",
+      "index": 23
     },
     {
       "title": "放置园 / 镜音铃・镜音连",
       "url": "https://www.bilibili.com/video/BV1f98M6AEEz",
-      "hot_value": "160155播放",
+      "hot_value": "181324播放",
+      "index": 24
+    },
+    {
+      "title": "我又办比赛了（3）！",
+      "url": "https://www.bilibili.com/video/BV1hi8c6aE3s",
+      "hot_value": "423774播放",
+      "index": 25
+    },
+    {
+      "title": "每说一个方字，铜人阵难度提升10%",
+      "url": "https://www.bilibili.com/video/BV1Uv8M6jEVB",
+      "hot_value": "866366播放",
+      "index": 26
+    },
+    {
+      "title": "牛来听完这故事，哭着喊着说不来了",
+      "url": "https://www.bilibili.com/video/BV1JA8K68Eqa",
+      "hot_value": "616670播放",
+      "index": 27
+    },
+    {
+      "title": "《鸣潮》剧情动画 | 仙尘",
+      "url": "https://www.bilibili.com/video/BV1kp8z6REgg",
+      "hot_value": "72650播放",
+      "index": 28
+    },
+    {
+      "title": "渣渣辉没更新在干嘛：结婚！生小孩！",
+      "url": "https://www.bilibili.com/video/BV1xz8M6CEdi",
+      "hot_value": "1076733播放",
+      "index": 29
+    },
+    {
+      "title": "⚡弟子扫荡寂静岭⚡",
+      "url": "https://www.bilibili.com/video/BV1C58q6pENR",
+      "hot_value": "424396播放",
       "index": 30
     }
   ]
