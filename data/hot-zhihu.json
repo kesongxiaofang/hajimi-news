@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-22T10:48:18Z",
+  "update_time": "2026-08-22T11:17:03Z",
   "count": 30,
   "list": [
     {
-      "title": "广东一车主把海鲜忘在车里 4 天，海鲜腐烂生了很多蛆，车是密封的，虫卵是从哪来的啊？",
-      "url": "https://www.zhihu.com/question/2071880598914966646",
-      "hot_value": "543 万热度",
+      "title": "河北一地现甲醛泡白菜，装车运往外地，当地政府回应正紧急追溯流向，具体情况如何？甲醛溶液可能起什么作用？",
+      "url": "https://www.zhihu.com/question/2074487252772546490",
+      "hot_value": "548 万热度",
       "index": 1
     },
     {
-      "title": "河北一地现甲醛泡白菜，装车运往外地，当地政府回应正紧急追溯流向，具体情况如何？甲醛溶液可能起什么作用？",
-      "url": "https://www.zhihu.com/question/2074487252772546490",
-      "hot_value": "540 万热度",
+      "title": "广东一车主把海鲜忘在车里 4 天，海鲜腐烂生了很多蛆，车是密封的，虫卵是从哪来的啊？",
+      "url": "https://www.zhihu.com/question/2071880598914966646",
+      "hot_value": "547 万热度",
       "index": 2
-    },
-    {
-      "title": "退休后，把全国的县城都逛一遍这主意怎么样？",
-      "url": "https://www.zhihu.com/question/2072594246280929667",
-      "hot_value": "336 万热度",
-      "index": 3
     },
     {
       "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看？",
       "url": "https://www.zhihu.com/question/2073370343264219476",
-      "hot_value": "287 万热度",
+      "hot_value": "307 万热度",
+      "index": 3
+    },
+    {
+      "title": "退休后，把全国的县城都逛一遍这主意怎么样？",
+      "url": "https://www.zhihu.com/question/2072594246280929667",
+      "hot_value": "268 万热度",
       "index": 4
-    },
-    {
-      "title": "如何评价《凡人修仙传》第 188 集？",
-      "url": "https://www.zhihu.com/question/2074460517066981712",
-      "hot_value": "226 万热度",
-      "index": 5
-    },
-    {
-      "title": "如何看待宇树科技上市 3 天回撤近 40%？",
-      "url": "https://www.zhihu.com/question/2074170110277849575",
-      "hot_value": "218 万热度",
-      "index": 6
     },
     {
       "title": "罗永浩公关称曾劝西贝拦住贾国龙，现在复盘的话哪些细节值得一聊？若当时真拦住了，会有怎样的不同？",
       "url": "https://www.zhihu.com/question/2074422136400082078",
-      "hot_value": "209 万热度",
-      "index": 7
+      "hot_value": "215 万热度",
+      "index": 5
+    },
+    {
+      "title": "如何评价《凡人修仙传》第 188 集？",
+      "url": "https://www.zhihu.com/question/2074460517066981712",
+      "hot_value": "200 万热度",
+      "index": 6
     },
     {
       "title": "年轻人开始流行「养砖头」，这种看似无意义的爱好为什么会戳中年轻人的心？「养砖头」要注意什么？",
       "url": "https://www.zhihu.com/question/2074081143159371309",
-      "hot_value": "187 万热度",
+      "hot_value": "191 万热度",
+      "index": 7
+    },
+    {
+      "title": "如何看待宇树科技上市 3 天回撤近 40%？",
+      "url": "https://www.zhihu.com/question/2074170110277849575",
+      "hot_value": "180 万热度",
       "index": 8
     },
     {
       "title": "孙悟空比太上老君差多少？为什么感觉太上老君怕孙悟空？",
       "url": "https://www.zhihu.com/question/1945376533322629616",
-      "hot_value": "175 万热度",
+      "hot_value": "173 万热度",
       "index": 9
-    },
-    {
-      "title": "30 岁男子失业后网贷缠身，饿 20 天急性肾衰入院确诊韦尼克脑病，这是一种什么病？与其生活习惯有多大关系？",
-      "url": "https://www.zhihu.com/question/2074036648128377245",
-      "hot_value": "163 万热度",
-      "index": 10
-    },
-    {
-      "title": "怎样看待北大数学老师韦神 (韦东奕) 账号上架练习册，北大回应确为本人？韦神为什么要出一本讲小学数学的书？",
-      "url": "https://www.zhihu.com/question/2074188147643237553",
-      "hot_value": "163 万热度",
-      "index": 11
     },
     {
       "title": "如何评价 0821 发布的 deepseek-v4-flash-vision-exp？",
       "url": "https://www.zhihu.com/question/2074187767911925314",
-      "hot_value": "163 万热度",
-      "index": 12
+      "hot_value": "165 万热度",
+      "index": 10
     },
     {
       "title": "陈柏霖等台湾艺人因逃避兵役首度被传唤出庭，当庭认罪，哪些信息值得关注？为什么这么多台艺人要冒这个风险？",
       "url": "https://www.zhihu.com/question/2074398319762039323",
-      "hot_value": "152 万热度",
-      "index": 13
-    },
-    {
-      "title": "西安一影城推出午休服务，每月 39.9 元还有免费充电、咖啡，这一服务怎么样？你愿意花钱去影院午休吗？",
-      "url": "https://www.zhihu.com/question/2074159127287297023",
-      "hot_value": "145 万热度",
-      "index": 14
+      "hot_value": "155 万热度",
+      "index": 11
     },
     {
       "title": "电影放映中途为什么不暂停给上厕所的时间？",
       "url": "https://www.zhihu.com/question/2073781714695070780",
       "hot_value": "143 万热度",
+      "index": 12
+    },
+    {
+      "title": "怎样看待北大数学老师韦神 (韦东奕) 账号上架练习册，北大回应确为本人？韦神为什么要出一本讲小学数学的书？",
+      "url": "https://www.zhihu.com/question/2074188147643237553",
+      "hot_value": "139 万热度",
+      "index": 13
+    },
+    {
+      "title": "西安一影城推出午休服务，每月 39.9 元还有免费充电、咖啡，这一服务怎么样？你愿意花钱去影院午休吗？",
+      "url": "https://www.zhihu.com/question/2074159127287297023",
+      "hot_value": "137 万热度",
+      "index": 14
+    },
+    {
+      "title": "如何评价电影《爸爸咪呀》？",
+      "url": "https://www.zhihu.com/question/2073924400685045576",
+      "hot_value": "133 万热度",
       "index": 15
     },
     {
       "title": "网友发现 18 岁黑龙江速滑运动员王新睿被冰刀割伤左腿截肢，具体是怎么回事？若如网传是他人撞伤，能赔偿吗？",
       "url": "https://www.zhihu.com/question/2074085560356792017",
-      "hot_value": "138 万热度",
+      "hot_value": "132 万热度",
       "index": 16
-    },
-    {
-      "title": "曹云金在演出中用郭德纲「砸现挂」，此举对相声界传统和师徒关系有何影响？",
-      "url": "https://www.zhihu.com/question/2073016995126175490",
-      "hot_value": "133 万热度",
-      "index": 17
     },
     {
       "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？",
       "url": "https://www.zhihu.com/question/2074164491798028674",
-      "hot_value": "127 万热度",
-      "index": 18
+      "hot_value": "131 万热度",
+      "index": 17
     },
     {
       "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？",
       "url": "https://www.zhihu.com/question/2074086385397544896",
-      "hot_value": "123 万热度",
+      "hot_value": "127 万热度",
+      "index": 18
+    },
+    {
+      "title": "曹云金在演出中用郭德纲「砸现挂」，此举对相声界传统和师徒关系有何影响？",
+      "url": "https://www.zhihu.com/question/2073016995126175490",
+      "hot_value": "125 万热度",
       "index": 19
+    },
+    {
+      "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+      "url": "https://www.zhihu.com/question/2074077084964733784",
+      "hot_value": "124 万热度",
+      "index": 20
     },
     {
       "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢？",
       "url": "https://www.zhihu.com/question/2065514457850176456",
+      "hot_value": "114 万热度",
+      "index": 21
+    },
+    {
+      "title": "如何看待日本大使回避俄方召见，最后被公开羞辱无法回避，被俄方训斥 25 分钟？",
+      "url": "https://www.zhihu.com/question/2073746819721454484",
       "hot_value": "112 万热度",
-      "index": 20
+      "index": 22
     },
     {
       "title": "英雄联盟的 「 连招 」 概念为什么消失了？",
       "url": "https://www.zhihu.com/question/2066201611286885601",
-      "hot_value": "99 万热度",
-      "index": 21
-    },
-    {
-      "title": "年轻时最需要打磨的能力是什么？",
-      "url": "https://www.zhihu.com/question/2070509435370395263",
-      "hot_value": "75 万热度",
-      "index": 22
+      "hot_value": "103 万热度",
+      "index": 23
     },
     {
       "title": "如何看待维斯塔潘与红牛车队续约至 2030 年？",
       "url": "https://www.zhihu.com/question/2073911233716171705",
-      "hot_value": "73 万热度",
-      "index": 23
+      "hot_value": "74 万热度",
+      "index": 24
     },
     {
       "title": "该不该为了「好的就业」，而放弃「热爱」？",
       "url": "https://www.zhihu.com/question/2071229337567867394",
       "hot_value": "70 万热度",
-      "index": 24
-    },
-    {
-      "title": "明明做饭那么麻烦，为什么大部分人还是喜欢自己买菜做饭？",
-      "url": "https://www.zhihu.com/question/2034412222080923348",
-      "hot_value": "58 万热度",
       "index": 25
     },
     {
-      "title": "假如有拥有 500W，你要做的第一件事是什么？",
-      "url": "https://www.zhihu.com/question/2067524708665398821",
-      "hot_value": "57 万热度",
+      "title": "为什么现在大街上多了很多戴口罩的妹子？",
+      "url": "https://www.zhihu.com/question/35191580",
+      "hot_value": "69 万热度",
       "index": 26
     },
     {
-      "title": "拳头游戏停止开发《2XKO》，发售至今未掀起波澜，是什么原因造成的？",
-      "url": "https://www.zhihu.com/question/2074074969764541878",
-      "hot_value": "57 万热度",
+      "title": "当你的孩子跟你说读书没有用时，你会怎么办？",
+      "url": "https://www.zhihu.com/question/2040821274428043376",
+      "hot_value": "66 万热度",
       "index": 27
     },
     {
-      "title": "演员里有没有什么本色出演的好例子？",
-      "url": "https://www.zhihu.com/question/63203580",
-      "hot_value": "57 万热度",
+      "title": "年轻时最需要打磨的能力是什么？",
+      "url": "https://www.zhihu.com/question/2070509435370395263",
+      "hot_value": "58 万热度",
       "index": 28
     },
     {
-      "title": "古代的劳动人民都是怎么解决早饭的？",
-      "url": "https://www.zhihu.com/question/2055433590146651743",
+      "title": "荀彧为啥看到空盒子就死了？不能苟活着吗？",
+      "url": "https://www.zhihu.com/question/1915192684630512537",
       "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "为啥天庭里没孔子的仙位呢？",
-      "url": "https://www.zhihu.com/question/455359545",
+      "title": "海贼王 1191 话情报全图更新，如何看待伊姆被海尔丁暴打？",
+      "url": "https://www.zhihu.com/question/2073772669951013108",
       "hot_value": "57 万热度",
       "index": 30
     }
