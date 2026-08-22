@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-22T16:48:29Z",
+  "update_time": "2026-08-22T17:16:20Z",
   "count": 30,
   "list": [
     {
       "title": "上海申花5:4成都蓉城",
       "url": "https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B15%3A4%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E?type=general",
-      "hot_value": "12294791",
+      "hot_value": "12268395",
       "index": 1
     },
     {
-      "title": "江浙沪或直面台风沙德尔",
-      "url": "https://www.douyin.com/search/%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%88%96%E7%9B%B4%E9%9D%A2%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94?type=general",
-      "hot_value": "11723924",
+      "title": "戴上耳机逃离城市喧嚣",
+      "url": "https://www.douyin.com/search/%E6%88%B4%E4%B8%8A%E8%80%B3%E6%9C%BA%E9%80%83%E7%A6%BB%E5%9F%8E%E5%B8%82%E5%96%A7%E5%9A%A3?type=general",
+      "hot_value": "11729884",
       "index": 2
     },
     {
       "title": "赛事激发经济发展新活力",
       "url": "https://www.douyin.com/search/%E8%B5%9B%E4%BA%8B%E6%BF%80%E5%8F%91%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%96%B0%E6%B4%BB%E5%8A%9B?type=general",
-      "hot_value": "10968592",
+      "hot_value": "10972779",
       "index": 3
+    },
+    {
+      "title": "江浙沪或直面台风沙德尔",
+      "url": "https://www.douyin.com/search/%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%88%96%E7%9B%B4%E9%9D%A2%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94?type=general",
+      "hot_value": "10802534",
+      "index": 4
     },
     {
       "title": "青岛西海岸2:0山东泰山",
       "url": "https://www.douyin.com/search/%E9%9D%92%E5%B2%9B%E8%A5%BF%E6%B5%B7%E5%B2%B82%3A0%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1?type=general",
-      "hot_value": "10804373",
-      "index": 4
+      "hot_value": "10223554",
+      "index": 5
     },
     {
       "title": "新的故事会在秋风中慢慢开始",
       "url": "https://www.douyin.com/search/%E6%96%B0%E7%9A%84%E6%95%85%E4%BA%8B%E4%BC%9A%E5%9C%A8%E7%A7%8B%E9%A3%8E%E4%B8%AD%E6%85%A2%E6%85%A2%E5%BC%80%E5%A7%8B?type=general",
-      "hot_value": "10240477",
-      "index": 5
+      "hot_value": "10196848",
+      "index": 6
     },
     {
       "title": "续完火花可以回到放假第一天吗",
       "url": "https://www.douyin.com/search/%E7%BB%AD%E5%AE%8C%E7%81%AB%E8%8A%B1%E5%8F%AF%E4%BB%A5%E5%9B%9E%E5%88%B0%E6%94%BE%E5%81%87%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%90%97?type=general",
-      "hot_value": "10194292",
-      "index": 6
+      "hot_value": "9034038",
+      "index": 7
     },
     {
       "title": "抖音作者沉浸体验未来战场",
       "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E4%BD%9C%E8%80%85%E6%B2%89%E6%B5%B8%E4%BD%93%E9%AA%8C%E6%9C%AA%E6%9D%A5%E6%88%98%E5%9C%BA?type=general",
-      "hot_value": "8983414",
-      "index": 7
-    },
-    {
-      "title": "戴上耳机逃离城市喧嚣",
-      "url": "https://www.douyin.com/search/%E6%88%B4%E4%B8%8A%E8%80%B3%E6%9C%BA%E9%80%83%E7%A6%BB%E5%9F%8E%E5%B8%82%E5%96%A7%E5%9A%A3?type=general",
-      "hot_value": "8972554",
+      "hot_value": "9019015",
       "index": 8
     },
     {
-      "title": "天津津门虎战平武汉三镇",
-      "url": "https://www.douyin.com/search/%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E%E6%88%98%E5%B9%B3%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%87?type=general",
-      "hot_value": "8938139",
+      "title": "今年第20号台风“简拉维”生成",
+      "url": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%AC%AC20%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%AE%80%E6%8B%89%E7%BB%B4%E2%80%9D%E7%94%9F%E6%88%90?type=general",
+      "hot_value": "8973685",
       "index": 9
     },
     {
       "title": "NIP战胜IG",
       "url": "https://www.douyin.com/search/NIP%E6%88%98%E8%83%9CIG?type=general",
-      "hot_value": "8894213",
+      "hot_value": "8940520",
       "index": 10
     },
     {
       "title": "世界人形机器人运动会开幕",
       "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%BC%80%E5%B9%95?type=general",
-      "hot_value": "8666883",
+      "hot_value": "8752542",
       "index": 11
     },
     {
       "title": "邓紫棋重庆演唱会",
       "url": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "8452632",
+      "hot_value": "8647514",
       "index": 12
     },
     {
       "title": "“太原大暴雨致3人遇难”系谣言",
       "url": "https://www.douyin.com/search/%E2%80%9C%E5%A4%AA%E5%8E%9F%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%87%B43%E4%BA%BA%E9%81%87%E9%9A%BE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80?type=general",
-      "hot_value": "8407475",
+      "hot_value": "8631716",
       "index": 13
     },
     {
       "title": "伦纳德100:35击败白晶",
       "url": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7100%3A35%E5%87%BB%E8%B4%A5%E7%99%BD%E6%99%B6?type=general",
-      "hot_value": "8391339",
+      "hot_value": "8541234",
       "index": 14
     },
     {
       "title": "李荣浩乌鲁木齐演唱会",
       "url": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "8383965",
+      "hot_value": "8490670",
       "index": 15
     },
     {
       "title": "TYL 3:0 BLG ​",
       "url": "https://www.douyin.com/search/TYL%203%3A0%20BLG%20%E2%80%8B?type=general",
-      "hot_value": "8251849",
+      "hot_value": "8297999",
       "index": 16
     },
     {
       "title": "陈泽文101:93战胜平常心",
       "url": "https://www.douyin.com/search/%E9%99%88%E6%B3%BD%E6%96%87101%3A93%E6%88%98%E8%83%9C%E5%B9%B3%E5%B8%B8%E5%BF%83?type=general",
-      "hot_value": "7827267",
+      "hot_value": "7894031",
       "index": 17
     },
     {
       "title": "卫健委称白血病不再是不治之症",
       "url": "https://www.douyin.com/search/%E5%8D%AB%E5%81%A5%E5%A7%94%E7%A7%B0%E7%99%BD%E8%A1%80%E7%97%85%E4%B8%8D%E5%86%8D%E6%98%AF%E4%B8%8D%E6%B2%BB%E4%B9%8B%E7%97%87?type=general",
-      "hot_value": "7810388",
+      "hot_value": "7847415",
       "index": 18
     },
     {
       "title": "披荆斩棘一公舞台",
       "url": "https://www.douyin.com/search/%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0?type=general",
-      "hot_value": "7781438",
+      "hot_value": "7809388",
       "index": 19
     },
     {
-      "title": "早秋一周不露腿穿搭",
-      "url": "https://www.douyin.com/search/%E6%97%A9%E7%A7%8B%E4%B8%80%E5%91%A8%E4%B8%8D%E9%9C%B2%E8%85%BF%E7%A9%BF%E6%90%AD?type=general",
-      "hot_value": "7748511",
+      "title": "苏超焦点战苏州1:0南京",
+      "url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E7%84%A6%E7%82%B9%E6%88%98%E8%8B%8F%E5%B7%9E1%3A0%E5%8D%97%E4%BA%AC?type=general",
+      "hot_value": "7781486",
       "index": 20
     },
     {
       "title": "我要生气啦",
       "url": "https://www.douyin.com/search/%E6%88%91%E8%A6%81%E7%94%9F%E6%B0%94%E5%95%A6?type=general",
-      "hot_value": "7741694",
+      "hot_value": "7755246",
       "index": 21
     },
     {
       "title": "薛之谦深圳演唱会现场",
       "url": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B7%B1%E5%9C%B3%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA?type=general",
-      "hot_value": "7737606",
+      "hot_value": "7751360",
       "index": 22
-    },
-    {
-      "title": "写空枪图文观后感",
-      "url": "https://www.douyin.com/search/%E5%86%99%E7%A9%BA%E6%9E%AA%E5%9B%BE%E6%96%87%E8%A7%82%E5%90%8E%E6%84%9F?type=general",
-      "hot_value": "7734706",
-      "index": 23
-    },
-    {
-      "title": "今年第20号台风“简拉维”生成",
-      "url": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E7%AC%AC20%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%AE%80%E6%8B%89%E7%BB%B4%E2%80%9D%E7%94%9F%E6%88%90?type=general",
-      "hot_value": "7733461",
-      "index": 24
     },
     {
       "title": "旧人不知我近况",
       "url": "https://www.douyin.com/search/%E6%97%A7%E4%BA%BA%E4%B8%8D%E7%9F%A5%E6%88%91%E8%BF%91%E5%86%B5?type=general",
-      "hot_value": "7732892",
+      "hot_value": "7746641",
+      "index": 23
+    },
+    {
+      "title": "天津津门虎战平武汉三镇",
+      "url": "https://www.douyin.com/search/%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E%E6%88%98%E5%B9%B3%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%87?type=general",
+      "hot_value": "7740157",
+      "index": 24
+    },
+    {
+      "title": "中国女排3:0伊拉克女排",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%3A0%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E6%8E%92?type=general",
+      "hot_value": "7739686",
       "index": 25
     },
     {
-      "title": "苏超焦点战苏州1:0南京",
-      "url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E7%84%A6%E7%82%B9%E6%88%98%E8%8B%8F%E5%B7%9E1%3A0%E5%8D%97%E4%BA%AC?type=general",
-      "hot_value": "7717399",
+      "title": "写空枪图文观后感",
+      "url": "https://www.douyin.com/search/%E5%86%99%E7%A9%BA%E6%9E%AA%E5%9B%BE%E6%96%87%E8%A7%82%E5%90%8E%E6%84%9F?type=general",
+      "hot_value": "7734167",
       "index": 26
     },
     {
       "title": "反复观看troublemaker双人舞",
       "url": "https://www.douyin.com/search/%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8Btroublemaker%E5%8F%8C%E4%BA%BA%E8%88%9E?type=general",
-      "hot_value": "7717150",
+      "hot_value": "7725661",
       "index": 27
     },
     {
-      "title": "张峻豪来巅峰对决圆梦",
-      "url": "https://www.douyin.com/search/%E5%BC%A0%E5%B3%BB%E8%B1%AA%E6%9D%A5%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%E5%9C%86%E6%A2%A6?type=general",
-      "hot_value": "7709545",
+      "title": "袁一琦郑州演唱会",
+      "url": "https://www.douyin.com/search/%E8%A2%81%E4%B8%80%E7%90%A6%E9%83%91%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "7721720",
       "index": 28
-    },
-    {
-      "title": "丁程鑫天使脸蛋漫画身材",
-      "url": "https://www.douyin.com/search/%E4%B8%81%E7%A8%8B%E9%91%AB%E5%A4%A9%E4%BD%BF%E8%84%B8%E8%9B%8B%E6%BC%AB%E7%94%BB%E8%BA%AB%E6%9D%90?type=general",
-      "hot_value": "7701646",
-      "index": 29
     },
     {
       "title": "东北文旅的兵已到达清明上河园",
       "url": "https://www.douyin.com/search/%E4%B8%9C%E5%8C%97%E6%96%87%E6%97%85%E7%9A%84%E5%85%B5%E5%B7%B2%E5%88%B0%E8%BE%BE%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%AD?type=general",
-      "hot_value": "7700798",
+      "hot_value": "7706474",
+      "index": 29
+    },
+    {
+      "title": "张峻豪来巅峰对决圆梦",
+      "url": "https://www.douyin.com/search/%E5%BC%A0%E5%B3%BB%E8%B1%AA%E6%9D%A5%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%E5%9C%86%E6%A2%A6?type=general",
+      "hot_value": "7696407",
       "index": 30
     }
   ]
