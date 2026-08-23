@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-23T19:20:23Z",
+  "update_time": "2026-08-23T19:44:25Z",
   "count": 30,
   "list": [
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "13475334播放",
+      "hot_value": "13486431播放",
       "index": 1
     },
     {
       "title": "\"复活吧！我的（ ）\"",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "5349180播放",
+      "hot_value": "5355880播放",
       "index": 2
     },
     {
       "title": "护理：一把斩向死亡的温柔刀",
       "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
-      "hot_value": "1974636播放",
+      "hot_value": "1992893播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第97集 登基",
       "url": "https://www.bilibili.com/video/BV1rg8y6uEtG",
-      "hot_value": "2526937播放",
+      "hot_value": "2540379播放",
       "index": 4
     },
     {
       "title": "严肃观看儿子的历史记录",
       "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "3125338播放",
+      "hot_value": "3134265播放",
       "index": 5
     },
     {
       "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
       "url": "https://www.bilibili.com/video/BV1rv8m6UEiU",
-      "hot_value": "2315783播放",
+      "hot_value": "2326020播放",
       "index": 6
     },
     {
       "title": "原创民俗AI短片《槐灯》",
       "url": "https://www.bilibili.com/video/BV15B8z61EbV",
-      "hot_value": "677921播放",
+      "hot_value": "687247播放",
       "index": 7
     },
     {
       "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
       "url": "https://www.bilibili.com/video/BV1ES876dErp",
-      "hot_value": "2253849播放",
+      "hot_value": "2273638播放",
       "index": 8
     },
     {
       "title": "神坛之下06｜金碧妖庭歌舞盛，觥筹交错人为宴！",
       "url": "https://www.bilibili.com/video/BV1j38B65ERd",
-      "hot_value": "605067播放",
+      "hot_value": "621047播放",
       "index": 9
     },
     {
       "title": "【独家】《记忆管理局》第6集 空洞【8月国创】",
       "url": "https://www.bilibili.com/video/BV1GT8F6YEKY",
-      "hot_value": "785166播放",
+      "hot_value": "787668播放",
       "index": 10
     },
     {
       "title": "真的...没有人类了",
       "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
-      "hot_value": "3868596播放",
+      "hot_value": "3872329播放",
       "index": 11
     },
     {
       "title": "【纪录片TV】大乾乾被撞成两半了……",
       "url": "https://www.bilibili.com/video/BV1db8x6VE73",
-      "hot_value": "2560327播放",
+      "hot_value": "2570023播放",
       "index": 12
     },
     {
       "title": "原来我是只蚊子！",
       "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
-      "hot_value": "1860182播放",
+      "hot_value": "1868251播放",
       "index": 13
     },
     {
       "title": "你和你的大脑是同一个东西吗？",
       "url": "https://www.bilibili.com/video/BV1jn8y6aExN",
-      "hot_value": "1351467播放",
+      "hot_value": "1360026播放",
       "index": 14
     },
     {
       "title": "我收容了100位粉丝到我的一辈子存档里！",
       "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "4864989播放",
+      "hot_value": "4871500播放",
       "index": 15
     },
     {
       "title": "“阎王面前一换三，看是孝天似笑天”【我的歌声里DJ-变速】【大义の小曲】",
       "url": "https://www.bilibili.com/video/BV1i48q65EeZ",
-      "hot_value": "830345播放",
+      "hot_value": "835595播放",
       "index": 16
     },
     {
       "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
       "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
-      "hot_value": "1974077播放",
+      "hot_value": "1981494播放",
       "index": 17
     },
     {
       "title": "某些吃播博主的套路",
       "url": "https://www.bilibili.com/video/BV1v88q6GEsu",
-      "hot_value": "1902726播放",
+      "hot_value": "1912304播放",
       "index": 18
     },
     {
       "title": "【绍宋：还我河山】这一次，岳飞活下来！",
       "url": "https://www.bilibili.com/video/BV1PX8q6tEBt",
-      "hot_value": "1972254播放",
+      "hot_value": "1974529播放",
       "index": 19
     },
     {
       "title": "《下一个是谁》第七季（3）",
       "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "2991601播放",
+      "hot_value": "2995147播放",
       "index": 20
     },
     {
       "title": "最近日本关于中国的媒体报道，我想跟大家说几句话",
       "url": "https://www.bilibili.com/video/BV1RG8S6GEGr",
-      "hot_value": "516548播放",
+      "hot_value": "525704播放",
       "index": 21
     },
     {
       "title": "抽象新闻：8月人类迷惑行为大赏（上）",
       "url": "https://www.bilibili.com/video/BV1CW8C66E5r",
-      "hot_value": "924069播放",
+      "hot_value": "934430播放",
       "index": 22
     },
     {
       "title": "我正在烧烤…哦不是..思考..",
       "url": "https://www.bilibili.com/video/BV1RT816FEYe",
-      "hot_value": "3307200播放",
+      "hot_value": "3313623播放",
       "index": 23
     },
     {
       "title": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
       "url": "https://www.bilibili.com/video/BV1j38B65Eyw",
-      "hot_value": "188709播放",
+      "hot_value": "203442播放",
       "index": 24
     },
     {
       "title": "盲人母亲给脑瘫儿子做大猪头",
       "url": "https://www.bilibili.com/video/BV1xc8y6LE1V",
-      "hot_value": "392889播放",
+      "hot_value": "398932播放",
       "index": 25
     },
     {
       "title": "挑战让精神小妹一天花1500，看她怎么花",
       "url": "https://www.bilibili.com/video/BV1dw8C6REHJ",
-      "hot_value": "1457444播放",
+      "hot_value": "1462926播放",
       "index": 26
     },
     {
       "title": "《一个人坐车害怕》",
       "url": "https://www.bilibili.com/video/BV1XM816bECa",
-      "hot_value": "939587播放",
+      "hot_value": "948135播放",
       "index": 27
+    },
+    {
+      "title": "【Spirit CS】EWC26捧杯时刻",
+      "url": "https://www.bilibili.com/video/BV1Nn886KEA5",
+      "hot_value": "83342播放",
+      "index": 28
     },
     {
       "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
       "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-      "hot_value": "8213582播放",
-      "index": 28
+      "hot_value": "8218278播放",
+      "index": 29
     },
     {
       "title": "测试服速递！浮力再无水鬼流！AW移动据枪有影响但可规避！小罗防沉默！四叶克无名！牌盒照旧！勇敢者还在！",
       "url": "https://www.bilibili.com/video/BV1i3846yEH5",
-      "hot_value": "295582播放",
-      "index": 29
-    },
-    {
-      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
-      "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
-      "hot_value": "1815464播放",
+      "hot_value": "303127播放",
       "index": 30
     }
   ]
