@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-23T22:16:17Z",
+  "update_time": "2026-08-23T22:46:38Z",
   "count": 30,
   "list": [
     {
-      "title": "我这一生最大的罪，是把人写成了妖……",
-      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "13506592播放",
+      "title": "\"复活吧！我的（ ）\"",
+      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
+      "hot_value": "5375746播放",
       "index": 1
     },
     {
-      "title": "\"复活吧！我的（ ）\"",
-      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "5368776播放",
+      "title": "我这一生最大的罪，是把人写成了妖……",
+      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
+      "hot_value": "13515768播放",
       "index": 2
     },
     {
       "title": "严肃观看儿子的历史记录",
       "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "3149332播放",
+      "hot_value": "3155969播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第97集 登基",
       "url": "https://www.bilibili.com/video/BV1rg8y6uEtG",
-      "hot_value": "2565002播放",
+      "hot_value": "2575489播放",
       "index": 4
     },
     {
       "title": "原创民俗AI短片《槐灯》",
       "url": "https://www.bilibili.com/video/BV15B8z61EbV",
-      "hot_value": "709193播放",
+      "hot_value": "730729播放",
       "index": 5
-    },
-    {
-      "title": "护理：一把斩向死亡的温柔刀",
-      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
-      "hot_value": "2028911播放",
-      "index": 6
-    },
-    {
-      "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
-      "url": "https://www.bilibili.com/video/BV1ES876dErp",
-      "hot_value": "2305719播放",
-      "index": 7
-    },
-    {
-      "title": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
-      "url": "https://www.bilibili.com/video/BV1j38B65Eyw",
-      "hot_value": "251763播放",
-      "index": 8
     },
     {
       "title": "【纪录片TV】大乾乾被撞成两半了……",
       "url": "https://www.bilibili.com/video/BV1db8x6VE73",
-      "hot_value": "2611514播放",
+      "hot_value": "2636118播放",
+      "index": 6
+    },
+    {
+      "title": "护理：一把斩向死亡的温柔刀",
+      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
+      "hot_value": "2054031播放",
+      "index": 7
+    },
+    {
+      "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
+      "url": "https://www.bilibili.com/video/BV1ES876dErp",
+      "hot_value": "2326716播放",
+      "index": 8
+    },
+    {
+      "title": "我收容了100位粉丝到我的一辈子存档里！",
+      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
+      "hot_value": "4888910播放",
       "index": 9
     },
     {
       "title": "【独家】《记忆管理局》第6集 空洞【8月国创】",
       "url": "https://www.bilibili.com/video/BV1GT8F6YEKY",
-      "hot_value": "792525播放",
+      "hot_value": "795352播放",
       "index": 10
-    },
-    {
-      "title": "我收容了100位粉丝到我的一辈子存档里！",
-      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "4883636播放",
-      "index": 11
-    },
-    {
-      "title": "神坛之下06｜金碧妖庭歌舞盛，觥筹交错人为宴！",
-      "url": "https://www.bilibili.com/video/BV1j38B65ERd",
-      "hot_value": "652215播放",
-      "index": 12
-    },
-    {
-      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
-      "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
-      "hot_value": "1991717播放",
-      "index": 13
     },
     {
       "title": "我正在烧烤…哦不是..思考..",
       "url": "https://www.bilibili.com/video/BV1RT816FEYe",
-      "hot_value": "3326800播放",
-      "index": 14
+      "hot_value": "3331586播放",
+      "index": 11
     },
     {
-      "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
-      "url": "https://www.bilibili.com/video/BV1rv8m6UEiU",
-      "hot_value": "2341516播放",
-      "index": 15
+      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
+      "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
+      "hot_value": "1996699播放",
+      "index": 12
     },
     {
       "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
       "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
-      "hot_value": "1817119播放",
+      "hot_value": "1817664播放",
+      "index": 13
+    },
+    {
+      "title": "神坛之下06｜金碧妖庭歌舞盛，觥筹交错人为宴！",
+      "url": "https://www.bilibili.com/video/BV1j38B65ERd",
+      "hot_value": "674774播放",
+      "index": 14
+    },
+    {
+      "title": "原来我是只蚊子！",
+      "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
+      "hot_value": "1892213播放",
+      "index": 15
+    },
+    {
+      "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
+      "url": "https://www.bilibili.com/video/BV1rv8m6UEiU",
+      "hot_value": "2347815播放",
       "index": 16
     },
     {
       "title": "《下一个是谁》第七季（3）",
       "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "3001237播放",
+      "hot_value": "3003490播放",
       "index": 17
     },
     {
-      "title": "原来我是只蚊子！",
-      "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
-      "hot_value": "1884127播放",
+      "title": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
+      "url": "https://www.bilibili.com/video/BV1j38B65Eyw",
+      "hot_value": "289971播放",
       "index": 18
-    },
-    {
-      "title": "最近日本关于中国的媒体报道，我想跟大家说几句话",
-      "url": "https://www.bilibili.com/video/BV1RG8S6GEGr",
-      "hot_value": "546436播放",
-      "index": 19
-    },
-    {
-      "title": "警员执法遇F-18战机坠落，6700万战损，飞行员报警求助！",
-      "url": "https://www.bilibili.com/video/BV1P38x6dET4",
-      "hot_value": "371892播放",
-      "index": 20
-    },
-    {
-      "title": "挑战让精神小妹一天花1500，看她怎么花",
-      "url": "https://www.bilibili.com/video/BV1dw8C6REHJ",
-      "hot_value": "1471919播放",
-      "index": 21
     },
     {
       "title": "真的...没有人类了",
       "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
-      "hot_value": "3879072播放",
+      "hot_value": "3883810播放",
+      "index": 19
+    },
+    {
+      "title": "最近日本关于中国的媒体报道，我想跟大家说几句话",
+      "url": "https://www.bilibili.com/video/BV1RG8S6GEGr",
+      "hot_value": "556202播放",
+      "index": 20
+    },
+    {
+      "title": "全 网 最 骇 人 的 动 画 教 程 4.0",
+      "url": "https://www.bilibili.com/video/BV1x68y6UESE",
+      "hot_value": "974531播放",
+      "index": 21
+    },
+    {
+      "title": "挑战让精神小妹一天花1500，看她怎么花",
+      "url": "https://www.bilibili.com/video/BV1dw8C6REHJ",
+      "hot_value": "1475858播放",
       "index": 22
     },
     {
-      "title": "抽象新闻：8月人类迷惑行为大赏（上）",
-      "url": "https://www.bilibili.com/video/BV1CW8C66E5r",
-      "hot_value": "946854播放",
+      "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
+      "url": "https://www.bilibili.com/video/BV1LP816AETT",
+      "hot_value": "1172530播放",
       "index": 23
     },
     {
       "title": "上学都被没收过哪些东西？",
       "url": "https://www.bilibili.com/video/BV1UL8169EUX",
-      "hot_value": "2116435播放",
+      "hot_value": "2120016播放",
       "index": 24
-    },
-    {
-      "title": "某些吃播博主的套路",
-      "url": "https://www.bilibili.com/video/BV1v88q6GEsu",
-      "hot_value": "1929472播放",
-      "index": 25
-    },
-    {
-      "title": "盲人母亲给脑瘫儿子做大猪头",
-      "url": "https://www.bilibili.com/video/BV1xc8y6LE1V",
-      "hot_value": "409115播放",
-      "index": 26
-    },
-    {
-      "title": "全 网 最 骇 人 的 动 画 教 程 4.0",
-      "url": "https://www.bilibili.com/video/BV1x68y6UESE",
-      "hot_value": "972961播放",
-      "index": 27
-    },
-    {
-      "title": "你和你的大脑是同一个东西吗？",
-      "url": "https://www.bilibili.com/video/BV1jn8y6aExN",
-      "hot_value": "1368889播放",
-      "index": 28
     },
     {
       "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
       "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "hot_value": "3387190播放",
+      "hot_value": "3390175播放",
+      "index": 25
+    },
+    {
+      "title": "抓鱼被困水下15天后奇迹生还，墨西哥拉奎瓦洞穴潜水事故",
+      "url": "https://www.bilibili.com/video/BV1F68m6jEpR",
+      "hot_value": "1355181播放",
+      "index": 26
+    },
+    {
+      "title": "挑战去酒吧让调酒师调酒，不管调什么都说跟水一样",
+      "url": "https://www.bilibili.com/video/BV1k88C6iEYy",
+      "hot_value": "835835播放",
+      "index": 27
+    },
+    {
+      "title": "盲人母亲给脑瘫儿子做大猪头",
+      "url": "https://www.bilibili.com/video/BV1xc8y6LE1V",
+      "hot_value": "412315播放",
+      "index": 28
+    },
+    {
+      "title": "奶龙大战僵尸最终版",
+      "url": "https://www.bilibili.com/video/BV1ev8z62EU4",
+      "hot_value": "1667340播放",
       "index": 29
     },
     {
-      "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
-      "url": "https://www.bilibili.com/video/BV1LP816AETT",
-      "hot_value": "1170342播放",
+      "title": "抽象新闻：8月人类迷惑行为大赏（上）",
+      "url": "https://www.bilibili.com/video/BV1CW8C66E5r",
+      "hot_value": "954079播放",
       "index": 30
     }
   ]
