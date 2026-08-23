@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-23T13:28:05Z",
+  "update_time": "2026-08-23T13:55:07Z",
   "count": 30,
   "list": [
     {
-      "title": "护理：一把斩向死亡的温柔刀",
-      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
-      "hot_value": "1268364播放",
+      "title": "【纪录片TV】大乾乾被撞成两半了……",
+      "url": "https://www.bilibili.com/video/BV1db8x6VE73",
+      "hot_value": "2132398播放",
       "index": 1
     },
     {
-      "title": "【纪录片TV】大乾乾被撞成两半了……",
-      "url": "https://www.bilibili.com/video/BV1db8x6VE73",
-      "hot_value": "1928786播放",
+      "title": "护理：一把斩向死亡的温柔刀",
+      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
+      "hot_value": "1414901播放",
       "index": 2
     },
     {
       "title": "严肃观看儿子的历史记录",
       "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "2688147播放",
+      "hot_value": "2783502播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第97集 登基",
       "url": "https://www.bilibili.com/video/BV1rg8y6uEtG",
-      "hot_value": "2051993播放",
+      "hot_value": "2152802播放",
       "index": 4
     },
     {
       "title": "\"复活吧！我的（ ）\"",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "5063888播放",
+      "hot_value": "5136719播放",
       "index": 5
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "13102111播放",
+      "hot_value": "13173315播放",
       "index": 6
     },
     {
       "title": "我正在烧烤…哦不是..思考..",
       "url": "https://www.bilibili.com/video/BV1RT816FEYe",
-      "hot_value": "3048366播放",
+      "hot_value": "3140238播放",
       "index": 7
     },
     {
       "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
       "url": "https://www.bilibili.com/video/BV1ES876dErp",
-      "hot_value": "1618160播放",
+      "hot_value": "1777423播放",
       "index": 8
     },
     {
       "title": "【独家】《记忆管理局》第6集 空洞【8月国创】",
       "url": "https://www.bilibili.com/video/BV1GT8F6YEKY",
-      "hot_value": "638130播放",
+      "hot_value": "684262播放",
       "index": 9
-    },
-    {
-      "title": "原来我是只蚊子！",
-      "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
-      "hot_value": "1457506播放",
-      "index": 10
-    },
-    {
-      "title": "【STN快报第8.5季18】牛头人工作室也看不懂的牛",
-      "url": "https://www.bilibili.com/video/BV1J28b6bEGW",
-      "hot_value": "186713播放",
-      "index": 11
     },
     {
       "title": "原创民俗AI短片《槐灯》",
       "url": "https://www.bilibili.com/video/BV15B8z61EbV",
-      "hot_value": "475422播放",
-      "index": 12
+      "hot_value": "515983播放",
+      "index": 10
     },
     {
-      "title": "我收容了100位粉丝到我的一辈子存档里！",
-      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "4642101播放",
-      "index": 13
-    },
-    {
-      "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
-      "url": "https://www.bilibili.com/video/BV1LP816AETT",
-      "hot_value": "1072939播放",
-      "index": 14
+      "title": "原来我是只蚊子！",
+      "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
+      "hot_value": "1529961播放",
+      "index": 11
     },
     {
       "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
       "url": "https://www.bilibili.com/video/BV1rv8m6UEiU",
-      "hot_value": "1709697播放",
+      "hot_value": "1861726播放",
+      "index": 12
+    },
+    {
+      "title": "挑战让精神小妹一天花1500，看她怎么花",
+      "url": "https://www.bilibili.com/video/BV1dw8C6REHJ",
+      "hot_value": "1273427播放",
+      "index": 13
+    },
+    {
+      "title": "《三角洲行动》新干员档案：罗温·沃尔什—代号旅人",
+      "url": "https://www.bilibili.com/video/BV1CJ8z6ZEpn",
+      "hot_value": "1542305播放",
+      "index": 14
+    },
+    {
+      "title": "我收容了100位粉丝到我的一辈子存档里！",
+      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
+      "hot_value": "4702721播放",
       "index": 15
     },
     {
       "title": "抽象新闻：8月人类迷惑行为大赏（上）",
       "url": "https://www.bilibili.com/video/BV1CW8C66E5r",
-      "hot_value": "595356播放",
+      "hot_value": "672596播放",
       "index": 16
     },
     {
-      "title": "挑战让精神小妹一天花1500，看她怎么花",
-      "url": "https://www.bilibili.com/video/BV1dw8C6REHJ",
-      "hot_value": "1220805播放",
+      "title": "【STN快报第8.5季18】牛头人工作室也看不懂的牛",
+      "url": "https://www.bilibili.com/video/BV1J28b6bEGW",
+      "hot_value": "220349播放",
       "index": 17
     },
     {
-      "title": "《三角洲行动》新干员档案：罗温·沃尔什—代号旅人",
-      "url": "https://www.bilibili.com/video/BV1CJ8z6ZEpn",
-      "hot_value": "1460371播放",
+      "title": "《一个人坐车害怕》",
+      "url": "https://www.bilibili.com/video/BV1XM816bECa",
+      "hot_value": "697958播放",
       "index": 18
     },
     {
       "title": "上学都被没收过哪些东西？",
       "url": "https://www.bilibili.com/video/BV1UL8169EUX",
-      "hot_value": "1952283播放",
+      "hot_value": "1990456播放",
       "index": 19
-    },
-    {
-      "title": "《一个人坐车害怕》",
-      "url": "https://www.bilibili.com/video/BV1XM816bECa",
-      "hot_value": "637803播放",
-      "index": 20
-    },
-    {
-      "title": "【萌黄一槽】阿茨伊全技能爆料，全力以赴的热血剑术！",
-      "url": "https://www.bilibili.com/video/BV1gN8t6BEqk",
-      "hot_value": "434917播放",
-      "index": 21
-    },
-    {
-      "title": "《下一个是谁》第七季（3）",
-      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "2874129播放",
-      "index": 22
-    },
-    {
-      "title": "真的...没有人类了",
-      "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
-      "hot_value": "3586103播放",
-      "index": 23
-    },
-    {
-      "title": "《原神》过场动画-「凯旋」",
-      "url": "https://www.bilibili.com/video/BV1PY8i6HEqE",
-      "hot_value": "216400播放",
-      "index": 24
-    },
-    {
-      "title": "我推倒了巨型多米诺骨牌！[捂眼]#野兽先生# #MrBeast# #整活# #挑战#",
-      "url": "https://www.bilibili.com/video/BV1Br8s6jEWQ",
-      "hot_value": "900069播放",
-      "index": 25
-    },
-    {
-      "title": "抓鱼被困水下15天后奇迹生还，墨西哥拉奎瓦洞穴潜水事故",
-      "url": "https://www.bilibili.com/video/BV1F68m6jEpR",
-      "hot_value": "1125102播放",
-      "index": 26
     },
     {
       "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
       "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
-      "hot_value": "1737456播放",
+      "hot_value": "1776200播放",
+      "index": 20
+    },
+    {
+      "title": "《下一个是谁》第七季（3）",
+      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
+      "hot_value": "2898580播放",
+      "index": 21
+    },
+    {
+      "title": "挑战去酒吧让调酒师调酒，不管调什么都说跟水一样",
+      "url": "https://www.bilibili.com/video/BV1k88C6iEYy",
+      "hot_value": "626580播放",
+      "index": 22
+    },
+    {
+      "title": "⚡老牧师口音教学⚡",
+      "url": "https://www.bilibili.com/video/BV1fA8m66EyX",
+      "hot_value": "979795播放",
+      "index": 23
+    },
+    {
+      "title": "抓鱼被困水下15天后奇迹生还，墨西哥拉奎瓦洞穴潜水事故",
+      "url": "https://www.bilibili.com/video/BV1F68m6jEpR",
+      "hot_value": "1191546播放",
+      "index": 24
+    },
+    {
+      "title": "真的...没有人类了",
+      "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
+      "hot_value": "3644733播放",
+      "index": 25
+    },
+    {
+      "title": "“阎王面前一换三，看是孝天似笑天”【我的歌声里DJ-变速】【大义の小曲】",
+      "url": "https://www.bilibili.com/video/BV1i48q65EeZ",
+      "hot_value": "709629播放",
+      "index": 26
+    },
+    {
+      "title": "最近日本关于中国的媒体报道，我想跟大家说几句话",
+      "url": "https://www.bilibili.com/video/BV1RG8S6GEGr",
+      "hot_value": "301189播放",
       "index": 27
     },
     {
-      "title": "某些吃播博主的套路",
-      "url": "https://www.bilibili.com/video/BV1v88q6GEsu",
-      "hot_value": "1621255播放",
+      "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
+      "url": "https://www.bilibili.com/video/BV1LP816AETT",
+      "hot_value": "1093683播放",
       "index": 28
+    },
+    {
+      "title": "【萌黄一槽】阿茨伊全技能爆料，全力以赴的热血剑术！",
+      "url": "https://www.bilibili.com/video/BV1gN8t6BEqk",
+      "hot_value": "475032播放",
+      "index": 29
     },
     {
       "title": "山海兽医 第五集 无忧无怖的热舞吧",
       "url": "https://www.bilibili.com/video/BV142826pEkV",
-      "hot_value": "831460播放",
-      "index": 29
-    },
-    {
-      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
-      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "hot_value": "3238354播放",
+      "hot_value": "867105播放",
       "index": 30
     }
   ]
