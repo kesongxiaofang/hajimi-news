@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-23T09:23:09Z",
+  "update_time": "2026-08-23T09:51:22Z",
   "count": 30,
   "list": [
     {
-      "title": "\"复活吧！我的（ ）\"",
-      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "4677754播放",
+      "title": "【纪录片TV】大乾乾被撞成两半了……",
+      "url": "https://www.bilibili.com/video/BV1db8x6VE73",
+      "hot_value": "1089407播放",
       "index": 1
     },
     {
-      "title": "【纪录片TV】大乾乾被撞成两半了……",
-      "url": "https://www.bilibili.com/video/BV1db8x6VE73",
-      "hot_value": "737737播放",
+      "title": "\"复活吧！我的（ ）\"",
+      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
+      "hot_value": "4739089播放",
       "index": 2
     },
     {
       "title": "严肃观看儿子的历史记录",
       "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "2183947播放",
+      "hot_value": "2240998播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第97集 登基",
       "url": "https://www.bilibili.com/video/BV1rg8y6uEtG",
-      "hot_value": "1529928播放",
+      "hot_value": "1616558播放",
       "index": 4
     },
     {
       "title": "我正在烧烤…哦不是..思考..",
       "url": "https://www.bilibili.com/video/BV1RT816FEYe",
-      "hot_value": "2551581播放",
+      "hot_value": "2644785播放",
       "index": 5
-    },
-    {
-      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
-      "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
-      "hot_value": "1738244播放",
-      "index": 6
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "12820411播放",
+      "hot_value": "12865060播放",
+      "index": 6
+    },
+    {
+      "title": "原创民俗AI短片《槐灯》",
+      "url": "https://www.bilibili.com/video/BV15B8z61EbV",
+      "hot_value": "334857播放",
       "index": 7
     },
     {
-      "title": "护理：一把斩向死亡的温柔刀",
-      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
-      "hot_value": "721366播放",
+      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
+      "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
+      "hot_value": "1759628播放",
       "index": 8
     },
     {
       "title": "原来我是只蚊子！",
       "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
-      "hot_value": "951475播放",
+      "hot_value": "1056301播放",
       "index": 9
     },
     {
       "title": "【独家】《记忆管理局》第6集 空洞【8月国创】",
       "url": "https://www.bilibili.com/video/BV1GT8F6YEKY",
-      "hot_value": "453721播放",
+      "hot_value": "482621播放",
       "index": 10
+    },
+    {
+      "title": "护理：一把斩向死亡的温柔刀",
+      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
+      "hot_value": "760002播放",
+      "index": 11
     },
     {
       "title": "全 网 最 骇 人 的 动 画 教 程 4.0",
       "url": "https://www.bilibili.com/video/BV1x68y6UESE",
-      "hot_value": "725102播放",
-      "index": 11
-    },
-    {
-      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
-      "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
-      "hot_value": "1586786播放",
+      "hot_value": "762534播放",
       "index": 12
     },
     {
       "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
       "url": "https://www.bilibili.com/video/BV1ES876dErp",
-      "hot_value": "1022986播放",
+      "hot_value": "1113052播放",
       "index": 13
     },
     {
       "title": "奶龙大战僵尸最终版",
       "url": "https://www.bilibili.com/video/BV1ev8z62EU4",
-      "hot_value": "1407551播放",
+      "hot_value": "1446847播放",
       "index": 14
-    },
-    {
-      "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
-      "url": "https://www.bilibili.com/video/BV1rv8m6UEiU",
-      "hot_value": "1119508播放",
-      "index": 15
-    },
-    {
-      "title": "真的...没有人类了",
-      "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
-      "hot_value": "3267106播放",
-      "index": 16
     },
     {
       "title": "我收容了100位粉丝到我的一辈子存档里！",
       "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "4288272播放",
+      "hot_value": "4351097播放",
+      "index": 15
+    },
+    {
+      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
+      "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
+      "hot_value": "1616149播放",
+      "index": 16
+    },
+    {
+      "title": "真的...没有人类了",
+      "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
+      "hot_value": "3320732播放",
       "index": 17
-    },
-    {
-      "title": "原创民俗AI短片《槐灯》",
-      "url": "https://www.bilibili.com/video/BV15B8z61EbV",
-      "hot_value": "300033播放",
-      "index": 18
-    },
-    {
-      "title": "真的要玩这么大吗？？？",
-      "url": "https://www.bilibili.com/video/BV1nT866REM6",
-      "hot_value": "576579播放",
-      "index": 19
     },
     {
       "title": "上学都被没收过哪些东西？",
       "url": "https://www.bilibili.com/video/BV1UL8169EUX",
-      "hot_value": "1711483播放",
-      "index": 20
-    },
-    {
-      "title": "爱你老爸の明天见",
-      "url": "https://www.bilibili.com/video/BV1CU8c6WELP",
-      "hot_value": "1874769播放",
-      "index": 21
-    },
-    {
-      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
-      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "hot_value": "3100440播放",
-      "index": 22
-    },
-    {
-      "title": "山海兽医 第五集 无忧无怖的热舞吧",
-      "url": "https://www.bilibili.com/video/BV142826pEkV",
-      "hot_value": "634186播放",
-      "index": 23
-    },
-    {
-      "title": "《下一个是谁》第七季（3）",
-      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "2755367播放",
-      "index": 24
+      "hot_value": "1751365播放",
+      "index": 18
     },
     {
       "title": "抓鱼被困水下15天后奇迹生还，墨西哥拉奎瓦洞穴潜水事故",
       "url": "https://www.bilibili.com/video/BV1F68m6jEpR",
-      "hot_value": "816711播放",
-      "index": 25
+      "hot_value": "865950播放",
+      "index": 19
+    },
+    {
+      "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
+      "url": "https://www.bilibili.com/video/BV1rv8m6UEiU",
+      "hot_value": "1214451播放",
+      "index": 20
+    },
+    {
+      "title": "山海兽医 第五集 无忧无怖的热舞吧",
+      "url": "https://www.bilibili.com/video/BV142826pEkV",
+      "hot_value": "669797播放",
+      "index": 21
+    },
+    {
+      "title": "《下一个是谁》第七季（3）",
+      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
+      "hot_value": "2773943播放",
+      "index": 22
+    },
+    {
+      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
+      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
+      "hot_value": "3125262播放",
+      "index": 23
+    },
+    {
+      "title": "插队的人是不是脑子有点毛病",
+      "url": "https://www.bilibili.com/video/BV1SV8C67ENY",
+      "hot_value": "135503播放",
+      "index": 24
     },
     {
       "title": "《鸣潮》过场动画 | 此时彼刻，众生一剑",
       "url": "https://www.bilibili.com/video/BV1og8S6CE6g",
-      "hot_value": "278345播放",
+      "hot_value": "287431播放",
+      "index": 25
+    },
+    {
+      "title": "某些吃播博主的套路",
+      "url": "https://www.bilibili.com/video/BV1v88q6GEsu",
+      "hot_value": "1391324播放",
       "index": 26
     },
     {
-      "title": "加缪：如果正义必须伤害无辜，它还是正义吗？",
-      "url": "https://www.bilibili.com/video/BV14R8r6rE3C",
-      "hot_value": "1889755播放",
+      "title": "热烈独白 Passion Call | 于频率中相汇",
+      "url": "https://www.bilibili.com/video/BV1bV8C6EE8A",
+      "hot_value": "211558播放",
       "index": 27
     },
     {
       "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
       "url": "https://www.bilibili.com/video/BV1LP816AETT",
-      "hot_value": "931876播放",
+      "hot_value": "950962播放",
       "index": 28
     },
     {
-      "title": "挑战去酒吧让调酒师调酒，不管调什么都说跟水一样",
-      "url": "https://www.bilibili.com/video/BV1k88C6iEYy",
-      "hot_value": "389776播放",
+      "title": "末日地堡-1",
+      "url": "https://www.bilibili.com/video/BV1qU8L6SEfo",
+      "hot_value": "722131播放",
       "index": 29
     },
     {
       "title": "【本家投稿/中字】重音Teto能在这样的派对上偷偷溜出去吗 〜Everlasting Edition〜/重音Teto・初音未来",
       "url": "https://www.bilibili.com/video/BV1aG816oEdi",
-      "hot_value": "429043播放",
+      "hot_value": "444801播放",
       "index": 30
     }
   ]
