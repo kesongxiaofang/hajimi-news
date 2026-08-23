@@ -1,7 +1,7 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-08-23T15:17:22Z",
+  "update_time": "2026-08-23T15:45:54Z",
   "count": 20,
   "list": [
     {
@@ -23,26 +23,26 @@
       "index": 3
     },
     {
-      "title": "西湖大学校长施一公呼吁警惕科研跟风：重复前人现象屡见不鲜",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33833794",
-      "hot_value": "",
-      "index": 4
-    },
-    {
       "title": "韩红基金会救护车采购陷争议，市场监管部门：供应商已被立案调查",
       "url": "https://www.thepaper.cn/newsDetail_forward_33836367",
       "hot_value": "",
-      "index": 5
+      "index": 4
     },
     {
       "title": "三部门指导地方快速处置“白菜收购环节蘸取甲醛溶液”问题",
       "url": "https://www.thepaper.cn/newsDetail_forward_33836871",
       "hot_value": "",
+      "index": 5
+    },
+    {
+      "title": "中国足协：没有证据表明韩国足协对中国足协相关人士提供过“不当招待”行为",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33836718",
+      "hot_value": "",
       "index": 6
     },
     {
-      "title": "人民锐评：处置“甲醛白菜”，必须从速从严",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33833881",
+      "title": "嫦娥七号任务不满足发射条件，不能在今年预定窗口实施",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33836910",
       "hot_value": "",
       "index": 7
     },
@@ -53,74 +53,74 @@
       "index": 8
     },
     {
-      "title": "中国足协：没有证据表明韩国足协对中国足协相关人士提供过“不当招待”行为",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33836718",
-      "hot_value": "",
-      "index": 9
-    },
-    {
       "title": "国铁集团：旅客未检票乘车视为不行使席位使用权利，有特殊需求可购买多于实际乘车人数的车票乘车",
       "url": "https://www.thepaper.cn/newsDetail_forward_33836643",
       "hot_value": "",
-      "index": 10
+      "index": 9
     },
     {
       "title": "明查｜NASA最新月球照？“火星奇妙夜”？均为AI生成",
       "url": "https://www.thepaper.cn/newsDetail_forward_33833618",
       "hot_value": "",
-      "index": 11
+      "index": 10
     },
     {
       "title": "“甲醛白菜”流向引发关注，合肥、宿迁已开启核查",
       "url": "https://www.thepaper.cn/newsDetail_forward_33836326",
       "hot_value": "",
-      "index": 12
+      "index": 11
     },
     {
-      "title": "嫦娥七号任务不满足发射条件，不能在今年预定窗口实施",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33836910",
+      "title": "韩红基金会六千万元采购救护车引质疑，记者实探供应商办公地",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33836969",
       "hot_value": "",
-      "index": 13
+      "index": 12
     },
     {
       "title": "老人闯入儿童娱乐区跑步与幼童相撞骨折，索赔5万被法院驳回",
       "url": "https://www.thepaper.cn/newsDetail_forward_33834710",
       "hot_value": "",
-      "index": 14
+      "index": 13
     },
     {
       "title": "媒体：白菜蘸甲醛，监管鼻子不能失灵",
       "url": "https://www.thepaper.cn/newsDetail_forward_33836463",
       "hot_value": "",
-      "index": 15
-    },
-    {
-      "title": "纠错有奖：湖北孝感市博物馆邀请观众给展陈内容“找茬”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33833836",
-      "hot_value": "",
-      "index": 16
+      "index": 14
     },
     {
       "title": "从焊接到无人机，数说63年世赛如何改写“一技之长”",
       "url": "https://www.thepaper.cn/newsDetail_forward_33806202",
       "hot_value": "",
-      "index": 17
+      "index": 15
     },
     {
       "title": "第48届世界技能大赛中国代表团成立，71人将参加64项比赛",
       "url": "https://www.thepaper.cn/newsDetail_forward_33834909",
       "hot_value": "",
-      "index": 18
+      "index": 16
     },
     {
       "title": "国际金价连涨三周，反弹还是反转？",
       "url": "https://www.thepaper.cn/newsDetail_forward_33835809",
       "hot_value": "",
-      "index": 19
+      "index": 17
     },
     {
       "title": "晚期肝癌手术切除还是系统治疗？中国研究成果登《柳叶刀》",
       "url": "https://www.thepaper.cn/newsDetail_forward_33835572",
+      "hot_value": "",
+      "index": 18
+    },
+    {
+      "title": "安徽省委常委覃卫国任合肥市委书记",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33836415",
+      "hot_value": "",
+      "index": 19
+    },
+    {
+      "title": "观察｜不再简单“做大”，车市承压之际，从成都车展看自主品牌竞争逻辑",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33833790",
       "hot_value": "",
       "index": 20
     }

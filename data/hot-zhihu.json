@@ -1,151 +1,151 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-23T15:17:22Z",
+  "update_time": "2026-08-23T15:45:54Z",
   "count": 30,
   "list": [
     {
       "title": "如何评价南信大团队在《Science》上发文「中国太阳能扩张政策导致鸟类生物多样性下降」？",
       "url": "https://www.zhihu.com/question/2074259711533266774",
-      "hot_value": "1106 万热度",
+      "hot_value": "1132 万热度",
       "index": 1
     },
     {
       "title": "古人是否真的没有肉可以吃？",
       "url": "https://www.zhihu.com/question/34020226",
-      "hot_value": "371 万热度",
+      "hot_value": "433 万热度",
       "index": 2
     },
     {
       "title": "如何评价《凡人修仙传》动画 188 集，黄龙山大战正式开始，但在线人数却依旧下跌，才十万左右？你怎么看？",
       "url": "https://www.zhihu.com/question/2074457746506892269",
-      "hot_value": "365 万热度",
+      "hot_value": "377 万热度",
       "index": 3
     },
     {
       "title": "时隔 9 年口碑大反转，《我的前半生》2026 年突然全网爆火，真正原因到底是什么？",
       "url": "https://www.zhihu.com/question/2072741297400685952",
-      "hot_value": "337 万热度",
+      "hot_value": "326 万热度",
       "index": 4
     },
     {
       "title": "孕妇产检时误服含甲醇有毒液体，服药前两次向医生确认，当地卫健委已介入，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2073817492271772349",
-      "hot_value": "302 万热度",
+      "hot_value": "315 万热度",
       "index": 5
     },
     {
       "title": "宇树机器人 100 米预赛小组垫底，同组第一名 100 米 9 秒 39 打破人类纪录，如何本场比赛各家机器人表现？",
       "url": "https://www.zhihu.com/question/2074793323445711007",
-      "hot_value": "275 万热度",
+      "hot_value": "293 万热度",
       "index": 6
     },
     {
       "title": "TI15 决赛 Spirit 3:2 击败 VISION 夺得队史第三座 TI 冠军，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2074784919734183469",
-      "hot_value": "258 万热度",
+      "hot_value": "285 万热度",
       "index": 7
     },
     {
       "title": "韩红基金会救护车采购陷争议，市场监管部门称供应商已被立案调查，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2074921713666449766",
-      "hot_value": "255 万热度",
+      "hot_value": "271 万热度",
       "index": 8
     },
     {
       "title": "阿里巴巴拟配售 800 亿港元新股，全部投入 AI 建设，怎样解读这一操作？对市场有哪些影响？",
       "url": "https://www.zhihu.com/question/2074867306811881229",
-      "hot_value": "251 万热度",
+      "hot_value": "257 万热度",
       "index": 9
-    },
-    {
-      "title": "古代士兵中箭后没有消炎药，伤口感染了还能扛过去吗？",
-      "url": "https://www.zhihu.com/question/2062593631098343674",
-      "hot_value": "212 万热度",
-      "index": 10
-    },
-    {
-      "title": "如何评价美国海军最新公开的 AIM-424「恶意」远程空空导弹？",
-      "url": "https://www.zhihu.com/question/2074785102589072121",
-      "hot_value": "203 万热度",
-      "index": 11
     },
     {
       "title": "嫦娥七号任务不满足发射条件，不能在今年预定窗口实施，原因可能有哪些？嫦娥七号原定将完成哪些主要任务？",
       "url": "https://www.zhihu.com/question/2072730203407606130",
-      "hot_value": "195 万热度",
-      "index": 12
-    },
-    {
-      "title": "北大报到日校园内满是「扛床垫的爸」，如何看待这个现象？大学新生入学，家长应该帮到何种程度？",
-      "url": "https://www.zhihu.com/question/2073677302911842045",
-      "hot_value": "185 万热度",
-      "index": 13
+      "hot_value": "224 万热度",
+      "index": 10
     },
     {
       "title": "著名战地记者唐师曾逝世，享年 65 岁，你对他有哪些记忆？",
       "url": "https://www.zhihu.com/question/2074907888091410873",
-      "hot_value": "170 万热度",
+      "hot_value": "210 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何评价美国海军最新公开的 AIM-424「恶意」远程空空导弹？",
+      "url": "https://www.zhihu.com/question/2074785102589072121",
+      "hot_value": "196 万热度",
+      "index": 12
+    },
+    {
+      "title": "古代士兵中箭后没有消炎药，伤口感染了还能扛过去吗？",
+      "url": "https://www.zhihu.com/question/2062593631098343674",
+      "hot_value": "168 万热度",
+      "index": 13
+    },
+    {
+      "title": "TI15 决赛 Spirit 夺冠，Yatoro 、 Collapse 成历史三冠王，如何评价他俩的地位？",
+      "url": "https://www.zhihu.com/question/2074905159797302622",
+      "hot_value": "151 万热度",
       "index": 14
     },
     {
       "title": "反复观摩《教父》真的能让一个男人更成熟通透吗？",
       "url": "https://www.zhihu.com/question/660307217",
-      "hot_value": "155 万热度",
+      "hot_value": "145 万热度",
       "index": 15
     },
     {
-      "title": "TI15 决赛 Spirit 夺冠，Yatoro 、 Collapse 成历史三冠王，如何评价他俩的地位？",
-      "url": "https://www.zhihu.com/question/2074905159797302622",
-      "hot_value": "141 万热度",
+      "title": "银行员工称考核压力大自己买 1 万，基层员工「自费上班」抗 KPI 合理吗？银行业务目前面临什么困境？",
+      "url": "https://www.zhihu.com/question/2074064812326090233",
+      "hot_value": "139 万热度",
       "index": 16
     },
     {
       "title": "乐山大佛景区有男子将松鼠踩死，游客称其是工作人员并言「松鼠是害虫」，如何看待这一行为？",
       "url": "https://www.zhihu.com/question/2074564481695344190",
-      "hot_value": "139 万热度",
+      "hot_value": "132 万热度",
       "index": 17
     },
     {
-      "title": "银行员工称考核压力大自己买 1 万，基层员工「自费上班」抗 KPI 合理吗？银行业务目前面临什么困境？",
-      "url": "https://www.zhihu.com/question/2074064812326090233",
-      "hot_value": "137 万热度",
+      "title": "男子 20 年攒下 789 万，这种极致节俭的财富积累方式在当下还可行吗？",
+      "url": "https://www.zhihu.com/question/2074609906632626474",
+      "hot_value": "126 万热度",
       "index": 18
-    },
-    {
-      "title": "美加贸易谈判最后时刻破裂，美国将加征 50% 关税，加拿大将对美实施对等关税，将产生哪些影响？",
-      "url": "https://www.zhihu.com/question/2074490542076052322",
-      "hot_value": "123 万热度",
-      "index": 19
     },
     {
       "title": "警方通报「博主称小红书因遭举报上市失败」，造谣者已被行拘，其将承担哪些责任？此事对小红书影响有多大？",
       "url": "https://www.zhihu.com/question/2074915129171211419",
-      "hot_value": "114 万热度",
+      "hot_value": "121 万热度",
+      "index": 19
+    },
+    {
+      "title": "现在哪个行业还是蓝海？",
+      "url": "https://www.zhihu.com/question/662437470",
+      "hot_value": "105 万热度",
       "index": 20
     },
     {
       "title": "郭德纲被立案调查，三场演出延期，会对其演艺事业产生哪些影响？",
       "url": "https://www.zhihu.com/question/2073858330158699952",
-      "hot_value": "108 万热度",
+      "hot_value": "105 万热度",
       "index": 21
     },
     {
-      "title": "现在哪个行业还是蓝海？",
-      "url": "https://www.zhihu.com/question/662437470",
-      "hot_value": "101 万热度",
+      "title": "美加贸易谈判最后时刻破裂，美国将加征 50% 关税，加拿大将对美实施对等关税，将产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2074490542076052322",
+      "hot_value": "105 万热度",
       "index": 22
-    },
-    {
-      "title": "你在旅游途中都有哪些终身难忘的经历？",
-      "url": "https://www.zhihu.com/question/509623586",
-      "hot_value": "94 万热度",
-      "index": 23
     },
     {
       "title": "数学上多有天赋才能轻松破解黎曼猜想等数学猜想？",
       "url": "https://www.zhihu.com/question/4680780194",
-      "hot_value": "90 万热度",
+      "hot_value": "101 万热度",
+      "index": 23
+    },
+    {
+      "title": "你在旅游途中都有哪些终身难忘的经历？",
+      "url": "https://www.zhihu.com/question/509623586",
+      "hot_value": "97 万热度",
       "index": 24
     },
     {
@@ -161,20 +161,20 @@
       "index": 26
     },
     {
-      "title": "如何看待艾滋病检测结果不得告知配偶引发热议？",
-      "url": "https://www.zhihu.com/question/2073843717803340134",
-      "hot_value": "60 万热度",
-      "index": 27
-    },
-    {
       "title": "为什么失速基本都存在于插电混动车型 (如 DMi 、 EMi)，而不存在于油电混动车型 (如 THS 、 iMMD)？",
       "url": "https://www.zhihu.com/question/1903878268400141262",
       "hot_value": "59 万热度",
-      "index": 28
+      "index": 27
     },
     {
       "title": "《死神千年血战篇》第四季祸进谭开播，如何评价第五集？",
       "url": "https://www.zhihu.com/question/2074633959623898998",
+      "hot_value": "59 万热度",
+      "index": 28
+    },
+    {
+      "title": "北大报到日校园内满是「扛床垫的爸」，如何看待这个现象？大学新生入学，家长应该帮到何种程度？",
+      "url": "https://www.zhihu.com/question/2073677302911842045",
       "hot_value": "59 万热度",
       "index": 29
     },
