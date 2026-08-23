@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-23T02:42:22Z",
+  "update_time": "2026-08-23T03:45:58Z",
   "count": 30,
   "list": [
     {
       "title": "我正在烧烤…哦不是..思考..",
       "url": "https://www.bilibili.com/video/BV1RT816FEYe",
-      "hot_value": "1006577播放",
+      "hot_value": "1275257播放",
       "index": 1
     },
     {
       "title": "\"复活吧！我的（ ）\"",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "3841945播放",
+      "hot_value": "4028283播放",
       "index": 2
     },
     {
-      "title": "严肃观看儿子的历史记录",
-      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "1597174播放",
+      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
+      "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
+      "hot_value": "849939播放",
       "index": 3
     },
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第12集【总第188集】",
       "url": "https://www.bilibili.com/video/BV1Ka866BEo8",
-      "hot_value": "5750107播放",
+      "hot_value": "5878354播放",
       "index": 4
+    },
+    {
+      "title": "严肃观看儿子的历史记录",
+      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+      "hot_value": "1696757播放",
+      "index": 5
     },
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "12359112播放",
-      "index": 5
-    },
-    {
-      "title": "【短的发布会】雷鸟iO眼镜化身物理外挂！我和天才之间只差 2000 块？",
-      "url": "https://www.bilibili.com/video/BV1RS8i6zExk",
-      "hot_value": "768085播放",
+      "hot_value": "12424485播放",
       "index": 6
     },
     {
       "title": "上学都被没收过哪些东西？",
       "url": "https://www.bilibili.com/video/BV1UL8169EUX",
-      "hot_value": "1017177播放",
+      "hot_value": "1187493播放",
       "index": 7
     },
     {
-      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
-      "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
-      "hot_value": "898286播放",
+      "title": "加缪：如果正义必须伤害无辜，它还是正义吗？",
+      "url": "https://www.bilibili.com/video/BV14R8r6rE3C",
+      "hot_value": "1594830播放",
       "index": 8
     },
     {
-      "title": "我收容了100位粉丝到我的一辈子存档里！",
-      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "3241573播放",
+      "title": "【短的发布会】雷鸟iO眼镜化身物理外挂！我和天才之间只差 2000 块？",
+      "url": "https://www.bilibili.com/video/BV1RS8i6zExk",
+      "hot_value": "818221播放",
       "index": 9
     },
     {
       "title": "【纪录片】守护解放西·探案季 第十集  难以“置信”",
       "url": "https://www.bilibili.com/video/BV1ET8K6oETN",
-      "hot_value": "1842543播放",
+      "hot_value": "1875921播放",
       "index": 10
     },
     {
-      "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
-      "url": "https://www.bilibili.com/video/BV1LP816AETT",
-      "hot_value": "652452播放",
+      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
+      "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
+      "hot_value": "1016266播放",
       "index": 11
     },
     {
-      "title": "《牛莱》",
-      "url": "https://www.bilibili.com/video/BV1vj8K6DE8D",
-      "hot_value": "2406611播放",
+      "title": "我收容了100位粉丝到我的一辈子存档里！",
+      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
+      "hot_value": "3518672播放",
       "index": 12
-    },
-    {
-      "title": "真的...没有人类了",
-      "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
-      "hot_value": "2612978播放",
-      "index": 13
-    },
-    {
-      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
-      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "hot_value": "2839736播放",
-      "index": 14
-    },
-    {
-      "title": "奶龙大战僵尸最终版",
-      "url": "https://www.bilibili.com/video/BV1ev8z62EU4",
-      "hot_value": "781616播放",
-      "index": 15
-    },
-    {
-      "title": "加缪：如果正义必须伤害无辜，它还是正义吗？",
-      "url": "https://www.bilibili.com/video/BV14R8r6rE3C",
-      "hot_value": "1492899播放",
-      "index": 16
-    },
-    {
-      "title": "《下一个是谁》第七季（3）",
-      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "2556159播放",
-      "index": 17
-    },
-    {
-      "title": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
-      "url": "https://www.bilibili.com/video/BV1jM8P6EEDy",
-      "hot_value": "2404517播放",
-      "index": 18
-    },
-    {
-      "title": "黑乌龟历险记vol.1",
-      "url": "https://www.bilibili.com/video/BV1r88C6iEPo",
-      "hot_value": "867095播放",
-      "index": 19
     },
     {
       "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
       "url": "https://www.bilibili.com/video/BV1ES876dErp",
-      "hot_value": "359101播放",
-      "index": 20
+      "hot_value": "462667播放",
+      "index": 13
     },
     {
-      "title": "什么叫杨戬本尊面试二郎神失败了？",
-      "url": "https://www.bilibili.com/video/BV1B48q65Ewm",
-      "hot_value": "965467播放",
-      "index": 21
+      "title": "黑乌龟历险记vol.1",
+      "url": "https://www.bilibili.com/video/BV1r88C6iEPo",
+      "hot_value": "1013871播放",
+      "index": 14
+    },
+    {
+      "title": "《牛莱》",
+      "url": "https://www.bilibili.com/video/BV1vj8K6DE8D",
+      "hot_value": "2514716播放",
+      "index": 15
+    },
+    {
+      "title": "奶龙大战僵尸最终版",
+      "url": "https://www.bilibili.com/video/BV1ev8z62EU4",
+      "hot_value": "881903播放",
+      "index": 16
+    },
+    {
+      "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
+      "url": "https://www.bilibili.com/video/BV1LP816AETT",
+      "hot_value": "701691播放",
+      "index": 17
+    },
+    {
+      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
+      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
+      "hot_value": "2882968播放",
+      "index": 18
+    },
+    {
+      "title": "亡者世界第150天尸潮，给房子接通高压电",
+      "url": "https://www.bilibili.com/video/BV1VY826wE2y",
+      "hot_value": "119869播放",
+      "index": 19
+    },
+    {
+      "title": "《下一个是谁》第七季（3）",
+      "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
+      "hot_value": "2581868播放",
+      "index": 20
     },
     {
       "title": "李信没了还可以玩六耳，拆完塔一个筋斗云就走了",
       "url": "https://www.bilibili.com/video/BV1fm8B6UEnG",
-      "hot_value": "1399699播放",
+      "hot_value": "1468589播放",
+      "index": 21
+    },
+    {
+      "title": "现场快检甲醛超标，已封存启动调查，想对比于市场我更关心源头",
+      "url": "https://www.bilibili.com/video/BV189816ZERN",
+      "hot_value": "860628播放",
       "index": 22
     },
     {
-      "title": "本关最优解：放70个窝瓜僵尸 【bilibilionly同人扶持计划】",
-      "url": "https://www.bilibili.com/video/BV1Qc8T6SESo",
-      "hot_value": "2319191播放",
+      "title": "什么叫杨戬本尊面试二郎神失败了？",
+      "url": "https://www.bilibili.com/video/BV1B48q65Ewm",
+      "hot_value": "1015647播放",
       "index": 23
     },
     {
-      "title": "《黑神话：钟馗》15分钟实机演示",
-      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "hot_value": "10603172播放",
+      "title": "真的...没有人类了",
+      "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
+      "hot_value": "2728253播放",
       "index": 24
     },
     {
-      "title": "30秒扛了254万的伤害",
-      "url": "https://www.bilibili.com/video/BV1Bn8y6aENa",
-      "hot_value": "881217播放",
+      "title": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
+      "url": "https://www.bilibili.com/video/BV1jM8P6EEDy",
+      "hot_value": "2455172播放",
       "index": 25
+    },
+    {
+      "title": "吃完享福去了",
+      "url": "https://www.bilibili.com/video/BV1t48i6xEL3",
+      "hot_value": "738273播放",
+      "index": 26
     },
     {
       "title": "挑战让精神小妹一天花1500，看她怎么花",
       "url": "https://www.bilibili.com/video/BV1dw8C6REHJ",
-      "hot_value": "728172播放",
-      "index": 26
-    },
-    {
-      "title": "举手之劳 亦是人间微光",
-      "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "hot_value": "4706405播放",
+      "hot_value": "775462播放",
       "index": 27
     },
     {
-      "title": "《 黑 神 话 咕 嘎 》终极典藏版",
-      "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
-      "hot_value": "1494575播放",
+      "title": "我们之中存在邪恶的外星人！！「拍下按钮」！！",
+      "url": "https://www.bilibili.com/video/BV1gC8U6AEBb",
+      "hot_value": "106133播放",
       "index": 28
     },
     {
-      "title": "山海兽医 第五集 无忧无怖的热舞吧",
-      "url": "https://www.bilibili.com/video/BV142826pEkV",
-      "hot_value": "173431播放",
+      "title": "《黑神话：钟馗》15分钟实机演示",
+      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
+      "hot_value": "10635695播放",
       "index": 29
     },
     {
-      "title": "三台风来了:沙德尔将成超强台风靠近我国,台风紫檀简拉维诱发特大暴雨",
-      "url": "https://www.bilibili.com/video/BV1Gi826FE7P",
-      "hot_value": "345053播放",
+      "title": "过亿战力直播毁号！简单氪25个648招募晓三飞段，拉满夏日小店提升战力！实战最开心的一集！",
+      "url": "https://www.bilibili.com/video/BV1mH816SE4C",
+      "hot_value": "612002播放",
       "index": 30
     }
   ]
