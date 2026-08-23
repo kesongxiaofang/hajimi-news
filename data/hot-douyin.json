@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-23T11:43:54Z",
+  "update_time": "2026-08-23T12:30:39Z",
   "count": 30,
   "list": [
     {
-      "title": "GTA6泄密致开发团队士气大跌",
-      "url": "https://www.douyin.com/search/GTA6%E6%B3%84%E5%AF%86%E8%87%B4%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F%E5%A3%AB%E6%B0%94%E5%A4%A7%E8%B7%8C?type=general",
-      "hot_value": "12095928",
+      "title": "中国U18男篮进亚洲杯决赛",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU18%E7%94%B7%E7%AF%AE%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B?type=general",
+      "hot_value": "11584986",
       "index": 1
     },
     {
       "title": "台风沙德尔路径可能有变",
       "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E8%B7%AF%E5%BE%84%E5%8F%AF%E8%83%BD%E6%9C%89%E5%8F%98?type=general",
-      "hot_value": "11106410",
+      "hot_value": "11366349",
       "index": 2
     },
     {
       "title": "暑去秋来 万物可爱",
       "url": "https://www.douyin.com/search/%E6%9A%91%E5%8E%BB%E7%A7%8B%E6%9D%A5%20%E4%B8%87%E7%89%A9%E5%8F%AF%E7%88%B1?type=general",
-      "hot_value": "10975151",
+      "hot_value": "11091397",
       "index": 3
     },
     {
       "title": "TYL总决赛迎战JDG",
       "url": "https://www.douyin.com/search/TYL%E6%80%BB%E5%86%B3%E8%B5%9B%E8%BF%8E%E6%88%98JDG?type=general",
-      "hot_value": "10971526",
+      "hot_value": "11012956",
       "index": 4
-    },
-    {
-      "title": "新闻联播",
-      "url": "https://www.douyin.com/search/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD?type=general",
-      "hot_value": "10410035",
-      "index": 5
-    },
-    {
-      "title": "中国U18男篮进亚洲杯决赛",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU18%E7%94%B7%E7%AF%AE%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B?type=general",
-      "hot_value": "10406012",
-      "index": 6
-    },
-    {
-      "title": "羊村一直在等我们回家",
-      "url": "https://www.douyin.com/search/%E7%BE%8A%E6%9D%91%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%AD%89%E6%88%91%E4%BB%AC%E5%9B%9E%E5%AE%B6?type=general",
-      "hot_value": "9297547",
-      "index": 7
     },
     {
       "title": "新的故事会在秋风中慢慢开始",
       "url": "https://www.douyin.com/search/%E6%96%B0%E7%9A%84%E6%95%85%E4%BA%8B%E4%BC%9A%E5%9C%A8%E7%A7%8B%E9%A3%8E%E4%B8%AD%E6%85%A2%E6%85%A2%E5%BC%80%E5%A7%8B?type=general",
-      "hot_value": "9227014",
-      "index": 8
+      "hot_value": "10461175",
+      "index": 5
     },
     {
       "title": "HangHang挑战赛即将来袭",
       "url": "https://www.douyin.com/search/HangHang%E6%8C%91%E6%88%98%E8%B5%9B%E5%8D%B3%E5%B0%86%E6%9D%A5%E8%A2%AD?type=general",
-      "hot_value": "9222667",
+      "hot_value": "10429154",
+      "index": 6
+    },
+    {
+      "title": "殷玉珍静候多年重逢",
+      "url": "https://www.douyin.com/search/%E6%AE%B7%E7%8E%89%E7%8F%8D%E9%9D%99%E5%80%99%E5%A4%9A%E5%B9%B4%E9%87%8D%E9%80%A2?type=general",
+      "hot_value": "9321313",
+      "index": 7
+    },
+    {
+      "title": "羊村一直在等我们回家",
+      "url": "https://www.douyin.com/search/%E7%BE%8A%E6%9D%91%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%AD%89%E6%88%91%E4%BB%AC%E5%9B%9E%E5%AE%B6?type=general",
+      "hot_value": "9279832",
+      "index": 8
+    },
+    {
+      "title": "歌舞里的中华情",
+      "url": "https://www.douyin.com/search/%E6%AD%8C%E8%88%9E%E9%87%8C%E7%9A%84%E4%B8%AD%E5%8D%8E%E6%83%85?type=general",
+      "hot_value": "9256296",
       "index": 9
     },
     {
       "title": "这口广安麻哥面太香了",
       "url": "https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E5%B9%BF%E5%AE%89%E9%BA%BB%E5%93%A5%E9%9D%A2%E5%A4%AA%E9%A6%99%E4%BA%86?type=general",
-      "hot_value": "9186278",
+      "hot_value": "9251394",
       "index": 10
     },
     {
-      "title": "歌舞里的中华情",
-      "url": "https://www.douyin.com/search/%E6%AD%8C%E8%88%9E%E9%87%8C%E7%9A%84%E4%B8%AD%E5%8D%8E%E6%83%85?type=general",
-      "hot_value": "9175815",
+      "title": "东风日产发布公告向车主致歉",
+      "url": "https://www.douyin.com/search/%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A%E5%90%91%E8%BD%A6%E4%B8%BB%E8%87%B4%E6%AD%89?type=general",
+      "hot_value": "9223007",
       "index": 11
     },
     {
-      "title": "著名战地记者唐师曾逝世",
-      "url": "https://www.douyin.com/search/%E8%91%97%E5%90%8D%E6%88%98%E5%9C%B0%E8%AE%B0%E8%80%85%E5%94%90%E5%B8%88%E6%9B%BE%E9%80%9D%E4%B8%96?type=general",
-      "hot_value": "9158597",
+      "title": "梁伟铿王昶挺进世锦赛男双决赛",
+      "url": "https://www.douyin.com/search/%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B6%E6%8C%BA%E8%BF%9B%E4%B8%96%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8F%8C%E5%86%B3%E8%B5%9B?type=general",
+      "hot_value": "9130739",
       "index": 12
     },
     {
       "title": "民生人寿否认生肖不合裁员传言",
       "url": "https://www.douyin.com/search/%E6%B0%91%E7%94%9F%E4%BA%BA%E5%AF%BF%E5%90%A6%E8%AE%A4%E7%94%9F%E8%82%96%E4%B8%8D%E5%90%88%E8%A3%81%E5%91%98%E4%BC%A0%E8%A8%80?type=general",
-      "hot_value": "9131689",
+      "hot_value": "9120809",
       "index": 13
+    },
+    {
+      "title": "著名战地记者唐师曾逝世",
+      "url": "https://www.douyin.com/search/%E8%91%97%E5%90%8D%E6%88%98%E5%9C%B0%E8%AE%B0%E8%80%85%E5%94%90%E5%B8%88%E6%9B%BE%E9%80%9D%E4%B8%96?type=general",
+      "hot_value": "9116432",
+      "index": 14
     },
     {
       "title": "刘德华空降古天乐演唱会",
       "url": "https://www.douyin.com/search/%E5%88%98%E5%BE%B7%E5%8D%8E%E7%A9%BA%E9%99%8D%E5%8F%A4%E5%A4%A9%E4%B9%90%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "9116844",
-      "index": 14
+      "hot_value": "9050461",
+      "index": 15
+    },
+    {
+      "title": "GTA6泄密致开发团队士气大跌",
+      "url": "https://www.douyin.com/search/GTA6%E6%B3%84%E5%AF%86%E8%87%B4%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F%E5%A3%AB%E6%B0%94%E5%A4%A7%E8%B7%8C?type=general",
+      "hot_value": "9030929",
+      "index": 16
     },
     {
       "title": "开学前的精神状态belike",
       "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E5%89%8D%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81belike?type=general",
-      "hot_value": "9076870",
-      "index": 15
-    },
-    {
-      "title": "邓紫棋重庆演唱会",
-      "url": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "9044494",
-      "index": 16
-    },
-    {
-      "title": "英超赫尔城2:0曼联",
-      "url": "https://www.douyin.com/search/%E8%8B%B1%E8%B6%85%E8%B5%AB%E5%B0%94%E5%9F%8E2%3A0%E6%9B%BC%E8%81%94?type=general",
-      "hot_value": "9013689",
+      "hot_value": "9018936",
       "index": 17
+    },
+    {
+      "title": "单依纯南京演唱会",
+      "url": "https://www.douyin.com/search/%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "8355653",
+      "index": 18
     },
     {
       "title": "TF五代双人舞台互飙高音",
       "url": "https://www.douyin.com/search/TF%E4%BA%94%E4%BB%A3%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0%E4%BA%92%E9%A3%99%E9%AB%98%E9%9F%B3?type=general",
-      "hot_value": "8725589",
-      "index": 18
-    },
-    {
-      "title": "以外长称以土因叙问题关系紧张",
-      "url": "https://www.douyin.com/search/%E4%BB%A5%E5%A4%96%E9%95%BF%E7%A7%B0%E4%BB%A5%E5%9C%9F%E5%9B%A0%E5%8F%99%E9%97%AE%E9%A2%98%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0?type=general",
-      "hot_value": "7812673",
+      "hot_value": "7817378",
       "index": 19
     },
     {
-      "title": "旧人不知我近况",
-      "url": "https://www.douyin.com/search/%E6%97%A7%E4%BA%BA%E4%B8%8D%E7%9F%A5%E6%88%91%E8%BF%91%E5%86%B5?type=general",
-      "hot_value": "7794087",
+      "title": "邓紫棋重庆演唱会",
+      "url": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "7776346",
       "index": 20
+    },
+    {
+      "title": "锐评披哥一公舞台从夯到拉",
+      "url": "https://www.douyin.com/search/%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89?type=general",
+      "hot_value": "7766693",
+      "index": 21
     },
     {
       "title": "麻将磁悬浮列车也太有意思了",
       "url": "https://www.douyin.com/search/%E9%BA%BB%E5%B0%86%E7%A3%81%E6%82%AC%E6%B5%AE%E5%88%97%E8%BD%A6%E4%B9%9F%E5%A4%AA%E6%9C%89%E6%84%8F%E6%80%9D%E4%BA%86?type=general",
-      "hot_value": "7770060",
-      "index": 21
-    },
-    {
-      "title": "今日处暑",
-      "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%A4%84%E6%9A%91?type=general",
-      "hot_value": "7766808",
+      "hot_value": "7757116",
       "index": 22
     },
     {
       "title": "子乔你快来啊 张伟和美嘉吃饭了",
       "url": "https://www.douyin.com/search/%E5%AD%90%E4%B9%94%E4%BD%A0%E5%BF%AB%E6%9D%A5%E5%95%8A%20%E5%BC%A0%E4%BC%9F%E5%92%8C%E7%BE%8E%E5%98%89%E5%90%83%E9%A5%AD%E4%BA%86?type=general",
-      "hot_value": "7763456",
+      "hot_value": "7756612",
       "index": 23
     },
     {
-      "title": "殷玉珍静候多年重逢",
-      "url": "https://www.douyin.com/search/%E6%AE%B7%E7%8E%89%E7%8F%8D%E9%9D%99%E5%80%99%E5%A4%9A%E5%B9%B4%E9%87%8D%E9%80%A2?type=general",
-      "hot_value": "7761085",
+      "title": "今日处暑",
+      "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%A4%84%E6%9A%91?type=general",
+      "hot_value": "7752651",
       "index": 24
     },
     {
       "title": "苗霖解说致敬科比",
       "url": "https://www.douyin.com/search/%E8%8B%97%E9%9C%96%E8%A7%A3%E8%AF%B4%E8%87%B4%E6%95%AC%E7%A7%91%E6%AF%94?type=general",
-      "hot_value": "7747789",
+      "hot_value": "7749095",
       "index": 25
     },
     {
-      "title": "袁一琦郑州演唱会",
-      "url": "https://www.douyin.com/search/%E8%A2%81%E4%B8%80%E7%90%A6%E9%83%91%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "7746999",
+      "title": "旧人不知我近况",
+      "url": "https://www.douyin.com/search/%E6%97%A7%E4%BA%BA%E4%B8%8D%E7%9F%A5%E6%88%91%E8%BF%91%E5%86%B5?type=general",
+      "hot_value": "7737956",
       "index": 26
+    },
+    {
+      "title": "巫哲亮相晋江作者大会",
+      "url": "https://www.douyin.com/search/%E5%B7%AB%E5%93%B2%E4%BA%AE%E7%9B%B8%E6%99%8B%E6%B1%9F%E4%BD%9C%E8%80%85%E5%A4%A7%E4%BC%9A?type=general",
+      "hot_value": "7733704",
+      "index": 27
     },
     {
       "title": "第五人格宿伞演绎中式鬼怪志异",
       "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%AE%BF%E4%BC%9E%E6%BC%94%E7%BB%8E%E4%B8%AD%E5%BC%8F%E9%AC%BC%E6%80%AA%E5%BF%97%E5%BC%82?type=general",
-      "hot_value": "7736631",
-      "index": 27
-    },
-    {
-      "title": "严浩翔主打真的要来了",
-      "url": "https://www.douyin.com/search/%E4%B8%A5%E6%B5%A9%E7%BF%94%E4%B8%BB%E6%89%93%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86?type=general",
-      "hot_value": "7724219",
+      "hot_value": "7729570",
       "index": 28
     },
     {
-      "title": "梁伟铿王昶挺进世锦赛男双决赛",
-      "url": "https://www.douyin.com/search/%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B6%E6%8C%BA%E8%BF%9B%E4%B8%96%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8F%8C%E5%86%B3%E8%B5%9B?type=general",
-      "hot_value": "7720548",
+      "title": "英超赫尔城2:0曼联",
+      "url": "https://www.douyin.com/search/%E8%8B%B1%E8%B6%85%E8%B5%AB%E5%B0%94%E5%9F%8E2%3A0%E6%9B%BC%E8%81%94?type=general",
+      "hot_value": "7700620",
       "index": 29
     },
     {
-      "title": "锐评披哥一公舞台从夯到拉",
-      "url": "https://www.douyin.com/search/%E9%94%90%E8%AF%84%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89?type=general",
-      "hot_value": "7709614",
+      "title": "像素方块的硬核才是王道",
+      "url": "https://www.douyin.com/search/%E5%83%8F%E7%B4%A0%E6%96%B9%E5%9D%97%E7%9A%84%E7%A1%AC%E6%A0%B8%E6%89%8D%E6%98%AF%E7%8E%8B%E9%81%93?type=general",
+      "hot_value": "7693200",
       "index": 30
     }
   ]
