@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-23T04:31:59Z",
+  "update_time": "2026-08-23T05:24:18Z",
   "count": 30,
   "list": [
     {
-      "title": "\"复活吧！我的（ ）\"",
-      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "4203221播放",
+      "title": "我正在烧烤…哦不是..思考..",
+      "url": "https://www.bilibili.com/video/BV1RT816FEYe",
+      "hot_value": "1812563播放",
       "index": 1
     },
     {
-      "title": "我正在烧烤…哦不是..思考..",
-      "url": "https://www.bilibili.com/video/BV1RT816FEYe",
-      "hot_value": "1644375播放",
+      "title": "\"复活吧！我的（ ）\"",
+      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
+      "hot_value": "4272013播放",
       "index": 2
     },
     {
-      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
-      "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
-      "hot_value": "915696播放",
+      "title": "严肃观看儿子的历史记录",
+      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+      "hot_value": "1868777播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第97集 登基",
       "url": "https://www.bilibili.com/video/BV1rg8y6uEtG",
-      "hot_value": "469528播放",
+      "hot_value": "694829播放",
       "index": 4
-    },
-    {
-      "title": "严肃观看儿子的历史记录",
-      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "1808446播放",
-      "index": 5
-    },
-    {
-      "title": "上学都被没收过哪些东西？",
-      "url": "https://www.bilibili.com/video/BV1UL8169EUX",
-      "hot_value": "1332980播放",
-      "index": 6
-    },
-    {
-      "title": "我这一生最大的罪，是把人写成了妖……",
-      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "hot_value": "12501290播放",
-      "index": 7
     },
     {
       "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
       "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
-      "hot_value": "1179984播放",
-      "index": 8
+      "hot_value": "1257547播放",
+      "index": 5
+    },
+    {
+      "title": "我这一生最大的罪，是把人写成了妖……",
+      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
+      "hot_value": "12545579播放",
+      "index": 6
+    },
+    {
+      "title": "上学都被没收过哪些东西？",
+      "url": "https://www.bilibili.com/video/BV1UL8169EUX",
+      "hot_value": "1406577播放",
+      "index": 7
     },
     {
       "title": "我收容了100位粉丝到我的一辈子存档里！",
       "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "3785136播放",
+      "hot_value": "3877145播放",
+      "index": 8
+    },
+    {
+      "title": "加缪：如果正义必须伤害无辜，它还是正义吗？",
+      "url": "https://www.bilibili.com/video/BV14R8r6rE3C",
+      "hot_value": "1739977播放",
       "index": 9
     },
     {
       "title": "【纪录片】守护解放西·探案季 第十集  难以“置信”",
       "url": "https://www.bilibili.com/video/BV1ET8K6oETN",
-      "hot_value": "1912430播放",
+      "hot_value": "1931670播放",
       "index": 10
-    },
-    {
-      "title": "加缪：如果正义必须伤害无辜，它还是正义吗？",
-      "url": "https://www.bilibili.com/video/BV14R8r6rE3C",
-      "hot_value": "1708320播放",
-      "index": 11
     },
     {
       "title": "奶龙大战僵尸最终版",
       "url": "https://www.bilibili.com/video/BV1ev8z62EU4",
-      "hot_value": "999989播放",
-      "index": 12
-    },
-    {
-      "title": "真的...没有人类了",
-      "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
-      "hot_value": "2841649播放",
-      "index": 13
-    },
-    {
-      "title": "《影之刃零》专场 State of Play 全程回顾",
-      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
-      "hot_value": "11345726播放",
-      "index": 14
-    },
-    {
-      "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
-      "url": "https://www.bilibili.com/video/BV1ES876dErp",
-      "hot_value": "581845播放",
-      "index": 15
+      "hot_value": "1065597播放",
+      "index": 11
     },
     {
       "title": "护理：一把斩向死亡的温柔刀",
       "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
-      "hot_value": "275943播放",
+      "hot_value": "346124播放",
+      "index": 12
+    },
+    {
+      "title": "我天天玩夜露也没上瘾啊？",
+      "url": "https://www.bilibili.com/video/BV1UM8z6NEBh",
+      "hot_value": "489644播放",
+      "index": 13
+    },
+    {
+      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
+      "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
+      "hot_value": "1036972播放",
+      "index": 14
+    },
+    {
+      "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
+      "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
+      "hot_value": "5290350播放",
+      "index": 15
+    },
+    {
+      "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
+      "url": "https://www.bilibili.com/video/BV1ES876dErp",
+      "hot_value": "647084播放",
       "index": 16
     },
     {
       "title": "《牛莱》",
       "url": "https://www.bilibili.com/video/BV1vj8K6DE8D",
-      "hot_value": "2646258播放",
+      "hot_value": "2718358播放",
       "index": 17
     },
     {
-      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
-      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-      "hot_value": "2932501播放",
+      "title": "全 网 最 骇 人 的 动 画 教 程 4.0",
+      "url": "https://www.bilibili.com/video/BV1x68y6UESE",
+      "hot_value": "340866播放",
       "index": 18
     },
     {
       "title": "黑乌龟历险记vol.1",
       "url": "https://www.bilibili.com/video/BV1r88C6iEPo",
-      "hot_value": "1147546播放",
+      "hot_value": "1192336播放",
       "index": 19
-    },
-    {
-      "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
-      "url": "https://www.bilibili.com/video/BV1LP816AETT",
-      "hot_value": "759637播放",
-      "index": 20
-    },
-    {
-      "title": "山海兽医 第五集 无忧无怖的热舞吧",
-      "url": "https://www.bilibili.com/video/BV142826pEkV",
-      "hot_value": "328085播放",
-      "index": 21
     },
     {
       "title": "《下一个是谁》第七季（3）",
       "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "hot_value": "2624438播放",
+      "hot_value": "2647331播放",
+      "index": 20
+    },
+    {
+      "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
+      "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
+      "hot_value": "2953888播放",
+      "index": 21
+    },
+    {
+      "title": "起猛了，在7月新番看到短剧了...... 【泛式】",
+      "url": "https://www.bilibili.com/video/BV1LP816AETT",
+      "hot_value": "787318播放",
       "index": 22
-    },
-    {
-      "title": "李信没了还可以玩六耳，拆完塔一个筋斗云就走了",
-      "url": "https://www.bilibili.com/video/BV1fm8B6UEnG",
-      "hot_value": "1542010播放",
-      "index": 23
-    },
-    {
-      "title": "现场快检甲醛超标，已封存启动调查，想对比于市场我更关心源头",
-      "url": "https://www.bilibili.com/video/BV189816ZERN",
-      "hot_value": "956667播放",
-      "index": 24
     },
     {
       "title": "吃完享福去了",
       "url": "https://www.bilibili.com/video/BV1t48i6xEL3",
-      "hot_value": "802331播放",
+      "hot_value": "830962播放",
+      "index": 23
+    },
+    {
+      "title": "真的...没有人类了",
+      "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
+      "hot_value": "2911994播放",
+      "index": 24
+    },
+    {
+      "title": "【绍宋：还我河山】这一次，岳飞活下来！",
+      "url": "https://www.bilibili.com/video/BV1PX8q6tEBt",
+      "hot_value": "1472071播放",
       "index": 25
     },
     {
-      "title": "挑战让精神小妹一天花1500，看她怎么花",
-      "url": "https://www.bilibili.com/video/BV1dw8C6REHJ",
-      "hot_value": "833338播放",
+      "title": "山海兽医 第五集 无忧无怖的热舞吧",
+      "url": "https://www.bilibili.com/video/BV142826pEkV",
+      "hot_value": "388731播放",
       "index": 26
     },
     {
-      "title": "本关最优解：放70个窝瓜僵尸 【bilibilionly同人扶持计划】",
-      "url": "https://www.bilibili.com/video/BV1Qc8T6SESo",
-      "hot_value": "2440655播放",
+      "title": "举手之劳 亦是人间微光",
+      "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
+      "hot_value": "4821806播放",
       "index": 27
     },
     {
-      "title": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
-      "url": "https://www.bilibili.com/video/BV1jM8P6EEDy",
-      "hot_value": "2509212播放",
+      "title": "《鸣潮》过场动画 | 此时彼刻，众生一剑",
+      "url": "https://www.bilibili.com/video/BV1og8S6CE6g",
+      "hot_value": "70090播放",
       "index": 28
     },
     {
-      "title": "30秒扛了254万的伤害",
-      "url": "https://www.bilibili.com/video/BV1Bn8y6aENa",
-      "hot_value": "990409播放",
+      "title": "李信没了还可以玩六耳，拆完塔一个筋斗云就走了",
+      "url": "https://www.bilibili.com/video/BV1fm8B6UEnG",
+      "hot_value": "1578615播放",
       "index": 29
     },
     {
-      "title": "什么叫杨戬本尊面试二郎神失败了？",
-      "url": "https://www.bilibili.com/video/BV1B48q65Ewm",
-      "hot_value": "1072714播放",
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "hot_value": "11371193播放",
       "index": 30
     }
   ]
