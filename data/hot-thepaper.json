@@ -1,7 +1,7 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-08-23T05:53:48Z",
+  "update_time": "2026-08-23T06:33:26Z",
   "count": 20,
   "list": [
     {
@@ -95,32 +95,32 @@
       "index": 15
     },
     {
-      "title": "河北康保通报“白菜蘸取甲醛溶液”：初查视频反映情况属实，对全县蔬菜各环节开展全面深入排查",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33832707",
-      "hot_value": "",
-      "index": 16
-    },
-    {
       "title": "五角大楼内斗加剧，美陆军部长或于年底前卸任",
       "url": "https://www.thepaper.cn/newsDetail_forward_33833655",
       "hot_value": "",
-      "index": 17
+      "index": 16
     },
     {
       "title": "中国共产党第二十届中央纪律检查委员会第六次全体会议公报",
       "url": "https://www.thepaper.cn/newsDetail_forward_33832183",
       "hot_value": "",
-      "index": 18
+      "index": 17
     },
     {
       "title": "上音人聚首，集体亮相国家大剧院版歌剧《诺尔玛》",
       "url": "https://www.thepaper.cn/newsDetail_forward_33831618",
       "hot_value": "",
-      "index": 19
+      "index": 18
     },
     {
       "title": "纠错有奖：湖北孝感市博物馆邀请观众给展陈内容“找茬”",
       "url": "https://www.thepaper.cn/newsDetail_forward_33833836",
+      "hot_value": "",
+      "index": 19
+    },
+    {
+      "title": "上海这五场“关于鲁迅”系列讲座，带我们回到文学发生的现场",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33832847",
       "hot_value": "",
       "index": 20
     }
