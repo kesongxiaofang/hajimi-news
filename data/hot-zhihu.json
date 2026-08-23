@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-23T06:33:26Z",
+  "update_time": "2026-08-23T07:29:31Z",
   "count": 30,
   "list": [
     {
-      "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
-      "url": "https://www.zhihu.com/question/2074601403142649584",
-      "hot_value": "606 万热度",
-      "index": 1
-    },
-    {
       "title": "北大报到日校园内满是「扛床垫的爸」，如何看待这个现象？大学新生入学，家长应该帮到何种程度？",
       "url": "https://www.zhihu.com/question/2073677302911842045",
-      "hot_value": "454 万热度",
-      "index": 2
+      "hot_value": "670 万热度",
+      "index": 1
     },
     {
       "title": "为什么二十年后徐福还敢去这个国家，不怕校长掌权了报复吗？",
       "url": "https://www.zhihu.com/question/2072264990426394857",
-      "hot_value": "443 万热度",
+      "hot_value": "464 万热度",
+      "index": 2
+    },
+    {
+      "title": "如何评价南信大团队在《Science》上发文「中国太阳能扩张政策导致鸟类生物多样性下降」？",
+      "url": "https://www.zhihu.com/question/2074259711533266774",
+      "hot_value": "368 万热度",
       "index": 3
-    },
-    {
-      "title": "每隔 3~5 公里设置自然弯道是高速公路设计的常识，但是为啥我们经常看到美国国家公路直得像到天堂一样？",
-      "url": "https://www.zhihu.com/question/37162221",
-      "hot_value": "341 万热度",
-      "index": 4
-    },
-    {
-      "title": "如何看待顾客因平台漏洞 55 元捡漏 1.4 万元项链，商家补偿 5 元并要求主动退款？这种情况能要求发货吗？",
-      "url": "https://www.zhihu.com/question/2074179858242998498",
-      "hot_value": "332 万热度",
-      "index": 5
-    },
-    {
-      "title": "勾践卧薪尝胆后，越国开始称霸天下，为什么莫名其妙地就消失了？",
-      "url": "https://www.zhihu.com/question/1891158354568656479",
-      "hot_value": "254 万热度",
-      "index": 6
-    },
-    {
-      "title": "荣耀机器人闪电百米跑出 9 秒 32，破人类百米纪录，这一成绩的含金量如何？有哪些意义？",
-      "url": "https://www.zhihu.com/question/2074537748648801027",
-      "hot_value": "248 万热度",
-      "index": 7
     },
     {
       "title": "乐山大佛景区有男子将松鼠踩死，游客称其是工作人员并言「松鼠是害虫」，如何看待这一行为？",
       "url": "https://www.zhihu.com/question/2074564481695344190",
-      "hot_value": "241 万热度",
-      "index": 8
+      "hot_value": "298 万热度",
+      "index": 4
+    },
+    {
+      "title": "每隔 3~5 公里设置自然弯道是高速公路设计的常识，但是为啥我们经常看到美国国家公路直得像到天堂一样？",
+      "url": "https://www.zhihu.com/question/37162221",
+      "hot_value": "258 万热度",
+      "index": 5
+    },
+    {
+      "title": "荣耀机器人闪电百米跑出 9 秒 32，破人类百米纪录，这一成绩的含金量如何？有哪些意义？",
+      "url": "https://www.zhihu.com/question/2074537748648801027",
+      "hot_value": "219 万热度",
+      "index": 6
+    },
+    {
+      "title": "勾践卧薪尝胆后，越国开始称霸天下，为什么莫名其妙地就消失了？",
+      "url": "https://www.zhihu.com/question/1891158354568656479",
+      "hot_value": "203 万热度",
+      "index": 7
     },
     {
       "title": "1.58 万元的问界儿童车预售，车企为什么要给小孩「造车」？能将带娃家庭转化成潜在客户吗？",
       "url": "https://www.zhihu.com/question/2074210850559243913",
-      "hot_value": "184 万热度",
-      "index": 9
+      "hot_value": "192 万热度",
+      "index": 8
     },
     {
       "title": "如何评价欢子披荆斩棘退赛？从先导片不足 50 秒到一公祭天，节目组是不是根本没想让他活过一公？",
       "url": "https://www.zhihu.com/question/2074552548258853608",
-      "hot_value": "113 万热度",
+      "hot_value": "122 万热度",
+      "index": 9
+    },
+    {
+      "title": "古代士兵中箭后没有消炎药，伤口感染了还能扛过去吗？",
+      "url": "https://www.zhihu.com/question/2062593631098343674",
+      "hot_value": "111 万热度",
       "index": 10
     },
     {
       "title": "美加贸易谈判最后时刻破裂，美国将加征 50% 关税，加拿大将对美实施对等关税，将产生哪些影响？",
       "url": "https://www.zhihu.com/question/2074490542076052322",
-      "hot_value": "107 万热度",
+      "hot_value": "93 万热度",
       "index": 11
     },
     {
-      "title": "古代士兵中箭后没有消炎药，伤口感染了还能扛过去吗？",
-      "url": "https://www.zhihu.com/question/2062593631098343674",
-      "hot_value": "101 万热度",
+      "title": "为何 LLM 的 harness 几乎都选择 TypeScript 开发？",
+      "url": "https://www.zhihu.com/question/2073724819212972751",
+      "hot_value": "75 万热度",
       "index": 12
     },
     {
-      "title": "如何看待游戏博主「智能路障」分析《黑神话：钟馗》实机，认为游科已具备「世界第一 ARPG 开发商」的底气？",
-      "url": "https://www.zhihu.com/question/2074528506655068722",
-      "hot_value": "98 万热度",
+      "title": "未来很多农村的空房和地皮如何处理？",
+      "url": "https://www.zhihu.com/question/2072723405527311363",
+      "hot_value": "69 万热度",
       "index": 13
     },
     {
-      "title": "LPL2026 赛季第三赛段组内赛 JDG 2:0 TES，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2074585704080859202",
-      "hot_value": "96 万热度",
+      "title": "如何克服拖延症？试过一些方法但是作用不大?",
+      "url": "https://www.zhihu.com/question/1965957574810640627",
+      "hot_value": "66 万热度",
       "index": 14
     },
     {
-      "title": "到底是「女主播隐瞒已婚诱导粉丝打赏 2500 万」，还是「榜一大哥敲诈式维权」？此事关键在哪？",
-      "url": "https://www.zhihu.com/question/2074437569970790911",
-      "hot_value": "76 万热度",
+      "title": "有没有这么一款软件，你反复卸载，最后却又装了回来？",
+      "url": "https://www.zhihu.com/question/2074258334371288107",
+      "hot_value": "65 万热度",
       "index": 15
     },
     {
       "title": "如何看待艾滋病检测结果不得告知配偶引发热议？",
       "url": "https://www.zhihu.com/question/2073843717803340134",
-      "hot_value": "73 万热度",
+      "hot_value": "59 万热度",
       "index": 16
+    },
+    {
+      "title": "到底是「女主播隐瞒已婚诱导粉丝打赏 2500 万」，还是「榜一大哥敲诈式维权」？此事关键在哪？",
+      "url": "https://www.zhihu.com/question/2074437569970790911",
+      "hot_value": "59 万热度",
+      "index": 17
     },
     {
       "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
       "url": "https://www.zhihu.com/question/2074080130218120715",
-      "hot_value": "72 万热度",
-      "index": 17
-    },
-    {
-      "title": "为何 LLM 的 harness 几乎都选择 TypeScript 开发？",
-      "url": "https://www.zhihu.com/question/2073724819212972751",
-      "hot_value": "71 万热度",
+      "hot_value": "59 万热度",
       "index": 18
     },
     {
-      "title": "从心理学上怎样理解「一个人被及时满足是永远不可能长大的」？怎么克服这种不被及时满足的不舒服感？",
-      "url": "https://www.zhihu.com/question/2060034482158281044",
-      "hot_value": "67 万热度",
+      "title": "日本本州岛 5.8 级地震已致多人受伤，目前情况如何？",
+      "url": "https://www.zhihu.com/question/2074763659239059590",
+      "hot_value": "59 万热度",
       "index": 19
     },
     {
       "title": "如何看待因 Token 高峰期涨价，有程序员称开始周末倒班上班？",
       "url": "https://www.zhihu.com/question/2074249196735918469",
-      "hot_value": "67 万热度",
+      "hot_value": "59 万热度",
       "index": 20
     },
     {
-      "title": "如何看待网友发现今年快手校招可选上传近 6 个月 AI 聊天记录？这会涉及「蒸馏」，或者侵犯隐私权吗？",
-      "url": "https://www.zhihu.com/question/2073433243970269590",
-      "hot_value": "67 万热度",
+      "title": "有什么最近灭绝的大型动物？",
+      "url": "https://www.zhihu.com/question/1892448027068835128",
+      "hot_value": "59 万热度",
       "index": 21
     },
     {
       "title": "如何评价朱一龙在电影《空枪》中的表现？",
       "url": "https://www.zhihu.com/question/2073201337639113830",
-      "hot_value": "67 万热度",
+      "hot_value": "59 万热度",
       "index": 22
     },
     {
-      "title": "有没有这么一款软件，你反复卸载，最后却又装了回来？",
-      "url": "https://www.zhihu.com/question/2074258334371288107",
-      "hot_value": "67 万热度",
-      "index": 23
-    },
-    {
-      "title": "零食占座当事人母亲否认故意占座，称儿童票捆绑成人票销售，退成人票后儿童会被要求下车，哪些问题值得关注？",
-      "url": "https://www.zhihu.com/question/2074588443309340001",
-      "hot_value": "63 万热度",
-      "index": 24
-    },
-    {
-      "title": "如何克服拖延症？试过一些方法但是作用不大?",
-      "url": "https://www.zhihu.com/question/1965957574810640627",
-      "hot_value": "63 万热度",
-      "index": 25
-    },
-    {
-      "title": "有什么最近灭绝的大型动物？",
-      "url": "https://www.zhihu.com/question/1892448027068835128",
-      "hot_value": "61 万热度",
-      "index": 26
-    },
-    {
-      "title": "如果一个皇马主教练对阵除巴萨外的球队都必胜，但对巴萨必败，他能干多久？历史地位及球迷评价会如何？",
-      "url": "https://www.zhihu.com/question/2074061892293869982",
+      "title": "如何看待网友发现今年快手校招可选上传近 6 个月 AI 聊天记录？这会涉及「蒸馏」，或者侵犯隐私权吗？",
+      "url": "https://www.zhihu.com/question/2073433243970269590",
       "hot_value": "59 万热度",
-      "index": 27
-    },
-    {
-      "title": "如何看待现在好多小学初中生身高一米八？",
-      "url": "https://www.zhihu.com/question/450488929",
-      "hot_value": "58 万热度",
-      "index": 28
+      "index": 23
     },
     {
       "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢？",
       "url": "https://www.zhihu.com/question/2065514457850176456",
       "hot_value": "58 万热度",
+      "index": 24
+    },
+    {
+      "title": "家里老人听力下降，怎么选配适合的助听器？",
+      "url": "https://www.zhihu.com/question/571815540",
+      "hot_value": "58 万热度",
+      "index": 25
+    },
+    {
+      "title": "26-27 赛季德甲乒乓球联赛，樊振东 3:1 泽利科，如何评价本场比赛?",
+      "url": "https://www.zhihu.com/question/2074731253388126036",
+      "hot_value": "58 万热度",
+      "index": 26
+    },
+    {
+      "title": "如果一个皇马主教练对阵除巴萨外的球队都必胜，但对巴萨必败，他能干多久？历史地位及球迷评价会如何？",
+      "url": "https://www.zhihu.com/question/2074061892293869982",
+      "hot_value": "58 万热度",
+      "index": 27
+    },
+    {
+      "title": "LPL2026 赛季第三赛段组内赛 JDG 2:0 TES，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2074585704080859202",
+      "hot_value": "58 万热度",
+      "index": 28
+    },
+    {
+      "title": "同样的老师同样的课堂，有的孩子一学就会，有的怎么补都不行，教育真的能抹平天赋差距吗？",
+      "url": "https://www.zhihu.com/question/2074029149820401131",
+      "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "亲密关系中的安全感，主要应该由伴侣提供，还是由自己建立？",
-      "url": "https://www.zhihu.com/question/2072666413685379345",
+      "title": "如果漠北之战李广当主帅，卫青当前将军，李广会不会和卫青一样，独青不得益封？",
+      "url": "https://www.zhihu.com/question/2073714262460180287",
       "hot_value": "58 万热度",
       "index": 30
     }
