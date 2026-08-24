@@ -1,43 +1,43 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-24T19:24:47Z",
+  "update_time": "2026-08-24T19:53:40Z",
   "count": 30,
   "list": [
     {
       "title": "为什么在中兴四将图里，岳飞是一个憨态可掬的小胖子，是作画者的想象，还是岳飞本人就这形象气质?",
       "url": "https://www.zhihu.com/question/306550343",
-      "hot_value": "722 万热度",
+      "hot_value": "705 万热度",
       "index": 1
     },
     {
       "title": "小米新一代玄戒芯片技术发布会举行，有哪些看点值得关注？",
       "url": "https://www.zhihu.com/question/2074874011520180295",
-      "hot_value": "708 万热度",
+      "hot_value": "607 万热度",
       "index": 2
     },
     {
       "title": "索尼发邮件重申「数字游戏不属于玩家」，账号封禁就全清零，你怎么看待这波操作？",
       "url": "https://www.zhihu.com/question/2075000240088805752",
-      "hot_value": "325 万热度",
+      "hot_value": "308 万热度",
       "index": 3
     },
     {
       "title": "Claude Code增长熄火，网传现大规模退订，为啥会这样？如何看待其诸多老用户开始转用Codex？",
       "url": "https://www.zhihu.com/question/2074071189530440759",
-      "hot_value": "283 万热度",
+      "hot_value": "278 万热度",
       "index": 4
     },
     {
       "title": "樊振东德国杯上座率已经超85%，影院为什么不加场呢?",
       "url": "https://www.zhihu.com/question/2075007747150591055",
-      "hot_value": "257 万热度",
+      "hot_value": "252 万热度",
       "index": 5
     },
     {
       "title": "如何看待 12306 回应高铁无座票与二等座同价，称属于同一席别、同一等级？这种安排合理吗？",
       "url": "https://www.zhihu.com/question/1942490264934528525",
-      "hot_value": "215 万热度",
+      "hot_value": "182 万热度",
       "index": 6
     },
     {
@@ -47,45 +47,45 @@
       "index": 7
     },
     {
-      "title": "19 岁公路车手塔林比赛中被逆行车辆撞击离世，有人呼吁头盔安全标准需修改，你认为车手保障如何真正提升？",
-      "url": "https://www.zhihu.com/question/2073069693901063016",
-      "hot_value": "149 万热度",
+      "title": "如何评价耗资750万投资的影游《恶校游戏》仅回血50万，发售1周后制作组宣布解散？",
+      "url": "https://www.zhihu.com/question/2075002290789000092",
+      "hot_value": "167 万热度",
       "index": 8
     },
     {
-      "title": "如何评价黑客以“恢复实体光盘、抵制数字预购”为名威胁 R星，并设置《GTA 6》源码开关？",
-      "url": "https://www.zhihu.com/question/2074570715764896591",
-      "hot_value": "144 万热度",
+      "title": "19 岁公路车手塔林比赛中被逆行车辆撞击离世，有人呼吁头盔安全标准需修改，你认为车手保障如何真正提升？",
+      "url": "https://www.zhihu.com/question/2073069693901063016",
+      "hot_value": "148 万热度",
       "index": 9
     },
     {
       "title": "北京大学原副校长任羽中受贿 3195 万余元，一审被判 8 年，怎样看待这一结果？有哪些警示意义？",
       "url": "https://www.zhihu.com/question/2075268182822970650",
-      "hot_value": "142 万热度",
+      "hot_value": "145 万热度",
       "index": 10
     },
     {
       "title": "大家为什么接受不了整容的明星啊？",
       "url": "https://www.zhihu.com/question/2008652535855071748",
-      "hot_value": "140 万热度",
+      "hot_value": "144 万热度",
       "index": 11
+    },
+    {
+      "title": "如何评价黑客以“恢复实体光盘、抵制数字预购”为名威胁 R星，并设置《GTA 6》源码开关？",
+      "url": "https://www.zhihu.com/question/2074570715764896591",
+      "hot_value": "143 万热度",
+      "index": 12
     },
     {
       "title": "Qwen3.8-27B 被称为新的「模型斩杀线」，为什么？如何看待这一变化？",
       "url": "https://www.zhihu.com/question/2074157917750518597",
-      "hot_value": "139 万热度",
-      "index": 12
+      "hot_value": "138 万热度",
+      "index": 13
     },
     {
       "title": "为什么古人相信水银、明矾、硫磺等物质可以炼出长生不老药？",
       "url": "https://www.zhihu.com/question/314302015",
-      "hot_value": "137 万热度",
-      "index": 13
-    },
-    {
-      "title": "为啥百米大战中的人形机器人大多最终是撞墙摔停的？它们不会刹车吗？",
-      "url": "https://www.zhihu.com/question/2074951497901786715",
-      "hot_value": "103 万热度",
+      "hot_value": "131 万热度",
       "index": 14
     },
     {
@@ -103,24 +103,24 @@
     {
       "title": "为什么安踏前CEO徐阳在飞机上发朋友圈称因家人留学原因离职，将陪家人迁居美国洛杉矶？",
       "url": "https://www.zhihu.com/question/2074146079185159390",
-      "hot_value": "97 万热度",
+      "hot_value": "98 万热度",
       "index": 17
+    },
+    {
+      "title": "为啥百米大战中的人形机器人大多最终是撞墙摔停的？它们不会刹车吗？",
+      "url": "https://www.zhihu.com/question/2074951497901786715",
+      "hot_value": "98 万热度",
+      "index": 18
     },
     {
       "title": "脑出血急诊去医院为什么几个小时不开始手术，最后我妈去世了，医院有没有责任？",
       "url": "https://www.zhihu.com/question/1905751114009272796",
       "hot_value": "97 万热度",
-      "index": 18
+      "index": 19
     },
     {
       "title": "国家卫健委明确指出「道医」「佛医」「宗教医学」不可信，这反映了哪些问题？",
       "url": "https://www.zhihu.com/question/2074176272758989966",
-      "hot_value": "93 万热度",
-      "index": 19
-    },
-    {
-      "title": "美军公开 AIM-424 超远程空空导弹，将如何改变未来空战模式？",
-      "url": "https://www.zhihu.com/question/2074954631705379885",
       "hot_value": "93 万热度",
       "index": 20
     },
@@ -131,27 +131,27 @@
       "index": 21
     },
     {
-      "title": "如何评价科杰查以56:51的成绩打破半马世界纪录？",
-      "url": "https://www.zhihu.com/question/2074958507640632458",
+      "title": "美军公开 AIM-424 超远程空空导弹，将如何改变未来空战模式？",
+      "url": "https://www.zhihu.com/question/2074954631705379885",
       "hot_value": "92 万热度",
       "index": 22
     },
     {
-      "title": "怎么看待小米新一代玄戒芯片正式发布，玄戒O3、玄戒O100、玄戒D100？它到底强不强？",
-      "url": "https://www.zhihu.com/question/2075239490063447247",
-      "hot_value": "90 万热度",
+      "title": "如何评价科杰查以56:51的成绩打破半马世界纪录？",
+      "url": "https://www.zhihu.com/question/2074958507640632458",
+      "hot_value": "92 万热度",
       "index": 23
     },
     {
       "title": "我国没有必要建设8横8纵货运专用铁路网？",
       "url": "https://www.zhihu.com/question/1912881137451250506",
-      "hot_value": "90 万热度",
+      "hot_value": "91 万热度",
       "index": 24
     },
     {
       "title": "如何解读特朗普所说“用美军解决美债”这句话？",
       "url": "https://www.zhihu.com/question/2075089345044801293",
-      "hot_value": "90 万热度",
+      "hot_value": "91 万热度",
       "index": 25
     },
     {
@@ -161,27 +161,27 @@
       "index": 26
     },
     {
-      "title": "亚朵卖枕头被子收入快赶上酒店主业，将全年零售收入增长目标上调至40％，一系列商业动作的背后有哪些考量？",
-      "url": "https://www.zhihu.com/question/2074548112480100916",
-      "hot_value": "86 万热度",
+      "title": "有没有哪款老游戏的设计，放到现在来看都很“超前”？",
+      "url": "https://www.zhihu.com/question/2054934702021252175",
+      "hot_value": "85 万热度",
       "index": 27
     },
     {
-      "title": "如何看待井上织姬在死神千年血战篇获得究极加强，无限治愈队友，掰断友哈巴赫的剑并正面和他打成五五开？",
-      "url": "https://www.zhihu.com/question/2074999470861837740",
+      "title": "亚朵卖枕头被子收入快赶上酒店主业，将全年零售收入增长目标上调至40％，一系列商业动作的背后有哪些考量？",
+      "url": "https://www.zhihu.com/question/2074548112480100916",
       "hot_value": "85 万热度",
       "index": 28
     },
     {
-      "title": "有没有哪款老游戏的设计，放到现在来看都很“超前”？",
-      "url": "https://www.zhihu.com/question/2054934702021252175",
-      "hot_value": "85 万热度",
+      "title": "肯德基麦当劳的配方为何能数十年不泄露？",
+      "url": "https://www.zhihu.com/question/2073743631962449365",
+      "hot_value": "83 万热度",
       "index": 29
     },
     {
-      "title": "肯德基麦当劳的配方为何能数十年不泄露？",
-      "url": "https://www.zhihu.com/question/2073743631962449365",
-      "hot_value": "84 万热度",
+      "title": "如何看待井上织姬在死神千年血战篇获得究极加强，无限治愈队友，掰断友哈巴赫的剑并正面和他打成五五开？",
+      "url": "https://www.zhihu.com/question/2074999470861837740",
+      "hot_value": "81 万热度",
       "index": 30
     }
   ]
