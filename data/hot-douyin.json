@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-23T23:44:09Z",
+  "update_time": "2026-08-24T01:01:25Z",
   "count": 30,
   "list": [
     {
-      "title": "台风沙德尔路径可能有变",
-      "url": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E8%B7%AF%E5%BE%84%E5%8F%AF%E8%83%BD%E6%9C%89%E5%8F%98?type=general",
-      "hot_value": "11597144",
+      "title": "中国U18男篮不敌澳大利亚获亚军",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU18%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E8%8E%B7%E4%BA%9A%E5%86%9B?type=general",
+      "hot_value": "11732253",
       "index": 1
     },
     {
-      "title": "中国U18男篮不敌澳大利亚获亚军",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU18%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E8%8E%B7%E4%BA%9A%E5%86%9B?type=general",
-      "hot_value": "11540302",
+      "title": "嫦娥七号任务不满足发射条件",
+      "url": "https://www.douyin.com/search/%E5%AB%A6%E5%A8%A5%E4%B8%83%E5%8F%B7%E4%BB%BB%E5%8A%A1%E4%B8%8D%E6%BB%A1%E8%B6%B3%E5%8F%91%E5%B0%84%E6%9D%A1%E4%BB%B6?type=general",
+      "hot_value": "11490542",
       "index": 2
     },
     {
       "title": "一组数据看中国经济双向链接全球",
       "url": "https://www.douyin.com/search/%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%8C%E5%90%91%E9%93%BE%E6%8E%A5%E5%85%A8%E7%90%83?type=general",
-      "hot_value": "11317326",
+      "hot_value": "11417229",
       "index": 3
-    },
-    {
-      "title": "特朗普最新调仓披露",
-      "url": "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E8%B0%83%E4%BB%93%E6%8A%AB%E9%9C%B2?type=general",
-      "hot_value": "11311485",
-      "index": 4
-    },
-    {
-      "title": "梁伟铿王昶获世锦赛男双冠军",
-      "url": "https://www.douyin.com/search/%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B6%E8%8E%B7%E4%B8%96%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8F%8C%E5%86%A0%E5%86%9B?type=general",
-      "hot_value": "10718004",
-      "index": 5
     },
     {
       "title": "九月开学早秋穿搭合集",
       "url": "https://www.douyin.com/search/%E4%B9%9D%E6%9C%88%E5%BC%80%E5%AD%A6%E6%97%A9%E7%A7%8B%E7%A9%BF%E6%90%AD%E5%90%88%E9%9B%86?type=general",
-      "hot_value": "10606706",
-      "index": 6
+      "hot_value": "11343118",
+      "index": 4
     },
     {
-      "title": "覃卫国任合肥市委书记",
-      "url": "https://www.douyin.com/search/%E8%A6%83%E5%8D%AB%E5%9B%BD%E4%BB%BB%E5%90%88%E8%82%A5%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0?type=general",
-      "hot_value": "9488686",
-      "index": 7
-    },
-    {
-      "title": "三部门指导调查甲醛白菜事件",
-      "url": "https://www.douyin.com/search/%E4%B8%89%E9%83%A8%E9%97%A8%E6%8C%87%E5%AF%BC%E8%B0%83%E6%9F%A5%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E4%BA%8B%E4%BB%B6?type=general",
-      "hot_value": "9473810",
-      "index": 8
-    },
-    {
-      "title": "羊村一直在等我们回家",
-      "url": "https://www.douyin.com/search/%E7%BE%8A%E6%9D%91%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%AD%89%E6%88%91%E4%BB%AC%E5%9B%9E%E5%AE%B6?type=general",
-      "hot_value": "9442813",
-      "index": 9
-    },
-    {
-      "title": "TYL获2026年度总冠军",
-      "url": "https://www.douyin.com/search/TYL%E8%8E%B72026%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B?type=general",
-      "hot_value": "9416911",
-      "index": 10
+      "title": "英超曼城2:1绝杀伯恩茅斯",
+      "url": "https://www.douyin.com/search/%E8%8B%B1%E8%B6%85%E6%9B%BC%E5%9F%8E2%3A1%E7%BB%9D%E6%9D%80%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF?type=general",
+      "hot_value": "10747719",
+      "index": 5
     },
     {
       "title": "BLG 2:1战胜AL",
       "url": "https://www.douyin.com/search/BLG%202%3A1%E6%88%98%E8%83%9CAL?type=general",
-      "hot_value": "9405580",
+      "hot_value": "10690044",
+      "index": 6
+    },
+    {
+      "title": "羊村一直在等我们回家",
+      "url": "https://www.douyin.com/search/%E7%BE%8A%E6%9D%91%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%AD%89%E6%88%91%E4%BB%AC%E5%9B%9E%E5%AE%B6?type=general",
+      "hot_value": "9403829",
+      "index": 7
+    },
+    {
+      "title": "记录我的开学第一天",
+      "url": "https://www.douyin.com/search/%E8%AE%B0%E5%BD%95%E6%88%91%E7%9A%84%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9?type=general",
+      "hot_value": "9392986",
+      "index": 8
+    },
+    {
+      "title": "我用健身重启人生",
+      "url": "https://www.douyin.com/search/%E6%88%91%E7%94%A8%E5%81%A5%E8%BA%AB%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F?type=general",
+      "hot_value": "9390453",
+      "index": 9
+    },
+    {
+      "title": "92号汽油或重回8元区间",
+      "url": "https://www.douyin.com/search/92%E5%8F%B7%E6%B1%BD%E6%B2%B9%E6%88%96%E9%87%8D%E5%9B%9E8%E5%85%83%E5%8C%BA%E9%97%B4?type=general",
+      "hot_value": "9370431",
+      "index": 10
+    },
+    {
+      "title": "覃卫国任合肥市委书记",
+      "url": "https://www.douyin.com/search/%E8%A6%83%E5%8D%AB%E5%9B%BD%E4%BB%BB%E5%90%88%E8%82%A5%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0?type=general",
+      "hot_value": "9364512",
       "index": 11
     },
     {
-      "title": "VCT CN出征上海全球冠军赛",
-      "url": "https://www.douyin.com/search/VCT%20CN%E5%87%BA%E5%BE%81%E4%B8%8A%E6%B5%B7%E5%85%A8%E7%90%83%E5%86%A0%E5%86%9B%E8%B5%9B?type=general",
-      "hot_value": "9364518",
+      "title": "HangHang挑战赛即将来袭",
+      "url": "https://www.douyin.com/search/HangHang%E6%8C%91%E6%88%98%E8%B5%9B%E5%8D%B3%E5%B0%86%E6%9D%A5%E8%A2%AD?type=general",
+      "hot_value": "9349002",
       "index": 12
     },
     {
       "title": "用左鼻孔呼吸能快速入睡吗",
       "url": "https://www.douyin.com/search/%E7%94%A8%E5%B7%A6%E9%BC%BB%E5%AD%94%E5%91%BC%E5%90%B8%E8%83%BD%E5%BF%AB%E9%80%9F%E5%85%A5%E7%9D%A1%E5%90%97?type=general",
-      "hot_value": "9363101",
+      "hot_value": "9340459",
       "index": 13
     },
     {
       "title": "成吉思鸡小哥复刻徐福烩饭",
       "url": "https://www.douyin.com/search/%E6%88%90%E5%90%89%E6%80%9D%E9%B8%A1%E5%B0%8F%E5%93%A5%E5%A4%8D%E5%88%BB%E5%BE%90%E7%A6%8F%E7%83%A9%E9%A5%AD?type=general",
-      "hot_value": "9296183",
+      "hot_value": "9295928",
       "index": 14
     },
     {
-      "title": "殷玉珍静候多年重逢",
-      "url": "https://www.douyin.com/search/%E6%AE%B7%E7%8E%89%E7%8F%8D%E9%9D%99%E5%80%99%E5%A4%9A%E5%B9%B4%E9%87%8D%E9%80%A2?type=general",
-      "hot_value": "9291482",
+      "title": "张韶涵演唱会暂停后重返舞台",
+      "url": "https://www.douyin.com/search/%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9A%82%E5%81%9C%E5%90%8E%E9%87%8D%E8%BF%94%E8%88%9E%E5%8F%B0?type=general",
+      "hot_value": "9294419",
       "index": 15
     },
     {
       "title": "中超重庆铜梁龙0:1大连英博",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E9%87%8D%E5%BA%86%E9%93%9C%E6%A2%81%E9%BE%990%3A1%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9A?type=general",
-      "hot_value": "9270499",
+      "hot_value": "9289912",
       "index": 16
     },
     {
-      "title": "中超第24轮最新积分榜出炉",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E7%AC%AC24%E8%BD%AE%E6%9C%80%E6%96%B0%E7%A7%AF%E5%88%86%E6%A6%9C%E5%87%BA%E7%82%89?type=general",
-      "hot_value": "9184044",
+      "title": "GTA6泄密致开发团队士气大跌",
+      "url": "https://www.douyin.com/search/GTA6%E6%B3%84%E5%AF%86%E8%87%B4%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F%E5%A3%AB%E6%B0%94%E5%A4%A7%E8%B7%8C?type=general",
+      "hot_value": "9168608",
       "index": 17
     },
     {
-      "title": "嫦娥七号任务不满足发射条件",
-      "url": "https://www.douyin.com/search/%E5%AB%A6%E5%A8%A5%E4%B8%83%E5%8F%B7%E4%BB%BB%E5%8A%A1%E4%B8%8D%E6%BB%A1%E8%B6%B3%E5%8F%91%E5%B0%84%E6%9D%A1%E4%BB%B6?type=general",
-      "hot_value": "9150870",
+      "title": "著名战地记者唐师曾逝世",
+      "url": "https://www.douyin.com/search/%E8%91%97%E5%90%8D%E6%88%98%E5%9C%B0%E8%AE%B0%E8%80%85%E5%94%90%E5%B8%88%E6%9B%BE%E9%80%9D%E4%B8%96?type=general",
+      "hot_value": "9145027",
       "index": 18
-    },
-    {
-      "title": "我用健身重启人生",
-      "url": "https://www.douyin.com/search/%E6%88%91%E7%94%A8%E5%81%A5%E8%BA%AB%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F?type=general",
-      "hot_value": "9139317",
-      "index": 19
-    },
-    {
-      "title": "记录我的开学第一天",
-      "url": "https://www.douyin.com/search/%E8%AE%B0%E5%BD%95%E6%88%91%E7%9A%84%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9?type=general",
-      "hot_value": "9119251",
-      "index": 20
-    },
-    {
-      "title": "胡麟鹏宣布退役",
-      "url": "https://www.douyin.com/search/%E8%83%A1%E9%BA%9F%E9%B9%8F%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9?type=general",
-      "hot_value": "9045281",
-      "index": 21
     },
     {
       "title": "呀吖摇就要跳出气势",
       "url": "https://www.douyin.com/search/%E5%91%80%E5%90%96%E6%91%87%E5%B0%B1%E8%A6%81%E8%B7%B3%E5%87%BA%E6%B0%94%E5%8A%BF?type=general",
-      "hot_value": "8626826",
-      "index": 22
+      "hot_value": "9139415",
+      "index": 19
     },
     {
-      "title": "BIGBANG二十周年演唱会首尔站",
-      "url": "https://www.douyin.com/search/BIGBANG%E4%BA%8C%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E9%A6%96%E5%B0%94%E7%AB%99?type=general",
-      "hot_value": "8486845",
-      "index": 23
+      "title": "欢迎来龙餐馆票房破十五亿",
+      "url": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%E7%A0%B4%E5%8D%81%E4%BA%94%E4%BA%BF?type=general",
+      "hot_value": "9104338",
+      "index": 20
     },
     {
       "title": "记录那英演唱会惊喜瞬间",
       "url": "https://www.douyin.com/search/%E8%AE%B0%E5%BD%95%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%8A%E5%96%9C%E7%9E%AC%E9%97%B4?type=general",
-      "hot_value": "8416430",
+      "hot_value": "8818160",
+      "index": 21
+    },
+    {
+      "title": "殷玉珍静候多年重逢",
+      "url": "https://www.douyin.com/search/%E6%AE%B7%E7%8E%89%E7%8F%8D%E9%9D%99%E5%80%99%E5%A4%9A%E5%B9%B4%E9%87%8D%E9%80%A2?type=general",
+      "hot_value": "8543447",
+      "index": 22
+    },
+    {
+      "title": "开学前的精神状态belike",
+      "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E5%89%8D%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81belike?type=general",
+      "hot_value": "8463130",
+      "index": 23
+    },
+    {
+      "title": "宋雨琦AI照进现实了",
+      "url": "https://www.douyin.com/search/%E5%AE%8B%E9%9B%A8%E7%90%A6AI%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%E4%BA%86?type=general",
+      "hot_value": "8280187",
       "index": 24
     },
     {
       "title": "有你在我就有庇护所",
       "url": "https://www.douyin.com/search/%E6%9C%89%E4%BD%A0%E5%9C%A8%E6%88%91%E5%B0%B1%E6%9C%89%E5%BA%87%E6%8A%A4%E6%89%80?type=general",
-      "hot_value": "8358441",
+      "hot_value": "8130969",
       "index": 25
     },
     {
       "title": "博主“大帅”因突发疾病离世",
       "url": "https://www.douyin.com/search/%E5%8D%9A%E4%B8%BB%E2%80%9C%E5%A4%A7%E5%B8%85%E2%80%9D%E5%9B%A0%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E7%A6%BB%E4%B8%96?type=general",
-      "hot_value": "8095132",
+      "hot_value": "8038203",
       "index": 26
     },
     {
-      "title": "张韶涵赛博造型太绝了",
-      "url": "https://www.douyin.com/search/%E5%BC%A0%E9%9F%B6%E6%B6%B5%E8%B5%9B%E5%8D%9A%E9%80%A0%E5%9E%8B%E5%A4%AA%E7%BB%9D%E4%BA%86?type=general",
-      "hot_value": "7847867",
+      "title": "麻将磁悬浮列车也太有意思了",
+      "url": "https://www.douyin.com/search/%E9%BA%BB%E5%B0%86%E7%A3%81%E6%82%AC%E6%B5%AE%E5%88%97%E8%BD%A6%E4%B9%9F%E5%A4%AA%E6%9C%89%E6%84%8F%E6%80%9D%E4%BA%86?type=general",
+      "hot_value": "8011470",
       "index": 27
     },
     {
-      "title": "旧人不知我近况",
-      "url": "https://www.douyin.com/search/%E6%97%A7%E4%BA%BA%E4%B8%8D%E7%9F%A5%E6%88%91%E8%BF%91%E5%86%B5?type=general",
-      "hot_value": "7835823",
+      "title": "BIGBANG二十周年演唱会首尔站",
+      "url": "https://www.douyin.com/search/BIGBANG%E4%BA%8C%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E9%A6%96%E5%B0%94%E7%AB%99?type=general",
+      "hot_value": "7979941",
       "index": 28
     },
     {
       "title": "子乔你快来啊 张伟和美嘉吃饭了",
       "url": "https://www.douyin.com/search/%E5%AD%90%E4%B9%94%E4%BD%A0%E5%BF%AB%E6%9D%A5%E5%95%8A%20%E5%BC%A0%E4%BC%9F%E5%92%8C%E7%BE%8E%E5%98%89%E5%90%83%E9%A5%AD%E4%BA%86?type=general",
-      "hot_value": "7835763",
+      "hot_value": "7875456",
       "index": 29
     },
     {
       "title": "中超辽宁铁人4:4河南队",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E8%B6%85%E8%BE%BD%E5%AE%81%E9%93%81%E4%BA%BA4%3A4%E6%B2%B3%E5%8D%97%E9%98%9F?type=general",
-      "hot_value": "7829707",
+      "hot_value": "7825559",
       "index": 30
     }
   ]
