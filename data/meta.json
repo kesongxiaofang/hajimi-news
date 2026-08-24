@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24T17:57:23Z",
+  "update_time": "2026-08-24T18:41:52Z",
   "platforms": [
     {
       "type": "weibo",
@@ -19,7 +19,8 @@
     {
       "type": "bilibili",
       "name": "B站热搜",
-      "count": 30
+      "count": 0,
+      "error": "IncompleteRead(27639 bytes read, 55304 more expected)"
     },
     {
       "type": "xiaohongshu",
