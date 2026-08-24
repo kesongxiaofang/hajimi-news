@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-24T01:01:25Z",
+  "update_time": "2026-08-24T02:42:52Z",
   "count": 30,
   "list": [
     {
       "title": "男子省吃俭用 20 年攒下 789 万，6 天被骗子全部转空，带来哪些警示？",
       "url": "https://www.zhihu.com/question/2074609906632626474",
-      "hot_value": "723 万热度",
+      "hot_value": "698 万热度",
       "index": 1
     },
     {
       "title": "警方通报「博主称小红书因遭举报上市失败」，造谣者已被行拘，其将承担哪些责任？此事对小红书影响有多大？",
       "url": "https://www.zhihu.com/question/2074915129171211419",
-      "hot_value": "672 万热度",
+      "hot_value": "513 万热度",
       "index": 2
-    },
-    {
-      "title": "宇树机器人 100 米预赛小组垫底，同组第一名 100 米 9 秒 39 打破人类纪录，如何本场比赛各家机器人表现？",
-      "url": "https://www.zhihu.com/question/2074793323445711007",
-      "hot_value": "205 万热度",
-      "index": 3
-    },
-    {
-      "title": "为什么很多人仍然想去日本旅游？",
-      "url": "https://www.zhihu.com/question/2073815880522322974",
-      "hot_value": "183 万热度",
-      "index": 4
-    },
-    {
-      "title": "中国足协通报「没有证据表明韩国足协对中国足协相关人士提供过『不当招待』行为」，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2074937582048081435",
-      "hot_value": "167 万热度",
-      "index": 5
-    },
-    {
-      "title": "韩红基金会救护车采购陷争议，市场监管部门称供应商已被立案调查，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2074921713666449766",
-      "hot_value": "154 万热度",
-      "index": 6
     },
     {
       "title": "为什么吉林大学实力很强投档线却很低?",
       "url": "https://www.zhihu.com/question/582884023",
+      "hot_value": "192 万热度",
+      "index": 3
+    },
+    {
+      "title": "有没有一种可能，驾驶飞机的真实难度，其实并不比驾驶汽车难很多，实际上还可能更简单？",
+      "url": "https://www.zhihu.com/question/2074622254407749780",
+      "hot_value": "183 万热度",
+      "index": 4
+    },
+    {
+      "title": "如何看待「最近是全体教师最脆弱的时候」？开学前大家都干了啥，心情怎么样？",
+      "url": "https://www.zhihu.com/question/2074826051096503369",
+      "hot_value": "145 万热度",
+      "index": 5
+    },
+    {
+      "title": "四川宜宾长宁县发生 4.7 级地震，网友称此前收到 7.7 级地震预警，为何会有这么大偏差？当地情况如何？",
+      "url": "https://www.zhihu.com/question/2075141730844636275",
+      "hot_value": "143 万热度",
+      "index": 6
+    },
+    {
+      "title": "韩红基金会救护车采购陷争议，市场监管部门称供应商已被立案调查，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2074921713666449766",
       "hot_value": "141 万热度",
       "index": 7
     },
     {
       "title": "公务员碾死醉汉被认定过失致死，当事人因影响职业生涯再申诉，还可能有怎样的认定？法律上如何分析此事？",
       "url": "https://www.zhihu.com/question/2074611538749551180",
-      "hot_value": "139 万热度",
+      "hot_value": "137 万热度",
       "index": 8
     },
     {
-      "title": "顺丰被指变相降薪，将月薪 15% 作为季度绩效奖金发放，严查着装禁上班时间拿咖啡，这是发生啥了？",
-      "url": "https://www.zhihu.com/question/2074551800313508014",
-      "hot_value": "138 万热度",
+      "title": "「泔水喂猪」被正式写入禁令，用剩菜剩饭直接喂猪有什么影响？为何禁止？",
+      "url": "https://www.zhihu.com/question/2073377322770744459",
+      "hot_value": "129 万热度",
       "index": 9
     },
     {
-      "title": "美日德英法这些国家为什么没有户口制度？",
-      "url": "https://www.zhihu.com/question/1939565638059262672",
-      "hot_value": "137 万热度",
+      "title": "嫦娥七号任务不能在今年预定窗口实施，对我国探月工程有怎样的影响？",
+      "url": "https://www.zhihu.com/question/2074956312891191359",
+      "hot_value": "128 万热度",
       "index": 10
     },
     {
       "title": "如何评价美国海军最新公开的 AIM-424「恶意」远程空空导弹？",
       "url": "https://www.zhihu.com/question/2074785102589072121",
-      "hot_value": "137 万热度",
+      "hot_value": "128 万热度",
       "index": 11
     },
     {
-      "title": "LPL2026 赛季第三赛段组内赛 BLG 2:1 AL，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2074949307891971606",
-      "hot_value": "137 万热度",
+      "title": "顺丰被指变相降薪，将月薪 15% 作为季度绩效奖金发放，严查着装禁上班时间拿咖啡，这是发生啥了？",
+      "url": "https://www.zhihu.com/question/2074551800313508014",
+      "hot_value": "128 万热度",
       "index": 12
     },
     {
-      "title": "如何评价《死神 BLEACH》中的井上织姬？",
-      "url": "https://www.zhihu.com/question/433523018",
-      "hot_value": "121 万热度",
+      "title": "月子里两位老人共同照料爆发矛盾，母亲回了老家，夹在中间该怎么解决？",
+      "url": "https://www.zhihu.com/question/2073435808497923500",
+      "hot_value": "128 万热度",
       "index": 13
     },
     {
       "title": "如何评价第二届世界人形机器人运动会？哪些比赛最能检验机器人的真实水平？",
       "url": "https://www.zhihu.com/question/2074181028135097353",
-      "hot_value": "119 万热度",
+      "hot_value": "120 万热度",
       "index": 14
     },
     {
       "title": "为什么叶文洁告诉罗辑黑暗森林法则呢？",
       "url": "https://www.zhihu.com/question/322882707",
-      "hot_value": "117 万热度",
+      "hot_value": "119 万热度",
       "index": 15
     },
     {
       "title": "郭德纲被立案调查，三场演出延期，会对其演艺事业产生哪些影响？",
       "url": "https://www.zhihu.com/question/2073858330158699952",
-      "hot_value": "116 万热度",
+      "hot_value": "118 万热度",
       "index": 16
     },
     {
-      "title": "月子里两位老人共同照料爆发矛盾，母亲回了老家，夹在中间该怎么解决？",
-      "url": "https://www.zhihu.com/question/2073435808497923500",
-      "hot_value": "115 万热度",
+      "title": "梁伟铿 / 王昶 2-0 马来西亚组合，夺得世锦赛男双冠军，国羽打破 7 年冠军荒，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2074978790678033443",
+      "hot_value": "118 万热度",
       "index": 17
     },
     {
       "title": "时隔 9 年口碑大反转，《我的前半生》2026 年突然全网爆火，真正原因到底是什么？",
       "url": "https://www.zhihu.com/question/2072741297400685952",
-      "hot_value": "114 万热度",
+      "hot_value": "115 万热度",
       "index": 18
     },
     {
-      "title": "如何评价南信大团队在《Science》上发文「中国太阳能扩张政策导致鸟类生物多样性下降」？",
-      "url": "https://www.zhihu.com/question/2074259711533266774",
-      "hot_value": "104 万热度",
+      "title": "美日德英法这些国家为什么没有户口制度？",
+      "url": "https://www.zhihu.com/question/1939565638059262672",
+      "hot_value": "113 万热度",
       "index": 19
     },
     {
-      "title": "鹰角《终末地》限定池增设大保底继承，但仅限复刻同角色，这机制对玩家是利是弊？",
-      "url": "https://www.zhihu.com/question/2074516507300716693",
-      "hot_value": "89 万热度",
+      "title": "天工队 400 米决赛以 38.15 秒夺得本届机器人运动会首金，前三名均打破人类世界纪录，怎样评价这一成绩？",
+      "url": "https://www.zhihu.com/question/2074910401557427057",
+      "hot_value": "107 万热度",
       "index": 20
     },
     {
       "title": "达利欧警告美国债务危机或三年内爆发，建议低配债券、配置黄金及少量比特币，如何看待这一观点？",
       "url": "https://www.zhihu.com/question/2074420099218514112",
-      "hot_value": "84 万热度",
+      "hot_value": "104 万热度",
       "index": 21
     },
     {
-      "title": "现在哪个行业还是蓝海？",
-      "url": "https://www.zhihu.com/question/662437470",
-      "hot_value": "80 万热度",
+      "title": "Anthropic 的 ARR 不及预期，OpenAI 比 A 社还差，AI 热潮要阶段性见顶了吗？",
+      "url": "https://www.zhihu.com/question/2073353873687671056",
+      "hot_value": "101 万热度",
       "index": 22
     },
     {
-      "title": "嫦娥七号任务不满足发射条件，不能在今年预定窗口实施，原因可能有哪些？嫦娥七号原定将完成哪些主要任务？",
-      "url": "https://www.zhihu.com/question/2072730203407606130",
-      "hot_value": "79 万热度",
+      "title": "鹰角《终末地》限定池增设大保底继承，但仅限复刻同角色，这机制对玩家是利是弊？",
+      "url": "https://www.zhihu.com/question/2074516507300716693",
+      "hot_value": "89 万热度",
       "index": 23
     },
     {
-      "title": "银行员工称考核压力大自己买 1 万，基层员工「自费上班」抗 KPI 合理吗？银行业务目前面临什么困境？",
-      "url": "https://www.zhihu.com/question/2074064812326090233",
-      "hot_value": "59 万热度",
+      "title": "2026 赛季 F1 荷兰大奖赛，诺里斯夺冠，安东内利和拉塞尔分列二三位，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2074996973665514114",
+      "hot_value": "86 万热度",
       "index": 24
     },
     {
-      "title": "TI15 决赛 Spirit 3:2 击败 VISION 夺得队史第三座 TI 冠军，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2074784919734183469",
-      "hot_value": "58 万热度",
+      "title": "8 月 23 日 LCK 常规赛收官站 HLE 2:0 T1，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2074925587341251502",
+      "hot_value": "86 万热度",
       "index": 25
     },
     {
-      "title": "为什么我们看作品里的生死之交会热泪盈眶，现实中却越来越习惯「浅社交」？",
-      "url": "https://www.zhihu.com/question/2073826158685025676",
-      "hot_value": "58 万热度",
+      "title": "如何评价南信大团队在《Science》上发文「中国太阳能扩张政策导致鸟类生物多样性下降」？",
+      "url": "https://www.zhihu.com/question/2074259711533266774",
+      "hot_value": "66 万热度",
       "index": 26
     },
     {
-      "title": "如果漠北之战李广当主帅，卫青当前将军，李广会不会和卫青一样，独青不得益封？",
-      "url": "https://www.zhihu.com/question/2073714262460180287",
-      "hot_value": "57 万热度",
+      "title": "LPL2026 赛季第三赛段组内赛 BLG 2:1 AL，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2074949307891971606",
+      "hot_value": "59 万热度",
       "index": 27
     },
     {
-      "title": "电视剧《甄嬛传》中，温实初那么好，为什么甄嬛就是不爱？",
-      "url": "https://www.zhihu.com/question/592485491",
-      "hot_value": "57 万热度",
+      "title": "如何评价《死神 BLEACH》中的井上织姬？",
+      "url": "https://www.zhihu.com/question/433523018",
+      "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢？",
-      "url": "https://www.zhihu.com/question/2065514457850176456",
+      "title": "如何看待想去互联网大厂工作但又担心工作压力大的心态？",
+      "url": "https://www.zhihu.com/question/408533485",
       "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "你在旅游途中都有哪些终身难忘的经历？",
-      "url": "https://www.zhihu.com/question/509623586",
-      "hot_value": "57 万热度",
+      "title": "为什么失速基本都存在于插电混动车型 (如 DMi 、 EMi)，而不存在于油电混动车型 (如 THS 、 iMMD)？",
+      "url": "https://www.zhihu.com/question/1903878268400141262",
+      "hot_value": "56 万热度",
       "index": 30
     }
   ]
