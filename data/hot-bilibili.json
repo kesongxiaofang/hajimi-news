@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-24T07:54:14Z",
+  "update_time": "2026-08-24T08:41:57Z",
   "count": 30,
   "list": [
     {
       "title": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
       "url": "https://www.bilibili.com/video/BV1j38B65Eyw",
-      "hot_value": "1574145播放",
+      "hot_value": "1640495播放",
       "index": 1
-    },
-    {
-      "title": "\"复活吧！我的（ ）\"",
-      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "5968659播放",
-      "index": 2
-    },
-    {
-      "title": "护理：一把斩向死亡的温柔刀",
-      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
-      "hot_value": "3007743播放",
-      "index": 3
-    },
-    {
-      "title": "以色列狠狠压力美国",
-      "url": "https://www.bilibili.com/video/BV1rg8Y6zET2",
-      "hot_value": "462236播放",
-      "index": 4
-    },
-    {
-      "title": "严肃观看儿子的历史记录",
-      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "3541012播放",
-      "index": 5
-    },
-    {
-      "title": "【纪录片TV】大乾乾被撞成两半了……",
-      "url": "https://www.bilibili.com/video/BV1db8x6VE73",
-      "hot_value": "3426347播放",
-      "index": 6
-    },
-    {
-      "title": "原创民俗AI短片《槐灯》",
-      "url": "https://www.bilibili.com/video/BV15B8z61EbV",
-      "hot_value": "1182929播放",
-      "index": 7
-    },
-    {
-      "title": "警员执法遇F-18战机坠落，6700万战损，飞行员报警求助！",
-      "url": "https://www.bilibili.com/video/BV1P38x6dET4",
-      "hot_value": "1022866播放",
-      "index": 8
-    },
-    {
-      "title": "Attention 注意别喝多",
-      "url": "https://www.bilibili.com/video/BV11S826nE2Z",
-      "hot_value": "1207081播放",
-      "index": 9
-    },
-    {
-      "title": "我做了两个一模一样的视频，你被分配到的是——真人手搓版",
-      "url": "https://www.bilibili.com/video/BV1tA8U68ESF",
-      "hot_value": "955586播放",
-      "index": 10
-    },
-    {
-      "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
-      "url": "https://www.bilibili.com/video/BV1ES876dErp",
-      "hot_value": "3879162播放",
-      "index": 11
-    },
-    {
-      "title": "《一个人坐车害怕》",
-      "url": "https://www.bilibili.com/video/BV1XM816bECa",
-      "hot_value": "1369788播放",
-      "index": 12
-    },
-    {
-      "title": "放弃一切，只为等你",
-      "url": "https://www.bilibili.com/video/BV1f38b6pE5x",
-      "hot_value": "506308播放",
-      "index": 13
-    },
-    {
-      "title": "僵 尸 进 村",
-      "url": "https://www.bilibili.com/video/BV15v8x6gEjN",
-      "hot_value": "590258播放",
-      "index": 14
     },
     {
       "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
       "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
-      "hot_value": "2619303播放",
+      "hot_value": "2748539播放",
+      "index": 2
+    },
+    {
+      "title": "原创民俗AI短片《槐灯》",
+      "url": "https://www.bilibili.com/video/BV15B8z61EbV",
+      "hot_value": "1220242播放",
+      "index": 3
+    },
+    {
+      "title": "护理：一把斩向死亡的温柔刀",
+      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
+      "hot_value": "3060622播放",
+      "index": 4
+    },
+    {
+      "title": "\"复活吧！我的（ ）\"",
+      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
+      "hot_value": "5994285播放",
+      "index": 5
+    },
+    {
+      "title": "僵 尸 进 村",
+      "url": "https://www.bilibili.com/video/BV15v8x6gEjN",
+      "hot_value": "682142播放",
+      "index": 6
+    },
+    {
+      "title": "严肃观看儿子的历史记录",
+      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+      "hot_value": "3576537播放",
+      "index": 7
+    },
+    {
+      "title": "【纪录片TV】大乾乾被撞成两半了……",
+      "url": "https://www.bilibili.com/video/BV1db8x6VE73",
+      "hot_value": "3454455播放",
+      "index": 8
+    },
+    {
+      "title": "我做了两个一模一样的视频，你被分配到的是——真人手搓版",
+      "url": "https://www.bilibili.com/video/BV1tA8U68ESF",
+      "hot_value": "992946播放",
+      "index": 9
+    },
+    {
+      "title": "以色列狠狠压力美国",
+      "url": "https://www.bilibili.com/video/BV1rg8Y6zET2",
+      "hot_value": "495668播放",
+      "index": 10
+    },
+    {
+      "title": "警员执法遇F-18战机坠落，6700万战损，飞行员报警求助！",
+      "url": "https://www.bilibili.com/video/BV1P38x6dET4",
+      "hot_value": "1058249播放",
+      "index": 11
+    },
+    {
+      "title": "Attention 注意别喝多",
+      "url": "https://www.bilibili.com/video/BV11S826nE2Z",
+      "hot_value": "1267014播放",
+      "index": 12
+    },
+    {
+      "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
+      "url": "https://www.bilibili.com/video/BV1ES876dErp",
+      "hot_value": "3968395播放",
+      "index": 13
+    },
+    {
+      "title": "【不是规则怪谈】前考古队员给即将要去考古的同学一点经验",
+      "url": "https://www.bilibili.com/video/BV1Gd846yErD",
+      "hot_value": "664480播放",
+      "index": 14
+    },
+    {
+      "title": "放弃一切，只为等你",
+      "url": "https://www.bilibili.com/video/BV1f38b6pE5x",
+      "hot_value": "542461播放",
       "index": 15
     },
     {
-      "title": "抽象新闻：8月人类迷惑行为大赏（上）",
-      "url": "https://www.bilibili.com/video/BV1CW8C66E5r",
-      "hot_value": "1338127播放",
+      "title": "《一个人坐车害怕》",
+      "url": "https://www.bilibili.com/video/BV1XM816bECa",
+      "hot_value": "1396982播放",
       "index": 16
     },
     {
-      "title": "电影里的纽约vs真实的纽约",
-      "url": "https://www.bilibili.com/video/BV1Nv8B6ZEj9",
-      "hot_value": "1055842播放",
+      "title": "325",
+      "url": "https://www.bilibili.com/video/BV1Wq846oExx",
+      "hot_value": "521869播放",
       "index": 17
     },
     {
-      "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
-      "url": "https://www.bilibili.com/video/BV1rv8m6UEiU",
-      "hot_value": "4646342播放",
+      "title": "我收容了100位粉丝到我的一辈子存档里！",
+      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
+      "hot_value": "5363328播放",
       "index": 18
-    },
-    {
-      "title": "《未定事件簿》「心乐未名」音乐会官方完整版",
-      "url": "https://www.bilibili.com/video/BV1nE826rEJ4",
-      "hot_value": "193102播放",
-      "index": 19
     },
     {
       "title": "神坛之下06｜金碧妖庭歌舞盛，觥筹交错人为宴！",
       "url": "https://www.bilibili.com/video/BV1j38B65ERd",
-      "hot_value": "1146880播放",
+      "hot_value": "1167843播放",
+      "index": 19
+    },
+    {
+      "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
+      "url": "https://www.bilibili.com/video/BV1rv8m6UEiU",
+      "hot_value": "4762782播放",
       "index": 20
     },
     {
-      "title": "《一直在思考》",
-      "url": "https://www.bilibili.com/video/BV1pC8b6hEWE",
-      "hot_value": "895881播放",
+      "title": "电影里的纽约vs真实的纽约",
+      "url": "https://www.bilibili.com/video/BV1Nv8B6ZEj9",
+      "hot_value": "1080693播放",
       "index": 21
     },
     {
       "title": "【电影·罗小黑战记2】超长配音花絮",
       "url": "https://www.bilibili.com/video/BV1aJ846uEh7",
-      "hot_value": "494983播放",
+      "hot_value": "513044播放",
       "index": 22
-    },
-    {
-      "title": "我收容了100位粉丝到我的一辈子存档里！",
-      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-      "hot_value": "5340363播放",
-      "index": 23
-    },
-    {
-      "title": "当全世界都知道你10天后成为超人1-29集超长合集爽看",
-      "url": "https://www.bilibili.com/video/BV1RT8s6zEEY",
-      "hot_value": "597799播放",
-      "index": 24
     },
     {
       "title": "浑身难受",
       "url": "https://www.bilibili.com/video/BV1Dk8t6GEpF",
-      "hot_value": "742854播放",
+      "hot_value": "765841播放",
+      "index": 23
+    },
+    {
+      "title": "原来我是只蚊子！",
+      "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
+      "hot_value": "2357621播放",
+      "index": 24
+    },
+    {
+      "title": "当全世界都知道你10天后成为超人1-29集超长合集爽看",
+      "url": "https://www.bilibili.com/video/BV1RT8s6zEEY",
+      "hot_value": "622392播放",
       "index": 25
     },
     {
-      "title": "325",
-      "url": "https://www.bilibili.com/video/BV1Wq846oExx",
-      "hot_value": "482196播放",
+      "title": "我正在烧烤…哦不是..思考..",
+      "url": "https://www.bilibili.com/video/BV1RT816FEYe",
+      "hot_value": "3622326播放",
       "index": 26
-    },
-    {
-      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
-      "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
-      "hot_value": "2224388播放",
-      "index": 27
-    },
-    {
-      "title": "李信的评分感觉又回去了，只要活着就会加分",
-      "url": "https://www.bilibili.com/video/BV1vH8h6WEtF",
-      "hot_value": "373047播放",
-      "index": 28
     },
     {
       "title": "真的...没有人类了",
       "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
-      "hot_value": "4282532播放",
+      "hot_value": "4321855播放",
+      "index": 27
+    },
+    {
+      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
+      "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
+      "hot_value": "2244195播放",
+      "index": 28
+    },
+    {
+      "title": "【本家】8-bit风格＆料理Vlog＆问答环节 - 柿崎ユウタ【カササギ】",
+      "url": "https://www.bilibili.com/video/BV1wz8464EuK",
+      "hot_value": "389521播放",
       "index": 29
     },
     {
-      "title": "【不是规则怪谈】前考古队员给即将要去考古的同学一点经验",
-      "url": "https://www.bilibili.com/video/BV1Gd846yErD",
-      "hot_value": "618145播放",
+      "title": "抽象新闻：8月人类迷惑行为大赏（上）",
+      "url": "https://www.bilibili.com/video/BV1CW8C66E5r",
+      "hot_value": "1364057播放",
       "index": 30
     }
   ]

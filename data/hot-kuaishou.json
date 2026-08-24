@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-08-24T07:54:14Z",
+  "update_time": "2026-08-24T08:41:57Z",
   "count": 30,
   "list": [
     {
       "title": "台风简拉维登陆泉州",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%AE%80%E6%8B%89%E7%BB%B4%E7%99%BB%E9%99%86%E6%B3%89%E5%B7%9E",
-      "hot_value": "1,346.7万",
+      "hot_value": "1,319.3万",
       "index": 1
     },
     {
       "title": "四台风共舞",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%8F%B0%E9%A3%8E%E5%85%B1%E8%88%9E",
-      "hot_value": "1,346.7万",
+      "hot_value": "1,319.3万",
       "index": 2
     },
     {
-      "title": "超大市场创造“中国机遇”",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B6%85%E5%A4%A7%E5%B8%82%E5%9C%BA%E5%88%9B%E9%80%A0%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87%E2%80%9D",
-      "hot_value": "1,346.6万",
+      "title": "特种机器人实力出圈",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%89%B9%E7%A7%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E5%8A%9B%E5%87%BA%E5%9C%88",
+      "hot_value": "1,318.9万",
       "index": 3
     },
     {
-      "title": "四川宜宾市长宁县发生4.7级地震",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%95%BF%E5%AE%81%E5%8E%BF%E5%8F%91%E7%94%9F4.7%E7%BA%A7%E5%9C%B0%E9%9C%87",
-      "hot_value": "1,346万",
+      "title": "第一批新生报到",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0",
+      "hot_value": "1,318.9万",
       "index": 4
     },
     {
       "title": "四六级出分",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%87%BA%E5%88%86",
-      "hot_value": "1,345.8万",
+      "hot_value": "1,318.7万",
       "index": 5
-    },
-    {
-      "title": "外省团伙盗挖陕西文物被抓",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%96%E7%9C%81%E5%9B%A2%E4%BC%99%E7%9B%97%E6%8C%96%E9%99%95%E8%A5%BF%E6%96%87%E7%89%A9%E8%A2%AB%E6%8A%93",
-      "hot_value": "1,345.8万",
-      "index": 6
-    },
-    {
-      "title": "第一批新生报到",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0",
-      "hot_value": "1,304.9万",
-      "index": 7
     },
     {
       "title": "倒着走路的忧郁神总是孤独的",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%80%92%E7%9D%80%E8%B5%B0%E8%B7%AF%E7%9A%84%E5%BF%A7%E9%83%81%E7%A5%9E%E6%80%BB%E6%98%AF%E5%AD%A4%E7%8B%AC%E7%9A%84",
-      "hot_value": "1,275.3万",
+      "hot_value": "1,318.4万",
+      "index": 6
+    },
+    {
+      "title": "外省团伙盗挖陕西文物被抓",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%96%E7%9C%81%E5%9B%A2%E4%BC%99%E7%9B%97%E6%8C%96%E9%99%95%E8%A5%BF%E6%96%87%E7%89%A9%E8%A2%AB%E6%8A%93",
+      "hot_value": "1,244.8万",
+      "index": 7
+    },
+    {
+      "title": "四川宜宾市长宁县发生4.7级地震",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%95%BF%E5%AE%81%E5%8E%BF%E5%8F%91%E7%94%9F4.7%E7%BA%A7%E5%9C%B0%E9%9C%87",
+      "hot_value": "1,102万",
       "index": 8
     },
     {
       "title": "毛石富 差一步美满",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%9B%E7%9F%B3%E5%AF%8C%20%E5%B7%AE%E4%B8%80%E6%AD%A5%E7%BE%8E%E6%BB%A1",
-      "hot_value": "1,150.4万",
+      "hot_value": "1,091万",
       "index": 9
     },
     {
-      "title": "听泉赏宝入驻快手",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%E5%85%A5%E9%A9%BB%E5%BF%AB%E6%89%8B",
-      "hot_value": "1,095.3万",
+      "title": "老九门 说你爱不爱我翻拍",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%80%81%E4%B9%9D%E9%97%A8%20%E8%AF%B4%E4%BD%A0%E7%88%B1%E4%B8%8D%E7%88%B1%E6%88%91%E7%BF%BB%E6%8B%8D",
+      "hot_value": "1,072.9万",
       "index": 10
     },
     {
       "title": "发苦丝瓜可以降火系谣言",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%91%E8%8B%A6%E4%B8%9D%E7%93%9C%E5%8F%AF%E4%BB%A5%E9%99%8D%E7%81%AB%E7%B3%BB%E8%B0%A3%E8%A8%80",
-      "hot_value": "1,080.9万",
+      "hot_value": "1,067.6万",
       "index": 11
     },
     {
-      "title": "贵州的七月满是无声的思念",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B4%B5%E5%B7%9E%E7%9A%84%E4%B8%83%E6%9C%88%E6%BB%A1%E6%98%AF%E6%97%A0%E5%A3%B0%E7%9A%84%E6%80%9D%E5%BF%B5",
-      "hot_value": "1,074.4万",
+      "title": "听泉赏宝入驻快手",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%E5%85%A5%E9%A9%BB%E5%BF%AB%E6%89%8B",
+      "hot_value": "1,016.8万",
       "index": 12
     },
     {
-      "title": "老九门 说你爱不爱我翻拍",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%80%81%E4%B9%9D%E9%97%A8%20%E8%AF%B4%E4%BD%A0%E7%88%B1%E4%B8%8D%E7%88%B1%E6%88%91%E7%BF%BB%E6%8B%8D",
-      "hot_value": "1,067万",
+      "title": "机器人离走进生产生活又近了多少",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%BB%E8%B5%B0%E8%BF%9B%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%8F%88%E8%BF%91%E4%BA%86%E5%A4%9A%E5%B0%91",
+      "hot_value": "994.6万",
       "index": 13
     },
     {
       "title": "王者荣耀版唱片转场",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%89%88%E5%94%B1%E7%89%87%E8%BD%AC%E5%9C%BA",
-      "hot_value": "1,050.2万",
+      "hot_value": "991.7万",
       "index": 14
     },
     {
       "title": "黄丹丹要去光合大会领奖啦",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%BB%84%E4%B8%B9%E4%B8%B9%E8%A6%81%E5%8E%BB%E5%85%89%E5%90%88%E5%A4%A7%E4%BC%9A%E9%A2%86%E5%A5%96%E5%95%A6",
-      "hot_value": "1,049万",
+      "hot_value": "991.3万",
       "index": 15
     },
     {
-      "title": "机器人离走进生产生活又近了多少",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%BB%E8%B5%B0%E8%BF%9B%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%8F%88%E8%BF%91%E4%BA%86%E5%A4%9A%E5%B0%91",
-      "hot_value": "1,045万",
+      "title": "今日出伏",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%8A%E6%97%A5%E5%87%BA%E4%BC%8F",
+      "hot_value": "987.2万",
       "index": 16
     },
     {
-      "title": "女子在黄河滩边玩水晶泥",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%BB%84%E6%B2%B3%E6%BB%A9%E8%BE%B9%E7%8E%A9%E6%B0%B4%E6%99%B6%E6%B3%A5",
-      "hot_value": "1,037.2万",
+      "title": "贵州的七月满是无声的思念",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B4%B5%E5%B7%9E%E7%9A%84%E4%B8%83%E6%9C%88%E6%BB%A1%E6%98%AF%E6%97%A0%E5%A3%B0%E7%9A%84%E6%80%9D%E5%BF%B5",
+      "hot_value": "984.5万",
       "index": 17
-    },
-    {
-      "title": "诡秘之主游戏抽象",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB%E6%B8%B8%E6%88%8F%E6%8A%BD%E8%B1%A1",
-      "hot_value": "1,034.5万",
-      "index": 18
     },
     {
       "title": "普京谈卡德罗夫遇袭身亡",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%99%AE%E4%BA%AC%E8%B0%88%E5%8D%A1%E5%BE%B7%E7%BD%97%E5%A4%AB%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1",
-      "hot_value": "1,029.2万",
+      "hot_value": "984.4万",
+      "index": 18
+    },
+    {
+      "title": "诡秘之主游戏抽象",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB%E6%B8%B8%E6%88%8F%E6%8A%BD%E8%B1%A1",
+      "hot_value": "972.9万",
       "index": 19
     },
     {
-      "title": "北京新发地白菜每车都检测",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%97%E4%BA%AC%E6%96%B0%E5%8F%91%E5%9C%B0%E7%99%BD%E8%8F%9C%E6%AF%8F%E8%BD%A6%E9%83%BD%E6%A3%80%E6%B5%8B",
-      "hot_value": "1,026.3万",
+      "title": "苗疆情蛊真实存在吗",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8B%97%E7%96%86%E6%83%85%E8%9B%8A%E7%9C%9F%E5%AE%9E%E5%AD%98%E5%9C%A8%E5%90%97",
+      "hot_value": "970.4万",
       "index": 20
     },
     {
       "title": "连毛石富都分手了 怎么相信爱情",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BF%9E%E6%AF%9B%E7%9F%B3%E5%AF%8C%E9%83%BD%E5%88%86%E6%89%8B%E4%BA%86%20%E6%80%8E%E4%B9%88%E7%9B%B8%E4%BF%A1%E7%88%B1%E6%83%85",
-      "hot_value": "1,023.7万",
+      "hot_value": "967.5万",
       "index": 21
+    },
+    {
+      "title": "北京新发地白菜每车都检测",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%97%E4%BA%AC%E6%96%B0%E5%8F%91%E5%9C%B0%E7%99%BD%E8%8F%9C%E6%AF%8F%E8%BD%A6%E9%83%BD%E6%A3%80%E6%B5%8B",
+      "hot_value": "965.5万",
+      "index": 22
+    },
+    {
+      "title": "小米玄戒O3正式发布",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92O3%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+      "hot_value": "960.7万",
+      "index": 23
     },
     {
       "title": "范丞丞在成都车展用这种方式出场",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9C%A8%E6%88%90%E9%83%BD%E8%BD%A6%E5%B1%95%E7%94%A8%E8%BF%99%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%87%BA%E5%9C%BA",
-      "hot_value": "1,021万",
-      "index": 22
-    },
-    {
-      "title": "今日出伏",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%8A%E6%97%A5%E5%87%BA%E4%BC%8F",
-      "hot_value": "1,018.5万",
-      "index": 23
-    },
-    {
-      "title": "秦皇岛景区因暴雨闭园",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A7%A6%E7%9A%87%E5%B2%9B%E6%99%AF%E5%8C%BA%E5%9B%A0%E6%9A%B4%E9%9B%A8%E9%97%AD%E5%9B%AD",
-      "hot_value": "1,016.3万",
+      "hot_value": "959.7万",
       "index": 24
     },
     {
-      "title": "U18亚洲杯中国男篮vs澳大利亚",
-      "url": "https://www.kuaishou.com/search/video?searchKey=U18%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A",
-      "hot_value": "1,013.9万",
+      "title": "内蒙古破获特大洗钱案",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%85%E8%92%99%E5%8F%A4%E7%A0%B4%E8%8E%B7%E7%89%B9%E5%A4%A7%E6%B4%97%E9%92%B1%E6%A1%88",
+      "hot_value": "951.3万",
       "index": 25
+    },
+    {
+      "title": "我是真觉得苗疆圣女很神啊",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E6%98%AF%E7%9C%9F%E8%A7%89%E5%BE%97%E8%8B%97%E7%96%86%E5%9C%A3%E5%A5%B3%E5%BE%88%E7%A5%9E%E5%95%8A",
+      "hot_value": "948.6万",
+      "index": 26
     },
     {
       "title": "小猪佩奇摇",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%E6%91%87",
-      "hot_value": "1,011.2万",
-      "index": 26
+      "hot_value": "946.2万",
+      "index": 27
     },
     {
       "title": "小沈阳吐槽长沙天气",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%90%90%E6%A7%BD%E9%95%BF%E6%B2%99%E5%A4%A9%E6%B0%94",
-      "hot_value": "1,009.1万",
-      "index": 27
-    },
-    {
-      "title": "一人一字唱歌挑战",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%80%E4%BA%BA%E4%B8%80%E5%AD%97%E5%94%B1%E6%AD%8C%E6%8C%91%E6%88%98",
-      "hot_value": "1,003.3万",
+      "hot_value": "943.3万",
       "index": 28
     },
     {
-      "title": "广东台风风力可达13级",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%BF%E4%B8%9C%E5%8F%B0%E9%A3%8E%E9%A3%8E%E5%8A%9B%E5%8F%AF%E8%BE%BE13%E7%BA%A7",
-      "hot_value": "994.9万",
+      "title": "台风致北京门头沟山洪暴发系谣言",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E8%87%B4%E5%8C%97%E4%BA%AC%E9%97%A8%E5%A4%B4%E6%B2%9F%E5%B1%B1%E6%B4%AA%E6%9A%B4%E5%8F%91%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "hot_value": "941.2万",
       "index": 29
     },
     {
-      "title": "这些车模也太养眼了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BF%99%E4%BA%9B%E8%BD%A6%E6%A8%A1%E4%B9%9F%E5%A4%AA%E5%85%BB%E7%9C%BC%E4%BA%86",
-      "hot_value": "985万",
+      "title": "开海后的第一顿梭子蟹",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E6%B5%B7%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E9%A1%BF%E6%A2%AD%E5%AD%90%E8%9F%B9",
+      "hot_value": "938.6万",
       "index": 30
     }
   ]
