@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-24T15:34:38Z",
+  "update_time": "2026-08-24T16:31:13Z",
   "count": 30,
   "list": [
     {
+      "title": "王中王夺冠自战解说",
+      "url": "https://www.bilibili.com/video/BV1PEhP6vERe",
+      "hot_value": "628062播放",
+      "index": 1
+    },
+    {
       "title": "放弃一切，只为等你",
       "url": "https://www.bilibili.com/video/BV1f38b6pE5x",
-      "hot_value": "1601587播放",
-      "index": 1
+      "hot_value": "1704553播放",
+      "index": 2
     },
     {
       "title": "小米玄戒O3芯片前瞻上手：外星科技！",
       "url": "https://www.bilibili.com/video/BV1fhhP6xEMp",
-      "hot_value": "738580播放",
-      "index": 2
-    },
-    {
-      "title": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
-      "url": "https://www.bilibili.com/video/BV1j38B65Eyw",
-      "hot_value": "2250078播放",
+      "hot_value": "817799播放",
       "index": 3
-    },
-    {
-      "title": "严肃观看儿子的历史记录",
-      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "4094010播放",
-      "index": 4
-    },
-    {
-      "title": "护理：一把斩向死亡的温柔刀",
-      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
-      "hot_value": "3587828播放",
-      "index": 5
     },
     {
       "title": "《新数码宝贝 · 全面战争》【8分钟管饱】",
       "url": "https://www.bilibili.com/video/BV1hN8t6BEMs",
-      "hot_value": "526838播放",
+      "hot_value": "579476播放",
+      "index": 4
+    },
+    {
+      "title": "荧：绝密黄金屋猛攻",
+      "url": "https://www.bilibili.com/video/BV1jQ8467ECp",
+      "hot_value": "813848播放",
+      "index": 5
+    },
+    {
+      "title": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
+      "url": "https://www.bilibili.com/video/BV1j38B65Eyw",
+      "hot_value": "2291280播放",
       "index": 6
     },
     {
-      "title": "王中王夺冠自战解说",
-      "url": "https://www.bilibili.com/video/BV1PEhP6vERe",
-      "hot_value": "462005播放",
+      "title": "严肃观看儿子的历史记录",
+      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+      "hot_value": "4142323播放",
       "index": 7
     },
     {
       "title": "\"复活吧！我的（ ）\"",
       "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "hot_value": "6371527播放",
+      "hot_value": "6397037播放",
       "index": 8
-    },
-    {
-      "title": "僵 尸 进 村",
-      "url": "https://www.bilibili.com/video/BV15v8x6gEjN",
-      "hot_value": "1473360播放",
-      "index": 9
     },
     {
       "title": "原创民俗AI短片《槐灯》",
       "url": "https://www.bilibili.com/video/BV15B8z61EbV",
-      "hot_value": "1711000播放",
-      "index": 10
+      "hot_value": "1742245播放",
+      "index": 9
     },
     {
-      "title": "美黑超详细操作全流程【最低损伤版】",
-      "url": "https://www.bilibili.com/video/BV1ZP8w6VExW",
-      "hot_value": "813591播放",
-      "index": 11
+      "title": "僵 尸 进 村",
+      "url": "https://www.bilibili.com/video/BV15v8x6gEjN",
+      "hot_value": "1522833播放",
+      "index": 10
     },
     {
       "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
       "url": "https://www.bilibili.com/video/BV1ES876dErp",
-      "hot_value": "4893301播放",
+      "hot_value": "4960444播放",
+      "index": 11
+    },
+    {
+      "title": "护理：一把斩向死亡的温柔刀",
+      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
+      "hot_value": "3616623播放",
       "index": 12
     },
     {
       "title": "以色列狠狠压力美国",
       "url": "https://www.bilibili.com/video/BV1rg8Y6zET2",
-      "hot_value": "1076596播放",
+      "hot_value": "1118046播放",
       "index": 13
     },
     {
-      "title": "我花600万买法拉利打理想脸，结果……",
-      "url": "https://www.bilibili.com/video/BV1k4hP6FE9d",
-      "hot_value": "251270播放",
+      "title": "美黑超详细操作全流程【最低损伤版】",
+      "url": "https://www.bilibili.com/video/BV1ZP8w6VExW",
+      "hot_value": "818692播放",
       "index": 14
+    },
+    {
+      "title": "【科学修仙】你给姐下套，姐带你打瓦...【up动画】",
+      "url": "https://www.bilibili.com/video/BV1ZL8h6tEmn",
+      "hot_value": "449294播放",
+      "index": 15
     },
     {
       "title": "原来被看见，才是最高级的心疼。#双向奔赴 #婚姻的意义 #婚后继续谈恋爱 #夫妻",
       "url": "https://www.bilibili.com/video/BV1tY8b6MEGX",
-      "hot_value": "689446播放",
-      "index": 15
+      "hot_value": "728254播放",
+      "index": 16
     },
     {
-      "title": "大起诉时代震撼内娱，《我们的少年时代2》弱势来袭",
-      "url": "https://www.bilibili.com/video/BV1rMhN6cEAg",
-      "hot_value": "281660播放",
-      "index": 16
+      "title": "《海阔天空》一个人的乐队",
+      "url": "https://www.bilibili.com/video/BV1or8e6TEte",
+      "hot_value": "200146播放",
+      "index": 17
     },
     {
       "title": "学生办事流程多，魏老师替孩子把话说",
       "url": "https://www.bilibili.com/video/BV16uhN68EpK",
-      "hot_value": "399009播放",
-      "index": 17
-    },
-    {
-      "title": "Attention 注意别喝多",
-      "url": "https://www.bilibili.com/video/BV11S826nE2Z",
-      "hot_value": "1812040播放",
+      "hot_value": "431243播放",
       "index": 18
     },
     {
-      "title": "原来我是只蚊子！",
-      "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
-      "hot_value": "2811411播放",
+      "title": "2000亿vs50000亿！高通英伟达为何在汽车领域杀红眼？",
+      "url": "https://www.bilibili.com/video/BV1Ff8v61ELT",
+      "hot_value": "262916播放",
       "index": 19
     },
     {
-      "title": "325",
-      "url": "https://www.bilibili.com/video/BV1Wq846oExx",
-      "hot_value": "854214播放",
+      "title": "高中生逃离原生家庭过程（下）",
+      "url": "https://www.bilibili.com/video/BV1Uy8x6AETG",
+      "hot_value": "137070播放",
       "index": 20
     },
     {
-      "title": "爆辣挑战",
-      "url": "https://www.bilibili.com/video/BV1KC8y62EiP",
-      "hot_value": "542135播放",
+      "title": "🦋 炼 定 仙 游 ♂ 股 🦋",
+      "url": "https://www.bilibili.com/video/BV1F58v61EXV",
+      "hot_value": "294546播放",
       "index": 21
     },
     {
-      "title": "挑战让精神小妹一天花1500，看她怎么花",
-      "url": "https://www.bilibili.com/video/BV1dw8C6REHJ",
-      "hot_value": "1927781播放",
+      "title": "5周年王炸联名，gastation运动机能合集！",
+      "url": "https://www.bilibili.com/video/BV1FGhN6bEhB",
+      "hot_value": "124680播放",
       "index": 22
     },
     {
       "title": "老吃家是怎么吃泡面的？",
       "url": "https://www.bilibili.com/video/BV18b8h6UEAF",
-      "hot_value": "481623播放",
+      "hot_value": "511663播放",
       "index": 23
     },
     {
-      "title": "【纪录片TV】大乾乾被撞成两半了……",
-      "url": "https://www.bilibili.com/video/BV1db8x6VE73",
-      "hot_value": "3738249播放",
+      "title": "325",
+      "url": "https://www.bilibili.com/video/BV1Wq846oExx",
+      "hot_value": "879610播放",
       "index": 24
+    },
+    {
+      "title": "大起诉时代震撼内娱，《我们的少年时代2》弱势来袭",
+      "url": "https://www.bilibili.com/video/BV1rMhN6cEAg",
+      "hot_value": "304818播放",
+      "index": 25
+    },
+    {
+      "title": "原来我是只蚊子！",
+      "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
+      "hot_value": "2843429播放",
+      "index": 26
+    },
+    {
+      "title": "Attention 注意别喝多",
+      "url": "https://www.bilibili.com/video/BV11S826nE2Z",
+      "hot_value": "1856227播放",
+      "index": 27
     },
     {
       "title": "神坛之下06｜金碧妖庭歌舞盛，觥筹交错人为宴！",
       "url": "https://www.bilibili.com/video/BV1j38B65ERd",
-      "hot_value": "1417917播放",
-      "index": 25
-    },
-    {
-      "title": "警员执法遇F-18战机坠落，6700万战损，飞行员报警求助！",
-      "url": "https://www.bilibili.com/video/BV1P38x6dET4",
-      "hot_value": "1432230播放",
-      "index": 26
-    },
-    {
-      "title": "⚡顽 叟 戏 老 童⚡",
-      "url": "https://www.bilibili.com/video/BV1ED8b6dEyX",
-      "hot_value": "507039播放",
-      "index": 27
-    },
-    {
-      "title": "「小白」小米玄戒O3芯片实测解析：太豪了！",
-      "url": "https://www.bilibili.com/video/BV1b68v6oEv9",
-      "hot_value": "502764播放",
+      "hot_value": "1442627播放",
       "index": 28
     },
     {
-      "title": "挑战去酒吧让调酒师调酒，不管调什么都说跟水一样",
-      "url": "https://www.bilibili.com/video/BV1k88C6iEYy",
-      "hot_value": "1233980播放",
+      "title": "理想型：你真的知道自己会喜欢谁吗？",
+      "url": "https://www.bilibili.com/video/BV1MXhP6GEoE",
+      "hot_value": "308066播放",
       "index": 29
     },
     {
-      "title": "电影里的纽约vs真实的纽约",
-      "url": "https://www.bilibili.com/video/BV1Nv8B6ZEj9",
-      "hot_value": "1360288播放",
+      "title": "爆辣挑战",
+      "url": "https://www.bilibili.com/video/BV1KC8y62EiP",
+      "hot_value": "571634播放",
       "index": 30
     }
   ]
