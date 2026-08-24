@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-08-24T09:41:34Z",
+  "update_time": "2026-08-24T10:32:43Z",
   "count": 30,
   "list": [
     {
       "title": "营造风清气正的政治生态",
       "url": "https://www.baidu.com/s?wd=%E8%90%A5%E9%80%A0%E9%A3%8E%E6%B8%85%E6%B0%94%E6%AD%A3%E7%9A%84%E6%94%BF%E6%B2%BB%E7%94%9F%E6%80%81&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904588",
+      "hot_value": "7904796",
       "index": 1
     },
     {
       "title": "敌敌畏涉事消杀公司已人去楼空",
       "url": "https://www.baidu.com/s?wd=%E6%95%8C%E6%95%8C%E7%95%8F%E6%B6%89%E4%BA%8B%E6%B6%88%E6%9D%80%E5%85%AC%E5%8F%B8%E5%B7%B2%E4%BA%BA%E5%8E%BB%E6%A5%BC%E7%A9%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7808986",
+      "hot_value": "7809614",
       "index": 2
     },
     {
       "title": "央视曝光隔空猥亵",
       "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7712442",
+      "hot_value": "7713974",
       "index": 3
     },
     {
       "title": "中国机器人跑出“中国制造”加速度",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E2%80%9D%E5%8A%A0%E9%80%9F%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7617600",
+      "hot_value": "7615940",
       "index": 4
-    },
-    {
-      "title": "6天4个台风 像流水线赶工",
-      "url": "https://www.baidu.com/s?wd=6%E5%A4%A94%E4%B8%AA%E5%8F%B0%E9%A3%8E+%E5%83%8F%E6%B5%81%E6%B0%B4%E7%BA%BF%E8%B5%B6%E5%B7%A5&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7524007",
-      "index": 5
     },
     {
       "title": "北京大学原副校长任羽中被判8年",
       "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%8E%9F%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%BB%E7%BE%BD%E4%B8%AD%E8%A2%AB%E5%88%A48%E5%B9%B4&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7427498",
+      "hot_value": "7522435",
+      "index": 5
+    },
+    {
+      "title": "国管公积金新政",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E7%AE%A1%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7426602",
       "index": 6
     },
     {
       "title": "超市散装零食何以失守",
       "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%B8%82%E6%95%A3%E8%A3%85%E9%9B%B6%E9%A3%9F%E4%BD%95%E4%BB%A5%E5%A4%B1%E5%AE%88&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7331478",
+      "hot_value": "7331968",
       "index": 7
     },
     {
       "title": "初中生4个账号养“恋人”",
       "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%AD%E7%94%9F4%E4%B8%AA%E8%B4%A6%E5%8F%B7%E5%85%BB%E2%80%9C%E6%81%8B%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7231830",
+      "hot_value": "7233866",
       "index": 8
     },
     {
-      "title": "12306回应无座票二等座同价",
-      "url": "https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7141714",
+      "title": "团伙玩“仙人跳”专坑大学生被判刑",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%A2%E4%BC%99%E7%8E%A9%E2%80%9C%E4%BB%99%E4%BA%BA%E8%B7%B3%E2%80%9D%E4%B8%93%E5%9D%91%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7136289",
       "index": 9
     },
     {
       "title": "吴宜泽爆冷不敌齐津斯",
       "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%AE%9C%E6%B3%BD%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E9%BD%90%E6%B4%A5%E6%96%AF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7041774",
+      "hot_value": "7046851",
       "index": 10
     },
     {
-      "title": "团伙玩“仙人跳”专坑大学生被判刑",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%A2%E4%BC%99%E7%8E%A9%E2%80%9C%E4%BB%99%E4%BA%BA%E8%B7%B3%E2%80%9D%E4%B8%93%E5%9D%91%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6950776",
+      "title": "12306回应无座票二等座同价",
+      "url": "https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6944554",
       "index": 11
     },
     {
       "title": "发苦的丝瓜能降火？不要信",
       "url": "https://www.baidu.com/s?wd=%E5%8F%91%E8%8B%A6%E7%9A%84%E4%B8%9D%E7%93%9C%E8%83%BD%E9%99%8D%E7%81%AB%EF%BC%9F%E4%B8%8D%E8%A6%81%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6855455",
+      "hot_value": "6848532",
       "index": 12
-    },
-    {
-      "title": "为照顾植物人丈夫 女子睡了9年沙发",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E7%85%A7%E9%A1%BE%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB+%E5%A5%B3%E5%AD%90%E7%9D%A1%E4%BA%869%E5%B9%B4%E6%B2%99%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6753481",
-      "index": 13
-    },
-    {
-      "title": "王以太吹笛子疑被工作人员吐槽难听",
-      "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BB%A5%E5%A4%AA%E5%90%B9%E7%AC%9B%E5%AD%90%E7%96%91%E8%A2%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%90%90%E6%A7%BD%E9%9A%BE%E5%90%AC&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6666645",
-      "index": 14
     },
     {
       "title": "女厕蹲便器圆孔疑有摄像头 官方回应",
       "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%8E%95%E8%B9%B2%E4%BE%BF%E5%99%A8%E5%9C%86%E5%AD%94%E7%96%91%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6562789",
-      "index": 15
+      "hot_value": "6753506",
+      "index": 13
+    },
+    {
+      "title": "香港葵涌村发生“双尸案”",
+      "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E8%91%B5%E6%B6%8C%E6%9D%91%E5%8F%91%E7%94%9F%E2%80%9C%E5%8F%8C%E5%B0%B8%E6%A1%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6666827",
+      "index": 14
     },
     {
       "title": "罗建彬被查",
       "url": "https://www.baidu.com/s?wd=%E7%BD%97%E5%BB%BA%E5%BD%AC%E8%A2%AB%E6%9F%A5&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6469708",
+      "hot_value": "6561462",
+      "index": 15
+    },
+    {
+      "title": "家长要求邻座换位被拒后破口大骂",
+      "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E8%A6%81%E6%B1%82%E9%82%BB%E5%BA%A7%E6%8D%A2%E4%BD%8D%E8%A2%AB%E6%8B%92%E5%90%8E%E7%A0%B4%E5%8F%A3%E5%A4%A7%E9%AA%82&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6467132",
       "index": 16
     },
     {
       "title": "丁俊晖：以后世界第一都是中国球员",
       "url": "https://www.baidu.com/s?wd=%E4%B8%81%E4%BF%8A%E6%99%96%EF%BC%9A%E4%BB%A5%E5%90%8E%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6378439",
+      "hot_value": "6383054",
       "index": 17
+    },
+    {
+      "title": "《仙剑3》龙套变游客短剧导演",
+      "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%BB%99%E5%89%913%E3%80%8B%E9%BE%99%E5%A5%97%E5%8F%98%E6%B8%B8%E5%AE%A2%E7%9F%AD%E5%89%A7%E5%AF%BC%E6%BC%94&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6270890",
+      "index": 18
     },
     {
       "title": "广东一镇有黑山羊遭蟒蛇袭击",
       "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%95%87%E6%9C%89%E9%BB%91%E5%B1%B1%E7%BE%8A%E9%81%AD%E8%9F%92%E8%9B%87%E8%A2%AD%E5%87%BB&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6272128",
-      "index": 18
+      "hot_value": "6189717",
+      "index": 19
+    },
+    {
+      "title": "女明星秀家世引爆韩奸清算",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%98%8E%E6%98%9F%E7%A7%80%E5%AE%B6%E4%B8%96%E5%BC%95%E7%88%86%E9%9F%A9%E5%A5%B8%E6%B8%85%E7%AE%97&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6092413",
+      "index": 20
+    },
+    {
+      "title": "全国政协副主席陈武逝世",
+      "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD%E9%99%88%E6%AD%A6%E9%80%9D%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6000957",
+      "index": 21
+    },
+    {
+      "title": "DeepSeek“峰谷调价”背后",
+      "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B3%B0%E8%B0%B7%E8%B0%83%E4%BB%B7%E2%80%9D%E8%83%8C%E5%90%8E&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5898817",
+      "index": 22
     },
     {
       "title": "俄军向士兵投放便携式激光步枪",
       "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%90%91%E5%A3%AB%E5%85%B5%E6%8A%95%E6%94%BE%E4%BE%BF%E6%90%BA%E5%BC%8F%E6%BF%80%E5%85%89%E6%AD%A5%E6%9E%AA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6183879",
-      "index": 19
-    },
-    {
-      "title": "用AI写文章 骗不了人了",
-      "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E5%86%99%E6%96%87%E7%AB%A0+%E9%AA%97%E4%B8%8D%E4%BA%86%E4%BA%BA%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6088153",
-      "index": 20
-    },
-    {
-      "title": "黄循财：新加坡绝不可成为单语社会",
-      "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%BE%AA%E8%B4%A2%EF%BC%9A%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%BB%9D%E4%B8%8D%E5%8F%AF%E6%88%90%E4%B8%BA%E5%8D%95%E8%AF%AD%E7%A4%BE%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5987302",
-      "index": 21
-    },
-    {
-      "title": "成都高新减灾研究所反驳冒名预警地震",
-      "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E9%AB%98%E6%96%B0%E5%87%8F%E7%81%BE%E7%A0%94%E7%A9%B6%E6%89%80%E5%8F%8D%E9%A9%B3%E5%86%92%E5%90%8D%E9%A2%84%E8%AD%A6%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5895129",
-      "index": 22
-    },
-    {
-      "title": "歼-16升空！直击中埃空军联合演练",
-      "url": "https://www.baidu.com/s?wd=%E6%AD%BC-16%E5%8D%87%E7%A9%BA%EF%BC%81%E7%9B%B4%E5%87%BB%E4%B8%AD%E5%9F%83%E7%A9%BA%E5%86%9B%E8%81%94%E5%90%88%E6%BC%94%E7%BB%83&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5805836",
+      "hot_value": "5798249",
       "index": 23
+    },
+    {
+      "title": "23点后睡的人“亏大了”",
+      "url": "https://www.baidu.com/s?wd=23%E7%82%B9%E5%90%8E%E7%9D%A1%E7%9A%84%E4%BA%BA%E2%80%9C%E4%BA%8F%E5%A4%A7%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5696502",
+      "index": 24
     },
     {
       "title": "连锁餐厅 敌敌畏消杀",
       "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E9%A4%90%E5%8E%85+%E6%95%8C%E6%95%8C%E7%95%8F%E6%B6%88%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5710298",
-      "index": 24
-    },
-    {
-      "title": "四川地震局：7.7级地震预警为冒名发布",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%EF%BC%9A7.7%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E4%B8%BA%E5%86%92%E5%90%8D%E5%8F%91%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5614879",
+      "hot_value": "5614433",
       "index": 25
     },
     {
-      "title": "广东省副省长李运任深圳市代市长",
-      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%89%AF%E7%9C%81%E9%95%BF%E6%9D%8E%E8%BF%90%E4%BB%BB%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%BB%A3%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5503352",
+      "title": "亚运男女篮参赛大名单",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E7%94%B7%E5%A5%B3%E7%AF%AE%E5%8F%82%E8%B5%9B%E5%A4%A7%E5%90%8D%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5525600",
       "index": 26
-    },
-    {
-      "title": "顾学明等4人被撤销全国政协委员资格",
-      "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AD%A6%E6%98%8E%E7%AD%894%E4%BA%BA%E8%A2%AB%E6%92%A4%E9%94%80%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E8%B5%84%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5423723",
-      "index": 27
-    },
-    {
-      "title": "希音今日全球发售",
-      "url": "https://www.baidu.com/s?wd=%E5%B8%8C%E9%9F%B3%E4%BB%8A%E6%97%A5%E5%85%A8%E7%90%83%E5%8F%91%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5318208",
-      "index": 28
-    },
-    {
-      "title": "上海一火锅店天降老鼠掉入菜盘",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E5%A4%A9%E9%99%8D%E8%80%81%E9%BC%A0%E6%8E%89%E5%85%A5%E8%8F%9C%E7%9B%98&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5226860",
-      "index": 29
     },
     {
       "title": "厦门通报餐厅用敌敌畏消杀",
       "url": "https://www.baidu.com/s?wd=%E5%8E%A6%E9%97%A8%E9%80%9A%E6%8A%A5%E9%A4%90%E5%8E%85%E7%94%A8%E6%95%8C%E6%95%8C%E7%95%8F%E6%B6%88%E6%9D%80&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5144574",
+      "hot_value": "5420001",
+      "index": 27
+    },
+    {
+      "title": "广东省副省长李运任深圳市代市长",
+      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%89%AF%E7%9C%81%E9%95%BF%E6%9D%8E%E8%BF%90%E4%BB%BB%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%BB%A3%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5313366",
+      "index": 28
+    },
+    {
+      "title": "顾学明等4人被撤销全国政协委员资格",
+      "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AD%A6%E6%98%8E%E7%AD%894%E4%BA%BA%E8%A2%AB%E6%92%A4%E9%94%80%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E8%B5%84%E6%A0%BC&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5224554",
+      "index": 29
+    },
+    {
+      "title": "为照顾植物人丈夫 女子睡了9年沙发",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E7%85%A7%E9%A1%BE%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB+%E5%A5%B3%E5%AD%90%E7%9D%A1%E4%BA%869%E5%B9%B4%E6%B2%99%E5%8F%91&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5117995",
       "index": 30
     }
   ]
