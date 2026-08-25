@@ -1,73 +1,73 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-25T21:22:47Z",
+  "update_time": "2026-08-25T21:52:02Z",
   "count": 30,
   "list": [
     {
       "title": "德芙七夕营销「趁男朋友不在跟暧昧对象分享」翻车，为何此类翻车频繁发生，哪里出了问题？对德芙会有影响吗？",
       "url": "https://www.zhihu.com/question/2075290376429216095",
-      "hot_value": "560 万热度",
+      "hot_value": "392 万热度",
       "index": 1
     },
     {
       "title": "舍友们提议轮流请客吃饭，不想参加也不想请，如何礼貌拒绝不被孤立？",
       "url": "https://www.zhihu.com/question/2072469113600055036",
-      "hot_value": "354 万热度",
+      "hot_value": "275 万热度",
       "index": 2
     },
     {
       "title": "教育部通知「幼儿园不能提前教授小学知识」「一年级不能布置书面作业、不进行纸笔考试」，会带来哪些影响？",
       "url": "https://www.zhihu.com/question/2075512171858023232",
-      "hot_value": "157 万热度",
+      "hot_value": "161 万热度",
       "index": 3
     },
     {
       "title": "媒体报道一斤鸭脖能买一斤牛肉一斤排骨，为什么会出现这种价格倒挂现象？鸭货真的降完价还是「刺客」吗？",
       "url": "https://www.zhihu.com/question/2074470804750854041",
-      "hot_value": "151 万热度",
+      "hot_value": "146 万热度",
       "index": 4
     },
     {
       "title": "大批 AI 博主集中停更，背后真实原因是什么，AI 内容赛道接下来会如何发展？",
       "url": "https://www.zhihu.com/question/2072979072867747736",
-      "hot_value": "146 万热度",
+      "hot_value": "131 万热度",
       "index": 5
     },
     {
       "title": "蚊子只是叮了人一下，人就要蚊子的命，这对蚊子来说公平吗？",
       "url": "https://www.zhihu.com/question/2074337665013629862",
-      "hot_value": "135 万热度",
+      "hot_value": "125 万热度",
       "index": 6
     },
     {
       "title": "多名农民称莫名成企业法人「被贷款」千万元，涉事银行已启动调查，哪些问题值得关注？",
       "url": "https://www.zhihu.com/question/2074828820763369479",
-      "hot_value": "124 万热度",
+      "hot_value": "118 万热度",
       "index": 7
     },
     {
       "title": "法国团队利用离体死后人脑组织控制机械手弹钢琴，该实验有何科学原理和伦理意义？",
       "url": "https://www.zhihu.com/question/2072671013171728562",
-      "hot_value": "118 万热度",
+      "hot_value": "114 万热度",
       "index": 8
     },
     {
-      "title": "GPT 为什么会单独给 Plus 订阅增加 5 小时限额？",
+      "title": "GPT为什么会单独给Plus订阅增加5小时限额？",
       "url": "https://www.zhihu.com/question/2075529848810911526",
-      "hot_value": "112 万热度",
+      "hot_value": "110 万热度",
       "index": 9
     },
     {
       "title": "为什么童星的发展都很一般？戏路都很窄？",
       "url": "https://www.zhihu.com/question/426538873",
-      "hot_value": "108 万热度",
+      "hot_value": "106 万热度",
       "index": 10
     },
     {
       "title": "《英雄联盟》怀旧服高调上线却迅速「塌房」，为何「情怀牌」不灵了？",
       "url": "https://www.zhihu.com/question/2075508983952061830",
-      "hot_value": "103 万热度",
+      "hot_value": "102 万热度",
       "index": 11
     },
     {
@@ -77,9 +77,9 @@
       "index": 12
     },
     {
-      "title": "如何看待索尼强调「数字游戏仅授权不出售，封号即资产清零」？你支持「全价购买≠拥有」这种做法吗？",
+      "title": "如何看待索尼强调「数字游戏仅授权不出售，封号即资产清零」？你支持“全价购买≠拥有”这种做法吗？",
       "url": "https://www.zhihu.com/question/2075302437615842186",
-      "hot_value": "78 万热度",
+      "hot_value": "77 万热度",
       "index": 13
     },
     {
@@ -89,7 +89,7 @@
       "index": 14
     },
     {
-      "title": "如何看待诺兰《奥德赛》全球吸金超 13.52 亿，力压《死侍与金刚狼》登顶影史票房最高 R 级电影？",
+      "title": "如何看待诺兰《奥德赛》全球吸金超13.52亿，力压《死侍与金刚狼》登顶影史票房最高 R 级电影？",
       "url": "https://www.zhihu.com/question/2074082605125694308",
       "hot_value": "69 万热度",
       "index": 15
@@ -107,7 +107,7 @@
       "index": 17
     },
     {
-      "title": "如何评价《冰与火之歌》中的雷加. 坦格利安？",
+      "title": "如何评价《冰与火之歌》中的雷加.坦格利安？",
       "url": "https://www.zhihu.com/question/31003496",
       "hot_value": "68 万热度",
       "index": 18
@@ -115,36 +115,36 @@
     {
       "title": "2026 金鹰奖提名揭晓，于和伟王宝强胡歌争视帝，闫妮宋佳马伊俐杨紫争视后，杨幂掉提，你看好哪些获奖？",
       "url": "https://www.zhihu.com/question/2075603608276394254",
-      "hot_value": "67 万热度",
+      "hot_value": "66 万热度",
       "index": 19
     },
     {
       "title": "人有烦恼是因为什么？",
       "url": "https://www.zhihu.com/question/2053179770339333608",
-      "hot_value": "63 万热度",
+      "hot_value": "64 万热度",
       "index": 20
     },
     {
-      "title": "董宇辉等主播走后，东方甄选少发 4 亿薪酬，新财年净赚超 5 亿元，怎样解读这一变化？东方甄选转型算成功了吗？",
+      "title": "董宇辉等主播走后，东方甄选少发4亿薪酬，新财年净赚超5亿元，怎样解读这一变化？东方甄选转型算成功了吗？",
       "url": "https://www.zhihu.com/question/2074875402359661808",
-      "hot_value": "62 万热度",
+      "hot_value": "59 万热度",
       "index": 21
+    },
+    {
+      "title": "如何看待有说法认为：AI 可以证明一些数学猜想，但AI永远成不了开创性数学宗师？",
+      "url": "https://www.zhihu.com/question/2072656982637557528",
+      "hot_value": "59 万热度",
+      "index": 22
     },
     {
       "title": "希尔顿花园等贴牌外资酒店遇冷，消费者吐槽「还不如全季亚朵」，外资酒店贴牌大法不灵了吗？为什么会这样？",
       "url": "https://www.zhihu.com/question/2075239391585484937",
-      "hot_value": "61 万热度",
-      "index": 22
-    },
-    {
-      "title": "Shein 上市估值从 1000 亿缩水到 270 亿美元，跨境电商快时尚的「黄金时代」是不是过去了？",
-      "url": "https://www.zhihu.com/question/2075160925938479869",
       "hot_value": "59 万热度",
       "index": 23
     },
     {
-      "title": "如何看待有说法认为：AI 可以证明一些数学猜想，但 AI 永远成不了开创性数学宗师？",
-      "url": "https://www.zhihu.com/question/2072656982637557528",
+      "title": "Shein 上市估值从 1000 亿缩水到 270 亿美元，跨境电商快时尚的「黄金时代」是不是过去了？",
+      "url": "https://www.zhihu.com/question/2075160925938479869",
       "hot_value": "59 万热度",
       "index": 24
     },
@@ -167,7 +167,7 @@
       "index": 27
     },
     {
-      "title": "每隔 3~5 公里设置自然弯道是高速公路设计的常识，但是为啥我们经常看到美国国家公路直得像到天堂一样？",
+      "title": "每隔3~5公里设置自然弯道是高速公路设计的常识，但是为啥我们经常看到美国国家公路直的像到天堂一样？",
       "url": "https://www.zhihu.com/question/37162221",
       "hot_value": "58 万热度",
       "index": 28
