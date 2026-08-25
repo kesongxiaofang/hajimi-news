@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-25T10:26:21Z",
+  "update_time": "2026-08-25T10:59:01Z",
   "count": 30,
   "list": [
     {
       "title": "官方确认「帮扶老人遭索赔案」店主不承担法律责任，此前被索赔 1.9 万已全额返还，这件事带给我们什么反思？",
       "url": "https://www.zhihu.com/question/2075346177952674642",
-      "hot_value": "1981 万热度",
+      "hot_value": "1885 万热度",
       "index": 1
-    },
-    {
-      "title": "陕西男子羁押期从看守所脱逃，伙同他人杀害举报人后「纸面服刑」，二审维持死刑判决，如何从法律角度解读？",
-      "url": "https://www.zhihu.com/question/2075309167955240542",
-      "hot_value": "358 万热度",
-      "index": 2
     },
     {
       "title": "德芙七夕营销「趁男朋友不在跟暧昧对象分享」翻车，为何此类翻车频繁发生，哪里出了问题？对德芙会有影响吗？",
       "url": "https://www.zhihu.com/question/2075290376429216095",
-      "hot_value": "344 万热度",
-      "index": 3
+      "hot_value": "511 万热度",
+      "index": 2
     },
     {
       "title": "如何评价 2026 年科隆游戏展「最佳移动游戏」五项提名被国产游戏包揽？谁最有可能最终获奖？",
       "url": "https://www.zhihu.com/question/2075382665461641899",
-      "hot_value": "292 万热度",
-      "index": 4
+      "hot_value": "300 万热度",
+      "index": 3
     },
     {
       "title": "董宇辉等主播走后，东方甄选少发 4 亿薪酬，新财年净赚超 5 亿元，怎样解读这一变化？东方甄选转型算成功了吗？",
       "url": "https://www.zhihu.com/question/2074875402359661808",
-      "hot_value": "258 万热度",
+      "hot_value": "264 万热度",
+      "index": 4
+    },
+    {
+      "title": "陕西男子羁押期从看守所脱逃，伙同他人杀害举报人后「纸面服刑」，二审维持死刑判决，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2075309167955240542",
+      "hot_value": "260 万热度",
       "index": 5
+    },
+    {
+      "title": "我是东北人，马上要去广东上大学了，有什么需要注意的吗？与当地人交流需要注意什么？",
+      "url": "https://www.zhihu.com/question/2064639631166120439",
+      "hot_value": "251 万热度",
+      "index": 6
     },
     {
       "title": "如何看待丁俊晖连续首轮出局后表示「不知道你们在期待什么」，丁俊晖现在在国内排第几，状态还能恢复吗？",
       "url": "https://www.zhihu.com/question/2075194548683104847",
-      "hot_value": "222 万热度",
-      "index": 6
-    },
-    {
-      "title": "想跟领导提升职的事情，又不敢当面说，发了微信没收到回复，还有必要再当面说么？",
-      "url": "https://www.zhihu.com/question/2013899900576866847",
-      "hot_value": "220 万热度",
+      "hot_value": "229 万热度",
       "index": 7
     },
     {
       "title": "法国团队利用离体死后人脑组织控制机械手弹钢琴，该实验有何科学原理和伦理意义？",
       "url": "https://www.zhihu.com/question/2072671013171728562",
-      "hot_value": "219 万热度",
+      "hot_value": "228 万热度",
       "index": 8
-    },
-    {
-      "title": "我是东北人，马上要去广东上大学了，有什么需要注意的吗？与当地人交流需要注意什么？",
-      "url": "https://www.zhihu.com/question/2064639631166120439",
-      "hot_value": "218 万热度",
-      "index": 9
     },
     {
       "title": "希尔顿花园等贴牌外资酒店遇冷，消费者吐槽「还不如全季亚朵」，外资酒店贴牌大法不灵了吗？为什么会这样？",
       "url": "https://www.zhihu.com/question/2075239391585484937",
-      "hot_value": "215 万热度",
-      "index": 10
+      "hot_value": "226 万热度",
+      "index": 9
     },
     {
       "title": "煎鸡蛋怎么蓬松？",
       "url": "https://www.zhihu.com/question/804413410",
-      "hot_value": "204 万热度",
-      "index": 11
-    },
-    {
-      "title": "为什么童星的发展都很一般？戏路都很窄？",
-      "url": "https://www.zhihu.com/question/426538873",
-      "hot_value": "174 万热度",
-      "index": 12
-    },
-    {
-      "title": "国管公积金新政发布，首套房最高可贷款 340 万元，有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2075273247394718692",
-      "hot_value": "131 万热度",
-      "index": 13
-    },
-    {
-      "title": "有什么有趣的中国文化溢出？",
-      "url": "https://www.zhihu.com/question/266630139",
-      "hot_value": "129 万热度",
-      "index": 14
+      "hot_value": "205 万热度",
+      "index": 10
     },
     {
       "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
       "url": "https://www.zhihu.com/question/2075544793917272111",
-      "hot_value": "128 万热度",
-      "index": 15
+      "hot_value": "139 万热度",
+      "index": 11
+    },
+    {
+      "title": "国管公积金新政发布，首套房最高可贷款 340 万元，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2075273247394718692",
+      "hot_value": "133 万热度",
+      "index": 12
     },
     {
       "title": "如何看待诺兰《奥德赛》全球吸金超 13.52 亿，力压《死侍与金刚狼》登顶影史票房最高 R 级电影？",
       "url": "https://www.zhihu.com/question/2074082605125694308",
+      "hot_value": "122 万热度",
+      "index": 13
+    },
+    {
+      "title": "想跟领导提升职的事情，又不敢当面说，发了微信没收到回复，还有必要再当面说么？",
+      "url": "https://www.zhihu.com/question/2013899900576866847",
       "hot_value": "121 万热度",
-      "index": 16
+      "index": 14
+    },
+    {
+      "title": "为什么童星的发展都很一般？戏路都很窄？",
+      "url": "https://www.zhihu.com/question/426538873",
+      "hot_value": "119 万热度",
+      "index": 15
     },
     {
       "title": "Shein 上市估值从 1000 亿缩水到 270 亿美元，跨境电商快时尚的「黄金时代」是不是过去了？",
       "url": "https://www.zhihu.com/question/2075160925938479869",
+      "hot_value": "105 万热度",
+      "index": 16
+    },
+    {
+      "title": "有什么有趣的中国文化溢出？",
+      "url": "https://www.zhihu.com/question/266630139",
       "hot_value": "101 万热度",
       "index": 17
     },
     {
       "title": "《士兵突击》为什么整顿的是钢七连？",
       "url": "https://www.zhihu.com/question/497428441",
-      "hot_value": "99 万热度",
+      "hot_value": "98 万热度",
       "index": 18
     },
     {
       "title": "新华社发文庆贺 AG 电子竞技俱乐部夺得 2026 世俱杯总冠军，这一奖项含金量有多大？",
       "url": "https://www.zhihu.com/question/2075258155366184377",
-      "hot_value": "96 万热度",
+      "hot_value": "97 万热度",
       "index": 19
     },
     {
       "title": "大批 AI 博主集中停更，背后真实原因是什么，AI 内容赛道接下来会如何发展？",
       "url": "https://www.zhihu.com/question/2072979072867747736",
-      "hot_value": "90 万热度",
+      "hot_value": "92 万热度",
       "index": 20
     },
     {
       "title": "金价再次突破 4700 美元，创逾 3 个月以来新高，如何解读本轮上涨？后市还有上行空间吗？",
       "url": "https://www.zhihu.com/question/2075232094306027138",
-      "hot_value": "86 万热度",
+      "hot_value": "88 万热度",
       "index": 21
     },
     {
       "title": "人民海军海空接力星夜救援重伤渔民，此次行动有哪些亮点？",
       "url": "https://www.zhihu.com/question/2074844700922614407",
-      "hot_value": "83 万热度",
+      "hot_value": "84 万热度",
       "index": 22
     },
     {
       "title": "如何看待印第安纳步行者（pacers）正在酝酿将球队的中文名换掉，你认为更合适的译名应该是什么？",
       "url": "https://www.zhihu.com/question/2075533221463159237",
-      "hot_value": "82 万热度",
+      "hot_value": "83 万热度",
       "index": 23
     },
     {
-      "title": "道交法修订草案拟调整电动自行车限速，从 15 公里调整为 20 公里，如何看待这一变化？",
-      "url": "https://www.zhihu.com/question/2075519453522143021",
-      "hot_value": "78 万热度",
+      "title": "为什么越是想‘控制情绪’，情绪反而越失控？",
+      "url": "https://www.zhihu.com/question/2042876574983256044",
+      "hot_value": "66 万热度",
       "index": 24
-    },
-    {
-      "title": "英国为何每年向乌克兰提供 30 亿英镑援助？",
-      "url": "https://www.zhihu.com/question/2073978471831828064",
-      "hot_value": "74 万热度",
-      "index": 25
-    },
-    {
-      "title": "Spirit（雪碧战队）夺冠 DOTA2 Ti15 上海 2026 年国际邀请赛，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2074989209685857381",
-      "hot_value": "70 万热度",
-      "index": 26
-    },
-    {
-      "title": "希腊联军围攻特洛伊十年，这些年里，特洛伊人吃什么？",
-      "url": "https://www.zhihu.com/question/2074552687316710498",
-      "hot_value": "68 万热度",
-      "index": 27
-    },
-    {
-      "title": "网文中主角主动帮别人算是一个大毒点吗？",
-      "url": "https://www.zhihu.com/question/2075002029907374463",
-      "hot_value": "68 万热度",
-      "index": 28
     },
     {
       "title": "科二坡道起步总是熄火，半联动到底怎么找？听声音还是看转速表？",
       "url": "https://www.zhihu.com/question/2071545206634288947",
       "hot_value": "60 万热度",
+      "index": 25
+    },
+    {
+      "title": "道交法修订草案拟调整电动自行车限速，从 15 公里调整为 20 公里，如何看待这一变化？",
+      "url": "https://www.zhihu.com/question/2075519453522143021",
+      "hot_value": "59 万热度",
+      "index": 26
+    },
+    {
+      "title": "时隔 9 年口碑大反转，《我的前半生》2026 年突然全网爆火，真正原因到底是什么？",
+      "url": "https://www.zhihu.com/question/2072741297400685952",
+      "hot_value": "59 万热度",
+      "index": 27
+    },
+    {
+      "title": "为啥地下党发报，不把电台藏在马车或者黄包车上，一边转圈一边发报？",
+      "url": "https://www.zhihu.com/question/759444244",
+      "hot_value": "59 万热度",
+      "index": 28
+    },
+    {
+      "title": "如何评价死神千年血战祸进谭第五集后井上织姬的风评直接两极反转？",
+      "url": "https://www.zhihu.com/question/2075356488051307806",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "学生发型不合格就不能进校上课，这样执行校规合理吗？中学生为什么非得剪短发？",
-      "url": "https://www.zhihu.com/question/2075500261468895102",
+      "title": "字节办公 AI 产品「豆包工作」正式发布，将 TRAE 、扣子并入豆包，如何看待这次调整？整合后会更好用吗？",
+      "url": "https://www.zhihu.com/question/2075261034382582007",
       "hot_value": "59 万热度",
       "index": 30
     }
