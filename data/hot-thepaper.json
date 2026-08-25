@@ -1,54 +1,54 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-08-25T11:33:56Z",
+  "update_time": "2026-08-25T12:38:51Z",
   "count": 20,
   "list": [
-    {
-      "title": "对话中物联冷链委专家：蔬菜冷链运输综合成本比常温高30%~50%，但损耗率极低",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33839647",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "湖南媒体：有关部门确认“施救老人遭索赔”事件中店主不承担法律责任",
       "url": "https://www.thepaper.cn/newsDetail_forward_33841768",
       "hot_value": "",
+      "index": 1
+    },
+    {
+      "title": "中国空军跨越6000公里参加联训，为何说意义非同一般",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33840874",
+      "hot_value": "",
       "index": 2
+    },
+    {
+      "title": "曾经顶流｜“广东雨神”卢大雨讲述这十年：我可能仍在梦里",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33749775",
+      "hot_value": "",
+      "index": 3
     },
     {
       "title": "“甲醛白菜”背后：利润驱动与监管困局",
       "url": "https://www.thepaper.cn/newsDetail_forward_33841778",
       "hot_value": "",
-      "index": 3
+      "index": 4
     },
     {
       "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
       "url": "https://www.thepaper.cn/newsDetail_forward_33841628",
       "hot_value": "",
-      "index": 4
+      "index": 5
     },
     {
       "title": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
       "url": "https://www.thepaper.cn/newsDetail_forward_33840657",
       "hot_value": "",
-      "index": 5
+      "index": 6
     },
     {
       "title": "马上评｜电动自行车限速上调，法律与国标能否统一？",
       "url": "https://www.thepaper.cn/newsDetail_forward_33845418",
       "hot_value": "",
-      "index": 6
+      "index": 7
     },
     {
       "title": "释疑｜加拿大对等反制美国，两国关税战打得有多凶？",
       "url": "https://www.thepaper.cn/newsDetail_forward_33841997",
-      "hot_value": "",
-      "index": 7
-    },
-    {
-      "title": "马上评丨地震预警不是儿戏：三问成都高新减灾研究所",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840654",
       "hot_value": "",
       "index": 8
     },
@@ -65,32 +65,32 @@
       "index": 10
     },
     {
-      "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33843711",
+      "title": "条漫｜“甲醛白菜”背后：一颗白菜的“保鲜”账",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33806203",
       "hot_value": "",
       "index": 11
     },
     {
-      "title": "条漫｜“甲醛白菜”背后：一颗白菜的“保鲜”账",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33806203",
+      "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33843711",
       "hot_value": "",
       "index": 12
-    },
-    {
-      "title": "中国工程院院士、歼轰7飞机总设计师陈一坚逝世",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840595",
-      "hot_value": "",
-      "index": 13
     },
     {
       "title": "机器人运动会2.0，赛出了哪些新亮点？",
       "url": "https://www.thepaper.cn/newsDetail_forward_33841913",
       "hot_value": "",
-      "index": 14
+      "index": 13
     },
     {
       "title": "“甲醛白菜”背后②｜从业者谈冷链成本：比常温货车费用高20%—30%，一些商贩不愿把白菜放冷库",
       "url": "https://www.thepaper.cn/newsDetail_forward_33845493",
+      "hot_value": "",
+      "index": 14
+    },
+    {
+      "title": "马上评｜劝退应届生“打螺丝”？套路招聘该付出代价",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33846408",
       "hot_value": "",
       "index": 15
     },
@@ -101,8 +101,8 @@
       "index": 16
     },
     {
-      "title": "59岁工人干活时被砸伤申请工伤受阻续：顺德法院驳回诉请，当事人将上诉",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840082",
+      "title": "“甲醛白菜”背后③｜从业者谈远距离运输普通低价白菜现状：正常情况均为就近销售，但有的高温地区种不出来",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33846064",
       "hot_value": "",
       "index": 17
     },
