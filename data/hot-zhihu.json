@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-26T13:50:50Z",
+  "update_time": "2026-08-26T14:39:22Z",
   "count": 30,
   "list": [
     {
       "title": "西藏日喀则吉隆口岸发生泥石流，致重大人员伤亡失联，有建筑被掩埋，目前情况如何？",
       "url": "https://www.zhihu.com/question/2075969425702741132",
-      "hot_value": "6986 万热度",
+      "hot_value": "7915 万热度",
       "index": 1
     },
     {
       "title": "如何评价粥饼伦天津鸡蛋灌饼店因为房租从 13 万上涨到 20 万被迫宣布暂停营业？为什么现在房东矛盾这么大？",
       "url": "https://www.zhihu.com/question/2075488229747339425",
-      "hot_value": "1407 万热度",
+      "hot_value": "1641 万热度",
       "index": 2
-    },
-    {
-      "title": "为什么看不到男人四五个人结伴一起去旅行的？",
-      "url": "https://www.zhihu.com/question/2074380142697244011",
-      "hot_value": "427 万热度",
-      "index": 3
-    },
-    {
-      "title": "刘翔向网友求助，称体育局让他「买断」或「当教练上班」，上海体育局回应依规推进，这两种方式有啥利弊？",
-      "url": "https://www.zhihu.com/question/2076005979435393256",
-      "hot_value": "361 万热度",
-      "index": 4
-    },
-    {
-      "title": "直播：西藏吉隆遭受泥石流灾害，关注最新情况",
-      "url": "https://www.zhihu.com/theater/74689",
-      "hot_value": "350 万热度",
-      "index": 5
     },
     {
       "title": "德芙就「趁男朋友不在跟暧昧对象分享」文案道歉，称由第三方运营团队创作发布，德芙在管理上存在哪些问题？",
       "url": "https://www.zhihu.com/question/2075743712588608931",
-      "hot_value": "338 万热度",
-      "index": 6
+      "hot_value": "355 万热度",
+      "index": 3
     },
     {
-      "title": "为什么身边的中年男人不是热衷炒股，就是热衷钓鱼？",
-      "url": "https://www.zhihu.com/question/1908287806243046421",
-      "hot_value": "155 万热度",
-      "index": 7
+      "title": "为什么看不到男人四五个人结伴一起去旅行的？",
+      "url": "https://www.zhihu.com/question/2074380142697244011",
+      "hot_value": "165 万热度",
+      "index": 4
     },
     {
       "title": "瓶装水在开封后，多久会变质？",
       "url": "https://www.zhihu.com/question/2074882831344460896",
-      "hot_value": "123 万热度",
-      "index": 8
-    },
-    {
-      "title": "我妈把芒果核留给我老公，我指出这样做不对，我错了么？",
-      "url": "https://www.zhihu.com/question/2075499349363245933",
-      "hot_value": "118 万热度",
-      "index": 9
-    },
-    {
-      "title": "亚运会预算连续超标，日本安排大量运动员入住集装箱房，预算都去哪儿了？对运动员会产生哪些影响？",
-      "url": "https://www.zhihu.com/question/2075673193386176934",
-      "hot_value": "93 万热度",
-      "index": 10
-    },
-    {
-      "title": "一架美军运输机降落在俄罗斯莫斯科，这一罕见事件引发关注，还有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2075648179723301021",
-      "hot_value": "90 万热度",
-      "index": 11
+      "hot_value": "108 万热度",
+      "index": 5
     },
     {
       "title": "《欢迎来龙餐馆》如果徐福死了，这部电影会不会效果更好？",
       "url": "https://www.zhihu.com/question/2075247117547868427",
-      "hot_value": "88 万热度",
-      "index": 12
+      "hot_value": "81 万热度",
+      "index": 6
+    },
+    {
+      "title": "如何评价在科隆游戏展上米哈游新作《星布谷地》官宣将在 2026 年冬季公测上线？",
+      "url": "https://www.zhihu.com/question/2075783610246894954",
+      "hot_value": "80 万热度",
+      "index": 7
+    },
+    {
+      "title": "我妈把芒果核留给我老公，我指出这样做不对，我错了么？",
+      "url": "https://www.zhihu.com/question/2075499349363245933",
+      "hot_value": "79 万热度",
+      "index": 8
+    },
+    {
+      "title": "「帮扶老人反被索赔」事件，老人家属算敲诈勒索吗？为何法律无责却仍需赔偿？该怎样终结「和稀泥式调解」？",
+      "url": "https://www.zhihu.com/question/2075893197289383268",
+      "hot_value": "78 万热度",
+      "index": 9
+    },
+    {
+      "title": "直播：西藏吉隆遭受泥石流灾害，关注最新情况",
+      "url": "https://www.zhihu.com/theater/74689",
+      "hot_value": "77 万热度",
+      "index": 10
+    },
+    {
+      "title": "为什么身边的中年男人不是热衷炒股，就是热衷钓鱼？",
+      "url": "https://www.zhihu.com/question/1908287806243046421",
+      "hot_value": "76 万热度",
+      "index": 11
     },
     {
       "title": "古代的水井把木制水桶扔下去真的能打到水吗，不会浮在水面上吗？",
       "url": "https://www.zhihu.com/question/2075142319532160961",
-      "hot_value": "86 万热度",
+      "hot_value": "72 万热度",
+      "index": 12
+    },
+    {
+      "title": "宇树科技股价跌破 600 元，市值一周缩水超 2000 亿元，如何看待这一轮估值大幅回撤？",
+      "url": "https://www.zhihu.com/question/2075971828472877691",
+      "hot_value": "69 万热度",
       "index": 13
     },
     {
-      "title": "为什么戴拿奥特曼的人气远远不如迪迦奥特曼？",
-      "url": "https://www.zhihu.com/question/463158988",
-      "hot_value": "75 万热度",
+      "title": "网传 DeepSeek 深度思考模式会偷偷给用户取外号，这是真的吗？为什么会出现这种情况？",
+      "url": "https://www.zhihu.com/question/2070165569941287944",
+      "hot_value": "67 万热度",
       "index": 14
     },
     {
       "title": "赛力斯中报巨亏，问界 M6 走量预期落空，如何评价华为智选车模式？",
       "url": "https://www.zhihu.com/question/2074228962302093110",
-      "hot_value": "70 万热度",
+      "hot_value": "66 万热度",
       "index": 15
     },
     {
-      "title": "近期速成车成为讨论热点，仰望 U7 路测 1049 万公里，更用九天跑完三万公里，如何评价？",
-      "url": "https://www.zhihu.com/question/2075891220459566473",
-      "hot_value": "68 万热度",
+      "title": "计算机领域有哪些设计失败或已经落后但由于历史原因仍然被大规模使用的技术？",
+      "url": "https://www.zhihu.com/question/421524609",
+      "hot_value": "65 万热度",
       "index": 16
-    },
-    {
-      "title": "米哈游《源初之结》会是抽卡养成游戏吗？",
-      "url": "https://www.zhihu.com/question/2075865344212723017",
-      "hot_value": "66 万热度",
-      "index": 17
-    },
-    {
-      "title": "你听过哪些名字奇怪的美食？",
-      "url": "https://www.zhihu.com/question/1893287455005852394",
-      "hot_value": "65 万热度",
-      "index": 18
-    },
-    {
-      "title": "一个人每天写日记能有什么改变?",
-      "url": "https://www.zhihu.com/question/6559929164",
-      "hot_value": "65 万热度",
-      "index": 19
     },
     {
       "title": "统计学有没有很接近纯数前沿的理论？",
       "url": "https://www.zhihu.com/question/664125088",
-      "hot_value": "63 万热度",
+      "hot_value": "60 万热度",
+      "index": 17
+    },
+    {
+      "title": "亚运会预算连续超标，日本安排大量运动员入住集装箱房，预算都去哪儿了？对运动员会产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2075673193386176934",
+      "hot_value": "59 万热度",
+      "index": 18
+    },
+    {
+      "title": "有哪些关于广州的冷知识？",
+      "url": "https://www.zhihu.com/question/52681728",
+      "hot_value": "58 万热度",
+      "index": 19
+    },
+    {
+      "title": "为什么武侠游戏里的「毒」只剩下「掉血」这一种功能？",
+      "url": "https://www.zhihu.com/question/2072368553370579649",
+      "hot_value": "58 万热度",
       "index": 20
     },
     {
-      "title": "中国女子在泰国遭 4 名泰国男子绑架送往泰缅边境，跳车自救，还有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2075353333452256735",
-      "hot_value": "59 万热度",
+      "title": "一架美军运输机降落在俄罗斯莫斯科，这一罕见事件引发关注，还有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2075648179723301021",
+      "hot_value": "58 万热度",
       "index": 21
     },
     {
-      "title": "坐标西部的朋友，拼多多包邮后你都买了哪些以前不敢想的东西？",
-      "url": "https://www.zhihu.com/question/2075901520046993482",
-      "hot_value": "59 万热度",
+      "title": "郑钦文有天赋也努力，为何感觉她和当年的李娜比，还是差一点意思?",
+      "url": "https://www.zhihu.com/question/750838307",
+      "hot_value": "58 万热度",
       "index": 22
     },
     {
-      "title": "种草了 NAS，听说耗电量大，是真的吗？大概是个什么水平？",
-      "url": "https://www.zhihu.com/question/2062550505033654849",
-      "hot_value": "59 万热度",
+      "title": "利雅得胜利十人作战 3‑2 逆转，C 罗半场 6.3 分被换下，如何评价他本场的表现？",
+      "url": "https://www.zhihu.com/question/2075849519124817860",
+      "hot_value": "58 万热度",
       "index": 23
     },
     {
-      "title": "开学升级电脑存储，固态硬盘优先大容量，还是优先更快读写速度？",
-      "url": "https://www.zhihu.com/question/2072091573605627436",
-      "hot_value": "59 万热度",
+      "title": "比特币自 5 月中旬以来首次突破 8 万美元，彻底告别底部区间了吗？如何看待加密资产与美债、黄金的联动逻辑？",
+      "url": "https://www.zhihu.com/question/2075531079084138776",
+      "hot_value": "58 万热度",
       "index": 24
     },
     {
-      "title": "黄瓜怎么做才能好吃又不普通？",
-      "url": "https://www.zhihu.com/question/11713047593",
-      "hot_value": "59 万热度",
+      "title": "武侠游戏里学了绝世武功，却要跑去帮 NPC 找鸡找狗，这些江湖琐事到底是在营造「侠气」还是稀释「侠气」？",
+      "url": "https://www.zhihu.com/question/2064060037836936211",
+      "hot_value": "58 万热度",
       "index": 25
     },
     {
-      "title": "看全英文原著书籍能提高阅读水平吗？",
-      "url": "https://www.zhihu.com/question/294774277",
-      "hot_value": "59 万热度",
+      "title": "网易都市开放世界《无限大》确认亮相 8 月 26 日科隆游戏展开幕夜，你对这款游戏有什么期待？",
+      "url": "https://www.zhihu.com/question/2073372117282963766",
+      "hot_value": "58 万热度",
       "index": 26
     },
     {
-      "title": "比起一见钟情，为什么越来越多观众更相信慢慢靠近的爱情？",
-      "url": "https://www.zhihu.com/question/2072666413924348933",
-      "hot_value": "59 万热度",
+      "title": "如何评价 2026 年 8 月米哈游《崩坏星穹铁道》4.5 版本剧情任务【挥掷千星的筹码】？",
+      "url": "https://www.zhihu.com/question/2075634392815367816",
+      "hot_value": "58 万热度",
       "index": 27
-    },
-    {
-      "title": "广西有什么好酒？",
-      "url": "https://www.zhihu.com/question/341971372",
-      "hot_value": "59 万热度",
-      "index": 28
     },
     {
       "title": "刘备「织席贩履」出身，为什么会得到一大群英雄豪杰追随？",
       "url": "https://www.zhihu.com/question/7391156803",
-      "hot_value": "59 万热度",
+      "hot_value": "58 万热度",
+      "index": 28
+    },
+    {
+      "title": "极简生活和懒人生活，二者之间有哪些共同点和本质区别？",
+      "url": "https://www.zhihu.com/question/2071537856292577572",
+      "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "如何看待《生万物》杨幂掉提 2026 金鹰奖女主，而女配双提名？你怎么看杨幂在剧里的表现？",
-      "url": "https://www.zhihu.com/question/2075613873256625839",
-      "hot_value": "59 万热度",
+      "title": "你听过哪些名字奇怪的美食？",
+      "url": "https://www.zhihu.com/question/1893287455005852394",
+      "hot_value": "58 万热度",
       "index": 30
     }
   ]
