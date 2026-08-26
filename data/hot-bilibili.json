@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-26T06:01:47Z",
+  "update_time": "2026-08-26T07:24:22Z",
   "count": 30,
   "list": [
     {
       "title": "《无限大》定档预告丨27年1月15日全球上线",
       "url": "https://www.bilibili.com/video/BV15EhG6qEAg",
-      "hot_value": "5863577播放",
+      "hot_value": "7051384播放",
       "index": 1
     },
     {
       "title": "源初之结首曝PV「诸神入刃，斩尽死结」",
       "url": "https://www.bilibili.com/video/BV1erhL6EE6k",
-      "hot_value": "1820809播放",
+      "hot_value": "2159631播放",
       "index": 2
     },
     {
       "title": "世界伊始——《伊莫》全球上线定档：PC端9月16日 移动端9月23日！",
       "url": "https://www.bilibili.com/video/BV1wwhG6JEnc",
-      "hot_value": "777265播放",
+      "hot_value": "1004328播放",
       "index": 3
-    },
-    {
-      "title": "经历四世轮回，只为回到你的身边",
-      "url": "https://www.bilibili.com/video/BV16uhN68EUC",
-      "hot_value": "4485289播放",
-      "index": 4
-    },
-    {
-      "title": "贱谍过家家（8）",
-      "url": "https://www.bilibili.com/video/BV1gLhK6LEcb",
-      "hot_value": "4178805播放",
-      "index": 5
-    },
-    {
-      "title": "《崩坏：星穹铁道》知更鸟•晴歌角色PV——「追赶风的方向」",
-      "url": "https://www.bilibili.com/video/BV1oyhM6AETw",
-      "hot_value": "3073436播放",
-      "index": 6
-    },
-    {
-      "title": "在凤凰古城碰到一位无臂骑手，白天跑外卖，晚上写字谋生，给经历磨难却依旧坚毅的向阳点个赞",
-      "url": "https://www.bilibili.com/video/BV16sh36yEHP",
-      "hot_value": "1013815播放",
-      "index": 7
-    },
-    {
-      "title": "谁能坚持到最后？",
-      "url": "https://www.bilibili.com/video/BV18XhP6GExJ",
-      "hot_value": "2637441播放",
-      "index": 8
-    },
-    {
-      "title": "《动物朋克》最新预告&实机演示 | 国产动作新游登陆科隆展",
-      "url": "https://www.bilibili.com/video/BV1jfhA6EEMw",
-      "hot_value": "1991358播放",
-      "index": 9
-    },
-    {
-      "title": "《巫师 3：狂猎 — 重制版》｜官宣预告片",
-      "url": "https://www.bilibili.com/video/BV1XAhL65E5h",
-      "hot_value": "721699播放",
-      "index": 10
-    },
-    {
-      "title": "《昭和米国物语》科隆游戏展实机预告",
-      "url": "https://www.bilibili.com/video/BV1aUhL6CEBD",
-      "hot_value": "884116播放",
-      "index": 11
     },
     {
       "title": "国产单机《湮灭之潮》全新宣传片 | 旧日之纱",
       "url": "https://www.bilibili.com/video/BV1418q6wERg",
-      "hot_value": "647804播放",
-      "index": 12
+      "hot_value": "957714播放",
+      "index": 4
     },
     {
-      "title": "员工要陪老板演戏吗？我真去影视飓风上班了...",
-      "url": "https://www.bilibili.com/video/BV1AxhK6BE2j",
-      "hot_value": "1907396播放",
-      "index": 13
+      "title": "经历四世轮回，只为回到你的身边",
+      "url": "https://www.bilibili.com/video/BV16uhN68EUC",
+      "hot_value": "4807237播放",
+      "index": 5
     },
     {
-      "title": "王中王夺冠自战解说",
-      "url": "https://www.bilibili.com/video/BV1PEhP6vERe",
-      "hot_value": "4039034播放",
-      "index": 14
-    },
-    {
-      "title": "《低智商犯罪》",
-      "url": "https://www.bilibili.com/video/BV1USh364EgF",
-      "hot_value": "632506播放",
-      "index": 15
+      "title": "《动物朋克》最新预告&实机演示 | 国产动作新游登陆科隆展",
+      "url": "https://www.bilibili.com/video/BV1jfhA6EEMw",
+      "hot_value": "2385640播放",
+      "index": 6
     },
     {
       "title": "《白银之城》gamescom 2026参展PV | 真相之债",
       "url": "https://www.bilibili.com/video/BV1J2hA64EDC",
-      "hot_value": "377019播放",
-      "index": 16
+      "hot_value": "633027播放",
+      "index": 7
     },
     {
-      "title": "第四集 | 🐧雷斯：“我变成御姐了？！”🐧",
-      "url": "https://www.bilibili.com/video/BV11whN6NEW1",
-      "hot_value": "1566222播放",
-      "index": 17
+      "title": "在凤凰古城碰到一位无臂骑手，白天跑外卖，晚上写字谋生，给经历磨难却依旧坚毅的向阳点个赞",
+      "url": "https://www.bilibili.com/video/BV16sh36yEHP",
+      "hot_value": "1152673播放",
+      "index": 8
     },
     {
-      "title": "《星布谷地》连接PV：「连接测试」招募开启，公测定档2026冬季",
-      "url": "https://www.bilibili.com/video/BV1b4hG6wEqb",
-      "hot_value": "563704播放",
-      "index": 18
+      "title": "谁能坚持到最后？",
+      "url": "https://www.bilibili.com/video/BV18XhP6GExJ",
+      "hot_value": "2837042播放",
+      "index": 9
     },
     {
-      "title": "全国首测！头文字D主角车，谁最快？",
-      "url": "https://www.bilibili.com/video/BV1zmhA6dEkd",
-      "hot_value": "932890播放",
-      "index": 19
+      "title": "贱谍过家家（8）",
+      "url": "https://www.bilibili.com/video/BV1gLhK6LEcb",
+      "hot_value": "4311373播放",
+      "index": 10
     },
     {
-      "title": "我的奥迪能飞 quattro想要 quattro得到",
-      "url": "https://www.bilibili.com/video/BV15V8K6XEaB",
-      "hot_value": "2330991播放",
-      "index": 20
+      "title": "员工要陪老板演戏吗？我真去影视飓风上班了...",
+      "url": "https://www.bilibili.com/video/BV1AxhK6BE2j",
+      "hot_value": "2148368播放",
+      "index": 11
+    },
+    {
+      "title": "超罕见，工程机维修",
+      "url": "https://www.bilibili.com/video/BV1y9h369Eb9",
+      "hot_value": "1041566播放",
+      "index": 12
+    },
+    {
+      "title": "《崩坏：星穹铁道》知更鸟•晴歌角色PV——「追赶风的方向」",
+      "url": "https://www.bilibili.com/video/BV1oyhM6AETw",
+      "hot_value": "3130371播放",
+      "index": 13
     },
     {
       "title": "高中生逃离原生家庭过程（下）",
       "url": "https://www.bilibili.com/video/BV1Uy8x6AETG",
-      "hot_value": "2513652播放",
-      "index": 21
+      "hot_value": "2856075播放",
+      "index": 14
     },
     {
-      "title": "我找了3000人进行高考生存挑战！",
-      "url": "https://www.bilibili.com/video/BV1Dz8v6tEMH",
-      "hot_value": "1111665播放",
-      "index": 22
+      "title": "王中王夺冠自战解说",
+      "url": "https://www.bilibili.com/video/BV1PEhP6vERe",
+      "hot_value": "4128941播放",
+      "index": 15
     },
     {
-      "title": "开战！开战！万税爷向一切反对派开战",
-      "url": "https://www.bilibili.com/video/BV1eohG6rESA",
-      "hot_value": "991957播放",
-      "index": 23
+      "title": "打卡！打工！打钱！《异克斯小队》首曝PV",
+      "url": "https://www.bilibili.com/video/BV1SuhV6aE77",
+      "hot_value": "1692604播放",
+      "index": 16
     },
     {
-      "title": "极限接力！每人仅有十分钟！时间清零强制接棒？！！「天门接力挑战」",
-      "url": "https://www.bilibili.com/video/BV1vxhj6EEFc",
-      "hot_value": "201318播放",
-      "index": 24
+      "title": "《昭和米国物语》科隆游戏展实机预告",
+      "url": "https://www.bilibili.com/video/BV1aUhL6CEBD",
+      "hot_value": "993753播放",
+      "index": 17
+    },
+    {
+      "title": "《巫师 3：狂猎 — 重制版》｜官宣预告片",
+      "url": "https://www.bilibili.com/video/BV1XAhL65E5h",
+      "hot_value": "815809播放",
+      "index": 18
     },
     {
       "title": "小猫们又把自己困在各种危险的地方",
       "url": "https://www.bilibili.com/video/BV1dXhG6VE2Q",
-      "hot_value": "607537播放",
-      "index": 25
+      "hot_value": "743531播放",
+      "index": 19
+    },
+    {
+      "title": "“得妻如此，夫复何求”【如果可以DJ-变速】【纯爱牛逼の小曲】",
+      "url": "https://www.bilibili.com/video/BV1VXhg6iEya",
+      "hot_value": "564845播放",
+      "index": 20
+    },
+    {
+      "title": "《低智商犯罪》",
+      "url": "https://www.bilibili.com/video/BV1USh364EgF",
+      "hot_value": "711911播放",
+      "index": 21
     },
     {
       "title": "你 钓 不 过 我 你 信 吗（下）",
       "url": "https://www.bilibili.com/video/BV1kEhV6xERa",
-      "hot_value": "643970播放",
+      "hot_value": "747668播放",
+      "index": 22
+    },
+    {
+      "title": "快叫你朋友来看扎气球挑战",
+      "url": "https://www.bilibili.com/video/BV1ryhA6ZETQ",
+      "hot_value": "1495846播放",
+      "index": 23
+    },
+    {
+      "title": "全国首测！头文字D主角车，谁最快？",
+      "url": "https://www.bilibili.com/video/BV1zmhA6dEkd",
+      "hot_value": "990855播放",
+      "index": 24
+    },
+    {
+      "title": "流落空岛，开局只有一个普通的转化桌",
+      "url": "https://www.bilibili.com/video/BV1WKhj6wECG",
+      "hot_value": "366701播放",
+      "index": 25
+    },
+    {
+      "title": "这盘棋已经赢不了，只能把对面打死了！",
+      "url": "https://www.bilibili.com/video/BV1DR8e6tE3P",
+      "hot_value": "1331806播放",
       "index": 26
     },
     {
-      "title": "黑乌龟历险记vol.1",
-      "url": "https://www.bilibili.com/video/BV1dQhg6TET6",
-      "hot_value": "2190955播放",
+      "title": "课本可以被篡改，但历史不会。 #勿忘国耻 #铭记历史 #真相 #历史罪证",
+      "url": "https://www.bilibili.com/video/BV1MEhK6VE1w",
+      "hot_value": "823847播放",
       "index": 27
     },
     {
-      "title": "新三国up锐评神探狄仁杰13：真的是你！真的是你呀！",
-      "url": "https://www.bilibili.com/video/BV1YBhV6kEdV",
-      "hot_value": "173250播放",
+      "title": "国外小女孩都这么早熟吗？这要怎么聊？！",
+      "url": "https://www.bilibili.com/video/BV1AYhg6JEBq",
+      "hot_value": "1095403播放",
       "index": 28
     },
     {
-      "title": "外媒骂“战厨”，中东人骂骑墙，为什么我觉得《龙餐馆》很明智？【毒舌的南瓜】",
-      "url": "https://www.bilibili.com/video/BV1GVhg6AERT",
-      "hot_value": "693677播放",
+      "title": "【循环歌单】【苦命の小曲】“珍惜眼前人”“这是我能守护你的最后一个方式”红色高跟鞋 (混音DJ)”",
+      "url": "https://www.bilibili.com/video/BV1pXhu62EEi",
+      "hot_value": "1210013播放",
       "index": 29
     },
     {
-      "title": "手机这一块",
-      "url": "https://www.bilibili.com/video/BV1i9hG6CEcG",
-      "hot_value": "920495播放",
+      "title": "极限接力！每人仅有十分钟！时间清零强制接棒？！！「天门接力挑战」",
+      "url": "https://www.bilibili.com/video/BV1vxhj6EEFc",
+      "hot_value": "250203播放",
       "index": 30
     }
   ]
