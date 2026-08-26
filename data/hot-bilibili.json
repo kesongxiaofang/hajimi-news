@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-26T16:13:58Z",
+  "update_time": "2026-08-26T18:13:29Z",
   "count": 30,
   "list": [
     {
       "title": "国产单机《湮灭之潮》全新宣传片 | 旧日之纱",
       "url": "https://www.bilibili.com/video/BV1418q6wERg",
-      "hot_value": "2662920播放",
+      "hot_value": "2846377播放",
       "index": 1
     },
     {
       "title": "“得妻如此，夫复何求”【如果可以DJ-变速】【纯爱牛逼の小曲】",
       "url": "https://www.bilibili.com/video/BV1VXhg6iEya",
-      "hot_value": "2199209播放",
+      "hot_value": "2460705播放",
       "index": 2
-    },
-    {
-      "title": "《无限大》定档预告丨27年1月15日全球上线",
-      "url": "https://www.bilibili.com/video/BV15EhG6qEAg",
-      "hot_value": "8922194播放",
-      "index": 3
-    },
-    {
-      "title": "源初之结首曝PV「诸神入刃，斩尽死结」",
-      "url": "https://www.bilibili.com/video/BV1erhL6EE6k",
-      "hot_value": "3430451播放",
-      "index": 4
     },
     {
       "title": "打卡！打工！打钱！《异克斯小队》首曝PV",
       "url": "https://www.bilibili.com/video/BV1SuhV6aE77",
-      "hot_value": "3577960播放",
-      "index": 5
+      "hot_value": "3664861播放",
+      "index": 3
+    },
+    {
+      "title": "《无限大》定档预告丨27年1月15日全球上线",
+      "url": "https://www.bilibili.com/video/BV15EhG6qEAg",
+      "hot_value": "8978247播放",
+      "index": 4
     },
     {
       "title": "世界伊始——《伊莫》全球上线定档：PC端9月16日 移动端9月23日！",
       "url": "https://www.bilibili.com/video/BV1wwhG6JEnc",
-      "hot_value": "2463190播放",
+      "hot_value": "2516900播放",
+      "index": 5
+    },
+    {
+      "title": "源初之结首曝PV「诸神入刃，斩尽死结」",
+      "url": "https://www.bilibili.com/video/BV1erhL6EE6k",
+      "hot_value": "3487142播放",
       "index": 6
-    },
-    {
-      "title": "《动物朋克》最新预告&实机演示 | 国产动作新游登陆科隆展",
-      "url": "https://www.bilibili.com/video/BV1jfhA6EEMw",
-      "hot_value": "4087678播放",
-      "index": 7
-    },
-    {
-      "title": "在凤凰古城碰到一位无臂骑手，白天跑外卖，晚上写字谋生，给经历磨难却依旧坚毅的向阳点个赞",
-      "url": "https://www.bilibili.com/video/BV16sh36yEHP",
-      "hot_value": "1908040播放",
-      "index": 8
     },
     {
       "title": "非洲淘金，一场黄金背后的生死赌局。",
       "url": "https://www.bilibili.com/video/BV17E896RE5G",
-      "hot_value": "631234播放",
+      "hot_value": "701501播放",
+      "index": 7
+    },
+    {
+      "title": "《动物朋克》最新预告&实机演示 | 国产动作新游登陆科隆展",
+      "url": "https://www.bilibili.com/video/BV1jfhA6EEMw",
+      "hot_value": "4132491播放",
+      "index": 8
+    },
+    {
+      "title": "舒服",
+      "url": "https://www.bilibili.com/video/BV18Q8X6VEw3",
+      "hot_value": "680893播放",
       "index": 9
     },
     {
       "title": "《钱》金钱是什么？",
       "url": "https://www.bilibili.com/video/BV1C2896vEbQ",
-      "hot_value": "362028播放",
+      "hot_value": "459338播放",
       "index": 10
     },
     {
-      "title": "舒服",
-      "url": "https://www.bilibili.com/video/BV18Q8X6VEw3",
-      "hot_value": "555653播放",
+      "title": "在凤凰古城碰到一位无臂骑手，白天跑外卖，晚上写字谋生，给经历磨难却依旧坚毅的向阳点个赞",
+      "url": "https://www.bilibili.com/video/BV16sh36yEHP",
+      "hot_value": "1955798播放",
       "index": 11
     },
     {
-      "title": "高中生逃离原生家庭过程（下）",
-      "url": "https://www.bilibili.com/video/BV1Uy8x6AETG",
-      "hot_value": "4261385播放",
+      "title": "经历四世轮回，只为回到你的身边",
+      "url": "https://www.bilibili.com/video/BV16uhN68EUC",
+      "hot_value": "6048268播放",
       "index": 12
     },
     {
       "title": "贱谍过家家（8）",
       "url": "https://www.bilibili.com/video/BV1gLhK6LEcb",
-      "hot_value": "4923233播放",
+      "hot_value": "4970864播放",
       "index": 13
     },
     {
-      "title": "经历四世轮回，只为回到你的身边",
-      "url": "https://www.bilibili.com/video/BV16uhN68EUC",
-      "hot_value": "5985591播放",
+      "title": "超罕见，工程机维修",
+      "url": "https://www.bilibili.com/video/BV1y9h369Eb9",
+      "hot_value": "1701549播放",
       "index": 14
     },
     {
       "title": "王中王夺冠自战解说",
       "url": "https://www.bilibili.com/video/BV1PEhP6vERe",
-      "hot_value": "4569754播放",
+      "hot_value": "4627563播放",
       "index": 15
-    },
-    {
-      "title": "惊人劲爆！虚照就是欢愉星神阿哈本人！星铁4.5最炸裂过场动画！欢愉星神一眼万年！【崩坏星穹铁道4.5版本「挥掷千星的筹码」高光剧情收录】",
-      "url": "https://www.bilibili.com/video/BV1dR8Q6HEXk",
-      "hot_value": "822076播放",
-      "index": 16
-    },
-    {
-      "title": "谁能坚持到最后？",
-      "url": "https://www.bilibili.com/video/BV18XhP6GExJ",
-      "hot_value": "3564327播放",
-      "index": 17
-    },
-    {
-      "title": "员工要陪老板演戏吗？我真去影视飓风上班了...",
-      "url": "https://www.bilibili.com/video/BV1AxhK6BE2j",
-      "hot_value": "3083942播放",
-      "index": 18
-    },
-    {
-      "title": "超罕见，工程机维修",
-      "url": "https://www.bilibili.com/video/BV1y9h369Eb9",
-      "hot_value": "1614323播放",
-      "index": 19
-    },
-    {
-      "title": "极限接力！每人仅有十分钟！时间清零强制接棒？！！「天门接力挑战」",
-      "url": "https://www.bilibili.com/video/BV1vxhj6EEFc",
-      "hot_value": "713084播放",
-      "index": 20
     },
     {
       "title": "国外小女孩都这么早熟吗？这要怎么聊？！",
       "url": "https://www.bilibili.com/video/BV1AYhg6JEBq",
-      "hot_value": "2034252播放",
-      "index": 21
+      "hot_value": "2127801播放",
+      "index": 16
     },
     {
       "title": "【本家投稿】東京真中 -  ブレインロット feat. 重音テト",
       "url": "https://www.bilibili.com/video/BV1o58Q6UEik",
-      "hot_value": "108241播放",
+      "hot_value": "140501播放",
+      "index": 17
+    },
+    {
+      "title": "高中生逃离原生家庭过程（下）",
+      "url": "https://www.bilibili.com/video/BV1Uy8x6AETG",
+      "hot_value": "4281878播放",
+      "index": 18
+    },
+    {
+      "title": "《阴阳师》「一瞬刹那，拾光永恒」前瞻回顾",
+      "url": "https://www.bilibili.com/video/BV17oh56JEcH",
+      "hot_value": "779388播放",
+      "index": 19
+    },
+    {
+      "title": "惊人劲爆！虚照就是欢愉星神阿哈本人！星铁4.5最炸裂过场动画！欢愉星神一眼万年！【崩坏星穹铁道4.5版本「挥掷千星的筹码」高光剧情收录】",
+      "url": "https://www.bilibili.com/video/BV1dR8Q6HEXk",
+      "hot_value": "880359播放",
+      "index": 20
+    },
+    {
+      "title": "员工要陪老板演戏吗？我真去影视飓风上班了...",
+      "url": "https://www.bilibili.com/video/BV1AxhK6BE2j",
+      "hot_value": "3116956播放",
+      "index": 21
+    },
+    {
+      "title": "极限接力！每人仅有十分钟！时间清零强制接棒？！！「天门接力挑战」",
+      "url": "https://www.bilibili.com/video/BV1vxhj6EEFc",
+      "hot_value": "763297播放",
       "index": 22
-    },
-    {
-      "title": "最逆天的植物出现了，直接把滑板神器变成小推车神器",
-      "url": "https://www.bilibili.com/video/BV1C2896vEUR",
-      "hot_value": "602661播放",
-      "index": 23
-    },
-    {
-      "title": "《崩坏：星穹铁道》知更鸟•晴歌角色PV——「追赶风的方向」",
-      "url": "https://www.bilibili.com/video/BV1oyhM6AETw",
-      "hot_value": "3427835播放",
-      "index": 24
-    },
-    {
-      "title": "《星布谷地》连接PV：「连接测试」招募开启，公测定档2026冬季",
-      "url": "https://www.bilibili.com/video/BV1b4hG6wEqb",
-      "hot_value": "1290104播放",
-      "index": 25
-    },
-    {
-      "title": "严肃观看儿子的历史记录",
-      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-      "hot_value": "5505920播放",
-      "index": 26
-    },
-    {
-      "title": "《巫师 3：狂猎 — 重制版》｜官宣预告片",
-      "url": "https://www.bilibili.com/video/BV1XAhL65E5h",
-      "hot_value": "1175487播放",
-      "index": 27
-    },
-    {
-      "title": "1400卢比超大肉食塔利套餐，鳞片最爆炸的一集",
-      "url": "https://www.bilibili.com/video/BV1pihg67EnS",
-      "hot_value": "833704播放",
-      "index": 28
     },
     {
       "title": "“妇女顶起半边天，战士扛起万重山”【红色高跟鞋DJ-变速】【捐躯赴义の小曲】",
       "url": "https://www.bilibili.com/video/BV1anhG6KEaC",
-      "hot_value": "1455240播放",
-      "index": 29
+      "hot_value": "1508734播放",
+      "index": 23
+    },
+    {
+      "title": "谁能坚持到最后？",
+      "url": "https://www.bilibili.com/video/BV18XhP6GExJ",
+      "hot_value": "3602228播放",
+      "index": 24
+    },
+    {
+      "title": "《崩坏：星穹铁道》知更鸟•晴歌角色PV——「追赶风的方向」",
+      "url": "https://www.bilibili.com/video/BV1oyhM6AETw",
+      "hot_value": "3454960播放",
+      "index": 25
+    },
+    {
+      "title": "最逆天的植物出现了，直接把滑板神器变成小推车神器",
+      "url": "https://www.bilibili.com/video/BV1C2896vEUR",
+      "hot_value": "643630播放",
+      "index": 26
+    },
+    {
+      "title": "照影前身丨志怪月先导短片【燕云X导演胡睿】",
+      "url": "https://www.bilibili.com/video/BV1a28X62EzD",
+      "hot_value": "446922播放",
+      "index": 27
+    },
+    {
+      "title": "【苏新皓｜4K直拍】Abracadabra 直拍｜重·二周年演唱会",
+      "url": "https://www.bilibili.com/video/BV1VJ8Q6jEgv",
+      "hot_value": "183285播放",
+      "index": 28
     },
     {
       "title": "这谁能忍住不看啊！！安邱三杰跳《极乐净土》【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1U3hV6cEqQ",
-      "hot_value": "721599播放",
+      "hot_value": "795294播放",
+      "index": 29
+    },
+    {
+      "title": "桑多涅：哈？来至冬需要执行官照顾？",
+      "url": "https://www.bilibili.com/video/BV17Rh56DEdV",
+      "hot_value": "343182播放",
       "index": 30
     }
   ]

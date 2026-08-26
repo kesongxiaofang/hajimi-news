@@ -1,11 +1,10 @@
 {
-  "update_time": "2026-08-26T16:13:58Z",
+  "update_time": "2026-08-26T18:13:29Z",
   "platforms": [
     {
       "type": "weibo",
       "name": "weibo热搜",
-      "count": 0,
-      "error": "HTTP Error 522: Origin Connection Time-out"
+      "count": 30
     },
     {
       "type": "zhihu",

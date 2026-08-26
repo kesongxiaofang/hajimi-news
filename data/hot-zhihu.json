@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-26T16:13:58Z",
+  "update_time": "2026-08-26T18:13:29Z",
   "count": 30,
   "list": [
     {
       "title": "西藏日喀则吉隆口岸发生泥石流，致重大人员伤亡失联，有建筑被掩埋，目前情况如何？",
       "url": "https://www.zhihu.com/question/2075969425702741132",
-      "hot_value": "9518 万热度",
+      "hot_value": "10695 万热度",
       "index": 1
     },
     {
       "title": "如何评价粥饼伦天津鸡蛋灌饼店因为房租从 13 万上涨到 20 万被迫宣布暂停营业？为什么现在房东矛盾这么大？",
       "url": "https://www.zhihu.com/question/2075488229747339425",
-      "hot_value": "1326 万热度",
+      "hot_value": "889 万热度",
       "index": 2
     },
     {
       "title": "德芙就「趁男朋友不在跟暧昧对象分享」文案道歉，称由第三方运营团队创作发布，德芙在管理上存在哪些问题？",
       "url": "https://www.zhihu.com/question/2075743712588608931",
-      "hot_value": "469 万热度",
+      "hot_value": "669 万热度",
       "index": 3
-    },
-    {
-      "title": "为什么看不到男人四五个人结伴一起去旅行的？",
-      "url": "https://www.zhihu.com/question/2074380142697244011",
-      "hot_value": "156 万热度",
-      "index": 4
     },
     {
       "title": "怎么看 GLM-5.3-Flash 发布，有什么值得关注的？",
       "url": "https://www.zhihu.com/question/2076068666639230491",
-      "hot_value": "131 万热度",
+      "hot_value": "341 万热度",
+      "index": 4
+    },
+    {
+      "title": "30 多个国家表示准备向乌克兰派兵，此举将如何影响俄乌冲突局势？",
+      "url": "https://www.zhihu.com/question/2075675774821086239",
+      "hot_value": "189 万热度",
       "index": 5
     },
     {
-      "title": "瓶装水在开封后，多久会变质？",
-      "url": "https://www.zhihu.com/question/2074882831344460896",
-      "hot_value": "129 万热度",
+      "title": "为什么 50 国在联合国反对俄罗斯？",
+      "url": "https://www.zhihu.com/question/2075754349884600817",
+      "hot_value": "134 万热度",
       "index": 6
     },
     {
-      "title": "宇树科技股价跌破 600 元，市值一周缩水超 2000 亿元，如何看待这一轮估值大幅回撤？",
-      "url": "https://www.zhihu.com/question/2075971828472877691",
-      "hot_value": "128 万热度",
+      "title": "老师是如何一眼看出学生的作业是在抄答案？",
+      "url": "https://www.zhihu.com/question/446221874",
+      "hot_value": "124 万热度",
       "index": 7
     },
     {
       "title": "「帮扶老人反被索赔」事件，老人家属算敲诈勒索吗？为何法律无责却仍需赔偿？该怎样终结「和稀泥式调解」？",
       "url": "https://www.zhihu.com/question/2075893197289383268",
-      "hot_value": "121 万热度",
+      "hot_value": "123 万热度",
       "index": 8
-    },
-    {
-      "title": "为什么身边的中年男人不是热衷炒股，就是热衷钓鱼？",
-      "url": "https://www.zhihu.com/question/1908287806243046421",
-      "hot_value": "114 万热度",
-      "index": 9
-    },
-    {
-      "title": "30 多个国家表示准备向乌克兰派兵，此举将如何影响俄乌冲突局势？",
-      "url": "https://www.zhihu.com/question/2075675774821086239",
-      "hot_value": "113 万热度",
-      "index": 10
     },
     {
       "title": "网传 DeepSeek 深度思考模式会偷偷给用户取外号，这是真的吗？为什么会出现这种情况？",
       "url": "https://www.zhihu.com/question/2070165569941287944",
-      "hot_value": "101 万热度",
+      "hot_value": "122 万热度",
+      "index": 9
+    },
+    {
+      "title": "瓶装水在开封后，多久会变质？",
+      "url": "https://www.zhihu.com/question/2074882831344460896",
+      "hot_value": "106 万热度",
+      "index": 10
+    },
+    {
+      "title": "U18 亚青赛，菲律宾队最后时刻假装握手认输，随后抢断中国队上篮，之后引发冲突，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2074165762919331603",
+      "hot_value": "94 万热度",
       "index": 11
     },
     {
       "title": "千问开源基于 Qwen4 架构的 Qwen3.8-Flash-Next，下一代架构有什么变化值得关注？",
       "url": "https://www.zhihu.com/question/2075957645354033219",
-      "hot_value": "99 万热度",
+      "hot_value": "86 万热度",
       "index": 12
-    },
-    {
-      "title": "北方人口中的「硬菜」是什么菜呢？什么标准才达标呢？",
-      "url": "https://www.zhihu.com/question/6181386454",
-      "hot_value": "71 万热度",
-      "index": 13
-    },
-    {
-      "title": "如何评价在科隆游戏展上米哈游新作《星布谷地》官宣将在 2026 年冬季公测上线？",
-      "url": "https://www.zhihu.com/question/2075783610246894954",
-      "hot_value": "71 万热度",
-      "index": 14
-    },
-    {
-      "title": "赛力斯中报巨亏，问界 M6 走量预期落空，如何评价华为智选车模式？",
-      "url": "https://www.zhihu.com/question/2074228962302093110",
-      "hot_value": "71 万热度",
-      "index": 15
-    },
-    {
-      "title": "如何评价龙德施泰特？",
-      "url": "https://www.zhihu.com/question/31689891",
-      "hot_value": "71 万热度",
-      "index": 16
     },
     {
       "title": "郑钦文有天赋也努力，为何感觉她和当年的李娜比，还是差一点意思?",
       "url": "https://www.zhihu.com/question/750838307",
-      "hot_value": "68 万热度",
+      "hot_value": "84 万热度",
+      "index": 13
+    },
+    {
+      "title": "赛力斯中报巨亏，问界 M6 走量预期落空，如何评价华为智选车模式？",
+      "url": "https://www.zhihu.com/question/2074228962302093110",
+      "hot_value": "83 万热度",
+      "index": 14
+    },
+    {
+      "title": "为什么看不到男人四五个人结伴一起去旅行的？",
+      "url": "https://www.zhihu.com/question/2074380142697244011",
+      "hot_value": "82 万热度",
+      "index": 15
+    },
+    {
+      "title": "北方人口中的「硬菜」是什么菜呢？什么标准才达标呢？",
+      "url": "https://www.zhihu.com/question/6181386454",
+      "hot_value": "82 万热度",
+      "index": 16
+    },
+    {
+      "title": "古代富家的生活有多奢侈？",
+      "url": "https://www.zhihu.com/question/45638947",
+      "hot_value": "73 万热度",
       "index": 17
+    },
+    {
+      "title": "张廷玉真的有资格配享太庙吗？",
+      "url": "https://www.zhihu.com/question/626526460",
+      "hot_value": "71 万热度",
+      "index": 18
+    },
+    {
+      "title": "有什么书推荐一下，童年创伤，心理疗愈的书？",
+      "url": "https://www.zhihu.com/question/2073563652712567554",
+      "hot_value": "69 万热度",
+      "index": 19
+    },
+    {
+      "title": "一架美军运输机降落在俄罗斯莫斯科，这一罕见事件引发关注，还有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2075648179723301021",
+      "hot_value": "68 万热度",
+      "index": 20
+    },
+    {
+      "title": "下班后不想立刻回家的人，通常会把时间花在哪里？",
+      "url": "https://www.zhihu.com/question/2068304155710600475",
+      "hot_value": "67 万热度",
+      "index": 21
+    },
+    {
+      "title": "为什么身边的中年男人不是热衷炒股，就是热衷钓鱼？",
+      "url": "https://www.zhihu.com/question/1908287806243046421",
+      "hot_value": "59 万热度",
+      "index": 22
     },
     {
       "title": "《欢迎来龙餐馆》如果徐福死了，这部电影会不会效果更好？",
       "url": "https://www.zhihu.com/question/2075247117547868427",
       "hot_value": "59 万热度",
-      "index": 18
-    },
-    {
-      "title": "我妈把芒果核留给我老公，我指出这样做不对，我错了么？",
-      "url": "https://www.zhihu.com/question/2075499349363245933",
-      "hot_value": "59 万热度",
-      "index": 19
-    },
-    {
-      "title": "为什么广东这个古代的边缘地带今天却成了网上的「最懂吃的省份」？",
-      "url": "https://www.zhihu.com/question/1983185993218692739",
-      "hot_value": "57 万热度",
-      "index": 20
-    },
-    {
-      "title": "一架美军运输机降落在俄罗斯莫斯科，这一罕见事件引发关注，还有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2075648179723301021",
-      "hot_value": "57 万热度",
-      "index": 21
-    },
-    {
-      "title": "唐朝为什么管阿拉伯叫大食？",
-      "url": "https://www.zhihu.com/question/2719324617",
-      "hot_value": "57 万热度",
-      "index": 22
-    },
-    {
-      "title": "如何评价黑客以「恢复实体光盘、抵制数字预购」为名威胁 R 星，并设置《GTA 6》源码开关？",
-      "url": "https://www.zhihu.com/question/2074570715764896591",
-      "hot_value": "57 万热度",
       "index": 23
+    },
+    {
+      "title": "如何评价龙德施泰特？",
+      "url": "https://www.zhihu.com/question/31689891",
+      "hot_value": "58 万热度",
+      "index": 24
     },
     {
       "title": "脑出血急诊去医院为什么几个小时不开始手术，最后我妈去世了，医院有没有责任？",
       "url": "https://www.zhihu.com/question/1905751114009272796",
       "hot_value": "57 万热度",
-      "index": 24
+      "index": 25
+    },
+    {
+      "title": "一个人每天写日记能有什么改变?",
+      "url": "https://www.zhihu.com/question/6559929164",
+      "hot_value": "56 万热度",
+      "index": 26
     },
     {
       "title": "公务员碾死醉汉被认定过失致死，当事人因影响职业生涯再申诉，还可能有怎样的认定？法律上如何分析此事？",
       "url": "https://www.zhihu.com/question/2074611538749551180",
-      "hot_value": "57 万热度",
-      "index": 25
-    },
-    {
-      "title": "如果你有 50 万，你会舍得给妈妈买 5 万的金镯子么？",
-      "url": "https://www.zhihu.com/question/2072981536136225723",
-      "hot_value": "57 万热度",
-      "index": 26
-    },
-    {
-      "title": "麦迪认为成为 MVP 比夺得总冠军重要，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2075525841312642065",
-      "hot_value": "57 万热度",
+      "hot_value": "56 万热度",
       "index": 27
     },
     {
-      "title": "天工机器人「娇羞捂脸跑」出圈，这一跑姿为何能夺冠？背后做了哪些技术优化？",
-      "url": "https://www.zhihu.com/question/2074976072874177574",
-      "hot_value": "57 万热度",
+      "title": "大家为什么接受不了整容的明星啊？",
+      "url": "https://www.zhihu.com/question/2008652535855071748",
+      "hot_value": "56 万热度",
       "index": 28
+    },
+    {
+      "title": "人有烦恼是因为什么？",
+      "url": "https://www.zhihu.com/question/2053179770339333608",
+      "hot_value": "56 万热度",
+      "index": 29
     },
     {
       "title": "种草了 NAS，听说耗电量大，是真的吗？大概是个什么水平？",
       "url": "https://www.zhihu.com/question/2062550505033654849",
-      "hot_value": "57 万热度",
-      "index": 29
-    },
-    {
-      "title": "如何看待印第安纳步行者（pacers）正在酝酿将球队的中文名换掉，你认为更合适的译名应该是什么？",
-      "url": "https://www.zhihu.com/question/2075533221463159237",
-      "hot_value": "57 万热度",
+      "hot_value": "56 万热度",
       "index": 30
     }
   ]
