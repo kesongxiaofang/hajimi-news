@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-26T20:30:09Z",
+  "update_time": "2026-08-27T00:00:39Z",
   "count": 30,
   "list": [
     {
-      "title": "【绯红回响】邪恶计划丨X病毒蔓延 【UP动画】",
-      "url": "https://www.bilibili.com/video/BV1umcjzJEgW",
-      "hot_value": "316276播放",
+      "title": "国产单机《湮灭之潮》全新宣传片 | 旧日之纱",
+      "url": "https://www.bilibili.com/video/BV1418q6wERg",
+      "hot_value": "3360927播放",
       "index": 1
     },
     {
-      "title": "【绯红回响】棋子落下时，才发现自己不是棋手【up动画】",
-      "url": "https://www.bilibili.com/video/BV1ZxvQBFEcb",
-      "hot_value": "126105播放",
+      "title": "打卡！打工！打钱！《异克斯小队》首曝PV",
+      "url": "https://www.bilibili.com/video/BV1SuhV6aE77",
+      "hot_value": "4147550播放",
       "index": 2
     },
     {
       "title": "《无限大》定档预告丨27年1月15日全球上线",
       "url": "https://www.bilibili.com/video/BV15EhG6qEAg",
-      "hot_value": "9015660播放",
+      "hot_value": "9037774播放",
       "index": 3
-    },
-    {
-      "title": "“得妻如此，夫复何求”【如果可以DJ-变速】【纯爱牛逼の小曲】",
-      "url": "https://www.bilibili.com/video/BV1VXhg6iEya",
-      "hot_value": "2656665播放",
-      "index": 4
     },
     {
       "title": "世界伊始——《伊莫》全球上线定档：PC端9月16日 移动端9月23日！",
       "url": "https://www.bilibili.com/video/BV1wwhG6JEnc",
-      "hot_value": "2615550播放",
-      "index": 5
-    },
-    {
-      "title": "源初之结首曝PV「诸神入刃，斩尽死结」",
-      "url": "https://www.bilibili.com/video/BV1erhL6EE6k",
-      "hot_value": "3528933播放",
-      "index": 6
-    },
-    {
-      "title": "打卡！打工！打钱！《异克斯小队》首曝PV",
-      "url": "https://www.bilibili.com/video/BV1SuhV6aE77",
-      "hot_value": "3815228播放",
-      "index": 7
-    },
-    {
-      "title": "国产单机《湮灭之潮》全新宣传片 | 旧日之纱",
-      "url": "https://www.bilibili.com/video/BV1418q6wERg",
-      "hot_value": "3035387播放",
-      "index": 8
+      "hot_value": "2755027播放",
+      "index": 4
     },
     {
       "title": "《动物朋克》最新预告&实机演示 | 国产动作新游登陆科隆展",
       "url": "https://www.bilibili.com/video/BV1jfhA6EEMw",
-      "hot_value": "4215534播放",
+      "hot_value": "4384469播放",
+      "index": 5
+    },
+    {
+      "title": "“得妻如此，夫复何求”【如果可以DJ-变速】【纯爱牛逼の小曲】",
+      "url": "https://www.bilibili.com/video/BV1VXhg6iEya",
+      "hot_value": "2805352播放",
+      "index": 6
+    },
+    {
+      "title": "源初之结首曝PV「诸神入刃，斩尽死结」",
+      "url": "https://www.bilibili.com/video/BV1erhL6EE6k",
+      "hot_value": "3561133播放",
+      "index": 7
+    },
+    {
+      "title": "堪比海啸：尼泊尔826泥石流，为什么这么厉害？",
+      "url": "https://www.bilibili.com/video/BV1Ez8R6FE5e",
+      "hot_value": "476926播放",
+      "index": 8
+    },
+    {
+      "title": "经历四世轮回，只为回到你的身边",
+      "url": "https://www.bilibili.com/video/BV16uhN68EUC",
+      "hot_value": "6155910播放",
       "index": 9
     },
     {
       "title": "高中生逃离原生家庭过程（下）",
       "url": "https://www.bilibili.com/video/BV1Uy8x6AETG",
-      "hot_value": "4302018播放",
+      "hot_value": "4328085播放",
       "index": 10
-    },
-    {
-      "title": "贱谍过家家（8）",
-      "url": "https://www.bilibili.com/video/BV1gLhK6LEcb",
-      "hot_value": "5016273播放",
-      "index": 11
-    },
-    {
-      "title": "在凤凰古城碰到一位无臂骑手，白天跑外卖，晚上写字谋生，给经历磨难却依旧坚毅的向阳点个赞",
-      "url": "https://www.bilibili.com/video/BV16sh36yEHP",
-      "hot_value": "1984739播放",
-      "index": 12
     },
     {
       "title": "极限接力！每人仅有十分钟！时间清零强制接棒？！！「天门接力挑战」",
       "url": "https://www.bilibili.com/video/BV1vxhj6EEFc",
-      "hot_value": "809928播放",
+      "hot_value": "859954播放",
+      "index": 11
+    },
+    {
+      "title": "舒服",
+      "url": "https://www.bilibili.com/video/BV18Q8X6VEw3",
+      "hot_value": "817669播放",
+      "index": 12
+    },
+    {
+      "title": "贱谍过家家（8）",
+      "url": "https://www.bilibili.com/video/BV1gLhK6LEcb",
+      "hot_value": "5044181播放",
       "index": 13
     },
     {
-      "title": "员工要陪老板演戏吗？我真去影视飓风上班了...",
-      "url": "https://www.bilibili.com/video/BV1AxhK6BE2j",
-      "hot_value": "3151257播放",
+      "title": "【PVZ x MC动画】你是僵尸，那我是谁？【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1258X6BEoS",
+      "hot_value": "476970播放",
       "index": 14
     },
     {
-      "title": "王中王夺冠自战解说",
-      "url": "https://www.bilibili.com/video/BV1PEhP6vERe",
-      "hot_value": "4676951播放",
+      "title": "【本家投稿】東京真中 -  ブレインロット feat. 重音テト",
+      "url": "https://www.bilibili.com/video/BV1o58Q6UEik",
+      "hot_value": "206986播放",
       "index": 15
-    },
-    {
-      "title": "经历四世轮回，只为回到你的身边",
-      "url": "https://www.bilibili.com/video/BV16uhN68EUC",
-      "hot_value": "6094856播放",
-      "index": 16
-    },
-    {
-      "title": "超罕见，工程机维修",
-      "url": "https://www.bilibili.com/video/BV1y9h369Eb9",
-      "hot_value": "1780651播放",
-      "index": 17
     },
     {
       "title": "非洲淘金，一场黄金背后的生死赌局。",
       "url": "https://www.bilibili.com/video/BV17E896RE5G",
-      "hot_value": "742543播放",
+      "hot_value": "782332播放",
+      "index": 16
+    },
+    {
+      "title": "在凤凰古城碰到一位无臂骑手，白天跑外卖，晚上写字谋生，给经历磨难却依旧坚毅的向阳点个赞",
+      "url": "https://www.bilibili.com/video/BV16sh36yEHP",
+      "hot_value": "1997617播放",
+      "index": 17
+    },
+    {
+      "title": "员工要陪老板演戏吗？我真去影视飓风上班了...",
+      "url": "https://www.bilibili.com/video/BV1AxhK6BE2j",
+      "hot_value": "3172244播放",
       "index": 18
     },
     {
       "title": "《昭和米国物语》科隆游戏展现场！试玩内容到底什么样？",
       "url": "https://www.bilibili.com/video/BV1V18X67ExN",
-      "hot_value": "757940播放",
+      "hot_value": "834802播放",
       "index": 19
     },
     {
-      "title": "“妇女顶起半边天，战士扛起万重山”【红色高跟鞋DJ-变速】【捐躯赴义の小曲】",
-      "url": "https://www.bilibili.com/video/BV1anhG6KEaC",
-      "hot_value": "1571248播放",
+      "title": "《钱》金钱是什么？",
+      "url": "https://www.bilibili.com/video/BV1C2896vEbQ",
+      "hot_value": "564685播放",
       "index": 20
     },
     {
-      "title": "《崩坏：星穹铁道》知更鸟•晴歌角色PV——「追赶风的方向」",
-      "url": "https://www.bilibili.com/video/BV1oyhM6AETw",
-      "hot_value": "3479974播放",
+      "title": "王中王夺冠自战解说",
+      "url": "https://www.bilibili.com/video/BV1PEhP6vERe",
+      "hot_value": "4704483播放",
       "index": 21
     },
     {
       "title": "惊人劲爆！虚照就是欢愉星神阿哈本人！星铁4.5最炸裂过场动画！欢愉星神一眼万年！【崩坏星穹铁道4.5版本「挥掷千星的筹码」高光剧情收录】",
       "url": "https://www.bilibili.com/video/BV1dR8Q6HEXk",
-      "hot_value": "930375播放",
+      "hot_value": "967549播放",
       "index": 22
     },
     {
-      "title": "国外小女孩都这么早熟吗？这要怎么聊？！",
-      "url": "https://www.bilibili.com/video/BV1AYhg6JEBq",
-      "hot_value": "2200392播放",
+      "title": "《崩坏：星穹铁道》知更鸟•晴歌角色PV——「追赶风的方向」",
+      "url": "https://www.bilibili.com/video/BV1oyhM6AETw",
+      "hot_value": "3499425播放",
       "index": 23
-    },
-    {
-      "title": "谁能坚持到最后？",
-      "url": "https://www.bilibili.com/video/BV18XhP6GExJ",
-      "hot_value": "3631606播放",
-      "index": 24
     },
     {
       "title": "《巫师 3：狂猎 — 重制版》｜官宣预告片",
       "url": "https://www.bilibili.com/video/BV1XAhL65E5h",
-      "hot_value": "1228020播放",
+      "hot_value": "1247624播放",
+      "index": 24
+    },
+    {
+      "title": "高中的时候，女孩和男同学互相叫了三年老公老婆！青涩纯爱漫画推荐《青春离婚》",
+      "url": "https://www.bilibili.com/video/BV1ghh56TEGa",
+      "hot_value": "825201播放",
       "index": 25
     },
     {
-      "title": "【苏新皓｜4K直拍】Abracadabra 直拍｜重·二周年演唱会",
-      "url": "https://www.bilibili.com/video/BV1VJ8Q6jEgv",
-      "hot_value": "204403播放",
+      "title": "桑多涅：哈？来至冬需要执行官照顾？",
+      "url": "https://www.bilibili.com/video/BV17Rh56DEdV",
+      "hot_value": "497181播放",
       "index": 26
     },
     {
-      "title": "【本家投稿】東京真中 -  ブレインロット feat. 重音テト",
-      "url": "https://www.bilibili.com/video/BV1o58Q6UEik",
-      "hot_value": "172071播放",
+      "title": "谁能坚持到最后？",
+      "url": "https://www.bilibili.com/video/BV18XhP6GExJ",
+      "hot_value": "3650318播放",
       "index": 27
     },
     {
-      "title": "堪比海啸：尼泊尔826泥石流，为什么这么厉害？",
-      "url": "https://www.bilibili.com/video/BV1Ez8R6FE5e",
-      "hot_value": "298614播放",
+      "title": "国外小女孩都这么早熟吗？这要怎么聊？！",
+      "url": "https://www.bilibili.com/video/BV1AYhg6JEBq",
+      "hot_value": "2242774播放",
       "index": 28
     },
     {
-      "title": "课本可以被篡改，但历史不会。 #勿忘国耻 #铭记历史 #真相 #历史罪证",
-      "url": "https://www.bilibili.com/video/BV1MEhK6VE1w",
-      "hot_value": "1222116播放",
+      "title": "“妇女顶起半边天，战士扛起万重山”【红色高跟鞋DJ-变速】【捐躯赴义の小曲】",
+      "url": "https://www.bilibili.com/video/BV1anhG6KEaC",
+      "hot_value": "1610924播放",
       "index": 29
     },
     {
-      "title": "《钱》金钱是什么？",
-      "url": "https://www.bilibili.com/video/BV1C2896vEbQ",
-      "hot_value": "509731播放",
+      "title": "427万台车被召回！17分钟讲清楚看完就明白了",
+      "url": "https://www.bilibili.com/video/BV1zh8X6oET5",
+      "hot_value": "220384播放",
       "index": 30
     }
   ]
