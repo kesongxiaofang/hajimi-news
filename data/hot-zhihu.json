@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-28T17:33:47Z",
+  "update_time": "2026-08-29T01:24:47Z",
   "count": 30,
   "list": [
     {
-      "title": "西藏吉隆泥石流致 5 人遇难 558 人失联，上游堰塞湖出现溢流，目前救援进展如何？",
+      "title": "西藏吉隆泥石流致 7 人遇难 554 人失联，上游堰塞湖出现溢流，消防救援队抵达受灾核心区，目前救援进展如何？",
       "url": "https://www.zhihu.com/question/2076362548765357313",
-      "hot_value": "1303 万热度",
+      "hot_value": "1133 万热度",
       "index": 1
     },
     {
-      "title": "撞脸周杰伦走红的粥饼伦因房租暴涨 5 成关店，从胖东来到粥饼伦，实体店面对大幅涨租有破局的办法吗？",
-      "url": "https://www.zhihu.com/question/2075913079498306003",
-      "hot_value": "809 万热度",
+      "title": "比亚迪上半年营收、净利润均同比回落，但汽车出口实现 67.8% 的高增长，如何解读？",
+      "url": "https://www.zhihu.com/question/2076750422455366127",
+      "hot_value": "215 万热度",
       "index": 2
-    },
-    {
-      "title": "蜜雪冰城半年报净利下降 14.7%，如何看待其上市以来首次出现净利润同比下滑？",
-      "url": "https://www.zhihu.com/question/2076612668605952164",
-      "hot_value": "578 万热度",
-      "index": 3
     },
     {
       "title": "「地方附加税法」征求意见稿出台，实行 11%-13% 幅度税率，这一新税种对经济意味着什么？",
       "url": "https://www.zhihu.com/question/2076724095819964981",
-      "hot_value": "357 万热度",
+      "hot_value": "188 万热度",
+      "index": 3
+    },
+    {
+      "title": "9 岁男孩小区内遭垃圾车碾压身亡，妈妈称物业未通知更换大型清运车，大型车能否进小区？物业需要负责吗？",
+      "url": "https://www.zhihu.com/question/2076685026318627360",
+      "hot_value": "180 万热度",
       "index": 4
     },
     {
-      "title": "上海 92% 班主任不愿任职，年轻教师用诊断书回避，背后原因是什么？",
-      "url": "https://www.zhihu.com/question/2071548641035149706",
-      "hot_value": "259 万热度",
+      "title": "尼泊尔一侧发生泥石流，造成西藏吉隆口岸重大人员伤亡失联，为什么这次泥石流这么严重？",
+      "url": "https://www.zhihu.com/question/2076024925496636848",
+      "hot_value": "156 万热度",
       "index": 5
     },
     {
-      "title": "如何评价育碧在 Steam 上架《英雄无敌 3》却忘记发游戏文件，玩家仅下载到 23KB 占位符？",
-      "url": "https://www.zhihu.com/question/2076243232774677882",
-      "hot_value": "191 万热度",
+      "title": "被誉为「中华第一舰」的 112 舰哈尔滨舰退出现役，它在海军史上有着怎样的地位？你对它有哪些印象？",
+      "url": "https://www.zhihu.com/question/2076614856879371338",
+      "hot_value": "151 万热度",
       "index": 6
-    },
-    {
-      "title": "老年人越来越多，为什么银发经济不好做？",
-      "url": "https://www.zhihu.com/question/2049940232846545179",
-      "hot_value": "184 万热度",
-      "index": 7
-    },
-    {
-      "title": "用了 5 年的合法固定车位，被邻楼老太强行霸占，放完杂物直接砌水泥墩，物业管不了我该怎么办？",
-      "url": "https://www.zhihu.com/question/2038383492602532826",
-      "hot_value": "152 万热度",
-      "index": 8
-    },
-    {
-      "title": "为什么王尼玛、英国报姐、同道大叔等博主不愿意露脸？",
-      "url": "https://www.zhihu.com/question/270496733",
-      "hot_value": "143 万热度",
-      "index": 9
-    },
-    {
-      "title": "宝妈创业到底有多难？",
-      "url": "https://www.zhihu.com/question/286899868",
-      "hot_value": "130 万热度",
-      "index": 10
-    },
-    {
-      "title": "小米被曝更新售后政策，二手设备直接失去官方保修，怎么看待这件事？",
-      "url": "https://www.zhihu.com/question/2075363668737499639",
-      "hot_value": "115 万热度",
-      "index": 11
-    },
-    {
-      "title": "LPL2026 赛季第三赛段骑士之路 TT 0:3 iG，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2076711775999997289",
-      "hot_value": "99 万热度",
-      "index": 12
-    },
-    {
-      "title": "中国新能源车出现「太长、太宽、太重」趋势，是何原因，发展合理吗？",
-      "url": "https://www.zhihu.com/question/2004696556515910185",
-      "hot_value": "99 万热度",
-      "index": 13
-    },
-    {
-      "title": "为什么平均每 2 年换一个首相的日本政治上反而比平均每 5 年换一个总统的韩国更稳定？",
-      "url": "https://www.zhihu.com/question/2069200932634629825",
-      "hot_value": "97 万热度",
-      "index": 14
     },
     {
       "title": "孩子读书优秀学历越高，换来的是赚钱晚，结婚晚，生子晚，家庭长期只投入得不到回报，你们觉得值吗？",
       "url": "https://www.zhihu.com/question/2053868628034971005",
-      "hot_value": "93 万热度",
+      "hot_value": "151 万热度",
+      "index": 7
+    },
+    {
+      "title": "媒体人称姚明 NBA 收入也曾面临分成，舆论施压后最终只缴税后 3%-5%，这意味着什么？",
+      "url": "https://www.zhihu.com/question/2076400121282147077",
+      "hot_value": "149 万热度",
+      "index": 8
+    },
+    {
+      "title": "媒体曝上海某区调研发现 92% 的班主任不愿任职，年轻教师甚至以健康为理由拒绝，为啥老师们不愿做班主任了？",
+      "url": "https://www.zhihu.com/question/2071548641035149706",
+      "hot_value": "146 万热度",
+      "index": 9
+    },
+    {
+      "title": "多家背调公司被爆随意调取个人隐私，仅需 30 元就能查社保记录，该类公司如何获取数据？是否涉嫌违法？",
+      "url": "https://www.zhihu.com/question/2075956678424635296",
+      "hot_value": "145 万热度",
+      "index": 10
+    },
+    {
+      "title": "如何看待澳洲把蟑螂改造成赛博急救员，通过遥控系统给灾害废墟的受困者送药？灾难救援该用动物还是纯机器人？",
+      "url": "https://www.zhihu.com/question/2076605797715424941",
+      "hot_value": "143 万热度",
+      "index": 11
+    },
+    {
+      "title": "爸爸为了防止女儿早恋，带她到处旅游并故意把她晒黑，这种做法真的能起到防止早恋的作用吗？",
+      "url": "https://www.zhihu.com/question/2074767872866383641",
+      "hot_value": "123 万热度",
+      "index": 12
+    },
+    {
+      "title": "用了 5 年的合法固定车位，被邻楼老太强行霸占，放完杂物直接砌水泥墩，物业管不了我该怎么办？",
+      "url": "https://www.zhihu.com/question/2038383492602532826",
+      "hot_value": "122 万热度",
+      "index": 13
+    },
+    {
+      "title": "奔驰、宝马发布短片讽刺速成车，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2076228837369700495",
+      "hot_value": "115 万热度",
+      "index": 14
+    },
+    {
+      "title": "星宇股份深陷劝退应届生风波，标榜「家文化」却粗暴裁员，企业宣传为何与现实差距悬殊？应届生该如何避坑？",
+      "url": "https://www.zhihu.com/question/2076681060084093061",
+      "hot_value": "108 万热度",
       "index": 15
     },
     {
-      "title": "连云港集中销毁烟花时发生爆炸，致邻市 570 多户房屋受损，为何会有这么大威力？此次事故暴露出哪些问题？",
-      "url": "https://www.zhihu.com/question/2076310314954534916",
-      "hot_value": "91 万热度",
+      "title": "美联储主席「凯文·沃什」在杰克逊霍尔全球央行年会发表《在我们的时代》演讲，其观点到底是偏鹰还是鸽？",
+      "url": "https://www.zhihu.com/question/2076800405380646159",
+      "hot_value": "106 万热度",
       "index": 16
     },
     {
-      "title": "非洲有数十万只鸵鸟，为何狮子很少吃鸵鸟？抓不着还是鸵鸟肉难吃？",
-      "url": "https://www.zhihu.com/question/2047663796907516903",
-      "hot_value": "89 万热度",
+      "title": "成都一男生高考超过本科线 157 分却报考高职，本人回应「想进铁路局当火车司机」，如何看待这一选择？",
+      "url": "https://www.zhihu.com/question/2076612664869001143",
+      "hot_value": "104 万热度",
       "index": 17
     },
     {
-      "title": "古代打仗攻城，为何非要攻城门，不能绕过去吗？",
-      "url": "https://www.zhihu.com/question/2022835024496530843",
-      "hot_value": "78 万热度",
+      "title": "根号 15 和根号 17 谁更接近 4？",
+      "url": "https://www.zhihu.com/question/2073805227866773343",
+      "hot_value": "97 万热度",
       "index": 18
     },
     {
-      "title": "为什么干肠走不出东北，红肠却能火遍全国？",
-      "url": "https://www.zhihu.com/question/2074602307673764255",
-      "hot_value": "73 万热度",
+      "title": "如何评价「路易斯·弗莱明就是琥珀王」的推论？如果这一推论成立，会对《星穹铁道》的世界观框架有什么影响？",
+      "url": "https://www.zhihu.com/question/2075997540810544885",
+      "hot_value": "94 万热度",
       "index": 19
     },
     {
-      "title": "5G 商用七年了，除了手机右上角多 5G 标识，网速体验和 4G 没差别，信号甚至更差，我该如何反驳这种观点？",
-      "url": "https://www.zhihu.com/question/2076052849881104673",
-      "hot_value": "72 万热度",
+      "title": "21 岁大学生 3 年考 100 个证引热议，考证越多越好吗？对未来发展有什么帮助？",
+      "url": "https://www.zhihu.com/question/2076707196251928036",
+      "hot_value": "93 万热度",
       "index": 20
     },
     {
       "title": "特朗普签署行政令将「安大略湖」改名为「美国湖」，「大西洋」、「太平洋」可能也得改名，如何看待这一行为？",
       "url": "https://www.zhihu.com/question/2076609978949792331",
-      "hot_value": "71 万热度",
+      "hot_value": "91 万热度",
       "index": 21
     },
     {
-      "title": "没有人胁迫作者的情况下，谏山创为什么一定要写艾伦指挥巨人吃掉自己的母亲呢？",
-      "url": "https://www.zhihu.com/question/2074064627382621576",
-      "hot_value": "69 万热度",
+      "title": "牛类突然有了智慧，诉求：若不允许人类的乳汁当作商品出售，也不能再允许牛奶销售，乳业协会如何作答？",
+      "url": "https://www.zhihu.com/question/2072192775517377020",
+      "hot_value": "90 万热度",
       "index": 22
     },
     {
-      "title": "有哪些让你相见恨晚的「时间管理」技巧，真正改变了你的生活节奏？",
-      "url": "https://www.zhihu.com/question/1966873395380617820",
-      "hot_value": "66 万热度",
+      "title": "为什么王尼玛、英国报姐、同道大叔等博主不愿意露脸？",
+      "url": "https://www.zhihu.com/question/270496733",
+      "hot_value": "87 万热度",
       "index": 23
     },
     {
-      "title": "怎么理解男女同事的边界感？",
-      "url": "https://www.zhihu.com/question/664748444",
-      "hot_value": "59 万热度",
+      "title": "如果我穿越到战锤世界并知晓所有恶魔的真名会发生什么？",
+      "url": "https://www.zhihu.com/question/1890169476663726965",
+      "hot_value": "80 万热度",
       "index": 24
     },
     {
-      "title": "现在大家对月饼都不怎么感兴趣了，为什么？",
-      "url": "https://www.zhihu.com/question/667472784",
-      "hot_value": "58 万热度",
+      "title": "连云港集中销毁烟花时发生爆炸，致邻市 570 多户房屋受损，为何会有这么大威力？此次事故暴露出哪些问题？",
+      "url": "https://www.zhihu.com/question/2076310314954534916",
+      "hot_value": "79 万热度",
       "index": 25
     },
     {
-      "title": "如何评价腾讯混元 8 月 28 日发布并开源新一代大语言模型 Hy4 preview？实际体验如何？",
-      "url": "https://www.zhihu.com/question/2076674418479257365",
-      "hot_value": "57 万热度",
+      "title": "如何评价育碧在 Steam 上架《英雄无敌 3》却忘记发游戏文件，玩家仅下载到 23KB 占位符？",
+      "url": "https://www.zhihu.com/question/2076243232774677882",
+      "hot_value": "77 万热度",
       "index": 26
     },
     {
-      "title": "尼泊尔山洪死亡人数升至 469 人，有 977 人失联，目前当地情况怎么样？",
-      "url": "https://www.zhihu.com/question/2076209729705965123",
-      "hot_value": "57 万热度",
+      "title": "有哪些经济学常识，其实是错的或者被严重误读的？",
+      "url": "https://www.zhihu.com/question/2074996675840689633",
+      "hot_value": "73 万热度",
       "index": 27
     },
     {
-      "title": "自学日语，一年内能学到什么程度？",
-      "url": "https://www.zhihu.com/question/10009186279",
-      "hot_value": "57 万热度",
+      "title": "假如电鳗很早就灭绝了，生物学家能否通过其化石等推测出其可以放电？",
+      "url": "https://www.zhihu.com/question/48176151",
+      "hot_value": "70 万热度",
       "index": 28
     },
     {
-      "title": "在国内，与《钢铁是怎么炼成的》相比，《静静的顿河》是不是一部反动小说？",
-      "url": "https://www.zhihu.com/question/2074154568259199163",
-      "hot_value": "57 万热度",
+      "title": "5G 商用七年了，除了手机右上角多 5G 标识，网速体验和 4G 没差别，信号甚至更差，我该如何反驳这种观点？",
+      "url": "https://www.zhihu.com/question/2076052849881104673",
+      "hot_value": "68 万热度",
       "index": 29
     },
     {
-      "title": "约朋友聚餐，你会更喜欢选择自己熟悉的餐厅还是从没吃过的餐厅？",
-      "url": "https://www.zhihu.com/question/648397979",
-      "hot_value": "57 万热度",
+      "title": "有没有大佬帮我解释一下 AI infra 到底是干啥的？",
+      "url": "https://www.zhihu.com/question/4023337465",
+      "hot_value": "68 万热度",
       "index": 30
     }
   ]
