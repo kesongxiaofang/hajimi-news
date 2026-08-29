@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-08-29T17:28:53Z",
+  "update_time": "2026-08-29T19:56:40Z",
   "count": 30,
   "list": [
     {
-      "title": "吉隆口岸小邬警官确认平安",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89%23",
-      "hot_value": "767990",
+      "title": "长大后先对什么祛魅了",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E5%90%8E%E5%85%88%E5%AF%B9%E4%BB%80%E4%B9%88%E7%A5%9B%E9%AD%85%E4%BA%86%23",
+      "hot_value": "216434",
       "index": 1
     },
     {
-      "title": "长大后先对什么祛魅了",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E5%90%8E%E5%85%88%E5%AF%B9%E4%BB%80%E4%B9%88%E7%A5%9B%E9%AD%85%E4%BA%86%23",
-      "hot_value": "572073",
+      "title": "吉隆口岸小邬警官确认平安",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89%23",
+      "hot_value": "145469",
       "index": 2
     },
     {
       "title": "AI赋能新电商发展",
       "url": "https://s.weibo.com/weibo?q=%23AI%E8%B5%8B%E8%83%BD%E6%96%B0%E7%94%B5%E5%95%86%E5%8F%91%E5%B1%95%23",
-      "hot_value": "409488",
+      "hot_value": "128433",
       "index": 3
-    },
-    {
-      "title": "樊振东2比3户上隼辅",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C2%E6%AF%943%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%23",
-      "hot_value": "388546",
-      "index": 4
     },
     {
       "title": "小说男女主照进现实了",
       "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%E4%BA%86%23",
-      "hot_value": "318201",
-      "index": 5
-    },
-    {
-      "title": "黄景瑜疯狂拥抱宋亚东",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%96%AF%E7%8B%82%E6%8B%A5%E6%8A%B1%E5%AE%8B%E4%BA%9A%E4%B8%9C%23",
-      "hot_value": "294980",
-      "index": 6
-    },
-    {
-      "title": "房子薄成这样原来真的有人住在里面",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%AD%90%E8%96%84%E6%88%90%E8%BF%99%E6%A0%B7%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E4%BD%8F%E5%9C%A8%E9%87%8C%E9%9D%A2%23",
-      "hot_value": "284806",
-      "index": 7
-    },
-    {
-      "title": "冲锋衣选颜色邪修大法",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%86%B2%E9%94%8B%E8%A1%A3%E9%80%89%E9%A2%9C%E8%89%B2%E9%82%AA%E4%BF%AE%E5%A4%A7%E6%B3%95%23",
-      "hot_value": "284676",
-      "index": 8
-    },
-    {
-      "title": "原来真的有人住在里面",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E4%BD%8F%E5%9C%A8%E9%87%8C%E9%9D%A2%23",
-      "hot_value": "284538",
-      "index": 9
-    },
-    {
-      "title": "吉隆口岸入警1年樊乐乐失联",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%85%A5%E8%AD%A61%E5%B9%B4%E6%A8%8A%E4%B9%90%E4%B9%90%E5%A4%B1%E8%81%94%23",
-      "hot_value": "284385",
-      "index": 10
-    },
-    {
-      "title": "户上隼辅首胜樊振东官网都崩了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%E9%A6%96%E8%83%9C%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AE%98%E7%BD%91%E9%83%BD%E5%B4%A9%E4%BA%86%23",
-      "hot_value": "284029",
-      "index": 11
-    },
-    {
-      "title": "被井柏然吻技演技迷住了",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%95%E6%9F%8F%E7%84%B6%E5%90%BB%E6%8A%80%E6%BC%94%E6%8A%80%E8%BF%B7%E4%BD%8F%E4%BA%86%23",
-      "hot_value": "283915",
-      "index": 12
-    },
-    {
-      "title": "常冰玉10比7赵心童",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%86%B0%E7%8E%8910%E6%AF%947%E8%B5%B5%E5%BF%83%E7%AB%A5%23",
-      "hot_value": "283746",
-      "index": 13
-    },
-    {
-      "title": "尼泊尔幸存者称根本来不及逃生",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B9%B8%E5%AD%98%E8%80%85%E7%A7%B0%E6%A0%B9%E6%9C%AC%E6%9D%A5%E4%B8%8D%E5%8F%8A%E9%80%83%E7%94%9F%23",
-      "hot_value": "283488",
-      "index": 14
+      "hot_value": "121803",
+      "index": 4
     },
     {
       "title": "早春晴朗",
       "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23",
-      "hot_value": "283300",
+      "hot_value": "90197",
+      "index": 5
+    },
+    {
+      "title": "樊振东2比3户上隼辅",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C2%E6%AF%943%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%23",
+      "hot_value": "83381",
+      "index": 6
+    },
+    {
+      "title": "黄景瑜疯狂拥抱宋亚东",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%96%AF%E7%8B%82%E6%8B%A5%E6%8A%B1%E5%AE%8B%E4%BA%9A%E4%B8%9C%23",
+      "hot_value": "83366",
+      "index": 7
+    },
+    {
+      "title": "剧里看到朴允浩整容成柳俊烈",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%89%A7%E9%87%8C%E7%9C%8B%E5%88%B0%E6%9C%B4%E5%85%81%E6%B5%A9%E6%95%B4%E5%AE%B9%E6%88%90%E6%9F%B3%E4%BF%8A%E7%83%88%23",
+      "hot_value": "83251",
+      "index": 8
+    },
+    {
+      "title": "房子薄成这样原来真的有人住在里面",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%AD%90%E8%96%84%E6%88%90%E8%BF%99%E6%A0%B7%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E4%BD%8F%E5%9C%A8%E9%87%8C%E9%9D%A2%23",
+      "hot_value": "83195",
+      "index": 9
+    },
+    {
+      "title": "冲锋衣选颜色邪修大法",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%86%B2%E9%94%8B%E8%A1%A3%E9%80%89%E9%A2%9C%E8%89%B2%E9%82%AA%E4%BF%AE%E5%A4%A7%E6%B3%95%23",
+      "hot_value": "83121",
+      "index": 10
+    },
+    {
+      "title": "吉隆口岸沿途挂满衣物碎片",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E6%B2%BF%E9%80%94%E6%8C%82%E6%BB%A1%E8%A1%A3%E7%89%A9%E7%A2%8E%E7%89%87%23",
+      "hot_value": "83078",
+      "index": 11
+    },
+    {
+      "title": "金价1小时连降4次",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B71%E5%B0%8F%E6%97%B6%E8%BF%9E%E9%99%8D4%E6%AC%A1%23",
+      "hot_value": "83021",
+      "index": 12
+    },
+    {
+      "title": "女乘客航班上遭邻座暴力殴打",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%AE%A2%E8%88%AA%E7%8F%AD%E4%B8%8A%E9%81%AD%E9%82%BB%E5%BA%A7%E6%9A%B4%E5%8A%9B%E6%AE%B4%E6%89%93%23",
+      "hot_value": "82930",
+      "index": 13
+    },
+    {
+      "title": "吉隆口岸入警1年樊乐乐失联",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%85%A5%E8%AD%A61%E5%B9%B4%E6%A8%8A%E4%B9%90%E4%B9%90%E5%A4%B1%E8%81%94%23",
+      "hot_value": "82839",
+      "index": 14
+    },
+    {
+      "title": "户上隼辅首胜樊振东官网都崩了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%E9%A6%96%E8%83%9C%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AE%98%E7%BD%91%E9%83%BD%E5%B4%A9%E4%BA%86%23",
+      "hot_value": "82781",
       "index": 15
     },
     {
-      "title": "央视曝光保温杯造假套路",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%BF%9D%E6%B8%A9%E6%9D%AF%E9%80%A0%E5%81%87%E5%A5%97%E8%B7%AF%23",
-      "hot_value": "283135",
+      "title": "萨摩耶坐飞机超重都不耶了",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%90%A8%E6%91%A9%E8%80%B6%E5%9D%90%E9%A3%9E%E6%9C%BA%E8%B6%85%E9%87%8D%E9%83%BD%E4%B8%8D%E8%80%B6%E4%BA%86%23",
+      "hot_value": "82720",
       "index": 16
     },
     {
-      "title": "伊朗发了一个嘲讽美国的神视频",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%A5%9E%E8%A7%86%E9%A2%91%23",
-      "hot_value": "282863",
+      "title": "尼泊尔幸存者称根本来不及逃生",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B9%B8%E5%AD%98%E8%80%85%E7%A7%B0%E6%A0%B9%E6%9C%AC%E6%9D%A5%E4%B8%8D%E5%8F%8A%E9%80%83%E7%94%9F%23",
+      "hot_value": "82663",
       "index": 17
     },
     {
-      "title": "樊振东无缘德国杯8强",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%97%A0%E7%BC%98%E5%BE%B7%E5%9B%BD%E6%9D%AF8%E5%BC%BA%23",
-      "hot_value": "282813",
+      "title": "原来真的有人住在里面",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E4%BD%8F%E5%9C%A8%E9%87%8C%E9%9D%A2%23",
+      "hot_value": "82608",
       "index": 18
     },
     {
-      "title": "吉隆口岸大楼只剩钢筋骨架",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%A4%A7%E6%A5%BC%E5%8F%AA%E5%89%A9%E9%92%A2%E7%AD%8B%E9%AA%A8%E6%9E%B6%23",
-      "hot_value": "282470",
+      "title": "被井柏然吻技演技迷住了",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%95%E6%9F%8F%E7%84%B6%E5%90%BB%E6%8A%80%E6%BC%94%E6%8A%80%E8%BF%B7%E4%BD%8F%E4%BA%86%23",
+      "hot_value": "82500",
       "index": 19
     },
     {
-      "title": "宋亚东KO乌马尔",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E4%B8%9CKO%E4%B9%8C%E9%A9%AC%E5%B0%94%23",
-      "hot_value": "282376",
+      "title": "比包贝尔回应先来的是他新剧",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%8C%85%E8%B4%9D%E5%B0%94%E5%9B%9E%E5%BA%94%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E4%BB%96%E6%96%B0%E5%89%A7%23",
+      "hot_value": "82431",
       "index": 20
     },
     {
       "title": "女子分享自己怀孕后的唯一收入方式",
       "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%86%E4%BA%AB%E8%87%AA%E5%B7%B1%E6%80%80%E5%AD%95%E5%90%8E%E7%9A%84%E5%94%AF%E4%B8%80%E6%94%B6%E5%85%A5%E6%96%B9%E5%BC%8F%23",
-      "hot_value": "282065",
+      "hot_value": "82369",
       "index": 21
     },
     {
       "title": "这5种常见蔬菜是抗炎高手",
       "url": "https://s.weibo.com/weibo?q=%23%E8%BF%995%E7%A7%8D%E5%B8%B8%E8%A7%81%E8%94%AC%E8%8F%9C%E6%98%AF%E6%8A%97%E7%82%8E%E9%AB%98%E6%89%8B%23",
-      "hot_value": "281867",
+      "hot_value": "82301",
       "index": 22
     },
     {
-      "title": "90后守国门警花文燕仍无音信",
-      "url": "https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%AE%88%E5%9B%BD%E9%97%A8%E8%AD%A6%E8%8A%B1%E6%96%87%E7%87%95%E4%BB%8D%E6%97%A0%E9%9F%B3%E4%BF%A1%23",
-      "hot_value": "281642",
+      "title": "樊振东无缘德国杯8强",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%97%A0%E7%BC%98%E5%BE%B7%E5%9B%BD%E6%9D%AF8%E5%BC%BA%23",
+      "hot_value": "82222",
       "index": 23
     },
     {
-      "title": "TES要打iG了",
-      "url": "https://s.weibo.com/weibo?q=%23TES%E8%A6%81%E6%89%93iG%E4%BA%86%23",
-      "hot_value": "281473",
+      "title": "宋亚东KO乌马尔",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E4%B8%9CKO%E4%B9%8C%E9%A9%AC%E5%B0%94%23",
+      "hot_value": "82201",
       "index": 24
     },
     {
-      "title": "男子婚后第三天自愿给房子加妻子名字",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A9%9A%E5%90%8E%E7%AC%AC%E4%B8%89%E5%A4%A9%E8%87%AA%E6%84%BF%E7%BB%99%E6%88%BF%E5%AD%90%E5%8A%A0%E5%A6%BB%E5%AD%90%E5%90%8D%E5%AD%97%23",
-      "hot_value": "281253",
+      "title": "常冰玉10比7赵心童",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%86%B0%E7%8E%8910%E6%AF%947%E8%B5%B5%E5%BF%83%E7%AB%A5%23",
+      "hot_value": "82081",
       "index": 25
     },
     {
       "title": "小米18Fold",
       "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318Fold%23",
-      "hot_value": "281056",
+      "hot_value": "82006",
       "index": 26
+    },
+    {
+      "title": "男子婚后第三天自愿给房子加妻子名字",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A9%9A%E5%90%8E%E7%AC%AC%E4%B8%89%E5%A4%A9%E8%87%AA%E6%84%BF%E7%BB%99%E6%88%BF%E5%AD%90%E5%8A%A0%E5%A6%BB%E5%AD%90%E5%90%8D%E5%AD%97%23",
+      "hot_value": "81952",
+      "index": 27
     },
     {
       "title": "西藏泥石流救援",
       "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%95%91%E6%8F%B4%23",
-      "hot_value": "280940",
-      "index": 27
-    },
-    {
-      "title": "王菲躲镜头",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E8%BA%B2%E9%95%9C%E5%A4%B4%23",
-      "hot_value": "280660",
+      "hot_value": "81920",
       "index": 28
     },
     {
-      "title": "JackeyLove力竭",
-      "url": "https://s.weibo.com/weibo?q=%23JackeyLove%E5%8A%9B%E7%AB%AD%23",
-      "hot_value": "280459",
+      "title": "家长轻信偏方7岁女童全身皮肤糜烂",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E8%BD%BB%E4%BF%A1%E5%81%8F%E6%96%B97%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%85%A8%E8%BA%AB%E7%9A%AE%E8%82%A4%E7%B3%9C%E7%83%82%23",
+      "hot_value": "81836",
       "index": 29
     },
     {
-      "title": "早春晴朗要开虐了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%A6%81%E5%BC%80%E8%99%90%E4%BA%86%23",
-      "hot_value": "280334",
+      "title": "常冰玉击败赵心童夺冠",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%86%B0%E7%8E%89%E5%87%BB%E8%B4%A5%E8%B5%B5%E5%BF%83%E7%AB%A5%E5%A4%BA%E5%86%A0%23",
+      "hot_value": "81732",
       "index": 30
     }
   ]

@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-29T17:28:53Z",
+  "update_time": "2026-08-29T19:56:40Z",
   "count": 30,
   "list": [
     {
       "title": "吉隆口岸地貌发生明显改变，已看不出任何建筑物轮廓，救援队进行拉网式排查搜救，目前救援面临哪些难点？",
       "url": "https://www.zhihu.com/question/2076960285475042999",
-      "hot_value": "2739 万热度",
+      "hot_value": "1030 万热度",
       "index": 1
     },
     {
       "title": "樊振东 11-13 惜败户上隼辅，其所在球队 1-3 不敌对手，无缘德国杯 8 强，如何评价他的表现？",
       "url": "https://www.zhihu.com/question/2077132758401246582",
-      "hot_value": "1143 万热度",
+      "hot_value": "993 万热度",
       "index": 2
     },
     {
       "title": "六岁男童旅游被烟花炸伤右眼几近失明，半年找不到放烟花的人，妈妈称「连告谁都不清楚」，到底谁该对此负责？",
       "url": "https://www.zhihu.com/question/2076749706848383726",
-      "hot_value": "248 万热度",
+      "hot_value": "259 万热度",
       "index": 3
-    },
-    {
-      "title": "新加坡人几乎都是在外面吃饭，他们有没有预制菜？",
-      "url": "https://www.zhihu.com/question/2076313906579096130",
-      "hot_value": "215 万热度",
-      "index": 4
-    },
-    {
-      "title": "男子面试提交方案，被拒后收到公司一千元「车马费与茶水费」，男子称「感受到尊重」，如何评价该做法？",
-      "url": "https://www.zhihu.com/question/2076742550052922141",
-      "hot_value": "197 万热度",
-      "index": 5
     },
     {
       "title": "《爱情公寓》羽墨的角色为什么被放弃了？而悠悠却被保留下来？",
       "url": "https://www.zhihu.com/question/49771510",
       "hot_value": "141 万热度",
+      "index": 4
+    },
+    {
+      "title": "郑州北龙湖疑现多条巨型鱼类，网友推测为「水老虎」 ，这可能是什么鱼？出现在城市内湖会有哪些潜在影响？",
+      "url": "https://www.zhihu.com/question/2075494563582407902",
+      "hot_value": "131 万热度",
+      "index": 5
+    },
+    {
+      "title": "男子面试提交方案，被拒后收到公司一千元「车马费与茶水费」，男子称「感受到尊重」，如何评价该做法？",
+      "url": "https://www.zhihu.com/question/2076742550052922141",
+      "hot_value": "129 万热度",
       "index": 6
     },
     {
       "title": "《爱情公寓》官方六年首次换头像，主演频繁合体，引发「回归季」猜测，可能性有多大？",
       "url": "https://www.zhihu.com/question/2076069365967844870",
-      "hot_value": "138 万热度",
-      "index": 7
-    },
-    {
-      "title": "乒协公示亚锦赛选拔办法，王楚钦、孙颖莎等 5 人放弃参赛，背后有哪些原因？国乒亚锦赛前景如何？",
-      "url": "https://www.zhihu.com/question/2076988218390442126",
-      "hot_value": "137 万热度",
-      "index": 8
-    },
-    {
-      "title": "UFC 上海站宋亚东第二回合 KO 战胜乌马尔，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2077159437056173685",
-      "hot_value": "136 万热度",
-      "index": 9
-    },
-    {
-      "title": "葫芦娃救爷爷为什么要一个一个上？",
-      "url": "https://www.zhihu.com/question/52654270",
-      "hot_value": "136 万热度",
-      "index": 10
-    },
-    {
-      "title": "尼泊尔山洪遇难人数升至 669 人、 2426 人失联，目前当地情况如何？",
-      "url": "https://www.zhihu.com/question/2076729617759432953",
-      "hot_value": "135 万热度",
-      "index": 11
-    },
-    {
-      "title": "郑州北龙湖疑现多条巨型鱼类，网友推测为「水老虎」 ，这可能是什么鱼？出现在城市内湖会有哪些潜在影响？",
-      "url": "https://www.zhihu.com/question/2075494563582407902",
-      "hot_value": "135 万热度",
-      "index": 12
-    },
-    {
-      "title": "涉教师耻辱合影县是国家重点帮扶县，教师每天实时监测辍学人数，这项工作反映了当地教育面临哪些深层挑战？",
-      "url": "https://www.zhihu.com/question/2076709478544757704",
-      "hot_value": "129 万热度",
-      "index": 13
-    },
-    {
-      "title": "看到有人说，孩子上幼儿园不哭的，都是因为平时就没有安全感，是这样吗？",
-      "url": "https://www.zhihu.com/question/2075675286998345413",
       "hot_value": "122 万热度",
-      "index": 14
-    },
-    {
-      "title": "LPL2026 第三赛段季后赛 TES 2:3 不敌 LGD 跌入败者组，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2077063958318600636",
-      "hot_value": "117 万热度",
-      "index": 15
+      "index": 7
     },
     {
       "title": "国家卫健委宣布白血病已非「不治之症」，多数患者可治愈，这一突破是如何实现的？背后有哪些医学原理？",
       "url": "https://www.zhihu.com/question/2074455186999984199",
       "hot_value": "116 万热度",
-      "index": 16
+      "index": 8
+    },
+    {
+      "title": "LPL2026 第三赛段季后赛 TES 2:3 不敌 LGD 跌入败者组，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2077063958318600636",
+      "hot_value": "112 万热度",
+      "index": 9
+    },
+    {
+      "title": "被称为「全球央行年会」的杰克逊霍尔经济政策研讨会将拉开帷幕，沃什将进行开幕演讲，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2076618428551356941",
+      "hot_value": "106 万热度",
+      "index": 10
+    },
+    {
+      "title": "尼泊尔山洪遇难人数升至 669 人、 2426 人失联，目前当地情况如何？",
+      "url": "https://www.zhihu.com/question/2076729617759432953",
+      "hot_value": "100 万热度",
+      "index": 11
+    },
+    {
+      "title": "乒协公示亚锦赛选拔办法，王楚钦、孙颖莎等 5 人放弃参赛，背后有哪些原因？国乒亚锦赛前景如何？",
+      "url": "https://www.zhihu.com/question/2076988218390442126",
+      "hot_value": "94 万热度",
+      "index": 12
+    },
+    {
+      "title": "涉教师耻辱合影县是国家重点帮扶县，教师每天实时监测辍学人数，这项工作反映了当地教育面临哪些深层挑战？",
+      "url": "https://www.zhihu.com/question/2076709478544757704",
+      "hot_value": "94 万热度",
+      "index": 13
     },
     {
       "title": "怎么看 OpenAI 因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型？",
       "url": "https://www.zhihu.com/question/2076984800188093248",
-      "hot_value": "109 万热度",
+      "hot_value": "93 万热度",
+      "index": 14
+    },
+    {
+      "title": "不奇怪吗？工业革命两百年来，只有十分之一国家完成工业化，其余永远完不成工业化，为什么？",
+      "url": "https://www.zhihu.com/question/2049060571459368805",
+      "hot_value": "87 万热度",
+      "index": 15
+    },
+    {
+      "title": "奔驰、宝马发布短片讽刺速成车，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2076228837369700495",
+      "hot_value": "84 万热度",
+      "index": 16
+    },
+    {
+      "title": "爸爸为了防止女儿早恋，带她到处旅游并故意把她晒黑，这种做法真的能起到防止早恋的作用吗？",
+      "url": "https://www.zhihu.com/question/2074767872866383641",
+      "hot_value": "81 万热度",
       "index": 17
+    },
+    {
+      "title": "新加坡人几乎都是在外面吃饭，他们有没有预制菜？",
+      "url": "https://www.zhihu.com/question/2076313906579096130",
+      "hot_value": "76 万热度",
+      "index": 18
+    },
+    {
+      "title": "UFC 上海站宋亚东第二回合 KO 战胜乌马尔，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2077159437056173685",
+      "hot_value": "59 万热度",
+      "index": 19
     },
     {
       "title": "GLM 5.3 正式开源，有什么值得关注的亮点？",
       "url": "https://www.zhihu.com/question/2076806281394926192",
-      "hot_value": "107 万热度",
-      "index": 18
-    },
-    {
-      "title": "为什么会有人觉得奥黛塔应该对旅行者有敌意？",
-      "url": "https://www.zhihu.com/question/2072008467922135021",
-      "hot_value": "95 万热度",
-      "index": 19
-    },
-    {
-      "title": "为什么我国这么多高层住宅？我们真的缺土地吗？",
-      "url": "https://www.zhihu.com/question/2027782324171841774",
-      "hot_value": "90 万热度",
+      "hot_value": "59 万热度",
       "index": 20
     },
     {
       "title": "《复仇者联盟 4》内地重映定档，9 月 25 日同步北美，为年底复联 5 上映预热，你会去电影院看吗？",
       "url": "https://www.zhihu.com/question/2075886099897869864",
-      "hot_value": "88 万热度",
+      "hot_value": "59 万热度",
       "index": 21
     },
     {
-      "title": "奔驰、宝马发布短片讽刺速成车，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2076228837369700495",
-      "hot_value": "86 万热度",
+      "title": "为什么我国这么多高层住宅？我们真的缺土地吗？",
+      "url": "https://www.zhihu.com/question/2027782324171841774",
+      "hot_value": "59 万热度",
       "index": 22
     },
     {
-      "title": "总觉得累、睡不醒、没精神，是懒还是身体出了问题？",
-      "url": "https://www.zhihu.com/question/2061760436316419293",
-      "hot_value": "85 万热度",
+      "title": "看到有人说，孩子上幼儿园不哭的，都是因为平时就没有安全感，是这样吗？",
+      "url": "https://www.zhihu.com/question/2075675286998345413",
+      "hot_value": "59 万热度",
       "index": 23
     },
     {
       "title": "新高一女生，想做数学物理的量子场论方向的科研，学完了量子场论，我还需要读哪些数学书？",
       "url": "https://www.zhihu.com/question/2074868399788902347",
-      "hot_value": "85 万热度",
+      "hot_value": "59 万热度",
       "index": 24
     },
     {
-      "title": "爸爸为了防止女儿早恋，带她到处旅游并故意把她晒黑，这种做法真的能起到防止早恋的作用吗？",
-      "url": "https://www.zhihu.com/question/2074767872866383641",
-      "hot_value": "84 万热度",
+      "title": "总觉得累、睡不醒、没精神，是懒还是身体出了问题？",
+      "url": "https://www.zhihu.com/question/2061760436316419293",
+      "hot_value": "59 万热度",
       "index": 25
     },
     {
-      "title": "不奇怪吗？工业革命两百年来，只有十分之一国家完成工业化，其余永远完不成工业化，为什么？",
-      "url": "https://www.zhihu.com/question/2049060571459368805",
-      "hot_value": "81 万热度",
+      "title": "为什么会有人觉得奥黛塔应该对旅行者有敌意？",
+      "url": "https://www.zhihu.com/question/2072008467922135021",
+      "hot_value": "59 万热度",
       "index": 26
     },
     {
       "title": "电影《空枪》中有哪些不易察觉的细节？",
       "url": "https://www.zhihu.com/question/2073510167874725877",
-      "hot_value": "72 万热度",
+      "hot_value": "58 万热度",
       "index": 27
+    },
+    {
+      "title": "在没有现代意义上的银行业的古代，乱世中的小兵战利品和军饷怎么保全？在稍具银行业的近古和近代乱世中呢？",
+      "url": "https://www.zhihu.com/question/1913567499158557023",
+      "hot_value": "57 万热度",
+      "index": 28
+    },
+    {
+      "title": "用了 5 年的合法固定车位，被邻楼老太强行霸占，放完杂物直接砌水泥墩，物业管不了我该怎么办？",
+      "url": "https://www.zhihu.com/question/2038383492602532826",
+      "hot_value": "57 万热度",
+      "index": 29
     },
     {
       "title": "如何评价井柏然、孙千主演的电视剧《早春晴朗》？",
       "url": "https://www.zhihu.com/question/2075953902944347734",
-      "hot_value": "70 万热度",
-      "index": 28
-    },
-    {
-      "title": "人类的想象力是否有限？",
-      "url": "https://www.zhihu.com/question/52209051",
-      "hot_value": "59 万热度",
-      "index": 29
-    },
-    {
-      "title": "你会一个人出去旅游吗?",
-      "url": "https://www.zhihu.com/question/1920450791052908529",
-      "hot_value": "58 万热度",
+      "hot_value": "57 万热度",
       "index": 30
     }
   ]
