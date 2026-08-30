@@ -1,162 +1,162 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-30T16:53:07Z",
+  "update_time": "2026-08-30T19:36:35Z",
   "count": 30,
   "list": [
     {
       "title": "国家动物博物馆两个小孩手抓脚踢致莽山原矛头蝮标本受损，父亲一起玩闹，这一标本有多珍贵？谁该担责？",
       "url": "https://www.zhihu.com/question/2077196582349546349",
-      "hot_value": "1942 万热度",
+      "hot_value": "833 万热度",
       "index": 1
     },
     {
       "title": "网易云音乐疑似官宣适配鸿蒙，长期缺席后为何选择此时适配？能否挽回此前流失的部分用户？",
       "url": "https://www.zhihu.com/question/2077426554766713765",
-      "hot_value": "454 万热度",
+      "hot_value": "450 万热度",
       "index": 2
-    },
-    {
-      "title": "婚宴上，新郎的舅舅坐上席，新郎的叔叔不乐意了，扭头就走，舅舅应不应该坐上席?",
-      "url": "https://www.zhihu.com/question/2075696679496504350",
-      "hot_value": "366 万热度",
-      "index": 3
     },
     {
       "title": "如何评价清华大学宣布废除 GPA 排名，实施推免综合评价？",
       "url": "https://www.zhihu.com/question/2076406082747090665",
-      "hot_value": "229 万热度",
+      "hot_value": "223 万热度",
+      "index": 3
+    },
+    {
+      "title": "官方通报「博主街头除钉因扬尘影响环保被叫停」，称工作人员沟通方式造成误解，有更好的处理方式吗？",
+      "url": "https://www.zhihu.com/question/2076962750237091669",
+      "hot_value": "128 万热度",
       "index": 4
     },
     {
-      "title": "LPL 2026 赛季季后赛 JDG 1:3 WE，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2077426309928695629",
-      "hot_value": "111 万热度",
+      "title": "DLSS5 意外泄露，从目前泄露版表现来看你觉得实际效果如何？对业界会有什么影响？",
+      "url": "https://www.zhihu.com/question/2077012076963313193",
+      "hot_value": "106 万热度",
       "index": 5
-    },
-    {
-      "title": "轻薄本疯狂砍掉 A 口、 HDMI，全靠 Type‑C，为轻薄牺牲接口，到底是进步还是对普通用户不负责任？",
-      "url": "https://www.zhihu.com/question/2076757072998293859",
-      "hot_value": "102 万热度",
-      "index": 6
-    },
-    {
-      "title": "我爸爸脑出血并脑疝，是我选择放弃做手术，是我选择停用的药物，我现在却迷茫了，我不知道我做的对不对了?",
-      "url": "https://www.zhihu.com/question/1911392184789369939",
-      "hot_value": "100 万热度",
-      "index": 7
-    },
-    {
-      "title": "2026 女排亚锦赛决赛，中国女排 2 比 3 不敌泰国女排，无缘直通奥运，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2077503530332415035",
-      "hot_value": "96 万热度",
-      "index": 8
-    },
-    {
-      "title": "国家自然基金委通报 31 个项目并追回资助，这暴露出我国科研管理存在哪些问题？",
-      "url": "https://www.zhihu.com/question/2077042396831946679",
-      "hot_value": "95 万热度",
-      "index": 9
     },
     {
       "title": "为什么很多大学生更喜欢买标准版 iPhone，而不是 Pro？",
       "url": "https://www.zhihu.com/question/2075613391306208746",
-      "hot_value": "89 万热度",
-      "index": 10
+      "hot_value": "103 万热度",
+      "index": 6
     },
     {
-      "title": "老师补课费用太贵了，不好意思拒绝，怎么办?",
-      "url": "https://www.zhihu.com/question/661570834",
-      "hot_value": "87 万热度",
-      "index": 11
+      "title": "2026 女排亚锦赛决赛，中国女排 2 比 3 不敌泰国女排，无缘直通奥运，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2077503530332415035",
+      "hot_value": "93 万热度",
+      "index": 7
     },
     {
-      "title": "为什么魏晋南北朝时期的权臣，不能和日本幕府将军那样，在不篡位的情况下，大权独揽？",
-      "url": "https://www.zhihu.com/question/11125002424",
-      "hot_value": "87 万热度",
-      "index": 12
-    },
-    {
-      "title": "诺基亚疑加快收缩中国业务，发言人称正调整在中国的运营布局，这是要退出中国市场了吗？其面临怎样的处境？",
-      "url": "https://www.zhihu.com/question/2073296164783502306",
-      "hot_value": "87 万热度",
-      "index": 13
-    },
-    {
-      "title": "为什么到清代，工艺品变得那么繁琐细碎，当时国人的审美为什么会变成这样？",
-      "url": "https://www.zhihu.com/question/543605593",
-      "hot_value": "86 万热度",
-      "index": 14
+      "title": "霍金举办的时间旅行宴会为何无人露面？",
+      "url": "https://www.zhihu.com/question/337260240",
+      "hot_value": "84 万热度",
+      "index": 8
     },
     {
       "title": "医生说「先不用治」，到底是什么意思？",
       "url": "https://www.zhihu.com/question/2075924028439672235",
-      "hot_value": "81 万热度",
+      "hot_value": "75 万热度",
+      "index": 9
+    },
+    {
+      "title": "网传 PL-17 导弹 J-20 弹仓无法容纳，是真的吗？若属实，这是设计局限还是战略考量？",
+      "url": "https://www.zhihu.com/question/2075414467538699623",
+      "hot_value": "66 万热度",
+      "index": 10
+    },
+    {
+      "title": "诺基亚疑加快收缩中国业务，发言人称正调整在中国的运营布局，这是要退出中国市场了吗？其面临怎样的处境？",
+      "url": "https://www.zhihu.com/question/2073296164783502306",
+      "hot_value": "59 万热度",
+      "index": 11
+    },
+    {
+      "title": "老师补课费用太贵了，不好意思拒绝，怎么办?",
+      "url": "https://www.zhihu.com/question/661570834",
+      "hot_value": "59 万热度",
+      "index": 12
+    },
+    {
+      "title": "轻薄本疯狂砍掉 A 口、 HDMI，全靠 Type‑C，为轻薄牺牲接口，到底是进步还是对普通用户不负责任？",
+      "url": "https://www.zhihu.com/question/2076757072998293859",
+      "hot_value": "59 万热度",
+      "index": 13
+    },
+    {
+      "title": "婚宴上，新郎的舅舅坐上席，新郎的叔叔不乐意了，扭头就走，舅舅应不应该坐上席?",
+      "url": "https://www.zhihu.com/question/2075696679496504350",
+      "hot_value": "58 万热度",
+      "index": 14
+    },
+    {
+      "title": "为什么到清代，工艺品变得那么繁琐细碎，当时国人的审美为什么会变成这样？",
+      "url": "https://www.zhihu.com/question/543605593",
+      "hot_value": "57 万热度",
       "index": 15
     },
     {
       "title": "如何看待工信部通报一致性检测典型案例，比亚迪一款插混车型因油耗过高上榜？",
       "url": "https://www.zhihu.com/question/2076734017597194663",
-      "hot_value": "80 万热度",
+      "hot_value": "57 万热度",
       "index": 16
-    },
-    {
-      "title": "如何评价《空枪》中檀健次的表演？",
-      "url": "https://www.zhihu.com/question/2073894907534746957",
-      "hot_value": "79 万热度",
-      "index": 17
-    },
-    {
-      "title": "如果用一种水果来形容友情，你会选什么？为什么？",
-      "url": "https://www.zhihu.com/question/2074226925464245948",
-      "hot_value": "74 万热度",
-      "index": 18
-    },
-    {
-      "title": "网传 PL-17 导弹 J-20 弹仓无法容纳，是真的吗？若属实，这是设计局限还是战略考量？",
-      "url": "https://www.zhihu.com/question/2075414467538699623",
-      "hot_value": "68 万热度",
-      "index": 19
-    },
-    {
-      "title": "2026 年乒乓球德国杯，樊振东 2：3 不敌户上隼辅，怎么评价本次赛事杜塞尔多夫俱乐部止步 16 强的表现？",
-      "url": "https://www.zhihu.com/question/2077141243025536393",
-      "hot_value": "58 万热度",
-      "index": 20
     },
     {
       "title": "《爱情公寓》羽墨的角色为什么被放弃了？而悠悠却被保留下来？",
       "url": "https://www.zhihu.com/question/49771510",
       "hot_value": "57 万热度",
+      "index": 17
+    },
+    {
+      "title": "国家自然基金委通报 31 个项目并追回资助，这暴露出我国科研管理存在哪些问题？",
+      "url": "https://www.zhihu.com/question/2077042396831946679",
+      "hot_value": "57 万热度",
+      "index": 18
+    },
+    {
+      "title": "如果用一种水果来形容友情，你会选什么？为什么？",
+      "url": "https://www.zhihu.com/question/2074226925464245948",
+      "hot_value": "57 万热度",
+      "index": 19
+    },
+    {
+      "title": "为什么魏晋南北朝时期的权臣，不能和日本幕府将军那样，在不篡位的情况下，大权独揽？",
+      "url": "https://www.zhihu.com/question/11125002424",
+      "hot_value": "57 万热度",
+      "index": 20
+    },
+    {
+      "title": "如何评价《空枪》中檀健次的表演？",
+      "url": "https://www.zhihu.com/question/2073894907534746957",
+      "hot_value": "56 万热度",
       "index": 21
     },
     {
-      "title": "如何保持较长时间的精力？",
-      "url": "https://www.zhihu.com/question/445699490",
-      "hot_value": "55 万热度",
+      "title": "LPL 2026 赛季季后赛 JDG 1:3 WE，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2077426309928695629",
+      "hot_value": "54 万热度",
       "index": 22
     },
     {
-      "title": "育儿书上的方法，是不是可以「照单全收」？",
-      "url": "https://www.zhihu.com/question/2076532884903552601",
-      "hot_value": "54 万热度",
+      "title": "我爸爸脑出血并脑疝，是我选择放弃做手术，是我选择停用的药物，我现在却迷茫了，我不知道我做的对不对了?",
+      "url": "https://www.zhihu.com/question/1911392184789369939",
+      "hot_value": "53 万热度",
       "index": 23
-    },
-    {
-      "title": "领导要求的工作方式效率低下，如何说服他尝试新方法？",
-      "url": "https://www.zhihu.com/question/2075752308605039091",
-      "hot_value": "54 万热度",
-      "index": 24
     },
     {
       "title": "周星驰为什么坚持用张美娥做丑配？",
       "url": "https://www.zhihu.com/question/2060701714739679776",
       "hot_value": "53 万热度",
+      "index": 24
+    },
+    {
+      "title": "不奇怪吗？工业革命两百年来，只有十分之一国家完成工业化，其余永远完不成工业化，为什么？",
+      "url": "https://www.zhihu.com/question/2049060571459368805",
+      "hot_value": "53 万热度",
       "index": 25
     },
     {
-      "title": "职场中谁是「贵人」，如何才能找到你的「贵人」呢？",
-      "url": "https://www.zhihu.com/question/778993768",
+      "title": "新加坡人几乎都是在外面吃饭，他们有没有预制菜？",
+      "url": "https://www.zhihu.com/question/2076313906579096130",
       "hot_value": "53 万热度",
       "index": 26
     },
@@ -167,20 +167,20 @@
       "index": 27
     },
     {
-      "title": "如果一款武侠游戏加入火枪，那么如何避免这个游戏过于依赖热武器？",
-      "url": "https://www.zhihu.com/question/2075353195505772214",
+      "title": "有哪些事情长期坚持下去能够产生巨大的收益?",
+      "url": "https://www.zhihu.com/question/423156730",
       "hot_value": "53 万热度",
       "index": 28
     },
     {
-      "title": "为什么会有人觉得奥黛塔应该对旅行者有敌意？",
-      "url": "https://www.zhihu.com/question/2072008467922135021",
+      "title": "假如电鳗很早就灭绝了，生物学家能否通过其化石等推测出其可以放电？",
+      "url": "https://www.zhihu.com/question/48176151",
       "hot_value": "53 万热度",
       "index": 29
     },
     {
-      "title": "不奇怪吗？工业革命两百年来，只有十分之一国家完成工业化，其余永远完不成工业化，为什么？",
-      "url": "https://www.zhihu.com/question/2049060571459368805",
+      "title": "2026-27 赛季乒乓球德国杯，樊振东 3-1 莫维利亚努，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2077102709623220089",
       "hot_value": "53 万热度",
       "index": 30
     }
