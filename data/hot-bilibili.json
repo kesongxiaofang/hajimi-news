@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-08-30T12:05:52Z",
+  "update_time": "2026-08-30T16:53:07Z",
   "count": 30,
   "list": [
     {
-      "title": "《古神: 风里希》科隆游戏展最新预告片 | 世界观前瞻",
-      "url": "https://www.bilibili.com/video/BV1xQtw6WELS",
-      "hot_value": "5386963播放",
+      "title": "《全障碍沟通》",
+      "url": "https://www.bilibili.com/video/BV1gk4X6zEm5",
+      "hot_value": "728604播放",
       "index": 1
     },
     {
-      "title": "【大学生就业指导】麦当当薯条N重奏！200块买两斤土豆？不能够了！",
-      "url": "https://www.bilibili.com/video/BV16g4y6tEzY",
-      "hot_value": "977110播放",
+      "title": "干中学",
+      "url": "https://www.bilibili.com/video/BV1Dc4X6iE1J",
+      "hot_value": "544406播放",
       "index": 2
     },
     {
-      "title": "二游做载具没一个能打的，《无限大》也不例外【NFSLYY】",
-      "url": "https://www.bilibili.com/video/BV1gP4C6CEUo",
-      "hot_value": "412982播放",
+      "title": "欲买桂花同载酒，终不似，少年游。",
+      "url": "https://www.bilibili.com/video/BV11x4f6CESm",
+      "hot_value": "2534821播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第98集 杀新皇",
       "url": "https://www.bilibili.com/video/BV1bt4k6MEPF",
-      "hot_value": "2100701播放",
+      "hot_value": "2648206播放",
       "index": 4
-    },
-    {
-      "title": "FALSITY…（完整版电影 / 官方正版)",
-      "url": "https://www.bilibili.com/video/BV1qH4U6iEEy",
-      "hot_value": "496682播放",
-      "index": 5
     },
     {
       "title": "《龙族：卡塞尔之门》x《新世纪福音战士》全新联动 | 世界余响",
       "url": "https://www.bilibili.com/video/BV1D5tc6fEzM",
-      "hot_value": "949276播放",
+      "hot_value": "1236148播放",
+      "index": 5
+    },
+    {
+      "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影",
+      "url": "https://www.bilibili.com/video/BV1o74y6XEcM",
+      "hot_value": "785203播放",
       "index": 6
     },
     {
-      "title": "⚡ 舞 立 方 . m p 4 ⚡",
-      "url": "https://www.bilibili.com/video/BV1td4o6LEFr",
-      "hot_value": "1166833播放",
+      "title": "真六边形战士！面板稳，模具稳，调校稳！26.5英寸2K 320Hz 第4.5代QD-OLED面板，HKC天启27Q320B体验评测。",
+      "url": "https://www.bilibili.com/video/BV1FY416aEDr",
+      "hot_value": "376988播放",
       "index": 7
     },
     {
-      "title": "如果让专业厨师推荐私藏小店他们会怎么推荐？",
-      "url": "https://www.bilibili.com/video/BV18s4k6gESU",
-      "hot_value": "556664播放",
+      "title": "当你的资产缩水到A0层级，挑选优质桥洞的六大方案！",
+      "url": "https://www.bilibili.com/video/BV1ZNtA6CExY",
+      "hot_value": "3504917播放",
       "index": 8
     },
     {
-      "title": "去了一趟西班牙2.0（荒岛四兄弟篇）",
-      "url": "https://www.bilibili.com/video/BV1Na4Q64Eos",
-      "hot_value": "764889播放",
+      "title": "这个丝瓜抹布真的有这么好用吗！！！",
+      "url": "https://www.bilibili.com/video/BV1Q5tc6fEn4",
+      "hot_value": "1118368播放",
       "index": 9
     },
     {
       "title": "【独家/完结】《记忆管理局》第7集 记忆这样脆弱的东西【8月国创】",
       "url": "https://www.bilibili.com/video/BV1dTtc6eEno",
-      "hot_value": "761880播放",
+      "hot_value": "987470播放",
       "index": 10
-    },
-    {
-      "title": "【第四十五赛季·精华1】故事视频公开：——“如坠梦中的幸福时光，万物焕然……”",
-      "url": "https://www.bilibili.com/video/BV1S64D6wEdq",
-      "hot_value": "499211播放",
-      "index": 11
-    },
-    {
-      "title": "武德充沛！在美国当牛仔到底有多刺激！",
-      "url": "https://www.bilibili.com/video/BV1HP4y6YEyQ",
-      "hot_value": "888425播放",
-      "index": 12
-    },
-    {
-      "title": "吃自助餐的九大神队友！你属于哪一种？",
-      "url": "https://www.bilibili.com/video/BV17TtA6VEuH",
-      "hot_value": "2126826播放",
-      "index": 13
-    },
-    {
-      "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影",
-      "url": "https://www.bilibili.com/video/BV1o74y6XEcM",
-      "hot_value": "591314播放",
-      "index": 14
-    },
-    {
-      "title": "我的世界，但所有人共享背包！？",
-      "url": "https://www.bilibili.com/video/BV16E4D6jE9K",
-      "hot_value": "409047播放",
-      "index": 15
-    },
-    {
-      "title": "当你的资产缩水到A0层级，挑选优质桥洞的六大方案！",
-      "url": "https://www.bilibili.com/video/BV1ZNtA6CExY",
-      "hot_value": "3037897播放",
-      "index": 16
-    },
-    {
-      "title": "世界破破烂烂，总有人缝缝补补",
-      "url": "https://www.bilibili.com/video/BV1wZtw6JERc",
-      "hot_value": "2646232播放",
-      "index": 17
-    },
-    {
-      "title": "您叫的骑手正忙 请稍后再拨",
-      "url": "https://www.bilibili.com/video/BV13k4C6mEDv",
-      "hot_value": "1728477播放",
-      "index": 18
-    },
-    {
-      "title": "这个丝瓜抹布真的有这么好用吗！！！",
-      "url": "https://www.bilibili.com/video/BV1Q5tc6fEn4",
-      "hot_value": "843545播放",
-      "index": 19
-    },
-    {
-      "title": "《我们的家2》",
-      "url": "https://www.bilibili.com/video/BV1pP4y6YEBq",
-      "hot_value": "736667播放",
-      "index": 20
-    },
-    {
-      "title": "大家好这是我第一条吃播视频 不好意思有点寒酸",
-      "url": "https://www.bilibili.com/video/BV1K74R6eEG5",
-      "hot_value": "787212播放",
-      "index": 21
-    },
-    {
-      "title": "牢达一生都在找一面可以托付的墙",
-      "url": "https://www.bilibili.com/video/BV1Hs4C6FEkP",
-      "hot_value": "1218846播放",
-      "index": 22
     },
     {
       "title": "立瓶子挑战，相亲相爱~",
       "url": "https://www.bilibili.com/video/BV1PN4266Eys",
-      "hot_value": "1303971播放",
-      "index": 23
+      "hot_value": "1639322播放",
+      "index": 11
     },
     {
-      "title": "动态视频｜做了100只刀盾狗...",
-      "url": "https://www.bilibili.com/video/BV1BJ426FEGE",
-      "hot_value": "716103播放",
-      "index": 24
+      "title": "大家好这是我第一条吃播视频 不好意思有点寒酸",
+      "url": "https://www.bilibili.com/video/BV1K74R6eEG5",
+      "hot_value": "1017321播放",
+      "index": 12
     },
     {
-      "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
-      "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
-      "hot_value": "1493590播放",
-      "index": 25
-    },
-    {
-      "title": "跑了1200公里，我去给刘关张三兄弟上坟！",
-      "url": "https://www.bilibili.com/video/BV1rj8Z6kEQY",
-      "hot_value": "1996242播放",
-      "index": 26
+      "title": "在美国最彪悍的州，骑最野的牛、啃最香的肉！",
+      "url": "https://www.bilibili.com/video/BV1HP4y6YEyQ",
+      "hot_value": "1153956播放",
+      "index": 13
     },
     {
       "title": "我求你看看这个节目吧！！！",
       "url": "https://www.bilibili.com/video/BV1os4U6eEQp",
-      "hot_value": "288222播放",
-      "index": 27
+      "hot_value": "415469播放",
+      "index": 14
     },
     {
-      "title": "【无限大】最新线下实机试玩体验如何？不用抽卡 上海杭州大融合！",
-      "url": "https://www.bilibili.com/video/BV1S4tA68EFT",
-      "hot_value": "377888播放",
-      "index": 28
+      "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
+      "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
+      "hot_value": "1623335播放",
+      "index": 15
+    },
+    {
+      "title": "FALSITY…（完整版电影 / 官方正版)",
+      "url": "https://www.bilibili.com/video/BV1qH4U6iEEy",
+      "hot_value": "620589播放",
+      "index": 16
+    },
+    {
+      "title": "去了一趟西班牙2.0（荒岛四兄弟篇）",
+      "url": "https://www.bilibili.com/video/BV1Na4Q64Eos",
+      "hot_value": "1006205播放",
+      "index": 17
+    },
+    {
+      "title": "一切都会好起来的，詹妮丝",
+      "url": "https://www.bilibili.com/video/BV13CtK6LEfB",
+      "hot_value": "610945播放",
+      "index": 18
+    },
+    {
+      "title": "锻刀大赛：威力加强版",
+      "url": "https://www.bilibili.com/video/BV1uG4o61EJi",
+      "hot_value": "247048播放",
+      "index": 19
+    },
+    {
+      "title": "跑了1200公里，我去给刘关张三兄弟上坟！",
+      "url": "https://www.bilibili.com/video/BV1rj8Z6kEQY",
+      "hot_value": "2336038播放",
+      "index": 20
+    },
+    {
+      "title": "如果让专业厨师推荐私藏小店他们会怎么推荐？",
+      "url": "https://www.bilibili.com/video/BV18s4k6gESU",
+      "hot_value": "786541播放",
+      "index": 21
+    },
+    {
+      "title": "世界破破烂烂，总有人缝缝补补",
+      "url": "https://www.bilibili.com/video/BV1wZtw6JERc",
+      "hot_value": "3232717播放",
+      "index": 22
     },
     {
       "title": "《不能歪曲事实 我当什么媒体》",
       "url": "https://www.bilibili.com/video/BV1AG4U6CEhZ",
-      "hot_value": "324412播放",
+      "hot_value": "582735播放",
+      "index": 23
+    },
+    {
+      "title": "【招笑版】新植物4:滚木坚果",
+      "url": "https://www.bilibili.com/video/BV1Fa416AEkm",
+      "hot_value": "664592播放",
+      "index": 24
+    },
+    {
+      "title": "【景甜】的卵子，值5000万美元吗？",
+      "url": "https://www.bilibili.com/video/BV11S4U67EjJ",
+      "hot_value": "638947播放",
+      "index": 25
+    },
+    {
+      "title": "【大学生就业指导】麦当当薯条N重奏！200块买两斤土豆？不能够了！",
+      "url": "https://www.bilibili.com/video/BV16g4y6tEzY",
+      "hot_value": "1211810播放",
+      "index": 26
+    },
+    {
+      "title": "这盘棋已经赢不了，只能把对面打死了！",
+      "url": "https://www.bilibili.com/video/BV1DR8e6tE3P",
+      "hot_value": "5460208播放",
+      "index": 27
+    },
+    {
+      "title": "全球10亿粉丝的我一周真实生活是什么样的？",
+      "url": "https://www.bilibili.com/video/BV13Chw66EAa",
+      "hot_value": "521673播放",
+      "index": 28
+    },
+    {
+      "title": "我的世界，但所有人共享背包！？",
+      "url": "https://www.bilibili.com/video/BV16E4D6jE9K",
+      "hot_value": "633757播放",
       "index": 29
     },
     {
-      "title": "近期热点事件：8月神人合集（二）",
-      "url": "https://www.bilibili.com/video/BV13s4k63Ew8",
-      "hot_value": "785286播放",
+      "title": "⚡ 舞 立 方 . m p 4 ⚡",
+      "url": "https://www.bilibili.com/video/BV1td4o6LEFr",
+      "hot_value": "1359471播放",
       "index": 30
     }
   ]
