@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-08-31T06:35:50Z",
+  "update_time": "2026-08-31T14:47:01Z",
   "count": 30,
   "list": [
     {
-      "title": "当我执意报考省外大学",
-      "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%89%A7%E6%84%8F%E6%8A%A5%E8%80%83%E7%9C%81%E5%A4%96%E5%A4%A7%E5%AD%A6?type=general",
-      "hot_value": "12106169",
+      "title": "杨瀚森绝杀",
+      "url": "https://www.douyin.com/search/%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%BB%9D%E6%9D%80?type=general",
+      "hot_value": "11865560",
       "index": 1
     },
     {
       "title": "西藏泥石流已致16死546失联",
       "url": "https://www.douyin.com/search/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B416%E6%AD%BB546%E5%A4%B1%E8%81%94?type=general",
-      "hot_value": "11364331",
+      "hot_value": "11748587",
       "index": 2
     },
     {
-      "title": "吉隆口岸紧邻国门应急基站投用",
-      "url": "https://www.douyin.com/search/%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E7%B4%A7%E9%82%BB%E5%9B%BD%E9%97%A8%E5%BA%94%E6%80%A5%E5%9F%BA%E7%AB%99%E6%8A%95%E7%94%A8?type=general",
-      "hot_value": "11100842",
+      "title": "多架次直升机驰援吉隆灾区",
+      "url": "https://www.douyin.com/search/%E5%A4%9A%E6%9E%B6%E6%AC%A1%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%A9%B0%E6%8F%B4%E5%90%89%E9%9A%86%E7%81%BE%E5%8C%BA?type=general",
+      "hot_value": "11372225",
       "index": 3
     },
     {
-      "title": "网警公布10起涉吉隆泥石流谣言案例",
-      "url": "https://www.douyin.com/search/%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%8310%E8%B5%B7%E6%B6%89%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B?type=general",
-      "hot_value": "11003416",
+      "title": "中国男篮89:87黎巴嫩男篮",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE89%3A87%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%94%B7%E7%AF%AE?type=general",
+      "hot_value": "11025547",
       "index": 4
     },
     {
-      "title": "8月的最后一天许个愿吧",
-      "url": "https://www.douyin.com/search/8%E6%9C%88%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E8%AE%B8%E4%B8%AA%E6%84%BF%E5%90%A7?type=general",
-      "hot_value": "10408383",
+      "title": "江苏省委常委刘建洋被查",
+      "url": "https://www.douyin.com/search/%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A7%94%E5%B8%B8%E5%A7%94%E5%88%98%E5%BB%BA%E6%B4%8B%E8%A2%AB%E6%9F%A5?type=general",
+      "hot_value": "10152705",
       "index": 5
     },
     {
-      "title": "净网：造谣外卖员向饮料加百草枯者被罚",
-      "url": "https://www.douyin.com/search/%E5%87%80%E7%BD%91%EF%BC%9A%E9%80%A0%E8%B0%A3%E5%A4%96%E5%8D%96%E5%91%98%E5%90%91%E9%A5%AE%E6%96%99%E5%8A%A0%E7%99%BE%E8%8D%89%E6%9E%AF%E8%80%85%E8%A2%AB%E7%BD%9A?type=general",
-      "hot_value": "10405107",
+      "title": "穿成想成为的样子",
+      "url": "https://www.douyin.com/search/%E7%A9%BF%E6%88%90%E6%83%B3%E6%88%90%E4%B8%BA%E7%9A%84%E6%A0%B7%E5%AD%90?type=general",
+      "hot_value": "9899058",
       "index": 6
-    },
-    {
-      "title": "写给00后的一封信英文版",
-      "url": "https://www.douyin.com/search/%E5%86%99%E7%BB%9900%E5%90%8E%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%E8%8B%B1%E6%96%87%E7%89%88?type=general",
-      "hot_value": "9238366",
-      "index": 7
     },
     {
       "title": "开学与家人临别那一刻",
       "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E4%B8%8E%E5%AE%B6%E4%BA%BA%E4%B8%B4%E5%88%AB%E9%82%A3%E4%B8%80%E5%88%BB?type=general",
-      "hot_value": "9139625",
+      "hot_value": "8726780",
+      "index": 7
+    },
+    {
+      "title": "8月的最后一天许个愿吧",
+      "url": "https://www.douyin.com/search/8%E6%9C%88%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E8%AE%B8%E4%B8%AA%E6%84%BF%E5%90%A7?type=general",
+      "hot_value": "8694374",
       "index": 8
     },
     {
-      "title": "你怎么舍得让我的泪流向海",
-      "url": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%88%91%E7%9A%84%E6%B3%AA%E6%B5%81%E5%90%91%E6%B5%B7?type=general",
-      "hot_value": "9128558",
+      "title": "预习我的早秋穿搭",
+      "url": "https://www.douyin.com/search/%E9%A2%84%E4%B9%A0%E6%88%91%E7%9A%84%E6%97%A9%E7%A7%8B%E7%A9%BF%E6%90%AD?type=general",
+      "hot_value": "7825125",
       "index": 9
-    },
-    {
-      "title": "凉薄的秋天自带疏离感",
-      "url": "https://www.douyin.com/search/%E5%87%89%E8%96%84%E7%9A%84%E7%A7%8B%E5%A4%A9%E8%87%AA%E5%B8%A6%E7%96%8F%E7%A6%BB%E6%84%9F?type=general",
-      "hot_value": "8984018",
-      "index": 10
-    },
-    {
-      "title": "曼联5:2伊普斯维奇取赛季首胜",
-      "url": "https://www.douyin.com/search/%E6%9B%BC%E8%81%945%3A2%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%87%E5%8F%96%E8%B5%9B%E5%AD%A3%E9%A6%96%E8%83%9C?type=general",
-      "hot_value": "8948426",
-      "index": 11
     },
     {
       "title": "国安部披露军工双料间谍案细节",
       "url": "https://www.douyin.com/search/%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E5%86%9B%E5%B7%A5%E5%8F%8C%E6%96%99%E9%97%B4%E8%B0%8D%E6%A1%88%E7%BB%86%E8%8A%82?type=general",
-      "hot_value": "8705656",
+      "hot_value": "7819007",
+      "index": 10
+    },
+    {
+      "title": "中式早餐包罗万味",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%BC%8F%E6%97%A9%E9%A4%90%E5%8C%85%E7%BD%97%E4%B8%87%E5%91%B3?type=general",
+      "hot_value": "7801231",
+      "index": 11
+    },
+    {
+      "title": "尼泊尔泥石流已致超900人遇难",
+      "url": "https://www.douyin.com/search/%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4%E8%B6%85900%E4%BA%BA%E9%81%87%E9%9A%BE?type=general",
+      "hot_value": "7794742",
       "index": 12
     },
     {
-      "title": "尼泊尔泥石流已致903死4247失联",
-      "url": "https://www.douyin.com/search/%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4903%E6%AD%BB4247%E5%A4%B1%E8%81%94?type=general",
-      "hot_value": "8689751",
+      "title": "沙德尔残涡或重新加强为台风",
+      "url": "https://www.douyin.com/search/%E6%B2%99%E5%BE%B7%E5%B0%94%E6%AE%8B%E6%B6%A1%E6%88%96%E9%87%8D%E6%96%B0%E5%8A%A0%E5%BC%BA%E4%B8%BA%E5%8F%B0%E9%A3%8E?type=general",
+      "hot_value": "7793326",
       "index": 13
     },
     {
-      "title": "8月“科学”流言榜",
-      "url": "https://www.douyin.com/search/8%E6%9C%88%E2%80%9C%E7%A7%91%E5%AD%A6%E2%80%9D%E6%B5%81%E8%A8%80%E6%A6%9C?type=general",
-      "hot_value": "8492955",
+      "title": "外卖饮料被加百草枯系谣言",
+      "url": "https://www.douyin.com/search/%E5%A4%96%E5%8D%96%E9%A5%AE%E6%96%99%E8%A2%AB%E5%8A%A0%E7%99%BE%E8%8D%89%E6%9E%AF%E7%B3%BB%E8%B0%A3%E8%A8%80?type=general",
+      "hot_value": "7784027",
       "index": 14
+    },
+    {
+      "title": "人们常在开学前一天回忆假期",
+      "url": "https://www.douyin.com/search/%E4%BA%BA%E4%BB%AC%E5%B8%B8%E5%9C%A8%E5%BC%80%E5%AD%A6%E5%89%8D%E4%B8%80%E5%A4%A9%E5%9B%9E%E5%BF%86%E5%81%87%E6%9C%9F?type=general",
+      "hot_value": "7782052",
+      "index": 15
     },
     {
       "title": "开学前最后一条视频",
       "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91?type=general",
-      "hot_value": "8427321",
-      "index": 15
-    },
-    {
-      "title": "皇马4:0马拉加",
-      "url": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC4%3A0%E9%A9%AC%E6%8B%89%E5%8A%A0?type=general",
-      "hot_value": "8205604",
+      "hot_value": "7779239",
       "index": 16
-    },
-    {
-      "title": "天下第一懒人",
-      "url": "https://www.douyin.com/search/%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E6%87%92%E4%BA%BA?type=general",
-      "hot_value": "8177642",
-      "index": 17
-    },
-    {
-      "title": "我们的少年时代2收官",
-      "url": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%94%B6%E5%AE%98?type=general",
-      "hot_value": "8030358",
-      "index": 18
-    },
-    {
-      "title": "初音未来19周年",
-      "url": "https://www.douyin.com/search/%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A519%E5%91%A8%E5%B9%B4?type=general",
-      "hot_value": "7870545",
-      "index": 19
     },
     {
       "title": "幸福和快乐是结局",
       "url": "https://www.douyin.com/search/%E5%B9%B8%E7%A6%8F%E5%92%8C%E5%BF%AB%E4%B9%90%E6%98%AF%E7%BB%93%E5%B1%80?type=general",
-      "hot_value": "7843969",
+      "hot_value": "7777582",
+      "index": 17
+    },
+    {
+      "title": "分别总是在九月 回忆是思念的愁",
+      "url": "https://www.douyin.com/search/%E5%88%86%E5%88%AB%E6%80%BB%E6%98%AF%E5%9C%A8%E4%B9%9D%E6%9C%88%20%E5%9B%9E%E5%BF%86%E6%98%AF%E6%80%9D%E5%BF%B5%E7%9A%84%E6%84%81?type=general",
+      "hot_value": "7761625",
+      "index": 18
+    },
+    {
+      "title": "首批“20后”开始上小学啦",
+      "url": "https://www.douyin.com/search/%E9%A6%96%E6%89%B9%E2%80%9C20%E5%90%8E%E2%80%9D%E5%BC%80%E5%A7%8B%E4%B8%8A%E5%B0%8F%E5%AD%A6%E5%95%A6?type=general",
+      "hot_value": "7759921",
+      "index": 19
+    },
+    {
+      "title": "当我执意报考省外大学",
+      "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%89%A7%E6%84%8F%E6%8A%A5%E8%80%83%E7%9C%81%E5%A4%96%E5%A4%A7%E5%AD%A6?type=general",
+      "hot_value": "7749961",
       "index": 20
     },
     {
-      "title": "井柏然进行曲音乐起",
-      "url": "https://www.douyin.com/search/%E4%BA%95%E6%9F%8F%E7%84%B6%E8%BF%9B%E8%A1%8C%E6%9B%B2%E9%9F%B3%E4%B9%90%E8%B5%B7?type=general",
-      "hot_value": "7832822",
+      "title": "TOP的第一首抒情歌",
+      "url": "https://www.douyin.com/search/TOP%E7%9A%84%E7%AC%AC%E4%B8%80%E9%A6%96%E6%8A%92%E6%83%85%E6%AD%8C?type=general",
+      "hot_value": "7740851",
       "index": 21
     },
     {
-      "title": "幼儿园第一天vs最后一天",
-      "url": "https://www.douyin.com/search/%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%AC%AC%E4%B8%80%E5%A4%A9vs%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9?type=general",
-      "hot_value": "7820118",
+      "title": "上学路“修”到了云端",
+      "url": "https://www.douyin.com/search/%E4%B8%8A%E5%AD%A6%E8%B7%AF%E2%80%9C%E4%BF%AE%E2%80%9D%E5%88%B0%E4%BA%86%E4%BA%91%E7%AB%AF?type=general",
+      "hot_value": "7738334",
       "index": 22
     },
     {
-      "title": "歼10CE正式加入乌兹别克斯坦空军",
-      "url": "https://www.douyin.com/search/%E6%AD%BC10CE%E6%AD%A3%E5%BC%8F%E5%8A%A0%E5%85%A5%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%E7%A9%BA%E5%86%9B?type=general",
-      "hot_value": "7808510",
+      "title": "马嘉祺EP心室试听",
+      "url": "https://www.douyin.com/search/%E9%A9%AC%E5%98%89%E7%A5%BAEP%E5%BF%83%E5%AE%A4%E8%AF%95%E5%90%AC?type=general",
+      "hot_value": "7733880",
       "index": 23
     },
     {
-      "title": "美国大峡谷山洪致20余人失联",
-      "url": "https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%B1%B1%E6%B4%AA%E8%87%B420%E4%BD%99%E4%BA%BA%E5%A4%B1%E8%81%94?type=general",
-      "hot_value": "7787729",
+      "title": "徐艺洋黄子韬终于正经一次",
+      "url": "https://www.douyin.com/search/%E5%BE%90%E8%89%BA%E6%B4%8B%E9%BB%84%E5%AD%90%E9%9F%AC%E7%BB%88%E4%BA%8E%E6%AD%A3%E7%BB%8F%E4%B8%80%E6%AC%A1?type=general",
+      "hot_value": "7733662",
       "index": 24
+    },
+    {
+      "title": "看完早春晴朗的后遗症",
+      "url": "https://www.douyin.com/search/%E7%9C%8B%E5%AE%8C%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%9A%84%E5%90%8E%E9%81%97%E7%97%87?type=general",
+      "hot_value": "7733458",
+      "index": 25
+    },
+    {
+      "title": "被自己的可爱贴纸萌到了",
+      "url": "https://www.douyin.com/search/%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8F%AF%E7%88%B1%E8%B4%B4%E7%BA%B8%E8%90%8C%E5%88%B0%E4%BA%86?type=general",
+      "hot_value": "7730551",
+      "index": 26
     },
     {
       "title": "细把眉眼描摹",
       "url": "https://www.douyin.com/search/%E7%BB%86%E6%8A%8A%E7%9C%89%E7%9C%BC%E6%8F%8F%E6%91%B9?type=general",
-      "hot_value": "7766534",
-      "index": 25
-    },
-    {
-      "title": "明天开学belike",
-      "url": "https://www.douyin.com/search/%E6%98%8E%E5%A4%A9%E5%BC%80%E5%AD%A6belike?type=general",
-      "hot_value": "7760622",
-      "index": 26
-    },
-    {
-      "title": "2026香港小姐三甲出炉",
-      "url": "https://www.douyin.com/search/2026%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E4%B8%89%E7%94%B2%E5%87%BA%E7%82%89?type=general",
-      "hot_value": "7759346",
+      "hot_value": "7726803",
       "index": 27
     },
     {
-      "title": "早春晴朗正数第一越吵越爱",
-      "url": "https://www.douyin.com/search/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E6%AD%A3%E6%95%B0%E7%AC%AC%E4%B8%80%E8%B6%8A%E5%90%B5%E8%B6%8A%E7%88%B1?type=general",
-      "hot_value": "7746497",
+      "title": "全抖音都在找luke",
+      "url": "https://www.douyin.com/search/%E5%85%A8%E6%8A%96%E9%9F%B3%E9%83%BD%E5%9C%A8%E6%89%BEluke?type=general",
+      "hot_value": "7719112",
       "index": 28
     },
     {
-      "title": "张雨绮拍了呀吖摇太权威了",
-      "url": "https://www.douyin.com/search/%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%8B%8D%E4%BA%86%E5%91%80%E5%90%96%E6%91%87%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86?type=general",
-      "hot_value": "7739486",
+      "title": "首部AI长剧后西游记开播",
+      "url": "https://www.douyin.com/search/%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E5%90%8E%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%BC%80%E6%92%AD?type=general",
+      "hot_value": "7717877",
       "index": 29
     },
     {
-      "title": "抖火公寓男团出道",
-      "url": "https://www.douyin.com/search/%E6%8A%96%E7%81%AB%E5%85%AC%E5%AF%93%E7%94%B7%E5%9B%A2%E5%87%BA%E9%81%93?type=general",
-      "hot_value": "7734434",
+      "title": "天聋地哑孤独怎么会是惩罚",
+      "url": "https://www.douyin.com/search/%E5%A4%A9%E8%81%8B%E5%9C%B0%E5%93%91%E5%AD%A4%E7%8B%AC%E6%80%8E%E4%B9%88%E4%BC%9A%E6%98%AF%E6%83%A9%E7%BD%9A?type=general",
+      "hot_value": "7714134",
       "index": 30
     }
   ]
