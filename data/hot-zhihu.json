@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-08-31T14:47:01Z",
+  "update_time": "2026-08-31T20:36:35Z",
   "count": 30,
   "list": [
     {
-      "title": "新版《国防动员法》2026 年 10 月 1 日实施，哪些信息值得关注？会带来什么影响？",
-      "url": "https://www.zhihu.com/question/2076954184558047646",
-      "hot_value": "386 万热度",
-      "index": 1
-    },
-    {
-      "title": "年薪 60+ 万，一手提拔我的领导跟公司大老板有分歧，要我辞职跟他去创业，我该怎么办？",
-      "url": "https://www.zhihu.com/question/2075219931705119529",
-      "hot_value": "211 万热度",
-      "index": 2
-    },
-    {
       "title": "中小学开学选班主任真的「堪比泰国征兵现场」吗？为什么年轻人不爱当班主任了？班主任的一天都要干啥？",
       "url": "https://www.zhihu.com/question/2077535461820592872",
-      "hot_value": "172 万热度",
-      "index": 3
+      "hot_value": "258 万热度",
+      "index": 1
     },
     {
       "title": "杨瀚森准绝杀！男篮世预赛第二阶段，中国男篮 89:87 战胜黎巴嫩男篮，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2077708039566659709",
-      "hot_value": "157 万热度",
-      "index": 4
+      "hot_value": "253 万热度",
+      "index": 2
+    },
+    {
+      "title": "新版《国防动员法》2026 年 10 月 1 日实施，哪些信息值得关注？会带来什么影响？",
+      "url": "https://www.zhihu.com/question/2076954184558047646",
+      "hot_value": "247 万热度",
+      "index": 3
     },
     {
       "title": "济南一小区选择不要物业公司，居民自己管自己，一户一天一块钱，怎样看待这种方式？有哪些利弊？",
       "url": "https://www.zhihu.com/question/2077786847460026340",
-      "hot_value": "143 万热度",
+      "hot_value": "213 万热度",
+      "index": 4
+    },
+    {
+      "title": "怎么看 OpenAI 的 Codex 将取消上下文压缩，换成「硬切窗口 」和「外部记忆」？",
+      "url": "https://www.zhihu.com/question/2077507444545165165",
+      "hot_value": "67 万热度",
       "index": 5
     },
     {
       "title": "宇树股价「腰斩」从 1100 跌至 555 元，机器人第一股 2200 亿蒸发，有哪些原因和影响？",
       "url": "https://www.zhihu.com/question/2077739048634946054",
-      "hot_value": "143 万热度",
+      "hot_value": "66 万热度",
       "index": 6
     },
     {
-      "title": "「如果国家限制租金，房东就会宁愿房子空置到烂掉也不租给有需要的人」，如何看待这种观点？",
-      "url": "https://www.zhihu.com/question/2076752492956799656",
-      "hot_value": "143 万热度",
+      "title": "年薪 60+ 万，一手提拔我的领导跟公司大老板有分歧，要我辞职跟他去创业，我该怎么办？",
+      "url": "https://www.zhihu.com/question/2075219931705119529",
+      "hot_value": "66 万热度",
       "index": 7
     },
     {
       "title": "餐饮店用来「过油」的油，炸了那么多不同种类的食物，再用来炒菜难道不会串味吗?",
       "url": "https://www.zhihu.com/question/2014321032002036362",
-      "hot_value": "118 万热度",
+      "hot_value": "63 万热度",
       "index": 8
     },
     {
-      "title": "如果《人民的名义》里面的大风厂真的爆炸了会怎么样？",
-      "url": "https://www.zhihu.com/question/667976800",
-      "hot_value": "94 万热度",
+      "title": "武器里面有哪些违反直觉的设计？",
+      "url": "https://www.zhihu.com/question/1987593216678195666",
+      "hot_value": "60 万热度",
       "index": 9
     },
     {
-      "title": "中国女排无缘亚锦赛冠军，赛后很多网友呼吁召回朱婷，为什么中国女排不召回朱婷？一个朱婷能解决所有问题吗？",
-      "url": "https://www.zhihu.com/question/2077683343475176196",
-      "hot_value": "92 万热度",
+      "title": "在家吃火锅，怎样才能做出比店里还好吃的味道？",
+      "url": "https://www.zhihu.com/question/1955952470686667537",
+      "hot_value": "59 万热度",
       "index": 10
     },
     {
       "title": "演员王鸥发文称正独自养育一个孩子，对此你有哪些祝福？",
       "url": "https://www.zhihu.com/question/2077802961162301807",
-      "hot_value": "92 万热度",
+      "hot_value": "59 万热度",
       "index": 11
     },
     {
       "title": "尼泊尔泥石流灾害已致 903 人遇难，4247 人失联，目前当地救援情况如何？",
       "url": "https://www.zhihu.com/question/2077738468134708619",
-      "hot_value": "92 万热度",
+      "hot_value": "59 万热度",
       "index": 12
     },
     {
       "title": "女子工作 6 年多被迫离职，最后半个月工资仅 55 元，被踢出 845 个工作群，维权历经近一年，为什么这么难？",
       "url": "https://www.zhihu.com/question/2077550784615539428",
-      "hot_value": "92 万热度",
+      "hot_value": "59 万热度",
       "index": 13
     },
     {
-      "title": "女朋友说「什么都不用送」时，是真的不期待礼物，还是不想替你做选择题？",
-      "url": "https://www.zhihu.com/question/2072666413970482225",
-      "hot_value": "92 万热度",
+      "title": "Kimi K3 的实际表现真有被吹捧的那么强吗？",
+      "url": "https://www.zhihu.com/question/2063649731096614014",
+      "hot_value": "59 万热度",
       "index": 14
     },
     {
-      "title": "如何看待《崩坏: 星穹铁道》4.5 版本更新后，部分敌人被「贪饕」强化？",
-      "url": "https://www.zhihu.com/question/2076274353738625231",
-      "hot_value": "91 万热度",
+      "title": "在足球或篮球等项目中，有没有球员在俱乐部只是蓝领角色，但在国家队却是绝对核心的案例？",
+      "url": "https://www.zhihu.com/question/2077008189174833858",
+      "hot_value": "59 万热度",
       "index": 15
     },
     {
       "title": "美军袭击伊朗拉腊克岛，这是美军一个月来首次对伊采取军事行动，伊方誓言报复，本次冲突会升级吗？",
       "url": "https://www.zhihu.com/question/2077683153028888495",
-      "hot_value": "88 万热度",
+      "hot_value": "59 万热度",
       "index": 16
     },
     {
       "title": "为什么这个世界上存在有电影院，但没有游戏院的说法呢？",
       "url": "https://www.zhihu.com/question/2072412309545301574",
-      "hot_value": "86 万热度",
+      "hot_value": "59 万热度",
       "index": 17
     },
     {
-      "title": "三星杯预赛，中国棋手大获全胜，斩获全部 14 公开 + 女子 + 青年组名额，韩国仅获 1 元老组名额，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2077696757526259320",
-      "hot_value": "85 万热度",
+      "title": "悟透了什么道理之后让你的人生越来越顺了？",
+      "url": "https://www.zhihu.com/question/3269055313",
+      "hot_value": "59 万热度",
       "index": 18
     },
     {
-      "title": "闲置的「旧手机」，你们都拿来干啥了，有没有什么妙用？",
-      "url": "https://www.zhihu.com/question/1918598041331560451",
-      "hot_value": "84 万热度",
+      "title": "如何评价 2026 年国产镜头的水平？",
+      "url": "https://www.zhihu.com/question/2073098395858878964",
+      "hot_value": "59 万热度",
       "index": 19
     },
     {
-      "title": "准高一怎么规划上清北？",
-      "url": "https://www.zhihu.com/question/2074134248223667728",
-      "hot_value": "75 万热度",
+      "title": "玄幻小说中的那些号称「全知全能」的 BOSS 为什么不在早期就消灭掉主角?",
+      "url": "https://www.zhihu.com/question/2034991469417714411",
+      "hot_value": "59 万热度",
       "index": 20
     },
     {
-      "title": "新入职场，如何看待同事之间的竞争和合作关系？",
-      "url": "https://www.zhihu.com/question/665129635",
-      "hot_value": "73 万热度",
+      "title": "如果《人民的名义》里面的大风厂真的爆炸了会怎么样？",
+      "url": "https://www.zhihu.com/question/667976800",
+      "hot_value": "59 万热度",
       "index": 21
     },
     {
       "title": "中国羽毛球协会副主席夏煊泽接受纪律审查和监察调查，原副主席兼秘书长王伟接受监察调查，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2077798903039144941",
-      "hot_value": "61 万热度",
+      "hot_value": "58 万热度",
       "index": 22
     },
     {
-      "title": "别人写的代码我看不懂，到底是谁的水平有问题？",
-      "url": "https://www.zhihu.com/question/2034228727106774624",
-      "hot_value": "59 万热度",
+      "title": "中国女排无缘亚锦赛冠军，赛后很多网友呼吁召回朱婷，为什么中国女排不召回朱婷？一个朱婷能解决所有问题吗？",
+      "url": "https://www.zhihu.com/question/2077683343475176196",
+      "hot_value": "58 万热度",
       "index": 23
     },
     {
-      "title": "《姜子牙》导演程腾的新作《大唐妖探》的票房预测仅 4300 多万，如何看待这一数据？",
-      "url": "https://www.zhihu.com/question/2074636898895664828",
-      "hot_value": "58 万热度",
+      "title": "为什么有些网文套路明明很老，读者却总是百看不厌？到底什么样的「爽点」设计才能真正拿捏人性？",
+      "url": "https://www.zhihu.com/question/2046485925300025072",
+      "hot_value": "57 万热度",
       "index": 24
     },
     {
-      "title": "《崩坏：星穹铁道》4.5 版本揭示「虚照」即「阿哈」，对星神形象有何影响？",
-      "url": "https://www.zhihu.com/question/2076335695912776706",
-      "hot_value": "57 万热度",
+      "title": "闲置的「旧手机」，你们都拿来干啥了，有没有什么妙用？",
+      "url": "https://www.zhihu.com/question/1918598041331560451",
+      "hot_value": "56 万热度",
       "index": 25
-    },
-    {
-      "title": "有哪些道理是越早知道越好的？",
-      "url": "https://www.zhihu.com/question/577652264",
-      "hot_value": "57 万热度",
-      "index": 26
-    },
-    {
-      "title": "如果 AI 伴侣永远顺从、永远懂你，这种「无条件的爱」会让人更幸福吗？",
-      "url": "https://www.zhihu.com/question/2072666413920211435",
-      "hot_value": "57 万热度",
-      "index": 27
-    },
-    {
-      "title": "为什么很多中国学生苦练多年，英语发音听起来还是很「中式」？",
-      "url": "https://www.zhihu.com/question/1951250085326353196",
-      "hot_value": "57 万热度",
-      "index": 28
-    },
-    {
-      "title": "在一段关系里先照顾好自己，是成熟，还是自私？",
-      "url": "https://www.zhihu.com/question/2072666413760780127",
-      "hot_value": "57 万热度",
-      "index": 29
     },
     {
       "title": "阿里巴巴 2027 财年第一季度营收 2689.5 亿元，阿里云外部商业化收入增长 45%，如何解读？",
       "url": "https://www.zhihu.com/question/2073831252768175075",
-      "hot_value": "57 万热度",
+      "hot_value": "56 万热度",
+      "index": 26
+    },
+    {
+      "title": "养生先从哪里开始？",
+      "url": "https://www.zhihu.com/question/11072451017",
+      "hot_value": "55 万热度",
+      "index": 27
+    },
+    {
+      "title": "如何评价鹰角高调租下万科 9 万 m²独栋大平层用于办公？",
+      "url": "https://www.zhihu.com/question/2077199059757147235",
+      "hot_value": "55 万热度",
+      "index": 28
+    },
+    {
+      "title": "频繁使用 ai 会不会变愚钝?",
+      "url": "https://www.zhihu.com/question/1931990997006550809",
+      "hot_value": "55 万热度",
+      "index": 29
+    },
+    {
+      "title": "长久的爱，是一次承诺的延续，还是两个人在变化中一次次重新选择彼此？",
+      "url": "https://www.zhihu.com/question/2072666413756593883",
+      "hot_value": "55 万热度",
       "index": 30
     }
   ]
