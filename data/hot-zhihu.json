@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-01T21:33:29Z",
+  "update_time": "2026-09-01T23:44:47Z",
   "count": 30,
   "list": [
     {
+      "title": "有人说「江浙沪小县城工资崩塌了」，是真的么？如果是，为什么会出现这种情况？",
+      "url": "https://www.zhihu.com/question/2077784950183387750",
+      "hot_value": "441 万热度",
+      "index": 1
+    },
+    {
+      "title": "8 月鸿蒙智行交付 4.2 万余台，小米汽车持续交付超 3 万台，如何评价各家车企 8 月交付表现？",
+      "url": "https://www.zhihu.com/question/2078071279840651185",
+      "hot_value": "252 万热度",
+      "index": 2
+    },
+    {
       "title": "如何看待宇树回应「重处罚少奖励」、 100 元报销须王兴兴审批，称很多内容不实？公司该如何设计奖惩机制？",
       "url": "https://www.zhihu.com/question/2078162988490383384",
-      "hot_value": "370 万热度",
-      "index": 1
+      "hot_value": "225 万热度",
+      "index": 3
     },
     {
       "title": "9 月 1 日起外籍个人从外商投资企业取得股息红利不再免征个税，如何解读？会带来多大规模的税收增量？",
       "url": "https://www.zhihu.com/question/2078155283776458815",
-      "hot_value": "340 万热度",
-      "index": 2
-    },
-    {
-      "title": "如何看待曝科大讯飞公关副总裁韩煜尘被解除职务？有什么隐情吗？",
-      "url": "https://www.zhihu.com/question/2077806827740165418",
-      "hot_value": "281 万热度",
-      "index": 3
+      "hot_value": "203 万热度",
+      "index": 4
     },
     {
       "title": "为什么鲁菜身为八大菜系之首，我们却很少见到鲁菜馆呢？",
       "url": "https://www.zhihu.com/question/1918046967973523615",
-      "hot_value": "121 万热度",
-      "index": 4
+      "hot_value": "125 万热度",
+      "index": 5
     },
     {
-      "title": "国产编程语言 zlangv0.12.2.0 发布，支持中文编程，这意味着什么？",
-      "url": "https://www.zhihu.com/question/2075987799711430081",
-      "hot_value": "86 万热度",
-      "index": 5
+      "title": "库克 9 月 1 日卸任苹果 CEO，由苹果硬件工程负责人特努斯接棒，苹果接下来将发生哪些变化？",
+      "url": "https://www.zhihu.com/question/2077705001892148802",
+      "hot_value": "124 万热度",
+      "index": 6
+    },
+    {
+      "title": "上海市教委明确，开学 1 个月内不得组织或变相组织任何形式的考试，如何看待这一规定？值得推广吗？",
+      "url": "https://www.zhihu.com/question/2078090656921150664",
+      "hot_value": "103 万热度",
+      "index": 7
+    },
+    {
+      "title": "如何评价《星穹铁道》4.5 版本新增贪饕机制后，玩家关于强度膨胀的相关讨论？",
+      "url": "https://www.zhihu.com/question/2078141327271802747",
+      "hot_value": "82 万热度",
+      "index": 8
+    },
+    {
+      "title": "如何看待马丁内利离开阿森纳，加盟沙特球队利亚德新月？",
+      "url": "https://www.zhihu.com/question/2077646858621563331",
+      "hot_value": "79 万热度",
+      "index": 9
     },
     {
       "title": "越南批量设立直辖市，这对其经济发展和承接中国产业转移意味着什么？",
       "url": "https://www.zhihu.com/question/2077740582496122297",
-      "hot_value": "81 万热度",
-      "index": 6
+      "hot_value": "75 万热度",
+      "index": 10
     },
     {
-      "title": "如何评价半个月不到，天蚕土豆的新书在读从 1100 多万跌到 200 万？",
-      "url": "https://www.zhihu.com/question/2077757241512440088",
-      "hot_value": "78 万热度",
-      "index": 7
+      "title": "胖东来员工休「自由假」看演唱会，官方称入职即享有 10 天自由假，系统自动审批，如何看待这套休假制度？",
+      "url": "https://www.zhihu.com/question/2078081892939731558",
+      "hot_value": "75 万热度",
+      "index": 11
     },
     {
       "title": "深圳全市中小学生校服款式统一，学生家长可自行去商超购买，怎样看待这种模式？你支持全国推广吗？",
       "url": "https://www.zhihu.com/question/2078089875853505351",
-      "hot_value": "75 万热度",
-      "index": 8
+      "hot_value": "74 万热度",
+      "index": 12
     },
     {
       "title": "高铁二等座变无座，12306 称临时调整无赔偿，此规定合理吗？",
       "url": "https://www.zhihu.com/question/2077087227780272304",
       "hot_value": "74 万热度",
-      "index": 9
-    },
-    {
-      "title": "为啥总觉得虚竹、金轮法王、张无忌实战差？",
-      "url": "https://www.zhihu.com/question/1950568608578143694",
-      "hot_value": "70 万热度",
-      "index": 10
-    },
-    {
-      "title": "学数学是尽可能的多刷题还是一道题多思考？",
-      "url": "https://www.zhihu.com/question/2069408986873467249",
-      "hot_value": "70 万热度",
-      "index": 11
-    },
-    {
-      "title": "如何评价张一山、李沐宸主演的刑侦剧《重案六组：消失的警号》？",
-      "url": "https://www.zhihu.com/question/2077819863561679465",
-      "hot_value": "69 万热度",
-      "index": 12
-    },
-    {
-      "title": "NBA 历史最强八人轮换，你的选择是什么？",
-      "url": "https://www.zhihu.com/question/1939312899219777452",
-      "hot_value": "68 万热度",
       "index": 13
     },
     {
-      "title": "R 星确认 GTA6 每个房间都手工打造，连 NPC 喝什么、桌上留什么痕迹都精心设计，你看好这种细节投入吗？",
-      "url": "https://www.zhihu.com/question/2077564942153269864",
+      "title": "有个人定制了几万只右脚的鞋，这是不是什么圈套？",
+      "url": "https://www.zhihu.com/question/2074445279345038376",
       "hot_value": "66 万热度",
       "index": 14
+    },
+    {
+      "title": "陕西咸阳「男子将妻子推下土崖致死」一案将择期宣判，被告人称女方有错在先，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2078178879311540619",
+      "hot_value": "66 万热度",
+      "index": 15
     },
     {
       "title": "2026 暑期档票房 124.98 亿，创影史最高场次纪录，《功夫女足》夺冠，如何评价这一成绩？",
       "url": "https://www.zhihu.com/question/2078049623604719716",
       "hot_value": "65 万热度",
-      "index": 15
-    },
-    {
-      "title": "如何评价《绿灯军团》第三集？",
-      "url": "https://www.zhihu.com/question/2077706323114865816",
-      "hot_value": "59 万热度",
       "index": 16
     },
     {
-      "title": "藏族为啥爱去成都，而不是西宁？",
-      "url": "https://www.zhihu.com/question/2074509228237234258",
+      "title": "如何看待曝科大讯飞公关副总裁韩煜尘被解除职务？有什么隐情吗？",
+      "url": "https://www.zhihu.com/question/2077806827740165418",
       "hot_value": "59 万热度",
       "index": 17
     },
     {
-      "title": "2627 赛季英超第 2 轮阿斯顿维拉 0:1 阿森纳，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2077954524350829450",
-      "hot_value": "58 万热度",
+      "title": "国产编程语言 zlangv0.12.2.0 发布，支持中文编程，这意味着什么？",
+      "url": "https://www.zhihu.com/question/2075987799711430081",
+      "hot_value": "59 万热度",
       "index": 18
     },
     {
-      "title": "特斯拉在港澳推出更平价版 Model3，最低售价不足 18 万元，这个价格竞争力如何？会有人愿意买单吗？",
-      "url": "https://www.zhihu.com/question/2077517477119054752",
-      "hot_value": "58 万热度",
+      "title": "如何提高日语听力？看汉语字幕听日语是否可行？",
+      "url": "https://www.zhihu.com/question/269545104",
+      "hot_value": "59 万热度",
       "index": 19
     },
     {
-      "title": "以双鱼座阿布罗狄的能力他是如何能成黄金圣斗士的？",
-      "url": "https://www.zhihu.com/question/393133674",
-      "hot_value": "57 万热度",
+      "title": "R 星确认 GTA6 每个房间都手工打造，连 NPC 喝什么、桌上留什么痕迹都精心设计，你看好这种细节投入吗？",
+      "url": "https://www.zhihu.com/question/2077564942153269864",
+      "hot_value": "59 万热度",
       "index": 20
     },
     {
       "title": "刘翔姚明苏炳添发展轨道大不同，只有刘翔陷入是否买断困境，是赛道不同还是性格和选择造成的？",
       "url": "https://www.zhihu.com/question/2076312692642653149",
-      "hot_value": "57 万热度",
+      "hot_value": "58 万热度",
       "index": 21
     },
     {
-      "title": "如何面对他人对你的恶意？",
-      "url": "https://www.zhihu.com/question/335128751",
-      "hot_value": "57 万热度",
+      "title": "如何看待 MiniMax 闫俊杰提出「最小化推理成本，最大化智能」？这会改变大模型的「斩杀线」吗？",
+      "url": "https://www.zhihu.com/question/2076627721929455014",
+      "hot_value": "58 万热度",
       "index": 22
+    },
+    {
+      "title": "如何评价张一山、李沐宸主演的刑侦剧《重案六组：消失的警号》？",
+      "url": "https://www.zhihu.com/question/2077819863561679465",
+      "hot_value": "58 万热度",
+      "index": 23
+    },
+    {
+      "title": "特斯拉在港澳推出更平价版 Model3，最低售价不足 18 万元，这个价格竞争力如何？会有人愿意买单吗？",
+      "url": "https://www.zhihu.com/question/2077517477119054752",
+      "hot_value": "58 万热度",
+      "index": 24
+    },
+    {
+      "title": "藏族为啥爱去成都，而不是西宁？",
+      "url": "https://www.zhihu.com/question/2074509228237234258",
+      "hot_value": "58 万热度",
+      "index": 25
     },
     {
       "title": "日剧里经常出现的障子纸门有什么特别之处，为什么明明容易破但还是延续了几百年？",
       "url": "https://www.zhihu.com/question/2073047511577649700",
       "hot_value": "57 万热度",
-      "index": 23
-    },
-    {
-      "title": "孙权与刘备联盟破裂，是谁之过?",
-      "url": "https://www.zhihu.com/question/3088432957",
-      "hot_value": "57 万热度",
-      "index": 24
-    },
-    {
-      "title": "大学笔记本硬盘选 512G 够不够，有多少人后期后悔容量小？",
-      "url": "https://www.zhihu.com/question/2074191807441794082",
-      "hot_value": "57 万热度",
-      "index": 25
-    },
-    {
-      "title": "有什么看描述平平无奇，但其实非常超模的游戏技能 / 道具?",
-      "url": "https://www.zhihu.com/question/2063786226524624615",
-      "hot_value": "57 万热度",
       "index": 26
     },
     {
-      "title": "《脱口秀和 Ta 的朋友们》第三季，小奇夺冠算是意外吗？",
-      "url": "https://www.zhihu.com/question/2077675077198427003",
+      "title": "GPT-6 灰测 demo 刷屏，预计在周四发布，你对这款 AI 模型有哪些期待？",
+      "url": "https://www.zhihu.com/question/2077759364111386075",
       "hot_value": "57 万热度",
       "index": 27
     },
     {
-      "title": "可以分享一下你喜欢的美食吗？",
-      "url": "https://www.zhihu.com/question/1905148891596293945",
-      "hot_value": "57 万热度",
+      "title": "没有固定车位的人买纯电新能源车，实际用起来会有多麻烦？",
+      "url": "https://www.zhihu.com/question/2076630694202184414",
+      "hot_value": "56 万热度",
       "index": 28
     },
     {
-      "title": "为什么意大利两大世界级前锋德尔皮耶罗、因扎吉在国家队一直是替补?",
-      "url": "https://www.zhihu.com/question/2077887421744673831",
-      "hot_value": "57 万热度",
+      "title": "年薪 60+ 万，一手提拔我的领导跟公司大老板有分歧，要我辞职跟他去创业，我该怎么办？",
+      "url": "https://www.zhihu.com/question/2075219931705119529",
+      "hot_value": "56 万热度",
       "index": 29
     },
     {
-      "title": "为什么一斤粮食还没有一瓶瓶装水贵？",
-      "url": "https://www.zhihu.com/question/2074824250477785477",
-      "hot_value": "57 万热度",
+      "title": "樊振东德国杯无缘 8 强，他在比赛中发挥出了哪些问题？",
+      "url": "https://www.zhihu.com/question/2077380380118737708",
+      "hot_value": "56 万热度",
       "index": 30
     }
   ]
