@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-01T05:25:55Z",
+  "update_time": "2026-09-01T10:19:27Z",
   "count": 30,
   "list": [
     {
-      "title": "三大航上半年全部亏损，国航净亏 22.86 亿，东航净亏 21.79 亿，南航净亏 36.96 亿，为什么会这样？",
-      "url": "https://www.zhihu.com/question/2077685778461750727",
+      "title": "官方通报女子被踢出 845 个群被迫离职，用人单位已履行判决，事件中暴露的问题该如何有效解决？",
+      "url": "https://www.zhihu.com/question/2078050476826649392",
       "hot_value": "1154 万热度",
       "index": 1
     },
     {
-      "title": "华为上半年营收 4678 亿元，归母净利润 234.28 亿元，如何看待其业绩表现？",
-      "url": "https://www.zhihu.com/question/2077814556945135529",
-      "hot_value": "570 万热度",
+      "title": "华为、小米、荣耀等手机品牌正式涨价，涨幅均超 200 元，最高涨千元，将对用户及手机市场带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2078035027267248519",
+      "hot_value": "822 万热度",
       "index": 2
     },
     {
-      "title": "如何评价凡人修仙传 189 集争议巨大，对比 177 集还愿意改片，这次官方零公开回应、不修改成片、冷处理？",
-      "url": "https://www.zhihu.com/question/2077546484770386869",
-      "hot_value": "557 万热度",
+      "title": "为什么一斤粮食还没有一瓶瓶装水贵？",
+      "url": "https://www.zhihu.com/question/2074824250477785477",
+      "hot_value": "378 万热度",
       "index": 3
     },
     {
       "title": "国内首部 AIGC 长剧《后西游记》开播，登陆湖南卫视黄金档，好看吗？会对影视行业有怎样的影响？",
       "url": "https://www.zhihu.com/question/2077565922349413598",
-      "hot_value": "393 万热度",
+      "hot_value": "343 万热度",
       "index": 4
     },
     {
-      "title": "华为、小米、荣耀等手机品牌正式涨价，涨幅均超 200 元，最高涨千元，将对用户及手机市场带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2078035027267248519",
-      "hot_value": "339 万热度",
+      "title": "深圳全市中小学生校服款式统一，学生家长可自行去商超购买，怎样看待这种模式？你支持全国推广吗？",
+      "url": "https://www.zhihu.com/question/2078089875853505351",
+      "hot_value": "315 万热度",
       "index": 5
-    },
-    {
-      "title": "为什么一斤粮食还没有一瓶瓶装水贵？",
-      "url": "https://www.zhihu.com/question/2074824250477785477",
-      "hot_value": "253 万热度",
-      "index": 6
-    },
-    {
-      "title": "大泽乡起义时，陈胜说遇雨失期法皆斩与睡虎地秦简记载不同，那么陈胜是真不知法还是故意这么说？\n",
-      "url": "https://www.zhihu.com/question/1969786526624874684",
-      "hot_value": "241 万热度",
-      "index": 7
-    },
-    {
-      "title": "如何评价半个月不到，天蚕土豆的新书在读从 1100 多万跌到 200 万？",
-      "url": "https://www.zhihu.com/question/2077757241512440088",
-      "hot_value": "228 万热度",
-      "index": 8
-    },
-    {
-      "title": "官方通报女子被踢出 845 个群被迫离职，用人单位已履行判决，事件中暴露的问题该如何有效解决？",
-      "url": "https://www.zhihu.com/question/2078050476826649392",
-      "hot_value": "185 万热度",
-      "index": 9
-    },
-    {
-      "title": "杨瀚森绝杀黎巴嫩，小杨未来能到哪一步? 他的发展你有什么建议?",
-      "url": "https://www.zhihu.com/question/2077870074057187813",
-      "hot_value": "177 万热度",
-      "index": 10
-    },
-    {
-      "title": "有什么看描述平平无奇，但其实非常超模的游戏技能 / 道具?",
-      "url": "https://www.zhihu.com/question/2063786226524624615",
-      "hot_value": "129 万热度",
-      "index": 11
-    },
-    {
-      "title": "尼泊尔错坚河冲击坑周边冰川仍有崩落可能，存在重大风险隐患，对救援影响有多大？哪些地区需要警惕？",
-      "url": "https://www.zhihu.com/question/2077806910720275023",
-      "hot_value": "117 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何看待研究根据中美两国数据发现工时和消费的相关性，这是「多休息才能多消费」吗？",
-      "url": "https://www.zhihu.com/question/2078053778146551414",
-      "hot_value": "116 万热度",
-      "index": 13
-    },
-    {
-      "title": "特斯拉在港澳推出更平价版 Model3，最低售价不足 18 万元，这个价格竞争力如何？会有人愿意买单吗？",
-      "url": "https://www.zhihu.com/question/2077517477119054752",
-      "hot_value": "116 万热度",
-      "index": 14
-    },
-    {
-      "title": "吉林一虎园幼虎疑被饲养员一脚踢昏，园方称饲养员遭幼虎咬住引发本能反应，幼虎咬人有多疼？踢昏它要多大力？",
-      "url": "https://www.zhihu.com/question/2077757982943573775",
-      "hot_value": "115 万热度",
-      "index": 15
-    },
-    {
-      "title": "2026 年美网首轮，郑钦文三盘逆转柳托娃，取得今年大满贯首胜，如何评价？",
-      "url": "https://www.zhihu.com/question/2077933998521716942",
-      "hot_value": "114 万热度",
-      "index": 16
-    },
-    {
-      "title": "演员王鸥发文称正独自养育一个孩子，对此你有哪些祝福？",
-      "url": "https://www.zhihu.com/question/2077802961162301807",
-      "hot_value": "107 万热度",
-      "index": 17
-    },
-    {
-      "title": "怎么看待麻省理工报告称人工智能现在可以合理完成几乎所有本科书面作业？",
-      "url": "https://www.zhihu.com/question/2077850860353279737",
-      "hot_value": "107 万热度",
-      "index": 18
     },
     {
       "title": "吉隆口岸未来应该如何重建以应对可能的地质风险？",
       "url": "https://www.zhihu.com/question/2077704208401413960",
-      "hot_value": "101 万热度",
-      "index": 19
+      "hot_value": "269 万热度",
+      "index": 6
     },
     {
-      "title": "韩医生发表案件公开声明，已提交申诉材料，程序全面启动，本案申诉改判的可能性有多大？",
-      "url": "https://www.zhihu.com/question/2076229979373843657",
-      "hot_value": "100 万热度",
-      "index": 20
+      "title": "河南 5 人聚餐吃生鱼片确诊肝吸血虫病，如何避免该病？是否有扩散的风险？",
+      "url": "https://www.zhihu.com/question/2077414549037266534",
+      "hot_value": "250 万热度",
+      "index": 7
     },
     {
-      "title": "济南一小区选择不要物业公司，居民自己管自己，一户一天一块钱，怎样看待这种方式？有哪些利弊？",
-      "url": "https://www.zhihu.com/question/2077786847460026340",
-      "hot_value": "86 万热度",
-      "index": 21
-    },
-    {
-      "title": "樊振东德国杯无缘 8 强，他在比赛中发挥出了哪些问题？",
-      "url": "https://www.zhihu.com/question/2077380380118737708",
-      "hot_value": "75 万热度",
-      "index": 22
+      "title": "吉林一虎园幼虎疑被饲养员一脚踢昏，园方称饲养员遭幼虎咬住引发本能反应，幼虎咬人有多疼？踢昏它要多大力？",
+      "url": "https://www.zhihu.com/question/2077757982943573775",
+      "hot_value": "247 万热度",
+      "index": 8
     },
     {
       "title": "为什么教堂没有功德箱？那教堂的收入从哪里来？",
       "url": "https://www.zhihu.com/question/8674291793",
-      "hot_value": "73 万热度",
-      "index": 23
+      "hot_value": "245 万热度",
+      "index": 9
     },
     {
-      "title": "孩子选择困难症，连去饭店点菜这种简单的事情都犹豫不决。到底该怎么办？",
-      "url": "https://www.zhihu.com/question/2076336090995222336",
-      "hot_value": "69 万热度",
-      "index": 24
+      "title": "有什么知识或技能大学应该学习，却没有人教？",
+      "url": "https://www.zhihu.com/parker/campaign/2075588194968528100?zh_hide_nav_bar=true",
+      "hot_value": "244 万热度",
+      "index": 10
     },
     {
-      "title": "两代人能出两个进士两个举人，有多难？",
-      "url": "https://www.zhihu.com/question/1922629015560259324",
-      "hot_value": "69 万热度",
-      "index": 25
+      "title": "9 月 1 日大量用户吐槽抖音崩了，推荐页秒变「中老年频道」，具体什么情况？可能是什么原因导致的？",
+      "url": "https://www.zhihu.com/question/2078105122261787969",
+      "hot_value": "244 万热度",
+      "index": 11
+    },
+    {
+      "title": "2026 暑期档票房 124.98 亿，创影史最高场次纪录，《功夫女足》夺冠，如何评价这一成绩？",
+      "url": "https://www.zhihu.com/question/2078049623604719716",
+      "hot_value": "227 万热度",
+      "index": 12
+    },
+    {
+      "title": "三大航上半年全部亏损，国航净亏 22.86 亿，东航净亏 21.79 亿，南航净亏 36.96 亿，为什么会这样？",
+      "url": "https://www.zhihu.com/question/2077685778461750727",
+      "hot_value": "201 万热度",
+      "index": 13
+    },
+    {
+      "title": "如何看待研究根据中美两国数据发现工时和消费的相关性，这是「多休息才能多消费」吗？",
+      "url": "https://www.zhihu.com/question/2078053778146551414",
+      "hot_value": "185 万热度",
+      "index": 14
+    },
+    {
+      "title": "越南批量设立直辖市，这对其经济发展和承接中国产业转移意味着什么？",
+      "url": "https://www.zhihu.com/question/2077740582496122297",
+      "hot_value": "179 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何评价半个月不到，天蚕土豆的新书在读从 1100 多万跌到 200 万？",
+      "url": "https://www.zhihu.com/question/2077757241512440088",
+      "hot_value": "167 万热度",
+      "index": 16
     },
     {
       "title": "一般开车几年后会由很猛变得胆小？",
       "url": "https://www.zhihu.com/question/653871360",
-      "hot_value": "65 万热度",
+      "hot_value": "155 万热度",
+      "index": 17
+    },
+    {
+      "title": "特斯拉在港澳推出更平价版 Model3，最低售价不足 18 万元，这个价格竞争力如何？会有人愿意买单吗？",
+      "url": "https://www.zhihu.com/question/2077517477119054752",
+      "hot_value": "151 万热度",
+      "index": 18
+    },
+    {
+      "title": "如何评价 8 月 28 日 LPL 场间互动主持人十月因「判定抢答」引发争议及后续道歉？",
+      "url": "https://www.zhihu.com/question/2076800593423815240",
+      "hot_value": "106 万热度",
+      "index": 19
+    },
+    {
+      "title": "如何看待《英雄联盟》内容创作者「上单老祖」和「柔风亚索」的纠纷？",
+      "url": "https://www.zhihu.com/question/2077720735720682439",
+      "hot_value": "102 万热度",
+      "index": 20
+    },
+    {
+      "title": "刘翔姚明苏炳添发展轨道大不同，只有刘翔陷入是否买断困境，是赛道不同还是性格和选择造成的？",
+      "url": "https://www.zhihu.com/question/2076312692642653149",
+      "hot_value": "100 万热度",
+      "index": 21
+    },
+    {
+      "title": "如何看待曝科大讯飞公关副总裁韩煜尘被解除职务？有什么隐情吗？",
+      "url": "https://www.zhihu.com/question/2077806827740165418",
+      "hot_value": "98 万热度",
+      "index": 22
+    },
+    {
+      "title": "「我」是怎样成为汉语的通行的第一人称的？",
+      "url": "https://www.zhihu.com/question/48030325",
+      "hot_value": "91 万热度",
+      "index": 23
+    },
+    {
+      "title": "高铁二等座变无座，12306 称临时调整无赔偿，此规定合理吗？",
+      "url": "https://www.zhihu.com/question/2077087227780272304",
+      "hot_value": "88 万热度",
+      "index": 24
+    },
+    {
+      "title": "台风「沙德尔」停止编号后再度加强为台风，它为什么能「复活」？",
+      "url": "https://www.zhihu.com/question/2078031638391251545",
+      "hot_value": "72 万热度",
+      "index": 25
+    },
+    {
+      "title": "「正常倾诉」和「倒情绪垃圾」的界限在哪里？",
+      "url": "https://www.zhihu.com/question/13591645870",
+      "hot_value": "71 万热度",
       "index": 26
     },
     {
-      "title": "为什么好多游戏都有暴击率，但是没有对应的“半伤率“？",
-      "url": "https://www.zhihu.com/question/2077784671014990545",
-      "hot_value": "62 万热度",
+      "title": "医学生 / 医生如何在 30/35 岁前实现年薪 100/150 万？",
+      "url": "https://www.zhihu.com/question/10804653792",
+      "hot_value": "71 万热度",
       "index": 27
     },
     {
-      "title": "手游是不是已经陷入 「不氪就没法舒服玩」 的死循环？",
-      "url": "https://www.zhihu.com/question/2076039584018850063",
-      "hot_value": "59 万热度",
+      "title": "樊振东德国杯无缘 8 强，他在比赛中发挥出了哪些问题？",
+      "url": "https://www.zhihu.com/question/2077380380118737708",
+      "hot_value": "71 万热度",
       "index": 28
     },
     {
-      "title": "童年被剥夺玩耍时间全力拼学业，长大之后会不会留下心理缺憾？",
-      "url": "https://www.zhihu.com/question/2076201142720246420",
-      "hot_value": "57 万热度",
+      "title": "有哪些动画是你童年时候没看完，长大之后还会继续看且还能看得进去的？",
+      "url": "https://www.zhihu.com/question/2057793474720706750",
+      "hot_value": "68 万热度",
       "index": 29
     },
     {
-      "title": "当你没有价值的时候别人还会在乎你吗？在别人眼里的价值是什么？",
-      "url": "https://www.zhihu.com/question/2052896371578033659",
-      "hot_value": "57 万热度",
+      "title": "武侠游戏里，你打败一个敌人，他身上的钱、装备、丹药就全归你了—这个「搜尸」的逻辑，是从哪来的？",
+      "url": "https://www.zhihu.com/question/2077303137740895914",
+      "hot_value": "66 万热度",
       "index": 30
     }
   ]
