@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-01T23:44:47Z",
+  "update_time": "2026-09-02T02:36:35Z",
   "count": 30,
   "list": [
     {
       "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
       "url": "https://www.bilibili.com/video/BV1a3th65EQb",
-      "hot_value": "1711763播放",
+      "hot_value": "2232409播放",
       "index": 1
-    },
-    {
-      "title": "这也能装？给车内塞一套工作站！小米澎程N90 Max用车体验！",
-      "url": "https://www.bilibili.com/video/BV1k2t86hEuD",
-      "hot_value": "2084722播放",
-      "index": 2
     },
     {
       "title": "绝活",
       "url": "https://www.bilibili.com/video/BV1GStg6oEQe",
-      "hot_value": "594704播放",
+      "hot_value": "818220播放",
+      "index": 2
+    },
+    {
+      "title": "“我现在被撞了，你意思是我活该吗？”女子骑电动自行车横穿机动车道，交警：全责！",
+      "url": "https://www.bilibili.com/video/BV15bt36cERX",
+      "hot_value": "818767播放",
       "index": 3
-    },
-    {
-      "title": "从零开始，黑龙江发现废弃石头屋改造寒冬避难所，首场暴风雪来之前要做好准备，提前存储物资",
-      "url": "https://www.bilibili.com/video/BV1BLt86QECJ",
-      "hot_value": "698693播放",
-      "index": 4
-    },
-    {
-      "title": "【魔女养成计划6】当“中国制造”出现在幻想世界里，嘿嘿 【up动画】",
-      "url": "https://www.bilibili.com/video/BV1BXjA6HEQ7",
-      "hot_value": "1860923播放",
-      "index": 5
-    },
-    {
-      "title": "【何同学】库克时代",
-      "url": "https://www.bilibili.com/video/BV1G7tG6tEwL",
-      "hot_value": "670077播放",
-      "index": 6
-    },
-    {
-      "title": "来这吃牛肉，格局和肚子都大了…",
-      "url": "https://www.bilibili.com/video/BV1yF8h6BEWL",
-      "hot_value": "1315136播放",
-      "index": 7
     },
     {
       "title": "【蕾米埃尔】：入木三分，原来是字面意思？",
       "url": "https://www.bilibili.com/video/BV1bLth6rE1T",
-      "hot_value": "659198播放",
-      "index": 8
-    },
-    {
-      "title": "三年之期已到，恭迎世一上归位！【第6集】",
-      "url": "https://www.bilibili.com/video/BV1eHt86mErz",
-      "hot_value": "1776715播放",
-      "index": 9
+      "hot_value": "807270播放",
+      "index": 4
     },
     {
       "title": "日语版《朋友的酒》citypop remix（空城计の小曲）",
       "url": "https://www.bilibili.com/video/BV1AvtW6yEan",
-      "hot_value": "768158播放",
+      "hot_value": "900937播放",
+      "index": 5
+    },
+    {
+      "title": "把公司当成主题乐园",
+      "url": "https://www.bilibili.com/video/BV1n1tA67EsT",
+      "hot_value": "656998播放",
+      "index": 6
+    },
+    {
+      "title": "第二集。",
+      "url": "https://www.bilibili.com/video/BV1xWtg6yEob",
+      "hot_value": "378972播放",
+      "index": 7
+    },
+    {
+      "title": "08年美国讽刺金曲《朋友的酒》（英语填词cover）“空城计の小曲”",
+      "url": "https://www.bilibili.com/video/BV1Este6wExx",
+      "hot_value": "337914播放",
+      "index": 8
+    },
+    {
+      "title": "【何同学】库克时代",
+      "url": "https://www.bilibili.com/video/BV1G7tG6tEwL",
+      "hot_value": "780504播放",
+      "index": 9
+    },
+    {
+      "title": "来这吃牛肉，格局和肚子都大了…",
+      "url": "https://www.bilibili.com/video/BV1yF8h6BEWL",
+      "hot_value": "1481992播放",
       "index": 10
     },
     {
-      "title": "开疆拓土特朗普，可算美国总统GOAT？",
-      "url": "https://www.bilibili.com/video/BV1n5t366E6q",
-      "hot_value": "498907播放",
+      "title": "从零开始，黑龙江发现废弃石头屋改造寒冬避难所，首场暴风雪来之前要做好准备，提前存储物资",
+      "url": "https://www.bilibili.com/video/BV1BLt86QECJ",
+      "hot_value": "805820播放",
       "index": 11
     },
     {
       "title": "有市无价再创记录！世界最大顶级黄油蟹与巨型松茸的完美邂逅！鱼子酱只配当咸菜？！",
       "url": "https://www.bilibili.com/video/BV1ZJtu6tEyd",
-      "hot_value": "276726播放",
+      "hot_value": "343363播放",
       "index": 12
-    },
-    {
-      "title": "【铁豆钢蛋】你好 斌斌！",
-      "url": "https://www.bilibili.com/video/BV1KxtY6kEwY",
-      "hot_value": "625775播放",
-      "index": 13
-    },
-    {
-      "title": "和龙龙录一次猜英雄。太好玩了",
-      "url": "https://www.bilibili.com/video/BV1aTtb6uEZW",
-      "hot_value": "1107618播放",
-      "index": 14
-    },
-    {
-      "title": "《明日方舟：终末地》干员叙事 [提弗洛斯：萨米维格的孩子]",
-      "url": "https://www.bilibili.com/video/BV1uht86rEDA",
-      "hot_value": "1396192播放",
-      "index": 15
-    },
-    {
-      "title": "把公司当成主题乐园",
-      "url": "https://www.bilibili.com/video/BV1n1tA67EsT",
-      "hot_value": "537176播放",
-      "index": 16
-    },
-    {
-      "title": "《安心安全 | 安心安全》MV ：日本制造最重视的就是企业形象",
-      "url": "https://www.bilibili.com/video/BV1WPt86FETB",
-      "hot_value": "1232187播放",
-      "index": 17
-    },
-    {
-      "title": "这是个辅助万豪！？",
-      "url": "https://www.bilibili.com/video/BV1y3tp63ET8",
-      "hot_value": "1251848播放",
-      "index": 18
-    },
-    {
-      "title": "“所以时间的参照物是什么”【原神混剪】",
-      "url": "https://www.bilibili.com/video/BV1f9t86RE52",
-      "hot_value": "278940播放",
-      "index": 19
-    },
-    {
-      "title": "还是穿不了“大人”的衣服",
-      "url": "https://www.bilibili.com/video/BV1Ugtb6KEXU",
-      "hot_value": "840858播放",
-      "index": 20
-    },
-    {
-      "title": "第二集。",
-      "url": "https://www.bilibili.com/video/BV1xWtg6yEob",
-      "hot_value": "291539播放",
-      "index": 21
-    },
-    {
-      "title": "漂亮的恶意01|误入充满恶意的顶级财阀校园，川渝转学生表示，她真的只想好好学习！",
-      "url": "https://www.bilibili.com/video/BV1Aj4D6UEHB",
-      "hot_value": "1269262播放",
-      "index": 22
-    },
-    {
-      "title": "新三国up锐评神探狄仁杰14：前倨而后恭……这词儿咋这么耳熟？",
-      "url": "https://www.bilibili.com/video/BV1ktth6aEJL",
-      "hot_value": "461849播放",
-      "index": 23
-    },
-    {
-      "title": "08年美国讽刺金曲《朋友的酒》（英语填词cover）“空城计の小曲”",
-      "url": "https://www.bilibili.com/video/BV1Este6wExx",
-      "hot_value": "254923播放",
-      "index": 24
-    },
-    {
-      "title": "1.6万人同唱，龚琳娜现场全开麦！《剑网3》十七周年庆典全程回顾上线",
-      "url": "https://www.bilibili.com/video/BV1FXt864EDe",
-      "hot_value": "667206播放",
-      "index": 25
-    },
-    {
-      "title": "当广告挡住关键时刻，可能就是生死之间",
-      "url": "https://www.bilibili.com/video/BV1YNtb66ErA",
-      "hot_value": "1946240播放",
-      "index": 26
-    },
-    {
-      "title": "如果让专业厨师推荐私藏小店他们会怎么推荐？",
-      "url": "https://www.bilibili.com/video/BV18s4k6gESU",
-      "hot_value": "1922340播放",
-      "index": 27
     },
     {
       "title": "每说一个“瓜”字，华强血液酒精含量增加20mg/100ml",
       "url": "https://www.bilibili.com/video/BV1nF8m6CEzi",
-      "hot_value": "265831播放",
+      "hot_value": "356093播放",
+      "index": 13
+    },
+    {
+      "title": "开疆拓土特朗普，可算美国总统GOAT？",
+      "url": "https://www.bilibili.com/video/BV1n5t366E6q",
+      "hot_value": "581484播放",
+      "index": 14
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第6集】",
+      "url": "https://www.bilibili.com/video/BV1eHt86mErz",
+      "hot_value": "1876012播放",
+      "index": 15
+    },
+    {
+      "title": "纯手搓的视频，初音会喜欢吗？【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1XPtM6SEHv",
+      "hot_value": "327072播放",
+      "index": 16
+    },
+    {
+      "title": "这也能装？给车内塞一套工作站！小米澎程N90 Max用车体验！",
+      "url": "https://www.bilibili.com/video/BV1k2t86hEuD",
+      "hot_value": "2206325播放",
+      "index": 17
+    },
+    {
+      "title": "对话黄眉大王：《时空朋友圈》第二季 EP01",
+      "url": "https://www.bilibili.com/video/BV1NRtP6FE2p",
+      "hot_value": "1204324播放",
+      "index": 18
+    },
+    {
+      "title": "这制作水平，当C忍是不是太屈才了",
+      "url": "https://www.bilibili.com/video/BV19Utg6tEJm",
+      "hot_value": "245775播放",
+      "index": 19
+    },
+    {
+      "title": "捧不红的“景甜宇宙”，内娱史上最硬核资源咖",
+      "url": "https://www.bilibili.com/video/BV1HDt86ZEhk",
+      "hot_value": "551613播放",
+      "index": 20
+    },
+    {
+      "title": "《安心安全 | 安心安全》MV ：日本制造最重视的就是企业形象",
+      "url": "https://www.bilibili.com/video/BV1WPt86FETB",
+      "hot_value": "1303833播放",
+      "index": 21
+    },
+    {
+      "title": "尼泊尔泥石流千人死亡四千失踪 天灾人祸的罪与罚",
+      "url": "https://www.bilibili.com/video/BV19YtV6NEYa",
+      "hot_value": "255764播放",
+      "index": 22
+    },
+    {
+      "title": "还是穿不了“大人”的衣服",
+      "url": "https://www.bilibili.com/video/BV1Ugtb6KEXU",
+      "hot_value": "903117播放",
+      "index": 23
+    },
+    {
+      "title": "“小传人”来了（假期拍摄，快乐起来）",
+      "url": "https://www.bilibili.com/video/BV1potV6SEWY",
+      "hot_value": "212552播放",
+      "index": 24
+    },
+    {
+      "title": "“什么叫程心的威慑度是100%？”",
+      "url": "https://www.bilibili.com/video/BV1p5t366EuM",
+      "hot_value": "137292播放",
+      "index": 25
+    },
+    {
+      "title": "沙特2030愿景，现在怎么样了？",
+      "url": "https://www.bilibili.com/video/BV1HGta6aEf8",
+      "hot_value": "360096播放",
+      "index": 26
+    },
+    {
+      "title": "这是个辅助万豪！？",
+      "url": "https://www.bilibili.com/video/BV1y3tp63ET8",
+      "hot_value": "1292602播放",
+      "index": 27
+    },
+    {
+      "title": "【魔女养成计划6】当“中国制造”出现在幻想世界里，嘿嘿 【up动画】",
+      "url": "https://www.bilibili.com/video/BV1BXjA6HEQ7",
+      "hot_value": "1868624播放",
       "index": 28
     },
     {
-      "title": "一把椅子先达到了L4级智能？黑白调X7 Max",
-      "url": "https://www.bilibili.com/video/BV13Xtg6REB3",
-      "hot_value": "181615播放",
+      "title": "《明日方舟：终末地》干员叙事 [提弗洛斯：萨米维格的孩子]",
+      "url": "https://www.bilibili.com/video/BV1uht86rEDA",
+      "hot_value": "1412253播放",
       "index": 29
     },
     {
-      "title": "游戏玩家的真实年龄belike：",
-      "url": "https://www.bilibili.com/video/BV1C2t86hEmz",
-      "hot_value": "2664488播放",
+      "title": "【铁豆钢蛋】你好 斌斌！",
+      "url": "https://www.bilibili.com/video/BV1KxtY6kEwY",
+      "hot_value": "644231播放",
       "index": 30
     }
   ]
