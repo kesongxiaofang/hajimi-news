@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-02T07:33:41Z",
+  "update_time": "2026-09-02T12:29:08Z",
   "count": 30,
   "list": [
     {
-      "title": "皮鞋大王奥康国际四年亏 9 亿，红蜻蜓连年亏损，为啥中国男人不爱买皮鞋了？",
-      "url": "https://www.zhihu.com/question/2077710901293965870",
-      "hot_value": "1116 万热度",
+      "title": "多所高校宣布中秋、国庆连放 13 天，称「避免学生反复往返耗费路费、体力」，如何看待这一做法？值得普及吗？",
+      "url": "https://www.zhihu.com/question/2077824447755694481",
+      "hot_value": "427 万热度",
       "index": 1
     },
     {
-      "title": "有网友表示很多医院门诊一号难求，但仍有三甲医院出现裁员现象，医院爆满只是假象吗？为啥医院会有经营困难？",
-      "url": "https://www.zhihu.com/question/2077796390630178976",
-      "hot_value": "322 万热度",
+      "title": "黄之锋在香港高等法院就「串谋勾结外国或者境外势力危害国家安全」案当庭认罪，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2078466231653479631",
+      "hot_value": "368 万热度",
       "index": 2
     },
     {
-      "title": "交通运输部回应网友建议「取消 ETC 设备使用，采用车牌感应支付」，车牌感应是否可行？",
-      "url": "https://www.zhihu.com/question/2077044040214778611",
-      "hot_value": "268 万热度",
+      "title": "LPL 解说管泽元被曝处罚严重，因不满处罚主动停工，这对他个人发展及 LPL 会有何影响？",
+      "url": "https://www.zhihu.com/question/2078218956062580765",
+      "hot_value": "310 万热度",
       "index": 3
     },
     {
-      "title": "多所高校宣布中秋、国庆连放 13 天，称「避免学生反复往返耗费路费、体力」，如何看待这一做法？值得普及吗？",
-      "url": "https://www.zhihu.com/question/2077824447755694481",
-      "hot_value": "244 万热度",
+      "title": "家长提议班级收 600 元请保洁，有家长反对被禁言，如何看待此事？小学生参与班级劳动家长该不该插手？",
+      "url": "https://www.zhihu.com/question/2078199895417274387",
+      "hot_value": "263 万热度",
       "index": 4
+    },
+    {
+      "title": "苹果、小米、华为发布时间撞档，为啥大家都选 9 月发布新品？扎堆发布不会影响销量吗？",
+      "url": "https://www.zhihu.com/question/2078445037713450579",
+      "hot_value": "226 万热度",
+      "index": 5
+    },
+    {
+      "title": "为什么江西小炒会越来越多？",
+      "url": "https://www.zhihu.com/question/2076963909853102397",
+      "hot_value": "220 万热度",
+      "index": 6
     },
     {
       "title": "有人说「江浙沪小县城工资崩塌了」，是真的么？如果是，为什么会出现这种情况？",
       "url": "https://www.zhihu.com/question/2077784950183387750",
-      "hot_value": "205 万热度",
-      "index": 5
-    },
-    {
-      "title": "《爱情公寓》中曾小贤明明和胡一菲互相喜欢，为什么却在中途突然和诺澜在一起了？",
-      "url": "https://www.zhihu.com/question/371857007",
-      "hot_value": "167 万热度",
-      "index": 6
+      "hot_value": "215 万热度",
+      "index": 7
     },
     {
       "title": "为什么 211 越来越不被人当成名校了？",
       "url": "https://www.zhihu.com/question/2068803698319430408",
-      "hot_value": "154 万热度",
-      "index": 7
-    },
-    {
-      "title": "泡面巨头靠涨价赚翻，销量没大涨，业绩却回暖，部分高端泡面看齐外卖价格，方便面行业真的逆袭了吗？",
-      "url": "https://www.zhihu.com/question/2073493256252539205",
-      "hot_value": "152 万热度",
+      "hot_value": "209 万热度",
       "index": 8
     },
     {
-      "title": "于东来晒胖东来业绩，本年累计销售额达 195.15 亿元，同比增长 26.98%，如何评价这个成绩？",
-      "url": "https://www.zhihu.com/question/2078220850705032542",
-      "hot_value": "148 万热度",
+      "title": "你经历过最像鬼故事、最后却有现实解释的事情是什么？",
+      "url": "https://www.zhihu.com/question/2074482766775951771",
+      "hot_value": "179 万热度",
       "index": 9
     },
     {
-      "title": "有个人定制了几万只右脚的鞋，这是不是什么圈套？",
-      "url": "https://www.zhihu.com/question/2074445279345038376",
-      "hot_value": "144 万热度",
+      "title": "比亚迪 2026 年 8 月销量超过 44 万台，同比增长 17.84%，如何评价这一成绩？",
+      "url": "https://www.zhihu.com/question/2078170215607711357",
+      "hot_value": "160 万热度",
       "index": 10
-    },
-    {
-      "title": "吉隆口岸的陆路救援通道实现畅通，挖掘机械抵达核心区，将给物资输送、人员转运等灾带来哪些实质性提升？",
-      "url": "https://www.zhihu.com/question/2078251446856839848",
-      "hot_value": "143 万热度",
-      "index": 11
-    },
-    {
-      "title": "如何看待 Anthropic 全面开放 Claude Fable 5.1 和 Mythos 5.1？有哪些亮点？",
-      "url": "https://www.zhihu.com/question/2078320389617350247",
-      "hot_value": "143 万热度",
-      "index": 12
     },
     {
       "title": "美伊再次开打，特朗普威胁伊朗若报复将遭受「更猛烈」打击，此轮袭击将如何影响中东局势？",
       "url": "https://www.zhihu.com/question/2078394585563100576",
-      "hot_value": "142 万热度",
+      "hot_value": "157 万热度",
+      "index": 11
+    },
+    {
+      "title": "TOP 登陆少年开演唱会，徐州 12345 被粉丝用作「对线」工具，近 5 万件诉求涌入，这种行为该受到处罚吗？",
+      "url": "https://www.zhihu.com/question/2078472073869882876",
+      "hot_value": "155 万热度",
+      "index": 12
+    },
+    {
+      "title": "皮鞋大王奥康国际四年亏 9 亿，红蜻蜓连年亏损，为啥中国男人不爱买皮鞋了？",
+      "url": "https://www.zhihu.com/question/2077710901293965870",
+      "hot_value": "154 万热度",
       "index": 13
     },
     {
-      "title": "加拿大对美发动「精准关税战」，以龙虾和奶酪作武器，这波操作能影响美国中期选举吗？",
-      "url": "https://www.zhihu.com/question/2076598538994201640",
-      "hot_value": "141 万热度",
+      "title": "女排亚锦赛爆冷输泰国，乒乓、游泳等多个项目退步严重，中国体育未来究竟该怎么走？",
+      "url": "https://www.zhihu.com/question/2077513936468034010",
+      "hot_value": "154 万热度",
       "index": 14
     },
     {
       "title": "景区 NPC 的职业前景好吗？一个好的景区 NPC，最重要的能力是什么？会有职业焦虑吗？",
       "url": "https://www.zhihu.com/question/2058198409022890684",
-      "hot_value": "140 万热度",
+      "hot_value": "148 万热度",
       "index": 15
     },
     {
-      "title": "星宇股份董事长就集体劝退应届生再次道歉，正在政府部门指导下妥善落实相关措施，给其他企业敲响了哪些警钟？",
-      "url": "https://www.zhihu.com/question/2078469348969146079",
-      "hot_value": "140 万热度",
+      "title": "如何评价毛阿敏在《花儿与少年》第二季中的表现？",
+      "url": "https://www.zhihu.com/question/30480494",
+      "hot_value": "143 万热度",
       "index": 16
     },
     {
-      "title": "如何看待皇马在悼念尼泊尔洪灾的英文帖文中，将西藏与尼泊尔并列？",
-      "url": "https://www.zhihu.com/question/2078257771653197881",
-      "hot_value": "140 万热度",
+      "title": "交通运输部回应网友建议「取消 ETC 设备使用，采用车牌感应支付」，车牌感应是否可行？",
+      "url": "https://www.zhihu.com/question/2077044040214778611",
+      "hot_value": "131 万热度",
       "index": 17
     },
     {
-      "title": "广西一中学 78 人住一间宿舍，学校称是过渡宿舍，教育局已通报整改，如何看待这种宿舍条件？这样安排合适吗？",
-      "url": "https://www.zhihu.com/question/2078095115827127379",
-      "hot_value": "140 万热度",
+      "title": "有个人定制了几万只右脚的鞋，这是不是什么圈套？",
+      "url": "https://www.zhihu.com/question/2074445279345038376",
+      "hot_value": "123 万热度",
       "index": 18
     },
     {
-      "title": "华为、小米、荣耀手机集体调价，华为 Mate80 全系涨价，最高涨 1000 元，普通人换机该怎么选？",
-      "url": "https://www.zhihu.com/question/2078044954333651846",
-      "hot_value": "139 万热度",
+      "title": "小学老师感慨「梓萱」「子涵」已成过去式， 现在取名有哪些新趋势？为啥会发生这种变化？",
+      "url": "https://www.zhihu.com/question/2078092686771409457",
+      "hot_value": "122 万热度",
       "index": 19
     },
     {
-      "title": "现在网上有一种观点，给孩子补课不如把钱留着等孩子长大了给他，你怎么看？",
-      "url": "https://www.zhihu.com/question/2075726413571822337",
-      "hot_value": "112 万热度",
+      "title": "宇树科技股价跌破 550 元，较高点回落超 50%，什么原因？估值回调会影响后续研发投入节奏吗？",
+      "url": "https://www.zhihu.com/question/2078429717326213869",
+      "hot_value": "103 万热度",
       "index": 20
-    },
-    {
-      "title": "库克 9 月 1 日卸任苹果 CEO，由苹果硬件工程负责人特努斯接棒，苹果接下来将发生哪些变化？",
-      "url": "https://www.zhihu.com/question/2077705001892148802",
-      "hot_value": "112 万热度",
-      "index": 21
     },
     {
       "title": "报道称美国银行某部门 VP 艾琳·皮亚琴蒂据称在时代广场被刺身亡，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2078267177547871684",
-      "hot_value": "112 万热度",
+      "hot_value": "99 万热度",
+      "index": 21
+    },
+    {
+      "title": "男子盘手串包浆后被妻子用刷子搓净，玩家集体破防，到底什么是包浆？女子洗掉的到底是包浆还是油泥？",
+      "url": "https://www.zhihu.com/question/2078389946146976610",
+      "hot_value": "96 万热度",
       "index": 22
     },
     {
-      "title": "LPL 解说管泽元被曝处罚严重，因不满处罚主动停工，这对他个人发展及 LPL 会有何影响？",
-      "url": "https://www.zhihu.com/question/2078218956062580765",
-      "hot_value": "111 万热度",
+      "title": "夏窗关闭，阿尔瓦雷斯最终未能转会巴萨将继续留守马竞，你如何评价这一夏窗的转会闹剧？",
+      "url": "https://www.zhihu.com/question/2078448198708901119",
+      "hot_value": "92 万热度",
       "index": 23
     },
     {
-      "title": "车企高管称现在不买 L3 级像当年不买 5G 手机，这个类比成立吗？现阶段有必要选购 L3 级车型吗？",
-      "url": "https://www.zhihu.com/question/2075995177009820519",
-      "hot_value": "73 万热度",
+      "title": "如何评价《海贼王》漫画最新的第 1192 话情报？",
+      "url": "https://www.zhihu.com/question/2078259567759192428",
+      "hot_value": "91 万热度",
       "index": 24
     },
     {
-      "title": "《勇闯夺命岛》的海军陆战队员为了区区 100 万美金而叛国，去一个没有引渡条约的国家度过余生，这可能吗？",
-      "url": "https://www.zhihu.com/question/524129428",
-      "hot_value": "69 万热度",
+      "title": "美国航母抵达泰国，泰方心情复杂，背后有哪些深层原因？",
+      "url": "https://www.zhihu.com/question/2078403618252776983",
+      "hot_value": "89 万热度",
       "index": 25
     },
     {
-      "title": "有哪些动漫或游戏中的服装设计比较出色？",
-      "url": "https://www.zhihu.com/question/28500411",
-      "hot_value": "64 万热度",
+      "title": "蔚来上半年归母亏损 12.18 亿元，同比收窄近九成，如何评价其盈利前景？",
+      "url": "https://www.zhihu.com/question/2078189074624538485",
+      "hot_value": "87 万热度",
       "index": 26
     },
     {
-      "title": "新加坡人均 GDP 9 万美元，怎么基层工作岗位的工资，还没有一些人均 GDP 4 万美元左右的国家高？",
-      "url": "https://www.zhihu.com/question/647057874",
-      "hot_value": "59 万热度",
+      "title": "港媒曝香港武打巨星陈观泰去世，享年 80 岁，曾出演《马永贞》《血滴子》等，你对他塑造的角色有哪些记忆？",
+      "url": "https://www.zhihu.com/question/2078467898893231185",
+      "hot_value": "83 万热度",
       "index": 27
     },
     {
-      "title": "8 月鸿蒙智行交付 4.2 万余台，小米汽车持续交付超 3 万台，如何评价各家车企 8 月交付表现？",
-      "url": "https://www.zhihu.com/question/2078071279840651185",
-      "hot_value": "57 万热度",
+      "title": "现在网上有一种观点，给孩子补课不如把钱留着等孩子长大了给他，你怎么看？",
+      "url": "https://www.zhihu.com/question/2075726413571822337",
+      "hot_value": "78 万热度",
       "index": 28
     },
     {
-      "title": "GPT-6 灰测 demo 刷屏，预计在周四发布，你对这款 AI 模型有哪些期待？",
-      "url": "https://www.zhihu.com/question/2077759364111386075",
-      "hot_value": "57 万热度",
+      "title": "泡面巨头靠涨价赚翻，销量没大涨，业绩却回暖，部分高端泡面看齐外卖价格，方便面行业真的逆袭了吗？",
+      "url": "https://www.zhihu.com/question/2073493256252539205",
+      "hot_value": "76 万热度",
       "index": 29
     },
     {
-      "title": "英媒称曼城与切尔西就恩佐转会达协议，转会费1.4亿欧+浮动，如何评价这笔转会？",
-      "url": "https://www.zhihu.com/question/2078236462722687268",
-      "hot_value": "56 万热度",
+      "title": "为什么郭芙在神雕书末已经叫「杨大哥杨大嫂」了，杨过直到神雕书末还一直叫她「芙妹」或「郭大姑娘」?",
+      "url": "https://www.zhihu.com/question/2077795327931855392",
+      "hot_value": "73 万热度",
       "index": 30
     }
   ]
