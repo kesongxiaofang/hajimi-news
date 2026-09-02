@@ -1,127 +1,127 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-02T19:36:52Z",
+  "update_time": "2026-09-02T22:17:51Z",
   "count": 30,
   "list": [
     {
       "title": "怎样看待央视抽查保温杯连 304 钢印都能造假？",
       "url": "https://www.zhihu.com/question/2077321081388647459",
-      "hot_value": "731 万热度",
+      "hot_value": "650 万热度",
       "index": 1
-    },
-    {
-      "title": "黄之锋在香港高等法院就「串谋勾结外国或者境外势力危害国家安全」案当庭认罪，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2078466231653479631",
-      "hot_value": "576 万热度",
-      "index": 2
     },
     {
       "title": "西藏泥石流已致 21 死 541 失联，发现遗物 847 件，有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2078579015065887237",
-      "hot_value": "568 万热度",
+      "hot_value": "546 万热度",
+      "index": 2
+    },
+    {
+      "title": "欧、美、日、英，多国债市遭抛售潮，这种现象以前发生过吗？",
+      "url": "https://www.zhihu.com/question/2078423950367744242",
+      "hot_value": "220 万热度",
       "index": 3
     },
     {
       "title": "男子盘手串包浆后被妻子用刷子搓净，玩家集体破防，到底什么是包浆？女子洗掉的到底是包浆还是油泥？",
       "url": "https://www.zhihu.com/question/2078389946146976610",
-      "hot_value": "267 万热度",
+      "hot_value": "178 万热度",
       "index": 4
     },
     {
-      "title": "为什么江西小炒会越来越多？",
-      "url": "https://www.zhihu.com/question/2076963909853102397",
-      "hot_value": "242 万热度",
+      "title": "如何评价 22.99 万起售的比亚迪海狮 08？有哪些亮点值得关注？",
+      "url": "https://www.zhihu.com/question/2078536930053169501",
+      "hot_value": "142 万热度",
       "index": 5
     },
     {
-      "title": "欧、美、日、英，多国债市遭抛售潮，这种现象以前发生过吗？",
-      "url": "https://www.zhihu.com/question/2078423950367744242",
-      "hot_value": "236 万热度",
+      "title": "Gemini 3.8 Flash 发布，有什么值得关注的？",
+      "url": "https://www.zhihu.com/question/2078626349426683976",
+      "hot_value": "141 万热度",
       "index": 6
     },
     {
       "title": "小学老师感慨「梓萱」「子涵」已成过去式， 现在取名有哪些新趋势？为啥会发生这种变化？",
       "url": "https://www.zhihu.com/question/2078092686771409457",
-      "hot_value": "184 万热度",
+      "hot_value": "135 万热度",
       "index": 7
     },
     {
-      "title": "苹果、小米、华为发布时间撞档，为啥大家都选 9 月发布新品？扎堆发布不会影响销量吗？",
-      "url": "https://www.zhihu.com/question/2078445037713450579",
-      "hot_value": "158 万热度",
+      "title": "如何评价最白的乌鸦新书《请勿高考时渡劫》达成 10 万首订，这本书有意思不？",
+      "url": "https://www.zhihu.com/question/2078429565551129125",
+      "hot_value": "124 万热度",
       "index": 8
     },
     {
-      "title": "如何评价 22.99 万起售的比亚迪海狮 08？有哪些亮点值得关注？",
-      "url": "https://www.zhihu.com/question/2078536930053169501",
-      "hot_value": "148 万热度",
+      "title": "怎么看美国《外交政策》（Foreign Policy）称「中国的成功正迫使美国重新思考 AI 战略」？",
+      "url": "https://www.zhihu.com/question/2078117316865402416",
+      "hot_value": "123 万热度",
       "index": 9
     },
     {
       "title": "TOP 登陆少年开演唱会，徐州 12345 被粉丝用作「对线」工具，近 5 万件诉求涌入，这种行为该受到处罚吗？",
       "url": "https://www.zhihu.com/question/2078472073869882876",
-      "hot_value": "142 万热度",
+      "hot_value": "116 万热度",
       "index": 10
     },
     {
-      "title": "怎么看美国《外交政策》（Foreign Policy）称「中国的成功正迫使美国重新思考 AI 战略」？",
-      "url": "https://www.zhihu.com/question/2078117316865402416",
-      "hot_value": "135 万热度",
+      "title": "苹果新任 CEO 约翰·特努斯是什么来头？CEO 更替会给苹果带来什么影响？",
+      "url": "https://www.zhihu.com/question/2029935316270842168",
+      "hot_value": "109 万热度",
       "index": 11
     },
     {
-      "title": "如何评价最白的乌鸦新书《请勿高考时渡劫》达成 10 万首订，这本书有意思不？",
-      "url": "https://www.zhihu.com/question/2078429565551129125",
-      "hot_value": "130 万热度",
+      "title": "有人说「江浙沪小县城工资崩塌了」，是真的么？如果是，为什么会出现这种情况？",
+      "url": "https://www.zhihu.com/question/2077784950183387750",
+      "hot_value": "106 万热度",
       "index": 12
-    },
-    {
-      "title": "港媒曝香港武打巨星陈观泰去世，享年 80 岁，曾出演《马永贞》《血滴子》等，你对他塑造的角色有哪些记忆？",
-      "url": "https://www.zhihu.com/question/2078467898893231185",
-      "hot_value": "119 万热度",
-      "index": 13
     },
     {
       "title": "「药茅」片仔癀半年报利润下滑 24.22%，其市值较巅峰已蒸发超 2100 亿，如何解读？",
       "url": "https://www.zhihu.com/question/2078054742500930020",
-      "hot_value": "116 万热度",
+      "hot_value": "104 万热度",
+      "index": 13
+    },
+    {
+      "title": "黄之锋在香港高等法院就「串谋勾结外国或者境外势力危害国家安全」案当庭认罪，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2078466231653479631",
+      "hot_value": "99 万热度",
       "index": 14
     },
     {
-      "title": "deepseek-v4-flash 、 glm-5.3-flash 、 qwen-3.8-flash 怎么选择？",
-      "url": "https://www.zhihu.com/question/2077826134134282169",
-      "hot_value": "107 万热度",
+      "title": "苹果、小米、华为发布时间撞档，为啥大家都选 9 月发布新品？扎堆发布不会影响销量吗？",
+      "url": "https://www.zhihu.com/question/2078445037713450579",
+      "hot_value": "89 万热度",
       "index": 15
-    },
-    {
-      "title": "LCK 季后赛 HLE 让二追三 T1 挺进胜者组决赛，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2078576563612927320",
-      "hot_value": "105 万热度",
-      "index": 16
     },
     {
       "title": "美联储这次加息的概率有多大？",
       "url": "https://www.zhihu.com/question/2077297716640666522",
-      "hot_value": "94 万热度",
+      "hot_value": "88 万热度",
+      "index": 16
+    },
+    {
+      "title": "deepseek-v4-flash 、 glm-5.3-flash 、 qwen-3.8-flash 怎么选择？",
+      "url": "https://www.zhihu.com/question/2077826134134282169",
+      "hot_value": "82 万热度",
       "index": 17
     },
     {
-      "title": "15 万的油车与 15 万的电车，相同用车情况下，8 年费用对比如何？",
-      "url": "https://www.zhihu.com/question/2078379707381310758",
-      "hot_value": "76 万热度",
+      "title": "LCK 季后赛 HLE 让二追三 T1 挺进胜者组决赛，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2078576563612927320",
+      "hot_value": "82 万热度",
       "index": 18
     },
     {
-      "title": "如何评价阿森纳在 2026 年夏窗尾声的转会操作？",
-      "url": "https://www.zhihu.com/question/2076388541567853446",
+      "title": "为什么江西小炒会越来越多？",
+      "url": "https://www.zhihu.com/question/2076963909853102397",
       "hot_value": "73 万热度",
       "index": 19
     },
     {
       "title": "如何评价纪录片克莱克森的农场?",
       "url": "https://www.zhihu.com/question/486632334",
-      "hot_value": "73 万热度",
+      "hot_value": "72 万热度",
       "index": 20
     },
     {
@@ -131,57 +131,57 @@
       "index": 21
     },
     {
-      "title": "大家身边有没有那种「名字很吓人，实地看却很普通」的地方？这样的名字是怎么来的？",
-      "url": "https://www.zhihu.com/question/2075544888804905288",
+      "title": "如何看待有网友冒充老师进入新生家长群诈骗收款，贴吧的传播版本中添加了收款方为米哈游的截图？",
+      "url": "https://www.zhihu.com/question/2077847354464531668",
       "hot_value": "72 万热度",
       "index": 22
     },
     {
-      "title": "如何培养一个孩子的时间观念呢？",
-      "url": "https://www.zhihu.com/question/2078374347421508518",
+      "title": "大家身边有没有那种「名字很吓人，实地看却很普通」的地方？这样的名字是怎么来的？",
+      "url": "https://www.zhihu.com/question/2075544888804905288",
       "hot_value": "71 万热度",
       "index": 23
     },
     {
-      "title": "鸡蛋除了西红柿还能炒什么?",
-      "url": "https://www.zhihu.com/question/2037443300584601122",
-      "hot_value": "68 万热度",
+      "title": "如何评价阿森纳在 2026 年夏窗尾声的转会操作？",
+      "url": "https://www.zhihu.com/question/2076388541567853446",
+      "hot_value": "70 万热度",
       "index": 24
     },
     {
       "title": "美国航母抵达泰国，泰方心情复杂，背后有哪些深层原因？",
       "url": "https://www.zhihu.com/question/2078403618252776983",
-      "hot_value": "68 万热度",
+      "hot_value": "70 万热度",
       "index": 25
+    },
+    {
+      "title": "多所高校宣布中秋、国庆连放 13 天，称「避免学生反复往返耗费路费、体力」，如何看待这一做法？值得普及吗？",
+      "url": "https://www.zhihu.com/question/2077824447755694481",
+      "hot_value": "69 万热度",
+      "index": 26
+    },
+    {
+      "title": "如何培养一个孩子的时间观念呢？",
+      "url": "https://www.zhihu.com/question/2078374347421508518",
+      "hot_value": "69 万热度",
+      "index": 27
     },
     {
       "title": "如何缓和与上司的关系？",
       "url": "https://www.zhihu.com/question/7692884686",
-      "hot_value": "68 万热度",
-      "index": 26
-    },
-    {
-      "title": "为什么很多大学生更喜欢买标准版 iPhone，而不是 Pro？",
-      "url": "https://www.zhihu.com/question/2075613391306208746",
-      "hot_value": "60 万热度",
-      "index": 27
-    },
-    {
-      "title": "为什么郭芙会在风陵渡口挥马鞭威胁平民老百姓？",
-      "url": "https://www.zhihu.com/question/2076828510795067470",
-      "hot_value": "59 万热度",
+      "hot_value": "67 万热度",
       "index": 28
     },
     {
-      "title": "有个人定制了几万只右脚的鞋，这是不是什么圈套？",
-      "url": "https://www.zhihu.com/question/2074445279345038376",
-      "hot_value": "59 万热度",
+      "title": "鸡蛋除了西红柿还能炒什么?",
+      "url": "https://www.zhihu.com/question/2037443300584601122",
+      "hot_value": "67 万热度",
       "index": 29
     },
     {
-      "title": "复数有什么用？感觉生活中完全用不到？",
-      "url": "https://www.zhihu.com/question/60418339",
-      "hot_value": "59 万热度",
+      "title": "港媒曝香港武打巨星陈观泰去世，享年 80 岁，曾出演《马永贞》《血滴子》等，你对他塑造的角色有哪些记忆？",
+      "url": "https://www.zhihu.com/question/2078467898893231185",
+      "hot_value": "66 万热度",
       "index": 30
     }
   ]
