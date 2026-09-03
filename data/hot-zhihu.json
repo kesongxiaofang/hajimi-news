@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-03T17:28:28Z",
+  "update_time": "2026-09-03T20:03:21Z",
   "count": 30,
   "list": [
     {
+      "title": "9 月 3 日晚 ChatGPT 、 Grok 、 Claude 、 Cursor 集体突发故障，怎么回事？带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2078984478073136308",
+      "hot_value": "539 万热度",
+      "index": 1
+    },
+    {
       "title": "男子充值 1000 元账户误到账 26419933 亿，疯狂消费后拒不退还，该男子需要承担法律责任吗？",
       "url": "https://www.zhihu.com/question/2078795422894658423",
-      "hot_value": "2730 万热度",
-      "index": 1
+      "hot_value": "530 万热度",
+      "index": 2
     },
     {
       "title": "张继科乒乓球班录取率低于 5%，比 985 还难进，还实行集训末位淘汰 45% 的机制，怎样看待这种方式？",
       "url": "https://www.zhihu.com/question/2078490276004377362",
-      "hot_value": "579 万热度",
-      "index": 2
-    },
-    {
-      "title": "为什么《欢迎来龙餐馆》在上映之前专业机构预测票房能过 50 亿，但现在连 20 亿都困难？",
-      "url": "https://www.zhihu.com/question/2076943722588156867",
-      "hot_value": "425 万热度",
+      "hot_value": "459 万热度",
       "index": 3
     },
     {
-      "title": "家长自报干部身份，希望老师多关照孩子，保定纪检组介入调查，反映了哪些问题？家长会受到处罚吗？",
-      "url": "https://www.zhihu.com/question/2078756520523719478",
-      "hot_value": "256 万热度",
+      "title": "从小沉迷游戏的父亲不给 10 岁女儿买 NS2，被一句「你当年还不是打游戏」怼到沉默，你怎么看？",
+      "url": "https://www.zhihu.com/question/2077910656204927732",
+      "hot_value": "248 万热度",
       "index": 4
     },
     {
       "title": "为什么大家造车都去抄保时捷，没有抄兰博基尼的？",
       "url": "https://www.zhihu.com/question/2077456156444963826",
-      "hot_value": "247 万热度",
+      "hot_value": "243 万热度",
       "index": 5
     },
     {
       "title": "上海多家银行明确，1991 年以前出生的人不能新办理 40 年期个人房贷，如何看待这一标准？",
       "url": "https://www.zhihu.com/question/2078861981591905362",
-      "hot_value": "242 万热度",
+      "hot_value": "240 万热度",
       "index": 6
     },
     {
-      "title": "你觉得中国女篮李月汝「护照遗失」的理由成立吗，因公护照和个人护照补办的流程差在哪里，真的完全来不及吗？",
-      "url": "https://www.zhihu.com/question/2078792215732512237",
+      "title": "为什么《欢迎来龙餐馆》在上映之前专业机构预测票房能过 50 亿，但现在连 20 亿都困难？",
+      "url": "https://www.zhihu.com/question/2076943722588156867",
       "hot_value": "238 万热度",
       "index": 7
     },
     {
       "title": "爸爸肺癌晚期，老公答应卖房去美国治疗了，但他现在反悔了怎么办？",
       "url": "https://www.zhihu.com/question/542192203",
-      "hot_value": "236 万热度",
+      "hot_value": "223 万热度",
       "index": 8
-    },
-    {
-      "title": "从小沉迷游戏的父亲不给 10 岁女儿买 NS2，被一句「你当年还不是打游戏」怼到沉默，你怎么看？",
-      "url": "https://www.zhihu.com/question/2077910656204927732",
-      "hot_value": "233 万热度",
-      "index": 9
     },
     {
       "title": "越南被中国统治上千年为什么语言没有被同化为汉语族？",
       "url": "https://www.zhihu.com/question/1905626878913548857",
-      "hot_value": "232 万热度",
-      "index": 10
-    },
-    {
-      "title": "9 月 3 日晚 ChatGPT 、 Grok 、 Claude 、 Cursor 集体突发故障，怎么回事？带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2078984478073136308",
-      "hot_value": "182 万热度",
-      "index": 11
+      "hot_value": "207 万热度",
+      "index": 9
     },
     {
       "title": "上海交大内部 PPT 曝光高校 AI 教育困局，课程迭代远落后技术发展，学生反超老师成常态，该怎样破解？",
       "url": "https://www.zhihu.com/question/2078852068052137174",
-      "hot_value": "181 万热度",
-      "index": 12
-    },
-    {
-      "title": "香港中文大学（深圳）校长呼吁新生「不要看不起高考成绩不如自己的同学」，如何看待本科生对高考分数的执着？",
-      "url": "https://www.zhihu.com/question/2078500603819566178",
-      "hot_value": "153 万热度",
-      "index": 13
-    },
-    {
-      "title": "香港演员刘兆铭去世，曾在《倩女幽魂》中饰演树妖姥姥，他在影坛留下了哪些经典作品？你对他有哪些记忆？",
-      "url": "https://www.zhihu.com/question/2078679838966151040",
-      "hot_value": "132 万热度",
-      "index": 14
+      "hot_value": "171 万热度",
+      "index": 10
     },
     {
       "title": "如何看待李飞飞团队发布的多模态世界模型 Atlas？有哪些值得关注的亮点？",
       "url": "https://www.zhihu.com/question/2078435061808849862",
-      "hot_value": "130 万热度",
-      "index": 15
+      "hot_value": "141 万热度",
+      "index": 11
+    },
+    {
+      "title": "你觉得中国女篮李月汝「护照遗失」的理由成立吗，因公护照和个人护照补办的流程差在哪里，真的完全来不及吗？",
+      "url": "https://www.zhihu.com/question/2078792215732512237",
+      "hot_value": "134 万热度",
+      "index": 12
+    },
+    {
+      "title": "家长自报干部身份，希望老师多关照孩子，保定纪检组介入调查，反映了哪些问题？家长会受到处罚吗？",
+      "url": "https://www.zhihu.com/question/2078756520523719478",
+      "hot_value": "128 万热度",
+      "index": 13
+    },
+    {
+      "title": "特斯拉的 CyberCab 一旦全世界大范围铺开，对中国的新能源汽车产业是否会带来毁灭性打击？",
+      "url": "https://www.zhihu.com/question/2078386985408976749",
+      "hot_value": "123 万热度",
+      "index": 14
     },
     {
       "title": "如何评价剧版《哈利波特》新预告？",
       "url": "https://www.zhihu.com/question/2078776438505976023",
-      "hot_value": "124 万热度",
+      "hot_value": "118 万热度",
+      "index": 15
+    },
+    {
+      "title": "香港演员刘兆铭去世，曾在《倩女幽魂》中饰演树妖姥姥，他在影坛留下了哪些经典作品？你对他有哪些记忆？",
+      "url": "https://www.zhihu.com/question/2078679838966151040",
+      "hot_value": "118 万热度",
       "index": 16
     },
     {
       "title": "四川绵阳北川县附近发生 4.8 级地震，震源深度 10 千米，目前情况如何？你那边有震感吗？",
       "url": "https://www.zhihu.com/question/2078932044482967039",
-      "hot_value": "119 万热度",
+      "hot_value": "117 万热度",
       "index": 17
     },
     {
       "title": "美国「林肯」号航母锈迹斑斑、内部环境差，这反映出美军哪些深层问题？",
       "url": "https://www.zhihu.com/question/2078771357740024809",
-      "hot_value": "118 万热度",
+      "hot_value": "116 万热度",
       "index": 18
     },
     {
-      "title": "人贩子梅姨被提起「公诉」，案件进入审判阶段，法律能给出什么样的答案？",
-      "url": "https://www.zhihu.com/question/2078579197023183701",
-      "hot_value": "117 万热度",
+      "title": "香港中文大学（深圳）校长呼吁新生「不要看不起高考成绩不如自己的同学」，如何看待本科生对高考分数的执着？",
+      "url": "https://www.zhihu.com/question/2078500603819566178",
+      "hot_value": "115 万热度",
       "index": 19
     },
     {
       "title": "重庆多位家长在新生群被骗 648 元「班费」，收款方竟显示为米哈游，为啥会和米哈游有关？怎样识破此类骗局？",
       "url": "https://www.zhihu.com/question/2078648816325207048",
-      "hot_value": "114 万热度",
+      "hot_value": "112 万热度",
       "index": 20
     },
     {
-      "title": "新能源汽车一旦普及了，汽油价格会回到三两元的时代吗？",
-      "url": "https://www.zhihu.com/question/1930083195828831871",
-      "hot_value": "99 万热度",
+      "title": "苹果发布会定档北京时间 9 月 10 日，首款折叠屏 iPhone 将亮相，有哪些信息值得特别关注？",
+      "url": "https://www.zhihu.com/question/2076211010684327272",
+      "hot_value": "106 万热度",
       "index": 21
-    },
-    {
-      "title": "网传部分家长因老师「不婚主义」而向学校投诉，校方要求老师好好道歉，具体情况如何？这算是过度干预吗？",
-      "url": "https://www.zhihu.com/question/2078491108670174983",
-      "hot_value": "99 万热度",
-      "index": 22
     },
     {
       "title": "如何看待问赛力斯 8 月新能源车销量同比「下降 43.96%」？侧面反映出哪些问题？哪些重点信息值得关注？",
       "url": "https://www.zhihu.com/question/2078235999046582424",
-      "hot_value": "98 万热度",
+      "hot_value": "103 万热度",
+      "index": 22
+    },
+    {
+      "title": "山东一产妇剖宫产身亡，事故鉴定结论三度反转，涉事医生被停职，为何鉴定结果几度反转？如何看待责任认定？",
+      "url": "https://www.zhihu.com/question/2078937398142920652",
+      "hot_value": "100 万热度",
       "index": 23
     },
     {
-      "title": "为什么会有「珠心算部队」？",
-      "url": "https://www.zhihu.com/question/657264625",
-      "hot_value": "89 万热度",
+      "title": "网传部分家长因老师「不婚主义」而向学校投诉，校方要求老师好好道歉，具体情况如何？这算是过度干预吗？",
+      "url": "https://www.zhihu.com/question/2078491108670174983",
+      "hot_value": "94 万热度",
       "index": 24
     },
     {
       "title": "最近内存、存储甚至显卡涨价，一个个都说自己要当等等党，难不成你要等到 2040 年么？",
       "url": "https://www.zhihu.com/question/2078521113076830363",
-      "hot_value": "85 万热度",
+      "hot_value": "93 万热度",
       "index": 25
     },
     {
       "title": "如何评价《绝命毒师》中的杰西？",
       "url": "https://www.zhihu.com/question/28742409",
-      "hot_value": "84 万热度",
+      "hot_value": "88 万热度",
       "index": 26
     },
     {
-      "title": "搜狗输入法宣布重做，上线全新 AI 服务与更清爽键盘，如何评价这次升级？",
-      "url": "https://www.zhihu.com/question/2077916947673629071",
-      "hot_value": "80 万热度",
+      "title": "为什么会有「珠心算部队」？",
+      "url": "https://www.zhihu.com/question/657264625",
+      "hot_value": "85 万热度",
       "index": 27
     },
     {
       "title": "50 亿年后太阳熄灭变成白矮星，人类何去何从，困死地球太阳系吗?",
       "url": "https://www.zhihu.com/question/1891434098192516264",
-      "hot_value": "76 万热度",
+      "hot_value": "84 万热度",
       "index": 28
     },
     {
-      "title": "为什么地球上只有人类进化成高级智慧生物？",
-      "url": "https://www.zhihu.com/question/436443850",
-      "hot_value": "76 万热度",
+      "title": "搜狗输入法宣布重做，上线全新 AI 服务与更清爽键盘，如何评价这次升级？",
+      "url": "https://www.zhihu.com/question/2077916947673629071",
+      "hot_value": "80 万热度",
       "index": 29
     },
     {
-      "title": "Steam 上有什么感人至深的游戏？",
-      "url": "https://www.zhihu.com/question/437165912",
-      "hot_value": "71 万热度",
+      "title": "新能源汽车一旦普及了，汽油价格会回到三两元的时代吗？",
+      "url": "https://www.zhihu.com/question/1930083195828831871",
+      "hot_value": "80 万热度",
       "index": 30
     }
   ]

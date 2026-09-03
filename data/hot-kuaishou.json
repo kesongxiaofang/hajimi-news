@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-09-03T17:28:28Z",
+  "update_time": "2026-09-03T20:03:21Z",
   "count": 30,
   "list": [
     {
       "title": "梅姨年龄曝光可适用无期及死刑",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%A2%85%E5%A7%A8%E5%B9%B4%E9%BE%84%E6%9B%9D%E5%85%89%E5%8F%AF%E9%80%82%E7%94%A8%E6%97%A0%E6%9C%9F%E5%8F%8A%E6%AD%BB%E5%88%91",
-      "hot_value": "1,310万",
+      "hot_value": "1,296.7万",
       "index": 1
     },
     {
-      "title": "尼泊尔泥石流已致1259人遇难",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B41259%E4%BA%BA%E9%81%87%E9%9A%BE",
-      "hot_value": "1,307.2万",
+      "title": "青海海西州直辖区发生5.1级地震",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9D%92%E6%B5%B7%E6%B5%B7%E8%A5%BF%E5%B7%9E%E7%9B%B4%E8%BE%96%E5%8C%BA%E5%8F%91%E7%94%9F5.1%E7%BA%A7%E5%9C%B0%E9%9C%87",
+      "hot_value": "1,294.2万",
       "index": 2
     },
     {
       "title": "各地开学第一课精彩亮相",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%84%E5%9C%B0%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE%E7%B2%BE%E5%BD%A9%E4%BA%AE%E7%9B%B8",
-      "hot_value": "1,300万",
+      "hot_value": "1,288.6万",
       "index": 3
     },
     {
       "title": "AG长生 退役",
       "url": "https://www.kuaishou.com/search/video?searchKey=AG%E9%95%BF%E7%94%9F%20%E9%80%80%E5%BD%B9",
-      "hot_value": "1,299.9万",
+      "hot_value": "1,273.3万",
       "index": 4
+    },
+    {
+      "title": "尼泊尔泥石流已致1259人遇难",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B41259%E4%BA%BA%E9%81%87%E9%9A%BE",
+      "hot_value": "1,231.8万",
+      "index": 5
+    },
+    {
+      "title": "青藏高原冰川灾害或频发",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E5%86%B0%E5%B7%9D%E7%81%BE%E5%AE%B3%E6%88%96%E9%A2%91%E5%8F%91",
+      "hot_value": "1,208万",
+      "index": 6
+    },
+    {
+      "title": "喀喇沁旗张建龙被查",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%96%80%E5%96%87%E6%B2%81%E6%97%97%E5%BC%A0%E5%BB%BA%E9%BE%99%E8%A2%AB%E6%9F%A5",
+      "hot_value": "1,156.3万",
+      "index": 7
     },
     {
       "title": "成都AG五人组最后一舞",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%90%E9%83%BDAG%E4%BA%94%E4%BA%BA%E7%BB%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E",
-      "hot_value": "1,281.4万",
-      "index": 5
+      "hot_value": "1,135.1万",
+      "index": 8
     },
     {
       "title": "香港扫黄31名内地女子被捕",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A6%99%E6%B8%AF%E6%89%AB%E9%BB%8431%E5%90%8D%E5%86%85%E5%9C%B0%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8D%95",
-      "hot_value": "1,202.9万",
-      "index": 6
+      "hot_value": "1,114.4万",
+      "index": 9
     },
     {
       "title": "台风停课",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E5%81%9C%E8%AF%BE",
-      "hot_value": "1,159.6万",
-      "index": 7
-    },
-    {
-      "title": "女子发生关系后勒索19.5万",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%90%8E%E5%8B%92%E7%B4%A219.5%E4%B8%87",
-      "hot_value": "1,095万",
-      "index": 8
-    },
-    {
-      "title": "908摇",
-      "url": "https://www.kuaishou.com/search/video?searchKey=908%E6%91%87",
-      "hot_value": "1,072.4万",
-      "index": 9
-    },
-    {
-      "title": "米娜小两口生娃了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%B1%B3%E5%A8%9C%E5%B0%8F%E4%B8%A4%E5%8F%A3%E7%94%9F%E5%A8%83%E4%BA%86",
-      "hot_value": "1,071.9万",
+      "hot_value": "1,072.6万",
       "index": 10
     },
     {
       "title": "强降雨致北川多处泥石流系谣言",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%BA%E9%99%8D%E9%9B%A8%E8%87%B4%E5%8C%97%E5%B7%9D%E5%A4%9A%E5%A4%84%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%B3%BB%E8%B0%A3%E8%A8%80",
-      "hot_value": "1,071.7万",
+      "hot_value": "1,061.7万",
       "index": 11
     },
     {
-      "title": "四川地震又来了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%8F%88%E6%9D%A5%E4%BA%86",
-      "hot_value": "1,070.5万",
+      "title": "婴儿出生仅6个鸡蛋重",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A9%B4%E5%84%BF%E5%87%BA%E7%94%9F%E4%BB%856%E4%B8%AA%E9%B8%A1%E8%9B%8B%E9%87%8D",
+      "hot_value": "1,052.1万",
       "index": 12
+    },
+    {
+      "title": "宇树科技回应员工爆料",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E7%88%86%E6%96%99",
+      "hot_value": "1,032万",
+      "index": 13
+    },
+    {
+      "title": "女子发生关系后勒索19.5万",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%90%8E%E5%8B%92%E7%B4%A219.5%E4%B8%87",
+      "hot_value": "1,010.9万",
+      "index": 14
+    },
+    {
+      "title": "908摇",
+      "url": "https://www.kuaishou.com/search/video?searchKey=908%E6%91%87",
+      "hot_value": "1,008.3万",
+      "index": 15
+    },
+    {
+      "title": "大庆火车站家人迎退伍老兵",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E5%BA%86%E7%81%AB%E8%BD%A6%E7%AB%99%E5%AE%B6%E4%BA%BA%E8%BF%8E%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5",
+      "hot_value": "1,005.6万",
+      "index": 16
     },
     {
       "title": "四川北川突发地震市民发声",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E5%8C%97%E5%B7%9D%E7%AA%81%E5%8F%91%E5%9C%B0%E9%9C%87%E5%B8%82%E6%B0%91%E5%8F%91%E5%A3%B0",
-      "hot_value": "1,070万",
-      "index": 13
+      "hot_value": "1,005.3万",
+      "index": 17
     },
     {
       "title": "黄渤家门口骑车摔成锁骨骨折",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%BB%84%E6%B8%A4%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%AA%91%E8%BD%A6%E6%91%94%E6%88%90%E9%94%81%E9%AA%A8%E9%AA%A8%E6%8A%98",
-      "hot_value": "1,070万",
-      "index": 14
-    },
-    {
-      "title": "退役后我去哪找你",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%80%80%E5%BD%B9%E5%90%8E%E6%88%91%E5%8E%BB%E5%93%AA%E6%89%BE%E4%BD%A0",
-      "hot_value": "1,067.1万",
-      "index": 15
-    },
-    {
-      "title": "四川北川县发生4.8级地震",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E5%8C%97%E5%B7%9D%E5%8E%BF%E5%8F%91%E7%94%9F4.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
-      "hot_value": "1,064.3万",
-      "index": 16
-    },
-    {
-      "title": "女子勒死出轨丈夫获无期",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%8B%92%E6%AD%BB%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E8%8E%B7%E6%97%A0%E6%9C%9F",
-      "hot_value": "1,062.6万",
-      "index": 17
+      "hot_value": "998.4万",
+      "index": 18
     },
     {
       "title": "广东停课",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%BF%E4%B8%9C%E5%81%9C%E8%AF%BE",
-      "hot_value": "1,058.1万",
-      "index": 18
-    },
-    {
-      "title": "时代少年团独家直播来了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%8B%AC%E5%AE%B6%E7%9B%B4%E6%92%AD%E6%9D%A5%E4%BA%86",
-      "hot_value": "1,055.2万",
+      "hot_value": "995.9万",
       "index": 19
     },
     {
       "title": "男子充值1000元收到数千万亿金额",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E5%85%85%E5%80%BC1000%E5%85%83%E6%94%B6%E5%88%B0%E6%95%B0%E5%8D%83%E4%B8%87%E4%BA%BF%E9%87%91%E9%A2%9D",
-      "hot_value": "1,051.1万",
+      "hot_value": "993.2万",
       "index": 20
-    },
-    {
-      "title": "星宇股份是什么公司",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%AC%E5%8F%B8",
-      "hot_value": "1,048.8万",
-      "index": 21
-    },
-    {
-      "title": "老人被压车底女儿崩溃",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%80%81%E4%BA%BA%E8%A2%AB%E5%8E%8B%E8%BD%A6%E5%BA%95%E5%A5%B3%E5%84%BF%E5%B4%A9%E6%BA%83",
-      "hot_value": "1,046.3万",
-      "index": 22
     },
     {
       "title": "四川北川地震多地震感明显",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E5%8C%97%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%A4%9A%E5%9C%B0%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
-      "hot_value": "1,045.5万",
+      "hot_value": "985.1万",
+      "index": 21
+    },
+    {
+      "title": "星宇股份是什么公司",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%AC%E5%8F%B8",
+      "hot_value": "984.7万",
+      "index": 22
+    },
+    {
+      "title": "米娜小两口生娃了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%B1%B3%E5%A8%9C%E5%B0%8F%E4%B8%A4%E5%8F%A3%E7%94%9F%E5%A8%83%E4%BA%86",
+      "hot_value": "984.1万",
       "index": 23
     },
     {
-      "title": "AG对战TTG",
-      "url": "https://www.kuaishou.com/search/video?searchKey=AG%E5%AF%B9%E6%88%98TTG",
-      "hot_value": "1,040.9万",
+      "title": "时代少年团独家直播来了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%8B%AC%E5%AE%B6%E7%9B%B4%E6%92%AD%E6%9D%A5%E4%BA%86",
+      "hot_value": "982.9万",
       "index": 24
     },
     {
-      "title": "什么是984.5高校",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%80%E4%B9%88%E6%98%AF984.5%E9%AB%98%E6%A0%A1",
-      "hot_value": "1,038.4万",
+      "title": "女子疑因停药突发心梗离世",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E7%96%91%E5%9B%A0%E5%81%9C%E8%8D%AF%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E7%A6%BB%E4%B8%96",
+      "hot_value": "976.2万",
       "index": 25
     },
     {
-      "title": "出租房床垫下发现垃圾",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%87%BA%E7%A7%9F%E6%88%BF%E5%BA%8A%E5%9E%AB%E4%B8%8B%E5%8F%91%E7%8E%B0%E5%9E%83%E5%9C%BE",
-      "hot_value": "1,033.4万",
+      "title": "以总理扬言推翻伊朗政权",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%A5%E6%80%BB%E7%90%86%E6%89%AC%E8%A8%80%E6%8E%A8%E7%BF%BB%E4%BC%8A%E6%9C%97%E6%94%BF%E6%9D%83",
+      "hot_value": "974.1万",
       "index": 26
     },
     {
-      "title": "开学精神状态",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%80%E5%AD%A6%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81",
-      "hot_value": "1,030.7万",
+      "title": "微信未读消息长按可见",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BE%AE%E4%BF%A1%E6%9C%AA%E8%AF%BB%E6%B6%88%E6%81%AF%E9%95%BF%E6%8C%89%E5%8F%AF%E8%A7%81",
+      "hot_value": "971.6万",
       "index": 27
     },
     {
-      "title": "企业用燕麦粉冒充羊奶粉",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BC%81%E4%B8%9A%E7%94%A8%E7%87%95%E9%BA%A6%E7%B2%89%E5%86%92%E5%85%85%E7%BE%8A%E5%A5%B6%E7%B2%89",
-      "hot_value": "1,027.8万",
+      "title": "青藏高原冰川减少24%",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E5%86%B0%E5%B7%9D%E5%87%8F%E5%B0%9124%25",
+      "hot_value": "969万",
       "index": 28
     },
     {
-      "title": "上海一白车极限变道撞车",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%99%BD%E8%BD%A6%E6%9E%81%E9%99%90%E5%8F%98%E9%81%93%E6%92%9E%E8%BD%A6",
-      "hot_value": "1,025.1万",
+      "title": "汕头一酒店国庆房价暴涨",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B1%95%E5%A4%B4%E4%B8%80%E9%85%92%E5%BA%97%E5%9B%BD%E5%BA%86%E6%88%BF%E4%BB%B7%E6%9A%B4%E6%B6%A8",
+      "hot_value": "966.2万",
       "index": 29
     },
     {
-      "title": "厄尔尼诺或达超强级别",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E6%88%96%E8%BE%BE%E8%B6%85%E5%BC%BA%E7%BA%A7%E5%88%AB",
-      "hot_value": "1,022.6万",
+      "title": "四川地震又来了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%8F%88%E6%9D%A5%E4%BA%86",
+      "hot_value": "962.5万",
       "index": 30
     }
   ]
