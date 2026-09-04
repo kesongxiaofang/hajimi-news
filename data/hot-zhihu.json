@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-04T09:49:40Z",
+  "update_time": "2026-09-04T13:57:28Z",
   "count": 30,
   "list": [
     {
-      "title": "中国广电一体化电视适配器集采公告正式发布，将告别传统机顶盒，未来电视的观看方式将如何发展？你会购买吗？",
-      "url": "https://www.zhihu.com/question/2078599956731111208",
-      "hot_value": "471 万热度",
-      "index": 1
-    },
-    {
-      "title": "特斯拉 Cybercab 在美投入运营，取消方向盘和踏板，纯视觉技术路线无人车型，会颠覆美国网约车行业吗？",
-      "url": "https://www.zhihu.com/question/2079133158939824398",
-      "hot_value": "383 万热度",
-      "index": 2
-    },
-    {
-      "title": "如何看待今年的超级厄尔尼诺现象？",
-      "url": "https://www.zhihu.com/question/2043053520912388470",
-      "hot_value": "376 万热度",
-      "index": 3
-    },
-    {
-      "title": "曝西贝拖欠离职补偿金，贾国龙称「要到 2028 年才能给」，这种行为在法律上如何定性？离职员工如何维权？",
-      "url": "https://www.zhihu.com/question/2079160174732736037",
-      "hot_value": "302 万热度",
-      "index": 4
-    },
-    {
-      "title": "为什么一只蚂蚁无论从多高的地方摔下来都不会被摔伤摔死，其他动物摔下来直接死翘翘了，背后是什么原理呢？",
-      "url": "https://www.zhihu.com/question/2078282956834194592",
-      "hot_value": "253 万热度",
-      "index": 5
-    },
-    {
       "title": "央视晚会将「乡音无改鬓毛衰」读 shuāi 而非 cuī，为什么和早年学的不一样了？如何看待这一变化？",
       "url": "https://www.zhihu.com/question/2079167935671530420",
-      "hot_value": "226 万热度",
-      "index": 6
+      "hot_value": "570 万热度",
+      "index": 1
     },
     {
       "title": "如何评价勇哥新开的社区食堂？",
       "url": "https://www.zhihu.com/question/2078608395037422675",
-      "hot_value": "199 万热度",
+      "hot_value": "515 万热度",
+      "index": 2
+    },
+    {
+      "title": "曝西贝拖欠离职补偿金，贾国龙称「要到 2028 年才能给」，这种行为在法律上如何定性？离职员工如何维权？",
+      "url": "https://www.zhihu.com/question/2079160174732736037",
+      "hot_value": "499 万热度",
+      "index": 3
+    },
+    {
+      "title": "为什么一只蚂蚁无论从多高的地方摔下来都不会被摔伤摔死，其他动物摔下来直接死翘翘了，背后是什么原理呢？",
+      "url": "https://www.zhihu.com/question/2078282956834194592",
+      "hot_value": "437 万热度",
+      "index": 4
+    },
+    {
+      "title": "男子肚子疼被误诊为胃癌，医院瞒着切全胃，为何会出现如此离谱的医疗事故？医院赔 22 万，能抵消男子损失吗？",
+      "url": "https://www.zhihu.com/question/2079207919535350358",
+      "hot_value": "242 万热度",
+      "index": 5
+    },
+    {
+      "title": "人人影视回归变正版，会员定价 25 元 / 月，用户们还会为曾经的情怀买单吗？你看好其市场前景吗？",
+      "url": "https://www.zhihu.com/question/2079120419454285144",
+      "hot_value": "237 万热度",
+      "index": 6
+    },
+    {
+      "title": "罗永浩称「谁做老人傻瓜电视，我免费带货一年」，商业上如何看电视越做越复杂，但想看电视却越来越麻烦？",
+      "url": "https://www.zhihu.com/question/2078137132128920326",
+      "hot_value": "219 万热度",
       "index": 7
     },
     {
-      "title": "德克圣堂炸鸡中国首店开业，代排费炒至百元，如何看待如此热潮？",
-      "url": "https://www.zhihu.com/question/2078425238425921531",
-      "hot_value": "176 万热度",
+      "title": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
+      "url": "https://www.zhihu.com/question/2076754620832135160",
+      "hot_value": "172 万热度",
       "index": 8
     },
     {
-      "title": "我国博士后进站人数正式突破 50 万，如何看待这一发展趋势？",
-      "url": "https://www.zhihu.com/question/2076624119131529343",
-      "hot_value": "172 万热度",
+      "title": "消息称月之暗面保密递交港股 IPO，估值冲刺 350 亿美元，从不着急上市到骤然提速，背后有何考量？",
+      "url": "https://www.zhihu.com/question/2079133150333101231",
+      "hot_value": "153 万热度",
       "index": 9
     },
     {
-      "title": "同样一道炒菜，马路边小饭馆卖 30 元，大饭店卖 100 元，有什么区别？",
-      "url": "https://www.zhihu.com/question/2010624463411093842",
-      "hot_value": "169 万热度",
+      "title": "如何看待今年的超级厄尔尼诺现象？",
+      "url": "https://www.zhihu.com/question/2043053520912388470",
+      "hot_value": "145 万热度",
       "index": 10
     },
     {
       "title": "如何评价 GPT-6 打破孪生素数猜想最新纪录？",
       "url": "https://www.zhihu.com/question/2079153750703456931",
-      "hot_value": "169 万热度",
+      "hot_value": "145 万热度",
       "index": 11
     },
     {
-      "title": "如何看待金灿荣跨圈发问「为什么像樊振东、朱婷这样的优秀运动员，都不怎么代表国家队比赛了」？",
-      "url": "https://www.zhihu.com/question/2078481919000278975",
-      "hot_value": "168 万热度",
+      "title": "美国 8 月非农就业人数大增 16.2 万人，失业率报 4.1%，这意味着什么？有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2078726934515787593",
+      "hot_value": "145 万热度",
       "index": 12
     },
     {
-      "title": "吉林一高校宿舍空调上锁不让用，校方称空调电压较高，线路仍在完善，为啥装了空调却用不上？暴露了哪些问题？",
-      "url": "https://www.zhihu.com/question/2075659319840871700",
-      "hot_value": "168 万热度",
+      "title": "国航回应「美国地勤不拔油管扯爆国航油箱」，航班加油时加油车非正常移动导致飞机部件损伤，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2078552060379902048",
+      "hot_value": "142 万热度",
       "index": 13
     },
     {
-      "title": "人人影视回归变正版，会员定价 25 元 / 月，用户们还会为曾经的情怀买单吗？你看好其市场前景吗？",
-      "url": "https://www.zhihu.com/question/2079120419454285144",
-      "hot_value": "168 万热度",
+      "title": "德克圣堂炸鸡中国首店开业，代排费炒至百元，如何看待如此热潮？",
+      "url": "https://www.zhihu.com/question/2078425238425921531",
+      "hot_value": "133 万热度",
       "index": 14
     },
     {
       "title": "华为国行 5G 疑似回归，Mate90 系列入网，为何在此时选择回归？其 5G 回归有何技术突破创新？",
       "url": "https://www.zhihu.com/question/2078803707794297197",
-      "hot_value": "167 万热度",
+      "hot_value": "130 万热度",
       "index": 15
+    },
+    {
+      "title": "如何评价《矮人要塞》作者称「老板们想按个按钮就生成游戏，却忘了失业的玩家根本买不起」的言论？",
+      "url": "https://www.zhihu.com/question/2078866004998989001",
+      "hot_value": "126 万热度",
+      "index": 16
+    },
+    {
+      "title": "第 20 届亚运会中国体育代表团成立，平均年龄 24 岁，有 36 名奥运会冠军参赛，你最期待谁的表现？",
+      "url": "https://www.zhihu.com/question/2079144120652489602",
+      "hot_value": "124 万热度",
+      "index": 17
+    },
+    {
+      "title": "如果你线下买票看了一个脱口秀演员的专场，后面 ta 拿专场的段子放在节目里免费讲，你会很生气吗？",
+      "url": "https://www.zhihu.com/question/2078662446663915303",
+      "hot_value": "99 万热度",
+      "index": 18
+    },
+    {
+      "title": "全国小学、初中全部完成新教材替换，小学语文课文总数减少，数学简易方程调整到初中学，如何看待这次调整？",
+      "url": "https://www.zhihu.com/question/2078414372993610636",
+      "hot_value": "98 万热度",
+      "index": 19
     },
     {
       "title": "女留学生被杀，凶手作案动机初步披露，系被害人要公开二人关系，凶手担心失去教职，还有哪些细节值得关注？",
       "url": "https://www.zhihu.com/question/2079153698018522057",
-      "hot_value": "167 万热度",
-      "index": 16
-    },
-    {
-      "title": "苏州等地初中出现一个年级 90 多个班，为何会出现这种情况？超大规模办学会带来什么影响？",
-      "url": "https://www.zhihu.com/question/2078137358277522076",
-      "hot_value": "167 万热度",
-      "index": 17
-    },
-    {
-      "title": "「魔岩三杰」之一、摇滚歌手何勇去世，享年 57 岁，你对他的音乐有哪些深刻记忆？",
-      "url": "https://www.zhihu.com/question/2079193381809254863",
-      "hot_value": "156 万热度",
-      "index": 18
-    },
-    {
-      "title": "罗永浩称「谁做老人傻瓜电视，我免费带货一年」，商业上如何看电视越做越复杂，但想看电视却越来越麻烦？",
-      "url": "https://www.zhihu.com/question/2078137132128920326",
-      "hot_value": "139 万热度",
-      "index": 19
-    },
-    {
-      "title": "如何看待王楚钦因伤退出 2026WTT 澳门冠军赛？会对他出战亚运会造成影响吗？",
-      "url": "https://www.zhihu.com/question/2079169105324663340",
-      "hot_value": "136 万热度",
+      "hot_value": "98 万热度",
       "index": 20
     },
     {
       "title": "如何评价 OpenAI 最新发布的 GPT-6 Astra，并宣称人类进入 AGI 时代？",
       "url": "https://www.zhihu.com/question/2079054472190469850",
-      "hot_value": "134 万热度",
+      "hot_value": "97 万热度",
       "index": 21
     },
     {
-      "title": "如何看待《花少 2》以及《花少 2 爆料》？",
-      "url": "https://www.zhihu.com/question/2077717223477716182",
-      "hot_value": "132 万热度",
+      "title": "2026 女篮世界杯小组赛，美国女篮 vs 中国女篮，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2079140562767295956",
+      "hot_value": "97 万热度",
       "index": 22
     },
     {
-      "title": "国航回应「美国地勤不拔油管扯爆国航油箱」，航班加油时加油车非正常移动导致飞机部件损伤，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2078552060379902048",
-      "hot_value": "126 万热度",
+      "title": "如何评价《全职猎人》漫画 420 话「遭遇」？",
+      "url": "https://www.zhihu.com/question/2078822998447018651",
+      "hot_value": "95 万热度",
       "index": 23
     },
     {
-      "title": "如何评价《绝区零》克拉蕾角色展示「不想培训，但攻略已写好」？",
-      "url": "https://www.zhihu.com/question/2079180544437384455",
-      "hot_value": "116 万热度",
+      "title": "「魔岩三杰」之一、摇滚歌手何勇去世，享年 57 岁，你对他的音乐有哪些深刻记忆？",
+      "url": "https://www.zhihu.com/question/2079193381809254863",
+      "hot_value": "95 万热度",
       "index": 24
     },
     {
-      "title": "吉林省开启戒烟大赛，戒烟者持续无吸烟超过三个月，经检测确认可获荣誉证书，这一举措有用吗？值得推广吗？",
-      "url": "https://www.zhihu.com/question/2078132334986113545",
-      "hot_value": "109 万热度",
+      "title": "薛蟠这样天真烂漫毫无心机的霸道总裁为什么总有人要骂他，是不是被妹妹薛宝钗连累的？",
+      "url": "https://www.zhihu.com/question/1961946056238531504",
+      "hot_value": "92 万热度",
       "index": 25
     },
     {
-      "title": "公司强制员工转发朋友圈、互相点赞，违者扣绩效罚款，有销售上班 28 天倒欠 3000 元，这些做法合法吗？",
-      "url": "https://www.zhihu.com/question/2079141683736986901",
-      "hot_value": "108 万热度",
+      "title": "我国博士后进站人数正式突破 50 万，如何看待这一发展趋势？",
+      "url": "https://www.zhihu.com/question/2076624119131529343",
+      "hot_value": "78 万热度",
       "index": 26
     },
     {
-      "title": "美联储理事沃勒「鸽派」表态，9 月加息预期有所回落，美股、黄金、比特币收涨，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2079133140212369215",
-      "hot_value": "105 万热度",
+      "title": "如果一部电影注定亏钱，但它有文化价值，还应该拍吗？",
+      "url": "https://www.zhihu.com/question/2076637913496998469",
+      "hot_value": "72 万热度",
       "index": 27
     },
     {
-      "title": "恩佐加盟曼城后接受采访表示：一直梦想加入曼城这样的大俱乐部，你怎么看待？",
-      "url": "https://www.zhihu.com/question/2079158827921032221",
-      "hot_value": "102 万热度",
+      "title": "如何看待王楚钦因伤退出 2026WTT 澳门冠军赛？会对他出战亚运会造成影响吗？",
+      "url": "https://www.zhihu.com/question/2079169105324663340",
+      "hot_value": "71 万热度",
       "index": 28
     },
     {
-      "title": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
-      "url": "https://www.zhihu.com/question/2076754620832135160",
-      "hot_value": "86 万热度",
+      "title": "你有没有修过一件旧物？",
+      "url": "https://www.zhihu.com/question/2050954650086593567",
+      "hot_value": "71 万热度",
       "index": 29
     },
     {
-      "title": "武侠游戏里大侠说「我只用了三成功力」，用游戏机制如何恰如其分的表达?",
-      "url": "https://www.zhihu.com/question/2077183055752585354",
-      "hot_value": "84 万热度",
+      "title": "在大学期间，学生该如何提高自己的社会化程度？",
+      "url": "https://www.zhihu.com/question/2077757390393274694",
+      "hot_value": "68 万热度",
       "index": 30
     }
   ]
