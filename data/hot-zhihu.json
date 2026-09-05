@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-05T19:15:59Z",
+  "update_time": "2026-09-05T21:27:43Z",
   "count": 30,
   "list": [
     {
-      "title": "考研数学名师汤家凤呼吁取消英语主科地位，你赞同吗？将对人才培养和学生发展带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2079506556077466668",
-      "hot_value": "432 万热度",
-      "index": 1
-    },
-    {
       "title": "明朝科技曾经领先世界，为啥没能像欧洲一样开启工业革命？是被清朝打断了，还是从根上就不行？",
       "url": "https://www.zhihu.com/question/2000764064549344974",
-      "hot_value": "277 万热度",
-      "index": 2
-    },
-    {
-      "title": "如何看待因被要求补缴社保，老板在店门口滚屏抱怨「选择员工需谨慎」？",
-      "url": "https://www.zhihu.com/question/2079235027733423233",
-      "hot_value": "210 万热度",
-      "index": 3
-    },
-    {
-      "title": "为何张继科退役后体脂率还是这么低？",
-      "url": "https://www.zhihu.com/question/1899194637576574527",
-      "hot_value": "197 万热度",
-      "index": 4
-    },
-    {
-      "title": "今年为什么各大手机厂商都在出阔折叠？",
-      "url": "https://www.zhihu.com/question/2075539956064333862",
-      "hot_value": "168 万热度",
-      "index": 5
-    },
-    {
-      "title": "福建莆田特大暴雨一天下了北方多地全年降水量，有人员失联，宁德多地内涝，为什么雨量这么大？目前情况如何？",
-      "url": "https://www.zhihu.com/question/2078856515239108892",
-      "hot_value": "165 万热度",
-      "index": 6
-    },
-    {
-      "title": "如何看待乌克兰两大情报部门 GUR 和 SBU 爆发内讧，视频显示双方发生枪战？背后有何矛盾？",
-      "url": "https://www.zhihu.com/question/2078445433446314558",
-      "hot_value": "162 万热度",
-      "index": 7
+      "hot_value": "164 万热度",
+      "index": 1
     },
     {
       "title": "联合国警告称升温 1.5℃已无法避免，能做的只有压低超额升温，这是否意味着变暖要失控了？",
       "url": "https://www.zhihu.com/question/2079482537852811188",
-      "hot_value": "156 万热度",
-      "index": 8
+      "hot_value": "159 万热度",
+      "index": 2
     },
     {
-      "title": "LPL2026 赛季季后赛 iG 鏖战五局淘汰 TES，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2079554956902899901",
-      "hot_value": "155 万热度",
-      "index": 9
+      "title": "为何张继科退役后体脂率还是这么低？",
+      "url": "https://www.zhihu.com/question/1899194637576574527",
+      "hot_value": "136 万热度",
+      "index": 3
     },
     {
       "title": "《周处除三害》导演新作《荡荡荡寇志》剧照流出，张家辉、阮经天、贾静雯造型颠覆，能复刻前作的口碑吗？",
       "url": "https://www.zhihu.com/question/2078796105559400662",
-      "hot_value": "145 万热度",
-      "index": 10
+      "hot_value": "115 万热度",
+      "index": 4
     },
     {
-      "title": "德甲第四轮，樊振东第一盘 3-0 胜鲁伊斯，第四盘 3-0 胜杜达锁定胜局，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2079658519846807013",
-      "hot_value": "134 万热度",
-      "index": 11
-    },
-    {
-      "title": "中国会出现公认的第五个一线城市吗?",
-      "url": "https://www.zhihu.com/question/1965402803242529580",
-      "hot_value": "121 万热度",
-      "index": 12
+      "title": "如何看待因被要求补缴社保，老板在店门口滚屏抱怨「选择员工需谨慎」？",
+      "url": "https://www.zhihu.com/question/2079235027733423233",
+      "hot_value": "114 万热度",
+      "index": 5
     },
     {
       "title": "为什么当年小品《不差钱》要设计一个调侃「刀郎」的片段？",
       "url": "https://www.zhihu.com/question/2069940471808447382",
       "hot_value": "104 万热度",
-      "index": 13
-    },
-    {
-      "title": "王楚钦退赛「1000」分卫冕积分将清零，如何影响其世界排名及赛程？",
-      "url": "https://www.zhihu.com/question/2079351258750641660",
-      "hot_value": "104 万热度",
-      "index": 14
-    },
-    {
-      "title": "传播武汉大学举报 PDF 会涉嫌违法吗？如何从法律角度解读？",
-      "url": "https://www.zhihu.com/question/2079244427155829785",
-      "hot_value": "103 万热度",
-      "index": 15
-    },
-    {
-      "title": "耿同学锤刘光慧、曲静的《Nature》论文涉数据造假，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2079254543552837496",
-      "hot_value": "103 万热度",
-      "index": 16
+      "index": 6
     },
     {
       "title": "郑钦文 2-1 凯斯，晋级美网 16 强，决胜局 0-5 落后上演超级大逆转，如何评价她的表现？",
       "url": "https://www.zhihu.com/question/2079745891850778176",
-      "hot_value": "103 万热度",
-      "index": 17
+      "hot_value": "104 万热度",
+      "index": 7
+    },
+    {
+      "title": "今年为什么各大手机厂商都在出阔折叠？",
+      "url": "https://www.zhihu.com/question/2075539956064333862",
+      "hot_value": "97 万热度",
+      "index": 8
+    },
+    {
+      "title": "考研数学名师汤家凤呼吁取消英语主科地位，你赞同吗？将对人才培养和学生发展带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2079506556077466668",
+      "hot_value": "96 万热度",
+      "index": 9
     },
     {
       "title": "剧版《哈利·波特》新预告释出，观感如何？你对霍格沃茨还原、哈利、赫敏、罗恩、邓布利多等扮相满意吗？",
       "url": "https://www.zhihu.com/question/2078786891122308296",
-      "hot_value": "94 万热度",
-      "index": 18
-    },
-    {
-      "title": "你的学校发生过最扯的事是什么?",
-      "url": "https://www.zhihu.com/question/635512035",
-      "hot_value": "93 万热度",
-      "index": 19
-    },
-    {
-      "title": "有没有某个瞬间，你觉得做科研特扯淡?",
-      "url": "https://www.zhihu.com/question/459918748",
-      "hot_value": "92 万热度",
-      "index": 20
-    },
-    {
-      "title": "惠灵顿牛排是什么？为什么这么火？",
-      "url": "https://www.zhihu.com/question/486467119",
-      "hot_value": "92 万热度",
-      "index": 21
-    },
-    {
-      "title": "中国武术是失传还是真不行？",
-      "url": "https://www.zhihu.com/question/2053376006996726412",
-      "hot_value": "90 万热度",
-      "index": 22
-    },
-    {
-      "title": "美国『林肯』号航母现身油漆脱落、遍布锈迹，这在航母日常维护中属于正常现象吗？",
-      "url": "https://www.zhihu.com/question/2079118182971920391",
-      "hot_value": "89 万热度",
-      "index": 23
+      "hot_value": "95 万热度",
+      "index": 10
     },
     {
       "title": "盖尔·加朵确认 DC 未计划她继续出演神奇女侠，这对于 DC 新电影宇宙意味着什么？",
       "url": "https://www.zhihu.com/question/2077943776237114404",
       "hot_value": "87 万热度",
+      "index": 11
+    },
+    {
+      "title": "惠灵顿牛排是什么？为什么这么火？",
+      "url": "https://www.zhihu.com/question/486467119",
+      "hot_value": "87 万热度",
+      "index": 12
+    },
+    {
+      "title": "为什么希腊神话中赫拉是婚姻女神但是自己的婚姻却如此不幸？",
+      "url": "https://www.zhihu.com/question/53319466",
+      "hot_value": "82 万热度",
+      "index": 13
+    },
+    {
+      "title": "王楚钦退赛「1000」分卫冕积分将清零，如何影响其世界排名及赛程？",
+      "url": "https://www.zhihu.com/question/2079351258750641660",
+      "hot_value": "80 万热度",
+      "index": 14
+    },
+    {
+      "title": "传播武汉大学举报 PDF 会涉嫌违法吗？如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2079244427155829785",
+      "hot_value": "79 万热度",
+      "index": 15
+    },
+    {
+      "title": "耿同学锤刘光慧、曲静的《Nature》论文涉数据造假，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2079254543552837496",
+      "hot_value": "78 万热度",
+      "index": 16
+    },
+    {
+      "title": "美国『林肯』号航母现身油漆脱落、遍布锈迹，这在航母日常维护中属于正常现象吗？",
+      "url": "https://www.zhihu.com/question/2079118182971920391",
+      "hot_value": "78 万热度",
+      "index": 17
+    },
+    {
+      "title": "《七律长征》是什么意思？",
+      "url": "https://www.zhihu.com/question/305524618",
+      "hot_value": "75 万热度",
+      "index": 18
+    },
+    {
+      "title": "德甲第四轮，樊振东第一盘 3-0 胜鲁伊斯，第四盘 3-0 胜杜达锁定胜局，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2079658519846807013",
+      "hot_value": "75 万热度",
+      "index": 19
+    },
+    {
+      "title": "有没有某个瞬间，你觉得做科研特扯淡?",
+      "url": "https://www.zhihu.com/question/459918748",
+      "hot_value": "75 万热度",
+      "index": 20
+    },
+    {
+      "title": "你的学校发生过最扯的事是什么?",
+      "url": "https://www.zhihu.com/question/635512035",
+      "hot_value": "74 万热度",
+      "index": 21
+    },
+    {
+      "title": "中国武术是失传还是真不行？",
+      "url": "https://www.zhihu.com/question/2053376006996726412",
+      "hot_value": "74 万热度",
+      "index": 22
+    },
+    {
+      "title": "现在的电脑明明越来越高级，用起来为什么没感觉快很多？",
+      "url": "https://www.zhihu.com/question/2078550836150642348",
+      "hot_value": "74 万热度",
+      "index": 23
+    },
+    {
+      "title": "中国会出现公认的第五个一线城市吗?",
+      "url": "https://www.zhihu.com/question/1965402803242529580",
+      "hot_value": "72 万热度",
       "index": 24
     },
     {
       "title": "为什么感觉一下子大家都没钱了?",
       "url": "https://www.zhihu.com/question/660106748",
-      "hot_value": "83 万热度",
+      "hot_value": "70 万热度",
       "index": 25
-    },
-    {
-      "title": "《七律长征》是什么意思？",
-      "url": "https://www.zhihu.com/question/305524618",
-      "hot_value": "78 万热度",
-      "index": 26
-    },
-    {
-      "title": "为什么希腊神话中赫拉是婚姻女神但是自己的婚姻却如此不幸？",
-      "url": "https://www.zhihu.com/question/53319466",
-      "hot_value": "77 万热度",
-      "index": 27
     },
     {
       "title": "为什么足球运动员要专门练习非惯用脚？",
       "url": "https://www.zhihu.com/question/2078804533359142248",
-      "hot_value": "71 万热度",
-      "index": 28
+      "hot_value": "69 万热度",
+      "index": 26
     },
     {
       "title": "如果人人都可以通过 AI 写代码，程序员还需要存在吗？未来的程序员的工作会是什么？",
       "url": "https://www.zhihu.com/question/2077824745589028563",
       "hot_value": "59 万热度",
-      "index": 29
+      "index": 27
+    },
+    {
+      "title": "如何看待乌克兰两大情报部门 GUR 和 SBU 爆发内讧，视频显示双方发生枪战？背后有何矛盾？",
+      "url": "https://www.zhihu.com/question/2078445433446314558",
+      "hot_value": "59 万热度",
+      "index": 28
     },
     {
       "title": "现在还应该读纯数学博士吗？",
       "url": "https://www.zhihu.com/question/2068449538243924579",
+      "hot_value": "58 万热度",
+      "index": 29
+    },
+    {
+      "title": "你们吃过最奇葩的饺子是什么馅的？",
+      "url": "https://www.zhihu.com/question/633358524",
       "hot_value": "58 万热度",
       "index": 30
     }

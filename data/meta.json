@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-05T19:15:59Z",
+  "update_time": "2026-09-05T21:27:43Z",
   "platforms": [
     {
       "type": "weibo",
@@ -34,7 +34,8 @@
     {
       "type": "baidu",
       "name": "百度热搜",
-      "count": 30
+      "count": 0,
+      "error": "IncompleteRead(23376 bytes read, 8133 more expected)"
     },
     {
       "type": "toutiao",
