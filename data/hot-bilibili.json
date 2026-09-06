@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-05T23:09:41Z",
+  "update_time": "2026-09-06T01:10:39Z",
   "count": 30,
   "list": [
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第14集【总第190集】",
       "url": "https://www.bilibili.com/video/BV1Satr6zETw",
-      "hot_value": "4978359播放",
+      "hot_value": "5041539播放",
       "index": 1
     },
     {
-      "title": "慢下来，就会死！",
-      "url": "https://www.bilibili.com/video/BV1T2ti6REsF",
-      "hot_value": "688073播放",
+      "title": "全网首发！三角洲全新NPC佐拉线完结！啥也不干吹口琴的来！这个口琴真的神了！",
+      "url": "https://www.bilibili.com/video/BV1NTb76YEp1",
+      "hot_value": "223461播放",
       "index": 2
     },
     {
-      "title": "全B站最垃圾的一期视频",
-      "url": "https://www.bilibili.com/video/BV1sxtk6YEGp",
-      "hot_value": "1852943播放",
+      "title": "我爱我的废技能",
+      "url": "https://www.bilibili.com/video/BV1jbti6TEtk",
+      "hot_value": "1007143播放",
       "index": 3
     },
     {
       "title": "午夜轮班，伪人超市",
       "url": "https://www.bilibili.com/video/BV16Htm6rE8n",
-      "hot_value": "876674播放",
+      "hot_value": "928498播放",
       "index": 4
     },
     {
-      "title": "全网首发！三角洲全新NPC佐拉线完结！啥也不干吹口琴的来！这个口琴真的神了！",
-      "url": "https://www.bilibili.com/video/BV1NTb76YEp1",
-      "hot_value": "100657播放",
+      "title": "折叠屏iPhone真机！全球首发「科技美学」再手搓iPhone Ultra 适配iOS折叠系统 那岩KJMX",
+      "url": "https://www.bilibili.com/video/BV1uBbL6eEVD",
+      "hot_value": "320904播放",
       "index": 5
-    },
-    {
-      "title": "【2026LPL第三赛段】9月5日 TES vs IG",
-      "url": "https://www.bilibili.com/video/BV1Zkty68EAe",
-      "hot_value": "2016895播放",
-      "index": 6
     },
     {
       "title": "【萌黄一槽】幻术吗，什么时候？！宇智波鼬[晓·朱]全技能爆料！",
       "url": "https://www.bilibili.com/video/BV1j3t268EPc",
-      "hot_value": "1112338播放",
+      "hot_value": "1229023播放",
+      "index": 6
+    },
+    {
+      "title": "你是说我钓鱼还得用枪吗？",
+      "url": "https://www.bilibili.com/video/BV1H6t26zEVw",
+      "hot_value": "435246播放",
       "index": 7
     },
     {
-      "title": "我爱我的废技能",
-      "url": "https://www.bilibili.com/video/BV1jbti6TEtk",
-      "hot_value": "897894播放",
+      "title": "我把汉堡搬到了星星上",
+      "url": "https://www.bilibili.com/video/BV1Xdt26bECx",
+      "hot_value": "526656播放",
       "index": 8
     },
     {
-      "title": "全网首发，爆肝12个小时唐吉第一阶段任务全流程",
-      "url": "https://www.bilibili.com/video/BV1iPty6xE4B",
-      "hot_value": "593035播放",
+      "title": "不同北京人的住处差异",
+      "url": "https://www.bilibili.com/video/BV1Fwtq6yErw",
+      "hot_value": "2555526播放",
       "index": 9
     },
     {
       "title": "【剧情】良医 第七季（2024）01【弗莱迪·海默 / 佩奇·斯巴勒】",
       "url": "https://www.bilibili.com/video/BV1MThw6NEv6",
-      "hot_value": "335490播放",
+      "hot_value": "345902播放",
       "index": 10
     },
     {
-      "title": "史上最烂DC电影！万字赤石《超女》！",
-      "url": "https://www.bilibili.com/video/BV1mntg62Ed8",
-      "hot_value": "1422299播放",
+      "title": "全B站最垃圾的一期视频",
+      "url": "https://www.bilibili.com/video/BV1sxtk6YEGp",
+      "hot_value": "1896813播放",
       "index": 11
-    },
-    {
-      "title": "我把汉堡搬到了星星上",
-      "url": "https://www.bilibili.com/video/BV1Xdt26bECx",
-      "hot_value": "478088播放",
-      "index": 12
-    },
-    {
-      "title": "你是说我钓鱼还得用枪吗？",
-      "url": "https://www.bilibili.com/video/BV1H6t26zEVw",
-      "hot_value": "360775播放",
-      "index": 13
-    },
-    {
-      "title": "世界末日，却打不通最后一通电话💔《Payphone》",
-      "url": "https://www.bilibili.com/video/BV1FUbF6rEFf",
-      "hot_value": "1447044播放",
-      "index": 14
-    },
-    {
-      "title": "【花学12大历史事件逐帧解读】第一回：伦敦暖气致疯事件",
-      "url": "https://www.bilibili.com/video/BV1nGtC6wE9y",
-      "hot_value": "634313播放",
-      "index": 15
-    },
-    {
-      "title": "我发现了动画最离谱的BUG？",
-      "url": "https://www.bilibili.com/video/BV1oGtz6yEj2",
-      "hot_value": "2552622播放",
-      "index": 16
-    },
-    {
-      "title": "【IGN】Switch 2版《艾尔登法环 褪色者版》 44分钟实机演示",
-      "url": "https://www.bilibili.com/video/BV1AxtJ6NEFR",
-      "hot_value": "291657播放",
-      "index": 17
-    },
-    {
-      "title": "不同北京人的住处差异",
-      "url": "https://www.bilibili.com/video/BV1Fwtq6yErw",
-      "hot_value": "2437608播放",
-      "index": 18
-    },
-    {
-      "title": "“龙叔，如果要选一个符咒，你选哪一个？”",
-      "url": "https://www.bilibili.com/video/BV1Z4ti6BE4b",
-      "hot_value": "755190播放",
-      "index": 19
-    },
-    {
-      "title": "折叠屏iPhone真机！全球首发「科技美学」再手搓iPhone Ultra 适配iOS折叠系统 那岩KJMX",
-      "url": "https://www.bilibili.com/video/BV1uBbL6eEVD",
-      "hot_value": "252024播放",
-      "index": 20
     },
     {
       "title": "手机发明之前，人们就是这样手书的……完整版！【bilibilionly同人扶持计划】",
       "url": "https://www.bilibili.com/video/BV1aktB6KEA5",
-      "hot_value": "839022播放",
-      "index": 21
+      "hot_value": "912939播放",
+      "index": 12
     },
     {
-      "title": "对面一个牢玩家李白，打我们这边4个牢玩家",
-      "url": "https://www.bilibili.com/video/BV1NAtr68EaE",
-      "hot_value": "1100053播放",
-      "index": 22
-    },
-    {
-      "title": "拉康：我们如何用一生，从别人那里偷来一个“我”？",
-      "url": "https://www.bilibili.com/video/BV1BZtC68EXq",
-      "hot_value": "1084055播放",
-      "index": 23
-    },
-    {
-      "title": "评分7.1！当太阳升起就把昨天忘记！假面骑士ZZZ完结吐槽！",
-      "url": "https://www.bilibili.com/video/BV1Yubj6VEpD",
-      "hot_value": "383346播放",
-      "index": 24
-    },
-    {
-      "title": "DECO*27 - 洗脳 feat. 初音未来",
-      "url": "https://www.bilibili.com/video/BV1UW8i6tEo1",
-      "hot_value": "664576播放",
-      "index": 25
-    },
-    {
-      "title": "喝多了没人能制裁我 除了我老婆",
-      "url": "https://www.bilibili.com/video/BV1i5tz65EfM",
-      "hot_value": "854232播放",
-      "index": 26
-    },
-    {
-      "title": "旗腹姬蜂是蟑螂杀手",
-      "url": "https://www.bilibili.com/video/BV1qCt96DEpj",
-      "hot_value": "4348083播放",
-      "index": 27
+      "title": "全网首发，爆肝12个小时唐吉第一阶段任务全流程",
+      "url": "https://www.bilibili.com/video/BV1iPty6xE4B",
+      "hot_value": "710521播放",
+      "index": 13
     },
     {
       "title": "“请与我一同，战胜时间的伟力。”",
       "url": "https://www.bilibili.com/video/BV1NQti6HEaC",
-      "hot_value": "2245367播放",
+      "hot_value": "2310870播放",
+      "index": 14
+    },
+    {
+      "title": "【2026LPL第三赛段】9月5日 TES vs IG",
+      "url": "https://www.bilibili.com/video/BV1Zkty68EAe",
+      "hot_value": "2083861播放",
+      "index": 15
+    },
+    {
+      "title": "【IGN】Switch 2版《艾尔登法环 褪色者版》 44分钟实机演示",
+      "url": "https://www.bilibili.com/video/BV1AxtJ6NEFR",
+      "hot_value": "327271播放",
+      "index": 16
+    },
+    {
+      "title": "慢下来，就会死！",
+      "url": "https://www.bilibili.com/video/BV1T2ti6REsF",
+      "hot_value": "722463播放",
+      "index": 17
+    },
+    {
+      "title": "评分7.1！当太阳升起就把昨天忘记！假面骑士ZZZ完结吐槽！",
+      "url": "https://www.bilibili.com/video/BV1Yubj6VEpD",
+      "hot_value": "419401播放",
+      "index": 18
+    },
+    {
+      "title": "世界末日，却打不通最后一通电话💔《Payphone》",
+      "url": "https://www.bilibili.com/video/BV1FUbF6rEFf",
+      "hot_value": "1487126播放",
+      "index": 19
+    },
+    {
+      "title": "对面一个牢玩家李白，打我们这边4个牢玩家",
+      "url": "https://www.bilibili.com/video/BV1NAtr68EaE",
+      "hot_value": "1143803播放",
+      "index": 20
+    },
+    {
+      "title": "喝多了没人能制裁我 除了我老婆",
+      "url": "https://www.bilibili.com/video/BV1i5tz65EfM",
+      "hot_value": "885449播放",
+      "index": 21
+    },
+    {
+      "title": "拉康：我们如何用一生，从别人那里偷来一个“我”？",
+      "url": "https://www.bilibili.com/video/BV1BZtC68EXq",
+      "hot_value": "1113187播放",
+      "index": 22
+    },
+    {
+      "title": "我从这台旧电脑里找到了18年前姐姐去世的真相...",
+      "url": "https://www.bilibili.com/video/BV1AgtC6YEW7",
+      "hot_value": "468476播放",
+      "index": 23
+    },
+    {
+      "title": "原版MC维度之外的“幽灵维度”，玩家变成量子叠加态！",
+      "url": "https://www.bilibili.com/video/BV1mSti6XEGt",
+      "hot_value": "621418播放",
+      "index": 24
+    },
+    {
+      "title": "我发现了动画最离谱的BUG？",
+      "url": "https://www.bilibili.com/video/BV1oGtz6yEj2",
+      "hot_value": "2593296播放",
+      "index": 25
+    },
+    {
+      "title": "史上最烂DC电影！万字赤石《超女》！",
+      "url": "https://www.bilibili.com/video/BV1mntg62Ed8",
+      "hot_value": "1447374播放",
+      "index": 26
+    },
+    {
+      "title": "二周年纪念大红炫彩鸟窝线索？鸟窝是对的！",
+      "url": "https://www.bilibili.com/video/BV1LztB6MEus",
+      "hot_value": "1028183播放",
+      "index": 27
+    },
+    {
+      "title": "美国总统爱吃的芝士牛排三明治，什么味儿？",
+      "url": "https://www.bilibili.com/video/BV1Qstz6qEsS",
+      "hot_value": "1797459播放",
       "index": 28
     },
     {
-      "title": "花600天做一道菜，切开的瞬间发光了！",
-      "url": "https://www.bilibili.com/video/BV1kGto6BEiG",
-      "hot_value": "2227219播放",
+      "title": "我整蛊了100名玩家！",
+      "url": "https://www.bilibili.com/video/BV1sptk6vEVm",
+      "hot_value": "689369播放",
       "index": 29
     },
     {
-      "title": "我好像找到了特别贴numb numb副歌音效的跳法…",
-      "url": "https://www.bilibili.com/video/BV1s9tf6EE3N",
-      "hot_value": "431787播放",
+      "title": "和五条人在完全没人认识他们的县城里做一场演出！丨HOPICO X 小鹿Lawrence",
+      "url": "https://www.bilibili.com/video/BV1xBtD64EB7",
+      "hot_value": "807252播放",
       "index": 30
     }
   ]
