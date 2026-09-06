@@ -1,90 +1,90 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-09-06T11:11:33Z",
+  "update_time": "2026-09-06T14:18:07Z",
   "count": 20,
   "list": [
-    {
-      "title": "印尼野火毒霾席卷东南亚：厄尔尼诺与泥炭地退化成双重推手",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34014788",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "市民建议优化环卫工人夏季工装做好防暑降温，绿化市容部门回应",
       "url": "https://www.thepaper.cn/newsDetail_forward_34016259",
       "hot_value": "",
-      "index": 2
+      "index": 1
     },
     {
       "title": "被困11天，中国一工人在尼泊尔获救：“看到灯光就使劲喊，一度以为没希望了”",
       "url": "https://www.thepaper.cn/newsDetail_forward_34017169",
       "hot_value": "",
-      "index": 3
+      "index": 2
     },
     {
       "title": "当地回应5岁女孩病历被标注“刁蛮”：已修正病历，对涉事医生立案调查",
       "url": "https://www.thepaper.cn/newsDetail_forward_34017446",
       "hot_value": "",
-      "index": 4
-    },
-    {
-      "title": "普京下令暂停打击基辅3天",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34016496",
-      "hot_value": "",
-      "index": 5
+      "index": 3
     },
     {
       "title": "“葫芦娃爷爷”摘了葫芦，绍兴文旅：把安宁与清净还给老人",
       "url": "https://www.thepaper.cn/newsDetail_forward_34018330",
       "hot_value": "",
-      "index": 6
-    },
-    {
-      "title": "湖南嘉禾县人民医院回应“医护肢体冲突”：将对双方严肃追责",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34016048",
-      "hot_value": "",
-      "index": 7
-    },
-    {
-      "title": "山东临清一大桥步道桥板脱落致行人坠亡，13年前被评为省文保单位却年久失修",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34016288",
-      "hot_value": "",
-      "index": 8
+      "index": 4
     },
     {
       "title": "体坛联播｜郑钦文惊天逆转晋级美网16强，国米力克那不勒斯",
       "url": "https://www.thepaper.cn/newsDetail_forward_34018602",
       "hot_value": "",
-      "index": 9
+      "index": 5
     },
     {
-      "title": "人民日报刊文：“逢陆必黑”早已沦为笑柄",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34018575",
+      "title": "山东临清一大桥步道桥板脱落致行人坠亡，13年前被评为省文保单位却年久失修",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34016288",
       "hot_value": "",
-      "index": 10
+      "index": 6
+    },
+    {
+      "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难、519人失联",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34020192",
+      "hot_value": "",
+      "index": 7
     },
     {
       "title": "毛泽东同志逝世50周年纪念日，纪念堂上下午均安排开放时段",
       "url": "https://www.thepaper.cn/newsDetail_forward_34019209",
       "hot_value": "",
-      "index": 11
+      "index": 8
+    },
+    {
+      "title": "人民日报刊文：“逢陆必黑”早已沦为笑柄",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34018575",
+      "hot_value": "",
+      "index": 9
     },
     {
       "title": "著名信息安全与密码学领域专家翟起滨逝世",
       "url": "https://www.thepaper.cn/newsDetail_forward_34018851",
       "hot_value": "",
-      "index": 12
+      "index": 10
     },
     {
       "title": "“葫芦娃爷爷”剪除网红葫芦：失独老人与一场过载的热情",
       "url": "https://www.thepaper.cn/newsDetail_forward_34019074",
       "hot_value": "",
-      "index": 13
+      "index": 11
     },
     {
       "title": "撞车事故中的人性光辉，照出CHINA GT巨大的安全漏洞",
       "url": "https://www.thepaper.cn/newsDetail_forward_34019373",
+      "hot_value": "",
+      "index": 12
+    },
+    {
+      "title": "众声｜剪下网红葫芦之后：被当作“风景”的生活首先是生活",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34019385",
+      "hot_value": "",
+      "index": 13
+    },
+    {
+      "title": "CHINA GT就碰撞起火事故致歉：将进一步复盘和调查",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34019796",
       "hot_value": "",
       "index": 14
     },
@@ -107,20 +107,20 @@
       "index": 17
     },
     {
-      "title": "专访 | 亚运“四朝元老”华天：我的马术人生永不停歇",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34009735",
+      "title": "当“八卦图”被洪水冲乱：莆田霞皋古村灾后自救实录",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34018684",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "江西遂川：泥石流灾害11名失联群众身份信息已基本确认",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34016218",
+      "title": "普京开始与美国总统特使会谈",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34018082",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "“张雪机车”法国站第一回合获季军",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34016556",
+      "title": "尼军卫生总局局长透露被困11天中国公民获救原因",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34018653",
       "hot_value": "",
       "index": 20
     }
