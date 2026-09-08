@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-08T20:01:49Z",
+  "update_time": "2026-09-08T22:51:06Z",
   "count": 30,
   "list": [
     {
       "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
       "url": "https://www.zhihu.com/question/2080654680389051865",
-      "hot_value": "853 万热度",
+      "hot_value": "888 万热度",
       "index": 1
     },
     {
       "title": "上海 10 月 1 日起生娃个人「不花钱」，产检超额费用全兜底，住院分娩政策内费用全报销，新政会带来哪些利好？",
       "url": "https://www.zhihu.com/question/2080743820598010604",
-      "hot_value": "771 万热度",
+      "hot_value": "607 万热度",
       "index": 2
-    },
-    {
-      "title": "「耿同学」已落户杭州，获聘为浙江传媒学院特聘讲师，这对他学术打假工作可能有哪些帮助或影响？",
-      "url": "https://www.zhihu.com/question/2080742188825014985",
-      "hot_value": "424 万热度",
-      "index": 3
-    },
-    {
-      "title": "怎么看  OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
-      "url": "https://www.zhihu.com/question/2080681933982393659",
-      "hot_value": "398 万热度",
-      "index": 4
     },
     {
       "title": "考研数学名师汤家凤称对历史不计入中考总分深感痛心，你怎么看？",
       "url": "https://www.zhihu.com/question/2079870624105870922",
-      "hot_value": "352 万热度",
-      "index": 5
+      "hot_value": "360 万热度",
+      "index": 3
+    },
+    {
+      "title": "「耿同学」已落户杭州，获聘为浙江传媒学院特聘讲师，这对他学术打假工作可能有哪些帮助或影响？",
+      "url": "https://www.zhihu.com/question/2080742188825014985",
+      "hot_value": "321 万热度",
+      "index": 4
     },
     {
       "title": "武汉通报非法辅助生殖地下实验室称已查封，8 名涉案人员被控制，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2080713693583753956",
-      "hot_value": "272 万热度",
+      "hot_value": "233 万热度",
+      "index": 5
+    },
+    {
+      "title": "怎么看  OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
+      "url": "https://www.zhihu.com/question/2080681933982393659",
+      "hot_value": "136 万热度",
       "index": 6
-    },
-    {
-      "title": "在北京，为什么北五环的房价比南三环还贵呢？",
-      "url": "https://www.zhihu.com/question/660587105",
-      "hot_value": "223 万热度",
-      "index": 7
-    },
-    {
-      "title": "如何看待冯小刚电影《抓特务》上线流媒体后出现口碑逆袭？可能有哪些原因？",
-      "url": "https://www.zhihu.com/question/2080594668526514773",
-      "hot_value": "199 万热度",
-      "index": 8
-    },
-    {
-      "title": "律师称深圳富豪夫妻联手送小三进监狱，致其被判 14 年，指控判决存在程序违规，如何从法律角度解读？",
-      "url": "https://www.zhihu.com/question/2080624585049727173",
-      "hot_value": "175 万热度",
-      "index": 9
-    },
-    {
-      "title": "丹麦老板称越南建厂成本比中国贵 10%，这透露出全球供应链怎样的变化？",
-      "url": "https://www.zhihu.com/question/2080340515971715574",
-      "hot_value": "170 万热度",
-      "index": 10
-    },
-    {
-      "title": "LPL 2026 赛季季后赛 iG 3:0 淘汰 LGD 距离晋级决赛仅一步之遥，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2080688697410852069",
-      "hot_value": "169 万热度",
-      "index": 11
-    },
-    {
-      "title": "如何看待 Alpöge 和 Buckmaster 关于 Navier-Stokes 方程的工作？",
-      "url": "https://www.zhihu.com/question/2080659787990177538",
-      "hot_value": "167 万热度",
-      "index": 12
     },
     {
       "title": "近期不少医院医生挂号页面出现「医保扣分情况」介绍，这是什么意思？",
       "url": "https://www.zhihu.com/question/2080384784979554445",
-      "hot_value": "166 万热度",
+      "hot_value": "134 万热度",
+      "index": 7
+    },
+    {
+      "title": "紫金矿业半年报出现「人民币政府」「新熊源」等低级错误，且部分错误延续六年，财报审校到底谁在把关？",
+      "url": "https://www.zhihu.com/question/2080349294146610135",
+      "hot_value": "130 万热度",
+      "index": 8
+    },
+    {
+      "title": "《欢迎来龙餐馆》为什么袭击的时候偏偏留了老扎一命？",
+      "url": "https://www.zhihu.com/question/2079298778436321909",
+      "hot_value": "110 万热度",
+      "index": 9
+    },
+    {
+      "title": "律师称深圳富豪夫妻联手送小三进监狱，致其被判 14 年，指控判决存在程序违规，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2080624585049727173",
+      "hot_value": "99 万热度",
+      "index": 10
+    },
+    {
+      "title": "丹麦老板称越南建厂成本比中国贵 10%，这透露出全球供应链怎样的变化？",
+      "url": "https://www.zhihu.com/question/2080340515971715574",
+      "hot_value": "90 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何评价 GPT6 在 Blender 建模的水平两极分化？",
+      "url": "https://www.zhihu.com/question/2079875098979448454",
+      "hot_value": "86 万热度",
+      "index": 12
+    },
+    {
+      "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
+      "url": "https://www.zhihu.com/question/2080276423739172027",
+      "hot_value": "85 万热度",
       "index": 13
     },
     {
       "title": "网红晒百万捐款截图被查实仅捐 1 元，借灾情「诈捐」博流量该如何惩处？灾情中的「假慈善」为何屡屡出现？",
       "url": "https://www.zhihu.com/question/2080586140742939506",
-      "hot_value": "130 万热度",
+      "hot_value": "83 万热度",
       "index": 14
     },
     {
-      "title": "紫金矿业半年报出现「人民币政府」「新熊源」等低级错误，且部分错误延续六年，财报审校到底谁在把关？",
-      "url": "https://www.zhihu.com/question/2080349294146610135",
-      "hot_value": "127 万热度",
+      "title": "如何看待冯小刚电影《抓特务》上线流媒体后出现口碑逆袭？可能有哪些原因？",
+      "url": "https://www.zhihu.com/question/2080594668526514773",
+      "hot_value": "81 万热度",
       "index": 15
     },
     {
       "title": "网传长江武汉段三艘驳船，单次十秒倾倒大量黑色物质入江，相关部门已紧急巡查，倾倒物可能是什么？危害多大？",
       "url": "https://www.zhihu.com/question/2080294144782644902",
-      "hot_value": "127 万热度",
+      "hot_value": "80 万热度",
       "index": 16
-    },
-    {
-      "title": "日本外储 8 月录得史上最大降幅，日元兑美元升破 154，汇率创 6 个月新高，其持续升值对市场影响几何？",
-      "url": "https://www.zhihu.com/question/2080554537186759135",
-      "hot_value": "126 万热度",
-      "index": 17
-    },
-    {
-      "title": "媒体称塑料外卖盒等都含有微塑料，会穿过血脑屏障进入大脑，什么是微塑料？会产生什么影响？又该如何应对？",
-      "url": "https://www.zhihu.com/question/2080223901372474890",
-      "hot_value": "120 万热度",
-      "index": 18
-    },
-    {
-      "title": "《欢迎来龙餐馆》为什么袭击的时候偏偏留了老扎一命？",
-      "url": "https://www.zhihu.com/question/2079298778436321909",
-      "hot_value": "112 万热度",
-      "index": 19
-    },
-    {
-      "title": "第一批「20 后」正式上小学了，送学家长横跨 70 后、 80 后、 90 后、 00 后，你如何看待这种「时代错位」？",
-      "url": "https://www.zhihu.com/question/2078108755187725870",
-      "hot_value": "95 万热度",
-      "index": 20
-    },
-    {
-      "title": "微信会成为中国版的超级 Telegram 吗？",
-      "url": "https://www.zhihu.com/question/2023911893291550702",
-      "hot_value": "94 万热度",
-      "index": 21
     },
     {
       "title": "三位学者虚构 4500 份简历，投递发现海归面试概率比本土求职者低 16.2%，海归学历不再吃香了吗？",
       "url": "https://www.zhihu.com/question/2080616606447694531",
-      "hot_value": "89 万热度",
-      "index": 22
-    },
-    {
-      "title": "如何评价 AA 推出 V4.2 评分标准，GPT-6 分数超过 Muse Spark 1.3？",
-      "url": "https://www.zhihu.com/question/2079499882709233769",
-      "hot_value": "89 万热度",
-      "index": 23
-    },
-    {
-      "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
-      "url": "https://www.zhihu.com/question/2080276423739172027",
-      "hot_value": "87 万热度",
-      "index": 24
+      "hot_value": "79 万热度",
+      "index": 17
     },
     {
       "title": "如何看待华为首款阔直板 Pura X View 上市定价 5999 起，这个价格是否有竞争力？",
       "url": "https://www.zhihu.com/question/2080336843980256362",
-      "hot_value": "81 万热度",
-      "index": 25
+      "hot_value": "79 万热度",
+      "index": 18
     },
     {
       "title": "贵州福泉三名未成年女孩接连失联，目前均已找到，有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2080237533758054861",
-      "hot_value": "79 万热度",
-      "index": 26
+      "hot_value": "78 万热度",
+      "index": 19
     },
     {
       "title": "毛阿敏为什么要在镜头面前把许晴逼到崩溃？",
       "url": "https://www.zhihu.com/question/2078132215284753080",
-      "hot_value": "77 万热度",
-      "index": 27
+      "hot_value": "76 万热度",
+      "index": 20
     },
     {
-      "title": "杨逍和范遥对上玄冥二老有无胜算？",
-      "url": "https://www.zhihu.com/question/1963582705104066149",
-      "hot_value": "71 万热度",
-      "index": 28
+      "title": "日本外储 8 月录得史上最大降幅，日元兑美元升破 154，汇率创 6 个月新高，其持续升值对市场影响几何？",
+      "url": "https://www.zhihu.com/question/2080554537186759135",
+      "hot_value": "75 万热度",
+      "index": 21
+    },
+    {
+      "title": "媒体称塑料外卖盒等都含有微塑料，会穿过血脑屏障进入大脑，什么是微塑料？会产生什么影响？又该如何应对？",
+      "url": "https://www.zhihu.com/question/2080223901372474890",
+      "hot_value": "65 万热度",
+      "index": 22
+    },
+    {
+      "title": "第一批「20 后」正式上小学了，送学家长横跨 70 后、 80 后、 90 后、 00 后，你如何看待这种「时代错位」？",
+      "url": "https://www.zhihu.com/question/2078108755187725870",
+      "hot_value": "63 万热度",
+      "index": 23
+    },
+    {
+      "title": "微信会成为中国版的超级 Telegram 吗？",
+      "url": "https://www.zhihu.com/question/2023911893291550702",
+      "hot_value": "63 万热度",
+      "index": 24
+    },
+    {
+      "title": "如何评价 AA 推出 V4.2 评分标准，GPT-6 分数超过 Muse Spark 1.3？",
+      "url": "https://www.zhihu.com/question/2079499882709233769",
+      "hot_value": "59 万热度",
+      "index": 25
+    },
+    {
+      "title": "AI 认为泡泡玛特没有护城河，段永平却非常看好，我该听谁的？",
+      "url": "https://www.zhihu.com/question/2078805979487888921",
+      "hot_value": "59 万热度",
+      "index": 26
     },
     {
       "title": "为什么做菜都用葱姜蒜干辣椒五椒八角酱油醋糖或者更多，炒出的菜通红通红，而不是少放佐料保持菜本味？",
       "url": "https://www.zhihu.com/question/1907837514024220506",
-      "hot_value": "70 万热度",
+      "hot_value": "59 万热度",
+      "index": 27
+    },
+    {
+      "title": "东晋、南宋作为唯二能建立南迁政权的中原王朝，是不是因为只有一个王系逃出？",
+      "url": "https://www.zhihu.com/question/1921297922995258454",
+      "hot_value": "59 万热度",
+      "index": 28
+    },
+    {
+      "title": "为什么读了很多书，却记不住，是不是白读了呢？",
+      "url": "https://www.zhihu.com/question/34348974",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "有没有什么很方便做的菜?",
-      "url": "https://www.zhihu.com/question/3777927578",
-      "hot_value": "69 万热度",
+      "title": "同事工资是我两倍，活儿却比我少一半，我该找领导谈吗？",
+      "url": "https://www.zhihu.com/question/2080085049148453074",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
