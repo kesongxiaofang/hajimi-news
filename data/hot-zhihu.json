@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-07T23:55:58Z",
+  "update_time": "2026-09-08T03:05:00Z",
   "count": 30,
   "list": [
     {
-      "title": "吃播网红干饭莹莹去世年仅 24 岁，其曾称「反复吃，钾流失」，钾流失有多危险？哪些因素可能导致钾流失？",
-      "url": "https://www.zhihu.com/question/2080369515049611651",
-      "hot_value": "1057 万热度",
+      "title": "如何看待全国各地古镇相似度高达 99%，连「特色小吃」都一模一样？为何会出现这一局面？",
+      "url": "https://www.zhihu.com/question/591935274",
+      "hot_value": "805 万热度",
       "index": 1
     },
     {
       "title": "小米澎程 N70 系列增程 SUV 发布，售价 20.99 万元起，怎样看待这一定价？竞争力有多强？",
       "url": "https://www.zhihu.com/question/2080397612411086400",
-      "hot_value": "842 万热度",
+      "hot_value": "540 万热度",
       "index": 2
+    },
+    {
+      "title": "为什么国产偶像剧都喜欢把男女主的工作背景设定在广告、新闻、公关等传媒行业？",
+      "url": "https://www.zhihu.com/question/2078865478877799968",
+      "hot_value": "280 万热度",
+      "index": 3
     },
     {
       "title": "美网女单第四轮，郑钦文 2-0 斯瓦泰克挺进 8 强，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2080414404730779495",
-      "hot_value": "369 万热度",
-      "index": 3
-    },
-    {
-      "title": "大众汽车宣布行业有史以来最大规模重组，裁员 10 万、车型砍半、关停 4 厂，背后有哪些深层原因？",
-      "url": "https://www.zhihu.com/question/2079147986958004937",
-      "hot_value": "250 万热度",
+      "hot_value": "239 万热度",
       "index": 4
     },
     {
-      "title": "如何评价 9 月 7 日发布的小米澎程 SUV？",
-      "url": "https://www.zhihu.com/question/2080231640031126537",
-      "hot_value": "152 万热度",
+      "title": "毛阿敏为什么要在镜头面前把许晴逼到崩溃？",
+      "url": "https://www.zhihu.com/question/2078132215284753080",
+      "hot_value": "184 万热度",
       "index": 5
     },
     {
-      "title": "如何看待全球最大纯电飞机 Heart X1 首飞 27 分钟电费仅用了 5 美元？电动客机能颠覆传统支线航空吗？",
-      "url": "https://www.zhihu.com/question/2080085427713791251",
-      "hot_value": "123 万热度",
+      "title": "赵一鸣致歉承诺出现称重问题时赔十倍差价，好想来回应将对涉事门店严肃整改处理，如何看待双方的回应？",
+      "url": "https://www.zhihu.com/question/2080341418867007626",
+      "hot_value": "180 万热度",
       "index": 6
+    },
+    {
+      "title": "5 岁女孩病历被标注「刁蛮」，卫健局称涉事医生被立案调查，病历能写主观评价吗？反映出医疗管理哪些问题？",
+      "url": "https://www.zhihu.com/question/2079585698311565403",
+      "hot_value": "166 万热度",
+      "index": 7
+    },
+    {
+      "title": "如何看待「余承东建议苹果用户买华为备用机，备用几天就可能成为主力机」？你会购买吗？",
+      "url": "https://www.zhihu.com/question/2080545656058467888",
+      "hot_value": "158 万热度",
+      "index": 8
     },
     {
       "title": "成年人战斗力明明胜于狼，为什么以前的人那么怕狼？",
       "url": "https://www.zhihu.com/question/2079603405459296484",
-      "hot_value": "113 万热度",
-      "index": 7
-    },
-    {
-      "title": "从贫困生喝咖啡疑被举报到看演唱会疑被取消低保，贫困户的「高消费」到底咋划定？为何相关话题讨论经久不衰？",
-      "url": "https://www.zhihu.com/question/2080237961358963743",
-      "hot_value": "98 万热度",
-      "index": 8
-    },
-    {
-      "title": "有没有一部公认的烂片，你觉得，其实它被严重低估了？",
-      "url": "https://www.zhihu.com/question/2076564004877685708",
-      "hot_value": "94 万热度",
+      "hot_value": "147 万热度",
       "index": 9
     },
     {
-      "title": "媒体曝民宿从「一房难求」到房间空置，大量民宿经营者称入住率暴跌，为啥大家现在都不爱住民宿了？",
-      "url": "https://www.zhihu.com/question/2079850291302765262",
-      "hot_value": "85 万热度",
+      "title": "祖先如果真的早入轮回了，那祈祷祖宗保佑是不是也没什么用？",
+      "url": "https://www.zhihu.com/question/2068730113806673823",
+      "hot_value": "129 万热度",
       "index": 10
     },
     {
-      "title": "贵中医二附院一医生被藏刀锦旗患者捅伤，致重伤在 ICU 抢救，这反映了当前医患关系的哪些问题？",
-      "url": "https://www.zhihu.com/question/2079721065136250959",
-      "hot_value": "83 万热度",
+      "title": "一男童被大妈扶上展台，触摸东汉石兽真品，现场标注「请勿触摸」，触摸石兽有何影响？此类现象为何屡禁不止？",
+      "url": "https://www.zhihu.com/question/2080333286367310656",
+      "hot_value": "112 万热度",
       "index": 11
     },
     {
-      "title": "如何评价华为 9 月 7 日全球直播的新品发布会？有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2080237392129274336",
-      "hot_value": "81 万热度",
+      "title": "准时准点的睡眠真的那么重要吗?",
+      "url": "https://www.zhihu.com/question/284797534",
+      "hot_value": "96 万热度",
       "index": 12
     },
     {
-      "title": "多款手机集体涨价，有经销商称本以为会迎来抢购潮，结果询价者寥寥无几，哪里出了问题？",
-      "url": "https://www.zhihu.com/question/2078836573454459390",
-      "hot_value": "78 万热度",
+      "title": "如何看待「高盛预计人民币未来将持续有序升值每年升幅约 3% 至 5% 五年后或升至 5.5 元人民币兑 1 美元」？",
+      "url": "https://www.zhihu.com/question/2080215608046760788",
+      "hot_value": "92 万热度",
       "index": 13
     },
     {
       "title": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里？",
       "url": "https://www.zhihu.com/question/2078837455386630111",
-      "hot_value": "78 万热度",
+      "hot_value": "91 万热度",
       "index": 14
     },
     {
-      "title": "2026 女篮世界杯小组赛，中国女篮 71-51 意大利女篮 ，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2080297033966142022",
-      "hot_value": "78 万热度",
+      "title": "陪护阿姨总爱蔬菜里加姜，老人提醒多次后仍不改，被老人评价「脑子有病」后直接辞职，这件事到底是谁不对？",
+      "url": "https://www.zhihu.com/question/2056428533145138727",
+      "hot_value": "90 万热度",
       "index": 15
     },
     {
-      "title": "9 月 7 日至 12 日中国人民解放军陆军派出兵力赴俄罗斯参加实兵演习，有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2079279942580418480",
-      "hot_value": "78 万热度",
+      "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
+      "url": "https://www.zhihu.com/question/2080276423739172027",
+      "hot_value": "89 万热度",
       "index": 16
     },
     {
-      "title": "如果在全国重新提名「五岳」你会考虑替换掉谁？",
-      "url": "https://www.zhihu.com/question/638919022",
-      "hot_value": "77 万热度",
+      "title": "特斯拉推出「0 稀土」电机，这对中国稀土产业意味着什么？",
+      "url": "https://www.zhihu.com/question/2080298625788277732",
+      "hot_value": "89 万热度",
       "index": 17
     },
     {
-      "title": "新世界地图要来了，采用平等地球投影法，非洲变得更大，美国投下唯一反对票，背后有着怎样的地缘与文化诉求？",
-      "url": "https://www.zhihu.com/question/2079520295614953390",
-      "hot_value": "77 万热度",
+      "title": "如何评价中超第 26 轮重庆铜梁龙主场 1-3 输给上海申花，主场球迷观赛人数跌至 1.9 万？",
+      "url": "https://www.zhihu.com/question/2080176660662457081",
+      "hot_value": "88 万热度",
       "index": 18
     },
     {
-      "title": "体育总局拟在外卖、快递员的休息站点建设健身设施，其背后是何种考量，又有哪些更优解？",
-      "url": "https://www.zhihu.com/question/2079366614487675086",
-      "hot_value": "74 万热度",
+      "title": "华为鸿蒙 7 操作系统采用超空间存储技术，用户升级后最多可节省 109 GB 存储空间，如何看待该性能？",
+      "url": "https://www.zhihu.com/question/2080312037121471070",
+      "hot_value": "86 万热度",
       "index": 19
     },
     {
-      "title": "人体衰老的生物学机制是什么？",
-      "url": "https://www.zhihu.com/question/2051517074883752811",
-      "hot_value": "67 万热度",
+      "title": "崔东树称汽车产业链下游经销商面临严重的生存危机，如何看待这一论断？经销商未来出路在哪？",
+      "url": "https://www.zhihu.com/question/2079251828177424616",
+      "hot_value": "85 万热度",
       "index": 20
     },
     {
-      "title": "福建某小区禁止新能源车驶入地下车库，要求已停车辆 10 日内移出，这合理吗？如何从法律角度解读？",
-      "url": "https://www.zhihu.com/question/2080185350484505502",
-      "hot_value": "66 万热度",
+      "title": "网传长江武汉段三艘驳船，单次十秒倾倒大量黑色物质入江，相关部门已紧急巡查，倾倒物可能是什么？危害多大？",
+      "url": "https://www.zhihu.com/question/2080294144782644902",
+      "hot_value": "84 万热度",
       "index": 21
+    },
+    {
+      "title": "为什么银行股必须分红?",
+      "url": "https://www.zhihu.com/question/4778344461",
+      "hot_value": "83 万热度",
+      "index": 22
+    },
+    {
+      "title": "被父母花高价送进矫正机构，月交费高达 1.5 万元，这类针对「问题成年人」的特训学校，究竟是否有存在价值？",
+      "url": "https://www.zhihu.com/question/2078419357080863456",
+      "hot_value": "83 万热度",
+      "index": 23
     },
     {
       "title": "为什么现在很多养宠物的人会喜欢将自己称为宠物的爸爸 / 妈妈呢？",
       "url": "https://www.zhihu.com/question/1725713018",
-      "hot_value": "65 万热度",
-      "index": 22
-    },
-    {
-      "title": "尤老娘为什么要带两个绝色女儿住到宁府，她是自私还是糊涂？",
-      "url": "https://www.zhihu.com/question/2028571888465589422",
-      "hot_value": "64 万热度",
-      "index": 23
-    },
-    {
-      "title": "河南一女子外出喝酒致 3 岁儿子反锁屋内身亡，被判过失致人死亡罪，如何从法律角度解读？类似悲剧能如何避免？",
-      "url": "https://www.zhihu.com/question/2080049944279375932",
-      "hot_value": "59 万热度",
+      "hot_value": "76 万热度",
       "index": 24
     },
     {
-      "title": "你和导师之间发生过哪些有趣的事？",
-      "url": "https://www.zhihu.com/question/263824222",
-      "hot_value": "59 万热度",
+      "title": "2026 女篮世界杯小组赛，中国女篮 71-51 意大利女篮 ，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2080297033966142022",
+      "hot_value": "75 万热度",
       "index": 25
     },
     {
-      "title": "2627 赛季西甲联赛西甲第 4 轮瓦伦西亚 0:5 巴塞罗那，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2080057570149115002",
-      "hot_value": "59 万热度",
+      "title": "有些孩平时不补课，也不熬夜，但成绩却名列前茅，这是为什么？",
+      "url": "https://www.zhihu.com/question/2078453498790917962",
+      "hot_value": "73 万热度",
       "index": 26
     },
     {
-      "title": "孩子住宿，如果打电话说不舒服，你接吗？",
-      "url": "https://www.zhihu.com/question/2079101217590999001",
-      "hot_value": "59 万热度",
+      "title": "在职场上，品行真的比能力更重要吗？",
+      "url": "https://www.zhihu.com/question/2065039397830014677",
+      "hot_value": "67 万热度",
       "index": 27
     },
     {
-      "title": "最近有什么下饭菜菜谱分享吗？",
-      "url": "https://www.zhihu.com/question/1935847304859980981",
-      "hot_value": "59 万热度",
+      "title": "如何评价张笑影编剧，刘潇阳编剧、导演，⽂淇、倪虹洁领衔主演，喻恩泰特别主演的电影《燃烧吧！爸爸》？",
+      "url": "https://www.zhihu.com/question/2078892474597118340",
+      "hot_value": "66 万热度",
       "index": 28
     },
     {
-      "title": "如果《红楼梦》中贾宝玉从小读书上进，能改变家族命运吗？",
-      "url": "https://www.zhihu.com/question/1422800422",
-      "hot_value": "59 万热度",
+      "title": "为什么说心力不够，认知也发挥不了作用？",
+      "url": "https://www.zhihu.com/question/2063292590972319733",
+      "hot_value": "63 万热度",
       "index": 29
     },
     {
-      "title": "低精力人群怎么才能拥有高精力？",
-      "url": "https://www.zhihu.com/question/2048385936392729046",
+      "title": "有没有一部公认的烂片，你觉得，其实它被严重低估了？",
+      "url": "https://www.zhihu.com/question/2076564004877685708",
       "hot_value": "59 万热度",
       "index": 30
     }
