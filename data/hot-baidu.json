@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-09-09T18:28:24Z",
+  "update_time": "2026-09-09T21:05:52Z",
   "count": 30,
   "list": [
     {
       "title": "做党和人民满意的好老师",
       "url": "https://www.baidu.com/s?wd=%E5%81%9A%E5%85%9A%E5%92%8C%E4%BA%BA%E6%B0%91%E6%BB%A1%E6%84%8F%E7%9A%84%E5%A5%BD%E8%80%81%E5%B8%88&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904233",
+      "hot_value": "7904223",
       "index": 1
     },
     {
-      "title": "直击苹果秋季发布会",
-      "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7809287",
+      "title": "苹果秋季发布会",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7809041",
       "index": 2
     },
     {
       "title": "郑钦文止步美网八强",
       "url": "https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E6%AD%A2%E6%AD%A5%E7%BE%8E%E7%BD%91%E5%85%AB%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7713862",
+      "hot_value": "7711871",
       "index": 3
     },
     {
       "title": "共享投资机遇 共谋未来发展",
       "url": "https://www.baidu.com/s?wd=%E5%85%B1%E4%BA%AB%E6%8A%95%E8%B5%84%E6%9C%BA%E9%81%87+%E5%85%B1%E8%B0%8B%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7617280",
+      "hot_value": "7617255",
       "index": 4
     },
     {
       "title": "中国女篮3分险胜 晋级世界杯八强",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE3%E5%88%86%E9%99%A9%E8%83%9C+%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7522548",
+      "hot_value": "7522985",
       "index": 5
     },
     {
       "title": "苹果iPhone 18 Pro/Max 售价",
       "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CiPhone+18+Pro%2FMax+%E5%94%AE%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7426980",
+      "hot_value": "7429312",
       "index": 6
     },
     {
-      "title": "iPhone 18 Pro 勃艮第红",
-      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro+%E5%8B%83%E8%89%AE%E7%AC%AC%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7333113",
+      "title": "爱马仕橙退出历史舞台",
+      "url": "https://www.baidu.com/s?wd=%E7%88%B1%E9%A9%AC%E4%BB%95%E6%A9%99%E9%80%80%E5%87%BA%E5%8E%86%E5%8F%B2%E8%88%9E%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7334081",
       "index": 7
     },
     {
-      "title": "苹果折叠屏iPhone Duo正式亮相",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone+Duo%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7232438",
+      "title": "iPhone Duo 售价公布",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo+%E5%94%AE%E4%BB%B7%E5%85%AC%E5%B8%83&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7236029",
       "index": 8
     },
     {
-      "title": "尼古拉斯·凯奇“房塌”了",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%BC%E5%8F%A4%E6%8B%89%E6%96%AF%C2%B7%E5%87%AF%E5%A5%87%E2%80%9C%E6%88%BF%E5%A1%8C%E2%80%9D%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7140816",
+      "title": "iPhone 18 Pro 可变光圈",
+      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro+%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7136679",
       "index": 9
     },
     {
-      "title": "SiriAI支持中文但首发无缘中国大陆",
-      "url": "https://www.baidu.com/s?wd=SiriAI%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E4%BD%86%E9%A6%96%E5%8F%91%E6%97%A0%E7%BC%98%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7045445",
+      "title": "iPhone Duo真机上手",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E7%9C%9F%E6%9C%BA%E4%B8%8A%E6%89%8B&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7042945",
       "index": 10
     },
     {
       "title": "教师节",
       "url": "https://www.baidu.com/s?wd=%E6%95%99%E5%B8%88%E8%8A%82&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6943707",
+      "hot_value": "6944109",
       "index": 11
     },
     {
       "title": "护航开学季 警惕这些常见骗术",
       "url": "https://www.baidu.com/s?wd=%E6%8A%A4%E8%88%AA%E5%BC%80%E5%AD%A6%E5%AD%A3+%E8%AD%A6%E6%83%95%E8%BF%99%E4%BA%9B%E5%B8%B8%E8%A7%81%E9%AA%97%E6%9C%AF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6848705",
+      "hot_value": "6847897",
       "index": 12
     },
     {
-      "title": "酒店回应浴巾里掉出女士内裤",
-      "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E6%B5%B4%E5%B7%BE%E9%87%8C%E6%8E%89%E5%87%BA%E5%A5%B3%E5%A3%AB%E5%86%85%E8%A3%A4&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6753134",
+      "title": "iPhone Duo 最薄iPhone",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo+%E6%9C%80%E8%96%84iPhone&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6759114",
       "index": 13
     },
     {
-      "title": "戚薇AI脸演丧尸片了",
-      "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6667735",
+      "title": "iPhone 18 Pro 勃艮第红",
+      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro+%E5%8B%83%E8%89%AE%E7%AC%AC%E7%BA%A2&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6659834",
       "index": 14
     },
     {
-      "title": "iPhone 18 Pro 可变光圈",
-      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro+%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6560112",
+      "title": "苹果折叠屏iPhone Duo正式亮相",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone+Duo%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6571836",
       "index": 15
     },
     {
-      "title": "高一新生入学次日校内身亡 官方通报",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%80%E6%96%B0%E7%94%9F%E5%85%A5%E5%AD%A6%E6%AC%A1%E6%97%A5%E6%A0%A1%E5%86%85%E8%BA%AB%E4%BA%A1+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6474864",
+      "title": "苹果发布iPhone 18 Pro/Max",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83iPhone+18+Pro%2FMax&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6469629",
       "index": 16
     },
     {
       "title": "降价140万元的药终于有患者用了",
       "url": "https://www.baidu.com/s?wd=%E9%99%8D%E4%BB%B7140%E4%B8%87%E5%85%83%E7%9A%84%E8%8D%AF%E7%BB%88%E4%BA%8E%E6%9C%89%E6%82%A3%E8%80%85%E7%94%A8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6370814",
+      "hot_value": "6380893",
       "index": 17
     },
     {
-      "title": "百万粉丝博主“康康爷爷”去世",
-      "url": "https://www.baidu.com/s?wd=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%8D%9A%E4%B8%BB%E2%80%9C%E5%BA%B7%E5%BA%B7%E7%88%B7%E7%88%B7%E2%80%9D%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6277126",
+      "title": "戚薇AI脸演丧尸片了",
+      "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6272146",
       "index": 18
     },
     {
-      "title": "俞敏洪找到了“最强打工人”",
-      "url": "https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E6%89%BE%E5%88%B0%E4%BA%86%E2%80%9C%E6%9C%80%E5%BC%BA%E6%89%93%E5%B7%A5%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6176862",
+      "title": "iPhone 17涨价800元",
+      "url": "https://www.baidu.com/s?wd=iPhone+17%E6%B6%A8%E4%BB%B7800%E5%85%83&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6181667",
       "index": 19
-    },
-    {
-      "title": "苹果发布iPhone 18 Pro/Max",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83iPhone+18+Pro%2FMax&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6092323",
-      "index": 20
-    },
-    {
-      "title": "苹果首款折叠iPhone已经剧透完了",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone%E5%B7%B2%E7%BB%8F%E5%89%A7%E9%80%8F%E5%AE%8C%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5985137",
-      "index": 21
     },
     {
       "title": "iPhone 18 Pro 散热",
       "url": "https://www.baidu.com/s?wd=iPhone+18+Pro+%E6%95%A3%E7%83%AD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5887180",
+      "hot_value": "6086932",
+      "index": 20
+    },
+    {
+      "title": "俞敏洪找到了“最强打工人”",
+      "url": "https://www.baidu.com/s?wd=%E4%BF%9E%E6%95%8F%E6%B4%AA%E6%89%BE%E5%88%B0%E4%BA%86%E2%80%9C%E6%9C%80%E5%BC%BA%E6%89%93%E5%B7%A5%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5992890",
+      "index": 21
+    },
+    {
+      "title": "苹果 特努斯时代",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C+%E7%89%B9%E5%8A%AA%E6%96%AF%E6%97%B6%E4%BB%A3&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5900166",
       "index": 22
     },
     {
-      "title": "iPhone 18 Pro 小号灵动岛",
-      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro+%E5%B0%8F%E5%8F%B7%E7%81%B5%E5%8A%A8%E5%B2%9B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5800246",
+      "title": "SiriAI支持中文但首发无缘中国大陆",
+      "url": "https://www.baidu.com/s?wd=SiriAI%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E4%BD%86%E9%A6%96%E5%8F%91%E6%97%A0%E7%BC%98%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5801693",
       "index": 23
     },
     {
-      "title": "电视关机还在偷听用户对话？LG回应",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%A7%86%E5%85%B3%E6%9C%BA%E8%BF%98%E5%9C%A8%E5%81%B7%E5%90%AC%E7%94%A8%E6%88%B7%E5%AF%B9%E8%AF%9D%EF%BC%9FLG%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5707102",
+      "title": "iPhone Duo 半开合",
+      "url": "https://www.baidu.com/s?wd=iPhone+Duo+%E5%8D%8A%E5%BC%80%E5%90%88&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5710564",
       "index": 24
     },
     {
-      "title": "网友称美的洗衣机每天使用400MB数据",
-      "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%BE%8E%E7%9A%84%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%AF%8F%E5%A4%A9%E4%BD%BF%E7%94%A8400MB%E6%95%B0%E6%8D%AE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5610621",
+      "title": "iPhone 分屏",
+      "url": "https://www.baidu.com/s?wd=iPhone+%E5%88%86%E5%B1%8F&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5608468",
       "index": 25
     },
     {
-      "title": "“过日子人”重新捧红方便面",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%BF%87%E6%97%A5%E5%AD%90%E4%BA%BA%E2%80%9D%E9%87%8D%E6%96%B0%E6%8D%A7%E7%BA%A2%E6%96%B9%E4%BE%BF%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5512866",
+      "title": "酒店回应浴巾里掉出女士内裤",
+      "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E6%B5%B4%E5%B7%BE%E9%87%8C%E6%8E%89%E5%87%BA%E5%A5%B3%E5%A3%AB%E5%86%85%E8%A3%A4&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5516441",
       "index": 26
     },
     {
-      "title": "资助者回应被资助女孩质问没打生活费",
-      "url": "https://www.baidu.com/s?wd=%E8%B5%84%E5%8A%A9%E8%80%85%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%84%E5%8A%A9%E5%A5%B3%E5%AD%A9%E8%B4%A8%E9%97%AE%E6%B2%A1%E6%89%93%E7%94%9F%E6%B4%BB%E8%B4%B9&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5408541",
+      "title": "苹果杀入折叠屏 三星率先表态",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9D%80%E5%85%A5%E6%8A%98%E5%8F%A0%E5%B1%8F+%E4%B8%89%E6%98%9F%E7%8E%87%E5%85%88%E8%A1%A8%E6%80%81&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5425777",
       "index": 27
     },
     {
-      "title": "高考数学132入学考试0分 大学回应",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6132%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%950%E5%88%86+%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5312410",
+      "title": "女生称学校砸门强搬宿舍 警方回应",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%AD%A6%E6%A0%A1%E7%A0%B8%E9%97%A8%E5%BC%BA%E6%90%AC%E5%AE%BF%E8%88%8D+%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5325841",
       "index": 28
     },
     {
       "title": "河南济源地震",
       "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%B5%8E%E6%BA%90%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5216635",
+      "hot_value": "5226975",
       "index": 29
     },
     {
-      "title": "拐点已至 中部大省“硬气”起来了",
-      "url": "https://www.baidu.com/s?wd=%E6%8B%90%E7%82%B9%E5%B7%B2%E8%87%B3+%E4%B8%AD%E9%83%A8%E5%A4%A7%E7%9C%81%E2%80%9C%E7%A1%AC%E6%B0%94%E2%80%9D%E8%B5%B7%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5120732",
+      "title": "iPhoneDuo 屏下摄像头",
+      "url": "https://www.baidu.com/s?wd=iPhoneDuo+%E5%B1%8F%E4%B8%8B%E6%91%84%E5%83%8F%E5%A4%B4&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5145952",
       "index": 30
     }
   ]
