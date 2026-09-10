@@ -1,168 +1,168 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-09T23:24:54Z",
+  "update_time": "2026-09-10T01:16:46Z",
   "count": 30,
   "list": [
     {
       "title": "如何评价 2026 苹果秋季发布会？哪些亮点值得关注？",
       "url": "https://www.zhihu.com/question/2081062403832115213",
-      "hot_value": "2157 万热度",
+      "hot_value": "4662 万热度",
       "index": 1
+    },
+    {
+      "title": "如何评价苹果折叠屏手机 iPhone Duo？国行售价 15999 元起值得入手吗？",
+      "url": "https://www.zhihu.com/question/2081206056877811582",
+      "hot_value": "1002 万热度",
+      "index": 2
     },
     {
       "title": "梅姨在广州城中村落网，住五百元 / 月的十平米出租屋，摆摊卖芒果为生，高 1.5 米左右，哪些细节值得关注？",
       "url": "https://www.zhihu.com/question/2081046558699513469",
-      "hot_value": "462 万热度",
-      "index": 2
-    },
-    {
-      "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
-      "url": "https://www.zhihu.com/question/2080253796941415480",
-      "hot_value": "111 万热度",
+      "hot_value": "622 万热度",
       "index": 3
     },
     {
-      "title": "男子看望奶奶时因桥梁破损坠亡，9 天后奶奶也因受打击离世，死者父母获赔 120 万，从法律角度如何解读？",
-      "url": "https://www.zhihu.com/question/2080644657436782661",
-      "hot_value": "84 万热度",
+      "title": "郑钦文 1-2 不敌莱巴金娜，止步美网八强，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2080985789492618819",
+      "hot_value": "328 万热度",
       "index": 4
     },
     {
       "title": "为什么电脑重启之后，很多奇怪的问题真的会消失？",
       "url": "https://www.zhihu.com/question/2078550836242800989",
-      "hot_value": "83 万热度",
+      "hot_value": "135 万热度",
       "index": 5
     },
     {
       "title": "如何看待曝某厂不让普工上厕所致拉裤兜，致其车间裸奔并拿粪便扔向他人，宁德时代宜宾基地回应称不是本公司？",
       "url": "https://www.zhihu.com/question/2081042167821354932",
-      "hot_value": "81 万热度",
+      "hot_value": "125 万热度",
       "index": 6
     },
     {
-      "title": "8 月新能源车零售 100.5 万辆，同比下降 10.1%，燃油车零售 54 万辆，同比下降 40%，如何解读？",
-      "url": "https://www.zhihu.com/question/2080685915270295959",
-      "hot_value": "78 万热度",
+      "title": "成吉思汗家族的继承者为什么从窝阔台系转到了拖雷系?",
+      "url": "https://www.zhihu.com/question/30605895",
+      "hot_value": "115 万热度",
       "index": 7
-    },
-    {
-      "title": "宇树科技发布视频称，首次实现人形机器人全自主搏击，这一进展意味着什么？",
-      "url": "https://www.zhihu.com/question/2080385733144076759",
-      "hot_value": "77 万热度",
-      "index": 8
-    },
-    {
-      "title": "宁夏 7 人假意应聘，借居住条件差等理由「软暴力」向工方勒索共 16 起，最高被判七年，如何从法律角度解读？",
-      "url": "https://www.zhihu.com/question/2080721680796861543",
-      "hot_value": "76 万热度",
-      "index": 9
     },
     {
       "title": "青藏高原及周边地区 50 年冰储量已减少 20%，冰川冰崩将变得常态化，这意味着什么？",
       "url": "https://www.zhihu.com/question/2080617094559934361",
-      "hot_value": "76 万热度",
-      "index": 10
+      "hot_value": "112 万热度",
+      "index": 8
     },
     {
-      "title": "韩国执政党党首在国会演讲时表示，只看美国的时代结束了，美已不再扮演对韩的「宽容大哥」，他为何这么说？",
-      "url": "https://www.zhihu.com/question/2080662753119938210",
-      "hot_value": "76 万热度",
-      "index": 11
+      "title": "失业妈妈借高利贷送 19 岁儿子进戒网瘾机构，为何家长会送孩子进此类机构？是否涉及对孩子暴力？",
+      "url": "https://www.zhihu.com/question/2077773595598657386",
+      "hot_value": "96 万热度",
+      "index": 9
+    },
+    {
+      "title": "成为老师以后，你发现这份工作和入行前想象中最不一样的地方是什么？",
+      "url": "https://www.zhihu.com/question/2076745267311638363",
+      "hot_value": "96 万热度",
+      "index": 10
     },
     {
       "title": "上交所向星宇股份发监管函，就公司相关事项明确监管要求，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2081090615165580123",
-      "hot_value": "76 万热度",
-      "index": 12
+      "hot_value": "96 万热度",
+      "index": 11
     },
     {
       "title": "C919 在 2026 年 1 月和 8 月再次出现「零交付」，这背后可能有哪些原因？",
       "url": "https://www.zhihu.com/question/2079205440232208177",
-      "hot_value": "76 万热度",
+      "hot_value": "96 万热度",
+      "index": 12
+    },
+    {
+      "title": "如何评价电影《燃烧吧，爸爸》编剧发长文「杀死它的凶手，却连我们的电影都没看过」？",
+      "url": "https://www.zhihu.com/question/2080676618742260529",
+      "hot_value": "96 万热度",
       "index": 13
     },
     {
       "title": "武亮称接棒张雪峰后压力大到斑秃，澄清本人并未持股且未来将交还家业，这种代管模式能支撑公司持续经营吗？",
       "url": "https://www.zhihu.com/question/2080334373740622218",
-      "hot_value": "76 万热度",
+      "hot_value": "96 万热度",
       "index": 14
     },
     {
       "title": "西山居新作运营官号被曝承认「尘白」已死，这一言论对相关游戏和公司意味着什么？",
       "url": "https://www.zhihu.com/question/2078932369210348908",
-      "hot_value": "76 万热度",
+      "hot_value": "96 万热度",
       "index": 15
     },
     {
-      "title": "郑钦文从排名跌到一百名开外到如今一路挺进美网八强，你认为她的状态算重回巅峰了吗？",
-      "url": "https://www.zhihu.com/question/2080561676160426269",
-      "hot_value": "76 万热度",
+      "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
+      "url": "https://www.zhihu.com/question/2080253796941415480",
+      "hot_value": "96 万热度",
       "index": 16
     },
     {
-      "title": "苏轼死在常州，为什么大老远葬河南？",
-      "url": "https://www.zhihu.com/question/622458271",
-      "hot_value": "74 万热度",
+      "title": "男子看望奶奶时因桥梁破损坠亡，9 天后奶奶也因受打击离世，死者父母获赔 120 万，从法律角度如何解读？",
+      "url": "https://www.zhihu.com/question/2080644657436782661",
+      "hot_value": "85 万热度",
       "index": 17
+    },
+    {
+      "title": "《大明王朝 1566》中沈一石有没有哪怕一点点机会可以全身而退呢？",
+      "url": "https://www.zhihu.com/question/2073703668080296920",
+      "hot_value": "82 万热度",
+      "index": 18
+    },
+    {
+      "title": "宁夏 7 人假意应聘，借居住条件差等理由「软暴力」向工方勒索共 16 起，最高被判七年，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2080721680796861543",
+      "hot_value": "81 万热度",
+      "index": 19
+    },
+    {
+      "title": "在大银幕观看《杀死比尔：血色全传》是种怎样的体验？对比分开看卷一卷二，这一终极导剪版有哪些全新发现？",
+      "url": "https://www.zhihu.com/question/2078896348430951825",
+      "hot_value": "74 万热度",
+      "index": 20
+    },
+    {
+      "title": "有哪些类似于「西藏民族大学在陕西咸阳」这种「A 区域机构在 B 区域，但仍然以 A 区域命名该机构」的例子？",
+      "url": "https://www.zhihu.com/question/2080843382520288386",
+      "hot_value": "71 万热度",
+      "index": 21
+    },
+    {
+      "title": "宇树科技发布视频称，首次实现人形机器人全自主搏击，这一进展意味着什么？",
+      "url": "https://www.zhihu.com/question/2080385733144076759",
+      "hot_value": "70 万热度",
+      "index": 22
+    },
+    {
+      "title": "韩国执政党党首在国会演讲时表示，只看美国的时代结束了，美已不再扮演对韩的「宽容大哥」，他为何这么说？",
+      "url": "https://www.zhihu.com/question/2080662753119938210",
+      "hot_value": "68 万热度",
+      "index": 23
     },
     {
       "title": "《西游记》为啥没按原著拍？",
       "url": "https://www.zhihu.com/question/563999565",
-      "hot_value": "72 万热度",
-      "index": 18
-    },
-    {
-      "title": "2026 女篮世界杯八强附加赛，中国女篮 75：72 战胜波多黎各女篮晋级八强，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2080985487842584354",
-      "hot_value": "72 万热度",
-      "index": 19
-    },
-    {
-      "title": "一种已经灭绝的古代动物，现在只能见到骨头，要怎么推断它吃什么？",
-      "url": "https://www.zhihu.com/question/1977792112658519070",
       "hot_value": "68 万热度",
-      "index": 20
-    },
-    {
-      "title": "苹果首款折叠屏 iPhone 爆料起售价 2199 美元，人民币近 1.5 万元，如何看待该定价？",
-      "url": "https://www.zhihu.com/question/2080987759133594987",
-      "hot_value": "67 万热度",
-      "index": 21
-    },
-    {
-      "title": "在一个企业里管理者认为培训不重要，这种观点是对还是错？",
-      "url": "https://www.zhihu.com/question/1895598997445525534",
-      "hot_value": "65 万热度",
-      "index": 22
-    },
-    {
-      "title": "失业妈妈借高利贷送 19 岁儿子进戒网瘾机构，为何家长会送孩子进此类机构？是否涉及对孩子暴力？",
-      "url": "https://www.zhihu.com/question/2077773595598657386",
-      "hot_value": "65 万热度",
-      "index": 23
-    },
-    {
-      "title": "《欢迎来龙餐馆》里杀死老扎妻女的是什么人？",
-      "url": "https://www.zhihu.com/question/2075221325711524252",
-      "hot_value": "65 万热度",
       "index": 24
     },
     {
-      "title": "努力在职场里到底有没有用？",
-      "url": "https://www.zhihu.com/question/2075327035166159677",
-      "hot_value": "64 万热度",
+      "title": "如何评价二路解说 Wayward 在解说 IG vs LGD 时质疑涉及「假赛」？二路整活的边界在哪里？",
+      "url": "https://www.zhihu.com/question/2081074583411737268",
+      "hot_value": "59 万热度",
       "index": 25
     },
     {
-      "title": "机器人需要先理解世界，还是先学会干活？",
-      "url": "https://www.zhihu.com/question/2072687881638733493",
-      "hot_value": "60 万热度",
+      "title": "孩子愿意主动做饭，为何不愿意主动学习？",
+      "url": "https://www.zhihu.com/question/1894700011192841314",
+      "hot_value": "59 万热度",
       "index": 26
     },
     {
-      "title": "1215 年大宪章签署时，南宋正在做什么？为什么同一个世纪，东西方走向了完全不同的制度路径？",
-      "url": "https://www.zhihu.com/question/2079219674428993542",
+      "title": "《一人之下》打到曲彤算是终极 Boss 了吗？",
+      "url": "https://www.zhihu.com/question/2079746012936139645",
       "hot_value": "59 万热度",
       "index": 27
     },
@@ -173,14 +173,14 @@
       "index": 28
     },
     {
-      "title": "「聪明人能认出聪明人」有无科学依据？",
-      "url": "https://www.zhihu.com/question/2078268834008585546",
+      "title": "西游记中天庭在天河养这么多水军干什么？",
+      "url": "https://www.zhihu.com/question/2048163966879281470",
       "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "弓鱼术是真的吗？",
-      "url": "https://www.zhihu.com/question/443536480",
+      "title": "直播间 2-8 万公然售卖高中入学名额，主播称「是特殊渠道」，学校称未和任何机构合作，具体情况如何？",
+      "url": "https://www.zhihu.com/question/2076387276335194955",
       "hot_value": "59 万热度",
       "index": 30
     }

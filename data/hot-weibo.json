@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-09-09T23:24:54Z",
+  "update_time": "2026-09-10T01:16:46Z",
   "count": 30,
   "list": [
     {
       "title": "iPhone18Pro价格",
       "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E4%BB%B7%E6%A0%BC%23",
-      "hot_value": "8003598",
+      "hot_value": "15720922",
       "index": 1
     },
     {
-      "title": "被取消资助女生愿换掉苹果手机",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%8F%96%E6%B6%88%E8%B5%84%E5%8A%A9%E5%A5%B3%E7%94%9F%E6%84%BF%E6%8D%A2%E6%8E%89%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%23",
-      "hot_value": "3082037",
+      "title": "教师节",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23",
+      "hot_value": "2165128",
       "index": 2
     },
     {
       "title": "一图速览2026年服贸会",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%882026%E5%B9%B4%E6%9C%8D%E8%B4%B8%E4%BC%9A%23",
-      "hot_value": "2588006",
+      "hot_value": "1720919",
       "index": 3
-    },
-    {
-      "title": "iPhoneDuo 屏下摄像头",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo+%E5%B1%8F%E4%B8%8B%E6%91%84%E5%83%8F%E5%A4%B4%23",
-      "hot_value": "2432130",
-      "index": 4
-    },
-    {
-      "title": "iPhone18Pro颜色",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E9%A2%9C%E8%89%B2%23",
-      "hot_value": "1246586",
-      "index": 5
-    },
-    {
-      "title": "郑钦文美网1比2莱巴金娜",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%911%E6%AF%942%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%23",
-      "hot_value": "758748",
-      "index": 6
-    },
-    {
-      "title": "苹果发布会",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23",
-      "hot_value": "685328",
-      "index": 7
-    },
-    {
-      "title": "教师节",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%23",
-      "hot_value": "577164",
-      "index": 8
-    },
-    {
-      "title": "刘恋想问早春晴朗作者自己是不是原型",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%8B%E6%83%B3%E9%97%AE%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E4%BD%9C%E8%80%85%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8E%9F%E5%9E%8B%23",
-      "hot_value": "216334",
-      "index": 9
-    },
-    {
-      "title": "早春晴朗栾念抢狗又好笑又好哭",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E6%A0%BE%E5%BF%B5%E6%8A%A2%E7%8B%97%E5%8F%88%E5%A5%BD%E7%AC%91%E5%8F%88%E5%A5%BD%E5%93%AD%23",
-      "hot_value": "215675",
-      "index": 10
-    },
-    {
-      "title": "抖音礼物 擦边",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E7%A4%BC%E7%89%A9+%E6%93%A6%E8%BE%B9%23",
-      "hot_value": "215193",
-      "index": 11
-    },
-    {
-      "title": "苹果回应iPhoneDuo是否有折痕",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhoneDuo%E6%98%AF%E5%90%A6%E6%9C%89%E6%8A%98%E7%97%95%23",
-      "hot_value": "213811",
-      "index": 12
-    },
-    {
-      "title": "郑钦文美网止步八强",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA%23",
-      "hot_value": "213033",
-      "index": 13
-    },
-    {
-      "title": "王凯祖峰眼神戏能杀人",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%87%AF%E7%A5%96%E5%B3%B0%E7%9C%BC%E7%A5%9E%E6%88%8F%E8%83%BD%E6%9D%80%E4%BA%BA%23",
-      "hot_value": "211731",
-      "index": 14
     },
     {
       "title": "iPhoneDuo过渡动画 完美",
       "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E8%BF%87%E6%B8%A1%E5%8A%A8%E7%94%BB+%E5%AE%8C%E7%BE%8E%23",
-      "hot_value": "210885",
-      "index": 15
-    },
-    {
-      "title": "iPhoneDuo价格",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E4%BB%B7%E6%A0%BC%23",
-      "hot_value": "209680",
-      "index": 16
+      "hot_value": "1522736",
+      "index": 4
     },
     {
       "title": "AirPods5 便宜",
       "url": "https://s.weibo.com/weibo?q=%23AirPods5+%E4%BE%BF%E5%AE%9C%23",
-      "hot_value": "209241",
-      "index": 17
+      "hot_value": "1418170",
+      "index": 5
     },
     {
-      "title": "抖音擦边礼物被下架",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E6%93%A6%E8%BE%B9%E7%A4%BC%E7%89%A9%E8%A2%AB%E4%B8%8B%E6%9E%B6%23",
-      "hot_value": "208537",
-      "index": 18
+      "title": "郑钦文美网止步八强",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA%23",
+      "hot_value": "539699",
+      "index": 6
     },
     {
-      "title": "宁德时代市值蒸发超5200亿",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%855200%E4%BA%BF%23",
-      "hot_value": "207342",
-      "index": 19
+      "title": "刘恋想问早春晴朗作者自己是不是原型",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%8B%E6%83%B3%E9%97%AE%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E4%BD%9C%E8%80%85%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8E%9F%E5%9E%8B%23",
+      "hot_value": "506608",
+      "index": 7
     },
     {
-      "title": "Series12 Ultra4",
-      "url": "https://s.weibo.com/weibo?q=%23Series12+Ultra4%23",
-      "hot_value": "206189",
-      "index": 20
+      "title": "郑钦文美网1比2莱巴金娜",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%911%E6%AF%942%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%23",
+      "hot_value": "450108",
+      "index": 8
     },
     {
-      "title": "郑钦文回应无缘美网四强",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%9B%9E%E5%BA%94%E6%97%A0%E7%BC%98%E7%BE%8E%E7%BD%91%E5%9B%9B%E5%BC%BA%23",
-      "hot_value": "205007",
-      "index": 21
+      "title": "宁德时代已报警",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%8A%A5%E8%AD%A6%23",
+      "hot_value": "391885",
+      "index": 9
     },
     {
-      "title": "iPhone Duo交互获赞",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone+Duo%E4%BA%A4%E4%BA%92%E8%8E%B7%E8%B5%9E%23",
-      "hot_value": "204179",
-      "index": 22
+      "title": "心动的信号",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23",
+      "hot_value": "391713",
+      "index": 10
+    },
+    {
+      "title": "宝格丽越南公关回应刘亦菲裁掉胡玉荷",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%B6%8A%E5%8D%97%E5%85%AC%E5%85%B3%E5%9B%9E%E5%BA%94%E5%88%98%E4%BA%A6%E8%8F%B2%E8%A3%81%E6%8E%89%E8%83%A1%E7%8E%89%E8%8D%B7%23",
+      "hot_value": "389326",
+      "index": 11
+    },
+    {
+      "title": "苹果下架iPhone17Pro",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%B8%8B%E6%9E%B6iPhone17Pro%23",
+      "hot_value": "388225",
+      "index": 12
+    },
+    {
+      "title": "越南女星回应合照被刘亦菲裁掉了",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E5%A5%B3%E6%98%9F%E5%9B%9E%E5%BA%94%E5%90%88%E7%85%A7%E8%A2%AB%E5%88%98%E4%BA%A6%E8%8F%B2%E8%A3%81%E6%8E%89%E4%BA%86%23",
+      "hot_value": "385771",
+      "index": 13
+    },
+    {
+      "title": "何同学上手iPhone18Pro",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E4%B8%8A%E6%89%8BiPhone18Pro%23",
+      "hot_value": "384229",
+      "index": 14
     },
     {
       "title": "无折痕",
       "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%8A%98%E7%97%95%23",
-      "hot_value": "203571",
+      "hot_value": "381721",
+      "index": 15
+    },
+    {
+      "title": "黄金白银大跌",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C%23",
+      "hot_value": "379565",
+      "index": 16
+    },
+    {
+      "title": "井柏然孙千沙发吻花絮",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E6%B2%99%E5%8F%91%E5%90%BB%E8%8A%B1%E7%B5%AE%23",
+      "hot_value": "377495",
+      "index": 17
+    },
+    {
+      "title": "Series12 Ultra4",
+      "url": "https://s.weibo.com/weibo?q=%23Series12+Ultra4%23",
+      "hot_value": "376291",
+      "index": 18
+    },
+    {
+      "title": "iPhone18Pro天猫首发货量足",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%A4%A9%E7%8C%AB%E9%A6%96%E5%8F%91%E8%B4%A7%E9%87%8F%E8%B6%B3%23",
+      "hot_value": "375514",
+      "index": 19
+    },
+    {
+      "title": "意大利VS澳大利亚女篮",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9VS%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%A5%B3%E7%AF%AE%23",
+      "hot_value": "372626",
+      "index": 20
+    },
+    {
+      "title": "iPhoneDuo华为折叠屏对比",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E5%8D%8E%E4%B8%BA%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%AF%B9%E6%AF%94%23",
+      "hot_value": "371604",
+      "index": 21
+    },
+    {
+      "title": "日本暴发梅毒疫情",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9A%B4%E5%8F%91%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85%23",
+      "hot_value": "369237",
+      "index": 22
+    },
+    {
+      "title": "詹俊谈郑钦文止步8强",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E4%BF%8A%E8%B0%88%E9%83%91%E9%92%A6%E6%96%87%E6%AD%A2%E6%AD%A58%E5%BC%BA%23",
+      "hot_value": "366714",
       "index": 23
+    },
+    {
+      "title": "刘恋曾是奥美创意总监",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%8B%E6%9B%BE%E6%98%AF%E5%A5%A5%E7%BE%8E%E5%88%9B%E6%84%8F%E6%80%BB%E7%9B%91%23",
+      "hot_value": "366288",
+      "index": 24
+    },
+    {
+      "title": "杨洋绞尽脑汁的高情商回复",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%BB%9E%E5%B0%BD%E8%84%91%E6%B1%81%E7%9A%84%E9%AB%98%E6%83%85%E5%95%86%E5%9B%9E%E5%A4%8D%23",
+      "hot_value": "363847",
+      "index": 25
+    },
+    {
+      "title": "三星嘲讽苹果iPhoneDuo",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo%23",
+      "hot_value": "362472",
+      "index": 26
     },
     {
       "title": "爱情公寓超长iPhone18",
       "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E8%B6%85%E9%95%BFiPhone18%23",
-      "hot_value": "202683",
-      "index": 24
-    },
-    {
-      "title": "中国女篮 有惊无险进八强",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE+%E6%9C%89%E6%83%8A%E6%97%A0%E9%99%A9%E8%BF%9B%E5%85%AB%E5%BC%BA%23",
-      "hot_value": "201566",
-      "index": 25
-    },
-    {
-      "title": "康康爷爷睡梦中离世",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%BA%B7%E7%88%B7%E7%88%B7%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%A6%BB%E4%B8%96%23",
-      "hot_value": "200448",
-      "index": 26
-    },
-    {
-      "title": "又要低人一等了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%88%E8%A6%81%E4%BD%8E%E4%BA%BA%E4%B8%80%E7%AD%89%E4%BA%86%23",
-      "hot_value": "199293",
+      "hot_value": "359701",
       "index": 27
     },
     {
-      "title": "早春晴朗好大方的花絮",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%A5%BD%E5%A4%A7%E6%96%B9%E7%9A%84%E8%8A%B1%E7%B5%AE%23",
-      "hot_value": "198408",
+      "title": "栾念让卢克跟尚之桃走的原因",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BE%E5%BF%B5%E8%AE%A9%E5%8D%A2%E5%85%8B%E8%B7%9F%E5%B0%9A%E4%B9%8B%E6%A1%83%E8%B5%B0%E7%9A%84%E5%8E%9F%E5%9B%A0%23",
+      "hot_value": "357983",
       "index": 28
     },
     {
-      "title": "iPhone18上手评测",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E4%B8%8A%E6%89%8B%E8%AF%84%E6%B5%8B%23",
-      "hot_value": "197555",
+      "title": "iPhoneDuo 屏下摄像头",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo+%E5%B1%8F%E4%B8%8B%E6%91%84%E5%83%8F%E5%A4%B4%23",
+      "hot_value": "356968",
       "index": 29
     },
     {
       "title": "在野外看到马刀树尽快远离",
       "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%87%8E%E5%A4%96%E7%9C%8B%E5%88%B0%E9%A9%AC%E5%88%80%E6%A0%91%E5%B0%BD%E5%BF%AB%E8%BF%9C%E7%A6%BB%23",
-      "hot_value": "196360",
+      "hot_value": "355138",
       "index": 30
     }
   ]
