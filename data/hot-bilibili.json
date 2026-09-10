@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-10T01:16:46Z",
+  "update_time": "2026-09-10T06:17:58Z",
   "count": 30,
   "list": [
     {
-      "title": "iPhone Duo 苹果折叠屏上手：超强折痕控制 + 纳米纹理屏",
-      "url": "https://www.bilibili.com/video/BV1oFY868ETc",
-      "hot_value": "1033269播放",
+      "title": "刘慈欣原著授权 |《流浪地球：望日》首支预告片",
+      "url": "https://www.bilibili.com/video/BV1tSYx66EvP",
+      "hot_value": "566872播放",
       "index": 1
     },
     {
-      "title": "「小白」iPhone Duo真机体验：苹果折叠终于来了！",
-      "url": "https://www.bilibili.com/video/BV1LJYb6ZE1m",
-      "hot_value": "369153播放",
+      "title": "《崩坏：星穹铁道》砂金•戏浪角色PV——「独家爆料」",
+      "url": "https://www.bilibili.com/video/BV1yjYx6AEp7",
+      "hot_value": "312200播放",
       "index": 2
-    },
-    {
-      "title": "《未眠野》首曝PV | 万物都在回应，世界没有答案",
-      "url": "https://www.bilibili.com/video/BV18gtJ6LECq",
-      "hot_value": "9423783播放",
-      "index": 3
-    },
-    {
-      "title": "「小白」苹果iPhone18 Pro/Max体验：尽善尽美？",
-      "url": "https://www.bilibili.com/video/BV13hYb6nEhx",
-      "hot_value": "291711播放",
-      "index": 4
-    },
-    {
-      "title": "两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等",
-      "url": "https://www.bilibili.com/video/BV1K1Yh6UEHC",
-      "hot_value": "319617播放",
-      "index": 5
-    },
-    {
-      "title": "这才是iphone折叠机啊！",
-      "url": "https://www.bilibili.com/video/BV1a2Yt6nEYH",
-      "hot_value": "339400播放",
-      "index": 6
-    },
-    {
-      "title": "⚡️ 嘉 豪 の 小 曲 ⚡️",
-      "url": "https://www.bilibili.com/video/BV1KeY466Ekf",
-      "hot_value": "748474播放",
-      "index": 7
-    },
-    {
-      "title": "开学这么爽怎么不早说？",
-      "url": "https://www.bilibili.com/video/BV1dkbA6GESu",
-      "hot_value": "776012播放",
-      "index": 8
-    },
-    {
-      "title": "花200000买个金丝楠树瘤，放家里藏了10年，锯开一看震惊全场",
-      "url": "https://www.bilibili.com/video/BV152b56uEgF",
-      "hot_value": "1874983播放",
-      "index": 9
     },
     {
       "title": "我 来 同 你 玩  丨 二洲年快乐",
       "url": "https://www.bilibili.com/video/BV1eqYx6UE9V",
-      "hot_value": "3210808播放",
+      "hot_value": "4389839播放",
+      "index": 3
+    },
+    {
+      "title": "【影视飓风】iPhone Duo折叠屏真机上手",
+      "url": "https://www.bilibili.com/video/BV12PYh62E3c",
+      "hot_value": "973218播放",
+      "index": 4
+    },
+    {
+      "title": "iPhone Duo 苹果折叠屏上手：超强折痕控制 + 纳米纹理屏",
+      "url": "https://www.bilibili.com/video/BV1oFY868ETc",
+      "hot_value": "1993761播放",
+      "index": 5
+    },
+    {
+      "title": "热烈欢迎欧阳娜娜！我们的第二位00后嘉宾～看看喜欢搞婚庆的娜娜带了什么可爱（但没用）的小东西呢？",
+      "url": "https://www.bilibili.com/video/BV1YkYx6LEun",
+      "hot_value": "149516播放",
+      "index": 6
+    },
+    {
+      "title": "动态视频 | 折叠屏iPhone Duo、18 Pro系列现场上手！",
+      "url": "https://www.bilibili.com/video/BV1jcYa6BEDm",
+      "hot_value": "510190播放",
+      "index": 7
+    },
+    {
+      "title": "「小白」iPhone Duo真机体验：苹果折叠终于来了！",
+      "url": "https://www.bilibili.com/video/BV1LJYb6ZE1m",
+      "hot_value": "744358播放",
+      "index": 8
+    },
+    {
+      "title": "两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等",
+      "url": "https://www.bilibili.com/video/BV1K1Yh6UEHC",
+      "hot_value": "716886播放",
+      "index": 9
+    },
+    {
+      "title": "⚡️ 嘉 豪 の 小 曲 ⚡️",
+      "url": "https://www.bilibili.com/video/BV1KeY466Ekf",
+      "hot_value": "1057271播放",
       "index": 10
     },
     {
-      "title": "假如“开学需带物品”来面试",
-      "url": "https://www.bilibili.com/video/BV1S9t66eEFk",
-      "hot_value": "457391播放",
+      "title": "这才是iphone折叠机啊！",
+      "url": "https://www.bilibili.com/video/BV1a2Yt6nEYH",
+      "hot_value": "625634播放",
       "index": 11
-    },
-    {
-      "title": "iPhone Duo全球首发上手",
-      "url": "https://www.bilibili.com/video/BV1NCYb6GE6J",
-      "hot_value": "220132播放",
-      "index": 12
-    },
-    {
-      "title": "这个全球最大的游戏展上，国产游戏已经彻底疯狂了！",
-      "url": "https://www.bilibili.com/video/BV1BebG6zEBW",
-      "hot_value": "962811播放",
-      "index": 13
-    },
-    {
-      "title": "【教师节TV】可恶……这么燃的考前动员？！",
-      "url": "https://www.bilibili.com/video/BV1AcY46PEYE",
-      "hot_value": "442166播放",
-      "index": 14
-    },
-    {
-      "title": "帮精神小妹过一场生日，送给她一束特别的花",
-      "url": "https://www.bilibili.com/video/BV1aSYt6JEnd",
-      "hot_value": "315105播放",
-      "index": 15
-    },
-    {
-      "title": "德国政坛大地震，选择党，前进四！",
-      "url": "https://www.bilibili.com/video/BV1veYx6DESi",
-      "hot_value": "679141播放",
-      "index": 16
-    },
-    {
-      "title": "iPhone Duo上手体验！折痕控制太离谱了",
-      "url": "https://www.bilibili.com/video/BV1FDYb6qEQ5",
-      "hot_value": "415800播放",
-      "index": 17
-    },
-    {
-      "title": "开学舍友把宿舍改造成了海洋馆",
-      "url": "https://www.bilibili.com/video/BV13abK62ECA",
-      "hot_value": "1195162播放",
-      "index": 18
-    },
-    {
-      "title": "会卖萌的…太空歌剧??  - 新世代科幻RPG大作【EXODUS】最新试玩揭晓~ (Leya蕾雅)",
-      "url": "https://www.bilibili.com/video/BV1QWtz6TEjL",
-      "hot_value": "473083播放",
-      "index": 19
     },
     {
       "title": "《物业费最贵の一集》",
       "url": "https://www.bilibili.com/video/BV1xsYn6pEw4",
-      "hot_value": "879947播放",
+      "hot_value": "1224010播放",
+      "index": 12
+    },
+    {
+      "title": "一根铅笔300块？如今的文具让我大开眼界...",
+      "url": "https://www.bilibili.com/video/BV16hb56JEeU",
+      "hot_value": "103690播放",
+      "index": 13
+    },
+    {
+      "title": "性格好到无语的猫（第二弹）",
+      "url": "https://www.bilibili.com/video/BV1iiYx6JEhL",
+      "hot_value": "296481播放",
+      "index": 14
+    },
+    {
+      "title": "花200000买个金丝楠树瘤，放家里藏了10年，锯开一看震惊全场",
+      "url": "https://www.bilibili.com/video/BV152b56uEgF",
+      "hot_value": "2348288播放",
+      "index": 15
+    },
+    {
+      "title": "开学舍友把宿舍改造成了海洋馆",
+      "url": "https://www.bilibili.com/video/BV13abK62ECA",
+      "hot_value": "1529015播放",
+      "index": 16
+    },
+    {
+      "title": "「小白」苹果iPhone18 Pro/Max体验：尽善尽美？",
+      "url": "https://www.bilibili.com/video/BV13hYb6nEhx",
+      "hot_value": "577456播放",
+      "index": 17
+    },
+    {
+      "title": "【教师节TV】可恶……这么燃的考前动员？！",
+      "url": "https://www.bilibili.com/video/BV1AcY46PEYE",
+      "hot_value": "631870播放",
+      "index": 18
+    },
+    {
+      "title": "《在山羊身上感受不到的爽感》",
+      "url": "https://www.bilibili.com/video/BV1UuYt61EZc",
+      "hot_value": "380797播放",
+      "index": 19
+    },
+    {
+      "title": "《未眠野》首曝PV | 万物都在回应，世界没有答案",
+      "url": "https://www.bilibili.com/video/BV18gtJ6LECq",
+      "hot_value": "9808002播放",
       "index": 20
     },
     {
-      "title": "【逆天中配】神人不行 第一集",
-      "url": "https://www.bilibili.com/video/BV1rmbV6UELD",
-      "hot_value": "468685播放",
+      "title": "帮精神小妹过一场生日，送给她一束特别的花",
+      "url": "https://www.bilibili.com/video/BV1aSYt6JEnd",
+      "hot_value": "473090播放",
       "index": 21
     },
     {
-      "title": "第三集上线！《新数码宝贝·全面战争》【15分钟管饱！】",
-      "url": "https://www.bilibili.com/video/BV19eYH6NEsC",
-      "hot_value": "773916播放",
+      "title": "德国政坛大地震，选择党，前进四！",
+      "url": "https://www.bilibili.com/video/BV1veYx6DESi",
+      "hot_value": "867772播放",
       "index": 22
-    },
-    {
-      "title": "跑完沈阳马拉松挑战“全家福肘子饭”，一小时吃完奖金888元，能吃饱吗",
-      "url": "https://www.bilibili.com/video/BV1JXbV6jEA3",
-      "hot_value": "1048436播放",
-      "index": 23
-    },
-    {
-      "title": "资本弃子包贝尔，彻底塌房",
-      "url": "https://www.bilibili.com/video/BV16mbV6UE1p",
-      "hot_value": "698566播放",
-      "index": 24
-    },
-    {
-      "title": "⚡《初音大战奥特曼》传统戏曲⚡【bilibilionly同人扶持计划】",
-      "url": "https://www.bilibili.com/video/BV1QUbx6iE6h",
-      "hot_value": "1301410播放",
-      "index": 25
     },
     {
       "title": "早期视频，我的世界模拟治疗",
       "url": "https://www.bilibili.com/video/BV17uY46oESF",
-      "hot_value": "302068播放",
+      "hot_value": "434810播放",
+      "index": 23
+    },
+    {
+      "title": "开学这么爽怎么不早说？",
+      "url": "https://www.bilibili.com/video/BV1dkbA6GESu",
+      "hot_value": "979790播放",
+      "index": 24
+    },
+    {
+      "title": "震惊！给蜜蜂喂火龙果！竟然真的能酿出来“紫色的蜜”但是用的是白糖水，真的不是在做假蜂蜜吗？养蜂人为啥要给蜜蜂喂白糖？",
+      "url": "https://www.bilibili.com/video/BV1J5Yb6wE4B",
+      "hot_value": "339090播放",
+      "index": 25
+    },
+    {
+      "title": "[杜比]iPhone Duo上手，这个折痕控制真好啊",
+      "url": "https://www.bilibili.com/video/BV1baYb6SEGy",
+      "hot_value": "218258播放",
       "index": 26
     },
     {
-      "title": "⚡️区区心魔 敢乱我道心⚡️【bilibilionly同人扶持计划】",
-      "url": "https://www.bilibili.com/video/BV149bG6dE5r",
-      "hot_value": "769394播放",
+      "title": "假如“开学需带物品”来面试",
+      "url": "https://www.bilibili.com/video/BV1S9t66eEFk",
+      "hot_value": "613198播放",
       "index": 27
     },
     {
-      "title": "不是哥们儿，咱宿舍还有正常人嘛？",
-      "url": "https://www.bilibili.com/video/BV1z7YJ6MEA9",
-      "hot_value": "728989播放",
+      "title": "下一个故事再见",
+      "url": "https://www.bilibili.com/video/BV1QCYx6yERb",
+      "hot_value": "758704播放",
       "index": 28
     },
     {
-      "title": "<“世界顶级杀手”正在带妹>第二集",
-      "url": "https://www.bilibili.com/video/BV1o8YW61ECN",
-      "hot_value": "245649播放",
+      "title": "也算是太岁头上动了把土！",
+      "url": "https://www.bilibili.com/video/BV1LCb563EUG",
+      "hot_value": "1241305播放",
       "index": 29
     },
     {
-      "title": "恶人还需恶人磨！",
-      "url": "https://www.bilibili.com/video/BV1SGb56aEuU",
-      "hot_value": "954192播放",
+      "title": "iPhone 18 Pro 长这样！你更喜欢冰川蓝还是勃艮第红？",
+      "url": "https://www.bilibili.com/video/BV1gaYb6SEpm",
+      "hot_value": "395669播放",
       "index": 30
     }
   ]
