@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-10T23:18:38Z",
+  "update_time": "2026-09-11T01:18:33Z",
   "count": 30,
   "list": [
     {
-      "title": "女子旧手机号二次放号后支付宝被哈啰盗刷 6551 元，平台仅补 200 元，这合理吗？暴露了哪些问题？",
-      "url": "https://www.zhihu.com/question/2081001656066504241",
-      "hot_value": "316 万热度",
+      "title": "如何评价兰州大学在中雨天气拉练新生？",
+      "url": "https://www.zhihu.com/question/2080941715737800954",
+      "hot_value": "1441 万热度",
       "index": 1
     },
     {
       "title": "山东青岛北海造船厂一货轮火灾事故已造成 25 人遇难，目前情况如何？",
       "url": "https://www.zhihu.com/question/2081482603501183466",
-      "hot_value": "283 万热度",
+      "hot_value": "569 万热度",
       "index": 2
     },
     {
-      "title": "数学已经被 AI 彻底革命了么？",
-      "url": "https://www.zhihu.com/question/2081004982103270003",
-      "hot_value": "185 万热度",
+      "title": "微信被曝出「史诗级漏洞」，打个语音即可劫持账号，具体是怎么回事？对用户信息安全影响有多大？",
+      "url": "https://www.zhihu.com/question/2081069710037274809",
+      "hot_value": "431 万热度",
       "index": 3
     },
     {
-      "title": "我不明白中国网球一姐郑钦文，为啥前段时间状态低迷，这次美网她就如换了一个人似的？",
-      "url": "https://www.zhihu.com/question/2080059745206125016",
-      "hot_value": "113 万热度",
+      "title": "女子旧手机号二次放号后支付宝被哈啰盗刷 6551 元，平台仅补 200 元，这合理吗？暴露了哪些问题？",
+      "url": "https://www.zhihu.com/question/2081001656066504241",
+      "hot_value": "248 万热度",
       "index": 4
     },
     {
-      "title": "如何看待大二学生因用名牌手机被取消资助后威胁要曝光，现愿意更换手机、到资助者亲戚家的店里打工挣钱？",
-      "url": "https://www.zhihu.com/question/2080768309436458272",
-      "hot_value": "111 万热度",
+      "title": "官方回应「男子称停止资助后遭受助学生质问催捐」，经查当地教育机构没有姚先生这个人，该争议会有反转吗？",
+      "url": "https://www.zhihu.com/question/2081453493118882854",
+      "hot_value": "195 万热度",
       "index": 5
     },
     {
-      "title": "我看《明朝那些事儿》，发现宦官这个字眼尤为频繁，但唯独少了外戚，请问外戚去哪里了？",
-      "url": "https://www.zhihu.com/question/2066992982801306585",
-      "hot_value": "110 万热度",
+      "title": "网传《三体 2》蒋奇明将饰演罗辑，是真的吗？你对这一选角有何期待？",
+      "url": "https://www.zhihu.com/question/2081389689781608577",
+      "hot_value": "174 万热度",
       "index": 6
     },
     {
-      "title": "既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？",
-      "url": "https://www.zhihu.com/question/2076970531870466744",
-      "hot_value": "93 万热度",
+      "title": "武汉一小学学生不订奶就后排罚站，教育局称系误解，孩子刚好去后面储物柜拿水，能打消大众质疑吗？",
+      "url": "https://www.zhihu.com/question/2081493474134549265",
+      "hot_value": "169 万热度",
       "index": 7
     },
     {
       "title": "2026 女篮世界杯 1/4 决赛，中国女篮 61 比 90 不敌法国女篮，止步八强，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2081332911245096714",
-      "hot_value": "92 万热度",
+      "hot_value": "159 万热度",
       "index": 8
     },
     {
-      "title": "网友吐槽各大地方台充斥着虚假卖药广告，是普遍现象吗？电视台广告审查机制是怎样的，为何屡禁不止？",
-      "url": "https://www.zhihu.com/question/2081025720684209695",
-      "hot_value": "91 万热度",
+      "title": "九尾妖狐三妖完成了女娲娘娘交给的任务却被姜子牙斩首了，死的冤不冤？",
+      "url": "https://www.zhihu.com/question/2079809515994857885",
+      "hot_value": "150 万热度",
       "index": 9
     },
     {
-      "title": "怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？",
-      "url": "https://www.zhihu.com/question/2080336745191817631",
-      "hot_value": "90 万热度",
+      "title": "GPT-6 Astra 会给具身行业带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2081165724622513410",
+      "hot_value": "135 万热度",
       "index": 10
     },
     {
-      "title": "酒店为什么会有三小时钟点房？",
-      "url": "https://www.zhihu.com/question/351651719",
-      "hot_value": "83 万热度",
+      "title": "为什么修仙小说生儿子是雷点呢？",
+      "url": "https://www.zhihu.com/question/11879963909",
+      "hot_value": "130 万热度",
       "index": 11
     },
     {
-      "title": "为什么武侠游戏越来越少出现蜀山这个概念了？",
-      "url": "https://www.zhihu.com/question/2071713815440446524",
-      "hot_value": "74 万热度",
+      "title": "我看《明朝那些事儿》，发现宦官这个字眼尤为频繁，但唯独少了外戚，请问外戚去哪里了？",
+      "url": "https://www.zhihu.com/question/2066992982801306585",
+      "hot_value": "123 万热度",
       "index": 12
     },
     {
       "title": "新加坡印度裔占高级公务员 35%，远超人口占比 9%，这背后可能有哪些原因？",
       "url": "https://www.zhihu.com/question/2080661249017246181",
-      "hot_value": "67 万热度",
+      "hot_value": "120 万热度",
       "index": 13
     },
     {
-      "title": "成绩平平的高中生却喜欢理论物理提前学大物被遭父母老师反对同学嘲笑，该坚持下去吗？",
-      "url": "https://www.zhihu.com/question/2080442584900678793",
-      "hot_value": "60 万热度",
+      "title": "如何看待日本梅毒患者数量居高不下，受辉瑞影响目前青霉素短缺？分析称这与社会「三个一」有关，如何理解？",
+      "url": "https://www.zhihu.com/question/2081325661914929014",
+      "hot_value": "119 万热度",
       "index": 14
     },
     {
-      "title": "订阅了 Kimi 的 199 套餐，编程是用 Kimi code 好还是 claude code 好呢？",
-      "url": "https://www.zhihu.com/question/2042306734392431967",
-      "hot_value": "60 万热度",
+      "title": "人类史上首次老人数量超过儿童，65 岁以上人口占比‌10.5%‌，5 岁以下不足 10%，该数据意味着什么？",
+      "url": "https://www.zhihu.com/question/2081393488353040379",
+      "hot_value": "117 万热度",
       "index": 15
     },
     {
       "title": "「员工裸奔拉屎事件」事发储能巨头瑞浦兰钧，公司称因离职手续引发，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2081467325547373034",
-      "hot_value": "60 万热度",
+      "hot_value": "116 万热度",
       "index": 16
+    },
+    {
+      "title": "为何王者荣耀世界的美术被质疑审美过时，而内部的上千精英大佬却未察觉？",
+      "url": "https://www.zhihu.com/question/2032386854570436068",
+      "hot_value": "115 万热度",
+      "index": 17
+    },
+    {
+      "title": "奥运冠军刘翔买断事业编制拿 49.4 万，这个补偿标准算什么水平？",
+      "url": "https://www.zhihu.com/question/2081321926769762390",
+      "hot_value": "115 万热度",
+      "index": 18
+    },
+    {
+      "title": "多地精神病医院更名为类似「第 X 人民医院」 的说法，有何积极意义？因病耻感耽误就医的影响有多大？",
+      "url": "https://www.zhihu.com/question/2079660490943371058",
+      "hot_value": "114 万热度",
+      "index": 19
+    },
+    {
+      "title": "国产游戏《未眠野》首曝 PV 展现物理交互，高度类似《塞尔达》，它能脱颖而出吗？",
+      "url": "https://www.zhihu.com/question/2080985443395440657",
+      "hot_value": "108 万热度",
+      "index": 20
+    },
+    {
+      "title": "怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩「机器垃圾代码」？",
+      "url": "https://www.zhihu.com/question/2080336745191817631",
+      "hot_value": "103 万热度",
+      "index": 21
+    },
+    {
+      "title": "既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？",
+      "url": "https://www.zhihu.com/question/2076970531870466744",
+      "hot_value": "91 万热度",
+      "index": 22
     },
     {
       "title": "iPhone Duo 靠雾面纳米玻璃降低折痕可见度，怎样看待这种方式？要完全消除折叠痕还有哪些难点？",
       "url": "https://www.zhihu.com/question/2081316147840771483",
-      "hot_value": "60 万热度",
-      "index": 17
+      "hot_value": "86 万热度",
+      "index": 23
+    },
+    {
+      "title": "我不明白中国网球一姐郑钦文，为啥前段时间状态低迷，这次美网她就如换了一个人似的？",
+      "url": "https://www.zhihu.com/question/2080059745206125016",
+      "hot_value": "82 万热度",
+      "index": 24
+    },
+    {
+      "title": "酒店为什么会有三小时钟点房？",
+      "url": "https://www.zhihu.com/question/351651719",
+      "hot_value": "82 万热度",
+      "index": 25
+    },
+    {
+      "title": "当有人看不起你时，你该怎么办?",
+      "url": "https://www.zhihu.com/question/1903746972034274841",
+      "hot_value": "78 万热度",
+      "index": 26
     },
     {
       "title": "浦东机场出租车司机以「车坏了」、「提前付钱」为由甩客，乱象背后原因是什么？",
       "url": "https://www.zhihu.com/question/2079910901730300330",
-      "hot_value": "60 万热度",
-      "index": 18
+      "hot_value": "77 万热度",
+      "index": 27
     },
     {
-      "title": "江苏、湖南等多地鼓励高校租购存量商品房，透露了什么信号？有助于化解房地产库存吗？",
-      "url": "https://www.zhihu.com/question/2081022495277241463",
-      "hot_value": "59 万热度",
-      "index": 19
-    },
-    {
-      "title": "官方回应「男子称停止资助后遭受助学生质问催捐」，经查当地教育机构没有姚先生这个人，该争议会有反转吗？",
-      "url": "https://www.zhihu.com/question/2081453493118882854",
-      "hot_value": "59 万热度",
-      "index": 20
+      "title": "苹果多款老机型涨价，iPhone 17 涨价 800 元，为什么新机发布，旧款不降价反而涨价？",
+      "url": "https://www.zhihu.com/question/2081313765153420462",
+      "hot_value": "77 万热度",
+      "index": 28
     },
     {
       "title": "如何看待三星嘲讽苹果 iPhoneDuo，称其「热剩饭」？苹果这个时候为什么一定要推出折叠屏手机？",
       "url": "https://www.zhihu.com/question/2081320443747594654",
-      "hot_value": "59 万热度",
-      "index": 21
-    },
-    {
-      "title": "如何评价动画《BanG Dream! YUME∞MITA》第 13 集?",
-      "url": "https://www.zhihu.com/question/2081158275156940365",
-      "hot_value": "59 万热度",
-      "index": 22
-    },
-    {
-      "title": "为什么游戏里的水、火和烟雾这么难做？",
-      "url": "https://www.zhihu.com/question/2078550836402205944",
-      "hot_value": "59 万热度",
-      "index": 23
-    },
-    {
-      "title": "为什么阴天的时候人的情绪更容易低落？光照变化会通过怎样的生物通路，影响我们大脑的情绪状态？",
-      "url": "https://www.zhihu.com/question/2079260262738221038",
-      "hot_value": "59 万热度",
-      "index": 24
-    },
-    {
-      "title": "你会希望孩子反驳你的意见吗，为什么？",
-      "url": "https://www.zhihu.com/question/1924490442285749398",
-      "hot_value": "59 万热度",
-      "index": 25
-    },
-    {
-      "title": "读什么书才能认清最真实的现实世界？",
-      "url": "https://www.zhihu.com/question/515064795",
-      "hot_value": "59 万热度",
-      "index": 26
-    },
-    {
-      "title": "同事表面上对你非常热情非常好，背后总说你坏话，怎么办？",
-      "url": "https://www.zhihu.com/question/2053016748748814045",
-      "hot_value": "59 万热度",
-      "index": 27
-    },
-    {
-      "title": "很多学校接水 / 热水需要收费合理吗？一壶 1 元左右算不算定价偏高？学费、住宿费不包含这些基本生活需要吗？",
-      "url": "https://www.zhihu.com/question/2080318253021098021",
-      "hot_value": "59 万热度",
-      "index": 28
-    },
-    {
-      "title": "当「多线程工作」成为一个硬性要求时，职场新人该如何应对？有什么处理技巧吗？",
-      "url": "https://www.zhihu.com/question/2078191732055920846",
-      "hot_value": "59 万热度",
+      "hot_value": "77 万热度",
       "index": 29
     },
     {
-      "title": "为什么和宠物说话会感到快乐？",
-      "url": "https://www.zhihu.com/question/15021848795",
-      "hot_value": "59 万热度",
+      "title": "何为最好的人生状态？",
+      "url": "https://www.zhihu.com/question/2076463340554020299",
+      "hot_value": "63 万热度",
       "index": 30
     }
   ]
