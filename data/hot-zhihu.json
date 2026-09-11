@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-11T06:20:59Z",
+  "update_time": "2026-09-11T11:39:23Z",
   "count": 30,
   "list": [
     {
-      "title": "网友称荣耀魔法画报难以退出致父亲无法拨打 120 ，母亲错过最佳抢救时间死亡，具体是什么情况？",
-      "url": "https://www.zhihu.com/question/2081520300924069807",
-      "hot_value": "4240 万热度",
-      "index": 1
-    },
-    {
-      "title": "武汉一小学学生不订奶就后排罚站，教育局称系误解，孩子刚好去后面储物柜拿水，能打消大众质疑吗？",
-      "url": "https://www.zhihu.com/question/2081493474134549265",
-      "hot_value": "1428 万热度",
-      "index": 2
-    },
-    {
-      "title": "如何评价兰州大学在中雨天气拉练新生？",
-      "url": "https://www.zhihu.com/question/2080941715737800954",
-      "hot_value": "1271 万热度",
-      "index": 3
-    },
-    {
-      "title": "如何评价贝赫和斯维纳通 - 戴尔猜想（BSD 猜想，七大千禧难题）疑被 OpenAI 或 Anthropic 解决？",
-      "url": "https://www.zhihu.com/question/2081426911943718567",
-      "hot_value": "750 万热度",
-      "index": 4
-    },
-    {
       "title": "如何看待红果短剧日活 1.68 亿已超「爱优腾芒」四家总和？为啥大众会在影视娱乐上出现这么强烈的偏好转变？",
       "url": "https://www.zhihu.com/question/2081408366807442163",
-      "hot_value": "515 万热度",
-      "index": 5
-    },
-    {
-      "title": "网传《三体 2》蒋奇明将饰演罗辑，是真的吗？你对这一选角有何期待？",
-      "url": "https://www.zhihu.com/question/2081389689781608577",
-      "hot_value": "311 万热度",
-      "index": 6
-    },
-    {
-      "title": "官方回应「男子称停止资助后遭受助学生质问催捐」，经查当地教育机构没有姚先生这个人，该争议会有反转吗？",
-      "url": "https://www.zhihu.com/question/2081453493118882854",
-      "hot_value": "231 万热度",
-      "index": 7
+      "hot_value": "539 万热度",
+      "index": 1
     },
     {
       "title": "一设计师称中国客厅已失去意义，反映了当下怎样的家庭生活变化？你家还有客厅吗，是怎样的？",
       "url": "https://www.zhihu.com/question/2079581505047762015",
-      "hot_value": "231 万热度",
-      "index": 8
+      "hot_value": "488 万热度",
+      "index": 2
     },
     {
-      "title": "人类史上首次老人数量超过儿童，65 岁以上人口占比‌10.5%‌，5 岁以下不足 10%，该数据意味着什么？",
-      "url": "https://www.zhihu.com/question/2081393488353040379",
-      "hot_value": "196 万热度",
-      "index": 9
+      "title": "老人拨打 120 误触手机「魔法画报」功能难退出，家属质疑退出设计隐蔽影响紧急呼救，实际情况如何？",
+      "url": "https://www.zhihu.com/question/2081520300924069807",
+      "hot_value": "314 万热度",
+      "index": 3
     },
     {
-      "title": "为何王者荣耀世界的美术被质疑审美过时，而内部的上千精英大佬却未察觉？",
-      "url": "https://www.zhihu.com/question/2032386854570436068",
-      "hot_value": "182 万热度",
-      "index": 10
+      "title": "媒体曝「男子称停止资助后遭受助学生质问催捐」为假消息，该男子已被刑拘，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2081793015459177603",
+      "hot_value": "230 万热度",
+      "index": 4
     },
     {
-      "title": "如何看待日本梅毒患者数量居高不下，受辉瑞影响目前青霉素短缺？分析称这与社会「三个一」有关，如何理解？",
-      "url": "https://www.zhihu.com/question/2081325661914929014",
-      "hot_value": "170 万热度",
-      "index": 11
-    },
-    {
-      "title": "如何评价 9 月 10 日正式上线的新游《王者万象棋》？",
-      "url": "https://www.zhihu.com/question/2081323283128100777",
-      "hot_value": "157 万热度",
-      "index": 12
-    },
-    {
-      "title": "智谱 GLM-5 架构负责人白雨石，被爆已加盟腾讯混元？会对双方未来架构设计有什么影响？",
-      "url": "https://www.zhihu.com/question/2078808417414788999",
-      "hot_value": "155 万热度",
-      "index": 13
-    },
-    {
-      "title": "我看《明朝那些事儿》，发现宦官这个字眼尤为频繁，但唯独少了外戚，请问外戚去哪里了？",
-      "url": "https://www.zhihu.com/question/2066992982801306585",
-      "hot_value": "146 万热度",
-      "index": 14
-    },
-    {
-      "title": "为什么 GPT 要暂停 $200 pro 订阅？",
-      "url": "https://www.zhihu.com/question/2081639111572698705",
-      "hot_value": "138 万热度",
-      "index": 15
-    },
-    {
-      "title": "印度严重欺诈调查局拟调查小米，外交部回应称不了解具体情况，中印经贸合作该如何互利共赢？",
-      "url": "https://www.zhihu.com/question/2081424220525966992",
-      "hot_value": "136 万热度",
-      "index": 16
-    },
-    {
-      "title": "「员工裸奔拉屎事件」事发储能巨头瑞浦兰钧，公司称因离职手续引发，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2081467325547373034",
-      "hot_value": "135 万热度",
-      "index": 17
+      "title": "古代没有电灯，晚上过了 8 点，古人都怎么打发时间？",
+      "url": "https://www.zhihu.com/question/2072659682137728925",
+      "hot_value": "188 万热度",
+      "index": 5
     },
     {
       "title": "中国博主伦敦直播遭外籍青年殴打抢劫，博主称当地警方未处置，事情经过如何？遇到此类情况应如何应对？",
       "url": "https://www.zhihu.com/question/2080674941918365458",
+      "hot_value": "168 万热度",
+      "index": 6
+    },
+    {
+      "title": "网友称把前置摄像头关掉刷手机可以保护眼睛，这是真的吗？如果属实，是因为哪些原理？",
+      "url": "https://www.zhihu.com/question/2080609977136148977",
+      "hot_value": "147 万热度",
+      "index": 7
+    },
+    {
+      "title": "如何看待张家齐妈妈聊天记录大篇幅说教、教育短视频？为什么这会引起大家的反感？你有这样的父母吗？",
+      "url": "https://www.zhihu.com/question/2080336124539400817",
+      "hot_value": "139 万热度",
+      "index": 8
+    },
+    {
+      "title": "为什么皮鞋、手表、西装、酒这些行业崩溃了？",
+      "url": "https://www.zhihu.com/question/2080939659190854977",
       "hot_value": "133 万热度",
+      "index": 9
+    },
+    {
+      "title": "一天一瓶啤酒，对身体有害吗？",
+      "url": "https://www.zhihu.com/question/2080303059578705354",
+      "hot_value": "127 万热度",
+      "index": 10
+    },
+    {
+      "title": "野外河沟里的蚊子吸谁的血？",
+      "url": "https://www.zhihu.com/question/2071873004833863200",
+      "hot_value": "123 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何看待以 Peter Scholze 为代表的一系列数学家加入组成的相对 AI 保守的组织 AHM？",
+      "url": "https://www.zhihu.com/question/2081720547046642931",
+      "hot_value": "120 万热度",
+      "index": 12
+    },
+    {
+      "title": "中科院期刊分区表在线平台将停止运行，哪些信息值得重点关注？将对我国学术圈带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2081193837406561345",
+      "hot_value": "94 万热度",
+      "index": 13
+    },
+    {
+      "title": "张子宇首次参加女篮世界杯，场均 8.8 分 5 篮板，命中率 62.5%，如何评价她的表现？",
+      "url": "https://www.zhihu.com/question/2081691819285242959",
+      "hot_value": "81 万热度",
+      "index": 14
+    },
+    {
+      "title": "职场上发现自己的领导是个水货你会怎么做？",
+      "url": "https://www.zhihu.com/question/2080610995471381060",
+      "hot_value": "71 万热度",
+      "index": 15
+    },
+    {
+      "title": "布伦特原油隔夜飙升超 6%，也门胡塞武装占领红海战略要地哈尼什群岛，此轮国际油价会超过 120 美元么？",
+      "url": "https://www.zhihu.com/question/2081655453759582485",
+      "hot_value": "71 万热度",
+      "index": 16
+    },
+    {
+      "title": "《孤独的美食家》里的日本小馆，为什么喜欢把座位直接设在厨房前？",
+      "url": "https://www.zhihu.com/question/2073047511502267101",
+      "hot_value": "70 万热度",
+      "index": 17
+    },
+    {
+      "title": "印度严重欺诈调查局拟调查小米，外交部回应称不了解具体情况，中印经贸合作该如何互利共赢？",
+      "url": "https://www.zhihu.com/question/2081424220525966992",
+      "hot_value": "70 万热度",
       "index": 18
     },
     {
-      "title": "多地精神病医院更名为类似「第 X 人民医院」 的说法，有何积极意义？因病耻感耽误就医的影响有多大？",
-      "url": "https://www.zhihu.com/question/2079660490943371058",
-      "hot_value": "129 万热度",
+      "title": "星宇股份又出错，外包报酬支付总额「约 2.44 万亿元」，如何看待这家公司频频出错？",
+      "url": "https://www.zhihu.com/question/2081473260986819621",
+      "hot_value": "69 万热度",
       "index": 19
     },
     {
-      "title": "为什么人类只剩下智人这一个物种？",
-      "url": "https://www.zhihu.com/question/13295990847",
-      "hot_value": "126 万热度",
+      "title": "为啥现在很多做饭教程都是「两勺生抽一勺老抽一勺蚝油」？这是什么万能公式吗？能不能把它们也做成一种调料？",
+      "url": "https://www.zhihu.com/question/2071256746484392995",
+      "hot_value": "67 万热度",
       "index": 20
     },
     {
       "title": "iPhone Duo 已经发布，有哪些方面是值得国内手机厂商学习的？",
       "url": "https://www.zhihu.com/question/2081338673782642011",
-      "hot_value": "125 万热度",
+      "hot_value": "66 万热度",
       "index": 21
     },
     {
-      "title": "大连一小学家长会要求穿正装，学校回应非硬性要求，希望家长会有点仪式感，如何看待这一倡议？",
-      "url": "https://www.zhihu.com/question/2079150878565709643",
-      "hot_value": "124 万热度",
+      "title": "为什么 GPT 要暂停 $200 pro 订阅？",
+      "url": "https://www.zhihu.com/question/2081639111572698705",
+      "hot_value": "66 万热度",
       "index": 22
-    },
-    {
-      "title": "网友直播咨询未进年级前 6 被资助人拉黑，是真的吗？这算公益性质的赠与吗，在什么条件下能撤销？",
-      "url": "https://www.zhihu.com/question/2081428112823342312",
-      "hot_value": "118 万热度",
-      "index": 23
-    },
-    {
-      "title": "如果给你 15 块钱，你能在食堂吃出什么花样？",
-      "url": "https://www.zhihu.com/question/2076361721686357610",
-      "hot_value": "118 万热度",
-      "index": 24
-    },
-    {
-      "title": "景德镇学院通报强制大四生搬宿舍为新生腾床位，已处理相关人员，具体发生了什么？学校管理存在哪些问题？",
-      "url": "https://www.zhihu.com/question/2081163303829628395",
-      "hot_value": "101 万热度",
-      "index": 25
     },
     {
       "title": "影视飓风给全员发万元 iPhone Duo，连实习生都有且代缴个税，你怎么看这种「别人家的公司」？",
       "url": "https://www.zhihu.com/question/2081687756963688823",
-      "hot_value": "100 万热度",
+      "hot_value": "66 万热度",
+      "index": 23
+    },
+    {
+      "title": "张子宇在 2026 女篮世界杯的表现，和美法等强队男子化打法相比，是否说明速度和投射比身高更重要？",
+      "url": "https://www.zhihu.com/question/2081167488407036861",
+      "hot_value": "65 万热度",
+      "index": 24
+    },
+    {
+      "title": "当你总是为别人考虑，慢慢的不想再委屈自己，却又不被人理解时，大家都是怎么熬过来的？",
+      "url": "https://www.zhihu.com/question/6728445377",
+      "hot_value": "65 万热度",
+      "index": 25
+    },
+    {
+      "title": "如果刘备在称汉中王时，表荐孙权为吴王，历史会不会改写？",
+      "url": "https://www.zhihu.com/question/2041602880197710537",
+      "hot_value": "63 万热度",
       "index": 26
     },
     {
-      "title": "如何评价 Anthropic 上传的费马大定理的 Lean 4 证明？",
-      "url": "https://www.zhihu.com/question/2079412287622928201",
-      "hot_value": "99 万热度",
+      "title": "景德镇学院通报强制大四生搬宿舍为新生腾床位，已处理相关人员，具体发生了什么？学校管理存在哪些问题？",
+      "url": "https://www.zhihu.com/question/2081163303829628395",
+      "hot_value": "59 万热度",
       "index": 27
     },
     {
-      "title": "女篮世界杯中国女篮不敌法国无缘四强韩旭 21+9 杨舒予 19 分张子宇 7 失误，如何评价这场比赛中国队的表现？",
-      "url": "https://www.zhihu.com/question/2081505983944200623",
-      "hot_value": "98 万热度",
+      "title": "如何评价 9 月 10 日正式上线的新游《王者万象棋》？",
+      "url": "https://www.zhihu.com/question/2081323283128100777",
+      "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "如何看待中金首席经济学家建议征收 AI 税？",
-      "url": "https://www.zhihu.com/question/2081323336349345562",
-      "hot_value": "89 万热度",
+      "title": "酒店为什么会有三小时钟点房？",
+      "url": "https://www.zhihu.com/question/351651719",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "如何评价任嘉伦、秦俊杰主演的悬疑剧《深渊无间》？",
-      "url": "https://www.zhihu.com/question/2081084672357016044",
-      "hot_value": "65 万热度",
+      "title": "欧洲央行加息 25BP，美国 8 月 PPI 略超预期，美联储 9 月加息概率升至 70%，如何解读这组宏观数据？",
+      "url": "https://www.zhihu.com/question/2081481648965797508",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
