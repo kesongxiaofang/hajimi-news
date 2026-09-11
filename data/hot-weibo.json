@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-09-11T11:39:23Z",
+  "update_time": "2026-09-11T15:46:17Z",
   "count": 30,
   "list": [
     {
-      "title": "男子编造停捐遭威胁事件被抓",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E5%81%9C%E6%8D%90%E9%81%AD%E5%A8%81%E8%83%81%E4%BA%8B%E4%BB%B6%E8%A2%AB%E6%8A%93%23",
-      "hot_value": "1115491",
+      "title": "网红铁头退庭时辱骂法庭",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E9%80%80%E5%BA%AD%E6%97%B6%E8%BE%B1%E9%AA%82%E6%B3%95%E5%BA%AD%23",
+      "hot_value": "1159234",
       "index": 1
     },
     {
-      "title": "打假网红铁头一审获刑8年",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%918%E5%B9%B4%23",
-      "hot_value": "826475",
+      "title": "男子投150万开火锅店4个多月赔光",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%95150%E4%B8%87%E5%BC%80%E7%81%AB%E9%94%85%E5%BA%974%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%94%E5%85%89%23",
+      "hot_value": "827801",
       "index": 2
     },
     {
-      "title": "服贸会上一眼未来",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%B4%B8%E4%BC%9A%E4%B8%8A%E4%B8%80%E7%9C%BC%E6%9C%AA%E6%9D%A5%23",
-      "hot_value": "640205",
+      "title": "数读三农乡村振兴新图景",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E4%B8%89%E5%86%9C%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%96%B0%E5%9B%BE%E6%99%AF%23",
+      "hot_value": "695263",
       "index": 3
-    },
-    {
-      "title": "iPhoneDuo图标三合一引争议",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E5%9B%BE%E6%A0%87%E4%B8%89%E5%90%88%E4%B8%80%E5%BC%95%E4%BA%89%E8%AE%AE%23",
-      "hot_value": "506892",
-      "index": 4
-    },
-    {
-      "title": "小米澎程汽车",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E6%B1%BD%E8%BD%A6%23",
-      "hot_value": "393570",
-      "index": 5
-    },
-    {
-      "title": "民政局回应男子停助学资助遭威胁",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B0%91%E6%94%BF%E5%B1%80%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%81%9C%E5%8A%A9%E5%AD%A6%E8%B5%84%E5%8A%A9%E9%81%AD%E5%A8%81%E8%83%81%23",
-      "hot_value": "348324",
-      "index": 6
-    },
-    {
-      "title": "雷宇扬去世",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%AE%87%E6%89%AC%E5%8E%BB%E4%B8%96%23",
-      "hot_value": "326832",
-      "index": 7
-    },
-    {
-      "title": "罚了51.79亿携程为何还在杀熟",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BD%9A%E4%BA%8651.79%E4%BA%BF%E6%90%BA%E7%A8%8B%E4%B8%BA%E4%BD%95%E8%BF%98%E5%9C%A8%E6%9D%80%E7%86%9F%23",
-      "hot_value": "313625",
-      "index": 8
-    },
-    {
-      "title": "7岁半性早熟女童家里是开炸鸡店的",
-      "url": "https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%8D%8A%E6%80%A7%E6%97%A9%E7%86%9F%E5%A5%B3%E7%AB%A5%E5%AE%B6%E9%87%8C%E6%98%AF%E5%BC%80%E7%82%B8%E9%B8%A1%E5%BA%97%E7%9A%84%23",
-      "hot_value": "311986",
-      "index": 9
-    },
-    {
-      "title": "男子停止助学资助反被威胁事件反转",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%9C%E6%AD%A2%E5%8A%A9%E5%AD%A6%E8%B5%84%E5%8A%A9%E5%8F%8D%E8%A2%AB%E5%A8%81%E8%83%81%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC%23",
-      "hot_value": "311807",
-      "index": 10
-    },
-    {
-      "title": "国乒崇明封训结束回京",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%B4%87%E6%98%8E%E5%B0%81%E8%AE%AD%E7%BB%93%E6%9D%9F%E5%9B%9E%E4%BA%AC%23",
-      "hot_value": "311691",
-      "index": 11
-    },
-    {
-      "title": "货拉拉跳车案",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A7%E6%8B%89%E6%8B%89%E8%B7%B3%E8%BD%A6%E6%A1%88%23",
-      "hot_value": "311379",
-      "index": 12
-    },
-    {
-      "title": "曝TF四代出道必须成年",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DTF%E5%9B%9B%E4%BB%A3%E5%87%BA%E9%81%93%E5%BF%85%E9%A1%BB%E6%88%90%E5%B9%B4%23",
-      "hot_value": "311095",
-      "index": 13
-    },
-    {
-      "title": "偶遇倪妮考科目二",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E5%80%AA%E5%A6%AE%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C%23",
-      "hot_value": "310942",
-      "index": 14
-    },
-    {
-      "title": "劳务派遣乱象重灾区",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%B3%E5%8A%A1%E6%B4%BE%E9%81%A3%E4%B9%B1%E8%B1%A1%E9%87%8D%E7%81%BE%E5%8C%BA%23",
-      "hot_value": "310519",
-      "index": 15
-    },
-    {
-      "title": "时代峰峻也逃不过Prada魔咒",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E4%B9%9F%E9%80%83%E4%B8%8D%E8%BF%87Prada%E9%AD%94%E5%92%92%23",
-      "hot_value": "310364",
-      "index": 16
-    },
-    {
-      "title": "艾特孙千结果井柏然回复了",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%89%B9%E5%AD%99%E5%8D%83%E7%BB%93%E6%9E%9C%E4%BA%95%E6%9F%8F%E7%84%B6%E5%9B%9E%E5%A4%8D%E4%BA%86%23",
-      "hot_value": "310228",
-      "index": 17
-    },
-    {
-      "title": "A股午后深V反弹",
-      "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%88%E5%90%8E%E6%B7%B1V%E5%8F%8D%E5%BC%B9%23",
-      "hot_value": "309820",
-      "index": 18
     },
     {
       "title": "兰香如故",
       "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%23",
-      "hot_value": "307960",
+      "hot_value": "692784",
+      "index": 4
+    },
+    {
+      "title": "刺棠开机剧宣争议",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%BA%E6%A3%A0%E5%BC%80%E6%9C%BA%E5%89%A7%E5%AE%A3%E4%BA%89%E8%AE%AE%23",
+      "hot_value": "540266",
+      "index": 5
+    },
+    {
+      "title": "被罩和衣服一起洗belike",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%BD%A9%E5%92%8C%E8%A1%A3%E6%9C%8D%E4%B8%80%E8%B5%B7%E6%B4%97belike%23",
+      "hot_value": "472691",
+      "index": 6
+    },
+    {
+      "title": "孙燕姿演唱会摔倒",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%91%94%E5%80%92%23",
+      "hot_value": "438081",
+      "index": 7
+    },
+    {
+      "title": "早春晴朗",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23",
+      "hot_value": "381439",
+      "index": 8
+    },
+    {
+      "title": "人最有魅力时是对一切都不在乎",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%9C%80%E6%9C%89%E9%AD%85%E5%8A%9B%E6%97%B6%E6%98%AF%E5%AF%B9%E4%B8%80%E5%88%87%E9%83%BD%E4%B8%8D%E5%9C%A8%E4%B9%8E%23",
+      "hot_value": "378666",
+      "index": 9
+    },
+    {
+      "title": "官方通报男子编造女生催资助",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E5%A5%B3%E7%94%9F%E5%82%AC%E8%B5%84%E5%8A%A9%23",
+      "hot_value": "374718",
+      "index": 10
+    },
+    {
+      "title": "太子奶案",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%AD%90%E5%A5%B6%E6%A1%88%23",
+      "hot_value": "370406",
+      "index": 11
+    },
+    {
+      "title": "时代峰峻",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%23",
+      "hot_value": "366330",
+      "index": 12
+    },
+    {
+      "title": "SM练习生李松河10年未出道",
+      "url": "https://s.weibo.com/weibo?q=%23SM%E7%BB%83%E4%B9%A0%E7%94%9F%E6%9D%8E%E6%9D%BE%E6%B2%B310%E5%B9%B4%E6%9C%AA%E5%87%BA%E9%81%93%23",
+      "hot_value": "362182",
+      "index": 13
+    },
+    {
+      "title": "长沙查封代孕手术室执法图流入代孕群",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E6%9F%A5%E5%B0%81%E4%BB%A3%E5%AD%95%E6%89%8B%E6%9C%AF%E5%AE%A4%E6%89%A7%E6%B3%95%E5%9B%BE%E6%B5%81%E5%85%A5%E4%BB%A3%E5%AD%95%E7%BE%A4%23",
+      "hot_value": "358461",
+      "index": 14
+    },
+    {
+      "title": "李佳琦求大家别再刷luke版自己了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%B1%82%E5%A4%A7%E5%AE%B6%E5%88%AB%E5%86%8D%E5%88%B7luke%E7%89%88%E8%87%AA%E5%B7%B1%E4%BA%86%23",
+      "hot_value": "356755",
+      "index": 15
+    },
+    {
+      "title": "帮孙艺珍挡视线骚扰的NANA",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B8%AE%E5%AD%99%E8%89%BA%E7%8F%8D%E6%8C%A1%E8%A7%86%E7%BA%BF%E9%AA%9A%E6%89%B0%E7%9A%84NANA%23",
+      "hot_value": "353553",
+      "index": 16
+    },
+    {
+      "title": "美国CPI公布后美股拉升",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDCPI%E5%85%AC%E5%B8%83%E5%90%8E%E7%BE%8E%E8%82%A1%E6%8B%89%E5%8D%87%23",
+      "hot_value": "348802",
+      "index": 17
+    },
+    {
+      "title": "罚了51.79亿携程为何还在杀熟",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BD%9A%E4%BA%8651.79%E4%BA%BF%E6%90%BA%E7%A8%8B%E4%B8%BA%E4%BD%95%E8%BF%98%E5%9C%A8%E6%9D%80%E7%86%9F%23",
+      "hot_value": "347707",
+      "index": 18
+    },
+    {
+      "title": "半夜宝爸将宝妈抱摔下床泡奶",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E5%AE%9D%E7%88%B8%E5%B0%86%E5%AE%9D%E5%A6%88%E6%8A%B1%E6%91%94%E4%B8%8B%E5%BA%8A%E6%B3%A1%E5%A5%B6%23",
+      "hot_value": "341078",
       "index": 19
     },
     {
-      "title": "邓为说我屁股已经爆炸了",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E8%AF%B4%E6%88%91%E5%B1%81%E8%82%A1%E5%B7%B2%E7%BB%8F%E7%88%86%E7%82%B8%E4%BA%86%23",
-      "hot_value": "306592",
+      "title": "专门设置班主任岗位",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E9%97%A8%E8%AE%BE%E7%BD%AE%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B2%97%E4%BD%8D%23",
+      "hot_value": "335529",
       "index": 20
+    },
+    {
+      "title": "泰国一男子猥亵锦鲤被捕",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E7%8C%A5%E4%BA%B5%E9%94%A6%E9%B2%A4%E8%A2%AB%E6%8D%95%23",
+      "hot_value": "332657",
+      "index": 21
+    },
+    {
+      "title": "强烈建议大家日常一定要把AI用起来",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%97%A5%E5%B8%B8%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8AAI%E7%94%A8%E8%B5%B7%E6%9D%A5%23",
+      "hot_value": "323202",
+      "index": 22
+    },
+    {
+      "title": "张凌赫走了一条很笨的路",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B0%E4%BA%86%E4%B8%80%E6%9D%A1%E5%BE%88%E7%AC%A8%E7%9A%84%E8%B7%AF%23",
+      "hot_value": "322209",
+      "index": 23
     },
     {
       "title": "iPhone17Pro史上最低价",
       "url": "https://s.weibo.com/weibo?q=%23iPhone17Pro%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BD%8E%E4%BB%B7%23",
-      "hot_value": "305039",
-      "index": 21
-    },
-    {
-      "title": "台湾医生造谣迪士尼惹上地表最强法务",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%8C%BB%E7%94%9F%E9%80%A0%E8%B0%A3%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%83%B9%E4%B8%8A%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E6%B3%95%E5%8A%A1%23",
-      "hot_value": "303095",
-      "index": 22
-    },
-    {
-      "title": "香蕉地喷3天农药毒死隔壁5万斤牛蛙",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E8%95%89%E5%9C%B0%E5%96%B73%E5%A4%A9%E5%86%9C%E8%8D%AF%E6%AF%92%E6%AD%BB%E9%9A%94%E5%A3%815%E4%B8%87%E6%96%A4%E7%89%9B%E8%9B%99%23",
-      "hot_value": "302557",
-      "index": 23
-    },
-    {
-      "title": "资助女生被威胁系男子自导自演",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%A8%81%E8%83%81%E7%B3%BB%E7%94%B7%E5%AD%90%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%23",
-      "hot_value": "300671",
+      "hot_value": "296898",
       "index": 24
     },
     {
-      "title": "大幅上调日本公民赴华签证规费",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%85%E4%B8%8A%E8%B0%83%E6%97%A5%E6%9C%AC%E5%85%AC%E6%B0%91%E8%B5%B4%E5%8D%8E%E7%AD%BE%E8%AF%81%E8%A7%84%E8%B4%B9%23",
-      "hot_value": "298704",
+      "title": "肖宇梁 纯元瓶",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E5%AE%87%E6%A2%81+%E7%BA%AF%E5%85%83%E7%93%B6%23",
+      "hot_value": "246757",
       "index": 25
     },
     {
-      "title": "优衣库 上厕所只给5分钟",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E8%A1%A3%E5%BA%93+%E4%B8%8A%E5%8E%95%E6%89%80%E5%8F%AA%E7%BB%995%E5%88%86%E9%92%9F%23",
-      "hot_value": "298037",
+      "title": "雪豹凌小蛰2岁了不会吃兔子",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%B1%B9%E5%87%8C%E5%B0%8F%E8%9B%B02%E5%B2%81%E4%BA%86%E4%B8%8D%E4%BC%9A%E5%90%83%E5%85%94%E5%AD%90%23",
+      "hot_value": "224844",
       "index": 26
     },
     {
-      "title": "911未公开视频",
-      "url": "https://s.weibo.com/weibo?q=%23911%E6%9C%AA%E5%85%AC%E5%BC%80%E8%A7%86%E9%A2%91%23",
-      "hot_value": "297001",
+      "title": "胖东来不收彩礼结婚奖励5万",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%8D%E6%94%B6%E5%BD%A9%E7%A4%BC%E7%BB%93%E5%A9%9A%E5%A5%96%E5%8A%B15%E4%B8%87%23",
+      "hot_value": "223965",
       "index": 27
     },
     {
-      "title": "井柏然 现偶整不动了",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6+%E7%8E%B0%E5%81%B6%E6%95%B4%E4%B8%8D%E5%8A%A8%E4%BA%86%23",
-      "hot_value": "294802",
+      "title": "张若昀谭松韵居然是同学",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%B1%85%E7%84%B6%E6%98%AF%E5%90%8C%E5%AD%A6%23",
+      "hot_value": "184337",
       "index": 28
     },
     {
-      "title": "余文乐披哥拒绝唱跳",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%96%87%E4%B9%90%E6%8A%AB%E5%93%A5%E6%8B%92%E7%BB%9D%E5%94%B1%E8%B7%B3%23",
-      "hot_value": "292929",
+      "title": "王俊凯给内娱舞台打个样",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%BB%99%E5%86%85%E5%A8%B1%E8%88%9E%E5%8F%B0%E6%89%93%E4%B8%AA%E6%A0%B7%23",
+      "hot_value": "176763",
       "index": 29
     },
     {
-      "title": "考公失败后旅行6国男生回应啃老",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%80%83%E5%85%AC%E5%A4%B1%E8%B4%A5%E5%90%8E%E6%97%85%E8%A1%8C6%E5%9B%BD%E7%94%B7%E7%94%9F%E5%9B%9E%E5%BA%94%E5%95%83%E8%80%81%23",
-      "hot_value": "291846",
+      "title": "太子奶案追责",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%AD%90%E5%A5%B6%E6%A1%88%E8%BF%BD%E8%B4%A3%23",
+      "hot_value": "176689",
       "index": 30
     }
   ]
