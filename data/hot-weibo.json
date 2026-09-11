@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-09-11T21:33:01Z",
+  "update_time": "2026-09-11T23:50:23Z",
   "count": 30,
   "list": [
     {
-      "title": "苹果高管称折叠屏比例泄密很遗憾",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E7%A7%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%AF%94%E4%BE%8B%E6%B3%84%E5%AF%86%E5%BE%88%E9%81%97%E6%86%BE%23",
-      "hot_value": "186827",
+      "title": "网红铁头退庭时辱骂法庭",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E9%80%80%E5%BA%AD%E6%97%B6%E8%BE%B1%E9%AA%82%E6%B3%95%E5%BA%AD%23",
+      "hot_value": "970723",
       "index": 1
     },
     {
-      "title": "网红铁头退庭时辱骂法庭",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E9%80%80%E5%BA%AD%E6%97%B6%E8%BE%B1%E9%AA%82%E6%B3%95%E5%BA%AD%23",
-      "hot_value": "141705",
+      "title": "举报考古文物失踪后店铺遭轮番查",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E8%80%83%E5%8F%A4%E6%96%87%E7%89%A9%E5%A4%B1%E8%B8%AA%E5%90%8E%E5%BA%97%E9%93%BA%E9%81%AD%E8%BD%AE%E7%95%AA%E6%9F%A5%23",
+      "hot_value": "703196",
       "index": 2
     },
     {
       "title": "我国发现世界级规模深海矿床",
       "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E7%BA%A7%E8%A7%84%E6%A8%A1%E6%B7%B1%E6%B5%B7%E7%9F%BF%E5%BA%8A%23",
-      "hot_value": "96934",
+      "hot_value": "552103",
       "index": 3
-    },
-    {
-      "title": "女子脉动喂猫创意走红",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%84%89%E5%8A%A8%E5%96%82%E7%8C%AB%E5%88%9B%E6%84%8F%E8%B5%B0%E7%BA%A2%23",
-      "hot_value": "63959",
-      "index": 4
-    },
-    {
-      "title": "兰香如故观众反响",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%A7%82%E4%BC%97%E5%8F%8D%E5%93%8D%23",
-      "hot_value": "56425",
-      "index": 5
-    },
-    {
-      "title": "以前不理解门还没开他们去那么早干嘛",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E4%B8%8D%E7%90%86%E8%A7%A3%E9%97%A8%E8%BF%98%E6%B2%A1%E5%BC%80%E4%BB%96%E4%BB%AC%E5%8E%BB%E9%82%A3%E4%B9%88%E6%97%A9%E5%B9%B2%E5%98%9B%23",
-      "hot_value": "56393",
-      "index": 6
     },
     {
       "title": "熬夜的伤害通过睡觉能补回来吗",
       "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9A%84%E4%BC%A4%E5%AE%B3%E9%80%9A%E8%BF%87%E7%9D%A1%E8%A7%89%E8%83%BD%E8%A1%A5%E5%9B%9E%E6%9D%A5%E5%90%97%23",
-      "hot_value": "54140",
-      "index": 7
+      "hot_value": "196565",
+      "index": 4
     },
     {
       "title": "人最有魅力时是对一切都不在乎",
       "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%9C%80%E6%9C%89%E9%AD%85%E5%8A%9B%E6%97%B6%E6%98%AF%E5%AF%B9%E4%B8%80%E5%88%87%E9%83%BD%E4%B8%8D%E5%9C%A8%E4%B9%8E%23",
-      "hot_value": "47251",
+      "hot_value": "194576",
+      "index": 5
+    },
+    {
+      "title": "苹果高管称折叠屏比例泄密很遗憾",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E7%A7%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%AF%94%E4%BE%8B%E6%B3%84%E5%AF%86%E5%BE%88%E9%81%97%E6%86%BE%23",
+      "hot_value": "191845",
+      "index": 6
+    },
+    {
+      "title": "油价涨涨涨",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%B6%A8%E6%B6%A8%E6%B6%A8%23",
+      "hot_value": "190633",
+      "index": 7
+    },
+    {
+      "title": "治理龟速开车",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%BB%E7%90%86%E9%BE%9F%E9%80%9F%E5%BC%80%E8%BD%A6%23",
+      "hot_value": "185191",
       "index": 8
     },
     {
-      "title": "男子投150万开火锅店4个多月赔光",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%95150%E4%B8%87%E5%BC%80%E7%81%AB%E9%94%85%E5%BA%974%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%94%E5%85%89%23",
-      "hot_value": "39700",
+      "title": "兰香如故观众反响",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%A7%82%E4%BC%97%E5%8F%8D%E5%93%8D%23",
+      "hot_value": "144995",
       "index": 9
     },
     {
-      "title": "兰香如故",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%23",
-      "hot_value": "39588",
+      "title": "早春晴朗",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23",
+      "hot_value": "135990",
       "index": 10
     },
     {
       "title": "长沙查封代孕手术室执法图流入代孕群",
       "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E6%9F%A5%E5%B0%81%E4%BB%A3%E5%AD%95%E6%89%8B%E6%9C%AF%E5%AE%A4%E6%89%A7%E6%B3%95%E5%9B%BE%E6%B5%81%E5%85%A5%E4%BB%A3%E5%AD%95%E7%BE%A4%23",
-      "hot_value": "39387",
+      "hot_value": "135001",
       "index": 11
     },
     {
-      "title": "半夜宝爸将宝妈抱摔下床泡奶",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E5%AE%9D%E7%88%B8%E5%B0%86%E5%AE%9D%E5%A6%88%E6%8A%B1%E6%91%94%E4%B8%8B%E5%BA%8A%E6%B3%A1%E5%A5%B6%23",
-      "hot_value": "38917",
+      "title": "杨幂玩梗说自己45岁",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%8E%A9%E6%A2%97%E8%AF%B4%E8%87%AA%E5%B7%B145%E5%B2%81%23",
+      "hot_value": "134047",
       "index": 12
+    },
+    {
+      "title": "肖战片场从不提词不进房车休息",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%89%87%E5%9C%BA%E4%BB%8E%E4%B8%8D%E6%8F%90%E8%AF%8D%E4%B8%8D%E8%BF%9B%E6%88%BF%E8%BD%A6%E4%BC%91%E6%81%AF%23",
+      "hot_value": "132573",
+      "index": 13
     },
     {
       "title": "太子奶案追责",
       "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%AD%90%E5%A5%B6%E6%A1%88%E8%BF%BD%E8%B4%A3%23",
-      "hot_value": "38582",
-      "index": 13
+      "hot_value": "131685",
+      "index": 14
+    },
+    {
+      "title": "时代峰峻艺人缺席后续演出",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%89%BA%E4%BA%BA%E7%BC%BA%E5%B8%AD%E5%90%8E%E7%BB%AD%E6%BC%94%E5%87%BA%23",
+      "hot_value": "129769",
+      "index": 15
     },
     {
       "title": "梅姨深夜出没几乎不与人打交道",
       "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E6%B7%B1%E5%A4%9C%E5%87%BA%E6%B2%A1%E5%87%A0%E4%B9%8E%E4%B8%8D%E4%B8%8E%E4%BA%BA%E6%89%93%E4%BA%A4%E9%81%93%23",
-      "hot_value": "38482",
-      "index": 14
-    },
-    {
-      "title": "举报考古文物失踪后店铺遭轮番查",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E8%80%83%E5%8F%A4%E6%96%87%E7%89%A9%E5%A4%B1%E8%B8%AA%E5%90%8E%E5%BA%97%E9%93%BA%E9%81%AD%E8%BD%AE%E7%95%AA%E6%9F%A5%23",
-      "hot_value": "38295",
-      "index": 15
-    },
-    {
-      "title": "姚月茂编造人设",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%9C%88%E8%8C%82%E7%BC%96%E9%80%A0%E4%BA%BA%E8%AE%BE%23",
-      "hot_value": "37660",
+      "hot_value": "128623",
       "index": 16
     },
     {
-      "title": "兰香如故首播热度破22000",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E9%A6%96%E6%92%AD%E7%83%AD%E5%BA%A6%E7%A0%B422000%23",
-      "hot_value": "36879",
+      "title": "半夜宝爸将宝妈抱摔下床泡奶",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E5%AE%9D%E7%88%B8%E5%B0%86%E5%AE%9D%E5%A6%88%E6%8A%B1%E6%91%94%E4%B8%8B%E5%BA%8A%E6%B3%A1%E5%A5%B6%23",
+      "hot_value": "127018",
       "index": 17
     },
     {
-      "title": "官方通报男子编造女生催资助",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E5%A5%B3%E7%94%9F%E5%82%AC%E8%B5%84%E5%8A%A9%23",
-      "hot_value": "36828",
+      "title": "iPhone18Pro 电池",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro+%E7%94%B5%E6%B1%A0%23",
+      "hot_value": "126578",
       "index": 18
     },
     {
-      "title": "早春晴朗",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23",
-      "hot_value": "36791",
+      "title": "以前不理解门还没开他们去那么早干嘛",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E4%B8%8D%E7%90%86%E8%A7%A3%E9%97%A8%E8%BF%98%E6%B2%A1%E5%BC%80%E4%BB%96%E4%BB%AC%E5%8E%BB%E9%82%A3%E4%B9%88%E6%97%A9%E5%B9%B2%E5%98%9B%23",
+      "hot_value": "107310",
       "index": 19
     },
     {
-      "title": "孙燕姿演唱会摔倒",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%91%94%E5%80%92%23",
-      "hot_value": "36729",
+      "title": "兰香如故",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%23",
+      "hot_value": "98237",
       "index": 20
     },
     {
       "title": "强烈建议大家日常一定要把AI用起来",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%97%A5%E5%B8%B8%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8AAI%E7%94%A8%E8%B5%B7%E6%9D%A5%23",
-      "hot_value": "36662",
+      "hot_value": "98191",
       "index": 21
-    },
-    {
-      "title": "泰国一男子猥亵锦鲤被捕",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E7%8C%A5%E4%BA%B5%E9%94%A6%E9%B2%A4%E8%A2%AB%E6%8D%95%23",
-      "hot_value": "36605",
-      "index": 22
     },
     {
       "title": "厨房里的6个习惯正拖垮全家人的健康",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A8%E6%88%BF%E9%87%8C%E7%9A%846%E4%B8%AA%E4%B9%A0%E6%83%AF%E6%AD%A3%E6%8B%96%E5%9E%AE%E5%85%A8%E5%AE%B6%E4%BA%BA%E7%9A%84%E5%81%A5%E5%BA%B7%23",
-      "hot_value": "36548",
-      "index": 23
-    },
-    {
-      "title": "韦世豪禁赛影响国足热身赛",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%A6%81%E8%B5%9B%E5%BD%B1%E5%93%8D%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B%23",
-      "hot_value": "36139",
-      "index": 24
-    },
-    {
-      "title": "iPhoneDuo预订价冲至39999元",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E9%A2%84%E8%AE%A2%E4%BB%B7%E5%86%B2%E8%87%B339999%E5%85%83%23",
-      "hot_value": "35878",
-      "index": 25
-    },
-    {
-      "title": "真正会诱发性早熟的5个因素",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E4%BC%9A%E8%AF%B1%E5%8F%91%E6%80%A7%E6%97%A9%E7%86%9F%E7%9A%845%E4%B8%AA%E5%9B%A0%E7%B4%A0%23",
-      "hot_value": "33324",
-      "index": 26
+      "hot_value": "97635",
+      "index": 22
     },
     {
       "title": "其实一个人保持体面真的很不容易",
       "url": "https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BF%9D%E6%8C%81%E4%BD%93%E9%9D%A2%E7%9C%9F%E7%9A%84%E5%BE%88%E4%B8%8D%E5%AE%B9%E6%98%93%23",
-      "hot_value": "33273",
+      "hot_value": "97277",
+      "index": 23
+    },
+    {
+      "title": "iPhoneDuo预订价冲至39999元",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E9%A2%84%E8%AE%A2%E4%BB%B7%E5%86%B2%E8%87%B339999%E5%85%83%23",
+      "hot_value": "97045",
+      "index": 24
+    },
+    {
+      "title": "真正会诱发性早熟的5个因素",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E4%BC%9A%E8%AF%B1%E5%8F%91%E6%80%A7%E6%97%A9%E7%86%9F%E7%9A%845%E4%B8%AA%E5%9B%A0%E7%B4%A0%23",
+      "hot_value": "96487",
+      "index": 25
+    },
+    {
+      "title": "金饰价一夜跌到1304元",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E4%B8%80%E5%A4%9C%E8%B7%8C%E5%88%B01304%E5%85%83%23",
+      "hot_value": "96218",
+      "index": 26
+    },
+    {
+      "title": "兰香如故首播热度破22000",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E9%A6%96%E6%92%AD%E7%83%AD%E5%BA%A6%E7%A0%B422000%23",
+      "hot_value": "95696",
       "index": 27
     },
     {
-      "title": "iPhone18不是长条手机我好失望",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E4%B8%8D%E6%98%AF%E9%95%BF%E6%9D%A1%E6%89%8B%E6%9C%BA%E6%88%91%E5%A5%BD%E5%A4%B1%E6%9C%9B%23",
-      "hot_value": "33192",
+      "title": "孙燕姿演唱会摔倒",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%91%94%E5%80%92%23",
+      "hot_value": "95283",
       "index": 28
     },
     {
-      "title": "雷军回应科技新一",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E7%A7%91%E6%8A%80%E6%96%B0%E4%B8%80%23",
-      "hot_value": "33171",
+      "title": "16个月女婴吞纽扣电池食道严重腐烂",
+      "url": "https://s.weibo.com/weibo?q=%2316%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%A9%B4%E5%90%9E%E7%BA%BD%E6%89%A3%E7%94%B5%E6%B1%A0%E9%A3%9F%E9%81%93%E4%B8%A5%E9%87%8D%E8%85%90%E7%83%82%23",
+      "hot_value": "94903",
       "index": 29
     },
     {
-      "title": "曝iPhone18标准版工艺倒退",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18%E6%A0%87%E5%87%86%E7%89%88%E5%B7%A5%E8%89%BA%E5%80%92%E9%80%80%23",
-      "hot_value": "33086",
+      "title": "官方通报男子编造女生催资助",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E5%A5%B3%E7%94%9F%E5%82%AC%E8%B5%84%E5%8A%A9%23",
+      "hot_value": "94416",
       "index": 30
     }
   ]
