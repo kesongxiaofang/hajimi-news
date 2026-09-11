@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-11T15:46:17Z",
+  "update_time": "2026-09-11T18:56:29Z",
   "count": 30,
   "list": [
     {
-      "title": "《阴阳师》十周年庆典现已开启丨送你这样好的「石莲金」",
-      "url": "https://www.bilibili.com/video/BV1ZXY464EfR",
-      "hot_value": "1260488播放",
+      "title": "校长来啦",
+      "url": "https://www.bilibili.com/video/BV1odY76aEio",
+      "hot_value": "462161播放",
       "index": 1
-    },
-    {
-      "title": "【月行水上】SR-EX-1至SR-EX-8突袭 摆完挂机 简单好抄",
-      "url": "https://www.bilibili.com/video/BV18bYL65E54",
-      "hot_value": "795302播放",
-      "index": 2
     },
     {
       "title": "《对三骗王炸》",
       "url": "https://www.bilibili.com/video/BV1bxYV6BEwS",
-      "hot_value": "1558655播放",
+      "hot_value": "2031842播放",
+      "index": 2
+    },
+    {
+      "title": "【月行水上】SR-EX-1至SR-EX-8突袭 摆完挂机 简单好抄",
+      "url": "https://www.bilibili.com/video/BV18bYL65E54",
+      "hot_value": "1018909播放",
       "index": 3
     },
     {
-      "title": "近期热点事件：9月神人合集（一）",
-      "url": "https://www.bilibili.com/video/BV1eAYT6FEVx",
-      "hot_value": "746419播放",
+      "title": "要打针还是亲亲？",
+      "url": "https://www.bilibili.com/video/BV1fYYj68EiU",
+      "hot_value": "248163播放",
       "index": 4
-    },
-    {
-      "title": "【战双帕弥什】「远信回响」版本PV",
-      "url": "https://www.bilibili.com/video/BV1bSYx66Eg3",
-      "hot_value": "549517播放",
-      "index": 5
-    },
-    {
-      "title": "换一种心跳，感受世界的奇妙——《伊莫》联结玩法实机",
-      "url": "https://www.bilibili.com/video/BV1kMYb6KEQ9",
-      "hot_value": "1473481播放",
-      "index": 6
-    },
-    {
-      "title": "【糖果】人类就要冲出太阳系了！然后被宇宙嫌弃了",
-      "url": "https://www.bilibili.com/video/BV1WuYh6VEaS",
-      "hot_value": "1487954播放",
-      "index": 7
-    },
-    {
-      "title": "差一天就能看到糖花の“监狱vlog”了",
-      "url": "https://www.bilibili.com/video/BV12HYu6REYk",
-      "hot_value": "1549700播放",
-      "index": 8
-    },
-    {
-      "title": "当我把“大地”穿在身上｜结合自然元素还原绝美大地女神",
-      "url": "https://www.bilibili.com/video/BV1uFYg6fETn",
-      "hot_value": "1754420播放",
-      "index": 9
-    },
-    {
-      "title": "【赛尔号】灵渊的回响主线版本PV「风暴之中，雷神降临」",
-      "url": "https://www.bilibili.com/video/BV149Yt61ErM",
-      "hot_value": "536090播放",
-      "index": 10
-    },
-    {
-      "title": "你会翻过山，看到万丈青天",
-      "url": "https://www.bilibili.com/video/BV19JYL6nE34",
-      "hot_value": "201760播放",
-      "index": 11
-    },
-    {
-      "title": "“人们常常在夏天结束时，回忆那些美好的时光... ”【Shawdow of the sun】【夏天结束の小曲】",
-      "url": "https://www.bilibili.com/video/BV16XbP6sEX2",
-      "hot_value": "686290播放",
-      "index": 12
     },
     {
       "title": "【warma/怒九】出国！去逛全球最大的游戏展吧！",
       "url": "https://www.bilibili.com/video/BV1fsYG6JErA",
-      "hot_value": "362695播放",
-      "index": 13
-    },
-    {
-      "title": "全新华为展翼三折叠，一切都不一样了！华为Mate XT 2 非凡大师首发测评",
-      "url": "https://www.bilibili.com/video/BV1NJYj6gEvt",
-      "hot_value": "106902播放",
-      "index": 14
-    },
-    {
-      "title": "内个奥特曼折磨护航怪兽一整局！",
-      "url": "https://www.bilibili.com/video/BV1ZzYu6VEfk",
-      "hot_value": "951343播放",
-      "index": 15
+      "hot_value": "499984播放",
+      "index": 5
     },
     {
       "title": "行业top3厂二代，出生就在罗马，毕业后却还是得每天上班，压力山大",
       "url": "https://www.bilibili.com/video/BV1jBYT6KEWQ",
-      "hot_value": "923570播放",
-      "index": 16
+      "hot_value": "1031136播放",
+      "index": 6
     },
     {
-      "title": "【招笑版】新植物9:力竭豌豆【bilibilionly同人扶持计划】",
-      "url": "https://www.bilibili.com/video/BV1sbbj6bEut",
-      "hot_value": "2320263播放",
-      "index": 17
+      "title": "你会翻过山，看到万丈青天",
+      "url": "https://www.bilibili.com/video/BV19JYL6nE34",
+      "hot_value": "321697播放",
+      "index": 7
     },
     {
       "title": "【徐静雨×追梦格林】贴脸开大！谁是篮球自媒体Goat？",
       "url": "https://www.bilibili.com/video/BV1CCY76kEmt",
-      "hot_value": "176683播放",
+      "hot_value": "280807播放",
+      "index": 8
+    },
+    {
+      "title": "简单做个毛血旺！麻辣下饭好过瘾！配上红烧茄子和炒西瓜皮，根本满足啊",
+      "url": "https://www.bilibili.com/video/BV1jrYT6NERW",
+      "hot_value": "367091播放",
+      "index": 9
+    },
+    {
+      "title": "如何制造海苔",
+      "url": "https://www.bilibili.com/video/BV1NsYE6yEna",
+      "hot_value": "245103播放",
+      "index": 10
+    },
+    {
+      "title": "只不过是学会了化妆，对象非说我整容了……",
+      "url": "https://www.bilibili.com/video/BV14NYg6xEdH",
+      "hot_value": "1093449播放",
+      "index": 11
+    },
+    {
+      "title": "近期热点事件：9月神人合集（一）",
+      "url": "https://www.bilibili.com/video/BV1eAYT6FEVx",
+      "hot_value": "889526播放",
+      "index": 12
+    },
+    {
+      "title": "【西西里 | 官方MV 】周杰伦 MV从画面、运镜到剧情铺陈，都以电影规格打造，宛如一部浓缩版的动作电影。",
+      "url": "https://www.bilibili.com/video/BV17mYV6WEe5",
+      "hot_value": "427872播放",
+      "index": 13
+    },
+    {
+      "title": "学校这一块",
+      "url": "https://www.bilibili.com/video/BV1asY76REEt",
+      "hot_value": "309987播放",
+      "index": 14
+    },
+    {
+      "title": "【糖果】人类就要冲出太阳系了！然后被宇宙嫌弃了",
+      "url": "https://www.bilibili.com/video/BV1WuYh6VEaS",
+      "hot_value": "1644291播放",
+      "index": 15
+    },
+    {
+      "title": "10人新疆夏塔古道徒步，1人遇难1人失踪，队友选择集体隐瞒",
+      "url": "https://www.bilibili.com/video/BV14eY76UEXC",
+      "hot_value": "291572播放",
+      "index": 16
+    },
+    {
+      "title": "差一天就能看到糖花の“监狱vlog”了",
+      "url": "https://www.bilibili.com/video/BV12HYu6REYk",
+      "hot_value": "1722897播放",
+      "index": 17
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第8集】",
+      "url": "https://www.bilibili.com/video/BV1CDYg69EGL",
+      "hot_value": "1446188播放",
       "index": 18
     },
     {
       "title": "最嘉豪的高招S！简单氪40个648招募5星S晓朱鼬！潇洒玩弄对手的实战测评！",
       "url": "https://www.bilibili.com/video/BV1fYYj68Eme",
-      "hot_value": "427175播放",
+      "hot_value": "534095播放",
       "index": 19
     },
     {
-      "title": "要打针还是亲亲？",
-      "url": "https://www.bilibili.com/video/BV1fYYj68EiU",
-      "hot_value": "120965播放",
+      "title": "我真有那么像外国人吗…!?",
+      "url": "https://www.bilibili.com/video/BV1aTYT64EQH",
+      "hot_value": "200407播放",
       "index": 20
     },
     {
-      "title": "众望所归，今天带孙艺洲自律！",
-      "url": "https://www.bilibili.com/video/BV1e1Y86fEPD",
-      "hot_value": "1362716播放",
+      "title": "【招笑版】新植物9:力竭豌豆【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1sbbj6bEut",
+      "hot_value": "2452458播放",
       "index": 21
     },
     {
-      "title": "对话OPPO 陈希：ColorOS 17 流畅到底由什么决定？",
-      "url": "https://www.bilibili.com/video/BV1LjYL6WEg4",
-      "hot_value": "336859播放",
+      "title": "第一次用三折叠，是啥感受？华为Mate XT 2 体验",
+      "url": "https://www.bilibili.com/video/BV1JVY76PEhD",
+      "hot_value": "95357播放",
       "index": 22
     },
     {
-      "title": "京圈太子爷，论迹不论心",
-      "url": "https://www.bilibili.com/video/BV1ThY46kERk",
-      "hot_value": "884480播放",
+      "title": "勇敢的人先折磨世界..",
+      "url": "https://www.bilibili.com/video/BV1phYu6SEjp",
+      "hot_value": "466574播放",
       "index": 23
     },
     {
-      "title": "只不过是学会了化妆，对象非说我整容了……",
-      "url": "https://www.bilibili.com/video/BV14NYg6xEdH",
-      "hot_value": "957144播放",
+      "title": "换一种心跳，感受世界的奇妙——《伊莫》联结玩法实机",
+      "url": "https://www.bilibili.com/video/BV1kMYb6KEQ9",
+      "hot_value": "1604252播放",
       "index": 24
     },
     {
-      "title": "琵琶曲丨幺幺妻&老牧师",
-      "url": "https://www.bilibili.com/video/BV1tjb56fEJs",
-      "hot_value": "2280358播放",
+      "title": "小 兵 阿 嘎",
+      "url": "https://www.bilibili.com/video/BV1zuY46oE2V",
+      "hot_value": "185296播放",
       "index": 25
-    },
-    {
-      "title": "我要把这个雪山天坑建造成一处秘境！",
-      "url": "https://www.bilibili.com/video/BV1WNYJ67EdR",
-      "hot_value": "1710947播放",
-      "index": 26
-    },
-    {
-      "title": "三年之期已到，恭迎世一上归位！【第8集】",
-      "url": "https://www.bilibili.com/video/BV1CDYg69EGL",
-      "hot_value": "1340312播放",
-      "index": 27
-    },
-    {
-      "title": "人生很长，衡量它的尺标，没必要太短",
-      "url": "https://www.bilibili.com/video/BV1HBY36QEFL",
-      "hot_value": "320825播放",
-      "index": 28
     },
     {
       "title": "每说一个杰字，文明倒退一次",
       "url": "https://www.bilibili.com/video/BV1mcYH6oEGp",
-      "hot_value": "2085486播放",
+      "hot_value": "2213318播放",
+      "index": 26
+    },
+    {
+      "title": "你一定不能错过世界上最好听的音乐——巴西音乐!丨HOPICO",
+      "url": "https://www.bilibili.com/video/BV1XNYt6EEzD",
+      "hot_value": "234710播放",
+      "index": 27
+    },
+    {
+      "title": "大巴车上的baby，后面bbox和rap的极致配合",
+      "url": "https://www.bilibili.com/video/BV1gGbN6rEk9",
+      "hot_value": "721645播放",
+      "index": 28
+    },
+    {
+      "title": "内个奥特曼折磨护航怪兽一整局！",
+      "url": "https://www.bilibili.com/video/BV1ZzYu6VEfk",
+      "hot_value": "1080732播放",
       "index": 29
     },
     {
-      "title": "「突围吧·少年」 —— 这一次，“突围”不是带出物资",
-      "url": "https://www.bilibili.com/video/BV1iTYp6kEwG",
-      "hot_value": "1515493播放",
+      "title": "展翼三折叠这么会玩儿？华为Mate XT 2 非凡大师",
+      "url": "https://www.bilibili.com/video/BV13MYE6xEt9",
+      "hot_value": "98295播放",
       "index": 30
     }
   ]
