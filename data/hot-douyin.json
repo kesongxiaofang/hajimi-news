@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-09-12T07:38:28Z",
+  "update_time": "2026-09-12T11:56:19Z",
   "count": 30,
   "list": [
     {
+      "title": "中国男篮大胜巴林",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%A4%A7%E8%83%9C%E5%B7%B4%E6%9E%97?type=general",
+      "hot_value": "12024715",
+      "index": 1
+    },
+    {
       "title": "世界是一本巨大的教科书",
       "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E6%9C%AC%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%95%99%E7%A7%91%E4%B9%A6?type=general",
-      "hot_value": "11799728",
-      "index": 1
+      "hot_value": "11900719",
+      "index": 2
+    },
+    {
+      "title": "70秒了解金砖力量",
+      "url": "https://www.douyin.com/search/70%E7%A7%92%E4%BA%86%E8%A7%A3%E9%87%91%E7%A0%96%E5%8A%9B%E9%87%8F?type=general",
+      "hot_value": "11183489",
+      "index": 3
     },
     {
       "title": "2026法考客观题开考",
       "url": "https://www.douyin.com/search/2026%E6%B3%95%E8%80%83%E5%AE%A2%E8%A7%82%E9%A2%98%E5%BC%80%E8%80%83?type=general",
-      "hot_value": "11757863",
-      "index": 2
+      "hot_value": "11100436",
+      "index": 4
     },
     {
       "title": "手搓万物的抖音“工程师”",
       "url": "https://www.douyin.com/search/%E6%89%8B%E6%90%93%E4%B8%87%E7%89%A9%E7%9A%84%E6%8A%96%E9%9F%B3%E2%80%9C%E5%B7%A5%E7%A8%8B%E5%B8%88%E2%80%9D?type=general",
-      "hot_value": "11137779",
-      "index": 3
-    },
-    {
-      "title": "把长征精神转化成建设新时代的动力",
-      "url": "https://www.douyin.com/search/%E6%8A%8A%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E%E8%BD%AC%E5%8C%96%E6%88%90%E5%BB%BA%E8%AE%BE%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8A%A8%E5%8A%9B?type=general",
-      "hot_value": "10435895",
-      "index": 4
-    },
-    {
-      "title": "丁俊晖晋级英格兰公开赛四强",
-      "url": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA?type=general",
-      "hot_value": "10335230",
+      "hot_value": "10542925",
       "index": 5
     },
     {
       "title": "茸主将对阵拉法加西亚",
       "url": "https://www.douyin.com/search/%E8%8C%B8%E4%B8%BB%E5%B0%86%E5%AF%B9%E9%98%B5%E6%8B%89%E6%B3%95%E5%8A%A0%E8%A5%BF%E4%BA%9A?type=general",
-      "hot_value": "9215182",
+      "hot_value": "10498634",
       "index": 6
+    },
+    {
+      "title": "2026大海道拉力赛正式完赛",
+      "url": "https://www.douyin.com/search/2026%E5%A4%A7%E6%B5%B7%E9%81%93%E6%8B%89%E5%8A%9B%E8%B5%9B%E6%AD%A3%E5%BC%8F%E5%AE%8C%E8%B5%9B?type=general",
+      "hot_value": "9376229",
+      "index": 7
     },
     {
       "title": "KPL夏决天狼大战",
       "url": "https://www.douyin.com/search/KPL%E5%A4%8F%E5%86%B3%E5%A4%A9%E7%8B%BC%E5%A4%A7%E6%88%98?type=general",
-      "hot_value": "9099835",
-      "index": 7
-    },
-    {
-      "title": "油车销量大跌加油站该怎么办",
-      "url": "https://www.douyin.com/search/%E6%B2%B9%E8%BD%A6%E9%94%80%E9%87%8F%E5%A4%A7%E8%B7%8C%E5%8A%A0%E6%B2%B9%E7%AB%99%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E?type=general",
-      "hot_value": "8668699",
+      "hot_value": "9298265",
       "index": 8
-    },
-    {
-      "title": "开学就这样搞二次元",
-      "url": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E5%B0%B1%E8%BF%99%E6%A0%B7%E6%90%9E%E4%BA%8C%E6%AC%A1%E5%85%83?type=general",
-      "hot_value": "8542121",
-      "index": 9
     },
     {
       "title": "终于在秋天来到赛里木湖",
       "url": "https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E5%9C%A8%E7%A7%8B%E5%A4%A9%E6%9D%A5%E5%88%B0%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96?type=general",
-      "hot_value": "8281677",
+      "hot_value": "9214705",
+      "index": 9
+    },
+    {
+      "title": "潜入地下89米的钢铁穿山甲",
+      "url": "https://www.douyin.com/search/%E6%BD%9C%E5%85%A5%E5%9C%B0%E4%B8%8B89%E7%B1%B3%E7%9A%84%E9%92%A2%E9%93%81%E7%A9%BF%E5%B1%B1%E7%94%B2?type=general",
+      "hot_value": "8683528",
       "index": 10
+    },
+    {
+      "title": "张杰杭州演唱会",
+      "url": "https://www.douyin.com/search/%E5%BC%A0%E6%9D%B0%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "8414446",
+      "index": 11
     },
     {
       "title": "AL vs IG",
       "url": "https://www.douyin.com/search/AL%20vs%20IG?type=general",
-      "hot_value": "7842128",
-      "index": 11
+      "hot_value": "8281062",
+      "index": 12
+    },
+    {
+      "title": "吃三四个饺子就长肉正常吗",
+      "url": "https://www.douyin.com/search/%E5%90%83%E4%B8%89%E5%9B%9B%E4%B8%AA%E9%A5%BA%E5%AD%90%E5%B0%B1%E9%95%BF%E8%82%89%E6%AD%A3%E5%B8%B8%E5%90%97?type=general",
+      "hot_value": "8138677",
+      "index": 13
+    },
+    {
+      "title": "邓紫棋深圳演唱会",
+      "url": "https://www.douyin.com/search/%E9%82%93%E7%B4%AB%E6%A3%8B%E6%B7%B1%E5%9C%B3%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "8120070",
+      "index": 14
+    },
+    {
+      "title": "谢霆锋长沙演唱会",
+      "url": "https://www.douyin.com/search/%E8%B0%A2%E9%9C%86%E9%94%8B%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "8035989",
+      "index": 15
+    },
+    {
+      "title": "父亲 我把你的作品发出来了",
+      "url": "https://www.douyin.com/search/%E7%88%B6%E4%BA%B2%20%E6%88%91%E6%8A%8A%E4%BD%A0%E7%9A%84%E4%BD%9C%E5%93%81%E5%8F%91%E5%87%BA%E6%9D%A5%E4%BA%86?type=general",
+      "hot_value": "7832421",
+      "index": 16
+    },
+    {
+      "title": "你总说流星划过天空时很亮",
+      "url": "https://www.douyin.com/search/%E4%BD%A0%E6%80%BB%E8%AF%B4%E6%B5%81%E6%98%9F%E5%88%92%E8%BF%87%E5%A4%A9%E7%A9%BA%E6%97%B6%E5%BE%88%E4%BA%AE?type=general",
+      "hot_value": "7804092",
+      "index": 17
+    },
+    {
+      "title": "丁俊晖晋级英格兰公开赛四强",
+      "url": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA?type=general",
+      "hot_value": "7798126",
+      "index": 18
+    },
+    {
+      "title": "普京抵达新德里与莫迪会面",
+      "url": "https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%96%B0%E5%BE%B7%E9%87%8C%E4%B8%8E%E8%8E%AB%E8%BF%AA%E4%BC%9A%E9%9D%A2?type=general",
+      "hot_value": "7774554",
+      "index": 19
     },
     {
       "title": "一种新的吵架方式",
       "url": "https://www.douyin.com/search/%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84%E5%90%B5%E6%9E%B6%E6%96%B9%E5%BC%8F?type=general",
-      "hot_value": "7839936",
-      "index": 12
+      "hot_value": "7774527",
+      "index": 20
     },
     {
-      "title": "本周谣言鉴别",
-      "url": "https://www.douyin.com/search/%E6%9C%AC%E5%91%A8%E8%B0%A3%E8%A8%80%E9%89%B4%E5%88%AB?type=general",
-      "hot_value": "7830591",
-      "index": 13
+      "title": "今夜的风悄悄月悄悄 吻你的眉梢",
+      "url": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%9C%E7%9A%84%E9%A3%8E%E6%82%84%E6%82%84%E6%9C%88%E6%82%84%E6%82%84%20%E5%90%BB%E4%BD%A0%E7%9A%84%E7%9C%89%E6%A2%A2?type=general",
+      "hot_value": "7773759",
+      "index": 21
     },
     {
-      "title": "周启豪1:4不敌张本智和",
-      "url": "https://www.douyin.com/search/%E5%91%A8%E5%90%AF%E8%B1%AA1%3A4%E4%B8%8D%E6%95%8C%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C?type=general",
-      "hot_value": "7818544",
-      "index": 14
+      "title": "我的穿搭思路有点野",
+      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E7%A9%BF%E6%90%AD%E6%80%9D%E8%B7%AF%E6%9C%89%E7%82%B9%E9%87%8E?type=general",
+      "hot_value": "7762031",
+      "index": 22
     },
     {
       "title": "张凌赫刺棠权谋感拿捏了",
       "url": "https://www.douyin.com/search/%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%BA%E6%A3%A0%E6%9D%83%E8%B0%8B%E6%84%9F%E6%8B%BF%E6%8D%8F%E4%BA%86?type=general",
-      "hot_value": "7803578",
-      "index": 15
+      "hot_value": "7757488",
+      "index": 23
     },
     {
-      "title": "周星驰出品短剧版食神开播",
-      "url": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E5%87%BA%E5%93%81%E7%9F%AD%E5%89%A7%E7%89%88%E9%A3%9F%E7%A5%9E%E5%BC%80%E6%92%AD?type=general",
-      "hot_value": "7796433",
-      "index": 16
+      "title": "陈小春哈尔滨演唱会",
+      "url": "https://www.douyin.com/search/%E9%99%88%E5%B0%8F%E6%98%A5%E5%93%88%E5%B0%94%E6%BB%A8%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "7754758",
+      "index": 24
     },
     {
       "title": "终于我也成了第一个接孩子的家长",
       "url": "https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%88%91%E4%B9%9F%E6%88%90%E4%BA%86%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8E%A5%E5%AD%A9%E5%AD%90%E7%9A%84%E5%AE%B6%E9%95%BF?type=general",
-      "hot_value": "7780226",
-      "index": 17
+      "hot_value": "7751629",
+      "index": 25
     },
     {
-      "title": "网友寻找涂鸦画出属于我们的家",
-      "url": "https://www.douyin.com/search/%E7%BD%91%E5%8F%8B%E5%AF%BB%E6%89%BE%E6%B6%82%E9%B8%A6%E7%94%BB%E5%87%BA%E5%B1%9E%E4%BA%8E%E6%88%91%E4%BB%AC%E7%9A%84%E5%AE%B6?type=general",
-      "hot_value": "7779804",
-      "index": 18
-    },
-    {
-      "title": "解锁AI韩剧生存模式",
-      "url": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81AI%E9%9F%A9%E5%89%A7%E7%94%9F%E5%AD%98%E6%A8%A1%E5%BC%8F?type=general",
-      "hot_value": "7777619",
-      "index": 19
-    },
-    {
-      "title": "动物大迁徙我也看上啦",
-      "url": "https://www.douyin.com/search/%E5%8A%A8%E7%89%A9%E5%A4%A7%E8%BF%81%E5%BE%99%E6%88%91%E4%B9%9F%E7%9C%8B%E4%B8%8A%E5%95%A6?type=general",
-      "hot_value": "7776756",
-      "index": 20
+      "title": "没有你在 我有多难熬",
+      "url": "https://www.douyin.com/search/%E6%B2%A1%E6%9C%89%E4%BD%A0%E5%9C%A8%20%E6%88%91%E6%9C%89%E5%A4%9A%E9%9A%BE%E7%86%AC?type=general",
+      "hot_value": "7746990",
+      "index": 26
     },
     {
       "title": "当我赶路时撞见一场漫天晚霞",
       "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E8%B5%B6%E8%B7%AF%E6%97%B6%E6%92%9E%E8%A7%81%E4%B8%80%E5%9C%BA%E6%BC%AB%E5%A4%A9%E6%99%9A%E9%9C%9E?type=general",
-      "hot_value": "7775327",
-      "index": 21
-    },
-    {
-      "title": "我要和你玩一辈子",
-      "url": "https://www.douyin.com/search/%E6%88%91%E8%A6%81%E5%92%8C%E4%BD%A0%E7%8E%A9%E4%B8%80%E8%BE%88%E5%AD%90?type=general",
-      "hot_value": "7774583",
-      "index": 22
-    },
-    {
-      "title": "卢昱晓刺棠执棋者美之爽之",
-      "url": "https://www.douyin.com/search/%E5%8D%A2%E6%98%B1%E6%99%93%E5%88%BA%E6%A3%A0%E6%89%A7%E6%A3%8B%E8%80%85%E7%BE%8E%E4%B9%8B%E7%88%BD%E4%B9%8B?type=general",
-      "hot_value": "7772015",
-      "index": 23
-    },
-    {
-      "title": "兹维列夫击败卡恰诺夫进美网决赛",
-      "url": "https://www.douyin.com/search/%E5%85%B9%E7%BB%B4%E5%88%97%E5%A4%AB%E5%87%BB%E8%B4%A5%E5%8D%A1%E6%81%B0%E8%AF%BA%E5%A4%AB%E8%BF%9B%E7%BE%8E%E7%BD%91%E5%86%B3%E8%B5%9B?type=general",
-      "hot_value": "7754044",
-      "index": 24
-    },
-    {
-      "title": "holymoly转起来",
-      "url": "https://www.douyin.com/search/holymoly%E8%BD%AC%E8%B5%B7%E6%9D%A5?type=general",
-      "hot_value": "7753388",
-      "index": 25
-    },
-    {
-      "title": "兰香如故沈家满门忠烈",
-      "url": "https://www.douyin.com/search/%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%B2%88%E5%AE%B6%E6%BB%A1%E9%97%A8%E5%BF%A0%E7%83%88?type=general",
-      "hot_value": "7747802",
-      "index": 26
+      "hot_value": "7740703",
+      "index": 27
     },
     {
       "title": "张国荣诞辰70周年",
       "url": "https://www.douyin.com/search/%E5%BC%A0%E5%9B%BD%E8%8D%A3%E8%AF%9E%E8%BE%B070%E5%91%A8%E5%B9%B4?type=general",
-      "hot_value": "7745476",
-      "index": 27
-    },
-    {
-      "title": "三角洲S11全地图最赚钱路线",
-      "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2S11%E5%85%A8%E5%9C%B0%E5%9B%BE%E6%9C%80%E8%B5%9A%E9%92%B1%E8%B7%AF%E7%BA%BF?type=general",
-      "hot_value": "7744497",
+      "hot_value": "7740664",
       "index": 28
     },
     {
-      "title": "蛋仔牛格测试攻略",
-      "url": "https://www.douyin.com/search/%E8%9B%8B%E4%BB%94%E7%89%9B%E6%A0%BC%E6%B5%8B%E8%AF%95%E6%94%BB%E7%95%A5?type=general",
-      "hot_value": "7742246",
+      "title": "解锁AI韩剧生存模式",
+      "url": "https://www.douyin.com/search/%E8%A7%A3%E9%94%81AI%E9%9F%A9%E5%89%A7%E7%94%9F%E5%AD%98%E6%A8%A1%E5%BC%8F?type=general",
+      "hot_value": "7738689",
       "index": 29
     },
     {
-      "title": "井柏然孙千片场互拍太好笑",
-      "url": "https://www.douyin.com/search/%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E7%89%87%E5%9C%BA%E4%BA%92%E6%8B%8D%E5%A4%AA%E5%A5%BD%E7%AC%91?type=general",
-      "hot_value": "7736200",
+      "title": "我要和你玩一辈子",
+      "url": "https://www.douyin.com/search/%E6%88%91%E8%A6%81%E5%92%8C%E4%BD%A0%E7%8E%A9%E4%B8%80%E8%BE%88%E5%AD%90?type=general",
+      "hot_value": "7727473",
       "index": 30
     }
   ]

@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-09-12T07:38:28Z",
+  "update_time": "2026-09-12T11:56:19Z",
   "count": 30,
   "list": [
     {
-      "title": "雷军为澎程车主开车门",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E4%B8%BA%E6%BE%8E%E7%A8%8B%E8%BD%A6%E4%B8%BB%E5%BC%80%E8%BD%A6%E9%97%A8%23",
-      "hot_value": "1083391",
+      "title": "雷军赴徐州交付小米澎程原因",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%B5%B4%E5%BE%90%E5%B7%9E%E4%BA%A4%E4%BB%98%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8E%9F%E5%9B%A0%23",
+      "hot_value": "1047442",
       "index": 1
     },
     {
-      "title": "支付宝回应出现假App",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E5%9B%9E%E5%BA%94%E5%87%BA%E7%8E%B0%E5%81%87App%23",
-      "hot_value": "761064",
+      "title": "罗永浩谈付航脱口秀禁黄牛票入场",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B0%88%E4%BB%98%E8%88%AA%E8%84%B1%E5%8F%A3%E7%A7%80%E7%A6%81%E9%BB%84%E7%89%9B%E7%A5%A8%E5%85%A5%E5%9C%BA%23",
+      "hot_value": "749076",
       "index": 2
     },
     {
-      "title": "一组海报带你看金砖",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E6%B5%B7%E6%8A%A5%E5%B8%A6%E4%BD%A0%E7%9C%8B%E9%87%91%E7%A0%96%23",
-      "hot_value": "640653",
+      "title": "跨国企业看好中国市场机遇",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%9B%BD%E4%BC%81%E4%B8%9A%E7%9C%8B%E5%A5%BD%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%9C%BA%E9%81%87%23",
+      "hot_value": "577013",
       "index": 3
     },
     {
-      "title": "支付宝 假APP",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D+%E5%81%87APP%23",
-      "hot_value": "637533",
+      "title": "AL对战IG",
+      "url": "https://s.weibo.com/weibo?q=%23AL%E5%AF%B9%E6%88%98IG%23",
+      "hot_value": "497782",
       "index": 4
     },
     {
-      "title": "男孩不爱喝牛奶在早餐店销赃",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B8%8D%E7%88%B1%E5%96%9D%E7%89%9B%E5%A5%B6%E5%9C%A8%E6%97%A9%E9%A4%90%E5%BA%97%E9%94%80%E8%B5%83%23",
-      "hot_value": "633672",
+      "title": "全国最大泡泡玛特开业",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%BC%80%E4%B8%9A%23",
+      "hot_value": "446338",
       "index": 5
     },
     {
-      "title": "张月浪姐四公直接离场的原因",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%23",
-      "hot_value": "384952",
+      "title": "茶叶蛋vs白煮蛋",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8C%B6%E5%8F%B6%E8%9B%8Bvs%E7%99%BD%E7%85%AE%E8%9B%8B%23",
+      "hot_value": "443025",
       "index": 6
     },
     {
-      "title": "最尊重男扮女装的剧",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%B0%8A%E9%87%8D%E7%94%B7%E6%89%AE%E5%A5%B3%E8%A3%85%E7%9A%84%E5%89%A7%23",
-      "hot_value": "290297",
+      "title": "张元英Dior大秀",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1Dior%E5%A4%A7%E7%A7%80%23",
+      "hot_value": "439070",
       "index": 7
     },
     {
-      "title": "国乒男单全军覆没",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1%23",
-      "hot_value": "287257",
+      "title": "说唱巅峰对决2026总决赛",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B32026%E6%80%BB%E5%86%B3%E8%B5%9B%23",
+      "hot_value": "319227",
       "index": 8
     },
     {
       "title": "兰香如故",
       "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%23",
-      "hot_value": "276140",
+      "hot_value": "297755",
       "index": 9
     },
     {
-      "title": "菲尔兹奖得主称AI与数学正严重错位",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0AI%E4%B8%8E%E6%95%B0%E5%AD%A6%E6%AD%A3%E4%B8%A5%E9%87%8D%E9%94%99%E4%BD%8D%23",
-      "hot_value": "237702",
+      "title": "普京称不明白G7为什么还叫大国",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B8%8D%E6%98%8E%E7%99%BDG7%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E5%8F%AB%E5%A4%A7%E5%9B%BD%23",
+      "hot_value": "297721",
       "index": 10
+    },
+    {
+      "title": "郑佩佩自传里写的花少",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E4%BD%A9%E4%BD%A9%E8%87%AA%E4%BC%A0%E9%87%8C%E5%86%99%E7%9A%84%E8%8A%B1%E5%B0%91%23",
+      "hot_value": "297349",
+      "index": 11
+    },
+    {
+      "title": "支付宝 假APP",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D+%E5%81%87APP%23",
+      "hot_value": "297277",
+      "index": 12
     },
     {
       "title": "郭文韬当爸",
       "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%96%87%E9%9F%AC%E5%BD%93%E7%88%B8%23",
-      "hot_value": "232329",
-      "index": 11
-    },
-    {
-      "title": "iPhoneDuo溢价至79999元",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E8%87%B379999%E5%85%83%23",
-      "hot_value": "226570",
-      "index": 12
-    },
-    {
-      "title": "LadyGaga疑似代孕",
-      "url": "https://s.weibo.com/weibo?q=%23LadyGaga%E7%96%91%E4%BC%BC%E4%BB%A3%E5%AD%95%23",
-      "hot_value": "224875",
+      "hot_value": "297050",
       "index": 13
     },
     {
-      "title": "穆祉丞用尽了所有中老年表情包",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E7%94%A8%E5%B0%BD%E4%BA%86%E6%89%80%E6%9C%89%E4%B8%AD%E8%80%81%E5%B9%B4%E8%A1%A8%E6%83%85%E5%8C%85%23",
-      "hot_value": "216520",
+      "title": "必须查清烧烤店两个月被查15次",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BF%85%E9%A1%BB%E6%9F%A5%E6%B8%85%E7%83%A7%E7%83%A4%E5%BA%97%E4%B8%A4%E4%B8%AA%E6%9C%88%E8%A2%AB%E6%9F%A515%E6%AC%A1%23",
+      "hot_value": "296760",
       "index": 14
     },
     {
-      "title": "台湾空姐鹤岗3万买房半退休",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%A9%BA%E5%A7%90%E9%B9%A4%E5%B2%973%E4%B8%87%E4%B9%B0%E6%88%BF%E5%8D%8A%E9%80%80%E4%BC%91%23",
-      "hot_value": "213373",
+      "title": "一条小团团首播",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E5%B0%8F%E5%9B%A2%E5%9B%A2%E9%A6%96%E6%92%AD%23",
+      "hot_value": "296636",
       "index": 15
     },
     {
-      "title": "文韬全程陪伴佳佳生产vlog",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E9%9F%AC%E5%85%A8%E7%A8%8B%E9%99%AA%E4%BC%B4%E4%BD%B3%E4%BD%B3%E7%94%9F%E4%BA%A7vlog%23",
-      "hot_value": "203650",
+      "title": "网传月之暗面创始人及员工信息系造谣",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8F%8A%E5%91%98%E5%B7%A5%E4%BF%A1%E6%81%AF%E7%B3%BB%E9%80%A0%E8%B0%A3%23",
+      "hot_value": "296356",
       "index": 16
     },
     {
-      "title": "公职人员回应被指饭店内强奸女子",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E9%A5%AD%E5%BA%97%E5%86%85%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%AD%90%23",
-      "hot_value": "200736",
+      "title": "女婴在月子中心无呼吸心跳送医死亡",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%9C%A8%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E6%97%A0%E5%91%BC%E5%90%B8%E5%BF%83%E8%B7%B3%E9%80%81%E5%8C%BB%E6%AD%BB%E4%BA%A1%23",
+      "hot_value": "296246",
       "index": 17
     },
     {
-      "title": "皇马 姆巴佩",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%AC+%E5%A7%86%E5%B7%B4%E4%BD%A9%23",
-      "hot_value": "195482",
+      "title": "教资科三",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E7%A7%91%E4%B8%89%23",
+      "hot_value": "295910",
       "index": 18
     },
     {
-      "title": "什么样的性格才适合当教师",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%80%A7%E6%A0%BC%E6%89%8D%E9%80%82%E5%90%88%E5%BD%93%E6%95%99%E5%B8%88%23",
-      "hot_value": "195008",
+      "title": "梅姨拒绝和大儿子一起过",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E6%8B%92%E7%BB%9D%E5%92%8C%E5%A4%A7%E5%84%BF%E5%AD%90%E4%B8%80%E8%B5%B7%E8%BF%87%23",
+      "hot_value": "295637",
       "index": 19
     },
     {
       "title": "法考",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%23",
-      "hot_value": "193125",
+      "hot_value": "295396",
       "index": 20
     },
     {
-      "title": "泰国网红僧侣已被还俗剥夺僧籍",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%BD%91%E7%BA%A2%E5%83%A7%E4%BE%A3%E5%B7%B2%E8%A2%AB%E8%BF%98%E4%BF%97%E5%89%A5%E5%A4%BA%E5%83%A7%E7%B1%8D%23",
-      "hot_value": "192830",
+      "title": "iG翻盘AL",
+      "url": "https://s.weibo.com/weibo?q=%23iG%E7%BF%BB%E7%9B%98AL%23",
+      "hot_value": "295287",
       "index": 21
     },
     {
-      "title": "KPL",
-      "url": "https://s.weibo.com/weibo?q=%23KPL%23",
-      "hot_value": "191751",
+      "title": "大润发多家门店检出不合格食品",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%B6%A6%E5%8F%91%E5%A4%9A%E5%AE%B6%E9%97%A8%E5%BA%97%E6%A3%80%E5%87%BA%E4%B8%8D%E5%90%88%E6%A0%BC%E9%A3%9F%E5%93%81%23",
+      "hot_value": "294966",
       "index": 22
     },
     {
-      "title": "杨幂上线回复祝福",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%8A%E7%BA%BF%E5%9B%9E%E5%A4%8D%E7%A5%9D%E7%A6%8F%23",
-      "hot_value": "189830",
+      "title": "付航脱口秀1000张黄牛票无法入场",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%88%AA%E8%84%B1%E5%8F%A3%E7%A7%801000%E5%BC%A0%E9%BB%84%E7%89%9B%E7%A5%A8%E6%97%A0%E6%B3%95%E5%85%A5%E5%9C%BA%23",
+      "hot_value": "294796",
       "index": 23
     },
     {
-      "title": "井柏然墨镜自拍",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%A2%A8%E9%95%9C%E8%87%AA%E6%8B%8D%23",
-      "hot_value": "189041",
+      "title": "赵樱子宋承宪自拍",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E5%AE%8B%E6%89%BF%E5%AE%AA%E8%87%AA%E6%8B%8D%23",
+      "hot_value": "294685",
       "index": 24
     },
     {
-      "title": "不建议谈本身就很好的人",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%B0%88%E6%9C%AC%E8%BA%AB%E5%B0%B1%E5%BE%88%E5%A5%BD%E7%9A%84%E4%BA%BA%23",
-      "hot_value": "187164",
+      "title": "名校硕士因第一学历是专科遭大厂拒绝",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%90%8D%E6%A0%A1%E7%A1%95%E5%A3%AB%E5%9B%A0%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%98%AF%E4%B8%93%E7%A7%91%E9%81%AD%E5%A4%A7%E5%8E%82%E6%8B%92%E7%BB%9D%23",
+      "hot_value": "294536",
       "index": 25
     },
     {
-      "title": "沈佳润新歌好尹美莱",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E6%96%B0%E6%AD%8C%E5%A5%BD%E5%B0%B9%E7%BE%8E%E8%8E%B1%23",
-      "hot_value": "186028",
+      "title": "张家齐想认邵兵当爸爸",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E6%83%B3%E8%AE%A4%E9%82%B5%E5%85%B5%E5%BD%93%E7%88%B8%E7%88%B8%23",
+      "hot_value": "289635",
       "index": 26
     },
     {
-      "title": "金砖是块什么砖",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E6%98%AF%E5%9D%97%E4%BB%80%E4%B9%88%E7%A0%96%23",
-      "hot_value": "185709",
+      "title": "胡歌说电影市场很现实",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%AF%B4%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%E5%BE%88%E7%8E%B0%E5%AE%9E%23",
+      "hot_value": "289272",
       "index": 27
     },
     {
-      "title": "短剧版左耳女主是黎吧啦",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%89%88%E5%B7%A6%E8%80%B3%E5%A5%B3%E4%B8%BB%E6%98%AF%E9%BB%8E%E5%90%A7%E5%95%A6%23",
-      "hot_value": "184270",
+      "title": "iPhoneDuo溢价至79999元",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E8%87%B379999%E5%85%83%23",
+      "hot_value": "289015",
       "index": 28
     },
     {
-      "title": "日本博主在排水沟洗头后高烧尿血",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8D%9A%E4%B8%BB%E5%9C%A8%E6%8E%92%E6%B0%B4%E6%B2%9F%E6%B4%97%E5%A4%B4%E5%90%8E%E9%AB%98%E7%83%A7%E5%B0%BF%E8%A1%80%23",
-      "hot_value": "182656",
+      "title": "台湾空姐鹤岗3万买房半退休",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%A9%BA%E5%A7%90%E9%B9%A4%E5%B2%973%E4%B8%87%E4%B9%B0%E6%88%BF%E5%8D%8A%E9%80%80%E4%BC%91%23",
+      "hot_value": "263429",
       "index": 29
     },
     {
-      "title": "陈妍希怀孕4个月还在拍戏",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%80%80%E5%AD%954%E4%B8%AA%E6%9C%88%E8%BF%98%E5%9C%A8%E6%8B%8D%E6%88%8F%23",
-      "hot_value": "181618",
+      "title": "婚前孕前检查真不是走个流程",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%89%8D%E5%AD%95%E5%89%8D%E6%A3%80%E6%9F%A5%E7%9C%9F%E4%B8%8D%E6%98%AF%E8%B5%B0%E4%B8%AA%E6%B5%81%E7%A8%8B%23",
+      "hot_value": "261793",
       "index": 30
     }
   ]
