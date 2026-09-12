@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-12T20:06:40Z",
+  "update_time": "2026-09-12T22:26:59Z",
   "count": 30,
   "list": [
     {
-      "title": "成名之作，龙凤胎王世佳，王世博，谁能看清楚他叔叔身上的四个字，算您厉害。",
-      "url": "https://www.bilibili.com/video/BV1QNYt6EE4i",
-      "hot_value": "1440618播放",
+      "title": "思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！",
+      "url": "https://www.bilibili.com/video/BV1TEYX62EMp",
+      "hot_value": "530923播放",
       "index": 1
     },
     {
-      "title": "《原神》7.1版本PV：「往冥府的安魂歌」",
-      "url": "https://www.bilibili.com/video/BV1yuY96rEL7",
-      "hot_value": "1036832播放",
+      "title": "模仿派对，配音挑战大赛",
+      "url": "https://www.bilibili.com/video/BV1ZqYX6YEsu",
+      "hot_value": "824576播放",
       "index": 2
     },
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第15集【总第191集】",
       "url": "https://www.bilibili.com/video/BV1EmYm6HE57",
-      "hot_value": "5091379播放",
+      "hot_value": "5142345播放",
       "index": 3
+    },
+    {
+      "title": "《原神》7.1版本PV：「往冥府的安魂歌」",
+      "url": "https://www.bilibili.com/video/BV1yuY96rEL7",
+      "hot_value": "1082986播放",
+      "index": 4
     },
     {
       "title": "反转到最后一秒！狗血100%，伏笔全回收，年度抓马爽剧诞生！年度高分韩剧《现在不是出轨的问题》下",
       "url": "https://www.bilibili.com/video/BV1JKYm6nETk",
-      "hot_value": "571548播放",
-      "index": 4
+      "hot_value": "645754播放",
+      "index": 5
     },
     {
-      "title": "模仿派对，配音挑战大赛",
-      "url": "https://www.bilibili.com/video/BV1ZqYX6YEsu",
-      "hot_value": "757513播放",
-      "index": 5
+      "title": "成名之作，龙凤胎王世佳，王世博，谁能看清楚他叔叔身上的四个字，算您厉害。",
+      "url": "https://www.bilibili.com/video/BV1QNYt6EE4i",
+      "hot_value": "1530221播放",
+      "index": 6
     },
     {
       "title": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
       "url": "https://www.bilibili.com/video/BV1HUY76uEMJ",
-      "hot_value": "902770播放",
-      "index": 6
-    },
-    {
-      "title": "《原神》7.1版本「往冥府的安魂歌」前瞻特别节目",
-      "url": "https://www.bilibili.com/video/BV1znY96NEvn",
-      "hot_value": "723623播放",
+      "hot_value": "931123播放",
       "index": 7
-    },
-    {
-      "title": "高糖VS戒糖14天！真的差别很大吗？",
-      "url": "https://www.bilibili.com/video/BV1enYL6SEtU",
-      "hot_value": "1237440播放",
-      "index": 8
-    },
-    {
-      "title": "凌晨3点，为什么几万人都在爬泰山？！",
-      "url": "https://www.bilibili.com/video/BV1seYV6AELD",
-      "hot_value": "471978播放",
-      "index": 9
-    },
-    {
-      "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
-      "url": "https://www.bilibili.com/video/BV1S5YE6HE9Q",
-      "hot_value": "450995播放",
-      "index": 10
-    },
-    {
-      "title": "也许，世界本该如此",
-      "url": "https://www.bilibili.com/video/BV1PKY96yEhL",
-      "hot_value": "223104播放",
-      "index": 11
     },
     {
       "title": "21世纪波兰依然被闪击",
       "url": "https://www.bilibili.com/video/BV1BdYQ6aEXv",
-      "hot_value": "1182517播放",
-      "index": 12
+      "hot_value": "1207548播放",
+      "index": 8
+    },
+    {
+      "title": "《原神》7.1版本「往冥府的安魂歌」前瞻特别节目",
+      "url": "https://www.bilibili.com/video/BV1znY96NEvn",
+      "hot_value": "752527播放",
+      "index": 9
+    },
+    {
+      "title": "高糖VS戒糖14天！真的差别很大吗？",
+      "url": "https://www.bilibili.com/video/BV1enYL6SEtU",
+      "hot_value": "1261861播放",
+      "index": 10
+    },
+    {
+      "title": "加糖制作的红茶，能喝出来吗？",
+      "url": "https://www.bilibili.com/video/BV1BCY16jEom",
+      "hot_value": "357473播放",
+      "index": 11
     },
     {
       "title": "去了一趟山西。",
       "url": "https://www.bilibili.com/video/BV1xVY26dEbz",
-      "hot_value": "1415550播放",
+      "hot_value": "1445811播放",
+      "index": 12
+    },
+    {
+      "title": "我靠做数独解决了10000起谋杀案！！",
+      "url": "https://www.bilibili.com/video/BV1yLY26sEYq",
+      "hot_value": "553192播放",
       "index": 13
     },
     {
-      "title": "手把手教你复刻《百万英镑》牛排套餐，一口锅就能煎完！",
-      "url": "https://www.bilibili.com/video/BV1SbYL65ECo",
-      "hot_value": "716050播放",
+      "title": "也许，世界本该如此",
+      "url": "https://www.bilibili.com/video/BV1PKY96yEhL",
+      "hot_value": "243726播放",
       "index": 14
-    },
-    {
-      "title": "哪 有 人 钓 鱼 不 带 枪 的 ！！！",
-      "url": "https://www.bilibili.com/video/BV1YnYL6SE9L",
-      "hot_value": "626854播放",
-      "index": 15
-    },
-    {
-      "title": "什么叫你往mc添加了整套拼豆系统？",
-      "url": "https://www.bilibili.com/video/BV1NKYg6RE5M",
-      "hot_value": "1386642播放",
-      "index": 16
     },
     {
       "title": "假如你是一个雪饼",
       "url": "https://www.bilibili.com/video/BV1ciYp6XEpW",
-      "hot_value": "2083291播放",
+      "hot_value": "2118391播放",
+      "index": 15
+    },
+    {
+      "title": "哪 有 人 钓 鱼 不 带 枪 的 ！！！",
+      "url": "https://www.bilibili.com/video/BV1YnYL6SE9L",
+      "hot_value": "644839播放",
+      "index": 16
+    },
+    {
+      "title": "勇哥教人开餐饮，自己的店水平到底如何？探店勇哥餐厅，套路确实深！",
+      "url": "https://www.bilibili.com/video/BV1ZpYd66ELP",
+      "hot_value": "226140播放",
       "index": 17
     },
     {
       "title": "【独家】《百日成王》第24集 还有人在等着我【7月国创】",
       "url": "https://www.bilibili.com/video/BV1dFth6DEc9",
-      "hot_value": "317039播放",
+      "hot_value": "318310播放",
       "index": 18
+    },
+    {
+      "title": "最不想沾边的词汇出现了",
+      "url": "https://www.bilibili.com/video/BV1SCY26NEfP",
+      "hot_value": "606439播放",
+      "index": 19
+    },
+    {
+      "title": "中国超能，奶奶蔡明能，飞！",
+      "url": "https://www.bilibili.com/video/BV1P4YX63Emf",
+      "hot_value": "938310播放",
+      "index": 20
+    },
+    {
+      "title": "什么叫你往mc添加了整套拼豆系统？",
+      "url": "https://www.bilibili.com/video/BV1NKYg6RE5M",
+      "hot_value": "1395978播放",
+      "index": 21
+    },
+    {
+      "title": "小 兵 阿 嘎",
+      "url": "https://www.bilibili.com/video/BV1zuY46oE2V",
+      "hot_value": "1597596播放",
+      "index": 22
+    },
+    {
+      "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
+      "url": "https://www.bilibili.com/video/BV1S5YE6HE9Q",
+      "hot_value": "465846播放",
+      "index": 23
+    },
+    {
+      "title": "把尸体做成陷阱，假意投降却上来自爆，二战日军到底有多疯狂阴险",
+      "url": "https://www.bilibili.com/video/BV1bSY26wEnR",
+      "hot_value": "823367播放",
+      "index": 24
+    },
+    {
+      "title": "凌晨3点，为什么几万人都在爬泰山？！",
+      "url": "https://www.bilibili.com/video/BV1seYV6AELD",
+      "hot_value": "501862播放",
+      "index": 25
     },
     {
       "title": "这寝室呆的",
       "url": "https://www.bilibili.com/video/BV1ZiYX6PEd5",
-      "hot_value": "582252播放",
-      "index": 19
-    },
-    {
-      "title": "五分钟后年级查带手机",
-      "url": "https://www.bilibili.com/video/BV1nDbP6dEv2",
-      "hot_value": "2305119播放",
-      "index": 20
-    },
-    {
-      "title": "挑战0元城市生存（5-6）",
-      "url": "https://www.bilibili.com/video/BV1TnYX6LE9j",
-      "hot_value": "248768播放",
-      "index": 21
-    },
-    {
-      "title": "思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！",
-      "url": "https://www.bilibili.com/video/BV1TEYX62EMp",
-      "hot_value": "377415播放",
-      "index": 22
-    },
-    {
-      "title": "AL晋级决赛！AL 3-2 IG 赛后数据雷达图+虎扑评分丨LPL败决",
-      "url": "https://www.bilibili.com/video/BV1RXYR6cEGS",
-      "hot_value": "256188播放",
-      "index": 23
-    },
-    {
-      "title": "我靠做数独解决了10000起谋杀案！！",
-      "url": "https://www.bilibili.com/video/BV1yLY26sEYq",
-      "hot_value": "539871播放",
-      "index": 24
-    },
-    {
-      "title": "对 抗 路 迎 来 大 变23.0",
-      "url": "https://www.bilibili.com/video/BV1dYYW6CEWM",
-      "hot_value": "1052622播放",
-      "index": 25
-    },
-    {
-      "title": "经典镜头竟是演员下意识反应！有的是意外，有的也是导演真缺德！",
-      "url": "https://www.bilibili.com/video/BV1NjYj6GEix",
-      "hot_value": "2703365播放",
+      "hot_value": "607965播放",
       "index": 26
+    },
+    {
+      "title": "手把手教你复刻《百万英镑》牛排套餐，一口锅就能煎完！",
+      "url": "https://www.bilibili.com/video/BV1SbYL65ECo",
+      "hot_value": "736334播放",
+      "index": 27
+    },
+    {
+      "title": "探访野生狗奶原产地，味道居然还不错",
+      "url": "https://www.bilibili.com/video/BV1cgYQ6PE8c",
+      "hot_value": "246817播放",
+      "index": 28
+    },
+    {
+      "title": "【IGN】Switch 2版《艾尔登法环 褪色者版》 70分钟实机演示03",
+      "url": "https://www.bilibili.com/video/BV1S4YL61EBF",
+      "hot_value": "264411播放",
+      "index": 29
     },
     {
       "title": "乔布斯、黄仁勋、扎克伯格都来打卡的川菜馆，有多好吃？",
       "url": "https://www.bilibili.com/video/BV1R6YD6XEvq",
-      "hot_value": "358025播放",
-      "index": 27
-    },
-    {
-      "title": "粤韵风华之驾校宝典",
-      "url": "https://www.bilibili.com/video/BV1d8Yg6MEF3",
-      "hot_value": "849435播放",
-      "index": 28
-    },
-    {
-      "title": "1%电量=1块钱！一线城市12小时极限消费体验！",
-      "url": "https://www.bilibili.com/video/BV1NAY962EZQ",
-      "hot_value": "320635播放",
-      "index": 29
-    },
-    {
-      "title": "绝航唱《父亲》大哥主动给油！！！",
-      "url": "https://www.bilibili.com/video/BV1TLYU6AEcW",
-      "hot_value": "408140播放",
+      "hot_value": "372495播放",
       "index": 30
     }
   ]
