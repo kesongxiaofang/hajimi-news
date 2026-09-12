@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-09-12T17:46:23Z",
+  "update_time": "2026-09-12T20:06:40Z",
   "count": 30,
   "list": [
     {
       "title": "2027 金砖相约中国",
       "url": "https://www.baidu.com/s?wd=2027+%E9%87%91%E7%A0%96%E7%9B%B8%E7%BA%A6%E4%B8%AD%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904621",
+      "hot_value": "7904479",
       "index": 1
     },
     {
       "title": "下周上班时间有变",
       "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E5%91%A8%E4%B8%8A%E7%8F%AD%E6%97%B6%E9%97%B4%E6%9C%89%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7808538",
+      "hot_value": "7809506",
       "index": 2
     },
     {
       "title": "地库接连躺人司机躲过一个又一个",
       "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E5%BA%93%E6%8E%A5%E8%BF%9E%E8%BA%BA%E4%BA%BA%E5%8F%B8%E6%9C%BA%E8%BA%B2%E8%BF%87%E4%B8%80%E4%B8%AA%E5%8F%88%E4%B8%80%E4%B8%AA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7712474",
+      "hot_value": "7713907",
       "index": 3
     },
     {
       "title": "中国在金砖机制中发挥非常重要作用",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E9%87%91%E7%A0%96%E6%9C%BA%E5%88%B6%E4%B8%AD%E5%8F%91%E6%8C%A5%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A6%81%E4%BD%9C%E7%94%A8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7616185",
+      "hot_value": "7616164",
       "index": 4
     },
     {
       "title": "1300张票1000张黄牛 罗永浩吐槽",
       "url": "https://www.baidu.com/s?wd=1300%E5%BC%A0%E7%A5%A81000%E5%BC%A0%E9%BB%84%E7%89%9B+%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7520913",
+      "hot_value": "7519676",
       "index": 5
     },
     {
       "title": "试驾小米澎程误操作用户已锁单",
       "url": "https://www.baidu.com/s?wd=%E8%AF%95%E9%A9%BE%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E8%AF%AF%E6%93%8D%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B7%B2%E9%94%81%E5%8D%95&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7429320",
+      "hot_value": "7426780",
       "index": 6
     },
     {
-      "title": "机器狗治沙一天干完三天活",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E7%8B%97%E6%B2%BB%E6%B2%99%E4%B8%80%E5%A4%A9%E5%B9%B2%E5%AE%8C%E4%B8%89%E5%A4%A9%E6%B4%BB&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7329530",
+      "title": "胖东来网红大月饼暂停门店线下销售",
+      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BD%91%E7%BA%A2%E5%A4%A7%E6%9C%88%E9%A5%BC%E6%9A%82%E5%81%9C%E9%97%A8%E5%BA%97%E7%BA%BF%E4%B8%8B%E9%94%80%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7333753",
       "index": 7
     },
     {
       "title": "iPhone18Pro以旧换新政策",
       "url": "https://www.baidu.com/s?wd=iPhone18Pro%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%94%BF%E7%AD%96&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7237520",
+      "hot_value": "7233952",
       "index": 8
     },
     {
-      "title": "中国人真的能“飞”",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%9F%E7%9A%84%E8%83%BD%E2%80%9C%E9%A3%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7141977",
+      "title": "漠河低温降至0℃以下 已正式供暖",
+      "url": "https://www.baidu.com/s?wd=%E6%BC%A0%E6%B2%B3%E4%BD%8E%E6%B8%A9%E9%99%8D%E8%87%B30%E2%84%83%E4%BB%A5%E4%B8%8B+%E5%B7%B2%E6%AD%A3%E5%BC%8F%E4%BE%9B%E6%9A%96&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7135743",
       "index": 9
     },
     {
-      "title": "多地小学改为养老院",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E6%94%B9%E4%B8%BA%E5%85%BB%E8%80%81%E9%99%A2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7048739",
+      "title": "“麻袋女孩”到中南大报到",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BA%BB%E8%A2%8B%E5%A5%B3%E5%AD%A9%E2%80%9D%E5%88%B0%E4%B8%AD%E5%8D%97%E5%A4%A7%E6%8A%A5%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7046635",
       "index": 10
     },
     {
-      "title": "胖东来网红大月饼暂停门店线下销售",
-      "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BD%91%E7%BA%A2%E5%A4%A7%E6%9C%88%E9%A5%BC%E6%9A%82%E5%81%9C%E9%97%A8%E5%BA%97%E7%BA%BF%E4%B8%8B%E9%94%80%E5%94%AE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6949091",
+      "title": "警方通报公职人员醉驾致五旬夫妻身亡",
+      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%86%89%E9%A9%BE%E8%87%B4%E4%BA%94%E6%97%AC%E5%A4%AB%E5%A6%BB%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6943399",
       "index": 11
     },
     {
       "title": "上海一幼儿园收集家长职务信息不实",
       "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6%E9%9B%86%E5%AE%B6%E9%95%BF%E8%81%8C%E5%8A%A1%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6857813",
+      "hot_value": "6857022",
       "index": 12
-    },
-    {
-      "title": "84岁老人独自到店为自己挑选寿衣",
-      "url": "https://www.baidu.com/s?wd=84%E5%B2%81%E8%80%81%E4%BA%BA%E7%8B%AC%E8%87%AA%E5%88%B0%E5%BA%97%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%8C%91%E9%80%89%E5%AF%BF%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6757009",
-      "index": 13
     },
     {
       "title": "赵雷当爸爸了",
       "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%9B%B7%E5%BD%93%E7%88%B8%E7%88%B8%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6658905",
+      "hot_value": "6758333",
+      "index": 13
+    },
+    {
+      "title": "已灭绝“奥氏马”容貌被复原",
+      "url": "https://www.baidu.com/s?wd=%E5%B7%B2%E7%81%AD%E7%BB%9D%E2%80%9C%E5%A5%A5%E6%B0%8F%E9%A9%AC%E2%80%9D%E5%AE%B9%E8%B2%8C%E8%A2%AB%E5%A4%8D%E5%8E%9F&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6662457",
       "index": 14
     },
     {
       "title": "北大硕士因本科非北大年薪被降5万",
       "url": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E7%A1%95%E5%A3%AB%E5%9B%A0%E6%9C%AC%E7%A7%91%E9%9D%9E%E5%8C%97%E5%A4%A7%E5%B9%B4%E8%96%AA%E8%A2%AB%E9%99%8D5%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6572076",
+      "hot_value": "6569225",
       "index": 15
-    },
-    {
-      "title": "香港海面惊现女浮尸 系53岁内地女子",
-      "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%B5%B7%E9%9D%A2%E6%83%8A%E7%8E%B0%E5%A5%B3%E6%B5%AE%E5%B0%B8+%E7%B3%BB53%E5%B2%81%E5%86%85%E5%9C%B0%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6474612",
-      "index": 16
-    },
-    {
-      "title": "公职人员醉驾撞死一对夫妻",
-      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%86%89%E9%A9%BE%E6%92%9E%E6%AD%BB%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%BB&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6378356",
-      "index": 17
-    },
-    {
-      "title": "“麻袋女孩”到中南大报到",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BA%BB%E8%A2%8B%E5%A5%B3%E5%AD%A9%E2%80%9D%E5%88%B0%E4%B8%AD%E5%8D%97%E5%A4%A7%E6%8A%A5%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6270647",
-      "index": 18
-    },
-    {
-      "title": "警方通报公职人员醉驾致五旬夫妻身亡",
-      "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%86%89%E9%A9%BE%E8%87%B4%E4%BA%94%E6%97%AC%E5%A4%AB%E5%A6%BB%E8%BA%AB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6182273",
-      "index": 19
-    },
-    {
-      "title": "走路快和走路慢哪个对心脏更好",
-      "url": "https://www.baidu.com/s?wd=%E8%B5%B0%E8%B7%AF%E5%BF%AB%E5%92%8C%E8%B5%B0%E8%B7%AF%E6%85%A2%E5%93%AA%E4%B8%AA%E5%AF%B9%E5%BF%83%E8%84%8F%E6%9B%B4%E5%A5%BD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6090252",
-      "index": 20
-    },
-    {
-      "title": "大衣哥称助农直播给钱都不要",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%A1%A3%E5%93%A5%E7%A7%B0%E5%8A%A9%E5%86%9C%E7%9B%B4%E6%92%AD%E7%BB%99%E9%92%B1%E9%83%BD%E4%B8%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6000203",
-      "index": 21
-    },
-    {
-      "title": "iPhone 18 Pro系列开售秒售罄",
-      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro%E7%B3%BB%E5%88%97%E5%BC%80%E5%94%AE%E7%A7%92%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5892594",
-      "index": 22
-    },
-    {
-      "title": "七旬夫妇散步遭马蜂群围攻进ICU",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%83%E6%97%AC%E5%A4%AB%E5%A6%87%E6%95%A3%E6%AD%A5%E9%81%AD%E9%A9%AC%E8%9C%82%E7%BE%A4%E5%9B%B4%E6%94%BB%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5795044",
-      "index": 23
     },
     {
       "title": "iPhone Duo炒到9万 黄牛贷款欲囤货",
       "url": "https://www.baidu.com/s?wd=iPhone+Duo%E7%82%92%E5%88%B09%E4%B8%87+%E9%BB%84%E7%89%9B%E8%B4%B7%E6%AC%BE%E6%AC%B2%E5%9B%A4%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5699961",
-      "index": 24
-    },
-    {
-      "title": "高铁车窗玻璃被刻“到此一游”",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E8%BD%A6%E7%AA%97%E7%8E%BB%E7%92%83%E8%A2%AB%E5%88%BB%E2%80%9C%E5%88%B0%E6%AD%A4%E4%B8%80%E6%B8%B8%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5601450",
-      "index": 25
-    },
-    {
-      "title": "菲律宾客船起火事故已致76人死亡",
-      "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%AE%A2%E8%88%B9%E8%B5%B7%E7%81%AB%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B476%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5507290",
-      "index": 26
+      "hot_value": "6468827",
+      "index": 16
     },
     {
       "title": "南方还在吹空调 这里已经供暖了",
       "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%96%B9%E8%BF%98%E5%9C%A8%E5%90%B9%E7%A9%BA%E8%B0%83+%E8%BF%99%E9%87%8C%E5%B7%B2%E7%BB%8F%E4%BE%9B%E6%9A%96%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5412996",
-      "index": 27
+      "hot_value": "6368408",
+      "index": 17
     },
     {
-      "title": "双胞胎姐妹出生差1分高考差1分",
-      "url": "https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%87%BA%E7%94%9F%E5%B7%AE1%E5%88%86%E9%AB%98%E8%80%83%E5%B7%AE1%E5%88%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5326711",
-      "index": 28
+      "title": "公职人员醉驾撞死一对夫妻",
+      "url": "https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%86%89%E9%A9%BE%E6%92%9E%E6%AD%BB%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%BB&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6278083",
+      "index": 18
+    },
+    {
+      "title": "七旬夫妇散步遭马蜂群围攻进ICU",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%83%E6%97%AC%E5%A4%AB%E5%A6%87%E6%95%A3%E6%AD%A5%E9%81%AD%E9%A9%AC%E8%9C%82%E7%BE%A4%E5%9B%B4%E6%94%BB%E8%BF%9BICU&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6178242",
+      "index": 19
     },
     {
       "title": "影史神作9月扎堆重新上映",
       "url": "https://www.baidu.com/s?wd=%E5%BD%B1%E5%8F%B2%E7%A5%9E%E4%BD%9C9%E6%9C%88%E6%89%8E%E5%A0%86%E9%87%8D%E6%96%B0%E4%B8%8A%E6%98%A0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5228501",
+      "hot_value": "6087235",
+      "index": 20
+    },
+    {
+      "title": "苹果18 抢不到",
+      "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C18+%E6%8A%A2%E4%B8%8D%E5%88%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5984752",
+      "index": 21
+    },
+    {
+      "title": "84岁老人独自到店为自己挑选寿衣",
+      "url": "https://www.baidu.com/s?wd=84%E5%B2%81%E8%80%81%E4%BA%BA%E7%8B%AC%E8%87%AA%E5%88%B0%E5%BA%97%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%8C%91%E9%80%89%E5%AF%BF%E8%A1%A3&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5904683",
+      "index": 22
+    },
+    {
+      "title": "大衣哥称助农直播给钱都不要",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E8%A1%A3%E5%93%A5%E7%A7%B0%E5%8A%A9%E5%86%9C%E7%9B%B4%E6%92%AD%E7%BB%99%E9%92%B1%E9%83%BD%E4%B8%8D%E8%A6%81&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5795426",
+      "index": 23
+    },
+    {
+      "title": "周启豪不敌张本智和 国乒男单均出局",
+      "url": "https://www.baidu.com/s?wd=%E5%91%A8%E5%90%AF%E8%B1%AA%E4%B8%8D%E6%95%8C%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C+%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E5%9D%87%E5%87%BA%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5707041",
+      "index": 24
+    },
+    {
+      "title": "双胞胎姐妹出生差1分高考差1分",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%87%BA%E7%94%9F%E5%B7%AE1%E5%88%86%E9%AB%98%E8%80%83%E5%B7%AE1%E5%88%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5608060",
+      "index": 25
+    },
+    {
+      "title": "中国人真的能“飞”",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9C%9F%E7%9A%84%E8%83%BD%E2%80%9C%E9%A3%9E%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5510636",
+      "index": 26
+    },
+    {
+      "title": "iPhone 18 Pro系列开售秒售罄",
+      "url": "https://www.baidu.com/s?wd=iPhone+18+Pro%E7%B3%BB%E5%88%97%E5%BC%80%E5%94%AE%E7%A7%92%E5%94%AE%E7%BD%84&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5418314",
+      "index": 27
+    },
+    {
+      "title": "丁俊晖止步英格兰公开赛四强",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%81%E4%BF%8A%E6%99%96%E6%AD%A2%E6%AD%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5322451",
+      "index": 28
+    },
+    {
+      "title": "香港海面惊现女浮尸 系53岁内地女子",
+      "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%B5%B7%E9%9D%A2%E6%83%8A%E7%8E%B0%E5%A5%B3%E6%B5%AE%E5%B0%B8+%E7%B3%BB53%E5%B2%81%E5%86%85%E5%9C%B0%E5%A5%B3%E5%AD%90&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5216421",
       "index": 29
     },
     {
-      "title": "小米高管称门店客流量暴涨400％",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E7%A7%B0%E9%97%A8%E5%BA%97%E5%AE%A2%E6%B5%81%E9%87%8F%E6%9A%B4%E6%B6%A8400%EF%BC%85&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5138587",
+      "title": "19岁张家乐再刷新女子链球亚洲纪录",
+      "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%BC%A0%E5%AE%B6%E4%B9%90%E5%86%8D%E5%88%B7%E6%96%B0%E5%A5%B3%E5%AD%90%E9%93%BE%E7%90%83%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5142422",
       "index": 30
     }
   ]

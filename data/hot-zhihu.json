@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-12T17:46:23Z",
+  "update_time": "2026-09-12T20:06:40Z",
   "count": 30,
   "list": [
     {
       "title": "陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？",
       "url": "https://www.zhihu.com/question/2082035913132193247",
-      "hot_value": "756 万热度",
+      "hot_value": "483 万热度",
       "index": 1
     },
     {
       "title": "LPL 2026 赛季败者组决赛 AL 3:2 淘汰 iG 晋级总决赛，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2082125425837335080",
-      "hot_value": "501 万热度",
+      "hot_value": "320 万热度",
       "index": 2
-    },
-    {
-      "title": "「我端着一碗爷爷煮的面」有语法错误吗？",
-      "url": "https://www.zhihu.com/question/2075605552319803832",
-      "hot_value": "392 万热度",
-      "index": 3
-    },
-    {
-      "title": "拆弹的时候为什么不一下把线全剪了?",
-      "url": "https://www.zhihu.com/question/347179994",
-      "hot_value": "285 万热度",
-      "index": 4
-    },
-    {
-      "title": "锂电池本月起征税，有电池企业率先涨价，业内判断 10 万元以内纯电车压力最大，行业会迎来新一轮洗牌吗？",
-      "url": "https://www.zhihu.com/question/2081672062029018936",
-      "hot_value": "193 万热度",
-      "index": 5
     },
     {
       "title": "如何看待跳水奥运冠军张家齐称自己「慕强」，但男友实力似乎都低于她？",
       "url": "https://www.zhihu.com/question/2080416209279963991",
       "hot_value": "176 万热度",
-      "index": 6
+      "index": 3
     },
     {
-      "title": "如何评价 DeepSeek 灰度测试语音对话，意味着什么？",
-      "url": "https://www.zhihu.com/question/2082041103209820593",
-      "hot_value": "121 万热度",
-      "index": 7
+      "title": "锂电池本月起征税，有电池企业率先涨价，业内判断 10 万元以内纯电车压力最大，行业会迎来新一轮洗牌吗？",
+      "url": "https://www.zhihu.com/question/2081672062029018936",
+      "hot_value": "134 万热度",
+      "index": 4
     },
     {
-      "title": "LCK 季后赛败者组决赛 T1 1:3 HLE，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2082161309999706552",
-      "hot_value": "117 万热度",
-      "index": 8
+      "title": "《死神千年血战篇》第四季祸进谭开播，如何评价第八集？",
+      "url": "https://www.zhihu.com/question/2082239134933042096",
+      "hot_value": "97 万热度",
+      "index": 5
     },
     {
       "title": "亲戚借了网贷，还不起了，想找我帮忙，她不想告诉家人，数额巨大，我该怎么办？",
       "url": "https://www.zhihu.com/question/2072381217173921870",
-      "hot_value": "116 万热度",
+      "hot_value": "85 万热度",
+      "index": 6
+    },
+    {
+      "title": "世卫预警全球癌症病例 2050 年可能激增 67%，将上升至近 3500 万例，这意味着什么？有哪些预防措施？",
+      "url": "https://www.zhihu.com/question/2059080438518436365",
+      "hot_value": "73 万热度",
+      "index": 7
+    },
+    {
+      "title": "如何评价 DeepSeek 灰度测试语音对话，意味着什么？",
+      "url": "https://www.zhihu.com/question/2082041103209820593",
+      "hot_value": "72 万热度",
+      "index": 8
+    },
+    {
+      "title": "拆弹的时候为什么不一下把线全剪了?",
+      "url": "https://www.zhihu.com/question/347179994",
+      "hot_value": "59 万热度",
       "index": 9
-    },
-    {
-      "title": "《还珠》结局，为什么永琪逃亡云南，而尔康必须回京？",
-      "url": "https://www.zhihu.com/question/33825141",
-      "hot_value": "108 万热度",
-      "index": 10
-    },
-    {
-      "title": "女子向大雁塔景区雨水井塞管状不明物，警方已介入调查，可能塞的是什么？会承担怎样的责任？",
-      "url": "https://www.zhihu.com/question/2080972261511487674",
-      "hot_value": "106 万热度",
-      "index": 11
-    },
-    {
-      "title": "加拿大一向很听美国的话，这次怎么敢真的和美国打贸易战？",
-      "url": "https://www.zhihu.com/question/2078761189157425780",
-      "hot_value": "103 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何评价崩铁 4.5 活动方寸大冒险？",
-      "url": "https://www.zhihu.com/question/2082085679195079528",
-      "hot_value": "99 万热度",
-      "index": 13
-    },
-    {
-      "title": "2026 澳门冠军赛男单 1/4 决赛，雨果 4-2 松岛辉空，晋级半决赛，如何评价两人本场比赛的发挥？",
-      "url": "https://www.zhihu.com/question/2082229729579606030",
-      "hot_value": "97 万热度",
-      "index": 14
-    },
-    {
-      "title": "2026 WTT 澳门冠军赛女单四分之一决赛，陈熠 4-0 韩莹，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2082097949958485411",
-      "hot_value": "84 万热度",
-      "index": 15
-    },
-    {
-      "title": "如何看待胡塞武装突然势如破竹控制曼德海峡和红海南部？这对当前局势有哪些影响？",
-      "url": "https://www.zhihu.com/question/2081887737754415468",
-      "hot_value": "83 万热度",
-      "index": 16
-    },
-    {
-      "title": "苹果高管称折叠屏比例泄密很遗憾，竞争对手拿到了屏幕比例，泄密为何难以防范？将对行业造成哪些影响？",
-      "url": "https://www.zhihu.com/question/2081904462331908716",
-      "hot_value": "82 万热度",
-      "index": 17
-    },
-    {
-      "title": "都市剧总拍精英人设，为什么很难拍好普通人真实的生活？",
-      "url": "https://www.zhihu.com/question/2079837487493543459",
-      "hot_value": "81 万热度",
-      "index": 18
-    },
-    {
-      "title": "家长如何有效提升孩子的抗挫力？",
-      "url": "https://www.zhihu.com/question/2080991958110040765",
-      "hot_value": "66 万热度",
-      "index": 19
     },
     {
       "title": "如何评价 2026 年 9 月米哈游《原神》7.1 版本前瞻直播【往冥府的安魂歌】？",
       "url": "https://www.zhihu.com/question/2081765230707843174",
       "hot_value": "59 万热度",
+      "index": 10
+    },
+    {
+      "title": "加拿大一向很听美国的话，这次怎么敢真的和美国打贸易战？",
+      "url": "https://www.zhihu.com/question/2078761189157425780",
+      "hot_value": "59 万热度",
+      "index": 11
+    },
+    {
+      "title": "女子向大雁塔景区雨水井塞管状不明物，警方已介入调查，可能塞的是什么？会承担怎样的责任？",
+      "url": "https://www.zhihu.com/question/2080972261511487674",
+      "hot_value": "59 万热度",
+      "index": 12
+    },
+    {
+      "title": "一设计师称中国客厅已失去意义，反映了当下怎样的家庭生活变化？你家还有客厅吗，是怎样的？",
+      "url": "https://www.zhihu.com/question/2079581505047762015",
+      "hot_value": "59 万热度",
+      "index": 13
+    },
+    {
+      "title": "2026 澳门冠军赛男单 1/4 决赛，雨果 4-2 松岛辉空，晋级半决赛，如何评价两人本场比赛的发挥？",
+      "url": "https://www.zhihu.com/question/2082229729579606030",
+      "hot_value": "58 万热度",
+      "index": 14
+    },
+    {
+      "title": "LCK 季后赛败者组决赛 T1 1:3 HLE，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2082161309999706552",
+      "hot_value": "58 万热度",
+      "index": 15
+    },
+    {
+      "title": "苹果高管称折叠屏比例泄密很遗憾，竞争对手拿到了屏幕比例，泄密为何难以防范？将对行业造成哪些影响？",
+      "url": "https://www.zhihu.com/question/2081904462331908716",
+      "hot_value": "58 万热度",
+      "index": 16
+    },
+    {
+      "title": "如何看待胡塞武装突然势如破竹控制曼德海峡和红海南部？这对当前局势有哪些影响？",
+      "url": "https://www.zhihu.com/question/2081887737754415468",
+      "hot_value": "58 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何评价崩铁 4.5 活动方寸大冒险？",
+      "url": "https://www.zhihu.com/question/2082085679195079528",
+      "hot_value": "57 万热度",
+      "index": 18
+    },
+    {
+      "title": "家长如何有效提升孩子的抗挫力？",
+      "url": "https://www.zhihu.com/question/2080991958110040765",
+      "hot_value": "57 万热度",
+      "index": 19
+    },
+    {
+      "title": "都市剧总拍精英人设，为什么很难拍好普通人真实的生活？",
+      "url": "https://www.zhihu.com/question/2079837487493543459",
+      "hot_value": "57 万热度",
       "index": 20
     },
     {
       "title": "iPhone 18 Pro 和 Max 开启预购，你抢到了吗？",
       "url": "https://www.zhihu.com/question/2082209639156768904",
-      "hot_value": "58 万热度",
+      "hot_value": "57 万热度",
       "index": 21
+    },
+    {
+      "title": "2026 WTT 澳门冠军赛女单四分之一决赛，陈熠 4-0 韩莹，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2082097949958485411",
+      "hot_value": "57 万热度",
+      "index": 22
+    },
+    {
+      "title": "《还珠》结局，为什么永琪逃亡云南，而尔康必须回京？",
+      "url": "https://www.zhihu.com/question/33825141",
+      "hot_value": "57 万热度",
+      "index": 23
     },
     {
       "title": "家长花 20 万买房车陪读上高中儿子，称比租房划算，这笔账该怎么算？这种陪读方式值得吗？",
       "url": "https://www.zhihu.com/question/2082076266056738811",
-      "hot_value": "58 万热度",
-      "index": 22
-    },
-    {
-      "title": "为什么有些人在亲密关系里越痛苦，反而越离不开对方？",
-      "url": "https://www.zhihu.com/question/2078584861032559182",
-      "hot_value": "57 万热度",
-      "index": 23
+      "hot_value": "56 万热度",
+      "index": 24
     },
     {
       "title": "酒店为什么会有三小时钟点房？",
       "url": "https://www.zhihu.com/question/351651719",
       "hot_value": "55 万热度",
-      "index": 24
+      "index": 25
     },
     {
       "title": "订阅了 Kimi 的 199 套餐，编程是用 Kimi code 好还是 claude code 好呢？",
       "url": "https://www.zhihu.com/question/2042306734392431967",
       "hot_value": "55 万热度",
-      "index": 25
-    },
-    {
-      "title": "一天一瓶啤酒，对身体有害吗？",
-      "url": "https://www.zhihu.com/question/2080303059578705354",
-      "hot_value": "54 万热度",
       "index": 26
     },
     {
-      "title": "中科院期刊分区表在线平台将停止运行，哪些信息值得重点关注？将对我国学术圈带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2081193837406561345",
+      "title": "为什么有些人在亲密关系里越痛苦，反而越离不开对方？",
+      "url": "https://www.zhihu.com/question/2078584861032559182",
       "hot_value": "54 万热度",
       "index": 27
     },
     {
-      "title": "刘慈欣原著授权游戏《流浪地球：望日》公开首支预告片，刘慈欣本人担任监制，你看好这款游戏吗？",
-      "url": "https://www.zhihu.com/question/2081395521780801766",
+      "title": "白人饭的魅力主要是省时还是健康？",
+      "url": "https://www.zhihu.com/question/2068725103534330412",
       "hot_value": "54 万热度",
       "index": 28
     },
     {
-      "title": "大连一小学家长会要求穿正装，学校回应非硬性要求，希望家长会有点仪式感，如何看待这一倡议？",
-      "url": "https://www.zhihu.com/question/2079150878565709643",
+      "title": "为什么打到现在，伊朗还有能力反击美国？",
+      "url": "https://www.zhihu.com/question/2017262320611508261",
       "hot_value": "54 万热度",
       "index": 29
     },
     {
-      "title": "总有人说 AI 写出的作品带 AI 味，那 AI 味究竟是什么？难道 AI 就不能消除 AI 味吗？",
-      "url": "https://www.zhihu.com/question/1962431720520414281",
+      "title": "一天一瓶啤酒，对身体有害吗？",
+      "url": "https://www.zhihu.com/question/2080303059578705354",
       "hot_value": "54 万热度",
       "index": 30
     }
