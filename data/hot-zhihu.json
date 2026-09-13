@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-13T05:07:48Z",
+  "update_time": "2026-09-13T10:26:58Z",
   "count": 30,
   "list": [
     {
       "title": "名校硕士五轮面试全过却因第一学历专科遭拒，为何不能从一开始就说明学历要求？如此看重第一学历合理吗？",
       "url": "https://www.zhihu.com/question/2082169271191168289",
-      "hot_value": "678 万热度",
+      "hot_value": "815 万热度",
       "index": 1
     },
     {
-      "title": "如何看待 25 位菲奖得主发布联合声明《AI 在数学领域的严重错位》？是否意味着传统数学研究模式的崩溃？",
-      "url": "https://www.zhihu.com/question/2082049593588634390",
-      "hot_value": "586 万热度",
+      "title": "勇哥餐饮事件，博主线下调查发现火锅店实为两班倒，并非员工单人工作 17 小时，这一调查结果能否平息争议？",
+      "url": "https://www.zhihu.com/question/2081927215936189203",
+      "hot_value": "628 万热度",
       "index": 2
     },
     {
       "title": "如何看待小区业主筹备业委会反映问题，却遭住建局副局长辱骂？目前涉事副局长已被停职，此事暴露了哪些问题？",
       "url": "https://www.zhihu.com/question/2081903638990041453",
-      "hot_value": "377 万热度",
+      "hot_value": "514 万热度",
       "index": 3
     },
     {
-      "title": "勇哥餐饮事件，博主线下调查发现火锅店实为两班倒，并非员工单人工作 17 小时，这一调查结果能否平息争议？",
-      "url": "https://www.zhihu.com/question/2081927215936189203",
-      "hot_value": "309 万热度",
+      "title": "HYROX 北京站比赛选手失禁仍完成比赛，比赛规则和卫生安全引争议，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2082250121257997440",
+      "hot_value": "479 万热度",
       "index": 4
     },
     {
-      "title": "为何 OpenAI 等 AI 公司，最近集中且花这么大力气卷数学猜想？数学后，下一个学科又是谁？",
-      "url": "https://www.zhihu.com/question/2082124730757113470",
-      "hot_value": "235 万热度",
+      "title": "男生去年考上北大医学部放弃，2026 年又考进北大图灵班，做到这点有多难？怎样看待他的选择？",
+      "url": "https://www.zhihu.com/question/2082370923865420719",
+      "hot_value": "290 万热度",
       "index": 5
     },
     {
       "title": "著名主持人敬一丹去世，曾主持《焦点访谈》20 余年，她对播音主持行业的贡献有多大？你对她有哪些记忆？",
       "url": "https://www.zhihu.com/question/2082380585658315302",
-      "hot_value": "214 万热度",
+      "hot_value": "288 万热度",
       "index": 6
     },
     {
       "title": "易中天说三国里最聪明的人是贾诩，而不是诸葛亮，是否有点过了？",
       "url": "https://www.zhihu.com/question/1904153721333609887",
-      "hot_value": "204 万热度",
+      "hot_value": "287 万热度",
       "index": 7
-    },
-    {
-      "title": "为什么同为顶流网文网站，起点全力打击 AI 文，扶持人类写手，番茄新规却似乎在打击人类写手，扶持 AI 文？",
-      "url": "https://www.zhihu.com/question/2080579062414697240",
-      "hot_value": "193 万热度",
-      "index": 8
-    },
-    {
-      "title": "央视著名主持人敬一丹突发脑溢血去世，脑溢血前可能有哪些征兆？应该怎样预防？",
-      "url": "https://www.zhihu.com/question/2082387724858647214",
-      "hot_value": "189 万热度",
-      "index": 9
-    },
-    {
-      "title": "为什么酒店标间两张床的价格反而会低于一张床的大床房的价格，这背后的定价逻辑是什么？",
-      "url": "https://www.zhihu.com/question/663413512",
-      "hot_value": "187 万热度",
-      "index": 10
-    },
-    {
-      "title": "如何评价 BlizzCon 2026 宣布《星际争霸》将推出「开放世界射击游戏」并定档 2030 年？",
-      "url": "https://www.zhihu.com/question/2082307385943766438",
-      "hot_value": "185 万热度",
-      "index": 11
     },
     {
       "title": "Anthropic 掌门人呼吁放缓 AI 模型迭代，马斯克、奥尔特曼响应，此举背后出于哪些考量？",
       "url": "https://www.zhihu.com/question/2082326195320918583",
-      "hot_value": "136 万热度",
+      "hot_value": "286 万热度",
+      "index": 8
+    },
+    {
+      "title": "为什么酒店标间两张床的价格反而会低于一张床的大床房的价格，这背后的定价逻辑是什么？",
+      "url": "https://www.zhihu.com/question/663413512",
+      "hot_value": "242 万热度",
+      "index": 9
+    },
+    {
+      "title": "清朝人口为何从 1400 万迅速长到 4 亿？呈现爆发式增长，是何原因？",
+      "url": "https://www.zhihu.com/question/528355615",
+      "hot_value": "198 万热度",
+      "index": 10
+    },
+    {
+      "title": "iPhone 18 Pro 新品发售，拼多多百亿补贴直降 1000 元，你会在拼多多买吗？",
+      "url": "https://www.zhihu.com/question/2082400824102229651",
+      "hot_value": "127 万热度",
+      "index": 11
+    },
+    {
+      "title": "2026 WTT 澳门冠军赛男单半决赛，莫雷加德 4-3 绝杀张本智和，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2082474944718443954",
+      "hot_value": "118 万热度",
       "index": 12
     },
     {
-      "title": "是什么导致了当下社会人情味淡薄？",
-      "url": "https://www.zhihu.com/question/2066767746281558353",
-      "hot_value": "120 万热度",
+      "title": "如何看待苹果宣布 App 可以直接获取 iPhone Duo 铰链开合角度？将此应用于开屏广告的前景如何？",
+      "url": "https://www.zhihu.com/question/2081661494270415480",
+      "hot_value": "108 万热度",
       "index": 13
     },
     {
-      "title": "如何评价 2026 暴雪嘉年华（BlizzCon 2026）开幕式公布的全线信息？有哪些惊喜或槽点？",
-      "url": "https://www.zhihu.com/question/2082309999838097974",
-      "hot_value": "115 万热度",
+      "title": "2026 年世界田径终极冠军赛，北口榛花 68 米 92 力压严子怡夺冠，怎么评价严子怡遭遇的本赛季首场失利？",
+      "url": "https://www.zhihu.com/question/2082271200881938556",
+      "hot_value": "103 万热度",
       "index": 14
     },
     {
       "title": "为什么很多小孩要报班学跳绳、不会跳楼梯，和感统失调有关吗？现在玩耍跑跳的时间少了，会影响孩子发育吗？",
       "url": "https://www.zhihu.com/question/2081120201693553408",
-      "hot_value": "100 万热度",
+      "hot_value": "94 万热度",
       "index": 15
     },
     {
       "title": "苹果高管称折叠屏比例泄密很遗憾，竞争对手拿到了屏幕比例，泄密为何难以防范？将对行业造成哪些影响？",
       "url": "https://www.zhihu.com/question/2081904462331908716",
-      "hot_value": "99 万热度",
+      "hot_value": "89 万热度",
       "index": 16
     },
     {
-      "title": "如何看待胡塞武装突然势如破竹控制曼德海峡和红海南部？这对当前局势有哪些影响？",
-      "url": "https://www.zhihu.com/question/2081887737754415468",
-      "hot_value": "97 万热度",
+      "title": "2026 苏超第十二轮比赛，淮安队让二追三战胜徐州队，如何评价双方表现？",
+      "url": "https://www.zhihu.com/question/2082228796921532908",
+      "hot_value": "84 万热度",
       "index": 17
     },
     {
-      "title": "如何判断是美国赢了还是伊朗赢了?",
-      "url": "https://www.zhihu.com/question/2018654487640851045",
-      "hot_value": "93 万热度",
+      "title": "国产电影投资逻辑转向，动画片增加，真人片成本两三千万，明星价值缩水，过亿项目锐减，如何解读这一变化？",
+      "url": "https://www.zhihu.com/question/2081027508325938365",
+      "hot_value": "81 万热度",
       "index": 18
     },
     {
-      "title": "女子向大雁塔景区雨水井塞管状不明物，警方已介入调查，可能塞的是什么？会承担怎样的责任？",
-      "url": "https://www.zhihu.com/question/2080972261511487674",
-      "hot_value": "86 万热度",
+      "title": "交易中有哪些第一性原理？",
+      "url": "https://www.zhihu.com/question/654901298",
+      "hot_value": "78 万热度",
       "index": 19
     },
     {
-      "title": "如何评价王阳、万茜主演的悬疑剧《冬城猎凶》？",
-      "url": "https://www.zhihu.com/question/2081463489428710720",
-      "hot_value": "86 万热度",
+      "title": "为什么同为顶流网文网站，起点全力打击 AI 文，扶持人类写手，番茄新规却似乎在打击人类写手，扶持 AI 文？",
+      "url": "https://www.zhihu.com/question/2080579062414697240",
+      "hot_value": "59 万热度",
       "index": 20
     },
     {
-      "title": "iPhone 18 Pro 和 Max 开启预购，你抢到了吗？",
-      "url": "https://www.zhihu.com/question/2082209639156768904",
-      "hot_value": "73 万热度",
+      "title": "iPhone18Pro 系列全球售价对比，256G 国行 9999 元，美国仅 8000 元，为什么有这么大差别？",
+      "url": "https://www.zhihu.com/question/2081416860436898604",
+      "hot_value": "59 万热度",
       "index": 21
+    },
+    {
+      "title": "如何看待女子称被公职人员推入自家烧烤店厕所强奸，县公安局不予立案，市公安局复核认定有犯罪事实？",
+      "url": "https://www.zhihu.com/question/2082117281681875625",
+      "hot_value": "59 万热度",
+      "index": 22
     },
     {
       "title": "网友爆料付航脱口秀 1300 张门票有一千张黄牛票，检票时强实名导致 80% 观众进不了，反映了哪些市场乱象？",
       "url": "https://www.zhihu.com/question/2082137769556628252",
-      "hot_value": "61 万热度",
-      "index": 22
-    },
-    {
-      "title": "很多城市的公共雕塑，为什么总丑得千篇一律？到底卡在了哪一步？",
-      "url": "https://www.zhihu.com/question/2080672430557763566",
       "hot_value": "59 万热度",
       "index": 23
+    },
+    {
+      "title": "武林外传里佟石头和无双互相有好感，佟湘玉阻止的真正目的是什么？",
+      "url": "https://www.zhihu.com/question/330508597",
+      "hot_value": "59 万热度",
+      "index": 24
     },
     {
       "title": "有什么工作必须古法编程？",
       "url": "https://www.zhihu.com/question/2080802436357404495",
       "hot_value": "59 万热度",
-      "index": 24
-    },
-    {
-      "title": "如何看待女子称被公职人员推入自家烧烤店厕所强奸，县公安局不予立案，市公安局复核认定有犯罪事实？",
-      "url": "https://www.zhihu.com/question/2082117281681875625",
-      "hot_value": "58 万热度",
       "index": 25
     },
     {
-      "title": "武则天真的是亲手杀死自己的女儿吗？",
-      "url": "https://www.zhihu.com/question/13590813896",
+      "title": "如何评价原神六周年庆送自选限定五星？",
+      "url": "https://www.zhihu.com/question/2082276697945260205",
       "hot_value": "58 万热度",
       "index": 26
     },
     {
-      "title": "鸡怎么做最好吃？",
-      "url": "https://www.zhihu.com/question/55199648",
-      "hot_value": "57 万热度",
+      "title": "鸡蛋有什么好吃的简单做法？",
+      "url": "https://www.zhihu.com/question/9801172011",
+      "hot_value": "55 万热度",
       "index": 27
     },
     {
-      "title": "2026 年美网女单决赛，莱巴金娜三盘战胜卫冕冠军萨巴伦卡，首获美网冠军，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2082357940355387515",
-      "hot_value": "57 万热度",
+      "title": "为何 OpenAI 等 AI 公司，最近集中且花这么大力气卷数学猜想？数学后，下一个学科又是谁？",
+      "url": "https://www.zhihu.com/question/2082124730757113470",
+      "hot_value": "55 万热度",
       "index": 28
     },
     {
-      "title": "锂电池本月起征税，有电池企业率先涨价，业内判断 10 万元以内纯电车压力最大，行业会迎来新一轮洗牌吗？",
-      "url": "https://www.zhihu.com/question/2081672062029018936",
-      "hot_value": "57 万热度",
+      "title": "很多城市的公共雕塑，为什么总丑得千篇一律？到底卡在了哪一步？",
+      "url": "https://www.zhihu.com/question/2080672430557763566",
+      "hot_value": "53 万热度",
       "index": 29
     },
     {
-      "title": "为什么你镇不住你的下属？",
-      "url": "https://www.zhihu.com/question/2080323173594281144",
-      "hot_value": "57 万热度",
+      "title": "一天一瓶啤酒，对身体有害吗？",
+      "url": "https://www.zhihu.com/question/2080303059578705354",
+      "hot_value": "53 万热度",
       "index": 30
     }
   ]

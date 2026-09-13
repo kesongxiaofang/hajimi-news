@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-09-13T05:07:48Z",
+  "update_time": "2026-09-13T10:26:58Z",
   "count": 30,
   "list": [
     {
-      "title": "男生考上北大后第2天就说要复读",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E5%90%8E%E7%AC%AC2%E5%A4%A9%E5%B0%B1%E8%AF%B4%E8%A6%81%E5%A4%8D%E8%AF%BB%23",
-      "hot_value": "1598709",
+      "title": "北大图灵班",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%9B%BE%E7%81%B5%E7%8F%AD%23",
+      "hot_value": "1125428",
       "index": 1
     },
     {
-      "title": "考上北大男生复读全家100个反对",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E7%94%B7%E7%94%9F%E5%A4%8D%E8%AF%BB%E5%85%A8%E5%AE%B6100%E4%B8%AA%E5%8F%8D%E5%AF%B9%23",
-      "hot_value": "1003802",
+      "title": "法考",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%23",
+      "hot_value": "827027",
       "index": 2
     },
     {
-      "title": "平陆运河真的做到了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E7%9C%9F%E7%9A%84%E5%81%9A%E5%88%B0%E4%BA%86%23",
-      "hot_value": "711742",
+      "title": "为什么金砖国家合作对全球发展举足轻重",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%90%88%E4%BD%9C%E5%AF%B9%E5%85%A8%E7%90%83%E5%8F%91%E5%B1%95%E4%B8%BE%E8%B6%B3%E8%BD%BB%E9%87%8D%23",
+      "hot_value": "662923",
       "index": 3
     },
     {
-      "title": "脑出血自救要点",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%84%91%E5%87%BA%E8%A1%80%E8%87%AA%E6%95%91%E8%A6%81%E7%82%B9%23",
-      "hot_value": "623720",
+      "title": "当老妈知道我工资1260后",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%A6%88%E7%9F%A5%E9%81%93%E6%88%91%E5%B7%A5%E8%B5%841260%E5%90%8E%23",
+      "hot_value": "647277",
       "index": 4
     },
     {
-      "title": "海姆立克急救法变了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A7%86%E7%AB%8B%E5%85%8B%E6%80%A5%E6%95%91%E6%B3%95%E5%8F%98%E4%BA%86%23",
-      "hot_value": "566115",
+      "title": "陈妍希儿子谢楠儿子见面就打",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%84%BF%E5%AD%90%E8%B0%A2%E6%A5%A0%E5%84%BF%E5%AD%90%E8%A7%81%E9%9D%A2%E5%B0%B1%E6%89%93%23",
+      "hot_value": "499828",
       "index": 5
     },
     {
       "title": "小七龄童去世",
       "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%B8%83%E9%BE%84%E7%AB%A5%E5%8E%BB%E4%B8%96%23",
-      "hot_value": "565075",
+      "hot_value": "489334",
       "index": 6
     },
     {
-      "title": "敬一丹去世",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96%23",
-      "hot_value": "560863",
+      "title": "突然意识到双休一年104天",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E6%84%8F%E8%AF%86%E5%88%B0%E5%8F%8C%E4%BC%91%E4%B8%80%E5%B9%B4104%E5%A4%A9%23",
+      "hot_value": "437227",
       "index": 7
     },
     {
-      "title": "当老妈知道我工资1260后",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E8%80%81%E5%A6%88%E7%9F%A5%E9%81%93%E6%88%91%E5%B7%A5%E8%B5%841260%E5%90%8E%23",
-      "hot_value": "558456",
+      "title": "胖东来新员工实行四年合同制",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%B0%E5%91%98%E5%B7%A5%E5%AE%9E%E8%A1%8C%E5%9B%9B%E5%B9%B4%E5%90%88%E5%90%8C%E5%88%B6%23",
+      "hot_value": "423281",
       "index": 8
     },
     {
-      "title": "张杰我是歌手不是逗人的人",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B%E4%B8%8D%E6%98%AF%E9%80%97%E4%BA%BA%E7%9A%84%E4%BA%BA%23",
-      "hot_value": "556227",
+      "title": "GEN夺冠",
+      "url": "https://s.weibo.com/weibo?q=%23GEN%E5%A4%BA%E5%86%A0%23",
+      "hot_value": "404520",
       "index": 9
     },
     {
-      "title": "刀郎音乐会一首没唱",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%80%E9%83%8E%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B8%80%E9%A6%96%E6%B2%A1%E5%94%B1%23",
-      "hot_value": "553462",
+      "title": "剧组副导演吼黄灿灿妈妈",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%89%A7%E7%BB%84%E5%89%AF%E5%AF%BC%E6%BC%94%E5%90%BC%E9%BB%84%E7%81%BF%E7%81%BF%E5%A6%88%E5%A6%88%23",
+      "hot_value": "308486",
       "index": 10
     },
     {
-      "title": "倪萍得知敬一丹去世哭到浑身发抖",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%80%AA%E8%90%8D%E5%BE%97%E7%9F%A5%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96%E5%93%AD%E5%88%B0%E6%B5%91%E8%BA%AB%E5%8F%91%E6%8A%96%23",
-      "hot_value": "550041",
+      "title": "井柏然孙千偷偷牵手",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E5%81%B7%E5%81%B7%E7%89%B5%E6%89%8B%23",
+      "hot_value": "307780",
       "index": 11
+    },
+    {
+      "title": "男子与女同事发生不正当关系成植物人",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E%E5%A5%B3%E5%90%8C%E4%BA%8B%E5%8F%91%E7%94%9F%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA%23",
+      "hot_value": "305835",
+      "index": 12
+    },
+    {
+      "title": "野人先生回应罗永浩说难吃",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E5%9B%9E%E5%BA%94%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%AF%B4%E9%9A%BE%E5%90%83%23",
+      "hot_value": "305010",
+      "index": 13
+    },
+    {
+      "title": "演唱会被推开男生本人现身称已分手",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%8E%A8%E5%BC%80%E7%94%B7%E7%94%9F%E6%9C%AC%E4%BA%BA%E7%8E%B0%E8%BA%AB%E7%A7%B0%E5%B7%B2%E5%88%86%E6%89%8B%23",
+      "hot_value": "303099",
+      "index": 14
+    },
+    {
+      "title": "女选手失禁夺冠评价两极分化",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E5%A4%BA%E5%86%A0%E8%AF%84%E4%BB%B7%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96%23",
+      "hot_value": "301988",
+      "index": 15
+    },
+    {
+      "title": "井柏然孙千见面会好强的离婚感",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%A5%BD%E5%BC%BA%E7%9A%84%E7%A6%BB%E5%A9%9A%E6%84%9F%23",
+      "hot_value": "300859",
+      "index": 16
+    },
+    {
+      "title": "金砖国家领导人集体合影",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1%23",
+      "hot_value": "298950",
+      "index": 17
+    },
+    {
+      "title": "LPL决赛",
+      "url": "https://s.weibo.com/weibo?q=%23LPL%E5%86%B3%E8%B5%9B%23",
+      "hot_value": "297642",
+      "index": 18
+    },
+    {
+      "title": "乌军称与俄发生首次无人艇海战",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%86%9B%E7%A7%B0%E4%B8%8E%E4%BF%84%E5%8F%91%E7%94%9F%E9%A6%96%E6%AC%A1%E6%97%A0%E4%BA%BA%E8%89%87%E6%B5%B7%E6%88%98%23",
+      "hot_value": "296185",
+      "index": 19
+    },
+    {
+      "title": "律师回应女生做水被农夫山泉索赔",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%81%9A%E6%B0%B4%E8%A2%AB%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E7%B4%A2%E8%B5%94%23",
+      "hot_value": "295586",
+      "index": 20
+    },
+    {
+      "title": "女子将幼儿独自放婴儿车挡电梯门",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E5%B9%BC%E5%84%BF%E7%8B%AC%E8%87%AA%E6%94%BE%E5%A9%B4%E5%84%BF%E8%BD%A6%E6%8C%A1%E7%94%B5%E6%A2%AF%E9%97%A8%23",
+      "hot_value": "294010",
+      "index": 21
     },
     {
       "title": "祝绪丹 杨幂",
       "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9+%E6%9D%A8%E5%B9%82%23",
-      "hot_value": "547487",
-      "index": 12
-    },
-    {
-      "title": "敬一丹退休曾成为现象级新闻",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%95%AC%E4%B8%80%E4%B8%B9%E9%80%80%E4%BC%91%E6%9B%BE%E6%88%90%E4%B8%BA%E7%8E%B0%E8%B1%A1%E7%BA%A7%E6%96%B0%E9%97%BB%23",
-      "hot_value": "545450",
-      "index": 13
-    },
-    {
-      "title": "死亡女婴气管导管吸出奶渣样物体",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E5%A5%B3%E5%A9%B4%E6%B0%94%E7%AE%A1%E5%AF%BC%E7%AE%A1%E5%90%B8%E5%87%BA%E5%A5%B6%E6%B8%A3%E6%A0%B7%E7%89%A9%E4%BD%93%23",
-      "hot_value": "543729",
-      "index": 14
-    },
-    {
-      "title": "香港海面惊现女尸",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%B5%B7%E9%9D%A2%E6%83%8A%E7%8E%B0%E5%A5%B3%E5%B0%B8%23",
-      "hot_value": "539671",
-      "index": 15
-    },
-    {
-      "title": "敬一丹家人之前未对外透露病情原因",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%95%AC%E4%B8%80%E4%B8%B9%E5%AE%B6%E4%BA%BA%E4%B9%8B%E5%89%8D%E6%9C%AA%E5%AF%B9%E5%A4%96%E9%80%8F%E9%9C%B2%E7%97%85%E6%83%85%E5%8E%9F%E5%9B%A0%23",
-      "hot_value": "538995",
-      "index": 16
-    },
-    {
-      "title": "关晓彤陈星旭新剧cp感",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E9%99%88%E6%98%9F%E6%97%AD%E6%96%B0%E5%89%A7cp%E6%84%9F%23",
-      "hot_value": "534450",
-      "index": 17
-    },
-    {
-      "title": "伊朗13岁女孩被美军在脸上留疤",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%9713%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%BE%8E%E5%86%9B%E5%9C%A8%E8%84%B8%E4%B8%8A%E7%95%99%E7%96%A4%23",
-      "hot_value": "532011",
-      "index": 18
-    },
-    {
-      "title": "初中生沉迷于电话手表社交圈",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E7%94%9F%E6%B2%89%E8%BF%B7%E4%BA%8E%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%A4%BE%E4%BA%A4%E5%9C%88%23",
-      "hot_value": "530917",
-      "index": 19
-    },
-    {
-      "title": "女子离世无配偶子女9个亲戚争遗产",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E4%B8%96%E6%97%A0%E9%85%8D%E5%81%B6%E5%AD%90%E5%A5%B39%E4%B8%AA%E4%BA%B2%E6%88%9A%E4%BA%89%E9%81%97%E4%BA%A7%23",
-      "hot_value": "527061",
-      "index": 20
-    },
-    {
-      "title": "三甲医生回应海姆立克急救法变了",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%B5%B7%E5%A7%86%E7%AB%8B%E5%85%8B%E6%80%A5%E6%95%91%E6%B3%95%E5%8F%98%E4%BA%86%23",
-      "hot_value": "524052",
-      "index": 21
-    },
-    {
-      "title": "iPhone18Pro 饥饿营销",
-      "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro+%E9%A5%A5%E9%A5%BF%E8%90%A5%E9%94%80%23",
-      "hot_value": "522520",
+      "hot_value": "292987",
       "index": 22
     },
     {
-      "title": "陈熠4比3早田希娜",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%86%A04%E6%AF%943%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23",
-      "hot_value": "518146",
+      "title": "北方 隐翅虫",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9+%E9%9A%90%E7%BF%85%E8%99%AB%23",
+      "hot_value": "290998",
       "index": 23
     },
     {
-      "title": "韩路称选手大便失禁就该叫停比赛",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%B7%AF%E7%A7%B0%E9%80%89%E6%89%8B%E5%A4%A7%E4%BE%BF%E5%A4%B1%E7%A6%81%E5%B0%B1%E8%AF%A5%E5%8F%AB%E5%81%9C%E6%AF%94%E8%B5%9B%23",
-      "hot_value": "515937",
+      "title": "黄灿灿妈妈探班被剧组赶走",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E5%A6%88%E5%A6%88%E6%8E%A2%E7%8F%AD%E8%A2%AB%E5%89%A7%E7%BB%84%E8%B5%B6%E8%B5%B0%23",
+      "hot_value": "290229",
       "index": 24
     },
     {
-      "title": "男生复读一年再次考上北大父亲发声",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%E5%86%8D%E6%AC%A1%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23",
-      "hot_value": "515098",
+      "title": "兰香如故 好看",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85+%E5%A5%BD%E7%9C%8B%23",
+      "hot_value": "288748",
       "index": 25
     },
     {
-      "title": "AI短剧 成瘾",
-      "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7+%E6%88%90%E7%98%BE%23",
-      "hot_value": "512281",
+      "title": "法医删强奸案DNA只为保绩效",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%8C%BB%E5%88%A0%E5%BC%BA%E5%A5%B8%E6%A1%88DNA%E5%8F%AA%E4%B8%BA%E4%BF%9D%E7%BB%A9%E6%95%88%23",
+      "hot_value": "286268",
       "index": 26
     },
     {
-      "title": "赵雷当爸爸了",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%B7%E5%BD%93%E7%88%B8%E7%88%B8%E4%BA%86%23",
-      "hot_value": "509029",
+      "title": "泰国警方没收僧侣情事餐桌",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%B2%A1%E6%94%B6%E5%83%A7%E4%BE%A3%E6%83%85%E4%BA%8B%E9%A4%90%E6%A1%8C%23",
+      "hot_value": "285474",
       "index": 27
     },
     {
-      "title": "兰香如故次日拉新涨幅近1800",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%AC%A1%E6%97%A5%E6%8B%89%E6%96%B0%E6%B6%A8%E5%B9%85%E8%BF%911800%23",
-      "hot_value": "504489",
+      "title": "下周上5休1再上1",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8B%E5%91%A8%E4%B8%8A5%E4%BC%911%E5%86%8D%E4%B8%8A1%23",
+      "hot_value": "283990",
       "index": 28
     },
     {
-      "title": "葫芦爷爷一顿饭被叫出去10次",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%91%AB%E8%8A%A6%E7%88%B7%E7%88%B7%E4%B8%80%E9%A1%BF%E9%A5%AD%E8%A2%AB%E5%8F%AB%E5%87%BA%E5%8E%BB10%E6%AC%A1%23",
-      "hot_value": "502691",
+      "title": "央视发布敬一丹主持集锦",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%8F%91%E5%B8%83%E6%95%AC%E4%B8%80%E4%B8%B9%E4%B8%BB%E6%8C%81%E9%9B%86%E9%94%A6%23",
+      "hot_value": "282957",
       "index": 29
     },
     {
-      "title": "法考",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%23",
-      "hot_value": "499400",
+      "title": "脑出血头痛会让人突然惊叫",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%84%91%E5%87%BA%E8%A1%80%E5%A4%B4%E7%97%9B%E4%BC%9A%E8%AE%A9%E4%BA%BA%E7%AA%81%E7%84%B6%E6%83%8A%E5%8F%AB%23",
+      "hot_value": "280594",
       "index": 30
     }
   ]
