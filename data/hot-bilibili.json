@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-13T00:07:58Z",
+  "update_time": "2026-09-13T05:07:48Z",
   "count": 30,
   "list": [
     {
       "title": "思路打开，用擦丝器解锁旋风薯塔！懒人不开火实现烤肉自由，今天的烤猪蹄简直夯爆了！",
       "url": "https://www.bilibili.com/video/BV1TEYX62EMp",
-      "hot_value": "686314播放",
+      "hot_value": "1473012播放",
       "index": 1
     },
     {
-      "title": "《原神》7.1版本PV：「往冥府的安魂歌」",
-      "url": "https://www.bilibili.com/video/BV1yuY96rEL7",
-      "hot_value": "1129027播放",
+      "title": "模仿派对，配音挑战大赛",
+      "url": "https://www.bilibili.com/video/BV1ZqYX6YEsu",
+      "hot_value": "1524185播放",
       "index": 2
     },
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第15集【总第191集】",
       "url": "https://www.bilibili.com/video/BV1EmYm6HE57",
-      "hot_value": "5170859播放",
+      "hot_value": "5317967播放",
       "index": 3
-    },
-    {
-      "title": "模仿派对，配音挑战大赛",
-      "url": "https://www.bilibili.com/video/BV1ZqYX6YEsu",
-      "hot_value": "940784播放",
-      "index": 4
-    },
-    {
-      "title": "反转到最后一秒！狗血100%，伏笔全回收，年度抓马爽剧诞生！年度高分韩剧《现在不是出轨的问题》下",
-      "url": "https://www.bilibili.com/video/BV1JKYm6nETk",
-      "hot_value": "727410播放",
-      "index": 5
-    },
-    {
-      "title": "成名之作，龙凤胎王世佳，王世博，谁能看清楚他叔叔身上的四个字，算您厉害。",
-      "url": "https://www.bilibili.com/video/BV1QNYt6EE4i",
-      "hot_value": "1595421播放",
-      "index": 6
-    },
-    {
-      "title": "加糖制作的红茶，能喝出来吗？",
-      "url": "https://www.bilibili.com/video/BV1BCY16jEom",
-      "hot_value": "379215播放",
-      "index": 7
-    },
-    {
-      "title": "去了一趟山西。",
-      "url": "https://www.bilibili.com/video/BV1xVY26dEbz",
-      "hot_value": "1470580播放",
-      "index": 8
-    },
-    {
-      "title": "《原神》7.1版本「往冥府的安魂歌」前瞻特别节目",
-      "url": "https://www.bilibili.com/video/BV1znY96NEvn",
-      "hot_value": "782855播放",
-      "index": 9
-    },
-    {
-      "title": "假如你是一个雪饼",
-      "url": "https://www.bilibili.com/video/BV1ciYp6XEpW",
-      "hot_value": "2172412播放",
-      "index": 10
-    },
-    {
-      "title": "高糖VS戒糖14天！真的差别很大吗？",
-      "url": "https://www.bilibili.com/video/BV1enYL6SEtU",
-      "hot_value": "1292761播放",
-      "index": 11
     },
     {
       "title": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
       "url": "https://www.bilibili.com/video/BV1HUY76uEMJ",
-      "hot_value": "1046097播放",
-      "index": 12
+      "hot_value": "1398406播放",
+      "index": 4
     },
     {
-      "title": "我靠做数独解决了10000起谋杀案！！",
-      "url": "https://www.bilibili.com/video/BV1yLY26sEYq",
-      "hot_value": "564175播放",
-      "index": 13
+      "title": "“以次充好”的食品第二期#食品安全#哈密瓜#千层蛋糕#辣椒#炸鸡",
+      "url": "https://www.bilibili.com/video/BV1g5YE6pEiH",
+      "hot_value": "543725播放",
+      "index": 5
     },
     {
-      "title": "把尸体做成陷阱，假意投降却上来自爆，二战日军到底有多疯狂阴险",
-      "url": "https://www.bilibili.com/video/BV1bSY26wEnR",
-      "hot_value": "867680播放",
-      "index": 14
+      "title": "假如你是一个雪饼",
+      "url": "https://www.bilibili.com/video/BV1ciYp6XEpW",
+      "hot_value": "2512641播放",
+      "index": 6
+    },
+    {
+      "title": "成名之作，龙凤胎王世佳，王世博，谁能看清楚他叔叔身上的四个字，算您厉害。",
+      "url": "https://www.bilibili.com/video/BV1QNYt6EE4i",
+      "hot_value": "1931801播放",
+      "index": 7
+    },
+    {
+      "title": "光合作用：一次意外吞噬，改变了整个地球",
+      "url": "https://www.bilibili.com/video/BV1HyYS6wECP",
+      "hot_value": "927778播放",
+      "index": 8
+    },
+    {
+      "title": "探访野生狗奶原产地，味道居然还不错",
+      "url": "https://www.bilibili.com/video/BV1cgYQ6PE8c",
+      "hot_value": "465833播放",
+      "index": 9
+    },
+    {
+      "title": "这寝室呆的",
+      "url": "https://www.bilibili.com/video/BV1ZiYX6PEd5",
+      "hot_value": "831286播放",
+      "index": 10
     },
     {
       "title": "最不想沾边的词汇出现了",
       "url": "https://www.bilibili.com/video/BV1SCY26NEfP",
-      "hot_value": "667755播放",
+      "hot_value": "948414播放",
+      "index": 11
+    },
+    {
+      "title": "反转到最后一秒！狗血100%，伏笔全回收，年度抓马爽剧诞生！年度高分韩剧《现在不是出轨的问题》下",
+      "url": "https://www.bilibili.com/video/BV1JKYm6nETk",
+      "hot_value": "909013播放",
+      "index": 12
+    },
+    {
+      "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
+      "url": "https://www.bilibili.com/video/BV1S5YE6HE9Q",
+      "hot_value": "670008播放",
+      "index": 13
+    },
+    {
+      "title": "《原神》7.1版本PV：「往冥府的安魂歌」",
+      "url": "https://www.bilibili.com/video/BV1yuY96rEL7",
+      "hot_value": "1299427播放",
+      "index": 14
+    },
+    {
+      "title": "元代古沉船“元青花杯”疑似失踪？烧烤店主实名举报后，疑遭报复，5个部门上门检查15次 多数查无实据。（评论员：赵冰 编辑：刘嘉欣 责编：陈思 监制：余超）",
+      "url": "https://www.bilibili.com/video/BV126YQ6kEYw",
+      "hot_value": "403365播放",
       "index": 15
     },
     {
-      "title": "哪 有 人 钓 鱼 不 带 枪 的 ！！！",
-      "url": "https://www.bilibili.com/video/BV1YnYL6SE9L",
-      "hot_value": "668125播放",
+      "title": "套假牌，超速200+，自称德国不限速。难度2星",
+      "url": "https://www.bilibili.com/video/BV1UeYQ62Eq3",
+      "hot_value": "537123播放",
       "index": 16
     },
     {
-      "title": "中国超能，奶奶蔡明能，飞！",
-      "url": "https://www.bilibili.com/video/BV1P4YX63Emf",
-      "hot_value": "939615播放",
+      "title": "【假装讲电影】笑死！黑帮集体跳槽干物业！结果发现物业更黑啊！！！",
+      "url": "https://www.bilibili.com/video/BV1vnYQ6xEMr",
+      "hot_value": "342656播放",
       "index": 17
     },
     {
       "title": "【独家】《百日成王》第24集 还有人在等着我【7月国创】",
       "url": "https://www.bilibili.com/video/BV1dFth6DEc9",
-      "hot_value": "320660播放",
+      "hot_value": "336819播放",
       "index": 18
     },
     {
-      "title": "这寝室呆的",
-      "url": "https://www.bilibili.com/video/BV1ZiYX6PEd5",
-      "hot_value": "667586播放",
+      "title": "【2026KPL夏季赛】9月12日 决赛 重庆狼队 VS 广州TTG",
+      "url": "https://www.bilibili.com/video/BV1QDYX69Ehu",
+      "hot_value": "909120播放",
       "index": 19
     },
     {
-      "title": "小 兵 阿 嘎",
-      "url": "https://www.bilibili.com/video/BV1zuY46oE2V",
-      "hot_value": "1613032播放",
+      "title": "《原神》7.1版本「往冥府的安魂歌」前瞻特别节目",
+      "url": "https://www.bilibili.com/video/BV1znY96NEvn",
+      "hot_value": "891432播放",
       "index": 20
     },
     {
-      "title": "也许，世界本该如此",
-      "url": "https://www.bilibili.com/video/BV1PKY96yEhL",
-      "hot_value": "261094播放",
+      "title": "加糖制作的红茶，能喝出来吗？",
+      "url": "https://www.bilibili.com/video/BV1BCY16jEom",
+      "hot_value": "488981播放",
       "index": 21
-    },
-    {
-      "title": "21世纪波兰依然被闪击",
-      "url": "https://www.bilibili.com/video/BV1BdYQ6aEXv",
-      "hot_value": "1226265播放",
-      "index": 22
-    },
-    {
-      "title": "探访野生狗奶原产地，味道居然还不错",
-      "url": "https://www.bilibili.com/video/BV1cgYQ6PE8c",
-      "hot_value": "287670播放",
-      "index": 23
-    },
-    {
-      "title": "夏季的温馨碎片，重新剪到一起，准备再赚一次流量",
-      "url": "https://www.bilibili.com/video/BV1S5YE6HE9Q",
-      "hot_value": "489549播放",
-      "index": 24
     },
     {
       "title": "凌晨3点，为什么几万人都在爬泰山？！",
       "url": "https://www.bilibili.com/video/BV1seYV6AELD",
-      "hot_value": "536014播放",
+      "hot_value": "657998播放",
+      "index": 22
+    },
+    {
+      "title": "把尸体做成陷阱，假意投降却上来自爆，二战日军到底有多疯狂阴险",
+      "url": "https://www.bilibili.com/video/BV1bSY26wEnR",
+      "hot_value": "1122981播放",
+      "index": 23
+    },
+    {
+      "title": "哪 有 人 钓 鱼 不 带 枪 的 ！！！",
+      "url": "https://www.bilibili.com/video/BV1YnYL6SE9L",
+      "hot_value": "775462播放",
+      "index": 24
+    },
+    {
+      "title": "高糖VS戒糖14天！真的差别很大吗？",
+      "url": "https://www.bilibili.com/video/BV1enYL6SEtU",
+      "hot_value": "1544292播放",
       "index": 25
     },
     {
-      "title": "如何制造海苔",
-      "url": "https://www.bilibili.com/video/BV1NsYE6yEna",
-      "hot_value": "925947播放",
+      "title": "当你穿进老钱班《前传》",
+      "url": "https://www.bilibili.com/video/BV12fYD66EFC",
+      "hot_value": "744428播放",
       "index": 26
     },
     {
-      "title": "手把手教你复刻《百万英镑》牛排套餐，一口锅就能煎完！",
-      "url": "https://www.bilibili.com/video/BV1SbYL65ECo",
-      "hot_value": "749511播放",
+      "title": "【IGN】Switch 2版《艾尔登法环 褪色者版》 70分钟实机演示03",
+      "url": "https://www.bilibili.com/video/BV1S4YL61EBF",
+      "hot_value": "360379播放",
       "index": 27
     },
     {
-      "title": "光合作用：一次意外吞噬，改变了整个地球",
-      "url": "https://www.bilibili.com/video/BV1HyYS6wECP",
-      "hot_value": "770812播放",
+      "title": "今天简单吃一份“桃花源记”",
+      "url": "https://www.bilibili.com/video/BV14Rbc6xE51",
+      "hot_value": "1251161播放",
       "index": 28
     },
     {
-      "title": "勇哥教人开餐饮，自己的店水平到底如何？探店勇哥餐厅，套路确实深！",
-      "url": "https://www.bilibili.com/video/BV1ZpYd66ELP",
-      "hot_value": "249953播放",
+      "title": "也许，世界本该如此",
+      "url": "https://www.bilibili.com/video/BV1PKY96yEhL",
+      "hot_value": "330490播放",
       "index": 29
     },
     {
-      "title": "什么叫你往mc添加了整套拼豆系统？",
-      "url": "https://www.bilibili.com/video/BV1NKYg6RE5M",
-      "hot_value": "1412997播放",
+      "title": "印象之外｜易立竞对话埃安张雄：贴上标签只要三秒，撕掉要花多久？",
+      "url": "https://www.bilibili.com/video/BV15iY56DE85",
+      "hot_value": "2281163播放",
       "index": 30
     }
   ]
