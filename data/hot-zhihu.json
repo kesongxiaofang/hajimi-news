@@ -1,121 +1,121 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-14T00:38:42Z",
+  "update_time": "2026-09-14T05:42:29Z",
   "count": 30,
   "list": [
     {
-      "title": "如何看待极客湾对麒麟 9050 Pro 进行的能效实测结果？",
-      "url": "https://www.zhihu.com/question/2082506609218020843",
-      "hot_value": "1041 万热度",
-      "index": 1
-    },
-    {
-      "title": "浙江太乙圣莲拟 30 亿元入主哪吒汽车，将如何影响其未来战略布局？",
-      "url": "https://www.zhihu.com/question/2081827882993823882",
-      "hot_value": "592 万热度",
-      "index": 2
-    },
-    {
-      "title": "如何看待于东来发文称胖东来再招员工都是学员性质，合同四年，不续签？意味着什么？",
-      "url": "https://www.zhihu.com/question/2082478357984421508",
-      "hot_value": "336 万热度",
-      "index": 3
-    },
-    {
       "title": "两部门联合通报六起地方政府隐性债务追责问责典型案例，这将如何影响地方政府财政管理？",
       "url": "https://www.zhihu.com/question/2081785898224698101",
-      "hot_value": "272 万热度",
-      "index": 4
-    },
-    {
-      "title": "罗永浩称野人先生冰激凌很一般，野人先生该如何回应这场突发舆情？",
-      "url": "https://www.zhihu.com/question/2082497943508973001",
-      "hot_value": "234 万热度",
-      "index": 5
-    },
-    {
-      "title": "宁波大学开学典礼突降暴雨，校长仅讲 3 句话为何会走红网络？引发了大家怎样的共鸣？",
-      "url": "https://www.zhihu.com/question/2082012177599304906",
-      "hot_value": "180 万热度",
-      "index": 6
-    },
-    {
-      "title": "如何看待 Anthropic 、马斯克等顶级 AI 公司呼吁控制前沿 AI 发展节奏？为啥在此时喊减速？",
-      "url": "https://www.zhihu.com/question/2082571703062721521",
-      "hot_value": "174 万热度",
-      "index": 7
-    },
-    {
-      "title": "内存显卡什么时候回归正常价格？\n",
-      "url": "https://www.zhihu.com/question/2056153939586945213",
-      "hot_value": "146 万热度",
-      "index": 8
-    },
-    {
-      "title": "国宝级川菜大师拿下百厨总冠军，他的厨艺强在哪？体现了川菜精髓吗？",
-      "url": "https://www.zhihu.com/question/2081046431478165638",
-      "hot_value": "139 万热度",
-      "index": 9
-    },
-    {
-      "title": "为什么扎根西北的兰州大学，没有吃到「工科苦行僧」审美的红利？",
-      "url": "https://www.zhihu.com/question/2068727162681692756",
-      "hot_value": "136 万热度",
-      "index": 10
-    },
-    {
-      "title": "星宇股份被曝产业园接近 90% 的工人都是劳务派遣临时工，真的是这样吗？",
-      "url": "https://www.zhihu.com/question/2082093604424700258",
-      "hot_value": "135 万热度",
-      "index": 11
-    },
-    {
-      "title": "16 岁中国小将孙心然夺得美网青少年组女单冠军，怎样评价她的表现？她未来的潜力如何？",
-      "url": "https://www.zhihu.com/question/2082373635344266116",
-      "hot_value": "133 万热度",
-      "index": 12
-    },
-    {
-      "title": "阿里代理的《旅行青蛙》因授权到期将停止运营，如何评价？你对它有哪些回忆？",
-      "url": "https://www.zhihu.com/question/2080686281286051290",
-      "hot_value": "118 万热度",
-      "index": 13
-    },
-    {
-      "title": "为什么中国不做策略类的大作，感觉要比黑猴和影刃简单吧？",
-      "url": "https://www.zhihu.com/question/2073372691021705766",
-      "hot_value": "113 万热度",
-      "index": 14
+      "hot_value": "1214 万热度",
+      "index": 1
     },
     {
       "title": "在体检中心体检和直接去医院体检有什么不一样？",
       "url": "https://www.zhihu.com/question/24536825",
-      "hot_value": "108 万热度",
-      "index": 15
+      "hot_value": "525 万热度",
+      "index": 2
+    },
+    {
+      "title": "北京一独居者离世，无配偶、子女、兄弟姐妹，叔舅姑姨九人争遗产，法院判房产归国家，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2081163395638760993",
+      "hot_value": "323 万热度",
+      "index": 3
+    },
+    {
+      "title": "内存显卡什么时候回归正常价格？\n",
+      "url": "https://www.zhihu.com/question/2056153939586945213",
+      "hot_value": "274 万热度",
+      "index": 4
+    },
+    {
+      "title": "国宝级川菜大师拿下百厨总冠军，他的厨艺强在哪？体现了川菜精髓吗？",
+      "url": "https://www.zhihu.com/question/2081046431478165638",
+      "hot_value": "214 万热度",
+      "index": 5
+    },
+    {
+      "title": "全球变暖正在让西北变江南，都在往好的方向发展，为什么还有这么多人认为变暖弊大于利？",
+      "url": "https://www.zhihu.com/question/2082376355325464661",
+      "hot_value": "210 万热度",
+      "index": 6
+    },
+    {
+      "title": "扫墓时发现八座祖坟被施工损毁，土地承包方称「事前不知道有坟」，警方认定为纠纷不予立案，家属该如何维权？",
+      "url": "https://www.zhihu.com/question/2078169669110973044",
+      "hot_value": "167 万热度",
+      "index": 7
+    },
+    {
+      "title": "阿里代理的《旅行青蛙》因授权到期将停止运营，如何评价？你对它有哪些回忆？",
+      "url": "https://www.zhihu.com/question/2080686281286051290",
+      "hot_value": "166 万热度",
+      "index": 8
+    },
+    {
+      "title": "胖东来为什么要设计四年学员制招工新规？于东来「为社会培养人才」来解释不续签，是在美化一种用工策略吗？",
+      "url": "https://www.zhihu.com/question/2082739883458523202",
+      "hot_value": "162 万热度",
+      "index": 9
+    },
+    {
+      "title": "美国有美式中餐，中国有中式西餐吗？",
+      "url": "https://www.zhihu.com/question/38973950",
+      "hot_value": "156 万热度",
+      "index": 10
+    },
+    {
+      "title": "如何看待苏格兰、威尔士和北爱尔兰的领导人将共商民族自决权利？会导致英国分裂解体吗？",
+      "url": "https://www.zhihu.com/question/2082546625952727198",
+      "hot_value": "151 万热度",
+      "index": 11
+    },
+    {
+      "title": "罗永浩称野人先生冰激凌很一般，野人先生该如何回应这场突发舆情？为什么网友都劝野人先生别回应？",
+      "url": "https://www.zhihu.com/question/2082497943508973001",
+      "hot_value": "147 万热度",
+      "index": 12
     },
     {
       "title": "媒体称 12345 话务员多为外包，是真的吗？会影响政务服务质量与效率吗？如何保障诉求被真正解决？",
       "url": "https://www.zhihu.com/question/2082480583536649495",
-      "hot_value": "105 万热度",
+      "hot_value": "140 万热度",
+      "index": 13
+    },
+    {
+      "title": "为什么学校总要求低年级的学生包书皮呢？",
+      "url": "https://www.zhihu.com/question/2078976752232280700",
+      "hot_value": "135 万热度",
+      "index": 14
+    },
+    {
+      "title": "菏泽古沉船文物遗失成立调查组，初步认定是青花瓷器残片，烧烤店 116 件投诉来自同一人，哪些问题值得追问？",
+      "url": "https://www.zhihu.com/question/2082524755429516657",
+      "hot_value": "129 万热度",
+      "index": 15
+    },
+    {
+      "title": "沙特求援后，美国为何拒绝直接对胡塞出兵？",
+      "url": "https://www.zhihu.com/question/2082399151623496742",
+      "hot_value": "120 万热度",
       "index": 16
     },
     {
-      "title": "《魔兽世界：永恒》11 月 4 日上线，其作为「怀旧服 +」会给游戏带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2082311421673616444",
-      "hot_value": "105 万热度",
+      "title": "罗永浩连用 7 个「抄的」吐槽 iPhone Duo，如何看待这次争议？苹果折叠屏真的缺少原创吗？",
+      "url": "https://www.zhihu.com/question/2081419241438308033",
+      "hot_value": "112 万热度",
       "index": 17
     },
     {
-      "title": "不少网友痴迷看单集几分钟、充满反转与爽点的 AI 短剧，你会看 AI 短剧成瘾吗？看多了会有哪些影响？",
-      "url": "https://www.zhihu.com/question/2082371529283559488",
-      "hot_value": "101 万热度",
+      "title": "军机处这种临时指挥机构这么好用，为何现代没有国家采用了？",
+      "url": "https://www.zhihu.com/question/1975139999579129588",
+      "hot_value": "97 万热度",
       "index": 18
     },
     {
-      "title": "V 社为何暂时关闭 DOTA2 游廊服务器？还会再开启吗？",
-      "url": "https://www.zhihu.com/question/2081378414305481231",
-      "hot_value": "97 万热度",
+      "title": "宁波大学开学典礼突降暴雨，校长仅讲 3 句话为何会走红网络？引发了大家怎样的共鸣？",
+      "url": "https://www.zhihu.com/question/2082012177599304906",
+      "hot_value": "92 万热度",
       "index": 19
     },
     {
@@ -125,63 +125,63 @@
       "index": 20
     },
     {
-      "title": "如何看待多家券商收紧个人程序化交易接入？是为了应对 AI 量化的冲击吗？",
-      "url": "https://www.zhihu.com/question/2082404798880378901",
-      "hot_value": "87 万热度",
+      "title": "中方 9 月 14 日起上调日本公民赴华签证规费，外交部称依据对等原则安排，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2081779888046995214",
+      "hot_value": "91 万热度",
       "index": 21
     },
     {
-      "title": "清朝人口为何从 1400 万迅速长到 4 亿？呈现爆发式增长，是何原因？",
-      "url": "https://www.zhihu.com/question/528355615",
-      "hot_value": "81 万热度",
+      "title": "国乒男单 WTT 澳门赛全军覆没，爆冷原因可能是什么？",
+      "url": "https://www.zhihu.com/question/2082400971355902195",
+      "hot_value": "91 万热度",
       "index": 22
     },
     {
-      "title": "有什么你去了威海才知道的事情？",
-      "url": "https://www.zhihu.com/question/293242309",
-      "hot_value": "78 万热度",
+      "title": "如何评价《崩坏·星穹铁道》4.5 版本的虚构叙事「立界开篇」？",
+      "url": "https://www.zhihu.com/question/2082773460313495217",
+      "hot_value": "82 万热度",
       "index": 23
     },
     {
-      "title": "如何看待苹果宣布 App 可以直接获取 iPhone Duo 铰链开合角度？将此应用于开屏广告的前景如何？",
-      "url": "https://www.zhihu.com/question/2081661494270415480",
-      "hot_value": "77 万热度",
+      "title": "中国餐馆的利润大部分来源于酒水吗？如果是的话，为什么？",
+      "url": "https://www.zhihu.com/question/22889049",
+      "hot_value": "78 万热度",
       "index": 24
     },
     {
-      "title": "如何评价魔兽争霸 3 新出的酒馆英雄「被遗忘者圣骑士」？",
-      "url": "https://www.zhihu.com/question/2082386280025941790",
-      "hot_value": "76 万热度",
+      "title": "为什么中国不做策略类的大作，感觉要比黑猴和影刃简单吧？",
+      "url": "https://www.zhihu.com/question/2073372691021705766",
+      "hot_value": "77 万热度",
       "index": 25
     },
     {
-      "title": "HYROX 北京站比赛选手失禁仍完成比赛，比赛规则和卫生安全引争议，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2082250121257997440",
-      "hot_value": "72 万热度",
+      "title": "俞敏洪称东方甄选不是电商或主播网红公司，核心是产品，成熟产品不打价格战、要做更好不做更便宜，如何解读？",
+      "url": "https://www.zhihu.com/question/2079698728722641454",
+      "hot_value": "76 万热度",
       "index": 26
     },
     {
-      "title": "令狐冲心知数万斤炸药炸开，见性峰上少林武当恒山仪琳势必玉石俱焚，他内心深处却盼望炸药炸起来，这对吗？",
-      "url": "https://www.zhihu.com/question/2081647900174693078",
-      "hot_value": "66 万热度",
+      "title": "如何包出漂亮的饺子？",
+      "url": "https://www.zhihu.com/question/22902193",
+      "hot_value": "74 万热度",
       "index": 27
     },
     {
-      "title": "LPL 2026 赛季季后赛总决赛 AL 3:1 击败 BLG 夺得总冠军，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2082449921253303582",
-      "hot_value": "59 万热度",
+      "title": "为什么酒店标间两张床的价格反而会低于一张床的大床房的价格，这背后的定价逻辑是什么？",
+      "url": "https://www.zhihu.com/question/663413512",
+      "hot_value": "61 万热度",
       "index": 28
     },
     {
-      "title": "AI 能否真正发现市场尚未定价的信息，还是本质上只能更高效地总结已经公开的信息？",
-      "url": "https://www.zhihu.com/question/2078817272072594673",
-      "hot_value": "56 万热度",
+      "title": "你认为人生中什么才是治愈一切的良药？",
+      "url": "https://www.zhihu.com/question/2074609601945903312",
+      "hot_value": "61 万热度",
       "index": 29
     },
     {
-      "title": "预感将被裁员且能力不足，该主动辞职吗？",
-      "url": "https://www.zhihu.com/question/2081988407358767777",
-      "hot_value": "56 万热度",
+      "title": "演员到底有多吃天赋？",
+      "url": "https://www.zhihu.com/question/443350396",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
