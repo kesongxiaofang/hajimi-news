@@ -1,102 +1,102 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-09-15T21:35:24Z",
+  "update_time": "2026-09-15T23:55:19Z",
   "count": 20,
   "list": [
-    {
-      "title": "河北邢台一医院误给8月龄婴儿注射10倍剂量肾上腺素，双方已达成调解意见",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34073125",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "见微知沪｜8岁孩子受委屈报的警，为何值得被认真对待？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34074147",
       "hot_value": "",
-      "index": 2
+      "index": 1
     },
     {
       "title": "释新闻｜三地突然闹“脱英”，英国真的面临“解体危机”？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34074645",
       "hot_value": "",
+      "index": 2
+    },
+    {
+      "title": "睡集装箱房、住邮轮，名古屋亚运会的“节俭实验”也有麻烦",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34074515",
+      "hot_value": "",
       "index": 3
+    },
+    {
+      "title": "河北邢台一医院误给8月龄婴儿注射10倍剂量肾上腺素，双方已达成调解意见",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34073125",
+      "hot_value": "",
+      "index": 4
     },
     {
       "title": "演唱会现场情侣求婚被喊“坐下”引关注，场馆客服：各通道配备保安，遇突发情况观众可随时联系",
       "url": "https://www.thepaper.cn/newsDetail_forward_34074640",
       "hot_value": "",
-      "index": 4
+      "index": 5
     },
     {
       "title": "马上评｜一记耳光、两人受伤、三次不同判决疑问待解",
       "url": "https://www.thepaper.cn/newsDetail_forward_34073712",
       "hot_value": "",
-      "index": 5
+      "index": 6
     },
     {
       "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
       "url": "https://www.thepaper.cn/newsDetail_forward_34072434",
       "hot_value": "",
-      "index": 6
+      "index": 7
     },
     {
       "title": "马上测·兼职③‌｜公司花钱雇人“开会”，称为了报销",
       "url": "https://www.thepaper.cn/newsDetail_forward_34059900",
       "hot_value": "",
-      "index": 7
+      "index": 8
     },
     {
       "title": "商砼车司机见路面不平好心补路后拉绳警示，村民骑车路过遭绳勒喉窒息死亡",
       "url": "https://www.thepaper.cn/newsDetail_forward_34073759",
       "hot_value": "",
-      "index": 8
+      "index": 9
     },
     {
       "title": "马上评｜补路后拉绳致人死亡，好心更要办“好事”",
       "url": "https://www.thepaper.cn/newsDetail_forward_34074517",
       "hot_value": "",
-      "index": 9
+      "index": 10
     },
     {
       "title": "马上评｜9个亲戚争遗产，“房产归国家”是尊重逝者意愿",
       "url": "https://www.thepaper.cn/newsDetail_forward_34073073",
       "hot_value": "",
-      "index": 10
+      "index": 11
     },
     {
       "title": "张文宏：医疗公平不会因为药物创新而自然到来",
       "url": "https://www.thepaper.cn/newsDetail_forward_34072408",
       "hot_value": "",
-      "index": 11
+      "index": 12
     },
     {
       "title": "多个代表团差评亚运会住宿条件，韩国男篮：运动员在床上无法伸直腿",
       "url": "https://www.thepaper.cn/newsDetail_forward_34074262",
       "hot_value": "",
-      "index": 12
+      "index": 13
     },
     {
       "title": "宁波“能看海的地铁”免费试乘火爆，运营方提醒市民错峰出行",
       "url": "https://www.thepaper.cn/newsDetail_forward_34070348",
       "hot_value": "",
-      "index": 13
+      "index": 14
     },
     {
       "title": "一片树叶如何改变世界？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34068838",
       "hot_value": "",
-      "index": 14
+      "index": 15
     },
     {
       "title": "AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34074387",
-      "hot_value": "",
-      "index": 15
-    },
-    {
-      "title": "睡集装箱房、住邮轮，名古屋亚运会的“节俭实验”也有麻烦",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34074515",
       "hot_value": "",
       "index": 16
     },
@@ -107,20 +107,20 @@
       "index": 17
     },
     {
-      "title": "比尔·盖茨警告AI就业冲击：全球或经历20年动荡转型，现在就要开始准备",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34050252",
+      "title": "美战机遭伊朗击落，重伤飞行员爬上2千米山脊？美媒采访视频被批“战争宣传片”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34075061",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "美战机遭伊朗击落，重伤飞行员爬上2千米山脊？美媒采访视频被批“战争宣传片”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34075061",
+      "title": "《高等学校领导人员管理办法》明确：党委书记和校长一般不担任校内科研项目主要负责人",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34075050",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "俄乌和平进程再临节点：双方都想谈，但美式“私人化”斡旋必然失败？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34072729",
+      "title": "澎湃AI晚新闻丨2026年9月15日",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34076226",
       "hot_value": "",
       "index": 20
     }
