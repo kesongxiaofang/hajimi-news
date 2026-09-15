@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-09-15T14:07:07Z",
+  "update_time": "2026-09-15T18:21:02Z",
   "count": 30,
   "list": [
     {
-      "title": "中国男篮四分之一决赛将战沙特",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%B0%86%E6%88%98%E6%B2%99%E7%89%B9?type=general",
-      "hot_value": "12008790",
+      "title": "25号台风“杜鹃”未来或将趋向日本",
+      "url": "https://www.douyin.com/search/25%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%9D%9C%E9%B9%83%E2%80%9D%E6%9C%AA%E6%9D%A5%E6%88%96%E5%B0%86%E8%B6%8B%E5%90%91%E6%97%A5%E6%9C%AC?type=general",
+      "hot_value": "12117077",
       "index": 1
     },
     {
-      "title": "25号台风“杜鹃”未来或将趋向日本",
-      "url": "https://www.douyin.com/search/25%E5%8F%B7%E5%8F%B0%E9%A3%8E%E2%80%9C%E6%9D%9C%E9%B9%83%E2%80%9D%E6%9C%AA%E6%9D%A5%E6%88%96%E5%B0%86%E8%B6%8B%E5%90%91%E6%97%A5%E6%9C%AC?type=general",
-      "hot_value": "11848521",
+      "title": "特种兵玩家准备开启快闪模式",
+      "url": "https://www.douyin.com/search/%E7%89%B9%E7%A7%8D%E5%85%B5%E7%8E%A9%E5%AE%B6%E5%87%86%E5%A4%87%E5%BC%80%E5%90%AF%E5%BF%AB%E9%97%AA%E6%A8%A1%E5%BC%8F?type=general",
+      "hot_value": "11814142",
       "index": 2
     },
     {
       "title": "2026年国家网络安全宣传周",
       "url": "https://www.douyin.com/search/2026%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AE%A3%E4%BC%A0%E5%91%A8?type=general",
-      "hot_value": "11167732",
+      "hot_value": "11759409",
       "index": 3
     },
     {
-      "title": "特种兵玩家准备开启快闪模式",
-      "url": "https://www.douyin.com/search/%E7%89%B9%E7%A7%8D%E5%85%B5%E7%8E%A9%E5%AE%B6%E5%87%86%E5%A4%87%E5%BC%80%E5%90%AF%E5%BF%AB%E9%97%AA%E6%A8%A1%E5%BC%8F?type=general",
-      "hot_value": "11099532",
+      "title": "李在明支持率连续9周下滑",
+      "url": "https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%94%AF%E6%8C%81%E7%8E%87%E8%BF%9E%E7%BB%AD9%E5%91%A8%E4%B8%8B%E6%BB%91?type=general",
+      "hot_value": "11355424",
       "index": 4
     },
     {
-      "title": "CS Major再度落地上海",
-      "url": "https://www.douyin.com/search/CS%20Major%E5%86%8D%E5%BA%A6%E8%90%BD%E5%9C%B0%E4%B8%8A%E6%B5%B7?type=general",
-      "hot_value": "10524295",
+      "title": "北京国安迎亚冠开门红",
+      "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%E8%BF%8E%E4%BA%9A%E5%86%A0%E5%BC%80%E9%97%A8%E7%BA%A2?type=general",
+      "hot_value": "10699453",
       "index": 5
     },
     {
-      "title": "北京香山论坛今日举行",
-      "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E4%BB%8A%E6%97%A5%E4%B8%BE%E8%A1%8C?type=general",
-      "hot_value": "10432944",
+      "title": "美首次承认在太空具备“进攻能力”",
+      "url": "https://www.douyin.com/search/%E7%BE%8E%E9%A6%96%E6%AC%A1%E6%89%BF%E8%AE%A4%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%85%B7%E5%A4%87%E2%80%9C%E8%BF%9B%E6%94%BB%E8%83%BD%E5%8A%9B%E2%80%9D?type=general",
+      "hot_value": "10546370",
       "index": 6
     },
     {
       "title": "需要浇水才能长出的拼豆绿植",
       "url": "https://www.douyin.com/search/%E9%9C%80%E8%A6%81%E6%B5%87%E6%B0%B4%E6%89%8D%E8%83%BD%E9%95%BF%E5%87%BA%E7%9A%84%E6%8B%BC%E8%B1%86%E7%BB%BF%E6%A4%8D?type=general",
-      "hot_value": "9312940",
+      "hot_value": "9431121",
       "index": 7
-    },
-    {
-      "title": "李在明支持率连续9周下滑",
-      "url": "https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%94%AF%E6%8C%81%E7%8E%87%E8%BF%9E%E7%BB%AD9%E5%91%A8%E4%B8%8B%E6%BB%91?type=general",
-      "hot_value": "9252367",
-      "index": 8
-    },
-    {
-      "title": "米兰集市1欧淘衣太快乐了",
-      "url": "https://www.douyin.com/search/%E7%B1%B3%E5%85%B0%E9%9B%86%E5%B8%821%E6%AC%A7%E6%B7%98%E8%A1%A3%E5%A4%AA%E5%BF%AB%E4%B9%90%E4%BA%86?type=general",
-      "hot_value": "9247780",
-      "index": 9
     },
     {
       "title": "首届辣门零食大赛",
       "url": "https://www.douyin.com/search/%E9%A6%96%E5%B1%8A%E8%BE%A3%E9%97%A8%E9%9B%B6%E9%A3%9F%E5%A4%A7%E8%B5%9B?type=general",
-      "hot_value": "9230892",
-      "index": 10
+      "hot_value": "9405419",
+      "index": 8
     },
     {
-      "title": "时尚主播们集结出招了",
-      "url": "https://www.douyin.com/search/%E6%97%B6%E5%B0%9A%E4%B8%BB%E6%92%AD%E4%BB%AC%E9%9B%86%E7%BB%93%E5%87%BA%E6%8B%9B%E4%BA%86?type=general",
-      "hot_value": "9207079",
-      "index": 11
+      "title": "国庆穿搭开始预备",
+      "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E7%A9%BF%E6%90%AD%E5%BC%80%E5%A7%8B%E9%A2%84%E5%A4%87?type=general",
+      "hot_value": "9375588",
+      "index": 9
+    },
+    {
+      "title": "米兰集市1欧淘衣太快乐了",
+      "url": "https://www.douyin.com/search/%E7%B1%B3%E5%85%B0%E9%9B%86%E5%B8%821%E6%AC%A7%E6%B7%98%E8%A1%A3%E5%A4%AA%E5%BF%AB%E4%B9%90%E4%BA%86?type=general",
+      "hot_value": "9340752",
+      "index": 10
     },
     {
       "title": "亚冠上海海港6:4胜拉查武里",
       "url": "https://www.douyin.com/search/%E4%BA%9A%E5%86%A0%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF6%3A4%E8%83%9C%E6%8B%89%E6%9F%A5%E6%AD%A6%E9%87%8C?type=general",
-      "hot_value": "9175293",
+      "hot_value": "9226678",
+      "index": 11
+    },
+    {
+      "title": "CS Major再度落地上海",
+      "url": "https://www.douyin.com/search/CS%20Major%E5%86%8D%E5%BA%A6%E8%90%BD%E5%9C%B0%E4%B8%8A%E6%B5%B7?type=general",
+      "hot_value": "9204520",
       "index": 12
     },
     {
       "title": "不良信息一键举报 共建清朗网络空间",
       "url": "https://www.douyin.com/search/%E4%B8%8D%E8%89%AF%E4%BF%A1%E6%81%AF%E4%B8%80%E9%94%AE%E4%B8%BE%E6%8A%A5%20%E5%85%B1%E5%BB%BA%E6%B8%85%E6%9C%97%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4?type=general",
-      "hot_value": "9160809",
+      "hot_value": "9163893",
       "index": 13
+    },
+    {
+      "title": "兰香如故热度破30000",
+      "url": "https://www.douyin.com/search/%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%83%AD%E5%BA%A6%E7%A0%B430000?type=general",
+      "hot_value": "9162929",
+      "index": 14
     },
     {
       "title": "苹果客服称不建议老机型升iOS27",
       "url": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E7%A7%B0%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%80%81%E6%9C%BA%E5%9E%8B%E5%8D%87iOS27?type=general",
-      "hot_value": "9152450",
-      "index": 14
+      "hot_value": "9103525",
+      "index": 15
     },
     {
       "title": "赵家驹巨人之旅抽空发了条抖音",
       "url": "https://www.douyin.com/search/%E8%B5%B5%E5%AE%B6%E9%A9%B9%E5%B7%A8%E4%BA%BA%E4%B9%8B%E6%97%85%E6%8A%BD%E7%A9%BA%E5%8F%91%E4%BA%86%E6%9D%A1%E6%8A%96%E9%9F%B3?type=general",
-      "hot_value": "9135952",
-      "index": 15
-    },
-    {
-      "title": "国庆穿搭开始预备",
-      "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E7%A9%BF%E6%90%AD%E5%BC%80%E5%A7%8B%E9%A2%84%E5%A4%87?type=general",
-      "hot_value": "9113286",
+      "hot_value": "9101183",
       "index": 16
     },
     {
       "title": "蜜薯正式进入四拼口味时代",
       "url": "https://www.douyin.com/search/%E8%9C%9C%E8%96%AF%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%85%A5%E5%9B%9B%E6%8B%BC%E5%8F%A3%E5%91%B3%E6%97%B6%E4%BB%A3?type=general",
-      "hot_value": "9019525",
+      "hot_value": "9056302",
       "index": 17
     },
     {
       "title": "全国地标被大学生玩明白了",
       "url": "https://www.douyin.com/search/%E5%85%A8%E5%9B%BD%E5%9C%B0%E6%A0%87%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86?type=general",
-      "hot_value": "8994433",
+      "hot_value": "9049443",
       "index": 18
     },
     {
-      "title": "四川8月报告新冠感染15526例",
-      "url": "https://www.douyin.com/search/%E5%9B%9B%E5%B7%9D8%E6%9C%88%E6%8A%A5%E5%91%8A%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%9315526%E4%BE%8B?type=general",
-      "hot_value": "8961389",
+      "title": "不去焦虑还未发生的事",
+      "url": "https://www.douyin.com/search/%E4%B8%8D%E5%8E%BB%E7%84%A6%E8%99%91%E8%BF%98%E6%9C%AA%E5%8F%91%E7%94%9F%E7%9A%84%E4%BA%8B?type=general",
+      "hot_value": "9008044",
       "index": 19
     },
     {
-      "title": "美首次承认在太空具备“进攻能力”",
-      "url": "https://www.douyin.com/search/%E7%BE%8E%E9%A6%96%E6%AC%A1%E6%89%BF%E8%AE%A4%E5%9C%A8%E5%A4%AA%E7%A9%BA%E5%85%B7%E5%A4%87%E2%80%9C%E8%BF%9B%E6%94%BB%E8%83%BD%E5%8A%9B%E2%80%9D?type=general",
-      "hot_value": "8956900",
+      "title": "假期出游装箱倒计时",
+      "url": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E5%87%BA%E6%B8%B8%E8%A3%85%E7%AE%B1%E5%80%92%E8%AE%A1%E6%97%B6?type=general",
+      "hot_value": "8866306",
       "index": 20
-    },
-    {
-      "title": "兰香如故抖音追剧团",
-      "url": "https://www.douyin.com/search/%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%8A%96%E9%9F%B3%E8%BF%BD%E5%89%A7%E5%9B%A2?type=general",
-      "hot_value": "8941398",
-      "index": 21
     },
     {
       "title": "iOS27表现如何",
       "url": "https://www.douyin.com/search/iOS27%E8%A1%A8%E7%8E%B0%E5%A6%82%E4%BD%95?type=general",
-      "hot_value": "8910644",
+      "hot_value": "8464829",
+      "index": 21
+    },
+    {
+      "title": "兰香如故抖音追剧团",
+      "url": "https://www.douyin.com/search/%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%8A%96%E9%9F%B3%E8%BF%BD%E5%89%A7%E5%9B%A2?type=general",
+      "hot_value": "8398675",
       "index": 22
-    },
-    {
-      "title": "田姥姥送别小张姥姥",
-      "url": "https://www.douyin.com/search/%E7%94%B0%E5%A7%A5%E5%A7%A5%E9%80%81%E5%88%AB%E5%B0%8F%E5%BC%A0%E5%A7%A5%E5%A7%A5?type=general",
-      "hot_value": "8708059",
-      "index": 23
-    },
-    {
-      "title": "杨洋日常这个萌",
-      "url": "https://www.douyin.com/search/%E6%9D%A8%E6%B4%8B%E6%97%A5%E5%B8%B8%E8%BF%99%E4%B8%AA%E8%90%8C?type=general",
-      "hot_value": "8696508",
-      "index": 24
-    },
-    {
-      "title": "叫号取餐被选中belike",
-      "url": "https://www.douyin.com/search/%E5%8F%AB%E5%8F%B7%E5%8F%96%E9%A4%90%E8%A2%AB%E9%80%89%E4%B8%ADbelike?type=general",
-      "hot_value": "8512507",
-      "index": 25
-    },
-    {
-      "title": "电影生化危机爆发夜确认引进",
-      "url": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B?type=general",
-      "hot_value": "8343442",
-      "index": 26
     },
     {
       "title": "闯进动物的快乐星球",
       "url": "https://www.douyin.com/search/%E9%97%AF%E8%BF%9B%E5%8A%A8%E7%89%A9%E7%9A%84%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83?type=general",
-      "hot_value": "8246481",
+      "hot_value": "8063570",
+      "index": 23
+    },
+    {
+      "title": "苹果推出Siri人工智能",
+      "url": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BASiri%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD?type=general",
+      "hot_value": "8054186",
+      "index": 24
+    },
+    {
+      "title": "时尚主播们集结出招了",
+      "url": "https://www.douyin.com/search/%E6%97%B6%E5%B0%9A%E4%B8%BB%E6%92%AD%E4%BB%AC%E9%9B%86%E7%BB%93%E5%87%BA%E6%8B%9B%E4%BA%86?type=general",
+      "hot_value": "7823218",
+      "index": 25
+    },
+    {
+      "title": "宋雨琦度假也要跳银河之舞",
+      "url": "https://www.douyin.com/search/%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%BA%A6%E5%81%87%E4%B9%9F%E8%A6%81%E8%B7%B3%E9%93%B6%E6%B2%B3%E4%B9%8B%E8%88%9E?type=general",
+      "hot_value": "7815361",
+      "index": 26
+    },
+    {
+      "title": "杨洋日常这个萌",
+      "url": "https://www.douyin.com/search/%E6%9D%A8%E6%B4%8B%E6%97%A5%E5%B8%B8%E8%BF%99%E4%B8%AA%E8%90%8C?type=general",
+      "hot_value": "7780189",
       "index": 27
     },
     {
       "title": "兰香如故杜翠雀好有心机",
       "url": "https://www.douyin.com/search/%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E6%9D%9C%E7%BF%A0%E9%9B%80%E5%A5%BD%E6%9C%89%E5%BF%83%E6%9C%BA?type=general",
-      "hot_value": "8228019",
+      "hot_value": "7777072",
       "index": 28
     },
     {
-      "title": "你就承认你的压力来源了吧",
-      "url": "https://www.douyin.com/search/%E4%BD%A0%E5%B0%B1%E6%89%BF%E8%AE%A4%E4%BD%A0%E7%9A%84%E5%8E%8B%E5%8A%9B%E6%9D%A5%E6%BA%90%E4%BA%86%E5%90%A7?type=general",
-      "hot_value": "8215261",
+      "title": "兰香如故的野心女子图鉴",
+      "url": "https://www.douyin.com/search/%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%9A%84%E9%87%8E%E5%BF%83%E5%A5%B3%E5%AD%90%E5%9B%BE%E9%89%B4?type=general",
+      "hot_value": "7771108",
       "index": 29
     },
     {
-      "title": "第五人格新角色神童PV首曝",
-      "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E6%96%B0%E8%A7%92%E8%89%B2%E7%A5%9E%E7%AB%A5PV%E9%A6%96%E6%9B%9D?type=general",
-      "hot_value": "7821064",
+      "title": "张卓尔三公小考夯爆了",
+      "url": "https://www.douyin.com/search/%E5%BC%A0%E5%8D%93%E5%B0%94%E4%B8%89%E5%85%AC%E5%B0%8F%E8%80%83%E5%A4%AF%E7%88%86%E4%BA%86?type=general",
+      "hot_value": "7765044",
       "index": 30
     }
   ]
