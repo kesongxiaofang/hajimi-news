@@ -1,7 +1,7 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-09-15T18:21:02Z",
+  "update_time": "2026-09-15T21:35:24Z",
   "count": 20,
   "list": [
     {
@@ -17,8 +17,8 @@
       "index": 2
     },
     {
-      "title": "马上评｜一记耳光、两人受伤、三次不同判决疑问待解",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34073712",
+      "title": "释新闻｜三地突然闹“脱英”，英国真的面临“解体危机”？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34074645",
       "hot_value": "",
       "index": 3
     },
@@ -29,8 +29,8 @@
       "index": 4
     },
     {
-      "title": "马上测·兼职③‌｜公司花钱雇人“开会”，称为了报销",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34059900",
+      "title": "马上评｜一记耳光、两人受伤、三次不同判决疑问待解",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34073712",
       "hot_value": "",
       "index": 5
     },
@@ -41,8 +41,8 @@
       "index": 6
     },
     {
-      "title": "释新闻｜三地突然闹“脱英”，英国真的面临“解体危机”？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34074645",
+      "title": "马上测·兼职③‌｜公司花钱雇人“开会”，称为了报销",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34059900",
       "hot_value": "",
       "index": 7
     },
@@ -89,38 +89,38 @@
       "index": 14
     },
     {
-      "title": "比尔·盖茨警告AI就业冲击：全球或经历20年动荡转型，现在就要开始准备",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34050252",
+      "title": "AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34074387",
       "hot_value": "",
       "index": 15
     },
     {
-      "title": "AI“减速”争论中，华尔街热议万亿美元资本开支去向，算力需求会消失吗？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34074387",
+      "title": "睡集装箱房、住邮轮，名古屋亚运会的“节俭实验”也有麻烦",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34074515",
       "hot_value": "",
       "index": 16
-    },
-    {
-      "title": "俄乌和平进程再临节点：双方都想谈，但美式“私人化”斡旋必然失败？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34072729",
-      "hot_value": "",
-      "index": 17
-    },
-    {
-      "title": "和四大满贯闹了18个月，顶尖球员们为何突然收手",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34073372",
-      "hot_value": "",
-      "index": 18
     },
     {
       "title": "分析｜怎么看8月消费、投资增速放缓？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34075042",
       "hot_value": "",
+      "index": 17
+    },
+    {
+      "title": "比尔·盖茨警告AI就业冲击：全球或经历20年动荡转型，现在就要开始准备",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34050252",
+      "hot_value": "",
+      "index": 18
+    },
+    {
+      "title": "美战机遭伊朗击落，重伤飞行员爬上2千米山脊？美媒采访视频被批“战争宣传片”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34075061",
+      "hot_value": "",
       "index": 19
     },
     {
-      "title": "睡集装箱房、住邮轮，名古屋亚运会的“节俭实验”也有麻烦",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34074515",
+      "title": "俄乌和平进程再临节点：双方都想谈，但美式“私人化”斡旋必然失败？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34072729",
       "hot_value": "",
       "index": 20
     }
