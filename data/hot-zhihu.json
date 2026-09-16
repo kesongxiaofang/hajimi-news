@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-16T03:08:26Z",
+  "update_time": "2026-09-16T08:45:24Z",
   "count": 30,
   "list": [
     {
-      "title": "平陆运河正式通航，广西从此江海直连，这条设想了近百年的运河建设难度有多大？它能「带飞」中国西南吗？",
-      "url": "https://www.zhihu.com/question/2082841016533632412",
-      "hot_value": "1445 万热度",
+      "title": "南方医科大学疑有一名本博连读医学生坠亡，警方正跟进处理，具体情况如何？怎样看待背后折射的医学教育窘境？",
+      "url": "https://www.zhihu.com/question/2083262219391968613",
+      "hot_value": "6265 万热度",
       "index": 1
     },
     {
-      "title": "野人先生创始人曾回应 38 元一个冰淇淋太贵，称自己的品牌把行业价格打下来了，客观来看这个定价合理吗？",
-      "url": "https://www.zhihu.com/question/2083215665414895312",
-      "hot_value": "706 万热度",
+      "title": "平陆运河正式通航，广西从此江海直连，这条设想了近百年的运河建设难度有多大？它能「带飞」中国西南吗？",
+      "url": "https://www.zhihu.com/question/2082841016533632412",
+      "hot_value": "4446 万热度",
       "index": 2
     },
     {
-      "title": "鸡如果吃了水蛭，水蛭可以钻破鸡的肠胃，长期在鸡的体内吸血吗？",
-      "url": "https://www.zhihu.com/question/1947010301284286955",
-      "hot_value": "293 万热度",
+      "title": "华为高层被曝称核心并非拥有自研大模型，而是让任何大模型均能在昇腾、鲲鹏、超节点上高效运行，怎样解读？",
+      "url": "https://www.zhihu.com/question/2083488210672250940",
+      "hot_value": "369 万热度",
       "index": 3
-    },
-    {
-      "title": "鸿蒙智行为何要在此时调整与赛力斯合作模式，并让华为隐居幕后？此次调整会影响「华为 5 年不下场造车」吗？",
-      "url": "https://www.zhihu.com/question/2083273181008064732",
-      "hot_value": "203 万热度",
-      "index": 4
-    },
-    {
-      "title": "娃哈哈虎林工厂房产被查封，前员工称 100 多员工共被欠缴住房公积金 200 余万元，具体是怎么回事？",
-      "url": "https://www.zhihu.com/question/2083224444105745394",
-      "hot_value": "197 万热度",
-      "index": 5
     },
     {
       "title": "如何看待厂二代拍工厂宣传视频被网友评论区追问「职工福利如何」？为啥大家开始反感这类厂二代视频了？",
       "url": "https://www.zhihu.com/question/2083290620022317685",
-      "hot_value": "195 万热度",
+      "hot_value": "345 万热度",
+      "index": 4
+    },
+    {
+      "title": "华为、赛力斯合作模式改变后，赛力斯官宣「问界大饭店」回归，推出免费错峰洗车、餐饮等服务，你怎么看？",
+      "url": "https://www.zhihu.com/question/2083449761068331348",
+      "hot_value": "322 万热度",
+      "index": 5
+    },
+    {
+      "title": "野人先生创始人曾回应 38 元一个冰淇淋太贵，称自己的品牌把行业价格打下来了，客观来看这个定价合理吗？",
+      "url": "https://www.zhihu.com/question/2083215665414895312",
+      "hot_value": "320 万热度",
       "index": 6
     },
     {
-      "title": "8 岁女孩被男孩推倒、威胁，用手表报警，围观者笑她「浪费警力」，民警否认并调监控检查伤势，如何看待此举？",
-      "url": "https://www.zhihu.com/question/2083160484220515329",
-      "hot_value": "194 万热度",
+      "title": "为什么 QQ 邮箱这么好用大家还是觉得它「档次不够高」？",
+      "url": "https://www.zhihu.com/question/22891817",
+      "hot_value": "319 万热度",
       "index": 7
+    },
+    {
+      "title": "宁德时代上半年营收利润双增股价却大跌，车企「去宁德化」如何影响其未来？",
+      "url": "https://www.zhihu.com/question/2083239196697876066",
+      "hot_value": "318 万热度",
+      "index": 8
+    },
+    {
+      "title": "携程上架维珍银河 2027 太空旅行船票，510 万元一张，亚轨道太空游能体验什么？值这个价吗？",
+      "url": "https://www.zhihu.com/question/2083235056341013260",
+      "hot_value": "307 万热度",
+      "index": 9
+    },
+    {
+      "title": "《雍正王朝》中为什么康熙总是不急不慢、智珠在握的感觉，而雍正却动不动就发火大喊大叫？",
+      "url": "https://www.zhihu.com/question/1918778248533345743",
+      "hot_value": "295 万热度",
+      "index": 10
+    },
+    {
+      "title": "「儿子去世孙子非亲生案」老人两度败诉，将召开再审听证会，希望获得对孙子探视权，再审听证会结果会怎样？",
+      "url": "https://www.zhihu.com/question/2081674008291034612",
+      "hot_value": "289 万热度",
+      "index": 11
+    },
+    {
+      "title": "追求大号鸡蛋可能让母鸡感染，所以最好买小一点的鸡蛋一起保护母鸡的屁股，是真的吗？",
+      "url": "https://www.zhihu.com/question/2082896415651358227",
+      "hot_value": "283 万热度",
+      "index": 12
+    },
+    {
+      "title": "南京一高校学生晚上排长队洗澡，学生反映「每天排队都是一个小时起步」，真是这样吗？有哪些解决办法？",
+      "url": "https://www.zhihu.com/question/2083311751991399936",
+      "hot_value": "278 万热度",
+      "index": 13
     },
     {
       "title": "多所高校就「过紧日子」下发细则文件，有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2083275110949942854",
-      "hot_value": "191 万热度",
-      "index": 8
-    },
-    {
-      "title": "罗永浩前脚拉踩野人先生称不如钟薛高，后脚钟薛高宣布「复活」并参加博览会，这会是巧合吗？",
-      "url": "https://www.zhihu.com/question/2083300332847589198",
-      "hot_value": "183 万热度",
-      "index": 9
-    },
-    {
-      "title": "为什么在北京，大家对于通勤的忍受度这么高？",
-      "url": "https://www.zhihu.com/question/2056391510673855704",
-      "hot_value": "174 万热度",
-      "index": 10
-    },
-    {
-      "title": "新加坡总理已经是全球收入最高的政府首脑，为什么还要给自己涨 64% 的工资？",
-      "url": "https://www.zhihu.com/question/2081049102310286514",
-      "hot_value": "167 万热度",
-      "index": 11
-    },
-    {
-      "title": "伊朗外长阿拉格齐于 9 月 16 日访华，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2083227260400702253",
-      "hot_value": "159 万热度",
-      "index": 12
-    },
-    {
-      "title": "ai 大概还要多久就可以取代程序员了?",
-      "url": "https://www.zhihu.com/question/2038411932424725710",
-      "hot_value": "144 万热度",
-      "index": 13
-    },
-    {
-      "title": "如何评价湘雅医院「23 年未见父母，每天睡 2 小时」教师 PPT 争议？影响如何？是否存在夸大及其它相关问题？",
-      "url": "https://www.zhihu.com/question/2083244063277503296",
-      "hot_value": "136 万热度",
+      "hot_value": "272 万热度",
       "index": 14
     },
     {
       "title": "是什么让 90 后的各位感觉自己已经跟不上时代、落伍了的？",
       "url": "https://www.zhihu.com/question/300089067",
-      "hot_value": "132 万热度",
+      "hot_value": "270 万热度",
       "index": 15
     },
     {
-      "title": "国家卫健委拟延长献血年龄至 65 岁，献血间隔拟由 6 个月缩至 3 个月，对此你怎么看？能有效缓解用血荒吗？",
-      "url": "https://www.zhihu.com/question/2083247942941655409",
-      "hot_value": "130 万热度",
+      "title": "新加坡总理已经是全球收入最高的政府首脑，为什么还要给自己涨 64% 的工资？",
+      "url": "https://www.zhihu.com/question/2081049102310286514",
+      "hot_value": "269 万热度",
       "index": 16
     },
     {
-      "title": "为什么 QQ 邮箱这么好用大家还是觉得它「档次不高」？",
-      "url": "https://www.zhihu.com/question/22891817",
-      "hot_value": "129 万热度",
+      "title": "华为高层内部万字长文曝光，ICT 业务目标是成为「英伟达」，还有哪些内容值得关注？",
+      "url": "https://www.zhihu.com/question/2083486666405013086",
+      "hot_value": "268 万热度",
       "index": 17
     },
     {
-      "title": "据统计，番茄 AI 文占比 74.5%，起点仅 10%，数据可靠吗？起点会因手搓文技术落后而完蛋吗？",
-      "url": "https://www.zhihu.com/question/2028836023786816017",
-      "hot_value": "129 万热度",
+      "title": "罗永浩前脚拉踩野人先生称不如钟薛高，后脚钟薛高宣布「复活」并参加博览会，这会是巧合吗？",
+      "url": "https://www.zhihu.com/question/2083300332847589198",
+      "hot_value": "244 万热度",
       "index": 18
     },
     {
-      "title": "为什么《一步之遥》《邪不压正》都达不到《让子弹飞》的高度？",
-      "url": "https://www.zhihu.com/question/2079894213798400421",
-      "hot_value": "128 万热度",
+      "title": "赵家驹夺得 2026 巨人之旅 TOR330 越野跑冠军，为亚洲首冠并打破赛道纪录，如何评价本次表现？",
+      "url": "https://www.zhihu.com/question/2083496624882562658",
+      "hot_value": "176 万热度",
       "index": 19
     },
     {
-      "title": "如何看待 Wayward 因争议言论停播、无缘 LPL 冒泡赛解说后，又称带「糯米黑狗血」去线下看 IG 比赛？",
-      "url": "https://www.zhihu.com/question/2083232169363882655",
-      "hot_value": "128 万热度",
+      "title": "26/27 赛季亚冠精英，利雅得胜利 0-4 惨败阿尔艾因，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2083382509908256360",
+      "hot_value": "132 万热度",
       "index": 20
     },
     {
-      "title": "如何评价 2026 年 9 月米哈游《崩坏星穹铁道》星神阿哈立绘？",
-      "url": "https://www.zhihu.com/question/2083166964642588505",
-      "hot_value": "123 万热度",
+      "title": "伊朗外长阿拉格齐于 9 月 16 日访华，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2083227260400702253",
+      "hot_value": "130 万热度",
       "index": 21
     },
     {
-      "title": "如何看待解说米勒评价 BLG 犯下傲慢之罪引起粉丝不满？BLG 的失利真是因为「傲慢之罪」吗？",
-      "url": "https://www.zhihu.com/question/2082902672995308160",
-      "hot_value": "118 万热度",
+      "title": "罗永浩前合伙人黄斌炮轰其「吹牛成性，谎称盈利」，是真的吗？他俩之间有啥恩怨？",
+      "url": "https://www.zhihu.com/question/2083005085584470683",
+      "hot_value": "129 万热度",
       "index": 22
     },
     {
-      "title": "携程上架维珍银河 2027 太空旅行船票，510 万元一张，亚轨道太空游能体验什么？值这个价吗？",
-      "url": "https://www.zhihu.com/question/2083235056341013260",
-      "hot_value": "86 万热度",
+      "title": "中国男子涉嫌在印尼渔猎玳瑁并烹饪，离境时被拦接受调查，玳瑁是什么动物？若属实他将承担什么责任？",
+      "url": "https://www.zhihu.com/question/2083156467859956956",
+      "hot_value": "128 万热度",
       "index": 23
     },
     {
       "title": "大葱、小葱、京葱、香葱、洋葱、红葱头、韭菜、大蒜，它们之间有什么联系？\n",
       "url": "https://www.zhihu.com/question/530689826",
-      "hot_value": "83 万热度",
+      "hot_value": "119 万热度",
       "index": 24
     },
     {
-      "title": "国家统计局数据显示 8 月份一线城市商品住宅销售价格环比上涨，这意味着楼市出现了什么信号？",
-      "url": "https://www.zhihu.com/question/2083189017596662367",
-      "hot_value": "81 万热度",
+      "title": "历史教育除了让孩子记年代、人物和事件，还应该教会他们什么？",
+      "url": "https://www.zhihu.com/question/2081417768683956040",
+      "hot_value": "111 万热度",
       "index": 25
     },
     {
-      "title": "二本文科女，没有任何技能，父母是农民，身体也不好，家里几乎没有存款，求助以后要怎么走，有什么出路？",
-      "url": "https://www.zhihu.com/question/2001334359232385112",
-      "hot_value": "79 万热度",
+      "title": "港中大（深圳）实行 9 个月工资制，并期望年轻教授 5 年内获诺奖，这会如何影响学术生态？",
+      "url": "https://www.zhihu.com/question/2082839178635757054",
+      "hot_value": "98 万热度",
       "index": 26
     },
     {
-      "title": "赫利俄斯和阿波罗到底谁是太阳神？",
-      "url": "https://www.zhihu.com/question/38006650",
-      "hot_value": "79 万热度",
+      "title": "如何评价全球首款 AI 智能体手机努比亚 NaviX Ultra 豆包手机发布开售？有什么亮点与不足？",
+      "url": "https://www.zhihu.com/question/2083496255733364173",
+      "hot_value": "95 万热度",
       "index": 27
     },
     {
-      "title": "金成跃校长开学典礼说「善待每一位老师」，8 分钟视频 2 亿播放，你觉得老师的「底气」，到底从哪来？",
-      "url": "https://www.zhihu.com/question/2081400173482226136",
-      "hot_value": "79 万热度",
+      "title": "如何评价原神 2026 年 9 月深渊？",
+      "url": "https://www.zhihu.com/question/2083488379015001455",
+      "hot_value": "90 万热度",
       "index": 28
     },
     {
-      "title": "王健林又卖掉一个 47 亿资产，万达旗下盈方体育将 HYROX 多数股权卖给 LVMH 旗下机构，这意味着什么？",
-      "url": "https://www.zhihu.com/question/2082804365455378411",
-      "hot_value": "79 万热度",
+      "title": "日本评论家称「轻小说走红全看插图」，这种说法是否过于绝对？",
+      "url": "https://www.zhihu.com/question/2083315197813469700",
+      "hot_value": "86 万热度",
       "index": 29
     },
     {
-      "title": "前女足国脚高宏霞手握 29 个全国冠军，退役后当城管 19 年，这种职业转变有何意义？",
-      "url": "https://www.zhihu.com/question/2082918732372956669",
-      "hot_value": "70 万热度",
+      "title": "如果战锤里帝皇不搞网道计划，专心完成大远征，帝国现在是不是要好很多？",
+      "url": "https://www.zhihu.com/question/510246780",
+      "hot_value": "83 万热度",
       "index": 30
     }
   ]
