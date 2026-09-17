@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-17T19:09:11Z",
+  "update_time": "2026-09-17T22:19:08Z",
   "count": 30,
   "list": [
     {
-      "title": "特厨做饭|零差评零失误！专业厨师的压箱底",
-      "url": "https://www.bilibili.com/video/BV1mheg6hE6j",
-      "hot_value": "532762播放",
+      "title": "我只是想煮一个鸡蛋，互联网却想教我做人❤️",
+      "url": "https://www.bilibili.com/video/BV1vdeJ6KEkR",
+      "hot_value": "832399播放",
       "index": 1
     },
     {
-      "title": "我只是想煮一个鸡蛋，互联网却想教我做人❤️",
-      "url": "https://www.bilibili.com/video/BV1vdeJ6KEkR",
-      "hot_value": "783893播放",
+      "title": "阿祖从军记（二）",
+      "url": "https://www.bilibili.com/video/BV1aweu6aE3v",
+      "hot_value": "810564播放",
       "index": 2
     },
     {
-      "title": "友：时长越长观看越少。  我：但这里是B站诶！",
-      "url": "https://www.bilibili.com/video/BV1doec6QEqF",
-      "hot_value": "1181611播放",
+      "title": "特厨做饭|零差评零失误！专业厨师的压箱底",
+      "url": "https://www.bilibili.com/video/BV1mheg6hE6j",
+      "hot_value": "558045播放",
       "index": 3
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第7集 唐人街探案【8月国创】",
       "url": "https://www.bilibili.com/video/BV1f2eJ6GE79",
-      "hot_value": "383636播放",
+      "hot_value": "390637播放",
       "index": 4
-    },
-    {
-      "title": "阿祖从军记（二）",
-      "url": "https://www.bilibili.com/video/BV1aweu6aE3v",
-      "hot_value": "766978播放",
-      "index": 5
     },
     {
       "title": "选哪个？iPhone 18 Pro&Duo深度上手",
       "url": "https://www.bilibili.com/video/BV1cSec6tEux",
-      "hot_value": "4892256播放",
-      "index": 6
-    },
-    {
-      "title": "【边狱巴士】“今天，我杀了妈妈...”丨 主线第10章汉化（施工中）",
-      "url": "https://www.bilibili.com/video/BV14Meu6tEiC",
-      "hot_value": "688318播放",
-      "index": 7
-    },
-    {
-      "title": "《原神》沃雅妮莎角色PV——「心之声」",
-      "url": "https://www.bilibili.com/video/BV13Xew6LE7T",
-      "hot_value": "1103738播放",
-      "index": 8
-    },
-    {
-      "title": "英国可能解体又不太可能",
-      "url": "https://www.bilibili.com/video/BV1iQeM6uEEH",
-      "hot_value": "1151189播放",
-      "index": 9
-    },
-    {
-      "title": "史上最没用比赛",
-      "url": "https://www.bilibili.com/video/BV14veH6tEcd",
-      "hot_value": "1255136播放",
-      "index": 10
-    },
-    {
-      "title": "[只狼深扒]白蛇真的是双头蛇吗？答案可能超乎你的想象！",
-      "url": "https://www.bilibili.com/video/BV1Zqew6sEJ2",
-      "hot_value": "572376播放",
-      "index": 11
-    },
-    {
-      "title": "《鸣潮》先约电台EP3.7——心《心月辞》",
-      "url": "https://www.bilibili.com/video/BV1u9ew6yEEP",
-      "hot_value": "327572播放",
-      "index": 12
+      "hot_value": "4975358播放",
+      "index": 5
     },
     {
       "title": "天津漫展手机事件",
       "url": "https://www.bilibili.com/video/BV1YaeN6xEWR",
-      "hot_value": "2490807播放",
-      "index": 13
+      "hot_value": "2551553播放",
+      "index": 6
     },
     {
-      "title": "中式魅魔挑战（你能闯到第几关？）",
-      "url": "https://www.bilibili.com/video/BV1gveN6WEpC",
-      "hot_value": "405599播放",
-      "index": 14
+      "title": "英国可能解体又不太可能",
+      "url": "https://www.bilibili.com/video/BV1iQeM6uEEH",
+      "hot_value": "1178558播放",
+      "index": 7
+    },
+    {
+      "title": "史上最没用比赛",
+      "url": "https://www.bilibili.com/video/BV14veH6tEcd",
+      "hot_value": "1275942播放",
+      "index": 8
+    },
+    {
+      "title": "友：时长越长观看越少。  我：但这里是B站诶！",
+      "url": "https://www.bilibili.com/video/BV1doec6QEqF",
+      "hot_value": "1214309播放",
+      "index": 9
+    },
+    {
+      "title": "《原神》沃雅妮莎角色PV——「心之声」",
+      "url": "https://www.bilibili.com/video/BV13Xew6LE7T",
+      "hot_value": "1114834播放",
+      "index": 10
     },
     {
       "title": "不是不够努力：拆解后发国家工业化的结构性枷锁",
       "url": "https://www.bilibili.com/video/BV1rWeF6xEHW",
-      "hot_value": "926790播放",
-      "index": 15
+      "hot_value": "937722播放",
+      "index": 11
+    },
+    {
+      "title": "探访“梅姨案”模拟画像师：和本人相似度高达九成？ | 今天上个什么班EP01【视频播客】",
+      "url": "https://www.bilibili.com/video/BV1Zhen63EeK",
+      "hot_value": "320224播放",
+      "index": 12
+    },
+    {
+      "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
+      "url": "https://www.bilibili.com/video/BV1oZeA6fERD",
+      "hot_value": "1606222播放",
+      "index": 13
+    },
+    {
+      "title": "《鸣潮》先约电台EP3.7——心《心月辞》",
+      "url": "https://www.bilibili.com/video/BV1u9ew6yEEP",
+      "hot_value": "341165播放",
+      "index": 14
     },
     {
       "title": "《蓝色星原：旅谣》枫糖PV | 【枫糖的一天】",
       "url": "https://www.bilibili.com/video/BV1L7ec6JE5v",
-      "hot_value": "1130672播放",
+      "hot_value": "1140775播放",
+      "index": 15
+    },
+    {
+      "title": "大禹看了沉默，愚公看了流泪",
+      "url": "https://www.bilibili.com/video/BV1fYes6xEmq",
+      "hot_value": "3989141播放",
       "index": 16
     },
     {
       "title": "甄姬：没见第一波线，第二波直接来8个？！",
       "url": "https://www.bilibili.com/video/BV1VfeJ6PE12",
-      "hot_value": "905829播放",
+      "hot_value": "940146播放",
       "index": 17
     },
     {
-      "title": "琵琶曲 l 成都超人",
-      "url": "https://www.bilibili.com/video/BV14BeA6CEUb",
-      "hot_value": "2164903播放",
+      "title": "[只狼深扒]白蛇真的是双头蛇吗？答案可能超乎你的想象！",
+      "url": "https://www.bilibili.com/video/BV1Zqew6sEJ2",
+      "hot_value": "597169播放",
       "index": 18
     },
     {
       "title": "【绯红回响EP19】寒霜之刃【费那奇动画周×updream-AI动画征集】【up动画】",
       "url": "https://www.bilibili.com/video/BV1tue36vEZy",
-      "hot_value": "331603播放",
+      "hot_value": "355113播放",
       "index": 19
     },
     {
-      "title": "大禹看了沉默，愚公看了流泪",
-      "url": "https://www.bilibili.com/video/BV1fYes6xEmq",
-      "hot_value": "3963760播放",
+      "title": "【何同学】一镜到底。iPhone 18 Pro首发体验",
+      "url": "https://www.bilibili.com/video/BV12peP6kEnK",
+      "hot_value": "1631833播放",
       "index": 20
     },
     {
       "title": "《你爸带你忆苦思甜》",
       "url": "https://www.bilibili.com/video/BV1Y4ec6VEFc",
-      "hot_value": "1473566播放",
+      "hot_value": "1486458播放",
       "index": 21
-    },
-    {
-      "title": "各省的刻板印象这一块",
-      "url": "https://www.bilibili.com/video/BV1PneF6bELe",
-      "hot_value": "5251499播放",
-      "index": 22
     },
     {
       "title": "如果能预知20年人生，你还会选择出生吗？",
       "url": "https://www.bilibili.com/video/BV16Keg6UExT",
-      "hot_value": "236037播放",
+      "hot_value": "270327播放",
+      "index": 22
+    },
+    {
+      "title": "【邓肯】“梅姨”案",
+      "url": "https://www.bilibili.com/video/BV14oew6rEH5",
+      "hot_value": "924371播放",
       "index": 23
     },
     {
-      "title": "iPhone18 Pro性能分析：五年来最强的芯片升级！",
-      "url": "https://www.bilibili.com/video/BV1oZeA6fERD",
-      "hot_value": "1592366播放",
+      "title": "小不列颠联合不起来王国现在是真快亡国了",
+      "url": "https://www.bilibili.com/video/BV1Gwe363EB8",
+      "hot_value": "484389播放",
       "index": 24
+    },
+    {
+      "title": "立志成为恶兽第四集【up动画】【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1wAeH6nEtB",
+      "hot_value": "1314473播放",
+      "index": 25
     },
     {
       "title": "全网群嘲的“紫甘蓝炒烙饼丝”事件，炸出了多少逼疯孩子的逆天父母",
       "url": "https://www.bilibili.com/video/BV1z3ec6WE6L",
-      "hot_value": "3320836播放",
-      "index": 25
-    },
-    {
-      "title": "十年，你会记得哪个瞬间?",
-      "url": "https://www.bilibili.com/video/BV193eK6ZEDC",
-      "hot_value": "129552播放",
+      "hot_value": "3334445播放",
       "index": 26
     },
     {
       "title": "动态视频｜3天拍完？影视飓风的iPhone评测是怎么拍的？",
       "url": "https://www.bilibili.com/video/BV1Y6eu6iEeF",
-      "hot_value": "445674播放",
+      "hot_value": "463829播放",
       "index": 27
-    },
-    {
-      "title": "明爽大王",
-      "url": "https://www.bilibili.com/video/BV1EfeA6FEkC",
-      "hot_value": "960894播放",
-      "index": 28
     },
     {
       "title": "《异环》1.4版本PV「祷歌为谁而诵」",
       "url": "https://www.bilibili.com/video/BV1jWej6hET5",
-      "hot_value": "702690播放",
+      "hot_value": "709414播放",
+      "index": 28
+    },
+    {
+      "title": "中式魅魔挑战（你能闯到第几关？）",
+      "url": "https://www.bilibili.com/video/BV1gveN6WEpC",
+      "hot_value": "427119播放",
       "index": 29
     },
     {
-      "title": "小不列颠联合不起来王国现在是真快亡国了",
-      "url": "https://www.bilibili.com/video/BV1Gwe363EB8",
-      "hot_value": "462432播放",
+      "title": "【边狱巴士】“今天，我杀了妈妈...”丨 主线第10章汉化（施工中）",
+      "url": "https://www.bilibili.com/video/BV14Meu6tEiC",
+      "hot_value": "716056播放",
       "index": 30
     }
   ]

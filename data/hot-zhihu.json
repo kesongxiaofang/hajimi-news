@@ -1,66 +1,66 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-17T19:09:11Z",
+  "update_time": "2026-09-17T22:19:08Z",
   "count": 30,
   "list": [
     {
-      "title": "广电总局表示，将机顶盒功能以软件形态内置于电视机，会对行业带来哪些变化？能解决看电视麻烦的问题吗？",
-      "url": "https://www.zhihu.com/question/2083865288337010896",
-      "hot_value": "433 万热度",
+      "title": "如何看待 HYROX 失禁选手就北京赛场事件道歉，决定追溯性退出该场比赛，并放弃此前获得的积分？",
+      "url": "https://www.zhihu.com/question/2084022859974665628",
+      "hot_value": "424 万热度",
       "index": 1
     },
     {
-      "title": "如何看待 HYROX 失禁选手就北京赛场事件道歉，决定追溯性退出该场比赛，并放弃此前获得的积分？",
-      "url": "https://www.zhihu.com/question/2084022859974665628",
-      "hot_value": "394 万热度",
+      "title": "广电总局表示，将机顶盒功能以软件形态内置于电视机，会对行业带来哪些变化？能解决看电视麻烦的问题吗？",
+      "url": "https://www.zhihu.com/question/2083865288337010896",
+      "hot_value": "132 万热度",
       "index": 2
-    },
-    {
-      "title": "如果存在一个 100% 深海覆盖的海洋星球，对人类来说会不会非常恐怖？里面会发展出什么生命吗？",
-      "url": "https://www.zhihu.com/question/2083246063851410890",
-      "hot_value": "153 万热度",
-      "index": 3
-    },
-    {
-      "title": "一照相馆设体重要求，仅接受 120 斤以下客户预订，因 「部分顾客常要求过度修图」，如何看待这一规定？",
-      "url": "https://www.zhihu.com/question/2083133384671368415",
-      "hot_value": "138 万热度",
-      "index": 4
     },
     {
       "title": "张一鸣身家突破 1050 亿美元首次成亚洲首富，如何评价其商业成就？",
       "url": "https://www.zhihu.com/question/2083595578223636976",
-      "hot_value": "106 万热度",
+      "hot_value": "98 万热度",
+      "index": 3
+    },
+    {
+      "title": "你走过最值得复刻的一条访古路线是什么？",
+      "url": "https://www.zhihu.com/question/2082927800147600081",
+      "hot_value": "78 万热度",
+      "index": 4
+    },
+    {
+      "title": "如果存在一个 100% 深海覆盖的海洋星球，对人类来说会不会非常恐怖？里面会发展出什么生命吗？",
+      "url": "https://www.zhihu.com/question/2083246063851410890",
+      "hot_value": "73 万热度",
       "index": 5
     },
     {
-      "title": "AI 已经有解决千禧年数学难题的能力，在读基础数学博士应该怎么办？",
-      "url": "https://www.zhihu.com/question/2082915493397139978",
-      "hot_value": "99 万热度",
+      "title": "如果你离职了，还会联系以前的领导吗？",
+      "url": "https://www.zhihu.com/question/2082647957770446803",
+      "hot_value": "67 万热度",
       "index": 6
     },
     {
       "title": "LPL 2026 赛季资格赛 TES 3-1 iG，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2083952279225423307",
-      "hot_value": "97 万热度",
+      "hot_value": "65 万热度",
       "index": 7
-    },
-    {
-      "title": "国乒、国羽、中国体操队被困名古屋机场，现场只提供水无食品，为什么会这样？暴露出亚运会组织方的哪些问题？",
-      "url": "https://www.zhihu.com/question/2083719036232324156",
-      "hot_value": "95 万热度",
-      "index": 8
     },
     {
       "title": "有哪些演员让你觉得第一眼惊为天人，后面觉得很普通，甚至怪怪的？",
       "url": "https://www.zhihu.com/question/1932799403552383280",
       "hot_value": "63 万热度",
+      "index": 8
+    },
+    {
+      "title": "国乒、国羽、中国体操队被困名古屋机场，现场只提供水无食品，为什么会这样？暴露出亚运会组织方的哪些问题？",
+      "url": "https://www.zhihu.com/question/2083719036232324156",
+      "hot_value": "61 万热度",
       "index": 9
     },
     {
-      "title": "全新理想 i9 今晚发布，有哪些技术亮点？预计销量如何？",
-      "url": "https://www.zhihu.com/question/2083527375418146833",
+      "title": "一照相馆设体重要求，仅接受 120 斤以下客户预订，因 「部分顾客常要求过度修图」，如何看待这一规定？",
+      "url": "https://www.zhihu.com/question/2083133384671368415",
       "hot_value": "59 万热度",
       "index": 10
     },
@@ -95,68 +95,68 @@
       "index": 15
     },
     {
-      "title": "有没有好吃的美食推荐呀？",
-      "url": "https://www.zhihu.com/question/1897098395644036108",
+      "title": "全新理想 i9 今晚发布，有哪些技术亮点？预计销量如何？",
+      "url": "https://www.zhihu.com/question/2083527375418146833",
       "hot_value": "59 万热度",
       "index": 16
     },
     {
-      "title": "名古屋亚运会邮轮选手村接船仪式上日方演员扮演丰臣秀吉，引发韩国某大学徐姓教授写邮件抗议，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2083920518969647717",
-      "hot_value": "59 万热度",
+      "title": "有没有好吃的美食推荐呀？",
+      "url": "https://www.zhihu.com/question/1897098395644036108",
+      "hot_value": "58 万热度",
       "index": 17
+    },
+    {
+      "title": "如何评价《原神》沃雅妮莎角色 PV——「心之声」？",
+      "url": "https://www.zhihu.com/question/2083888246304552213",
+      "hot_value": "58 万热度",
+      "index": 18
     },
     {
       "title": "百度搜索为什么没落了？",
       "url": "https://www.zhihu.com/question/2020203409219809652",
       "hot_value": "58 万热度",
-      "index": 18
-    },
-    {
-      "title": "报告显示 72% 的成年人未达饮用水适宜摄入量，水没喝够会对身体产生啥影响？该怎样正确喝水？",
-      "url": "https://www.zhihu.com/question/2083121786422387453",
-      "hot_value": "57 万热度",
       "index": 19
     },
     {
-      "title": "这次亚运会，中国男足能拿奖牌吗？",
-      "url": "https://www.zhihu.com/question/2082012854706778243",
-      "hot_value": "57 万热度",
+      "title": "AI 已经有解决千禧年数学难题的能力，在读基础数学博士应该怎么办？",
+      "url": "https://www.zhihu.com/question/2082915493397139978",
+      "hot_value": "58 万热度",
       "index": 20
     },
     {
       "title": "坠亡幼童父亲举报妻子发布的视频侵犯其肖像权，他有权这么做吗？",
       "url": "https://www.zhihu.com/question/2083944607859959581",
-      "hot_value": "57 万热度",
+      "hot_value": "58 万热度",
       "index": 21
     },
     {
       "title": "美联储宣布加息 25 个基点，时隔三年再度加息，对全球经济有哪些影响？全球资产价格会有怎样的连锁反应？",
       "url": "https://www.zhihu.com/question/2083741444628656734",
-      "hot_value": "57 万热度",
+      "hot_value": "58 万热度",
       "index": 22
+    },
+    {
+      "title": "名古屋亚运会邮轮选手村接船仪式上日方演员扮演丰臣秀吉，引发韩国某大学徐姓教授写邮件抗议，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2083920518969647717",
+      "hot_value": "57 万热度",
+      "index": 23
+    },
+    {
+      "title": "报告显示 72% 的成年人未达饮用水适宜摄入量，水没喝够会对身体产生啥影响？该怎样正确喝水？",
+      "url": "https://www.zhihu.com/question/2083121786422387453",
+      "hot_value": "57 万热度",
+      "index": 24
     },
     {
       "title": "为什么宝可梦没有出现类似其他回合制游戏那样的「小作文」式技能描述？",
       "url": "https://www.zhihu.com/question/2082918898869985358",
       "hot_value": "57 万热度",
-      "index": 23
+      "index": 25
     },
     {
       "title": "你最喜欢的一种红薯吃法是怎么做的？",
       "url": "https://www.zhihu.com/question/10896580492",
-      "hot_value": "57 万热度",
-      "index": 24
-    },
-    {
-      "title": "如何评价《三角洲行动》S11 赛季的钓鱼玩法？",
-      "url": "https://www.zhihu.com/question/2080670964275044512",
-      "hot_value": "57 万热度",
-      "index": 25
-    },
-    {
-      "title": "怎样才能不懦弱，不被别人欺负？",
-      "url": "https://www.zhihu.com/question/659541156",
       "hot_value": "57 万热度",
       "index": 26
     },
@@ -173,14 +173,14 @@
       "index": 28
     },
     {
-      "title": "伊朗单日击落 3 架美军 MQ-1 无人机，美军密集出动同一侦察机，想获取什么情报？还是试探伊朗防空？",
-      "url": "https://www.zhihu.com/question/2083344144982980584",
+      "title": "怎样才能不懦弱，不被别人欺负？",
+      "url": "https://www.zhihu.com/question/659541156",
       "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "钟薛高宣布重启，推出三种口味，零售价最低跌到 6.9 元一支，你看好钟薛高这次「复活」吗？",
-      "url": "https://www.zhihu.com/question/2083299849705714867",
+      "title": "如何评价《三角洲行动》S11 赛季的钓鱼玩法？",
+      "url": "https://www.zhihu.com/question/2080670964275044512",
       "hot_value": "57 万热度",
       "index": 30
     }
