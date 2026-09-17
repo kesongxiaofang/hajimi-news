@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-16T21:30:31Z",
+  "update_time": "2026-09-17T00:01:52Z",
   "count": 30,
   "list": [
     {
-      "title": "野人先生在沉默数日后首度发声，「感谢大家长期以来对野人先生的关心和支持」，你觉得这波公关处理怎么样？",
-      "url": "https://www.zhihu.com/question/2083566699115299351",
-      "hot_value": "400 万热度",
+      "title": "美联储 3 年来首次加息，加息 25 个基点，将基准利率上调至 3.75%-4.00%，会对市场有哪些影响？",
+      "url": "https://www.zhihu.com/question/2083684721486029950",
+      "hot_value": "1368 万热度",
       "index": 1
     },
     {
       "title": "韩国 3000 元一针的「尸皮针」火了，把死人皮肤组织打进活人脸里真能抗衰老吗？会有安全和伦理风险吗？",
       "url": "https://www.zhihu.com/question/2083526236886626723",
-      "hot_value": "372 万热度",
+      "hot_value": "438 万热度",
       "index": 2
-    },
-    {
-      "title": "中国男子涉嫌在印尼渔猎玳瑁并烹饪，离境时被拦接受调查，玳瑁是什么动物？若属实他将承担什么责任？",
-      "url": "https://www.zhihu.com/question/2083156467859956956",
-      "hot_value": "208 万热度",
-      "index": 3
-    },
-    {
-      "title": "伊朗单日击落 3 架美军 MQ-1 无人机，美军密集出动同一侦察机，想获取什么情报？还是试探伊朗防空？",
-      "url": "https://www.zhihu.com/question/2083344144982980584",
-      "hot_value": "129 万热度",
-      "index": 4
-    },
-    {
-      "title": "为什么感觉现在的教育工作者都在吐槽小孩越来越笨了？究竟是个别现象被当普遍现象还是真的如此？",
-      "url": "https://www.zhihu.com/question/2079682827247956023",
-      "hot_value": "110 万热度",
-      "index": 5
     },
     {
       "title": "儿子用豆包选下葬母亲黄道吉日，因葬礼后亲戚遇车祸重伤决定起诉豆包，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2083597869206823687",
-      "hot_value": "104 万热度",
+      "hot_value": "201 万热度",
+      "index": 3
+    },
+    {
+      "title": "野人先生在沉默数日后首度发声，「感谢大家长期以来对野人先生的关心和支持」，你觉得这波公关处理怎么样？",
+      "url": "https://www.zhihu.com/question/2083566699115299351",
+      "hot_value": "196 万热度",
+      "index": 4
+    },
+    {
+      "title": "HYROX 就「选手失禁夺冠」一事道歉并给下午场赛事运动员全额退费，你认为这次道歉＋退费能挽回口碑吗？",
+      "url": "https://www.zhihu.com/question/2083600456161261114",
+      "hot_value": "151 万热度",
+      "index": 5
+    },
+    {
+      "title": "一点点被曝因员工上报品控问题以及劳动纠纷上门威胁，随后涉事员工称已赔劳动纠纷，接下来他该怎么维权？",
+      "url": "https://www.zhihu.com/question/2083579204633718784",
+      "hot_value": "144 万热度",
       "index": 6
     },
     {
-      "title": "啄木鸟维修更换开关收费 2800 元，投诉后仅退款 1000 元，这合理吗？家庭维修为啥难明码标价？",
-      "url": "https://www.zhihu.com/question/2083551350592483827",
-      "hot_value": "104 万热度",
+      "title": "为什么感觉现在的教育工作者都在吐槽小孩越来越笨了？究竟是个别现象被当普遍现象还是真的如此？",
+      "url": "https://www.zhihu.com/question/2079682827247956023",
+      "hot_value": "126 万热度",
       "index": 7
     },
     {
-      "title": "学生党无力支付 token 费用怎么办？",
-      "url": "https://www.zhihu.com/question/2078470854380471687",
-      "hot_value": "103 万热度",
+      "title": "怎么评价「回乡老博士」朱跃军出身农户、湘雅求学、交大博士结业等经历？是真的吗？",
+      "url": "https://www.zhihu.com/question/2083221970452329423",
+      "hot_value": "125 万热度",
       "index": 8
-    },
-    {
-      "title": "港中大（深圳）实行 9 个月工资制，并期望年轻教授 5 年内获诺奖，这会如何影响学术生态？",
-      "url": "https://www.zhihu.com/question/2082839178635757054",
-      "hot_value": "93 万热度",
-      "index": 9
-    },
-    {
-      "title": "平陆运河正式通航，广西从此江海直连，这条设想了近百年的运河建设难度有多大？它能「带飞」中国西南吗？",
-      "url": "https://www.zhihu.com/question/2082841016533632412",
-      "hot_value": "86 万热度",
-      "index": 10
-    },
-    {
-      "title": "「儿子去世孙子非亲生案」老人两度败诉，将召开再审听证会，希望获得对孙子探视权，再审听证会结果会怎样？",
-      "url": "https://www.zhihu.com/question/2081674008291034612",
-      "hot_value": "85 万热度",
-      "index": 11
     },
     {
       "title": "南方医科大学一学生坠楼身亡，其二姐称「导师对弟弟很关心」，导师辟谣「不给批假」，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2083339404777730425",
-      "hot_value": "85 万热度",
-      "index": 12
-    },
-    {
-      "title": "为什么观众和影评人都能看出的剧情硬伤，电影里却依然存在？",
-      "url": "https://www.zhihu.com/question/2067760487266309648",
-      "hot_value": "84 万热度",
-      "index": 13
-    },
-    {
-      "title": "王鹤棣方称已就网传不实聊天记录报警并完成取证，静和医疗否认王鹤棣曾就诊，到底发生了什么？",
-      "url": "https://www.zhihu.com/question/2083618864349143864",
-      "hot_value": "81 万热度",
-      "index": 14
-    },
-    {
-      "title": "钟薛高宣布重启，推出三种口味，零售价最低跌到 6.9 元一支，你看好钟薛高这次「复活」吗？",
-      "url": "https://www.zhihu.com/question/2083299849705714867",
-      "hot_value": "78 万热度",
-      "index": 15
+      "hot_value": "124 万热度",
+      "index": 9
     },
     {
       "title": "平陆运河开通了，真的能节约运费吗？",
       "url": "https://www.zhihu.com/question/2081646932867523292",
-      "hot_value": "73 万热度",
+      "hot_value": "122 万热度",
+      "index": 10
+    },
+    {
+      "title": "字节跳动被曝上半年营收大涨 30% 但因 AI 投资致净利同比下滑，净利润率降至 16.7%，如何解读？",
+      "url": "https://www.zhihu.com/question/2083335175057028860",
+      "hot_value": "111 万热度",
+      "index": 11
+    },
+    {
+      "title": "伊朗单日击落 3 架美军 MQ-1 无人机，美军密集出动同一侦察机，想获取什么情报？还是试探伊朗防空？",
+      "url": "https://www.zhihu.com/question/2083344144982980584",
+      "hot_value": "106 万热度",
+      "index": 12
+    },
+    {
+      "title": "中国男子涉嫌在印尼渔猎玳瑁并烹饪，离境时被拦接受调查，玳瑁是什么动物？若属实他将承担什么责任？",
+      "url": "https://www.zhihu.com/question/2083156467859956956",
+      "hot_value": "101 万热度",
+      "index": 13
+    },
+    {
+      "title": "硕士人才引进考试第一因专升本被取消资格，官方称前期审核失误，处理方式合理吗？审核失误责任该由谁承担？",
+      "url": "https://www.zhihu.com/question/2083548956114663036",
+      "hot_value": "98 万热度",
+      "index": 14
+    },
+    {
+      "title": "王鹤棣方称已就网传不实聊天记录报警并完成取证，静和医疗否认王鹤棣曾就诊，到底发生了什么？",
+      "url": "https://www.zhihu.com/question/2083618864349143864",
+      "hot_value": "98 万热度",
+      "index": 15
+    },
+    {
+      "title": "为什么有些人喝一点酒就脸红？不脸红就代表更能分解酒精吗？",
+      "url": "https://www.zhihu.com/question/2078484653611168949",
+      "hot_value": "97 万热度",
       "index": 16
     },
     {
-      "title": "为什么 QQ 邮箱这么好用大家还是觉得它「档次不够高」？",
-      "url": "https://www.zhihu.com/question/22891817",
-      "hot_value": "70 万热度",
+      "title": "学生党无力支付 token 费用怎么办？",
+      "url": "https://www.zhihu.com/question/2078470854380471687",
+      "hot_value": "95 万热度",
       "index": 17
     },
     {
-      "title": "为什么感觉江湖人士有内力就不做防护的和人打架很傻?",
-      "url": "https://www.zhihu.com/question/2013647855663989757",
-      "hot_value": "70 万热度",
+      "title": "中国男篮准一队参加亚运，苏群批评说「鼠目寸光的人太多」，杨毅隔空回应「站着说话不腰疼」，你对此怎么看？",
+      "url": "https://www.zhihu.com/question/2083561460869719823",
+      "hot_value": "93 万热度",
       "index": 18
     },
     {
-      "title": "为什么职场中乐于助人的人最后往往变成了 「 老好人 」，活变得越来越多？",
-      "url": "https://www.zhihu.com/question/2074948202449613474",
-      "hot_value": "69 万热度",
+      "title": "Clarity 法案未通过美国参议院投票，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2082793282153575020",
+      "hot_value": "86 万热度",
       "index": 19
     },
     {
-      "title": "有哪些好吃的美食，可以给我推荐吗？",
-      "url": "https://www.zhihu.com/question/12250418196",
-      "hot_value": "68 万热度",
+      "title": "港中大（深圳）实行 9 个月工资制，并期望年轻教授 5 年内获诺奖，这会如何影响学术生态？",
+      "url": "https://www.zhihu.com/question/2082839178635757054",
+      "hot_value": "82 万热度",
       "index": 20
     },
     {
       "title": "范玮琪老公陈建州突发心梗，已送医完成手术，「血管堵到 90%」是什么程度？心梗前可能有哪些征兆？",
       "url": "https://www.zhihu.com/question/2083322310895690389",
-      "hot_value": "68 万热度",
+      "hot_value": "78 万热度",
       "index": 21
     },
     {
-      "title": "男性私处医美打玻尿酸真能有效吗？有可能会导致栓塞吗？手术风险有多大？",
-      "url": "https://www.zhihu.com/question/2083611717200601796",
-      "hot_value": "67 万热度",
+      "title": "华为赛力斯改为轻资产合作模式，对赛力斯而言有哪些机会和挑战？",
+      "url": "https://www.zhihu.com/question/2083170050610032669",
+      "hot_value": "74 万热度",
       "index": 22
     },
     {
-      "title": "如何评价全球首款 AI 智能体手机努比亚 NaviX Ultra 豆包手机发布开售？有什么亮点与不足？",
-      "url": "https://www.zhihu.com/question/2083496255733364173",
-      "hot_value": "67 万热度",
+      "title": "为什么我国现在的中学生抑郁症越来越多？",
+      "url": "https://www.zhihu.com/question/438664248",
+      "hot_value": "68 万热度",
       "index": 23
-    },
-    {
-      "title": "谁是你们心目中最好的 F1 车手？",
-      "url": "https://www.zhihu.com/question/1929951128302354650",
-      "hot_value": "67 万热度",
-      "index": 24
-    },
-    {
-      "title": "《凡人修仙传》年番是否扩圈失败？",
-      "url": "https://www.zhihu.com/question/2063305126698284178",
-      "hot_value": "66 万热度",
-      "index": 25
-    },
-    {
-      "title": "一直走不出悲伤怎么办？困在原地走不出来，总是在纠结过往、否定自己，到底该怎么调适？",
-      "url": "https://www.zhihu.com/question/666675989",
-      "hot_value": "66 万热度",
-      "index": 26
-    },
-    {
-      "title": "为什么笔记本电脑那么不耐用？",
-      "url": "https://www.zhihu.com/question/2047668772417303716",
-      "hot_value": "66 万热度",
-      "index": 27
-    },
-    {
-      "title": "正常人什么年龄学会博弈和算计？",
-      "url": "https://www.zhihu.com/question/2079275746590302677",
-      "hot_value": "64 万热度",
-      "index": 28
     },
     {
       "title": "《雍正王朝》中为什么康熙总是不急不慢、智珠在握的感觉，而雍正却动不动就发火大喊大叫？",
       "url": "https://www.zhihu.com/question/1918778248533345743",
       "hot_value": "63 万热度",
-      "index": 29
+      "index": 24
     },
     {
       "title": "南京一高校学生晚上排长队洗澡，学生反映「每天排队都是一个小时起步」，真是这样吗？有哪些解决办法？",
       "url": "https://www.zhihu.com/question/2083311751991399936",
-      "hot_value": "63 万热度",
+      "hot_value": "59 万热度",
+      "index": 25
+    },
+    {
+      "title": "啄木鸟维修更换开关收费 2800 元，投诉后仅退款 1000 元，这合理吗？家庭维修为啥难明码标价？",
+      "url": "https://www.zhihu.com/question/2083551350592483827",
+      "hot_value": "59 万热度",
+      "index": 26
+    },
+    {
+      "title": "怎样才能不懦弱，不被别人欺负？",
+      "url": "https://www.zhihu.com/question/659541156",
+      "hot_value": "58 万热度",
+      "index": 27
+    },
+    {
+      "title": "报告显示 72% 的成年人未达饮用水适宜摄入量，水没喝够会对身体产生啥影响？该怎样正确喝水？",
+      "url": "https://www.zhihu.com/question/2083121786422387453",
+      "hot_value": "58 万热度",
+      "index": 28
+    },
+    {
+      "title": "火影里最走心的 tv 原创是哪一段？",
+      "url": "https://www.zhihu.com/question/68103832",
+      "hot_value": "58 万热度",
+      "index": 29
+    },
+    {
+      "title": "埃斯皮绝杀！皇马 3-2 埃尔切 姆巴佩传射迪奥曼德助攻居莱尔造乌龙，如何评价这场比赛皇马的表现？",
+      "url": "https://www.zhihu.com/question/2083464745307452198",
+      "hot_value": "58 万热度",
       "index": 30
     }
   ]
