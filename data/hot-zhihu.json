@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-17T05:05:16Z",
+  "update_time": "2026-09-17T10:13:33Z",
   "count": 30,
   "list": [
     {
-      "title": "美联储 3 年来首次加息，加息 25 个基点，将基准利率上调至 3.75%-4.00%，会对市场有哪些影响？",
-      "url": "https://www.zhihu.com/question/2083684721486029950",
-      "hot_value": "4383 万热度",
+      "title": "国乒、国羽、中国体操队被困名古屋机场，现场只提供水无食品，为什么会这样？暴露出亚运会组织方的哪些问题？",
+      "url": "https://www.zhihu.com/question/2083719036232324156",
+      "hot_value": "1181 万热度",
       "index": 1
     },
     {
-      "title": "儿子用豆包选下葬母亲黄道吉日，因葬礼后亲戚遇车祸重伤决定起诉豆包，如何从法律角度解读？",
-      "url": "https://www.zhihu.com/question/2083597869206823687",
-      "hot_value": "1119 万热度",
+      "title": "美联储 3 年来首次加息，加息 25 个基点，将基准利率上调至 3.75%-4.00%，会对市场有哪些影响？",
+      "url": "https://www.zhihu.com/question/2083684721486029950",
+      "hot_value": "1010 万热度",
       "index": 2
     },
     {
-      "title": "HYROX 就「选手失禁夺冠」一事道歉并给下午场赛事运动员全额退费，你认为这次道歉＋退费能挽回口碑吗？",
-      "url": "https://www.zhihu.com/question/2083600456161261114",
-      "hot_value": "284 万热度",
+      "title": "张一鸣身家突破 1050 亿美元首次成亚洲首富，如何评价其商业成就？",
+      "url": "https://www.zhihu.com/question/2083595578223636976",
+      "hot_value": "591 万热度",
       "index": 3
     },
     {
-      "title": "国乒、中国体操队被困名古屋亚运机场，现场只提供水无食品，为什么会这样？暴露出亚运会组织方的哪些问题？",
-      "url": "https://www.zhihu.com/question/2083719036232324156",
-      "hot_value": "266 万热度",
+      "title": "学生提议保障宵夜，食堂留言板反问「能考到年级前一百名吗」引不满，为啥大家反感该回应？学生诉求合理吗？",
+      "url": "https://www.zhihu.com/question/2083520419420713631",
+      "hot_value": "324 万热度",
       "index": 4
     },
     {
-      "title": "硕士人才引进考试第一因专升本被取消资格，官方称前期审核失误，处理方式合理吗？审核失误责任该由谁承担？",
-      "url": "https://www.zhihu.com/question/2083548956114663036",
-      "hot_value": "248 万热度",
+      "title": "如何看待赛力斯问界将在 2027 年 1 月 1 日正式撤出鸿蒙智行和华为专卖店？",
+      "url": "https://www.zhihu.com/question/2083953791431397501",
+      "hot_value": "164 万热度",
       "index": 5
     },
     {
-      "title": "昔日「彩电大王」康佳要退市了，去年巨亏 126 亿元，扣非净利润连亏 15 年，是如何走到今天这步的？",
-      "url": "https://www.zhihu.com/question/2076450178576413956",
-      "hot_value": "247 万热度",
+      "title": "百度搜索为什么没落了？",
+      "url": "https://www.zhihu.com/question/2020203409219809652",
+      "hot_value": "163 万热度",
       "index": 6
     },
     {
       "title": "为什么很多小说或电视剧里都是镇北侯，怎么没有镇南侯？",
       "url": "https://www.zhihu.com/question/2082261043515072893",
-      "hot_value": "243 万热度",
+      "hot_value": "163 万热度",
       "index": 7
     },
     {
-      "title": "如何评价小米公开进行大语言模型 Mimo V2.6 的大规模强化学习训练？",
-      "url": "https://www.zhihu.com/question/2083802170001044893",
-      "hot_value": "239 万热度",
-      "index": 8
-    },
-    {
-      "title": "学生提议保障宵夜，食堂留言板反问「能考到年级前一百名吗」引不满，为啥大家反感该回应？学生诉求合理吗？",
-      "url": "https://www.zhihu.com/question/2083520419420713631",
-      "hot_value": "237 万热度",
-      "index": 9
-    },
-    {
-      "title": "为什么有些人喝一点酒就脸红？不脸红就代表更能分解酒精吗？",
-      "url": "https://www.zhihu.com/question/2078484653611168949",
-      "hot_value": "225 万热度",
-      "index": 10
-    },
-    {
-      "title": "香港特区首个五年规划正式公布，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2083512520640353090",
-      "hot_value": "219 万热度",
-      "index": 11
-    },
-    {
-      "title": "南博受赠文物一事原院长被判有期三年，他已 81 岁，可能会监外执行吗？为何是受贿罪而非盗窃文物罪？",
-      "url": "https://www.zhihu.com/question/2083617552005947404",
-      "hot_value": "213 万热度",
-      "index": 12
-    },
-    {
-      "title": "怎么评价「回乡老博士」朱跃军出身农户、湘雅求学、交大博士结业等经历？是真的吗？",
-      "url": "https://www.zhihu.com/question/2083221970452329423",
-      "hot_value": "213 万热度",
-      "index": 13
-    },
-    {
-      "title": "超音速客机未来北京飞上海可能只需半小时，普通人还要等多久才能坐上？该技术商业化应用面临哪些挑战？",
-      "url": "https://www.zhihu.com/question/2083329888602288961",
-      "hot_value": "213 万热度",
-      "index": 14
-    },
-    {
-      "title": "为什么星星没有绿色或者紫色的呢？",
-      "url": "https://www.zhihu.com/question/11061370534",
-      "hot_value": "203 万热度",
-      "index": 15
-    },
-    {
-      "title": "特朗普发文称美国利率应当降至 1% 或更低，这一利率对美国意味着什么？能实现吗？",
-      "url": "https://www.zhihu.com/question/2083822190844015426",
-      "hot_value": "198 万热度",
-      "index": 16
-    },
-    {
-      "title": "张一鸣身家突破 1050 亿美元首次成亚洲首富，如何评价其商业成就？",
-      "url": "https://www.zhihu.com/question/2083595578223636976",
-      "hot_value": "193 万热度",
-      "index": 17
-    },
-    {
-      "title": "百度搜索为什么没落了？",
-      "url": "https://www.zhihu.com/question/2020203409219809652",
+      "title": "广电总局表示，将机顶盒功能以软件形态内置于电视机，会对行业带来哪些变化？能解决看电视麻烦的问题吗？",
+      "url": "https://www.zhihu.com/question/2083865288337010896",
       "hot_value": "162 万热度",
-      "index": 18
-    },
-    {
-      "title": "美联储预计年底前还将加息一次，12 位官员预计今年还将加息 25 个基点，这次加息周期会有多长？",
-      "url": "https://www.zhihu.com/question/2083745294370526221",
-      "hot_value": "153 万热度",
-      "index": 19
-    },
-    {
-      "title": "DeepSeek 算子负责人发文《我不得不把才华埋葬在昨天》，是在反击 Anthropic 吗？",
-      "url": "https://www.zhihu.com/question/2083642920830251152",
-      "hot_value": "152 万热度",
-      "index": 20
-    },
-    {
-      "title": "字节跳动被曝上半年营收大涨 30% 但因 AI 投资致净利同比下滑，净利润率降至 16.7%，如何解读？",
-      "url": "https://www.zhihu.com/question/2083335175057028860",
-      "hot_value": "152 万热度",
-      "index": 21
-    },
-    {
-      "title": "王鹤棣方称已就网传不实聊天记录报警并完成取证，静和医疗否认王鹤棣曾就诊，到底发生了什么？",
-      "url": "https://www.zhihu.com/question/2083618864349143864",
-      "hot_value": "136 万热度",
-      "index": 22
-    },
-    {
-      "title": "有哪些演员让你觉得第一眼惊为天人，后面觉得很普通，甚至怪怪的？",
-      "url": "https://www.zhihu.com/question/1932799403552383280",
-      "hot_value": "134 万热度",
-      "index": 23
-    },
-    {
-      "title": "冒泡赛 TES 对阵 iG，哪支战队会成为 LPL 三号种子？",
-      "url": "https://www.zhihu.com/question/2083522128238985380",
-      "hot_value": "129 万热度",
-      "index": 24
-    },
-    {
-      "title": "最近川渝方言「耍起」爆火，网友总结出「幸福者耍起」等口号，为啥这个梗火了？反映了怎样的生活态度？",
-      "url": "https://www.zhihu.com/question/2078504314264183352",
-      "hot_value": "115 万热度",
-      "index": 25
-    },
-    {
-      "title": "一个人吃饭逛街看电影，你会孤独吗？",
-      "url": "https://www.zhihu.com/question/2083699076663620195",
-      "hot_value": "75 万热度",
-      "index": 26
+      "index": 8
     },
     {
       "title": "如果任天堂是世界上最伟大的游戏公司，那么第二伟大的游戏公司是哪家？",
       "url": "https://www.zhihu.com/question/266697646",
-      "hot_value": "69 万热度",
+      "hot_value": "153 万热度",
+      "index": 9
+    },
+    {
+      "title": "问一下大家，总层 24，只剩 18 楼和 5 楼，选哪个比较好？",
+      "url": "https://www.zhihu.com/question/436820863",
+      "hot_value": "143 万热度",
+      "index": 10
+    },
+    {
+      "title": "亚运女子板球 1/4 决赛场地积水取消，中国队世界排名低于对手被判负，一场未打结束亚运征程，这规则合理吗？",
+      "url": "https://www.zhihu.com/question/2083894090341377231",
+      "hot_value": "132 万热度",
+      "index": 11
+    },
+    {
+      "title": "DeepSeek 算子负责人发文《我不得不把才华埋葬在昨天》，是在反击 Anthropic 吗？",
+      "url": "https://www.zhihu.com/question/2083642920830251152",
+      "hot_value": "127 万热度",
+      "index": 12
+    },
+    {
+      "title": "为什么《泰坦尼克号》里要强行给男二卡尔安排个大萧条期间破产自杀的结局？",
+      "url": "https://www.zhihu.com/question/2050940396734361925",
+      "hot_value": "119 万热度",
+      "index": 13
+    },
+    {
+      "title": "昔日「彩电大王」康佳要退市了，去年巨亏 126 亿元，扣非净利润连亏 15 年，是如何走到今天这步的？",
+      "url": "https://www.zhihu.com/question/2076450178576413956",
+      "hot_value": "110 万热度",
+      "index": 14
+    },
+    {
+      "title": "有哪些演员让你觉得第一眼惊为天人，后面觉得很普通，甚至怪怪的？",
+      "url": "https://www.zhihu.com/question/1932799403552383280",
+      "hot_value": "105 万热度",
+      "index": 15
+    },
+    {
+      "title": "4 月被击落美军官首次讲述 50 小时惊险获救经历，如何评价美军动员 5000 人参与救援行动？",
+      "url": "https://www.zhihu.com/question/2083202471971779529",
+      "hot_value": "103 万热度",
+      "index": 16
+    },
+    {
+      "title": "不懂书法的人怎么分辨一副作品的好坏？",
+      "url": "https://www.zhihu.com/question/1929930862201378261",
+      "hot_value": "101 万热度",
+      "index": 17
+    },
+    {
+      "title": "华为昇腾 960 超节点正式发布，新款 AI 芯片昇腾 960DT 将提前至明年 Q1 发布，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2083874290466821167",
+      "hot_value": "97 万热度",
+      "index": 18
+    },
+    {
+      "title": "多地严控手机进校园，一刀切禁止手机，到底是保护孩子，还是隔绝了必要的学习工具？",
+      "url": "https://www.zhihu.com/question/2078738263423071300",
+      "hot_value": "89 万热度",
+      "index": 19
+    },
+    {
+      "title": "这次亚运会，中国男足能拿奖牌吗？",
+      "url": "https://www.zhihu.com/question/2082012854706778243",
+      "hot_value": "82 万热度",
+      "index": 20
+    },
+    {
+      "title": "如果存在一个 100% 深海覆盖的海洋星球，对人类来说会不会非常恐怖？里面会发展出什么生命吗？",
+      "url": "https://www.zhihu.com/question/2083246063851410890",
+      "hot_value": "75 万热度",
+      "index": 21
+    },
+    {
+      "title": "成龙、洪金宝都仰仗的男人钱嘉乐，为什么就是不火？",
+      "url": "https://www.zhihu.com/question/2082562415691035187",
+      "hot_value": "73 万热度",
+      "index": 22
+    },
+    {
+      "title": "一直走不出悲伤怎么办？困在原地走不出来，总是在纠结过往、否定自己，到底该怎么调适？",
+      "url": "https://www.zhihu.com/question/666675989",
+      "hot_value": "65 万热度",
+      "index": 23
+    },
+    {
+      "title": "收入降低的时候，怎么养娃更省钱？",
+      "url": "https://www.zhihu.com/question/384647710",
+      "hot_value": "58 万热度",
+      "index": 24
+    },
+    {
+      "title": "我们理智上都知道要接受孩子的平凡，为什么看到别的孩子优秀，自己还是会焦虑？",
+      "url": "https://www.zhihu.com/question/2075152642351937439",
+      "hot_value": "58 万热度",
+      "index": 25
+    },
+    {
+      "title": "超音速客机未来北京飞上海可能只需半小时，普通人还要等多久才能坐上？该技术商业化应用面临哪些挑战？",
+      "url": "https://www.zhihu.com/question/2083329888602288961",
+      "hot_value": "58 万热度",
+      "index": 26
+    },
+    {
+      "title": "如何评价 Sony FE 600mm F6.3 GM OSS (SEL600F63GM) 镜头？",
+      "url": "https://www.zhihu.com/question/2080544590357181664",
+      "hot_value": "58 万热度",
       "index": 27
     },
     {
-      "title": "单机游戏剧情重要还是游戏性更重要？",
-      "url": "https://www.zhihu.com/question/2036369512598090539",
-      "hot_value": "68 万热度",
+      "title": "你最喜欢的一种红薯吃法是怎么做的？",
+      "url": "https://www.zhihu.com/question/10896580492",
+      "hot_value": "58 万热度",
       "index": 28
     },
     {
-      "title": "上班族你们都带什么午饭（便当）？求推荐？",
-      "url": "https://www.zhihu.com/question/37691505",
-      "hot_value": "67 万热度",
+      "title": "为什么宝可梦没有出现类似其他回合制游戏那样的「小作文」式技能描述？",
+      "url": "https://www.zhihu.com/question/2082918898869985358",
+      "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "四川茂县发生山体滑坡，161 名群众提前转移无伤亡，视频显示岷江断流，目前具体情况如何？",
-      "url": "https://www.zhihu.com/question/2083583501459093175",
-      "hot_value": "66 万热度",
+      "title": "为什么王熙凤和贾琏开始恩爱，后期反目了？",
+      "url": "https://www.zhihu.com/question/667793122",
+      "hot_value": "58 万热度",
       "index": 30
     }
   ]
