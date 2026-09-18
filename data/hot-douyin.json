@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-09-18T21:04:53Z",
+  "update_time": "2026-09-18T23:26:36Z",
   "count": 30,
   "list": [
     {
-      "title": "中国海警正告菲方停止侵权挑衅",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%AD%A3%E5%91%8A%E8%8F%B2%E6%96%B9%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85?type=general",
-      "hot_value": "12102662",
+      "title": "油价预计9月24日24时上调",
+      "url": "https://www.douyin.com/search/%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A19%E6%9C%8824%E6%97%A524%E6%97%B6%E4%B8%8A%E8%B0%83?type=general",
+      "hot_value": "12106791",
       "index": 1
     },
     {
       "title": "大理追一场会游动的洱海星河",
       "url": "https://www.douyin.com/search/%E5%A4%A7%E7%90%86%E8%BF%BD%E4%B8%80%E5%9C%BA%E4%BC%9A%E6%B8%B8%E5%8A%A8%E7%9A%84%E6%B4%B1%E6%B5%B7%E6%98%9F%E6%B2%B3?type=general",
-      "hot_value": "11932970",
+      "hot_value": "12077388",
       "index": 2
     },
     {
       "title": "警钟长鸣 吾辈自强",
       "url": "https://www.douyin.com/search/%E8%AD%A6%E9%92%9F%E9%95%BF%E9%B8%A3%20%E5%90%BE%E8%BE%88%E8%87%AA%E5%BC%BA?type=general",
-      "hot_value": "10815451",
+      "hot_value": "11139763",
       "index": 3
     },
     {
-      "title": "住建部：我国房地产进入存量时代",
-      "url": "https://www.douyin.com/search/%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E6%88%91%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%BF%9B%E5%85%A5%E5%AD%98%E9%87%8F%E6%97%B6%E4%BB%A3?type=general",
-      "hot_value": "10766779",
+      "title": "中国海警正告菲方停止侵权挑衅",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%AD%A3%E5%91%8A%E8%8F%B2%E6%96%B9%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85?type=general",
+      "hot_value": "10921129",
       "index": 4
     },
     {
       "title": "美军一架F16战斗机坠毁",
       "url": "https://www.douyin.com/search/%E7%BE%8E%E5%86%9B%E4%B8%80%E6%9E%B6F16%E6%88%98%E6%96%97%E6%9C%BA%E5%9D%A0%E6%AF%81?type=general",
-      "hot_value": "10212696",
+      "hot_value": "10357390",
       "index": 5
     },
     {
-      "title": "油价预计9月24日24时上调",
-      "url": "https://www.douyin.com/search/%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A19%E6%9C%8824%E6%97%A524%E6%97%B6%E4%B8%8A%E8%B0%83?type=general",
-      "hot_value": "10048227",
+      "title": "住建部：我国房地产进入存量时代",
+      "url": "https://www.douyin.com/search/%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E6%88%91%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%BF%9B%E5%85%A5%E5%AD%98%E9%87%8F%E6%97%B6%E4%BB%A3?type=general",
+      "hot_value": "10245970",
       "index": 6
-    },
-    {
-      "title": "WE 1:3 JDG",
-      "url": "https://www.douyin.com/search/WE%201%3A3%20JDG?type=general",
-      "hot_value": "8768772",
-      "index": 7
     },
     {
       "title": "起猛了创大要打百分了",
       "url": "https://www.douyin.com/search/%E8%B5%B7%E7%8C%9B%E4%BA%86%E5%88%9B%E5%A4%A7%E8%A6%81%E6%89%93%E7%99%BE%E5%88%86%E4%BA%86?type=general",
-      "hot_value": "8517094",
-      "index": 8
+      "hot_value": "9098466",
+      "index": 7
     },
     {
       "title": "这个中秋打卡安徽鳌鱼灯",
       "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E4%B8%AD%E7%A7%8B%E6%89%93%E5%8D%A1%E5%AE%89%E5%BE%BD%E9%B3%8C%E9%B1%BC%E7%81%AF?type=general",
-      "hot_value": "8334989",
-      "index": 9
+      "hot_value": "8922517",
+      "index": 8
     },
     {
       "title": "抖音作者现场见证快舟火箭升空",
       "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E4%BD%9C%E8%80%85%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E5%BF%AB%E8%88%9F%E7%81%AB%E7%AE%AD%E5%8D%87%E7%A9%BA?type=general",
-      "hot_value": "8333166",
-      "index": 10
+      "hot_value": "8455310",
+      "index": 9
     },
     {
       "title": "秋冬外套一衣穿三季穿搭分享",
       "url": "https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E5%A4%96%E5%A5%97%E4%B8%80%E8%A1%A3%E7%A9%BF%E4%B8%89%E5%AD%A3%E7%A9%BF%E6%90%AD%E5%88%86%E4%BA%AB?type=general",
-      "hot_value": "7853741",
+      "hot_value": "7808715",
+      "index": 10
+    },
+    {
+      "title": "WE 1:3 JDG",
+      "url": "https://www.douyin.com/search/WE%201%3A3%20JDG?type=general",
+      "hot_value": "7759996",
       "index": 11
     },
     {
-      "title": "秋天怎么能不吃家乡火锅",
-      "url": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E6%80%8E%E4%B9%88%E8%83%BD%E4%B8%8D%E5%90%83%E5%AE%B6%E4%B9%A1%E7%81%AB%E9%94%85?type=general",
-      "hot_value": "7833051",
+      "title": "寻找长征精神的回响",
+      "url": "https://www.douyin.com/search/%E5%AF%BB%E6%89%BE%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E%E7%9A%84%E5%9B%9E%E5%93%8D?type=general",
+      "hot_value": "7744208",
       "index": 12
     },
     {
       "title": "抹黑英雄必受严惩 歪曲历史绝不容忍",
       "url": "https://www.douyin.com/search/%E6%8A%B9%E9%BB%91%E8%8B%B1%E9%9B%84%E5%BF%85%E5%8F%97%E4%B8%A5%E6%83%A9%20%E6%AD%AA%E6%9B%B2%E5%8E%86%E5%8F%B2%E7%BB%9D%E4%B8%8D%E5%AE%B9%E5%BF%8D?type=general",
-      "hot_value": "7755740",
+      "hot_value": "7736991",
       "index": 13
-    },
-    {
-      "title": "沈北夜市有多好逛",
-      "url": "https://www.douyin.com/search/%E6%B2%88%E5%8C%97%E5%A4%9C%E5%B8%82%E6%9C%89%E5%A4%9A%E5%A5%BD%E9%80%9B?type=general",
-      "hot_value": "7725958",
-      "index": 14
     },
     {
       "title": "李在明就支持率下降原因道歉",
       "url": "https://www.douyin.com/search/%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E6%94%AF%E6%8C%81%E7%8E%87%E4%B8%8B%E9%99%8D%E5%8E%9F%E5%9B%A0%E9%81%93%E6%AD%89?type=general",
-      "hot_value": "7724896",
-      "index": 15
+      "hot_value": "7720844",
+      "index": 14
     },
     {
       "title": "ROSÉ新歌New Trick",
       "url": "https://www.douyin.com/search/ROS%C3%89%E6%96%B0%E6%AD%8CNew%20Trick?type=general",
-      "hot_value": "7724188",
-      "index": 16
+      "hot_value": "7706702",
+      "index": 15
     },
     {
       "title": "中国男篮不敌日本无缘决赛",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B?type=general",
-      "hot_value": "7723360",
+      "hot_value": "7697962",
+      "index": 16
+    },
+    {
+      "title": "秋天怎么能不吃家乡火锅",
+      "url": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E6%80%8E%E4%B9%88%E8%83%BD%E4%B8%8D%E5%90%83%E5%AE%B6%E4%B9%A1%E7%81%AB%E9%94%85?type=general",
+      "hot_value": "7697156",
       "index": 17
     },
     {
       "title": "人民币兑美元大涨",
       "url": "https://www.douyin.com/search/%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E5%A4%A7%E6%B6%A8?type=general",
-      "hot_value": "7719043",
+      "hot_value": "7695429",
       "index": 18
-    },
-    {
-      "title": "寻找长征精神的回响",
-      "url": "https://www.douyin.com/search/%E5%AF%BB%E6%89%BE%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E%E7%9A%84%E5%9B%9E%E5%93%8D?type=general",
-      "hot_value": "7715796",
-      "index": 19
-    },
-    {
-      "title": "郭士强复盘中国男篮攻防问题",
-      "url": "https://www.douyin.com/search/%E9%83%AD%E5%A3%AB%E5%BC%BA%E5%A4%8D%E7%9B%98%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%94%BB%E9%98%B2%E9%97%AE%E9%A2%98?type=general",
-      "hot_value": "7709434",
-      "index": 20
-    },
-    {
-      "title": "谭松韵刘学义我的官配放饭了",
-      "url": "https://www.douyin.com/search/%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%88%98%E5%AD%A6%E4%B9%89%E6%88%91%E7%9A%84%E5%AE%98%E9%85%8D%E6%94%BE%E9%A5%AD%E4%BA%86?type=general",
-      "hot_value": "7700403",
-      "index": 21
-    },
-    {
-      "title": "我怎么有这样的底色",
-      "url": "https://www.douyin.com/search/%E6%88%91%E6%80%8E%E4%B9%88%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E5%BA%95%E8%89%B2?type=general",
-      "hot_value": "7699905",
-      "index": 22
-    },
-    {
-      "title": "茶汤太痛了",
-      "url": "https://www.douyin.com/search/%E8%8C%B6%E6%B1%A4%E5%A4%AA%E7%97%9B%E4%BA%86?type=general",
-      "hot_value": "7699899",
-      "index": 23
-    },
-    {
-      "title": "陆星材演绎田小娟辞职舞",
-      "url": "https://www.douyin.com/search/%E9%99%86%E6%98%9F%E6%9D%90%E6%BC%94%E7%BB%8E%E7%94%B0%E5%B0%8F%E5%A8%9F%E8%BE%9E%E8%81%8C%E8%88%9E?type=general",
-      "hot_value": "7697596",
-      "index": 24
-    },
-    {
-      "title": "沈鼓集团相关异常账户暂停交易",
-      "url": "https://www.douyin.com/search/%E6%B2%88%E9%BC%93%E9%9B%86%E5%9B%A2%E7%9B%B8%E5%85%B3%E5%BC%82%E5%B8%B8%E8%B4%A6%E6%88%B7%E6%9A%82%E5%81%9C%E4%BA%A4%E6%98%93?type=general",
-      "hot_value": "7681616",
-      "index": 25
     },
     {
       "title": "我国科学家发现5亿多年前新物种",
       "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B05%E4%BA%BF%E5%A4%9A%E5%B9%B4%E5%89%8D%E6%96%B0%E7%89%A9%E7%A7%8D?type=general",
-      "hot_value": "7680844",
+      "hot_value": "7690147",
+      "index": 19
+    },
+    {
+      "title": "Apple Watch S12首发评测",
+      "url": "https://www.douyin.com/search/Apple%20Watch%20S12%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B?type=general",
+      "hot_value": "7687436",
+      "index": 20
+    },
+    {
+      "title": "博主回应记录妈妈的最后14天",
+      "url": "https://www.douyin.com/search/%E5%8D%9A%E4%B8%BB%E5%9B%9E%E5%BA%94%E8%AE%B0%E5%BD%95%E5%A6%88%E5%A6%88%E7%9A%84%E6%9C%80%E5%90%8E14%E5%A4%A9?type=general",
+      "hot_value": "7679965",
+      "index": 21
+    },
+    {
+      "title": "茶汤太痛了",
+      "url": "https://www.douyin.com/search/%E8%8C%B6%E6%B1%A4%E5%A4%AA%E7%97%9B%E4%BA%86?type=general",
+      "hot_value": "7660319",
+      "index": 22
+    },
+    {
+      "title": "萌萌的娃娃看这里",
+      "url": "https://www.douyin.com/search/%E8%90%8C%E8%90%8C%E7%9A%84%E5%A8%83%E5%A8%83%E7%9C%8B%E8%BF%99%E9%87%8C?type=general",
+      "hot_value": "7660301",
+      "index": 23
+    },
+    {
+      "title": "我怎么有这样的底色",
+      "url": "https://www.douyin.com/search/%E6%88%91%E6%80%8E%E4%B9%88%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E5%BA%95%E8%89%B2?type=general",
+      "hot_value": "7660242",
+      "index": 24
+    },
+    {
+      "title": "陆星材演绎田小娟辞职舞",
+      "url": "https://www.douyin.com/search/%E9%99%86%E6%98%9F%E6%9D%90%E6%BC%94%E7%BB%8E%E7%94%B0%E5%B0%8F%E5%A8%9F%E8%BE%9E%E8%81%8C%E8%88%9E?type=general",
+      "hot_value": "7660120",
+      "index": 25
+    },
+    {
+      "title": "世界是个巨大的游乐场",
+      "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%B8%B8%E4%B9%90%E5%9C%BA?type=general",
+      "hot_value": "7659990",
       "index": 26
     },
     {
-      "title": "住建部：住宅层高标准提至3米",
-      "url": "https://www.douyin.com/search/%E4%BD%8F%E5%BB%BA%E9%83%A8%EF%BC%9A%E4%BD%8F%E5%AE%85%E5%B1%82%E9%AB%98%E6%A0%87%E5%87%86%E6%8F%90%E8%87%B33%E7%B1%B3?type=general",
-      "hot_value": "7679665",
+      "title": "JackeyLove：世界赛我们来了",
+      "url": "https://www.douyin.com/search/JackeyLove%EF%BC%9A%E4%B8%96%E7%95%8C%E8%B5%9B%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86?type=general",
+      "hot_value": "7655027",
       "index": 27
     },
     {
       "title": "三角洲二周年庆全盘点",
       "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E4%BA%8C%E5%91%A8%E5%B9%B4%E5%BA%86%E5%85%A8%E7%9B%98%E7%82%B9?type=general",
-      "hot_value": "7676047",
+      "hot_value": "7650988",
       "index": 28
     },
     {
-      "title": "Apple Watch S12首发评测",
-      "url": "https://www.douyin.com/search/Apple%20Watch%20S12%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B?type=general",
-      "hot_value": "7668351",
+      "title": "郭士强复盘中国男篮攻防问题",
+      "url": "https://www.douyin.com/search/%E9%83%AD%E5%A3%AB%E5%BC%BA%E5%A4%8D%E7%9B%98%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%94%BB%E9%98%B2%E9%97%AE%E9%A2%98?type=general",
+      "hot_value": "7649690",
       "index": 29
     },
     {
       "title": "中秋许个愿",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E8%AE%B8%E4%B8%AA%E6%84%BF?type=general",
-      "hot_value": "7655552",
+      "hot_value": "7646656",
       "index": 30
     }
   ]

@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-09-18T21:04:53Z",
+  "update_time": "2026-09-18T23:26:36Z",
   "count": 30,
   "list": [
     {
       "title": "总书记为先进制造业指明方向",
       "url": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E5%85%88%E8%BF%9B%E5%88%B6%E9%80%A0%E4%B8%9A%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904892",
+      "hot_value": "7904442",
       "index": 1
     },
     {
       "title": "养生的风终于吹到了月饼行业",
       "url": "https://www.baidu.com/s?wd=%E5%85%BB%E7%94%9F%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E6%9C%88%E9%A5%BC%E8%A1%8C%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7809069",
+      "hot_value": "7809278",
       "index": 2
     },
     {
       "title": "运动员展示亚运房间：全是纸板做的",
       "url": "https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E5%B1%95%E7%A4%BA%E4%BA%9A%E8%BF%90%E6%88%BF%E9%97%B4%EF%BC%9A%E5%85%A8%E6%98%AF%E7%BA%B8%E6%9D%BF%E5%81%9A%E7%9A%84&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7713032",
+      "hot_value": "7714543",
       "index": 3
     },
     {
       "title": "绘就丰收画卷 这四个地方给出答案",
       "url": "https://www.baidu.com/s?wd=%E7%BB%98%E5%B0%B1%E4%B8%B0%E6%94%B6%E7%94%BB%E5%8D%B7+%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%9C%B0%E6%96%B9%E7%BB%99%E5%87%BA%E7%AD%94%E6%A1%88&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7618732",
+      "hot_value": "7616080",
       "index": 4
     },
     {
       "title": "中国男篮不敌日本无缘决赛",
       "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7524269",
+      "hot_value": "7519731",
       "index": 5
     },
     {
       "title": "陕西秦王级大墓或为秦始皇嫡祖母",
       "url": "https://www.baidu.com/s?wd=%E9%99%95%E8%A5%BF%E7%A7%A6%E7%8E%8B%E7%BA%A7%E5%A4%A7%E5%A2%93%E6%88%96%E4%B8%BA%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%AB%A1%E7%A5%96%E6%AF%8D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7426966",
+      "hot_value": "7427894",
       "index": 6
+    },
+    {
+      "title": "美驻日使馆9月18日发帖 日本网民破防",
+      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%869%E6%9C%8818%E6%97%A5%E5%8F%91%E5%B8%96+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A0%B4%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7333914",
+      "index": 7
+    },
+    {
+      "title": "高校考试开考9分钟试卷就被外传",
+      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%80%83%E8%AF%95%E5%BC%80%E8%80%839%E5%88%86%E9%92%9F%E8%AF%95%E5%8D%B7%E5%B0%B1%E8%A2%AB%E5%A4%96%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7236558",
+      "index": 8
     },
     {
       "title": "于东来正被自己的人设绑架",
       "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%AD%A3%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%E8%AE%BE%E7%BB%91%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7334098",
-      "index": 7
-    },
-    {
-      "title": "油价预计9月24日24时上调",
-      "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A19%E6%9C%8824%E6%97%A524%E6%97%B6%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7232183",
-      "index": 8
-    },
-    {
-      "title": "产后失明失聪女子：从不后悔生娃",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%A7%E5%90%8E%E5%A4%B1%E6%98%8E%E5%A4%B1%E8%81%AA%E5%A5%B3%E5%AD%90%EF%BC%9A%E4%BB%8E%E4%B8%8D%E5%90%8E%E6%82%94%E7%94%9F%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7137841",
+      "hot_value": "7140573",
       "index": 9
     },
     {
       "title": "超慢跑是一种更加友好的运动方式",
       "url": "https://www.baidu.com/s?wd=%E8%B6%85%E6%85%A2%E8%B7%91%E6%98%AF%E4%B8%80%E7%A7%8D%E6%9B%B4%E5%8A%A0%E5%8F%8B%E5%A5%BD%E7%9A%84%E8%BF%90%E5%8A%A8%E6%96%B9%E5%BC%8F&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7042701",
+      "hot_value": "7048992",
       "index": 10
     },
     {
       "title": "高中生自制综艺走红 邓超李晨也参与",
       "url": "https://www.baidu.com/s?wd=%E9%AB%98%E4%B8%AD%E7%94%9F%E8%87%AA%E5%88%B6%E7%BB%BC%E8%89%BA%E8%B5%B0%E7%BA%A2+%E9%82%93%E8%B6%85%E6%9D%8E%E6%99%A8%E4%B9%9F%E5%8F%82%E4%B8%8E&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6949203",
+      "hot_value": "6952538",
       "index": 11
     },
     {
       "title": "绵阳一养猪场单日死亡500头猪不实",
       "url": "https://www.baidu.com/s?wd=%E7%BB%B5%E9%98%B3%E4%B8%80%E5%85%BB%E7%8C%AA%E5%9C%BA%E5%8D%95%E6%97%A5%E6%AD%BB%E4%BA%A1500%E5%A4%B4%E7%8C%AA%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6855148",
+      "hot_value": "6856079",
       "index": 12
     },
     {
-      "title": "郭士强回应男篮惨败",
-      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%A3%AB%E5%BC%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E7%AF%AE%E6%83%A8%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6751121",
+      "title": "产后失明失聪女子：从不后悔生娃",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%A7%E5%90%8E%E5%A4%B1%E6%98%8E%E5%A4%B1%E8%81%AA%E5%A5%B3%E5%AD%90%EF%BC%9A%E4%BB%8E%E4%B8%8D%E5%90%8E%E6%82%94%E7%94%9F%E5%A8%83&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6753042",
       "index": 13
     },
     {
-      "title": "美驻日使馆9月18日发帖 日本网民破防",
-      "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%869%E6%9C%8818%E6%97%A5%E5%8F%91%E5%B8%96+%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A0%B4%E9%98%B2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6666482",
+      "title": "男子30层高空作业绳子被2楼老人剪断",
+      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9030%E5%B1%82%E9%AB%98%E7%A9%BA%E4%BD%9C%E4%B8%9A%E7%BB%B3%E5%AD%90%E8%A2%AB2%E6%A5%BC%E8%80%81%E4%BA%BA%E5%89%AA%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6656131",
       "index": 14
     },
     {
-      "title": "高校考试开考9分钟试卷就被外传",
-      "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E8%80%83%E8%AF%95%E5%BC%80%E8%80%839%E5%88%86%E9%92%9F%E8%AF%95%E5%8D%B7%E5%B0%B1%E8%A2%AB%E5%A4%96%E4%BC%A0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6573503",
+      "title": "中国男篮比分被修正为77比97日本",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%AF%94%E5%88%86%E8%A2%AB%E4%BF%AE%E6%AD%A3%E4%B8%BA77%E6%AF%9497%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6564694",
       "index": 15
     },
     {
       "title": "男童在自家鱼塘触电截肢 索赔309万",
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AB%A5%E5%9C%A8%E8%87%AA%E5%AE%B6%E9%B1%BC%E5%A1%98%E8%A7%A6%E7%94%B5%E6%88%AA%E8%82%A2+%E7%B4%A2%E8%B5%94309%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6469891",
+      "hot_value": "6462755",
       "index": 16
-    },
-    {
-      "title": "男子30层高空作业绳子被2楼老人剪断",
-      "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%9030%E5%B1%82%E9%AB%98%E7%A9%BA%E4%BD%9C%E4%B8%9A%E7%BB%B3%E5%AD%90%E8%A2%AB2%E6%A5%BC%E8%80%81%E4%BA%BA%E5%89%AA%E6%96%AD&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6378948",
-      "index": 17
     },
     {
       "title": "也门局势突变 又一个海峡危险了",
       "url": "https://www.baidu.com/s?wd=%E4%B9%9F%E9%97%A8%E5%B1%80%E5%8A%BF%E7%AA%81%E5%8F%98+%E5%8F%88%E4%B8%80%E4%B8%AA%E6%B5%B7%E5%B3%A1%E5%8D%B1%E9%99%A9%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6270961",
+      "hot_value": "6381455",
+      "index": 17
+    },
+    {
+      "title": "拖欠员工公积金 娃哈哈致歉",
+      "url": "https://www.baidu.com/s?wd=%E6%8B%96%E6%AC%A0%E5%91%98%E5%B7%A5%E5%85%AC%E7%A7%AF%E9%87%91+%E5%A8%83%E5%93%88%E5%93%88%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6277092",
       "index": 18
     },
     {
-      "title": "郭士强该下课吗",
-      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%A3%AB%E5%BC%BA%E8%AF%A5%E4%B8%8B%E8%AF%BE%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6185528",
+      "title": "日本男篮12人里有5个归化混血",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE12%E4%BA%BA%E9%87%8C%E6%9C%895%E4%B8%AA%E5%BD%92%E5%8C%96%E6%B7%B7%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6190340",
       "index": 19
     },
     {
-      "title": "医生：先天性神经纤维瘤病不可逆",
-      "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E5%85%88%E5%A4%A9%E6%80%A7%E7%A5%9E%E7%BB%8F%E7%BA%A4%E7%BB%B4%E7%98%A4%E7%97%85%E4%B8%8D%E5%8F%AF%E9%80%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6094941",
+      "title": "油价预计9月24日24时上调",
+      "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A19%E6%9C%8824%E6%97%A524%E6%97%B6%E4%B8%8A%E8%B0%83&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6078920",
       "index": 20
     },
     {
-      "title": "小球迷看男篮输了哭到颤抖",
-      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%90%83%E8%BF%B7%E7%9C%8B%E7%94%B7%E7%AF%AE%E8%BE%93%E4%BA%86%E5%93%AD%E5%88%B0%E9%A2%A4%E6%8A%96&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6001582",
+      "title": "郭士强回应男篮惨败",
+      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%A3%AB%E5%BC%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E7%AF%AE%E6%83%A8%E8%B4%A5&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5987022",
       "index": 21
     },
     {
-      "title": "中国男篮比分被修正为77比97日本",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%AF%94%E5%88%86%E8%A2%AB%E4%BF%AE%E6%AD%A3%E4%B8%BA77%E6%AF%9497%E6%97%A5%E6%9C%AC&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5891879",
+      "title": "胡金秋：我们把比赛想得太简单了",
+      "url": "https://www.baidu.com/s?wd=%E8%83%A1%E9%87%91%E7%A7%8B%EF%BC%9A%E6%88%91%E4%BB%AC%E6%8A%8A%E6%AF%94%E8%B5%9B%E6%83%B3%E5%BE%97%E5%A4%AA%E7%AE%80%E5%8D%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5897818",
       "index": 22
     },
     {
-      "title": "巴菲特卸任伯克希尔哈撒韦董事长",
-      "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8D%B8%E4%BB%BB%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E8%91%A3%E4%BA%8B%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5808810",
+      "title": "杨毅犀利点评中国男篮",
+      "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E6%AF%85%E7%8A%80%E5%88%A9%E7%82%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5792518",
       "index": 23
     },
     {
       "title": "街头出现的这种超美植物千万别碰",
       "url": "https://www.baidu.com/s?wd=%E8%A1%97%E5%A4%B4%E5%87%BA%E7%8E%B0%E7%9A%84%E8%BF%99%E7%A7%8D%E8%B6%85%E7%BE%8E%E6%A4%8D%E7%89%A9%E5%8D%83%E4%B8%87%E5%88%AB%E7%A2%B0&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5711591",
+      "hot_value": "5710684",
       "index": 24
+    },
+    {
+      "title": "东北女孩在广州街边画彩绘",
+      "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E5%A5%B3%E5%AD%A9%E5%9C%A8%E5%B9%BF%E5%B7%9E%E8%A1%97%E8%BE%B9%E7%94%BB%E5%BD%A9%E7%BB%98&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5606241",
+      "index": 25
+    },
+    {
+      "title": "小球迷看男篮输了哭到颤抖",
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%90%83%E8%BF%B7%E7%9C%8B%E7%94%B7%E7%AF%AE%E8%BE%93%E4%BA%86%E5%93%AD%E5%88%B0%E9%A2%A4%E6%8A%96&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5518722",
+      "index": 26
+    },
+    {
+      "title": "郭士强成首位两输日本的中国男篮主帅",
+      "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%A3%AB%E5%BC%BA%E6%88%90%E9%A6%96%E4%BD%8D%E4%B8%A4%E8%BE%93%E6%97%A5%E6%9C%AC%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%B8%85&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5427107",
+      "index": 27
+    },
+    {
+      "title": "记者卧底揭网推律所乱象",
+      "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E6%8F%AD%E7%BD%91%E6%8E%A8%E5%BE%8B%E6%89%80%E4%B9%B1%E8%B1%A1&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5323402",
+      "index": 28
     },
     {
       "title": "华源任上海市副市长",
       "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E6%BA%90%E4%BB%BB%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5614040",
-      "index": 25
-    },
-    {
-      "title": "杨毅犀利点评中国男篮",
-      "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E6%AF%85%E7%8A%80%E5%88%A9%E7%82%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5511726",
-      "index": 26
-    },
-    {
-      "title": "拖欠员工公积金 娃哈哈致歉",
-      "url": "https://www.baidu.com/s?wd=%E6%8B%96%E6%AC%A0%E5%91%98%E5%B7%A5%E5%85%AC%E7%A7%AF%E9%87%91+%E5%A8%83%E5%93%88%E5%93%88%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5423763",
-      "index": 27
-    },
-    {
-      "title": "300米的路26个井盖沉陷超标",
-      "url": "https://www.baidu.com/s?wd=300%E7%B1%B3%E7%9A%84%E8%B7%AF26%E4%B8%AA%E4%BA%95%E7%9B%96%E6%B2%89%E9%99%B7%E8%B6%85%E6%A0%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5333970",
-      "index": 28
-    },
-    {
-      "title": "胡金秋：我们把比赛想得太简单了",
-      "url": "https://www.baidu.com/s?wd=%E8%83%A1%E9%87%91%E7%A7%8B%EF%BC%9A%E6%88%91%E4%BB%AC%E6%8A%8A%E6%AF%94%E8%B5%9B%E6%83%B3%E5%BE%97%E5%A4%AA%E7%AE%80%E5%8D%95%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5225311",
+      "hot_value": "5225410",
       "index": 29
     },
     {
-      "title": "徐瑛彬0-3不敌达科",
-      "url": "https://www.baidu.com/s?wd=%E5%BE%90%E7%91%9B%E5%BD%AC0-3%E4%B8%8D%E6%95%8C%E8%BE%BE%E7%A7%91&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5140663",
+      "title": "车主置换二手车 8年后发现是涉盗车辆",
+      "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E7%BD%AE%E6%8D%A2%E4%BA%8C%E6%89%8B%E8%BD%A6+8%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E6%98%AF%E6%B6%89%E7%9B%97%E8%BD%A6%E8%BE%86&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5126738",
       "index": 30
     }
   ]
