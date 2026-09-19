@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-19T01:24:07Z",
+  "update_time": "2026-09-19T06:14:07Z",
   "count": 30,
   "list": [
     {
-      "title": "如何解读住建部「4 楼及以上住宅都要加装电梯，解决老年群体上下楼问题 」？具体实施存在什么难点？",
-      "url": "https://www.zhihu.com/question/2084296198253449462",
-      "hot_value": "431 万热度",
+      "title": "泰国方面吐槽亚运会「选手在官方餐厅吃不饱，只能去外面吃吉野家」，本届亚运会的草台程度还能再上新高度？",
+      "url": "https://www.zhihu.com/question/2084297123386716349",
+      "hot_value": "749 万热度",
       "index": 1
     },
     {
-      "title": "泰国方面吐槽亚运会「选手在官方餐厅吃不饱，只能去外面吃吉野家」，本届亚运会的草台程度还能再上新高度？",
-      "url": "https://www.zhihu.com/question/2084297123386716349",
-      "hot_value": "357 万热度",
+      "title": "如何解读住建部「4 楼及以上住宅都要加装电梯，解决老年群体上下楼问题 」？具体实施存在什么难点？",
+      "url": "https://www.zhihu.com/question/2084296198253449462",
+      "hot_value": "557 万热度",
       "index": 2
     },
     {
       "title": "中国男篮 77-97 不敌日本男篮无缘决赛，失利的原因是什么？暴露了当下中国男篮的哪些问题短板？",
       "url": "https://www.zhihu.com/question/2084377679638131654",
-      "hot_value": "292 万热度",
+      "hot_value": "508 万热度",
       "index": 3
     },
     {
-      "title": "有消息传智谱 Zcode 会上传用户的全量 Git 操作，这是否属实？",
-      "url": "https://www.zhihu.com/question/2084291380302574171",
-      "hot_value": "288 万热度",
+      "title": "为什么这两年加多宝彻底销声匿迹了？",
+      "url": "https://www.zhihu.com/question/312268331",
+      "hot_value": "427 万热度",
       "index": 4
-    },
-    {
-      "title": "周鸿祎称 「吃过一次亏，不会再投资新能源车」，他在新能源赛道踩了什么坑？其投资逻辑发生了哪些转变？",
-      "url": "https://www.zhihu.com/question/2083571889524556215",
-      "hot_value": "188 万热度",
-      "index": 5
-    },
-    {
-      "title": "蒸十笼包子，最上面的先熟还是最下面的先熟？",
-      "url": "https://www.zhihu.com/question/384206412",
-      "hot_value": "186 万热度",
-      "index": 6
     },
     {
       "title": "如何评价 31 岁博士辞医院工作去送外卖、做驻唱？现代社会如何看待人选择生活方式的自由，探索生活的可能性？",
       "url": "https://www.zhihu.com/question/2084313080465450258",
-      "hot_value": "185 万热度",
-      "index": 7
+      "hot_value": "348 万热度",
+      "index": 5
     },
     {
-      "title": "在岸、离岸人民币兑美元双双升破 6.7，创 2023 年以来新高，受哪些因素影响？",
-      "url": "https://www.zhihu.com/question/2084221488257880673",
-      "hot_value": "175 万热度",
-      "index": 8
+      "title": "特朗普称美国将获得对格陵兰岛安全「永久控制权」，丹麦称下周签署协议，保留主权，这是变相拿下格陵兰了吗？",
+      "url": "https://www.zhihu.com/question/2084546841962603642",
+      "hot_value": "333 万热度",
+      "index": 6
     },
     {
       "title": "亚运会大巴迷路，司机打开纸质地图找方向，韩国选手吐槽「传奇司机」，日本不至于连导航都没普及吧？",
       "url": "https://www.zhihu.com/question/2084296008213553886",
-      "hot_value": "165 万热度",
+      "hot_value": "318 万热度",
+      "index": 7
+    },
+    {
+      "title": "周鸿祎称 「吃过一次亏，不会再投资新能源车」，他在新能源赛道踩了什么坑？其投资逻辑发生了哪些转变？",
+      "url": "https://www.zhihu.com/question/2083571889524556215",
+      "hot_value": "311 万热度",
+      "index": 8
+    },
+    {
+      "title": "蒸十笼包子，最上面的先熟还是最下面的先熟？",
+      "url": "https://www.zhihu.com/question/384206412",
+      "hot_value": "279 万热度",
       "index": 9
     },
     {
-      "title": "曝 IG 投诉前 LPL 解说 Wayward 成功并致其无限期禁播，对电竞直播言论边界有何警示？",
-      "url": "https://www.zhihu.com/question/2084047045174748027",
-      "hot_value": "153 万热度",
+      "title": "在岸、离岸人民币兑美元双双升破 6.7，创 2023 年以来新高，受哪些因素影响？",
+      "url": "https://www.zhihu.com/question/2084221488257880673",
+      "hot_value": "263 万热度",
       "index": 10
+    },
+    {
+      "title": "家委会私自用一千元班费给老师买礼物遭其他家长质疑，家委会有权这么做吗？类似事件层出不穷，根源在哪？",
+      "url": "https://www.zhihu.com/question/2084275838728365951",
+      "hot_value": "247 万热度",
+      "index": 11
     },
     {
       "title": "为什么英文称中国为 China，而不是按照中文读音叫 Zhongguo？",
       "url": "https://www.zhihu.com/question/2083634942437749293",
-      "hot_value": "149 万热度",
-      "index": 11
-    },
-    {
-      "title": "睡觉时将双手举过头顶的「投降式」睡姿，其实是身体在求救，这是真的吗？会带来哪些影响？怎样的睡姿最科学？",
-      "url": "https://www.zhihu.com/question/2083956845534605480",
-      "hot_value": "126 万热度",
+      "hot_value": "244 万热度",
       "index": 12
     },
     {
-      "title": "中国男篮 77-97 不敌日本男篮后，网友称让郭士强下课，如何评价这场比赛他的战术安排？真的有问题吗？",
-      "url": "https://www.zhihu.com/question/2084379544182416921",
-      "hot_value": "121 万热度",
+      "title": "如何看待黄斌连发多篇炮轰罗永浩？他称罗永浩经常为鸡毛蒜皮的事折腾全公司，罗永浩企业管理水平到底如何？",
+      "url": "https://www.zhihu.com/question/2084229086063196141",
+      "hot_value": "236 万热度",
       "index": 13
     },
     {
       "title": "松岛辉空说亚运会日本男乒「只发挥 50%-60% 也有机会击败中国队」对此你怎么看？",
       "url": "https://www.zhihu.com/question/2084283916446164895",
-      "hot_value": "119 万热度",
+      "hot_value": "231 万热度",
       "index": 14
     },
     {
-      "title": "为什么这两年加多宝彻底销声匿迹了？",
-      "url": "https://www.zhihu.com/question/312268331",
-      "hot_value": "118 万热度",
+      "title": "如何看待智谱就上传用户本地仓库数据道歉，称已修复，将开源 ZCode？",
+      "url": "https://www.zhihu.com/question/2084415444694163889",
+      "hot_value": "229 万热度",
       "index": 15
     },
     {
-      "title": "家委会私自用一千元班费给老师买礼物遭其他家长质疑，家委会有权这么做吗？类似事件层出不穷，根源在哪？",
-      "url": "https://www.zhihu.com/question/2084275838728365951",
-      "hot_value": "115 万热度",
+      "title": "曝 IG 投诉前 LPL 解说 Wayward 成功并致其无限期禁播，对电竞直播言论边界有何警示？",
+      "url": "https://www.zhihu.com/question/2084047045174748027",
+      "hot_value": "227 万热度",
       "index": 16
     },
     {
-      "title": "办公楼进来条蛇，我被惊吓后把它打死了，事后发现这是国家保护动物，我需要负法律责任吗？",
-      "url": "https://www.zhihu.com/question/658116158",
-      "hot_value": "113 万热度",
+      "title": "为什么说穷人家孩子晚熟十年？",
+      "url": "https://www.zhihu.com/question/2059169435303293805",
+      "hot_value": "165 万热度",
       "index": 17
     },
     {
-      "title": "有什么很有意思的考古事件？",
-      "url": "https://www.zhihu.com/question/327053255",
-      "hot_value": "107 万热度",
+      "title": "iPhone 18 Pro 首销，门店排长队，Pro Max 加价抢，Pro 破发无人收，为什么差距这么大？",
+      "url": "https://www.zhihu.com/question/2084214698082301838",
+      "hot_value": "162 万热度",
       "index": 18
     },
     {
-      "title": "永和豆浆被指擦边，400 万粉授权账号播黑丝、洗澡内容，这算品牌营销的一次「翻车」吗？",
-      "url": "https://www.zhihu.com/question/2084191863120946934",
-      "hot_value": "101 万热度",
+      "title": "沈鼓集团上市 2 日 4 次触发临停，盘中涨近 300%，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2084291813628540735",
+      "hot_value": "157 万热度",
       "index": 19
     },
     {
       "title": "「不打不相识」的对抗路友情可以算是作品中的老套路了，为什么我们还能看得津津有味？",
       "url": "https://www.zhihu.com/question/2071247435016271128",
-      "hot_value": "100 万热度",
+      "hot_value": "145 万热度",
       "index": 20
     },
     {
-      "title": "中国海警回应菲船只碰撞我海警艇，正告菲方立即停止一切侵权挑衅行径，有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2084284024198116550",
-      "hot_value": "99 万热度",
+      "title": "OpenAI 被曝雪藏数百个 AI 数学证明，人类数学研究的意义何在？",
+      "url": "https://www.zhihu.com/question/2084194257187902845",
+      "hot_value": "132 万热度",
       "index": 21
     },
     {
-      "title": "如何评价原神霜精村落的设定？",
-      "url": "https://www.zhihu.com/question/2084255258474199022",
-      "hot_value": "98 万热度",
+      "title": "免疫系统以前没见过一种新病毒，为什么第一次遇到也能马上开始反击？",
+      "url": "https://www.zhihu.com/question/2081758182842671215",
+      "hot_value": "125 万热度",
       "index": 22
     },
     {
-      "title": "更大的超级乌龙来了，亚运会曲棍球比赛，主办方将朝鲜国歌错当成韩国国歌播放，韩国计划抗议，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2084320053546022092",
-      "hot_value": "88 万热度",
+      "title": "为什么有些家长会告诫孩子，尽量不要找单亲家庭长大的孩子结婚？",
+      "url": "https://www.zhihu.com/question/281120918",
+      "hot_value": "109 万热度",
       "index": 23
     },
     {
-      "title": "姐姐姐夫答应我上大学送我电脑，现在说只给 5000 块钱，这应该吗？",
-      "url": "https://www.zhihu.com/question/2083872661831263836",
-      "hot_value": "84 万热度",
+      "title": "中国越野跑选手赵家驹夺冠后称不再挑战超长距离，如何看待他这一表态？",
+      "url": "https://www.zhihu.com/question/2084210155529429243",
+      "hot_value": "108 万热度",
       "index": 24
     },
     {
-      "title": "今年前 8 个月全国上线微短剧 43 万部，其中 AI 剧占比超九成，广电总局表示要大力扶持真人剧，透露哪些信号？",
-      "url": "https://www.zhihu.com/question/2083887492047036761",
-      "hot_value": "77 万热度",
+      "title": "日元加息 25 个基点，为 31 年来最高水平，为何日元汇率不涨反跌？",
+      "url": "https://www.zhihu.com/question/2084242405985986065",
+      "hot_value": "107 万热度",
       "index": 25
     },
     {
-      "title": "如何看待住房城乡建设部称「我国房地产进入存量时代」？未来房地产行业将如何发展？房价如何变化？",
-      "url": "https://www.zhihu.com/question/2084226545174962249",
-      "hot_value": "74 万热度",
+      "title": "为什么英格兰不闹独立？",
+      "url": "https://www.zhihu.com/question/2084092013524395286",
+      "hot_value": "98 万热度",
       "index": 26
     },
     {
-      "title": "为什么单纯陈列学术资料，很难让普通伪史论信徒接受？伪史论的传播机制是否更接近一种「精神胜利叙事」？",
-      "url": "https://www.zhihu.com/question/2083835150538896228",
-      "hot_value": "73 万热度",
+      "title": "如何评价第 43 届全国中学生物理竞赛复赛？",
+      "url": "https://www.zhihu.com/question/665891010",
+      "hot_value": "98 万热度",
       "index": 27
     },
     {
-      "title": "『教师不敢惩戒学生』是好事还是坏事？",
-      "url": "https://www.zhihu.com/question/2069539293387920615",
-      "hot_value": "72 万热度",
+      "title": "永和豆浆被指擦边，400 万粉授权账号播黑丝、洗澡内容，这算品牌营销的一次「翻车」吗？",
+      "url": "https://www.zhihu.com/question/2084191863120946934",
+      "hot_value": "97 万热度",
       "index": 28
     },
     {
-      "title": "印度媒体吐槽名古屋亚运会「要是换成印度这么干，早就被骂翻成全球丑闻了」，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2083986747210166982",
-      "hot_value": "70 万热度",
+      "title": "沙特发现 1.1 亿吨稀土铀超级矿，对全球稀土及能源市场意味着什么？",
+      "url": "https://www.zhihu.com/question/2083296809175233530",
+      "hot_value": "94 万热度",
       "index": 29
     },
     {
-      "title": "真实合理的太空战争会是什么样子的呢？",
-      "url": "https://www.zhihu.com/question/281802414",
-      "hot_value": "68 万热度",
+      "title": "睡觉时将双手举过头顶的「投降式」睡姿，其实是身体在求救，这是真的吗？会带来哪些影响？怎样的睡姿最科学？",
+      "url": "https://www.zhihu.com/question/2083956845534605480",
+      "hot_value": "88 万热度",
       "index": 30
     }
   ]

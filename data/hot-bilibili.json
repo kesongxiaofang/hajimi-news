@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-19T01:24:07Z",
+  "update_time": "2026-09-19T06:14:07Z",
   "count": 30,
   "list": [
     {
-      "title": "256G变512G再变1T，手机存储为什么永远不够？【差评君】",
-      "url": "https://www.bilibili.com/video/BV1fpej6cE3N",
-      "hot_value": "921145播放",
-      "index": 1
-    },
-    {
-      "title": "【我在现代当幽差】EP03 因果 【UP动画】【HiShorts!XupdreamAl短片大赛-剧情单元】",
-      "url": "https://www.bilibili.com/video/BV1wue26pE7Y",
-      "hot_value": "409364播放",
-      "index": 2
-    },
-    {
       "title": "1s~1h冰冻螺蛳粉挑战",
       "url": "https://www.bilibili.com/video/BV1ZbY26yECF",
-      "hot_value": "2106243播放",
-      "index": 3
-    },
-    {
-      "title": "Tropical fruit slicing animation",
-      "url": "https://www.bilibili.com/video/BV1ZueH6LEa6",
-      "hot_value": "1543589播放",
-      "index": 4
-    },
-    {
-      "title": "【纪录片】生命奇观2 01 内蒙古高原",
-      "url": "https://www.bilibili.com/video/BV1PUej65E41",
-      "hot_value": "3599158播放",
-      "index": 5
-    },
-    {
-      "title": "男生的生活 VS 女生的生活",
-      "url": "https://www.bilibili.com/video/BV1yJe16dEz2",
-      "hot_value": "294992播放",
-      "index": 6
-    },
-    {
-      "title": "兵马俑捡到游客手机，结果没想到......",
-      "url": "https://www.bilibili.com/video/BV1Uhey6bET7",
-      "hot_value": "2122582播放",
-      "index": 7
-    },
-    {
-      "title": "【奥术之贼01】法师vs重甲，原创西幻cg影片",
-      "url": "https://www.bilibili.com/video/BV1jve36mECs",
-      "hot_value": "414161播放",
-      "index": 8
-    },
-    {
-      "title": "【徐静雨】亚运会男篮不敌日本二队，全方位差距，根本打不过！",
-      "url": "https://www.bilibili.com/video/BV1Uee26NEMy",
-      "hot_value": "495549播放",
-      "index": 9
-    },
-    {
-      "title": "《埃 及 点 子 王》",
-      "url": "https://www.bilibili.com/video/BV1H4ew6AErN",
-      "hot_value": "2733004播放",
-      "index": 10
-    },
-    {
-      "title": "《镜头之后#7》——老八",
-      "url": "https://www.bilibili.com/video/BV1xKeU6AETz",
-      "hot_value": "187191播放",
-      "index": 11
-    },
-    {
-      "title": "中央日报：日本可能确实是亚运会最烂东道主",
-      "url": "https://www.bilibili.com/video/BV1Npem6YEZf",
-      "hot_value": "594867播放",
-      "index": 12
-    },
-    {
-      "title": "变  形  强  强 【B站笑点大赛】",
-      "url": "https://www.bilibili.com/video/BV1jaer6wEWm",
-      "hot_value": "487282播放",
-      "index": 13
-    },
-    {
-      "title": "琵琶曲丨悟空 VS 如来",
-      "url": "https://www.bilibili.com/video/BV14Xe36KERF",
-      "hot_value": "1479197播放",
-      "index": 14
-    },
-    {
-      "title": "俺叫蔓小迪，一坨立誓成为”救世主“的泡沫💪！",
-      "url": "https://www.bilibili.com/video/BV1xCej6mER6",
-      "hot_value": "3050867播放",
-      "index": 15
-    },
-    {
-      "title": "“当确实型人格遇上反驳型人格”",
-      "url": "https://www.bilibili.com/video/BV1rYYa61E3T",
-      "hot_value": "2522388播放",
-      "index": 16
-    },
-    {
-      "title": "《篡改正史 | 正史改竄》MV：本案，审查不合格【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV15Be361EbR",
-      "hot_value": "710335播放",
-      "index": 17
-    },
-    {
-      "title": "重返渴望现场｜百事可乐音乐盛典完整回放正式上线！",
-      "url": "https://www.bilibili.com/video/BV1uKY26hETJ",
-      "hot_value": "6841797播放",
-      "index": 18
-    },
-    {
-      "title": "重生一次，我还是选她【01-11】【完结】",
-      "url": "https://www.bilibili.com/video/BV1xoeC6XESQ",
-      "hot_value": "113479播放",
-      "index": 19
-    },
-    {
-      "title": "第二赛季更新前瞻PV「奥托皮亚·地下之王」",
-      "url": "https://www.bilibili.com/video/BV1A2ec68ENE",
-      "hot_value": "1042453播放",
-      "index": 20
-    },
-    {
-      "title": "“青山作证水为媒，白头到老也无悔。”",
-      "url": "https://www.bilibili.com/video/BV1ytYC6UEnR",
-      "hot_value": "1378861播放",
-      "index": 21
-    },
-    {
-      "title": "听说你最近一段时间一直在找我？【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1Yieu6uEUU",
-      "hot_value": "2110827播放",
-      "index": 22
-    },
-    {
-      "title": "反骨娘娘团：胖橘宜修出门，娘娘团放肆嗨",
-      "url": "https://www.bilibili.com/video/BV124eK6mE5U",
-      "hot_value": "1179533播放",
-      "index": 23
-    },
-    {
-      "title": "《虱子大开口》",
-      "url": "https://www.bilibili.com/video/BV12Yeg6FE9q",
-      "hot_value": "1598995播放",
-      "index": 24
-    },
-    {
-      "title": "这个小学生用烂梗骂人，惹怒7.8万人，满嘴烂梗的小学生，本质上就是油腻老登!",
-      "url": "https://www.bilibili.com/video/BV1uaeA6mEDv",
-      "hot_value": "2687032播放",
-      "index": 25
-    },
-    {
-      "title": "揭秘硫磺竹笋，二氧化硫含量惊人，这样的竹笋能吃吗？恳请当地彻查硫磺竹笋，保障食品安全",
-      "url": "https://www.bilibili.com/video/BV1T2er6QE4b",
-      "hot_value": "695079播放",
-      "index": 26
+      "hot_value": "2438491播放",
+      "index": 1
     },
     {
       "title": "《你爸带你忆苦思甜》",
       "url": "https://www.bilibili.com/video/BV1Y4ec6VEFc",
-      "hot_value": "2141648播放",
+      "hot_value": "2709720播放",
+      "index": 2
+    },
+    {
+      "title": "【奥术之贼01】法师vs重甲，原创西幻cg影片",
+      "url": "https://www.bilibili.com/video/BV1jve36mECs",
+      "hot_value": "951268播放",
+      "index": 3
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第16集【总第192集】",
+      "url": "https://www.bilibili.com/video/BV1RxeU6EEah",
+      "hot_value": "1822593播放",
+      "index": 4
+    },
+    {
+      "title": "变  形  强  强 【B站笑点大赛】",
+      "url": "https://www.bilibili.com/video/BV1jaer6wEWm",
+      "hot_value": "821363播放",
+      "index": 5
+    },
+    {
+      "title": "白人的快乐老家怎么靠中国找到了自己的路？【东非03丨肯尼亚】",
+      "url": "https://www.bilibili.com/video/BV1YDem6VEzC",
+      "hot_value": "227882播放",
+      "index": 6
+    },
+    {
+      "title": "【招笑版】新植物12:愣大菇",
+      "url": "https://www.bilibili.com/video/BV1kveS6wE2S",
+      "hot_value": "483128播放",
+      "index": 7
+    },
+    {
+      "title": "《镜头之后#7》——老八",
+      "url": "https://www.bilibili.com/video/BV1xKeU6AETz",
+      "hot_value": "532755播放",
+      "index": 8
+    },
+    {
+      "title": "《虱子大开口》",
+      "url": "https://www.bilibili.com/video/BV12Yeg6FE9q",
+      "hot_value": "2037574播放",
+      "index": 9
+    },
+    {
+      "title": "【纪录片】中国救护2 01 在抵达之前",
+      "url": "https://www.bilibili.com/video/BV1REey6qEGG",
+      "hot_value": "665622播放",
+      "index": 10
+    },
+    {
+      "title": "兵马俑捡到游客手机，结果没想到......",
+      "url": "https://www.bilibili.com/video/BV1Uhey6bET7",
+      "hot_value": "2666150播放",
+      "index": 11
+    },
+    {
+      "title": "256G变512G再变1T，手机存储为什么永远不够？【差评君】",
+      "url": "https://www.bilibili.com/video/BV1fpej6cE3N",
+      "hot_value": "1421358播放",
+      "index": 12
+    },
+    {
+      "title": "我是美国穷人家的孩子啊啊啊啊 !",
+      "url": "https://www.bilibili.com/video/BV1sxem68Eqa",
+      "hot_value": "318381播放",
+      "index": 13
+    },
+    {
+      "title": "【我在现代当幽差】EP03 因果 【UP动画】【HiShorts!XupdreamAl短片大赛-剧情单元】",
+      "url": "https://www.bilibili.com/video/BV1wue26pE7Y",
+      "hot_value": "692476播放",
+      "index": 14
+    },
+    {
+      "title": "棋逢对手",
+      "url": "https://www.bilibili.com/video/BV1Z3eg65EkS",
+      "hot_value": "447353播放",
+      "index": 15
+    },
+    {
+      "title": "大禹看了沉默，愚公看了流泪",
+      "url": "https://www.bilibili.com/video/BV1fYes6xEmq",
+      "hot_value": "6394671播放",
+      "index": 16
+    },
+    {
+      "title": "国内唯一合法狩猎？探秘国内最稀有职业01【荒野屠夫篇】",
+      "url": "https://www.bilibili.com/video/BV1sYe66kEUi",
+      "hot_value": "512394播放",
+      "index": 17
+    },
+    {
+      "title": "Tropical fruit slicing animation",
+      "url": "https://www.bilibili.com/video/BV1ZueH6LEa6",
+      "hot_value": "1956594播放",
+      "index": 18
+    },
+    {
+      "title": "新三国up锐评神探狄仁杰17：使团惊魂案大结局",
+      "url": "https://www.bilibili.com/video/BV1J9e26pEcb",
+      "hot_value": "166132播放",
+      "index": 19
+    },
+    {
+      "title": "揭秘硫磺竹笋，二氧化硫含量惊人，这样的竹笋能吃吗？恳请当地彻查硫磺竹笋，保障食品安全",
+      "url": "https://www.bilibili.com/video/BV1T2er6QE4b",
+      "hot_value": "834204播放",
+      "index": 20
+    },
+    {
+      "title": "极寒高温轮番来袭！高空缆车该如何扛过天灾！！「缆车惊变100天#3」",
+      "url": "https://www.bilibili.com/video/BV1yUeU6YENK",
+      "hot_value": "164087播放",
+      "index": 21
+    },
+    {
+      "title": "“挥笔生花问桀骜 也敢与日月争高”",
+      "url": "https://www.bilibili.com/video/BV1WgeN66EAe",
+      "hot_value": "669013播放",
+      "index": 22
+    },
+    {
+      "title": "俺叫蔓小迪，一坨立誓成为”救世主“的泡沫💪！",
+      "url": "https://www.bilibili.com/video/BV1xCej6mER6",
+      "hot_value": "3355828播放",
+      "index": 23
+    },
+    {
+      "title": "这个小学生用烂梗骂人，惹怒7.8万人，满嘴烂梗的小学生，本质上就是油腻老登!",
+      "url": "https://www.bilibili.com/video/BV1uaeA6mEDv",
+      "hot_value": "3763914播放",
+      "index": 24
+    },
+    {
+      "title": "G8烧了，用刀割，这样真能稳定吗",
+      "url": "https://www.bilibili.com/video/BV1pbem6tEW8",
+      "hot_value": "352505播放",
+      "index": 25
+    },
+    {
+      "title": "反骨娘娘团：胖橘宜修出门，娘娘团放肆嗨",
+      "url": "https://www.bilibili.com/video/BV124eK6mE5U",
+      "hot_value": "1507758播放",
+      "index": 26
+    },
+    {
+      "title": "复仇者联盟内心独白belike",
+      "url": "https://www.bilibili.com/video/BV14Hem6AEah",
+      "hot_value": "562224播放",
       "index": 27
     },
     {
-      "title": "作者更新大结局！童年完结！4399的二战前线2大结局居然是这样！",
-      "url": "https://www.bilibili.com/video/BV1jve161ExD",
-      "hot_value": "165295播放",
+      "title": "永远只拿第四名的孩子，该如何教育呢",
+      "url": "https://www.bilibili.com/video/BV1AdeT6mEvu",
+      "hot_value": "483652播放",
       "index": 28
     },
     {
-      "title": "互相求婚？美国女孩和我为什么要这样做",
-      "url": "https://www.bilibili.com/video/BV1Nqeg6tEBo",
-      "hot_value": "795912播放",
+      "title": "天下无双！",
+      "url": "https://www.bilibili.com/video/BV1tJeS6GEdi",
+      "hot_value": "210078播放",
       "index": 29
     },
     {
-      "title": "甄姬：没见第一波线，第二波直接来8个？！",
-      "url": "https://www.bilibili.com/video/BV1VfeJ6PE12",
-      "hot_value": "1990015播放",
+      "title": "“当确实型人格遇上反驳型人格”",
+      "url": "https://www.bilibili.com/video/BV1rYYa61E3T",
+      "hot_value": "2827281播放",
       "index": 30
     }
   ]
