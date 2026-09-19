@@ -1,126 +1,126 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-09-19T11:18:24Z",
+  "update_time": "2026-09-19T14:36:29Z",
   "count": 20,
   "list": [
-    {
-      "title": "中国男篮不敌日本男篮，未能晋级亚运男篮决赛",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34097694",
-      "hot_value": "",
-      "index": 1
-    },
-    {
-      "title": "涉乒乓球跳水领域恶意拉踩、公然侮辱等，5起网暴运动员案例公布",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34097435",
-      "hot_value": "",
-      "index": 2
-    },
-    {
-      "title": "娃哈哈致歉：补缴虎林公司员工住房公积金，将对集团员工权益保障开展专项排查",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34097267",
-      "hot_value": "",
-      "index": 3
-    },
-    {
-      "title": "长江武汉段驳船倾倒黑色泥状物调查结果公布：11人被追责",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34097799",
-      "hot_value": "",
-      "index": 4
-    },
-    {
-      "title": "为压缩成本安排运动员住邮轮、集装箱房等，亚奥理事会回应住宿条件争议",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34097432",
-      "hot_value": "",
-      "index": 5
-    },
-    {
-      "title": "媒体称欧盟希中国自愿限制混动汽车对欧出口，商务部：坚决反对",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34098607",
-      "hot_value": "",
-      "index": 6
-    },
     {
       "title": "“投名状”被美国退回后：万亿矿产在手，塔利班为何仍难靠经济“破局”？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34094970",
       "hot_value": "",
-      "index": 7
+      "index": 1
     },
     {
       "title": "专访｜“我追求的痛苦让我强大”，破纪录夺冠背后，赵家驹咬紧牙关翻越那座山",
       "url": "https://www.thepaper.cn/newsDetail_forward_34102721",
       "hot_value": "",
-      "index": 8
-    },
-    {
-      "title": "飞猪同程途家美团回应被查：全面落实监管要求",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34103142",
-      "hot_value": "",
-      "index": 9
-    },
-    {
-      "title": "《交锋》好看，说到底离不开这群人",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34097351",
-      "hot_value": "",
-      "index": 10
-    },
-    {
-      "title": "郭士强答澎湃新闻：我从不给自己打分",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34098317",
-      "hot_value": "",
-      "index": 11
-    },
-    {
-      "title": "评论｜中国男篮，已经没有“不能输”的比赛了",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34103551",
-      "hot_value": "",
-      "index": 12
-    },
-    {
-      "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34102730",
-      "hot_value": "",
-      "index": 13
+      "index": 2
     },
     {
       "title": "菲船十分钟内两次挑衅我海警艇，现场视频还原真相",
       "url": "https://www.thepaper.cn/newsDetail_forward_34104002",
       "hot_value": "",
-      "index": 14
+      "index": 3
+    },
+    {
+      "title": "《交锋》好看，说到底离不开这群人",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34097351",
+      "hot_value": "",
+      "index": 4
+    },
+    {
+      "title": "媒体：两三个月内彻底倒闭？西贝辟谣称目前全国门店均正常运营",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34104097",
+      "hot_value": "",
+      "index": 5
+    },
+    {
+      "title": "言短意长｜“最年长讲师”逝世为何引关注",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34103535",
+      "hot_value": "",
+      "index": 6
+    },
+    {
+      "title": "飞猪同程途家美团回应被查：全面落实监管要求",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34103142",
+      "hot_value": "",
+      "index": 7
+    },
+    {
+      "title": "评论｜中国男篮，已经没有“不能输”的比赛了",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34103551",
+      "hot_value": "",
+      "index": 8
+    },
+    {
+      "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34102730",
+      "hot_value": "",
+      "index": 9
+    },
+    {
+      "title": "63岁湖南师大退休教师龚德才逝世，曾因只讲课不评职称在网上走红",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34103137",
+      "hot_value": "",
+      "index": 10
     },
     {
       "title": "卖豆浆前主播先换上黑丝，“擦边”式营销真没法治了吗",
       "url": "https://www.thepaper.cn/newsDetail_forward_34099157",
       "hot_value": "",
-      "index": 15
+      "index": 11
     },
     {
       "title": "特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》",
       "url": "https://www.thepaper.cn/newsDetail_forward_34102731",
       "hot_value": "",
-      "index": 16
+      "index": 12
     },
     {
       "title": "体坛联播｜C罗入选新一期国家队，切尔西半场崩盘三球败北",
       "url": "https://www.thepaper.cn/newsDetail_forward_34102036",
       "hot_value": "",
-      "index": 17
+      "index": 13
     },
     {
-      "title": "宁波“能看海的地铁”免费试乘将遇周末，运营方再次提醒错峰出行",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34097813",
+      "title": "贵州毕节一中学老师给女学生发骚扰信息，警方和纪委已介入",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34103562",
       "hot_value": "",
-      "index": 18
-    },
-    {
-      "title": "关联公司涉民间借贷纠纷，万通创始人冯仑被限制高消费",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34097425",
-      "hot_value": "",
-      "index": 19
+      "index": 14
     },
     {
       "title": "商务部新闻发言人就中美经贸磋商有关问题答记者问",
       "url": "https://www.thepaper.cn/newsDetail_forward_34102725",
+      "hot_value": "",
+      "index": 15
+    },
+    {
+      "title": "深观察｜上海长宁，何以成为“全球最酷街区”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34103554",
+      "hot_value": "",
+      "index": 16
+    },
+    {
+      "title": "支持率创新低，韩总统李在明向国民致歉：不连任、不参战中东",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34099160",
+      "hot_value": "",
+      "index": 17
+    },
+    {
+      "title": "《杭州市支持低空经济高质量发展的若干措施》将废止，已发布通知征求意见",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34103463",
+      "hot_value": "",
+      "index": 18
+    },
+    {
+      "title": "第二十届亚洲运动会开幕式举行，中国体育代表团来了",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34104384",
+      "hot_value": "",
+      "index": 19
+    },
+    {
+      "title": "四川盐边县突发泥石流已致5人失联，村民：前一晚持续强降雨",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34103145",
       "hot_value": "",
       "index": 20
     }
