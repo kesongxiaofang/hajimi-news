@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-19T17:43:46Z",
+  "update_time": "2026-09-19T19:57:57Z",
   "count": 30,
   "list": [
     {
-      "title": "无人扶我青云志，我自踏雪至山巅，世界赛我们来了！",
-      "url": "https://www.bilibili.com/video/BV1J1eh6kEkm",
-      "hot_value": "318520播放",
+      "title": "《花骨朵》亚细亚旷世奇才/洛天依",
+      "url": "https://www.bilibili.com/video/BV16veP6eEeC",
+      "hot_value": "260343播放",
       "index": 1
     },
     {
       "title": "我们拍到了大翅鲸！",
       "url": "https://www.bilibili.com/video/BV1BWet6FEWk",
-      "hot_value": "572256播放",
+      "hot_value": "622116播放",
       "index": 2
     },
     {
-      "title": "《花骨朵》亚细亚旷世奇才/洛天依",
-      "url": "https://www.bilibili.com/video/BV16veP6eEeC",
-      "hot_value": "228240播放",
+      "title": "新番时光机！十年前的观众都在看什么？「2016年7月篇」泛式",
+      "url": "https://www.bilibili.com/video/BV1FEet6eETy",
+      "hot_value": "693002播放",
       "index": 3
     },
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第16集【总第192集】",
       "url": "https://www.bilibili.com/video/BV1RxeU6EEah",
-      "hot_value": "4263895播放",
+      "hot_value": "4343542播放",
       "index": 4
     },
     {
-      "title": "猜数字游戏（曹刘版）",
-      "url": "https://www.bilibili.com/video/BV1ZUYf6JEfo",
-      "hot_value": "702293播放",
+      "title": "「予明日的叶笺」——《崩坏3》十周年纪念曲",
+      "url": "https://www.bilibili.com/video/BV1uoem6uEw5",
+      "hot_value": "156142播放",
       "index": 5
     },
     {
       "title": "出大问题！房车抛锚！差点渴死在沙漠里！",
       "url": "https://www.bilibili.com/video/BV1Sve26eENf",
-      "hot_value": "729727播放",
+      "hot_value": "766334播放",
       "index": 6
     },
     {
-      "title": "新番时光机！十年前的观众都在看什么？「2016年7月篇」泛式",
-      "url": "https://www.bilibili.com/video/BV1FEet6eETy",
-      "hot_value": "658862播放",
+      "title": "无人扶我青云志，我自踏雪至山巅，世界赛我们来了！",
+      "url": "https://www.bilibili.com/video/BV1J1eh6kEkm",
+      "hot_value": "375228播放",
       "index": 7
     },
     {
-      "title": "「予明日的叶笺」——《崩坏3》十周年纪念曲",
-      "url": "https://www.bilibili.com/video/BV1uoem6uEw5",
-      "hot_value": "138886播放",
+      "title": "猜数字游戏（曹刘版）",
+      "url": "https://www.bilibili.com/video/BV1ZUYf6JEfo",
+      "hot_value": "744690播放",
       "index": 8
     },
     {
-      "title": "舍友把宿舍改造成飞机",
-      "url": "https://www.bilibili.com/video/BV1L1eS6sEqC",
-      "hot_value": "743115播放",
+      "title": "【微电影】星河外卖员：平台战争",
+      "url": "https://www.bilibili.com/video/BV1SveU6GExV",
+      "hot_value": "489837播放",
       "index": 9
     },
     {
       "title": "【纪录片】中国救护2 01 在抵达之前",
       "url": "https://www.bilibili.com/video/BV1REey6qEGG",
-      "hot_value": "2901697播放",
+      "hot_value": "2920740播放",
       "index": 10
-    },
-    {
-      "title": "【微电影】星河外卖员：平台战争",
-      "url": "https://www.bilibili.com/video/BV1SveU6GExV",
-      "hot_value": "464701播放",
-      "index": 11
-    },
-    {
-      "title": "《鸣潮》3.7版本前瞻通讯 | 回顾影像",
-      "url": "https://www.bilibili.com/video/BV1Xoeb6xE8y",
-      "hot_value": "870054播放",
-      "index": 12
-    },
-    {
-      "title": "《崩坏3》十周年庆典特别节目录像",
-      "url": "https://www.bilibili.com/video/BV1aLeb6sEC5",
-      "hot_value": "163492播放",
-      "index": 13
     },
     {
       "title": "【变奏群像篇】第一期 原来你是这样的小熊头！",
       "url": "https://www.bilibili.com/video/BV1W8eS6vET5",
-      "hot_value": "868890播放",
-      "index": 14
+      "hot_value": "902081播放",
+      "index": 11
     },
     {
-      "title": "100万粉丝了，今天花190块狠狠剋一顿",
-      "url": "https://www.bilibili.com/video/BV1Dbe26BExy",
-      "hot_value": "657065播放",
-      "index": 15
+      "title": "G8烧了，用刀割，这样真能稳定吗",
+      "url": "https://www.bilibili.com/video/BV1pbem6tEW8",
+      "hot_value": "1015346播放",
+      "index": 12
     },
     {
-      "title": "【奥术之贼01】法师vs重甲，原创西幻cg影片",
-      "url": "https://www.bilibili.com/video/BV1jve36mECs",
-      "hot_value": "1986170播放",
-      "index": 16
+      "title": "《鸣潮》3.7版本前瞻通讯 | 回顾影像",
+      "url": "https://www.bilibili.com/video/BV1Xoeb6xE8y",
+      "hot_value": "897440播放",
+      "index": 13
     },
     {
       "title": "复仇者联盟内心独白belike",
       "url": "https://www.bilibili.com/video/BV14Hem6AEah",
-      "hot_value": "1199714播放",
-      "index": 17
-    },
-    {
-      "title": "【传奇耐熬王】荒野独居2026👊全球最高规格荒野比赛🔪世界各地绝活哥前来参赛...兔王鹿王鱼王大战！",
-      "url": "https://www.bilibili.com/video/BV1fCeb6NEEy",
-      "hot_value": "187970播放",
-      "index": 18
-    },
-    {
-      "title": "《镜头之后#7》——老八",
-      "url": "https://www.bilibili.com/video/BV1xKeU6AETz",
-      "hot_value": "1061424播放",
-      "index": 19
-    },
-    {
-      "title": "年薪2000万总裁爱上二本实习生？大后果比大结果先来！《早春晴朗》吐槽",
-      "url": "https://www.bilibili.com/video/BV1BNeQ68EGJ",
-      "hot_value": "390384播放",
-      "index": 20
+      "hot_value": "1269301播放",
+      "index": 14
     },
     {
       "title": "特厨探店｜广州到底把做饭研究的多明白？",
       "url": "https://www.bilibili.com/video/BV1JBeS6FEEH",
-      "hot_value": "642926播放",
-      "index": 21
+      "hot_value": "663500播放",
+      "index": 15
     },
     {
-      "title": "果蝇乐园3/捕捉系统，孤雌生殖，变异机制！！",
-      "url": "https://www.bilibili.com/video/BV1BceS6sEkP",
-      "hot_value": "509893播放",
-      "index": 22
+      "title": "年薪2000万总裁爱上二本实习生？大后果比大结果先来！《早春晴朗》吐槽",
+      "url": "https://www.bilibili.com/video/BV1BNeQ68EGJ",
+      "hot_value": "409608播放",
+      "index": 16
     },
     {
-      "title": "《鸣潮》3.7版本PV | 镜锁妄世，心照红尘",
-      "url": "https://www.bilibili.com/video/BV1mKe86JES7",
-      "hot_value": "479437播放",
-      "index": 23
+      "title": "坐在购物车里狂奔！懒虫：荣耀购物车",
+      "url": "https://www.bilibili.com/video/BV17Aeb6YEZE",
+      "hot_value": "398263播放",
+      "index": 17
+    },
+    {
+      "title": "舍友把宿舍改造成飞机",
+      "url": "https://www.bilibili.com/video/BV1L1eS6sEqC",
+      "hot_value": "778412播放",
+      "index": 18
+    },
+    {
+      "title": "天下无双！",
+      "url": "https://www.bilibili.com/video/BV1tJeS6GEdi",
+      "hot_value": "880098播放",
+      "index": 19
     },
     {
       "title": "变  形  强  强 【B站笑点大赛】",
       "url": "https://www.bilibili.com/video/BV1jaer6wEWm",
-      "hot_value": "1336007播放",
+      "hot_value": "1366049播放",
+      "index": 20
+    },
+    {
+      "title": "【互联网入门指南】Github入门",
+      "url": "https://www.bilibili.com/video/BV1Bvem6WERT",
+      "hot_value": "474431播放",
+      "index": 21
+    },
+    {
+      "title": "【传奇耐熬王】荒野独居2026👊全球最高规格荒野比赛🔪世界各地绝活哥前来参赛...兔王鹿王鱼王大战！",
+      "url": "https://www.bilibili.com/video/BV1fCeb6NEEy",
+      "hot_value": "215407播放",
+      "index": 22
+    },
+    {
+      "title": "【我在现代当幽差】EP03 因果 【UP动画】【HiShorts!XupdreamAl短片大赛-剧情单元】",
+      "url": "https://www.bilibili.com/video/BV1wue26pE7Y",
+      "hot_value": "998291播放",
+      "index": 23
+    },
+    {
+      "title": "《鸣潮》3.7版本PV | 镜锁妄世，心照红尘",
+      "url": "https://www.bilibili.com/video/BV1mKe86JES7",
+      "hot_value": "500855播放",
       "index": 24
     },
     {
       "title": "在一千万根稻草中找到一根针，不捞五百万，捞一千万",
       "url": "https://www.bilibili.com/video/BV1GSeS6QE9S",
-      "hot_value": "405629播放",
+      "hot_value": "429835播放",
       "index": 25
     },
     {
-      "title": "“当确实型人格遇上反驳型人格”",
-      "url": "https://www.bilibili.com/video/BV1rYYa61E3T",
-      "hot_value": "3974290播放",
+      "title": "修脚养鼠（上）",
+      "url": "https://www.bilibili.com/video/BV1zceS6sEuK",
+      "hot_value": "1387021播放",
       "index": 26
+    },
+    {
+      "title": "《镜头之后#7》——老八",
+      "url": "https://www.bilibili.com/video/BV1xKeU6AETz",
+      "hot_value": "1087389播放",
+      "index": 27
+    },
+    {
+      "title": "5年前，我们因为它绝交了。5年后，重新来过！",
+      "url": "https://www.bilibili.com/video/BV1Y3eS6mEcC",
+      "hot_value": "697008播放",
+      "index": 28
+    },
+    {
+      "title": "载具⚡机场⚡新故事⚡****！新S0的体验服爆料",
+      "url": "https://www.bilibili.com/video/BV1xPeU6eESW",
+      "hot_value": "598184播放",
+      "index": 29
     },
     {
       "title": "棋逢对手",
       "url": "https://www.bilibili.com/video/BV1Z3eg65EkS",
-      "hot_value": "666459播放",
-      "index": 27
-    },
-    {
-      "title": "G8烧了，用刀割，这样真能稳定吗",
-      "url": "https://www.bilibili.com/video/BV1pbem6tEW8",
-      "hot_value": "985211播放",
-      "index": 28
-    },
-    {
-      "title": "改画哪有不疯的！（第28期）",
-      "url": "https://www.bilibili.com/video/BV1Haem6xE4Z",
-      "hot_value": "650646播放",
-      "index": 29
-    },
-    {
-      "title": "天下无双！",
-      "url": "https://www.bilibili.com/video/BV1tJeS6GEdi",
-      "hot_value": "851606播放",
+      "hot_value": "676378播放",
       "index": 30
     }
   ]
