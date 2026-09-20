@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-09-20T19:36:46Z",
+  "update_time": "2026-09-20T22:08:24Z",
   "count": 30,
   "list": [
     {
       "title": "把配料表中的白砂糖还给我们",
       "url": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E9%85%8D%E6%96%99%E8%A1%A8%E4%B8%AD%E7%9A%84%E7%99%BD%E7%A0%82%E7%B3%96%E8%BF%98%E7%BB%99%E6%88%91%E4%BB%AC%23",
-      "hot_value": "430524",
+      "hot_value": "450322",
       "index": 1
     },
     {
       "title": "披荆斩棘排名",
       "url": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%8E%92%E5%90%8D%23",
-      "hot_value": "124271",
+      "hot_value": "222617",
       "index": 2
     },
     {
       "title": "今起公积金提取场景6变9",
       "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E8%B5%B7%E5%85%AC%E7%A7%AF%E9%87%91%E6%8F%90%E5%8F%96%E5%9C%BA%E6%99%AF6%E5%8F%989%23",
-      "hot_value": "83316",
+      "hot_value": "166147",
       "index": 3
     },
     {
-      "title": "中国足球小将留洋西班牙",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E7%95%99%E6%B4%8B%E8%A5%BF%E7%8F%AD%E7%89%99%23",
-      "hot_value": "79973",
+      "title": "卡宴降30万还得61万",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%AE%B4%E9%99%8D30%E4%B8%87%E8%BF%98%E5%BE%9761%E4%B8%87%23",
+      "hot_value": "80960",
       "index": 4
     },
     {
-      "title": "崔健",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B4%94%E5%81%A5%23",
-      "hot_value": "75371",
+      "title": "吕孟洋西班牙人首秀",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%90%95%E5%AD%9F%E6%B4%8B%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BA%BA%E9%A6%96%E7%A7%80%23",
+      "hot_value": "77405",
       "index": 5
     },
     {
       "title": "章子怡 脸",
       "url": "https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1+%E8%84%B8%23",
-      "hot_value": "74216",
+      "hot_value": "76446",
       "index": 6
     },
     {
-      "title": "冯禧孙乐言冯琳是同班同学",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%A6%A7%E5%AD%99%E4%B9%90%E8%A8%80%E5%86%AF%E7%90%B3%E6%98%AF%E5%90%8C%E7%8F%AD%E5%90%8C%E5%AD%A6%23",
-      "hot_value": "72319",
+      "title": "潘展乐最后一米前都觉得要输了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E6%9C%80%E5%90%8E%E4%B8%80%E7%B1%B3%E5%89%8D%E9%83%BD%E8%A7%89%E5%BE%97%E8%A6%81%E8%BE%93%E4%BA%86%23",
+      "hot_value": "61821",
       "index": 7
+    },
+    {
+      "title": "刘畊宏张卓尔淘汰",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%BC%A0%E5%8D%93%E5%B0%94%E6%B7%98%E6%B1%B0%23",
+      "hot_value": "59197",
+      "index": 8
     },
     {
       "title": "马竞2比1皇马",
       "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%9E2%E6%AF%941%E7%9A%87%E9%A9%AC%23",
-      "hot_value": "67671",
-      "index": 8
-    },
-    {
-      "title": "央妈报道樊振东",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%A6%88%E6%8A%A5%E9%81%93%E6%A8%8A%E6%8C%AF%E4%B8%9C%23",
-      "hot_value": "67610",
+      "hot_value": "58263",
       "index": 9
     },
     {
-      "title": "罗梅罗踩踏贝林厄姆",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%A2%85%E7%BD%97%E8%B8%A9%E8%B8%8F%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%23",
-      "hot_value": "66990",
+      "title": "崔健",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B4%94%E5%81%A5%23",
+      "hot_value": "53009",
       "index": 10
     },
     {
       "title": "张家齐妈妈要求北京买房",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%A6%81%E6%B1%82%E5%8C%97%E4%BA%AC%E4%B9%B0%E6%88%BF%23",
-      "hot_value": "66373",
+      "hot_value": "53008",
       "index": 11
+    },
+    {
+      "title": "疑遭绑架女主播视频中状态涣散",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E9%81%AD%E7%BB%91%E6%9E%B6%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A7%86%E9%A2%91%E4%B8%AD%E7%8A%B6%E6%80%81%E6%B6%A3%E6%95%A3%23",
+      "hot_value": "53003",
+      "index": 12
     },
     {
       "title": "师生恋在在职教师和学生身上不成立",
       "url": "https://s.weibo.com/weibo?q=%23%E5%B8%88%E7%94%9F%E6%81%8B%E5%9C%A8%E5%9C%A8%E8%81%8C%E6%95%99%E5%B8%88%E5%92%8C%E5%AD%A6%E7%94%9F%E8%BA%AB%E4%B8%8A%E4%B8%8D%E6%88%90%E7%AB%8B%23",
-      "hot_value": "65777",
-      "index": 12
+      "hot_value": "53002",
+      "index": 13
     },
     {
       "title": "妈妈送的金项链没挂到张家齐脖子上",
       "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E9%80%81%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%E6%B2%A1%E6%8C%82%E5%88%B0%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%84%96%E5%AD%90%E4%B8%8A%23",
-      "hot_value": "65120",
-      "index": 13
+      "hot_value": "52996",
+      "index": 14
     },
     {
       "title": "张家齐从未见过妈妈送的项链",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E5%A6%88%E5%A6%88%E9%80%81%E7%9A%84%E9%A1%B9%E9%93%BE%23",
-      "hot_value": "64641",
-      "index": 14
-    },
-    {
-      "title": "刘畊宏张卓尔淘汰",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%BC%A0%E5%8D%93%E5%B0%94%E6%B7%98%E6%B1%B0%23",
-      "hot_value": "64484",
+      "hot_value": "52993",
       "index": 15
     },
     {
-      "title": "古巨基苏有朋林心如唱情深深雨濛濛",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%A8%E5%9F%BA%E8%8B%8F%E6%9C%89%E6%9C%8B%E6%9E%97%E5%BF%83%E5%A6%82%E5%94%B1%E6%83%85%E6%B7%B1%E6%B7%B1%E9%9B%A8%E6%BF%9B%E6%BF%9B%23",
-      "hot_value": "62738",
+      "title": "中国足球小将留洋西班牙",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E7%95%99%E6%B4%8B%E8%A5%BF%E7%8F%AD%E7%89%99%23",
+      "hot_value": "52991",
       "index": 16
-    },
-    {
-      "title": "声幻娱乐声明",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A3%B0%E5%B9%BB%E5%A8%B1%E4%B9%90%E5%A3%B0%E6%98%8E%23",
-      "hot_value": "61661",
-      "index": 17
     },
     {
       "title": "打击商K 连锁反应",
       "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%87%BB%E5%95%86K+%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%23",
-      "hot_value": "53868",
+      "hot_value": "50205",
+      "index": 17
+    },
+    {
+      "title": "许兰香嫁给韩梁未必是良缘",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%85%B0%E9%A6%99%E5%AB%81%E7%BB%99%E9%9F%A9%E6%A2%81%E6%9C%AA%E5%BF%85%E6%98%AF%E8%89%AF%E7%BC%98%23",
+      "hot_value": "44461",
       "index": 18
     },
     {
-      "title": "张杰 好听",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0+%E5%A5%BD%E5%90%AC%23",
-      "hot_value": "51952",
+      "title": "亚运会",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%23",
+      "hot_value": "42796",
       "index": 19
     },
     {
-      "title": "潘展乐最后一米前都觉得要输了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E6%9C%80%E5%90%8E%E4%B8%80%E7%B1%B3%E5%89%8D%E9%83%BD%E8%A7%89%E5%BE%97%E8%A6%81%E8%BE%93%E4%BA%86%23",
-      "hot_value": "50907",
+      "title": "央妈报道樊振东",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%A6%88%E6%8A%A5%E9%81%93%E6%A8%8A%E6%8C%AF%E4%B8%9C%23",
+      "hot_value": "42591",
       "index": 20
     },
     {
       "title": "彩礼18.8万快成全国统一价了",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A4%BC18.8%E4%B8%87%E5%BF%AB%E6%88%90%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E4%BB%B7%E4%BA%86%23",
-      "hot_value": "49581",
+      "hot_value": "42477",
       "index": 21
+    },
+    {
+      "title": "年味消失的原因是这样么",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%91%B3%E6%B6%88%E5%A4%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%E8%BF%99%E6%A0%B7%E4%B9%88%23",
+      "hot_value": "41787",
+      "index": 22
     },
     {
       "title": "肯德基 消费者觉得好吃就下架",
       "url": "https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA+%E6%B6%88%E8%B4%B9%E8%80%85%E8%A7%89%E5%BE%97%E5%A5%BD%E5%90%83%E5%B0%B1%E4%B8%8B%E6%9E%B6%23",
-      "hot_value": "48625",
-      "index": 22
-    },
-    {
-      "title": "张卓尔直播哭了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%93%E5%B0%94%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86%23",
-      "hot_value": "46576",
+      "hot_value": "41327",
       "index": 23
-    },
-    {
-      "title": "冯禧事业前景",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%A6%A7%E4%BA%8B%E4%B8%9A%E5%89%8D%E6%99%AF%23",
-      "hot_value": "46348",
-      "index": 24
-    },
-    {
-      "title": "昭珏选手剃寸头",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%98%AD%E7%8F%8F%E9%80%89%E6%89%8B%E5%89%83%E5%AF%B8%E5%A4%B4%23",
-      "hot_value": "45991",
-      "index": 25
-    },
-    {
-      "title": "湾区升明月",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%23",
-      "hot_value": "45259",
-      "index": 26
-    },
-    {
-      "title": "徐洁儿艾特错王俊凯",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%B4%81%E5%84%BF%E8%89%BE%E7%89%B9%E9%94%99%E7%8E%8B%E4%BF%8A%E5%87%AF%23",
-      "hot_value": "45144",
-      "index": 27
     },
     {
       "title": "永远不要用力走向任何人",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%A6%81%E7%94%A8%E5%8A%9B%E8%B5%B0%E5%90%91%E4%BB%BB%E4%BD%95%E4%BA%BA%23",
-      "hot_value": "44798",
-      "index": 28
+      "hot_value": "41089",
+      "index": 24
     },
     {
-      "title": "已婚女子与男子开房次日全裸身亡",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%E4%B8%8E%E7%94%B7%E5%AD%90%E5%BC%80%E6%88%BF%E6%AC%A1%E6%97%A5%E5%85%A8%E8%A3%B8%E8%BA%AB%E4%BA%A1%23",
-      "hot_value": "44550",
-      "index": 29
+      "title": "人怎么能说出这么有力量感的话",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%80%8E%E4%B9%88%E8%83%BD%E8%AF%B4%E5%87%BA%E8%BF%99%E4%B9%88%E6%9C%89%E5%8A%9B%E9%87%8F%E6%84%9F%E7%9A%84%E8%AF%9D%23",
+      "hot_value": "40645",
+      "index": 25
+    },
+    {
+      "title": "声幻娱乐声明",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A3%B0%E5%B9%BB%E5%A8%B1%E4%B9%90%E5%A3%B0%E6%98%8E%23",
+      "hot_value": "38918",
+      "index": 26
+    },
+    {
+      "title": "40岁才是真正的战场",
+      "url": "https://s.weibo.com/weibo?q=%2340%E5%B2%81%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%88%98%E5%9C%BA%23",
+      "hot_value": "36578",
+      "index": 27
     },
     {
       "title": "白鹿保镖都笑出花来了",
       "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%BF%9D%E9%95%96%E9%83%BD%E7%AC%91%E5%87%BA%E8%8A%B1%E6%9D%A5%E4%BA%86%23",
-      "hot_value": "41760",
+      "hot_value": "36450",
+      "index": 28
+    },
+    {
+      "title": "古巨基苏有朋林心如唱情深深雨濛濛",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%A8%E5%9F%BA%E8%8B%8F%E6%9C%89%E6%9C%8B%E6%9E%97%E5%BF%83%E5%A6%82%E5%94%B1%E6%83%85%E6%B7%B1%E6%B7%B1%E9%9B%A8%E6%BF%9B%E6%BF%9B%23",
+      "hot_value": "36443",
+      "index": 29
+    },
+    {
+      "title": "中国队的金牌速度",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%9A%84%E9%87%91%E7%89%8C%E9%80%9F%E5%BA%A6%23",
+      "hot_value": "36433",
       "index": 30
     }
   ]
