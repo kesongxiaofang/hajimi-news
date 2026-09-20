@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-20T09:55:57Z",
+  "update_time": "2026-09-20T13:56:24Z",
   "count": 30,
   "list": [
     {
+      "title": "亚运会男篮铜牌赛，中国男篮 70-79 伊朗男篮，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2084935724428744525",
+      "hot_value": "940 万热度",
+      "index": 1
+    },
+    {
       "title": "宁波夜市砸瓜事件，双方已签订调解协议书，动手一方赔偿西瓜摊主 6 万多元，怎样看待这一结果？",
       "url": "https://www.zhihu.com/question/2084769326041493802",
-      "hot_value": "775 万热度",
-      "index": 1
+      "hot_value": "415 万热度",
+      "index": 2
     },
     {
       "title": "老板患上了 AI 狂热症，连决策都让 AI 来做，感觉公司快完蛋了，员工该怎么办？",
       "url": "https://www.zhihu.com/question/2084250106556067853",
-      "hot_value": "619 万热度",
-      "index": 2
-    },
-    {
-      "title": "亚运会男篮铜牌赛，中国男篮 70-79 伊朗男篮，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2084935724428744525",
-      "hot_value": "474 万热度",
+      "hot_value": "332 万热度",
       "index": 3
     },
     {
-      "title": "如何看待《我的朋友很少》作者平坂读因财富自由宣布退休，不再写轻小说？你对其作品有哪些记忆和评价？",
-      "url": "https://www.zhihu.com/question/2084250038645912931",
-      "hot_value": "333 万热度",
+      "title": "手机掉在网约车上，司机要价五六百才肯归还，我该如何维权？",
+      "url": "https://www.zhihu.com/question/362637142",
+      "hot_value": "323 万热度",
       "index": 4
+    },
+    {
+      "title": "如何评价河南 40 岁数学老师自费 300 万拍的电影票房仅有 2.4 万元？普通人能做电影梦吗？",
+      "url": "https://www.zhihu.com/question/2084720091229378320",
+      "hot_value": "256 万热度",
+      "index": 5
     },
     {
       "title": "如何看待潮州一腊味厂使用死因不明的猪肉加工肉脯，经检测猪病毒阳性，警方已立案？会对健康造成什么影响？",
       "url": "https://www.zhihu.com/question/2084958756933312813",
-      "hot_value": "205 万热度",
-      "index": 5
-    },
-    {
-      "title": "我觉得牛排不如酱牛肉好吃，是我太粗鄙了吗？",
-      "url": "https://www.zhihu.com/question/426196448",
-      "hot_value": "196 万热度",
+      "hot_value": "224 万热度",
       "index": 6
     },
     {
       "title": "许嵩与冯禧官宣结婚，女方是其多年粉丝且两人相差 14 岁，你如何看待这对「偶像与粉丝」的结合？",
       "url": "https://www.zhihu.com/question/2084756540834301461",
-      "hot_value": "192 万热度",
+      "hot_value": "215 万热度",
       "index": 7
     },
     {
       "title": "司机好心补路、拉绳警示，导致路过女子被绳索勒颈身亡，被以过失致人死亡罪逮捕，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2083518548656252894",
-      "hot_value": "189 万热度",
+      "hot_value": "210 万热度",
       "index": 8
     },
     {
-      "title": "《潜伏》中，晚秋最后也去了台湾，和余则成假扮夫妻，站长不会怀疑吗？",
-      "url": "https://www.zhihu.com/question/2082949094834808138",
-      "hot_value": "187 万热度",
+      "title": "如何看待 2026 年 9 月 20 日，ZCode 承诺开源超过 1 天但还没开源？",
+      "url": "https://www.zhihu.com/question/2084937180724703535",
+      "hot_value": "206 万热度",
       "index": 9
-    },
-    {
-      "title": "iG 时隔 7 年再次晋级全球总决赛，你对他们的表现有哪些期待？",
-      "url": "https://www.zhihu.com/question/2084746139106894150",
-      "hot_value": "152 万热度",
-      "index": 10
-    },
-    {
-      "title": "理记炮轰罗永浩毁掉贾国龙 30 年心血，真的是这样吗？这场风波中，贾国龙和罗永浩谁的责任更大？",
-      "url": "https://www.zhihu.com/question/2084971910392013826",
-      "hot_value": "144 万热度",
-      "index": 11
-    },
-    {
-      "title": "手机掉在网约车上，司机要价五六百才肯归还，我该如何维权？",
-      "url": "https://www.zhihu.com/question/362637142",
-      "hot_value": "136 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何看待经济学人此前「发达国家正滑向财政危机」的报道？历史上出现财政危机的原因主要有哪些？",
-      "url": "https://www.zhihu.com/question/2084940384157659685",
-      "hot_value": "128 万热度",
-      "index": 13
-    },
-    {
-      "title": "苏超八强席位出炉，无锡、南通、常州排名前三，南京、淮安等队无缘淘汰赛，怎样看待这一排名？",
-      "url": "https://www.zhihu.com/question/2084767344002167078",
-      "hot_value": "120 万热度",
-      "index": 14
-    },
-    {
-      "title": "曝西贝已起诉罗永浩，案件即将开庭，真实性多大？若属实，西贝能告赢吗？",
-      "url": "https://www.zhihu.com/question/2085028523178030639",
-      "hot_value": "117 万热度",
-      "index": 15
     },
     {
       "title": "佟丽娅拒绝参与行业奖项评选，不愿承受获奖后非议，如何看待这一选择？作品口碑能否替代奖项认可？",
       "url": "https://www.zhihu.com/question/2084284624364991587",
-      "hot_value": "114 万热度",
-      "index": 16
+      "hot_value": "204 万热度",
+      "index": 10
     },
     {
-      "title": "为什么沙漠地区的人在极热的环境下，反而穿更多的衣服？",
-      "url": "https://www.zhihu.com/question/2084034367777674527",
-      "hot_value": "111 万热度",
-      "index": 17
-    },
-    {
-      "title": "亚运会男足小组赛，中国 U23 0-0 伊朗 U23，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2084935818477621596",
-      "hot_value": "109 万热度",
-      "index": 18
+      "title": "有观点称于东来正被「大家长」人设绑架，是这样吗？为什么宠员工叙事曾让他圈粉无数，如今相同话术却被嘲？",
+      "url": "https://www.zhihu.com/question/2084357331882661072",
+      "hot_value": "202 万热度",
+      "index": 11
     },
     {
       "title": "名古屋亚运会为啥办得这么抠搜？是真没钱，还是背后有啥心思？",
       "url": "https://www.zhihu.com/question/2084971972882948334",
+      "hot_value": "200 万热度",
+      "index": 12
+    },
+    {
+      "title": "《潜伏》中，晚秋最后也去了台湾，和余则成假扮夫妻，站长不会怀疑吗？",
+      "url": "https://www.zhihu.com/question/2082949094834808138",
+      "hot_value": "198 万热度",
+      "index": 13
+    },
+    {
+      "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
+      "url": "https://www.zhihu.com/question/2084432664535241222",
+      "hot_value": "135 万热度",
+      "index": 14
+    },
+    {
+      "title": "如何评价中国男篮不敌伊朗无缘奖牌，以亚运会第 4 名惨淡收官，创历史第二差成绩？中国男篮的问题到底出在哪？",
+      "url": "https://www.zhihu.com/question/2085058316040922203",
+      "hot_value": "116 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何评价孙艺珍、池昌旭主演的韩剧《挑情丑闻》？",
+      "url": "https://www.zhihu.com/question/2084190736447291548",
       "hot_value": "104 万热度",
+      "index": 16
+    },
+    {
+      "title": "编程领域「代码能跑就不要动它」，是普遍真理还是技术债借口？",
+      "url": "https://www.zhihu.com/question/2082262327714435225",
+      "hot_value": "96 万热度",
+      "index": 17
+    },
+    {
+      "title": "如果你月薪 5w，你还会吃 20 元的快餐吗？",
+      "url": "https://www.zhihu.com/question/2084822512819614559",
+      "hot_value": "88 万热度",
+      "index": 18
+    },
+    {
+      "title": "如何看待《我的朋友很少》作者平坂读因财富自由宣布退休，不再写轻小说？你对其作品有哪些记忆和评价？",
+      "url": "https://www.zhihu.com/question/2084250038645912931",
+      "hot_value": "76 万热度",
       "index": 19
     },
     {
       "title": "北大复旦校长警告 AI 依赖，对教育意味着什么？该如何应对过度依赖 AI 导致的知识虚假掌握？",
       "url": "https://www.zhihu.com/question/2084620847411681228",
-      "hot_value": "101 万热度",
+      "hot_value": "71 万热度",
       "index": 20
     },
     {
-      "title": "伊朗消息人士称美方称准备好与伊朗谈判且态度认真，伊朗要求美方重回伊斯兰堡谅解备忘录，这次和谈能落地吗？",
-      "url": "https://www.zhihu.com/question/2084779927543587159",
-      "hot_value": "100 万热度",
+      "title": "二次元的常识你觉得有哪些?",
+      "url": "https://www.zhihu.com/question/9093333570",
+      "hot_value": "66 万热度",
       "index": 21
     },
     {
-      "title": "为什么很多过了 35 岁的女性会突然拼命想要孩子？",
-      "url": "https://www.zhihu.com/question/2082375926558599005",
-      "hot_value": "99 万热度",
+      "title": "如何评价 2026 年 9 月米哈游《崩坏星穹铁道》4.6 版本前瞻直播【月升之前，与兽共舞】？",
+      "url": "https://www.zhihu.com/question/2084011857619296573",
+      "hot_value": "66 万热度",
       "index": 22
     },
     {
-      "title": "S16 全球总决赛 LPL 的四支队伍都能走多远？冠军有希望吗？",
-      "url": "https://www.zhihu.com/question/2084746729463575889",
-      "hot_value": "98 万热度",
+      "title": "如果明天你当上领导，你会允许团队人员准点下班吗？",
+      "url": "https://www.zhihu.com/question/2084526889906062480",
+      "hot_value": "66 万热度",
       "index": 23
     },
     {
-      "title": "四川一小学护学岗四人均为高龄老人，最大者 67 岁，教育局已督促整改，暴露哪些问题？什么样的人能护学？",
-      "url": "https://www.zhihu.com/question/2084787266933806329",
-      "hot_value": "97 万热度",
+      "title": "网贷为什么敢借钱给根本还不起的人？",
+      "url": "https://www.zhihu.com/question/2047817805354029180",
+      "hot_value": "65 万热度",
       "index": 24
     },
     {
-      "title": "英文为什么只有 26 个字母？不能多设计几个字母吗？",
-      "url": "https://www.zhihu.com/question/9223205544",
-      "hot_value": "94 万热度",
+      "title": "猫为什么敢咬主人，它不怕被打被抛弃吗，它忍心下口吗，它不爱主人吗?",
+      "url": "https://www.zhihu.com/question/1973769530611343834",
+      "hot_value": "65 万热度",
       "index": 25
     },
     {
-      "title": "《星布谷地》「连接测试」开启！如何评价此次测试的游玩体验？",
-      "url": "https://www.zhihu.com/question/2084946581862577201",
-      "hot_value": "92 万热度",
+      "title": "macOS27 性能出色，M1Pro 用户称「像换了新电脑」，实际体验如何？",
+      "url": "https://www.zhihu.com/question/2048806962197009613",
+      "hot_value": "63 万热度",
       "index": 26
     },
     {
-      "title": "如何看待水滴筹服务费上涨至 8 %，客服称为给用户提供高质量服务？这种收费与公益筹款性质是否存在冲突？",
-      "url": "https://www.zhihu.com/question/2084250656152490301",
-      "hot_value": "84 万热度",
+      "title": "遇到不懂业务的领导，如何向上管理推动项目？",
+      "url": "https://www.zhihu.com/question/2066492009632871294",
+      "hot_value": "59 万热度",
       "index": 27
     },
     {
-      "title": "暴雪确认《魔兽世界：无限》禁用 GDKP 且不卖代币，靠系统规则消灭金团在 MMO 里现实吗？",
-      "url": "https://www.zhihu.com/question/2084933601926308475",
-      "hot_value": "83 万热度",
+      "title": "一辆新能源车开 8 年，到底能不能真正省下一辆燃油车的钱？",
+      "url": "https://www.zhihu.com/question/2083323710224721461",
+      "hot_value": "57 万热度",
       "index": 28
     },
     {
-      "title": "关于人体，有什么鲜为人知的事实？",
-      "url": "https://www.zhihu.com/question/2082251955687244506",
-      "hot_value": "79 万热度",
+      "title": "阿尔茨海默病患者好像越来越多了，这是真的吗？为什么会这样？",
+      "url": "https://www.zhihu.com/question/2017746104146501753",
+      "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "新能源电动汽车是不是有 500 公里续航+闪充就够了？",
-      "url": "https://www.zhihu.com/question/2023457063582404643",
-      "hot_value": "73 万热度",
+      "title": "针对中小学学生、青少年群体，如何规避自媒体伪史内容对其历史观的误导？",
+      "url": "https://www.zhihu.com/question/2081679721822154941",
+      "hot_value": "57 万热度",
       "index": 30
     }
   ]
