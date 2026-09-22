@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-22T13:51:14Z",
+  "update_time": "2026-09-22T17:53:45Z",
   "count": 30,
   "list": [
     {
       "title": "《柯洁围棋入门课》",
       "url": "https://www.bilibili.com/video/BV1YDhJ6ZEL6",
-      "hot_value": "446093播放",
+      "hot_value": "1058792播放",
       "index": 1
     },
     {
       "title": "比电影更夸张？专业保镖到底在做什么？",
       "url": "https://www.bilibili.com/video/BV1J7hE6aEDQ",
-      "hot_value": "515787播放",
+      "hot_value": "1079530播放",
       "index": 2
+    },
+    {
+      "title": "9000个名字刻在墙上，这座边境小城经历了什么？OPPO Find X10 ProMax",
+      "url": "https://www.bilibili.com/video/BV12Qhe6WERb",
+      "hot_value": "140595播放",
+      "index": 3
+    },
+    {
+      "title": "【独家】镇魂街第五季 王国纷争篇定档12月11日！",
+      "url": "https://www.bilibili.com/video/BV1fae16mEe4",
+      "hot_value": "216879播放",
+      "index": 4
     },
     {
       "title": "狼王传奇系列1-11集合集【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
-      "hot_value": "750803播放",
-      "index": 3
-    },
-    {
-      "title": "《原神》角色预告-「沃雅妮莎：此夜共沦」",
-      "url": "https://www.bilibili.com/video/BV1BqhB6nEdN",
-      "hot_value": "1129470播放",
-      "index": 4
-    },
-    {
-      "title": "【硬核】俄乌打了四年多，到底谁在买单？",
-      "url": "https://www.bilibili.com/video/BV1SUhe6xEM2",
-      "hot_value": "303945播放",
+      "hot_value": "1045571播放",
       "index": 5
-    },
-    {
-      "title": "来一场蛋宰派对吧！",
-      "url": "https://www.bilibili.com/video/BV1kceH6DEzQ",
-      "hot_value": "652086播放",
-      "index": 6
     },
     {
       "title": "【毕导】这个X你肯定见过，但它其实根本不存在",
       "url": "https://www.bilibili.com/video/BV1VVhk6pEiR",
-      "hot_value": "674006播放",
-      "index": 7
+      "hot_value": "1012366播放",
+      "index": 6
     },
     {
       "title": "医生坐诊2——pa大夫，你看我到底能不能红啊！",
       "url": "https://www.bilibili.com/video/BV13Thi6AE3S",
-      "hot_value": "271453播放",
+      "hot_value": "535866播放",
+      "index": 7
+    },
+    {
+      "title": "噢Ω就这啊α - 向上｜上海全球冠军赛 特别节目",
+      "url": "https://www.bilibili.com/video/BV1RXhk6REwc",
+      "hot_value": "395351播放",
       "index": 8
     },
     {
-      "title": "三条人类",
-      "url": "https://www.bilibili.com/video/BV1Pnhi6WErP",
-      "hot_value": "2263839播放",
+      "title": "复仇者联盟",
+      "url": "https://www.bilibili.com/video/BV1pYhJ63EA7",
+      "hot_value": "447734播放",
       "index": 9
     },
     {
       "title": "财神窦占龙 第8集 同舟【8月国创】",
       "url": "https://www.bilibili.com/video/BV1HHeC62EBs",
-      "hot_value": "246052播放",
+      "hot_value": "254645播放",
       "index": 10
-    },
-    {
-      "title": "救援队装备经费从哪来？实测大疆户外电源。",
-      "url": "https://www.bilibili.com/video/BV1QmhB6kE4D",
-      "hot_value": "137208播放",
-      "index": 11
-    },
-    {
-      "title": "复仇者联盟",
-      "url": "https://www.bilibili.com/video/BV1pYhJ63EA7",
-      "hot_value": "242631播放",
-      "index": 12
-    },
-    {
-      "title": "《穷亲戚》",
-      "url": "https://www.bilibili.com/video/BV14yhr6GEbH",
-      "hot_value": "973658播放",
-      "index": 13
-    },
-    {
-      "title": "和同父异母的妹妹去旅游会发生什么？",
-      "url": "https://www.bilibili.com/video/BV1T7hB6PEBm",
-      "hot_value": "259440播放",
-      "index": 14
     },
     {
       "title": "好久不见啊，佐助",
       "url": "https://www.bilibili.com/video/BV1B1hJ6wEwe",
-      "hot_value": "133872播放",
-      "index": 15
+      "hot_value": "329597播放",
+      "index": 11
     },
     {
-      "title": "驯化咖啡：一种植物武器，为什么被人类喝了六百年",
-      "url": "https://www.bilibili.com/video/BV1nshi6DEh4",
-      "hot_value": "1139824播放",
-      "index": 16
+      "title": "【硬核】俄乌打了四年多，到底谁在买单？",
+      "url": "https://www.bilibili.com/video/BV1SUhe6xEM2",
+      "hot_value": "518698播放",
+      "index": 12
     },
     {
       "title": "“真正的医者仁心的最高境界…”",
       "url": "https://www.bilibili.com/video/BV122et65Eqz",
-      "hot_value": "713686播放",
+      "hot_value": "958982播放",
+      "index": 13
+    },
+    {
+      "title": "《原神》角色预告-「沃雅妮莎：此夜共沦」",
+      "url": "https://www.bilibili.com/video/BV1BqhB6nEdN",
+      "hot_value": "1354642播放",
+      "index": 14
+    },
+    {
+      "title": "和同父异母的妹妹去旅游会发生什么？",
+      "url": "https://www.bilibili.com/video/BV1T7hB6PEBm",
+      "hot_value": "448264播放",
+      "index": 15
+    },
+    {
+      "title": "师徒PK最后一舞，谁输了谁改名！我将拿出我最伟大的作品。",
+      "url": "https://www.bilibili.com/video/BV1X9eb6tEvy",
+      "hot_value": "3208146播放",
+      "index": 16
+    },
+    {
+      "title": "当大大小姐偷偷隐藏在小小职场",
+      "url": "https://www.bilibili.com/video/BV1snhi6WEGW",
+      "hot_value": "876685播放",
       "index": 17
-    },
-    {
-      "title": "低山臭水遇知音！",
-      "url": "https://www.bilibili.com/video/BV1R6hi6zEhF",
-      "hot_value": "707438播放",
-      "index": 18
-    },
-    {
-      "title": "又准备单飞",
-      "url": "https://www.bilibili.com/video/BV1FihJ6uEQA",
-      "hot_value": "198961播放",
-      "index": 19
     },
     {
       "title": "廉颇推塔竟然这么快，这还玩啥六耳啊",
       "url": "https://www.bilibili.com/video/BV1cahB69END",
-      "hot_value": "738943播放",
+      "hot_value": "916122播放",
+      "index": 18
+    },
+    {
+      "title": "《穷亲戚》",
+      "url": "https://www.bilibili.com/video/BV14yhr6GEbH",
+      "hot_value": "1253729播放",
+      "index": 19
+    },
+    {
+      "title": "老板买了10只海胆没卖出去，下班给它做成海胆水饺偷吃了，韭菜摊鸡蛋，铁板鱿鱼",
+      "url": "https://www.bilibili.com/video/BV15Xhk6dEsH",
+      "hot_value": "485644播放",
       "index": 20
     },
     {
       "title": "琵琶曲2/1（真人无AI手搓）",
       "url": "https://www.bilibili.com/video/BV1uzez6UEoP",
-      "hot_value": "630800播放",
+      "hot_value": "1052466播放",
       "index": 21
     },
     {
-      "title": "网络动物志第15期：彪哥",
-      "url": "https://www.bilibili.com/video/BV1cEha6uEHe",
-      "hot_value": "676043播放",
+      "title": "为什么夜晚的天空总是黑的？",
+      "url": "https://www.bilibili.com/video/BV17Wez6fEAb",
+      "hot_value": "428263播放",
       "index": 22
     },
     {
-      "title": "《鬼灭之刃》观后感",
-      "url": "https://www.bilibili.com/video/BV1Y9eB6JEbr",
-      "hot_value": "499728播放",
+      "title": "救援队装备经费从哪来？实测大疆户外电源。",
+      "url": "https://www.bilibili.com/video/BV1QmhB6kE4D",
+      "hot_value": "247961播放",
       "index": 23
+    },
+    {
+      "title": "【4K】已完结 全网首发《寂静岭：Townfall》全流程惊悚实况",
+      "url": "https://www.bilibili.com/video/BV14ph66BESj",
+      "hot_value": "575420播放",
+      "index": 24
+    },
+    {
+      "title": "78岁的“老专家” 专治底盘不服？莲花工程才是隐士高人？",
+      "url": "https://www.bilibili.com/video/BV1P8hk6rEoo",
+      "hot_value": "138866播放",
+      "index": 25
+    },
+    {
+      "title": "驯化咖啡：一种植物武器，为什么被人类喝了六百年",
+      "url": "https://www.bilibili.com/video/BV1nshi6DEh4",
+      "hot_value": "1317024播放",
+      "index": 26
     },
     {
       "title": "你敢信这里竟然是伊拉克？美女扎堆豪车遍地，夜生活让人大开眼界",
       "url": "https://www.bilibili.com/video/BV1FnhC6qEck",
-      "hot_value": "143460播放",
-      "index": 24
-    },
-    {
-      "title": "员工餐自助打饭，超美味四点金，牛肋排，红烧肉！",
-      "url": "https://www.bilibili.com/video/BV1n1hv6jEJG",
-      "hot_value": "1210707播放",
-      "index": 25
-    },
-    {
-      "title": "Uzi：开局这么强，后期我都不敢想",
-      "url": "https://www.bilibili.com/video/BV1X5hJ6pEja",
-      "hot_value": "156358播放",
-      "index": 26
-    },
-    {
-      "title": "老板买了10只海胆没卖出去，下班给它做成海胆水饺偷吃了，韭菜摊鸡蛋，铁板鱿鱼",
-      "url": "https://www.bilibili.com/video/BV15Xhk6dEsH",
-      "hot_value": "337821播放",
+      "hot_value": "279430播放",
       "index": 27
     },
     {
-      "title": "【4K】全网首发《寂静岭：Townfall》全流程惊悚实况",
-      "url": "https://www.bilibili.com/video/BV14ph66BESj",
-      "hot_value": "468698播放",
+      "title": "能绷住的是植物人！",
+      "url": "https://www.bilibili.com/video/BV1e2ei6jEyZ",
+      "hot_value": "941447播放",
       "index": 28
     },
     {
-      "title": "骑行318最爽的一天，下下下下然后上！",
-      "url": "https://www.bilibili.com/video/BV1HVhE6NEdS",
-      "hot_value": "180395播放",
+      "title": "三条人类",
+      "url": "https://www.bilibili.com/video/BV1Pnhi6WErP",
+      "hot_value": "2562258播放",
       "index": 29
     },
     {
-      "title": "完啦完啦！用户彻底怒了！",
-      "url": "https://www.bilibili.com/video/BV1fthi6mEEz",
-      "hot_value": "346788播放",
+      "title": "高中校霸统领黑帮，看“职高武神”用禁招扫黑除恶！爆爽漫改韩剧《学习小组》中",
+      "url": "https://www.bilibili.com/video/BV1K5hi6tECv",
+      "hot_value": "234759播放",
       "index": 30
     }
   ]
