@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-22T03:03:15Z",
+  "update_time": "2026-09-22T08:42:34Z",
   "count": 30,
   "list": [
     {
-      "title": "网购燃气灶防风罩一月后妻儿中毒死亡，该产品为何会导致如此严重的事故？是否该全面禁售？",
-      "url": "https://www.zhihu.com/question/2085143623151235674",
-      "hot_value": "288 万热度",
+      "title": "如何评价小米 MIMO V2.6 登上 AA 开源榜第一名？",
+      "url": "https://www.zhihu.com/question/2085604034031925212",
+      "hot_value": "720 万热度",
       "index": 1
-    },
-    {
-      "title": "如何评价 2026 年全国中学生物理竞赛机构营及复赛大规模出现 AI「辅助答题」行为？",
-      "url": "https://www.zhihu.com/question/2085386253248350169",
-      "hot_value": "279 万热度",
-      "index": 2
     },
     {
       "title": "杭州市财政局拟废止《支持低空经济若干措施》，是何考量？将对低空经济发展产生哪些影响？",
       "url": "https://www.zhihu.com/question/2084697052978725714",
-      "hot_value": "271 万热度",
-      "index": 3
-    },
-    {
-      "title": "如何评价小米 MIMO V2.6 登上 AA 开源榜第一名？",
-      "url": "https://www.zhihu.com/question/2085604034031925212",
-      "hot_value": "230 万热度",
-      "index": 4
-    },
-    {
-      "title": "很多中层领导非常无能，水平极低、干啥啥不行、心眼子小、算计第一名，为什么大领导还任命他为中层领导呢？",
-      "url": "https://www.zhihu.com/question/2083575761324209026",
-      "hot_value": "203 万热度",
-      "index": 5
-    },
-    {
-      "title": "TheShy 如今状态为何下滑这么严重？",
-      "url": "https://www.zhihu.com/question/2084025284857222700",
-      "hot_value": "155 万热度",
-      "index": 6
-    },
-    {
-      "title": "如果赵丽蓉活着，赵本山还会独大吗？",
-      "url": "https://www.zhihu.com/question/31754707",
-      "hot_value": "150 万热度",
-      "index": 7
-    },
-    {
-      "title": "为什么很多国人喜欢把手机和电脑的系统语言设置成英文？",
-      "url": "https://www.zhihu.com/question/28352699",
-      "hot_value": "139 万热度",
-      "index": 8
-    },
-    {
-      "title": "为什么有些人老了发现「子女没出息是一种福分」？你怎么看？",
-      "url": "https://www.zhihu.com/question/594668461",
-      "hot_value": "136 万热度",
-      "index": 9
-    },
-    {
-      "title": "盛李豪男子 10 米气步枪卫冕，打破亚洲纪录 + 亚运纪录，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2085342818403180750",
-      "hot_value": "133 万热度",
-      "index": 10
+      "hot_value": "702 万热度",
+      "index": 2
     },
     {
       "title": "秦始皇陵水银来源被找到，指向陕西旬阳三处先秦朱砂遗址，这一发现有何意义？",
       "url": "https://www.zhihu.com/question/2085049477971145626",
-      "hot_value": "131 万热度",
-      "index": 11
+      "hot_value": "524 万热度",
+      "index": 3
     },
     {
-      "title": "名古屋亚运会颁奖典礼上准备奖品的工作人员全是老头老太太，为什么不用年轻姑娘小伙呢？",
-      "url": "https://www.zhihu.com/question/2085152146446607304",
-      "hot_value": "130 万热度",
-      "index": 12
+      "title": "很多中层领导非常无能，水平极低、干啥啥不行、心眼子小、算计第一名，为什么大领导还任命他为中层领导呢？",
+      "url": "https://www.zhihu.com/question/2083575761324209026",
+      "hot_value": "342 万热度",
+      "index": 4
     },
     {
-      "title": "有网友称华为中秋礼盒的月饼吃完后拉肚子，这是真的吗？月饼造成拉肚子的原因可能是什么？",
-      "url": "https://www.zhihu.com/question/2085441276090868249",
+      "title": "官方通报「南京一幼儿园发生集体呕吐，监控发现食堂用炒菜锅洗拖把」，11 名责任人被处理，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2085700961071322104",
+      "hot_value": "240 万热度",
+      "index": 5
+    },
+    {
+      "title": "MiMo-V2.6 已于 9 月 22 日凌晨上线并开源，全系支持多模态，包含 Flash 和 Pro 模型，效果如何？",
+      "url": "https://www.zhihu.com/question/2085626643880613806",
       "hot_value": "129 万热度",
-      "index": 13
-    },
-    {
-      "title": "ZCode 已经被曝上传用户 git 仓库 ，其他 agent 是否有同样问题？如何挑选安全的 agent?",
-      "url": "https://www.zhihu.com/question/2084596446494472169",
-      "hot_value": "127 万热度",
-      "index": 14
+      "index": 6
     },
     {
       "title": "伊朗 U23 男足教练赛后阴阳中国队「球风粗野，只想着守平，裁判也不吹」，如何评价他的表态？",
       "url": "https://www.zhihu.com/question/2085388973631694451",
-      "hot_value": "125 万热度",
-      "index": 15
-    },
-    {
-      "title": "如何看待 Deepseek 在第一次内部会议泄露后严防死守，然而随后一次投资人会议再次完整泄露？",
-      "url": "https://www.zhihu.com/question/2085490838969362100",
-      "hot_value": "124 万热度",
-      "index": 16
-    },
-    {
-      "title": "如何看待新华社新闻「公然侮辱诋毁乒乓球、跳水运动员，多人被罚！」？",
-      "url": "https://www.zhihu.com/question/2084583841319106484",
-      "hot_value": "124 万热度",
-      "index": 17
-    },
-    {
-      "title": "闲鱼回应「暗藏涉黄产业链，涉大量未成年」，称已成立专项小组，情况有多严重？应怎样加强监管？",
-      "url": "https://www.zhihu.com/question/2084398387164624498",
-      "hot_value": "124 万热度",
-      "index": 18
-    },
-    {
-      "title": "iPhone18 Pro 涨价后，现在还坚持一步到位买大容量内存的，是否在为品牌溢价买单？",
-      "url": "https://www.zhihu.com/question/2085028629323560630",
-      "hot_value": "124 万热度",
-      "index": 19
-    },
-    {
-      "title": "我想走路完赛马拉松，基本 0 基础得大约多久能实现？",
-      "url": "https://www.zhihu.com/question/2081799949344322663",
-      "hot_value": "123 万热度",
-      "index": 20
-    },
-    {
-      "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？",
-      "url": "https://www.zhihu.com/question/2085353756057678482",
-      "hot_value": "123 万热度",
-      "index": 21
-    },
-    {
-      "title": "你去过最离谱的景区是什么？",
-      "url": "https://www.zhihu.com/question/641122020",
-      "hot_value": "123 万热度",
-      "index": 22
-    },
-    {
-      "title": "曝一患者闯产科门诊向医生扔粪便，这是真的吗？网传该患者在此院分娩后出现阴道瘘并、会阴裂伤，这有多严重？",
-      "url": "https://www.zhihu.com/question/2085119521132474406",
-      "hot_value": "122 万热度",
-      "index": 23
-    },
-    {
-      "title": "亚运会之后，郭士强会下课吗？",
-      "url": "https://www.zhihu.com/question/2084401653277528936",
-      "hot_value": "119 万热度",
-      "index": 24
-    },
-    {
-      "title": "阿里千问开源 Qwen-Image-2.1，将对 AI 图像创作领域产生哪些影响？",
-      "url": "https://www.zhihu.com/question/2085120362816320561",
-      "hot_value": "114 万热度",
-      "index": 25
-    },
-    {
-      "title": "网友呼吁归还配料表中的白砂糖，它为啥重回白月光？食品饮料为何用果葡糖浆替代白砂糖？前者会影响健康吗？",
-      "url": "https://www.zhihu.com/question/2085265745911309783",
-      "hot_value": "109 万热度",
-      "index": 26
-    },
-    {
-      "title": "陈友谅是被金庸黑得最惨的人吗？",
-      "url": "https://www.zhihu.com/question/1972740812061311328",
-      "hot_value": "90 万热度",
-      "index": 27
+      "hot_value": "129 万热度",
+      "index": 7
     },
     {
       "title": "宋江凭啥就能做主把一丈青嫁给王矮虎？",
       "url": "https://www.zhihu.com/question/6291559017",
+      "hot_value": "122 万热度",
+      "index": 8
+    },
+    {
+      "title": "伊朗官方统计称受战争影响，该国经济萎缩 10% ，这对伊朗经济意味着什么？伊朗还能撑多久？",
+      "url": "https://www.zhihu.com/question/2085374733873426688",
+      "hot_value": "117 万热度",
+      "index": 9
+    },
+    {
+      "title": "名古屋亚运会颁奖典礼上准备奖品的工作人员全是老头老太太，为什么不用年轻姑娘小伙呢？",
+      "url": "https://www.zhihu.com/question/2085152146446607304",
+      "hot_value": "116 万热度",
+      "index": 10
+    },
+    {
+      "title": "美心低至六七折、 29.9 元礼盒爆卖 200 万件，月饼告别「礼赠时代」了吗？反映出怎样的消费趋势？",
+      "url": "https://www.zhihu.com/question/2085661029837403728",
+      "hot_value": "116 万热度",
+      "index": 11
+    },
+    {
+      "title": "张展硕接力分段为 1:42.92，超越孙杨为历史最快成绩，比队友快近 4 秒，如何评价他的超级大逆转？",
+      "url": "https://www.zhihu.com/question/2085429384500835079",
+      "hot_value": "116 万热度",
+      "index": 12
+    },
+    {
+      "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？",
+      "url": "https://www.zhihu.com/question/2085353756057678482",
+      "hot_value": "116 万热度",
+      "index": 13
+    },
+    {
+      "title": "如何看待理记称「贾国龙说罗永浩下跪才和解」，罗永浩辟谣称理记「拿了钱还祸害甲方」？为啥双方要在此争论？",
+      "url": "https://www.zhihu.com/question/2085655614848332980",
+      "hot_value": "116 万热度",
+      "index": 14
+    },
+    {
+      "title": "有网友称华为中秋礼盒的月饼吃完后拉肚子，这是真的吗？月饼造成拉肚子的原因可能是什么？",
+      "url": "https://www.zhihu.com/question/2085441276090868249",
+      "hot_value": "116 万热度",
+      "index": 15
+    },
+    {
+      "title": "曝一患者闯产科门诊向医生扔粪便，这是真的吗？网传该患者在此院分娩后出现阴道瘘并会阴裂伤，这有多严重？",
+      "url": "https://www.zhihu.com/question/2085119521132474406",
+      "hot_value": "115 万热度",
+      "index": 16
+    },
+    {
+      "title": "鸟的食物基本都在地上，它为什么会进化出飞翔的能力?",
+      "url": "https://www.zhihu.com/question/649292965",
+      "hot_value": "115 万热度",
+      "index": 17
+    },
+    {
+      "title": "亚运为何如此多乱七八糟的项目？比欧洲运动会项目快多一倍了？",
+      "url": "https://www.zhihu.com/question/2085262971089973761",
+      "hot_value": "114 万热度",
+      "index": 18
+    },
+    {
+      "title": "如何评价由 Taptap 出品的中国游戏纪录片《理想的存档》？",
+      "url": "https://www.zhihu.com/question/2085682295630054922",
+      "hot_value": "108 万热度",
+      "index": 19
+    },
+    {
+      "title": "贾国龙恳请监管部门厘清高流量网络账号的言论边界，区分正常舆论监督和商业诋毁等，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2085335781585975245",
+      "hot_value": "106 万热度",
+      "index": 20
+    },
+    {
+      "title": "我想走路完赛马拉松，基本 0 基础得大约多久能实现？",
+      "url": "https://www.zhihu.com/question/2081799949344322663",
+      "hot_value": "105 万热度",
+      "index": 21
+    },
+    {
+      "title": "如何评价 Grok 4.7 ，有哪些亮点？",
+      "url": "https://www.zhihu.com/question/2085530667354476720",
+      "hot_value": "102 万热度",
+      "index": 22
+    },
+    {
+      "title": "如何看待西贝创始人贾国龙妻子张丽平质押股权？西贝目前经营状况究竟如何？它真的快倒闭了吗？",
+      "url": "https://www.zhihu.com/question/2084964677252014307",
+      "hot_value": "100 万热度",
+      "index": 23
+    },
+    {
+      "title": "如何看待管维佳爆料，称男篮某球员抱怨郭士强「可能输的比赛让我上，能拿金牌的比赛不选我」，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2085694080416048304",
+      "hot_value": "98 万热度",
+      "index": 24
+    },
+    {
+      "title": "如果赵丽蓉活着，赵本山还会独大吗？",
+      "url": "https://www.zhihu.com/question/31754707",
       "hot_value": "90 万热度",
+      "index": 25
+    },
+    {
+      "title": "闰秒制度可能将被提前废除，什么是闰秒？为啥用了半个多世纪会被取消？对我们生活有影响吗？",
+      "url": "https://www.zhihu.com/question/2084915571720545826",
+      "hot_value": "89 万热度",
+      "index": 26
+    },
+    {
+      "title": "如何看待网信办新规拟定，平台人脸识别未满 16 岁，必须强制开启未成年人模式？能有效保护孩子上网吗？",
+      "url": "https://www.zhihu.com/question/2085395630864742321",
+      "hot_value": "81 万热度",
+      "index": 27
+    },
+    {
+      "title": "独生子女给异地父母养老的压力有多大？",
+      "url": "https://www.zhihu.com/question/2083872104076796514",
+      "hot_value": "77 万热度",
       "index": 28
     },
     {
-      "title": "亚运会女排半决赛，中国女排 3-2 泰国女排，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2085401068641458158",
-      "hot_value": "88 万热度",
+      "title": "势力大与关系硬的区别，哪个关键时刻好用？",
+      "url": "https://www.zhihu.com/question/1981365582004766289",
+      "hot_value": "74 万热度",
       "index": 29
     },
     {
-      "title": "现在的 3A 大作画面越来越精致，为什么玩起来反而没有老游戏耐玩？",
-      "url": "https://www.zhihu.com/question/2075859132242981771",
-      "hot_value": "74 万热度",
+      "title": "柴进这个人明明出手比宋江、晁盖更豪爽，为何始终声望人气不如他们？",
+      "url": "https://www.zhihu.com/question/2083560028007561084",
+      "hot_value": "72 万热度",
       "index": 30
     }
   ]
