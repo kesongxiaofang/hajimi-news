@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-22T17:53:45Z",
+  "update_time": "2026-09-22T20:48:35Z",
   "count": 30,
   "list": [
     {
       "title": "林诗栋 2-3 爆冷输泰国 16 岁小将提塔帕 - 普里查扬，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2085812663049613991",
-      "hot_value": "499 万热度",
+      "hot_value": "480 万热度",
       "index": 1
     },
     {
       "title": "一家三口打赏 650 万赖到女儿身上，要求以未成年人身份退款，真相是如何找到的？反映出家庭教育哪些问题？",
       "url": "https://www.zhihu.com/question/2083594981109753152",
-      "hot_value": "207 万热度",
+      "hot_value": "150 万热度",
       "index": 2
-    },
-    {
-      "title": "美心低至六七折、 29.9 元礼盒爆卖 200 万件，月饼告别「礼赠时代」了吗？反映出怎样的消费趋势？",
-      "url": "https://www.zhihu.com/question/2085661029837403728",
-      "hot_value": "203 万热度",
-      "index": 3
     },
     {
       "title": "G 胖认为，开发者最大的错误之一就是把玩家自己琢磨出来的轮椅套路当成作弊一刀砍掉，你同意他的看法吗？",
       "url": "https://www.zhihu.com/question/2085679798857240709",
-      "hot_value": "173 万热度",
+      "hot_value": "133 万热度",
+      "index": 3
+    },
+    {
+      "title": "如何评价《生化危机：爆发夜》开分烂番茄 98%，成了媒体评分最高的游戏改编电影？",
+      "url": "https://www.zhihu.com/question/2084245962894078587",
+      "hot_value": "98 万热度",
       "index": 4
     },
     {
-      "title": "你有哪些坚持了三年以上并且对你人生带来巨大改变的习惯？",
-      "url": "https://www.zhihu.com/question/12309749456",
-      "hot_value": "131 万热度",
+      "title": "有哪些古迹，是李白、杜甫、苏轼等历史人物真正到访过，而今天我们仍可以去看的？",
+      "url": "https://www.zhihu.com/question/2083606589265502727",
+      "hot_value": "71 万热度",
       "index": 5
     },
     {
-      "title": "假如 IG 获得 S16 赛季的总冠军,LoL 能继续盘活么?",
-      "url": "https://www.zhihu.com/question/2080968346842014502",
-      "hot_value": "92 万热度",
+      "title": "电视剧《交锋》中，谁是内鬼？",
+      "url": "https://www.zhihu.com/question/2080651415572190543",
+      "hot_value": "71 万热度",
       "index": 6
     },
     {
       "title": "如何看待钟薛高创始人力挺西贝，说西贝要是倒了，是中国餐饮行业的倒退？你认同这一评价吗？",
       "url": "https://www.zhihu.com/question/2085765432636602143",
-      "hot_value": "87 万热度",
+      "hot_value": "70 万热度",
       "index": 7
     },
     {
       "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？",
       "url": "https://www.zhihu.com/question/2085353756057678482",
-      "hot_value": "84 万热度",
+      "hot_value": "70 万热度",
       "index": 8
     },
     {
-      "title": "父亲照顾五保户大爷爷 10 年，父亲意外去世后，叔叔要求我们 「 对账补齐 」，该怎么处理？",
-      "url": "https://www.zhihu.com/question/2083123476710347831",
-      "hot_value": "82 万热度",
+      "title": "为什么《魔兽争霸 3》吉安娜为了几个兽人杀了自己老爸？",
+      "url": "https://www.zhihu.com/question/404864937",
+      "hot_value": "69 万热度",
       "index": 9
     },
     {
-      "title": "什么美食是带有故事的，让你久久不忘呢？",
-      "url": "https://www.zhihu.com/question/7477849494",
+      "title": "为了省钱你做过最「抠」的一件事是什么？",
+      "url": "https://www.zhihu.com/question/2085087048596021643",
       "hot_value": "69 万热度",
       "index": 10
     },
     {
-      "title": "电视剧《交锋》中，谁是内鬼？",
-      "url": "https://www.zhihu.com/question/2080651415572190543",
-      "hot_value": "64 万热度",
+      "title": "什么美食是带有故事的，让你久久不忘呢？",
+      "url": "https://www.zhihu.com/question/7477849494",
+      "hot_value": "68 万热度",
       "index": 11
     },
     {
-      "title": "iPhone17 正常使用，能用几年？",
-      "url": "https://www.zhihu.com/question/1969638438677517109",
-      "hot_value": "59 万热度",
+      "title": "孩子犯错，爸爸在教育奶奶却护着。该怎么办？",
+      "url": "https://www.zhihu.com/question/2071129956764082494",
+      "hot_value": "68 万热度",
       "index": 12
     },
     {
-      "title": "如果你月薪 5w，你还会吃 20 元的快餐吗？",
-      "url": "https://www.zhihu.com/question/2084822512819614559",
-      "hot_value": "57 万热度",
+      "title": "苏轼为何是普通人的榜样与偶像？",
+      "url": "https://www.zhihu.com/question/5154058587",
+      "hot_value": "66 万热度",
       "index": 13
     },
     {
-      "title": "被现实反复教育后仍坚信「努力就有回报、世界是善意的」，这种认知是怎么维持的？",
-      "url": "https://www.zhihu.com/question/2085347821004366795",
-      "hot_value": "57 万热度",
+      "title": "美心低至六七折、 29.9 元礼盒爆卖 200 万件，月饼告别「礼赠时代」了吗？反映出怎样的消费趋势？",
+      "url": "https://www.zhihu.com/question/2085661029837403728",
+      "hot_value": "59 万热度",
       "index": 14
     },
     {
       "title": "‌NPD 最明显的特征有哪些呢？",
       "url": "https://www.zhihu.com/question/9975247396",
-      "hot_value": "57 万热度",
+      "hot_value": "59 万热度",
       "index": 15
     },
     {
       "title": "曝一患者闯产科门诊向医生扔粪便，这是真的吗？网传该患者在此院分娩后出现阴道瘘并会阴裂伤，这有多严重？",
       "url": "https://www.zhihu.com/question/2085119521132474406",
-      "hot_value": "57 万热度",
+      "hot_value": "59 万热度",
       "index": 16
     },
     {
       "title": "多家媒体曝奶茶除成瘾风险外，还会增加抑郁、焦虑风险，小小一杯奶茶，真的有这么大危害吗？",
       "url": "https://www.zhihu.com/question/2085472350741291798",
-      "hot_value": "57 万热度",
+      "hot_value": "59 万热度",
       "index": 17
     },
     {
-      "title": "孩子总说被同学「冷落」，家长该介入还是让他自己解决？",
-      "url": "https://www.zhihu.com/question/2075465831111202232",
-      "hot_value": "57 万热度",
+      "title": "你做过的哪一件非常随机的事情给你带来了意想不到的惊喜？",
+      "url": "https://www.zhihu.com/question/2053824429436711157",
+      "hot_value": "59 万热度",
       "index": 18
     },
     {
-      "title": "很多中层领导非常无能，水平极低、干啥啥不行、心眼子小、算计第一名，为什么大领导还任命他为中层领导呢？",
-      "url": "https://www.zhihu.com/question/2083575761324209026",
-      "hot_value": "57 万热度",
+      "title": "动物可以聪明到什么地步？",
+      "url": "https://www.zhihu.com/question/363140427",
+      "hot_value": "59 万热度",
       "index": 19
     },
     {
       "title": "贾国龙恳请监管部门厘清高流量网络账号的言论边界，区分正常舆论监督和商业诋毁等，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2085335781585975245",
-      "hot_value": "57 万热度",
+      "hot_value": "59 万热度",
       "index": 20
+    },
+    {
+      "title": "在 AI 盛行的时代，大学生到底要学什么才不会被淘汰？",
+      "url": "https://www.zhihu.com/question/2076658003068052960",
+      "hot_value": "59 万热度",
+      "index": 21
+    },
+    {
+      "title": "iPhone17 正常使用，能用几年？",
+      "url": "https://www.zhihu.com/question/1969638438677517109",
+      "hot_value": "59 万热度",
+      "index": 22
+    },
+    {
+      "title": "假如 IG 获得 S16 赛季的总冠军,LoL 能继续盘活么?",
+      "url": "https://www.zhihu.com/question/2080968346842014502",
+      "hot_value": "59 万热度",
+      "index": 23
+    },
+    {
+      "title": "如果你月薪 5w，你还会吃 20 元的快餐吗？",
+      "url": "https://www.zhihu.com/question/2084822512819614559",
+      "hot_value": "57 万热度",
+      "index": 24
+    },
+    {
+      "title": "你有哪些坚持了三年以上并且对你人生带来巨大改变的习惯？",
+      "url": "https://www.zhihu.com/question/12309749456",
+      "hot_value": "57 万热度",
+      "index": 25
+    },
+    {
+      "title": "很多中层领导非常无能，水平极低、干啥啥不行、心眼子小、算计第一名，为什么大领导还任命他为中层领导呢？",
+      "url": "https://www.zhihu.com/question/2083575761324209026",
+      "hot_value": "57 万热度",
+      "index": 26
     },
     {
       "title": "如果删掉 LoL 纳尔怒气值，改为按 R 变大的同时释放技能，变大形态持续时间和现在相同，是变强还是变弱？",
       "url": "https://www.zhihu.com/question/2085386637484336086",
       "hot_value": "57 万热度",
-      "index": 21
+      "index": 27
     },
     {
       "title": "司机好心补路、拉绳警示，导致路过女子被绳索勒颈身亡，被以过失致人死亡罪逮捕，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2083518548656252894",
       "hot_value": "57 万热度",
-      "index": 22
+      "index": 28
     },
     {
       "title": "现在纯牛奶每 100 毫升的蛋白质含量，怎么越来越高了？高的牛奶已经到 4.0 了?",
       "url": "https://www.zhihu.com/question/2068401908591727264",
       "hot_value": "57 万热度",
-      "index": 23
+      "index": 29
     },
     {
       "title": "如何看待胡歌电影之路发展不顺？他路人缘那么好，为什么票房一直扑？",
       "url": "https://www.zhihu.com/question/2084833286736692814",
       "hot_value": "57 万热度",
-      "index": 24
-    },
-    {
-      "title": "一中大侠退学了，你怎么看？",
-      "url": "https://www.zhihu.com/question/2082747171796001617",
-      "hot_value": "56 万热度",
-      "index": 25
-    },
-    {
-      "title": "阿里千问开源 Qwen-Image-2.1，将对 AI 图像创作领域产生哪些影响？",
-      "url": "https://www.zhihu.com/question/2085120362816320561",
-      "hot_value": "56 万热度",
-      "index": 26
-    },
-    {
-      "title": "中路爆破能力对于一个足球运动员来说很罕见吗？我看不少球员集锦，他们都能做到啊，为什么只有卡卡被吹捧？",
-      "url": "https://www.zhihu.com/question/2064769096256860408",
-      "hot_value": "56 万热度",
-      "index": 27
-    },
-    {
-      "title": "施一公称西湖大学放弃科研量化指标，对高校学术评价有何启示和挑战？",
-      "url": "https://www.zhihu.com/question/2084637163774277213",
-      "hot_value": "56 万热度",
-      "index": 28
-    },
-    {
-      "title": "韩立修仙修到最后，有孙悟空的几成实力？",
-      "url": "https://www.zhihu.com/question/2077679926761754950",
-      "hot_value": "56 万热度",
-      "index": 29
-    },
-    {
-      "title": "文博与考古从业者日常辟谣伪史谣言最大的难点是什么，单纯陈列学术结论为什么很难说服普通网络受众？",
-      "url": "https://www.zhihu.com/question/2080680735107543381",
-      "hot_value": "56 万热度",
       "index": 30
     }
   ]
