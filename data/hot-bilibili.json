@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-22T08:42:34Z",
+  "update_time": "2026-09-22T13:51:14Z",
   "count": 30,
   "list": [
     {
-      "title": "《原神》角色预告-「沃雅妮莎：此夜共沦」",
-      "url": "https://www.bilibili.com/video/BV1BqhB6nEdN",
-      "hot_value": "587425播放",
+      "title": "《柯洁围棋入门课》",
+      "url": "https://www.bilibili.com/video/BV1YDhJ6ZEL6",
+      "hot_value": "446093播放",
       "index": 1
     },
     {
-      "title": "《曾经的梦想》",
-      "url": "https://www.bilibili.com/video/BV15Qhh6oEWC",
-      "hot_value": "3083250播放",
+      "title": "比电影更夸张？专业保镖到底在做什么？",
+      "url": "https://www.bilibili.com/video/BV1J7hE6aEDQ",
+      "hot_value": "515787播放",
       "index": 2
-    },
-    {
-      "title": "身高1米5到1米9怎么选椅子？清闲全家桶上手体验",
-      "url": "https://www.bilibili.com/video/BV1EXhq6nENq",
-      "hot_value": "46721播放",
-      "index": 3
-    },
-    {
-      "title": "《崩坏：星穹铁道》走近星穹——「真珠：深度学习中」",
-      "url": "https://www.bilibili.com/video/BV1SZhk6HEXw",
-      "hot_value": "407240播放",
-      "index": 4
-    },
-    {
-      "title": "【毕导】这个X你肯定见过，但它其实根本不存在",
-      "url": "https://www.bilibili.com/video/BV1VVhk6pEiR",
-      "hot_value": "265267播放",
-      "index": 5
-    },
-    {
-      "title": "师徒PK最后一舞，谁输了谁改名！我将拿出我最伟大的作品。",
-      "url": "https://www.bilibili.com/video/BV1X9eb6tEvy",
-      "hot_value": "2512949播放",
-      "index": 6
-    },
-    {
-      "title": "廉颇推塔竟然这么快，这还玩啥六耳啊",
-      "url": "https://www.bilibili.com/video/BV1cahB69END",
-      "hot_value": "428449播放",
-      "index": 7
-    },
-    {
-      "title": "三条人类",
-      "url": "https://www.bilibili.com/video/BV1Pnhi6WErP",
-      "hot_value": "1548367播放",
-      "index": 8
-    },
-    {
-      "title": "差价6000万倍！不同价位风洞有什么区别？",
-      "url": "https://www.bilibili.com/video/BV15ieC6TEti",
-      "hot_value": "2216691播放",
-      "index": 9
-    },
-    {
-      "title": "《乌贼食宴》 问题壹",
-      "url": "https://www.bilibili.com/video/BV1qheC66E5P",
-      "hot_value": "614491播放",
-      "index": 10
-    },
-    {
-      "title": "低山臭水遇知音！",
-      "url": "https://www.bilibili.com/video/BV1R6hi6zEhF",
-      "hot_value": "468095播放",
-      "index": 11
-    },
-    {
-      "title": "【神人回战02】悟，你的术式好碍事啊！",
-      "url": "https://www.bilibili.com/video/BV16nhC6iEwS",
-      "hot_value": "98460播放",
-      "index": 12
     },
     {
       "title": "狼王传奇系列1-11集合集【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
-      "hot_value": "191466播放",
+      "hot_value": "750803播放",
+      "index": 3
+    },
+    {
+      "title": "《原神》角色预告-「沃雅妮莎：此夜共沦」",
+      "url": "https://www.bilibili.com/video/BV1BqhB6nEdN",
+      "hot_value": "1129470播放",
+      "index": 4
+    },
+    {
+      "title": "【硬核】俄乌打了四年多，到底谁在买单？",
+      "url": "https://www.bilibili.com/video/BV1SUhe6xEM2",
+      "hot_value": "303945播放",
+      "index": 5
+    },
+    {
+      "title": "来一场蛋宰派对吧！",
+      "url": "https://www.bilibili.com/video/BV1kceH6DEzQ",
+      "hot_value": "652086播放",
+      "index": 6
+    },
+    {
+      "title": "【毕导】这个X你肯定见过，但它其实根本不存在",
+      "url": "https://www.bilibili.com/video/BV1VVhk6pEiR",
+      "hot_value": "674006播放",
+      "index": 7
+    },
+    {
+      "title": "医生坐诊2——pa大夫，你看我到底能不能红啊！",
+      "url": "https://www.bilibili.com/video/BV13Thi6AE3S",
+      "hot_value": "271453播放",
+      "index": 8
+    },
+    {
+      "title": "三条人类",
+      "url": "https://www.bilibili.com/video/BV1Pnhi6WErP",
+      "hot_value": "2263839播放",
+      "index": 9
+    },
+    {
+      "title": "财神窦占龙 第8集 同舟【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1HHeC62EBs",
+      "hot_value": "246052播放",
+      "index": 10
+    },
+    {
+      "title": "救援队装备经费从哪来？实测大疆户外电源。",
+      "url": "https://www.bilibili.com/video/BV1QmhB6kE4D",
+      "hot_value": "137208播放",
+      "index": 11
+    },
+    {
+      "title": "复仇者联盟",
+      "url": "https://www.bilibili.com/video/BV1pYhJ63EA7",
+      "hot_value": "242631播放",
+      "index": 12
+    },
+    {
+      "title": "《穷亲戚》",
+      "url": "https://www.bilibili.com/video/BV14yhr6GEbH",
+      "hot_value": "973658播放",
       "index": 13
     },
     {
-      "title": "能绷住的是植物人！",
-      "url": "https://www.bilibili.com/video/BV1e2ei6jEyZ",
-      "hot_value": "666294播放",
+      "title": "和同父异母的妹妹去旅游会发生什么？",
+      "url": "https://www.bilibili.com/video/BV1T7hB6PEBm",
+      "hot_value": "259440播放",
       "index": 14
     },
     {
-      "title": "漫改真人剧见多了，反过来把特摄改为动漫又会怎么样呢？",
-      "url": "https://www.bilibili.com/video/BV1z3hq6EECP",
-      "hot_value": "436908播放",
+      "title": "好久不见啊，佐助",
+      "url": "https://www.bilibili.com/video/BV1B1hJ6wEwe",
+      "hot_value": "133872播放",
       "index": 15
-    },
-    {
-      "title": "三年之期已到，恭迎世一上归位！【第10集】",
-      "url": "https://www.bilibili.com/video/BV13KhB6rE7N",
-      "hot_value": "1222210播放",
-      "index": 16
-    },
-    {
-      "title": "骑行318最爽的一天，下下下下然后上！",
-      "url": "https://www.bilibili.com/video/BV1HVhE6NEdS",
-      "hot_value": "65499播放",
-      "index": 17
-    },
-    {
-      "title": "对话陈昊宇：你会找到和你对视的人 | 视频播客·世相访谈",
-      "url": "https://www.bilibili.com/video/BV1SZeB62EqK",
-      "hot_value": "318389播放",
-      "index": 18
-    },
-    {
-      "title": "谁是最美Coser？！举办一个逆天Cos姿势大赛！！",
-      "url": "https://www.bilibili.com/video/BV19khi6uEqD",
-      "hot_value": "525699播放",
-      "index": 19
     },
     {
       "title": "驯化咖啡：一种植物武器，为什么被人类喝了六百年",
       "url": "https://www.bilibili.com/video/BV1nshi6DEh4",
-      "hot_value": "808179播放",
+      "hot_value": "1139824播放",
+      "index": 16
+    },
+    {
+      "title": "“真正的医者仁心的最高境界…”",
+      "url": "https://www.bilibili.com/video/BV122et65Eqz",
+      "hot_value": "713686播放",
+      "index": 17
+    },
+    {
+      "title": "低山臭水遇知音！",
+      "url": "https://www.bilibili.com/video/BV1R6hi6zEhF",
+      "hot_value": "707438播放",
+      "index": 18
+    },
+    {
+      "title": "又准备单飞",
+      "url": "https://www.bilibili.com/video/BV1FihJ6uEQA",
+      "hot_value": "198961播放",
+      "index": 19
+    },
+    {
+      "title": "廉颇推塔竟然这么快，这还玩啥六耳啊",
+      "url": "https://www.bilibili.com/video/BV1cahB69END",
+      "hot_value": "738943播放",
       "index": 20
     },
     {
-      "title": "单纯的约会（92）",
-      "url": "https://www.bilibili.com/video/BV1AueU6cE3d",
-      "hot_value": "1379444播放",
+      "title": "琵琶曲2/1（真人无AI手搓）",
+      "url": "https://www.bilibili.com/video/BV1uzez6UEoP",
+      "hot_value": "630800播放",
       "index": 21
     },
     {
-      "title": "全明星发癫，笑到停不下来，极致抽象的恶搞喜剧——《越光宝盒》",
-      "url": "https://www.bilibili.com/video/BV13sey6eEu3",
-      "hot_value": "1166019播放",
+      "title": "网络动物志第15期：彪哥",
+      "url": "https://www.bilibili.com/video/BV1cEha6uEHe",
+      "hot_value": "676043播放",
       "index": 22
+    },
+    {
+      "title": "《鬼灭之刃》观后感",
+      "url": "https://www.bilibili.com/video/BV1Y9eB6JEbr",
+      "hot_value": "499728播放",
+      "index": 23
+    },
+    {
+      "title": "你敢信这里竟然是伊拉克？美女扎堆豪车遍地，夜生活让人大开眼界",
+      "url": "https://www.bilibili.com/video/BV1FnhC6qEck",
+      "hot_value": "143460播放",
+      "index": 24
     },
     {
       "title": "员工餐自助打饭，超美味四点金，牛肋排，红烧肉！",
       "url": "https://www.bilibili.com/video/BV1n1hv6jEJG",
-      "hot_value": "894108播放",
-      "index": 23
+      "hot_value": "1210707播放",
+      "index": 25
+    },
+    {
+      "title": "Uzi：开局这么强，后期我都不敢想",
+      "url": "https://www.bilibili.com/video/BV1X5hJ6pEja",
+      "hot_value": "156358播放",
+      "index": 26
+    },
+    {
+      "title": "老板买了10只海胆没卖出去，下班给它做成海胆水饺偷吃了，韭菜摊鸡蛋，铁板鱿鱼",
+      "url": "https://www.bilibili.com/video/BV15Xhk6dEsH",
+      "hot_value": "337821播放",
+      "index": 27
     },
     {
       "title": "【4K】全网首发《寂静岭：Townfall》全流程惊悚实况",
       "url": "https://www.bilibili.com/video/BV14ph66BESj",
-      "hot_value": "298436播放",
-      "index": 24
-    },
-    {
-      "title": "他罗斯有步坦协同，但我金朝有超位魔法！【帝国时代4】",
-      "url": "https://www.bilibili.com/video/BV17Qhv6VEaE",
-      "hot_value": "738815播放",
-      "index": 25
-    },
-    {
-      "title": "【万字合集】午夜梦回，恶灵古堡！爆发夜之前重温《生化危机》系列！丧尸题材千千万，它才是我心中的红月光~",
-      "url": "https://www.bilibili.com/video/BV1LUhh6fE9x",
-      "hot_value": "523552播放",
-      "index": 26
-    },
-    {
-      "title": "后续就是还有高手",
-      "url": "https://www.bilibili.com/video/BV14mez6VEG9",
-      "hot_value": "4821599播放",
-      "index": 27
-    },
-    {
-      "title": "【崩铁】真珠综合测评：欢愉队生存位！Go Work！！武器对比+技能解读+遗器选择+星魂提升！",
-      "url": "https://www.bilibili.com/video/BV12xhk65E58",
-      "hot_value": "148413播放",
+      "hot_value": "468698播放",
       "index": 28
     },
     {
-      "title": "《异环》黑羽角色PV丨「魔女」的工作",
-      "url": "https://www.bilibili.com/video/BV1iWej6hEe6",
-      "hot_value": "1439088播放",
+      "title": "骑行318最爽的一天，下下下下然后上！",
+      "url": "https://www.bilibili.com/video/BV1HVhE6NEdS",
+      "hot_value": "180395播放",
       "index": 29
     },
     {
-      "title": "青春没有售价，桂A直达南美天空之镜！",
-      "url": "https://www.bilibili.com/video/BV1mJeB6kErY",
-      "hot_value": "196072播放",
+      "title": "完啦完啦！用户彻底怒了！",
+      "url": "https://www.bilibili.com/video/BV1fthi6mEEz",
+      "hot_value": "346788播放",
       "index": 30
     }
   ]
