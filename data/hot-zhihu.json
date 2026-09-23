@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-22T23:26:29Z",
+  "update_time": "2026-09-23T01:38:37Z",
   "count": 30,
   "list": [
     {
-      "title": "林诗栋 2-3 爆冷输泰国 16 岁小将提塔帕 - 普里查扬，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2085812663049613991",
-      "hot_value": "312 万热度",
+      "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？",
+      "url": "https://www.zhihu.com/question/2085353756057678482",
+      "hot_value": "1348 万热度",
       "index": 1
     },
     {
       "title": "你去过最离谱的景区是什么？",
       "url": "https://www.zhihu.com/question/641122020",
-      "hot_value": "183 万热度",
+      "hot_value": "395 万热度",
       "index": 2
     },
     {
-      "title": "针对亚运会赛事组织相关问题，日媒称日本本土会展公司缺位，法国智奥强势主导、拒绝日方整改意见，如何解读？",
-      "url": "https://www.zhihu.com/question/2085689822019051903",
-      "hot_value": "101 万热度",
+      "title": "38 岁清华毕业生三战高考考上北大医学部，称「希望在热爱的领域做一点有意义的事」，如何看待他的选择？",
+      "url": "https://www.zhihu.com/question/2085447302525863203",
+      "hot_value": "223 万热度",
       "index": 3
     },
     {
-      "title": "一家三口打赏 650 万赖到女儿身上，要求以未成年人身份退款，真相是如何找到的？反映出家庭教育哪些问题？",
-      "url": "https://www.zhihu.com/question/2083594981109753152",
-      "hot_value": "93 万热度",
+      "title": "酒店推出「月租房」抢租客，相较传统租房有何优劣？月租最低 1500 元起、配备品牌家电等，你会选择入住吗？",
+      "url": "https://www.zhihu.com/question/2083550065432573164",
+      "hot_value": "186 万热度",
       "index": 4
-    },
-    {
-      "title": "G 胖认为，开发者最大的错误之一就是把玩家自己琢磨出来的轮椅套路当成作弊一刀砍掉，你同意他的看法吗？",
-      "url": "https://www.zhihu.com/question/2085679798857240709",
-      "hot_value": "89 万热度",
-      "index": 5
     },
     {
       "title": "如何评价《生化危机：爆发夜》开分烂番茄 98%，成了媒体评分最高的游戏改编电影？",
       "url": "https://www.zhihu.com/question/2084245962894078587",
-      "hot_value": "83 万热度",
+      "hot_value": "150 万热度",
+      "index": 5
+    },
+    {
+      "title": "《三国志》系列 2026 投票结果公布，如何评价《三国志 11》成为了亚洲玩家心中的冠军？",
+      "url": "https://www.zhihu.com/question/2084957096534094156",
+      "hot_value": "117 万热度",
       "index": 6
     },
     {
-      "title": "如何看待钟薛高创始人力挺西贝，说西贝要是倒了，是中国餐饮行业的倒退？你认同这一评价吗？",
-      "url": "https://www.zhihu.com/question/2085765432636602143",
-      "hot_value": "79 万热度",
+      "title": "周也《一瓯春》片段被群嘲出圈，演技遭质疑，不少观众觉得她很多表演观感别扭，问题根源在哪？",
+      "url": "https://www.zhihu.com/question/2085065223895872435",
+      "hot_value": "99 万热度",
       "index": 7
     },
     {
-      "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗？",
-      "url": "https://www.zhihu.com/question/2085353756057678482",
-      "hot_value": "77 万热度",
+      "title": "央视曝光「挂靠参保」骗社保，这一灰色产业链如何运作，将带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2085134161036298212",
+      "hot_value": "92 万热度",
       "index": 8
+    },
+    {
+      "title": "皮很大很薄，肉很小很小的馄饨是江浙一带特有的吗？",
+      "url": "https://www.zhihu.com/question/309403623",
+      "hot_value": "86 万热度",
+      "index": 9
+    },
+    {
+      "title": "要是电池装在电车后备箱那，离人远一点会不会更安全啊？",
+      "url": "https://www.zhihu.com/question/1941944632243127435",
+      "hot_value": "81 万热度",
+      "index": 10
+    },
+    {
+      "title": "亚运射击 10 米气步枪预赛，越南队因「服装不合规」被判出局，日本队递补进入决赛，并得到铜牌，对此你怎看？",
+      "url": "https://www.zhihu.com/question/2085749429131114426",
+      "hot_value": "78 万热度",
+      "index": 11
+    },
+    {
+      "title": "都说肯德基、华莱士等大品牌有无可比拟的低价进货渠道，那那些小的杂牌汉堡店是怎么生存下来的？",
+      "url": "https://www.zhihu.com/question/2081790395420238806",
+      "hot_value": "76 万热度",
+      "index": 12
+    },
+    {
+      "title": "iPhone Duo 整机组装良率仅六成多，供应链在等苹果决定是否放宽质量要求，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2085398866065618860",
+      "hot_value": "74 万热度",
+      "index": 13
+    },
+    {
+      "title": "老人突发心梗，5 次拨打 120 未能接通后死亡，院方称通信光缆故障，各方应承担怎样的责任？暴露了哪些问题？",
+      "url": "https://www.zhihu.com/question/2085845337738932843",
+      "hot_value": "71 万热度",
+      "index": 14
+    },
+    {
+      "title": "平儿、探春和宝钗都帮助过邢岫烟，三者的帮助本质上有什么不同？",
+      "url": "https://www.zhihu.com/question/1889631626750821780",
+      "hot_value": "68 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何看待最新发布的 OPPO Find X10 系列，「三颗 2 亿像素镜头群」有哪些亮点值得关注？",
+      "url": "https://www.zhihu.com/question/2085791652379976362",
+      "hot_value": "66 万热度",
+      "index": 16
+    },
+    {
+      "title": "为什么大家通常说的都是小猫统治世界，而不是小狗统治世界呢？",
+      "url": "https://www.zhihu.com/question/2039459450818404540",
+      "hot_value": "66 万热度",
+      "index": 17
+    },
+    {
+      "title": "医疗免费会带来什么？",
+      "url": "https://www.zhihu.com/question/2078045060743041239",
+      "hot_value": "65 万热度",
+      "index": 18
     },
     {
       "title": "有哪些古迹，是李白、杜甫、苏轼等历史人物真正到访过，而今天我们仍可以去看的？",
       "url": "https://www.zhihu.com/question/2083606589265502727",
-      "hot_value": "75 万热度",
-      "index": 9
-    },
-    {
-      "title": "你见过最厉害的孩子是怎样的？",
-      "url": "https://www.zhihu.com/question/595375338",
-      "hot_value": "71 万热度",
-      "index": 10
-    },
-    {
-      "title": "美心低至六七折、 29.9 元礼盒爆卖 200 万件，月饼告别「礼赠时代」了吗？反映出怎样的消费趋势？",
-      "url": "https://www.zhihu.com/question/2085661029837403728",
       "hot_value": "59 万热度",
-      "index": 11
+      "index": 19
+    },
+    {
+      "title": "针对亚运会赛事组织相关问题，日媒称日本本土会展公司缺位，法国智奥强势主导、拒绝日方整改意见，如何解读？",
+      "url": "https://www.zhihu.com/question/2085689822019051903",
+      "hot_value": "59 万热度",
+      "index": 20
+    },
+    {
+      "title": "林诗栋 2-3 爆冷输泰国 16 岁小将提塔帕 - 普里查扬，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2085812663049613991",
+      "hot_value": "59 万热度",
+      "index": 21
     },
     {
       "title": "iPhone17 正常使用，能用几年？",
       "url": "https://www.zhihu.com/question/1969638438677517109",
       "hot_value": "59 万热度",
-      "index": 12
+      "index": 22
     },
     {
-      "title": "为什么《魔兽争霸 3》吉安娜为了几个兽人杀了自己老爸？",
-      "url": "https://www.zhihu.com/question/404864937",
+      "title": "G 胖认为，开发者最大的错误之一就是把玩家自己琢磨出来的轮椅套路当成作弊一刀砍掉，你同意他的看法吗？",
+      "url": "https://www.zhihu.com/question/2085679798857240709",
+      "hot_value": "59 万热度",
+      "index": 23
+    },
+    {
+      "title": "美心低至六七折、 29.9 元礼盒爆卖 200 万件，月饼告别「礼赠时代」了吗？反映出怎样的消费趋势？",
+      "url": "https://www.zhihu.com/question/2085661029837403728",
       "hot_value": "58 万热度",
-      "index": 13
+      "index": 24
+    },
+    {
+      "title": "你见过最厉害的孩子是怎样的？",
+      "url": "https://www.zhihu.com/question/595375338",
+      "hot_value": "58 万热度",
+      "index": 25
+    },
+    {
+      "title": "奥运冠军张家齐节目中被妈妈数落，直言『不是你养大的』，这反映了怎样的亲子关系问题？",
+      "url": "https://www.zhihu.com/question/2082046907552215882",
+      "hot_value": "58 万热度",
+      "index": 26
     },
     {
       "title": "很多中层领导非常无能，水平极低、干啥啥不行、心眼子小、算计第一名，为什么大领导还任命他为中层领导呢？",
       "url": "https://www.zhihu.com/question/2083575761324209026",
       "hot_value": "57 万热度",
-      "index": 14
-    },
-    {
-      "title": "‌NPD 最明显的特征有哪些呢？",
-      "url": "https://www.zhihu.com/question/9975247396",
-      "hot_value": "57 万热度",
-      "index": 15
-    },
-    {
-      "title": "曝一患者闯产科门诊向医生扔粪便，这是真的吗？网传该患者在此院分娩后出现阴道瘘并会阴裂伤，这有多严重？",
-      "url": "https://www.zhihu.com/question/2085119521132474406",
-      "hot_value": "57 万热度",
-      "index": 16
+      "index": 27
     },
     {
       "title": "司机好心补路、拉绳警示，导致路过女子被绳索勒颈身亡，被以过失致人死亡罪逮捕，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2083518548656252894",
       "hot_value": "57 万热度",
-      "index": 17
+      "index": 28
     },
     {
       "title": "现在纯牛奶每 100 毫升的蛋白质含量，怎么越来越高了？高的牛奶已经到 4.0 了?",
       "url": "https://www.zhihu.com/question/2068401908591727264",
       "hot_value": "57 万热度",
-      "index": 18
+      "index": 29
     },
     {
       "title": "如何看待胡歌电影之路发展不顺？他路人缘那么好，为什么票房一直扑？",
       "url": "https://www.zhihu.com/question/2084833286736692814",
-      "hot_value": "56 万热度",
-      "index": 19
-    },
-    {
-      "title": "贾国龙恳请监管部门厘清高流量网络账号的言论边界，区分正常舆论监督和商业诋毁等，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2085335781585975245",
-      "hot_value": "56 万热度",
-      "index": 20
-    },
-    {
-      "title": "一医院被曝不给实习生放中秋假，遭网络曝光后疑医院职工称要「整死」爆料者，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2085398243685266996",
-      "hot_value": "56 万热度",
-      "index": 21
-    },
-    {
-      "title": "浙江女子散步时被蝙蝠撞脸未发现伤口，医生称只要直接接触按 III 级暴露处置，这是为什么？",
-      "url": "https://www.zhihu.com/question/2083136966967805428",
-      "hot_value": "56 万热度",
-      "index": 22
-    },
-    {
-      "title": "新一期 LPR 公布，1 年期为 3.0%，5 年期以上为 3.5%，均连续 16 个月保持不变，如何解读？",
-      "url": "https://www.zhihu.com/question/2084934611600151620",
-      "hot_value": "56 万热度",
-      "index": 23
-    },
-    {
-      "title": "为什么越没能力没本事的人越是死要面子？",
-      "url": "https://www.zhihu.com/question/640191001",
-      "hot_value": "56 万热度",
-      "index": 24
-    },
-    {
-      "title": "你认为动漫《死神 Bleach》塑造最失败的角色是哪个？",
-      "url": "https://www.zhihu.com/question/2075599680302535354",
-      "hot_value": "56 万热度",
-      "index": 25
-    },
-    {
-      "title": "《赛博朋克：边缘行者 2》将在 2026 年秋季播出，对此你有什么看法？",
-      "url": "https://www.zhihu.com/question/2054714477434746387",
-      "hot_value": "56 万热度",
-      "index": 26
-    },
-    {
-      "title": "写小说的基本功都有哪些？",
-      "url": "https://www.zhihu.com/question/2081295822675764423",
-      "hot_value": "56 万热度",
-      "index": 27
-    },
-    {
-      "title": "如果你月薪 5w，你还会吃 20 元的快餐吗？",
-      "url": "https://www.zhihu.com/question/2084822512819614559",
-      "hot_value": "56 万热度",
-      "index": 28
-    },
-    {
-      "title": "一中大侠退学了，你怎么看？",
-      "url": "https://www.zhihu.com/question/2082747171796001617",
-      "hot_value": "56 万热度",
-      "index": 29
-    },
-    {
-      "title": "如何评价《绿灯军团》第六集？",
-      "url": "https://www.zhihu.com/question/2085318561279623697",
       "hot_value": "56 万热度",
       "index": 30
     }

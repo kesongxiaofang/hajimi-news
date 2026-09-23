@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-22T23:26:29Z",
+  "update_time": "2026-09-23T01:38:37Z",
   "count": 30,
   "list": [
     {
       "title": "好久不见啊，佐助",
       "url": "https://www.bilibili.com/video/BV1B1hJ6wEwe",
-      "hot_value": "508234播放",
+      "hot_value": "870634播放",
       "index": 1
     },
     {
       "title": "比电影更夸张？专业保镖到底在做什么？",
       "url": "https://www.bilibili.com/video/BV1J7hE6aEDQ",
-      "hot_value": "1356272播放",
+      "hot_value": "1767493播放",
       "index": 2
     },
     {
-      "title": "《柯洁围棋入门课》",
-      "url": "https://www.bilibili.com/video/BV1YDhJ6ZEL6",
-      "hot_value": "1256448播放",
+      "title": "骁龙8 Elite Extreme Gen6前瞻上手：高通新旗舰手机来啦！",
+      "url": "https://www.bilibili.com/video/BV17uhW6VE2R",
+      "hot_value": "288474播放",
       "index": 3
     },
     {
       "title": "【独家】镇魂街第五季 王国纷争篇定档12月11日！",
       "url": "https://www.bilibili.com/video/BV1fae16mEe4",
-      "hot_value": "226827播放",
+      "hot_value": "237336播放",
       "index": 4
     },
     {
-      "title": "《原神》角色预告-「沃雅妮莎：此夜共沦」",
-      "url": "https://www.bilibili.com/video/BV1BqhB6nEdN",
-      "hot_value": "1402247播放",
+      "title": "《柯洁围棋入门课》",
+      "url": "https://www.bilibili.com/video/BV1YDhJ6ZEL6",
+      "hot_value": "1487915播放",
       "index": 5
-    },
-    {
-      "title": "【毕导】这个X你肯定见过，但它其实根本不存在",
-      "url": "https://www.bilibili.com/video/BV1VVhk6pEiR",
-      "hot_value": "1126703播放",
-      "index": 6
     },
     {
       "title": "和同父异母的妹妹去旅游会发生什么？",
       "url": "https://www.bilibili.com/video/BV1T7hB6PEBm",
-      "hot_value": "562554播放",
+      "hot_value": "750574播放",
+      "index": 6
+    },
+    {
+      "title": "赛枪证vs赛车证！在国内哪一个更难考？",
+      "url": "https://www.bilibili.com/video/BV1Pmhj6PEWE",
+      "hot_value": "360648播放",
       "index": 7
     },
     {
-      "title": "狼王传奇系列1-11集合集【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
-      "hot_value": "1155272播放",
+      "title": "复仇者联盟",
+      "url": "https://www.bilibili.com/video/BV1pYhJ63EA7",
+      "hot_value": "673666播放",
       "index": 8
     },
     {
       "title": "【硬核】俄乌打了四年多，到底谁在买单？",
       "url": "https://www.bilibili.com/video/BV1SUhe6xEM2",
-      "hot_value": "612519播放",
+      "hot_value": "751055播放",
       "index": 9
     },
     {
       "title": "财神窦占龙 第8集 同舟【8月国创】",
       "url": "https://www.bilibili.com/video/BV1HHeC62EBs",
-      "hot_value": "257268播放",
+      "hot_value": "259023播放",
       "index": 10
     },
     {
-      "title": "医生坐诊2——pa大夫，你看我到底能不能红啊！",
-      "url": "https://www.bilibili.com/video/BV13Thi6AE3S",
-      "hot_value": "610787播放",
+      "title": "狼王传奇系列1-11集合集【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
+      "hot_value": "1297169播放",
       "index": 11
     },
     {
       "title": "高中校霸统领黑帮，看“职高武神”用禁招扫黑除恶！爆爽漫改韩剧《学习小组》中",
       "url": "https://www.bilibili.com/video/BV1K5hi6tECv",
-      "hot_value": "363045播放",
+      "hot_value": "489659播放",
       "index": 12
     },
     {
-      "title": "复仇者联盟",
-      "url": "https://www.bilibili.com/video/BV1pYhJ63EA7",
-      "hot_value": "526706播放",
+      "title": "我的86，复活了？",
+      "url": "https://www.bilibili.com/video/BV14ghe6pE9c",
+      "hot_value": "278139播放",
       "index": 13
     },
     {
-      "title": "廉颇推塔竟然这么快，这还玩啥六耳啊",
-      "url": "https://www.bilibili.com/video/BV1cahB69END",
-      "hot_value": "972947播放",
+      "title": "医生坐诊2——pa大夫，你看我到底能不能红啊！",
+      "url": "https://www.bilibili.com/video/BV13Thi6AE3S",
+      "hot_value": "713183播放",
       "index": 14
+    },
+    {
+      "title": "【毕导】这个X你肯定见过，但它其实根本不存在",
+      "url": "https://www.bilibili.com/video/BV1VVhk6pEiR",
+      "hot_value": "1244040播放",
+      "index": 15
+    },
+    {
+      "title": "琵琶曲‖ 决战重制版【re0】",
+      "url": "https://www.bilibili.com/video/BV1rnea6mEgL",
+      "hot_value": "286826播放",
+      "index": 16
+    },
+    {
+      "title": "《原神》角色预告-「沃雅妮莎：此夜共沦」",
+      "url": "https://www.bilibili.com/video/BV1BqhB6nEdN",
+      "hot_value": "1469185播放",
+      "index": 17
     },
     {
       "title": "又准备单飞",
       "url": "https://www.bilibili.com/video/BV1FihJ6uEQA",
-      "hot_value": "408163播放",
-      "index": 15
-    },
-    {
-      "title": "《乌贼食宴》 问题壹",
-      "url": "https://www.bilibili.com/video/BV1qheC66E5P",
-      "hot_value": "784510播放",
-      "index": 16
-    },
-    {
-      "title": "老板买了10只海胆没卖出去，下班给它做成海胆水饺偷吃了，韭菜摊鸡蛋，铁板鱿鱼",
-      "url": "https://www.bilibili.com/video/BV15Xhk6dEsH",
-      "hot_value": "528971播放",
-      "index": 17
-    },
-    {
-      "title": "当大大小姐偷偷隐藏在小小职场",
-      "url": "https://www.bilibili.com/video/BV1snhi6WEGW",
-      "hot_value": "924932播放",
+      "hot_value": "515981播放",
       "index": 18
     },
     {
-      "title": "驯化咖啡：一种植物武器，为什么被人类喝了六百年",
-      "url": "https://www.bilibili.com/video/BV1nshi6DEh4",
-      "hot_value": "1365339播放",
+      "title": "花60W买燃油性能车还有价值吗？奥迪S5 Avant山路测试！",
+      "url": "https://www.bilibili.com/video/BV16ihJ6MEHA",
+      "hot_value": "206379播放",
       "index": 19
-    },
-    {
-      "title": "网络动物志第15期：彪哥",
-      "url": "https://www.bilibili.com/video/BV1cEha6uEHe",
-      "hot_value": "843329播放",
-      "index": 20
     },
     {
       "title": "《穷亲戚》",
       "url": "https://www.bilibili.com/video/BV14yhr6GEbH",
-      "hot_value": "1326383播放",
+      "hot_value": "1462011播放",
+      "index": 20
+    },
+    {
+      "title": "你敢信这里竟然是伊拉克？美女扎堆豪车遍地，夜生活让人大开眼界",
+      "url": "https://www.bilibili.com/video/BV1FnhC6qEck",
+      "hot_value": "411701播放",
       "index": 21
     },
     {
-      "title": "赛枪证vs赛车证！在国内哪一个更难考？",
-      "url": "https://www.bilibili.com/video/BV1Pmhj6PEWE",
-      "hot_value": "213090播放",
+      "title": "廉颇推塔竟然这么快，这还玩啥六耳啊",
+      "url": "https://www.bilibili.com/video/BV1cahB69END",
+      "hot_value": "1025757播放",
       "index": 22
     },
     {
-      "title": "《崩坏：星穹铁道》走近星穹——「真珠：深度学习中」",
-      "url": "https://www.bilibili.com/video/BV1SZhk6HEXw",
-      "hot_value": "691882播放",
+      "title": "爆改瓦罐！奥迪S5 Avant！车友的评价是？",
+      "url": "https://www.bilibili.com/video/BV1zkhJ6PE7J",
+      "hot_value": "162315播放",
       "index": 23
+    },
+    {
+      "title": "「小白」第六代骁龙8超级至尊版能效体验：新架构 新封装！",
+      "url": "https://www.bilibili.com/video/BV1grhn69EaE",
+      "hot_value": "68074播放",
+      "index": 24
+    },
+    {
+      "title": "粤韵风华之驾校宝典14【高速堵车】",
+      "url": "https://www.bilibili.com/video/BV1Cghr6vEom",
+      "hot_value": "606761播放",
+      "index": 25
+    },
+    {
+      "title": "网络动物志第15期：彪哥",
+      "url": "https://www.bilibili.com/video/BV1cEha6uEHe",
+      "hot_value": "888786播放",
+      "index": 26
+    },
+    {
+      "title": "当美院人玩涂鸦躲猫猫真人版",
+      "url": "https://www.bilibili.com/video/BV1QGhJ69EAo",
+      "hot_value": "248190播放",
+      "index": 27
+    },
+    {
+      "title": "当大大小姐偷偷隐藏在小小职场",
+      "url": "https://www.bilibili.com/video/BV1snhi6WEGW",
+      "hot_value": "973049播放",
+      "index": 28
     },
     {
       "title": "完啦完啦！用户彻底怒了！",
       "url": "https://www.bilibili.com/video/BV1fthi6mEEz",
-      "hot_value": "477176播放",
-      "index": 24
-    },
-    {
-      "title": "“至此，已成神品！！！”",
-      "url": "https://www.bilibili.com/video/BV1o2eM6kEDT",
-      "hot_value": "1632728播放",
-      "index": 25
-    },
-    {
-      "title": "为什么夜晚的天空总是黑的？",
-      "url": "https://www.bilibili.com/video/BV17Wez6fEAb",
-      "hot_value": "494318播放",
-      "index": 26
-    },
-    {
-      "title": "【4K】已完结 全网首发《寂静岭：Townfall》全流程惊悚实况",
-      "url": "https://www.bilibili.com/video/BV14ph66BESj",
-      "hot_value": "621606播放",
-      "index": 27
-    },
-    {
-      "title": "“真正的医者仁心的最高境界…”",
-      "url": "https://www.bilibili.com/video/BV122et65Eqz",
-      "hot_value": "1029493播放",
-      "index": 28
-    },
-    {
-      "title": "三条人类",
-      "url": "https://www.bilibili.com/video/BV1Pnhi6WErP",
-      "hot_value": "2610266播放",
+      "hot_value": "529292播放",
       "index": 29
     },
     {
-      "title": "【神人回战02】悟，你的术式好碍事啊！",
-      "url": "https://www.bilibili.com/video/BV16nhC6iEwS",
-      "hot_value": "367812播放",
+      "title": "能绷住的是植物人！",
+      "url": "https://www.bilibili.com/video/BV1e2ei6jEyZ",
+      "hot_value": "1053563播放",
       "index": 30
     }
   ]
