@@ -1,48 +1,48 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-09-23T01:38:37Z",
+  "update_time": "2026-09-23T07:14:51Z",
   "count": 20,
   "list": [
-    {
-      "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34121849",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "上课，请先收起手机！高校推进“无手机课堂”，能帮大学生上好课吗",
       "url": "https://www.thepaper.cn/newsDetail_forward_34073740",
       "hot_value": "",
-      "index": 2
+      "index": 1
     },
     {
       "title": "言短意长｜机关食堂开放：定向是智慧，克制是边界",
       "url": "https://www.thepaper.cn/newsDetail_forward_34125615",
       "hot_value": "",
-      "index": 3
+      "index": 2
     },
     {
       "title": "技能之巅，遇见全球匠心",
       "url": "https://www.thepaper.cn/newsDetail_forward_34126467",
       "hot_value": "",
-      "index": 4
+      "index": 3
     },
     {
       "title": "赛力斯董事长回应与华为合作模式生变：提升品牌价值与销量，全球通行做法",
       "url": "https://www.thepaper.cn/newsDetail_forward_34125826",
       "hot_value": "",
-      "index": 5
+      "index": 4
     },
     {
       "title": "三大球第一金！中国女排成功加冕亚运会十冠王",
       "url": "https://www.thepaper.cn/newsDetail_forward_34125616",
       "hot_value": "",
+      "index": 5
+    },
+    {
+      "title": "向私企转让导弹技术，印度军工大改革以应对高强度军事冲突",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34124237",
+      "hot_value": "",
       "index": 6
     },
     {
-      "title": "为倒渣土抄近路损毁明长城，山西通报：涉事企业被依法处理",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122995",
+      "title": "直播丨第48届世界技能大赛开幕式",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34115183",
       "hot_value": "",
       "index": 7
     },
@@ -59,68 +59,68 @@
       "index": 9
     },
     {
-      "title": "还未见顶：2-4个月后超强厄尔尼诺才迎峰值，关键海区已逼近历史极值",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122696",
+      "title": "美国与丹麦及格陵兰岛签署安全协议",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34127243",
       "hot_value": "",
       "index": 10
     },
     {
-      "title": "马上评｜16岁少年强奸案，追问“法定代理人到场权”的落实",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122861",
+      "title": "白宫推出流媒体频道“特朗普电视”，此前五大电视网暂停报道特朗普",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34123963",
       "hot_value": "",
       "index": 11
     },
     {
-      "title": "南京通报一幼儿园多名幼儿午餐后呕吐：园长撤职、厨师开除",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122860",
+      "title": "白酒“双节”动销旺季不旺：飞天茅台终端价格坚挺，有经销商称多款白酒已是“地板价”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34126980",
       "hot_value": "",
       "index": 12
     },
     {
-      "title": "直播丨第48届世界技能大赛开幕式",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34115183",
+      "title": "“人机共舞”再登重磅舞台，这次有何不一样？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34127728",
       "hot_value": "",
       "index": 13
     },
     {
-      "title": "患者检查单背面是他人死亡证明，乐山市中医院：节约用纸重复打印，将优化流程",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122685",
+      "title": "男子购买重疾险10年后确诊结肠癌被拒赔，泰康人寿称系“遗传性疾病”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34125321",
       "hot_value": "",
       "index": 14
     },
     {
-      "title": "德国17.5万汽车业员工全国多地集会抗议裁员，呼吁政府加码产业政策",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122484",
+      "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34130539",
       "hot_value": "",
       "index": 15
     },
     {
-      "title": "地球“体检报告”亮红灯：九大“行星边界”已被突破七个",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34122238",
+      "title": "四川多地网友反映养犬35厘米限高标准过低，各方回应",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34126459",
       "hot_value": "",
       "index": 16
+    },
+    {
+      "title": "用敌敌畏消杀餐厅且拒不改正，厦门绿林森环境科技公司被罚2万元",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34126977",
+      "hot_value": "",
+      "index": 17
     },
     {
       "title": "英美首次从无人潜航器试射鱼雷，奥库斯推进水下无人战力发展",
       "url": "https://www.thepaper.cn/newsDetail_forward_34123536",
       "hot_value": "",
-      "index": 17
+      "index": 18
     },
     {
       "title": "重庆市委书记袁家军赴张雪机车调研并召开座谈会",
       "url": "https://www.thepaper.cn/newsDetail_forward_34125698",
       "hot_value": "",
-      "index": 18
+      "index": 19
     },
     {
       "title": "实探上海首个“家政服务员之家”：四人一间，可按天短租",
       "url": "https://www.thepaper.cn/newsDetail_forward_34125760",
-      "hot_value": "",
-      "index": 19
-    },
-    {
-      "title": "向私企转让导弹技术，印度军工大改革以应对高强度军事冲突",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34124237",
       "hot_value": "",
       "index": 20
     }
