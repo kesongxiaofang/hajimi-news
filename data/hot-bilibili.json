@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-24T13:40:20Z",
+  "update_time": "2026-09-24T18:07:11Z",
   "count": 30,
   "list": [
     {
-      "title": "《未眠野》18分钟实机演示",
-      "url": "https://www.bilibili.com/video/BV1Mohb61Em9",
-      "hot_value": "2261204播放",
+      "title": "我记录下了妹妹的最后7天...【自制伪纪录片电影】",
+      "url": "https://www.bilibili.com/video/BV1Deht6rEpZ",
+      "hot_value": "739518播放",
       "index": 1
     },
     {
-      "title": "篮球佐助技能初爆料！杨瀚森携佐助球风来袭",
-      "url": "https://www.bilibili.com/video/BV1ame16qE9Z",
-      "hot_value": "1792488播放",
+      "title": "在机场当志愿者用六门语言帮助老外是什么体验？！",
+      "url": "https://www.bilibili.com/video/BV1F5h86PEUH",
+      "hot_value": "987485播放",
       "index": 2
     },
     {
-      "title": "伊方天地，伊场奇遇——《伊莫》今日全平台上线",
-      "url": "https://www.bilibili.com/video/BV1o2hJ6hEij",
-      "hot_value": "1155670播放",
+      "title": "我买下了15万的船票，踏上了前往世界尽头的旅行…..",
+      "url": "https://www.bilibili.com/video/BV19naF66Ezb",
+      "hot_value": "608431播放",
       "index": 3
     },
     {
       "title": "【剧情】长生契（2026）01【方逸伦 / 谢可寅】",
       "url": "https://www.bilibili.com/video/BV13Dem6VE1M",
-      "hot_value": "859860播放",
+      "hot_value": "1084968播放",
       "index": 4
     },
     {
-      "title": "还在肝破译点数？究极焚决！直接送1w破译点！挟持哈夫克网站！拿满奖励！",
-      "url": "https://www.bilibili.com/video/BV16XaF6UETJ",
-      "hot_value": "1208419播放",
+      "title": "二周年彩蛋全流程！一起见证！二洲年快乐！",
+      "url": "https://www.bilibili.com/video/BV1uPaK62EbF",
+      "hot_value": "597594播放",
       "index": 5
     },
     {
-      "title": "#新剧推荐 想追剧的加关注留言序号2592",
-      "url": "https://www.bilibili.com/video/BV1wfhn6GErB",
-      "hot_value": "1349682播放",
+      "title": "每百年一次深渊血战，恶魔世界会如何发展？",
+      "url": "https://www.bilibili.com/video/BV1JBaA6oEmA",
+      "hot_value": "265165播放",
       "index": 6
-    },
-    {
-      "title": "8月份疯狂回血111万，峰哥是如何成功自救的？",
-      "url": "https://www.bilibili.com/video/BV15bh869EbY",
-      "hot_value": "1145873播放",
-      "index": 7
-    },
-    {
-      "title": "超市里已经……没有人类了……",
-      "url": "https://www.bilibili.com/video/BV18fhb65EGs",
-      "hot_value": "305108播放",
-      "index": 8
-    },
-    {
-      "title": "赴一场星河之约，守一段洲年荣光。三角洲二洲年快乐！",
-      "url": "https://www.bilibili.com/video/BV1Pwhx6dETi",
-      "hot_value": "452255播放",
-      "index": 9
-    },
-    {
-      "title": "【独家】时光代理人 第三季 PartOne 第8集 血色风浪【8月国创】",
-      "url": "https://www.bilibili.com/video/BV1cDhj6wEMV",
-      "hot_value": "297549播放",
-      "index": 10
-    },
-    {
-      "title": "【逆水寒×盗墓笔记】新角色「张起灵」登场！实机试玩与联动关卡演示",
-      "url": "https://www.bilibili.com/video/BV1Wnh46aEZB",
-      "hot_value": "1462685播放",
-      "index": 11
-    },
-    {
-      "title": "在机场当志愿者用六门语言帮助老外是什么体验？！",
-      "url": "https://www.bilibili.com/video/BV1F5h86PEUH",
-      "hot_value": "511302播放",
-      "index": 12
-    },
-    {
-      "title": "平澜起风波 | 书院同窗们，开学啦！",
-      "url": "https://www.bilibili.com/video/BV1yUaw6FEaW",
-      "hot_value": "449346播放",
-      "index": 13
-    },
-    {
-      "title": "叮咚，您的好友发来语音——真珠的「金嗓子生成器」",
-      "url": "https://www.bilibili.com/video/BV1RHaw6mEDR",
-      "hot_value": "229920播放",
-      "index": 14
-    },
-    {
-      "title": "『飙马野郎 JOJO的奇妙冒险』 OP Kroi 「SPIN」",
-      "url": "https://www.bilibili.com/video/BV1e6h46UEfG",
-      "hot_value": "1556969播放",
-      "index": 15
-    },
-    {
-      "title": "热烈欢迎易立竞！看看高智感的易老师在工作中和工作外的好东西！（期待我的笔上易老师的节目🙏",
-      "url": "https://www.bilibili.com/video/BV1qdhx6UESM",
-      "hot_value": "461131播放",
-      "index": 16
-    },
-    {
-      "title": "这是什么符咒？",
-      "url": "https://www.bilibili.com/video/BV13eh86nEt7",
-      "hot_value": "769324播放",
-      "index": 17
-    },
-    {
-      "title": "我买下了15万的船票，踏上了前往世界尽头的旅行…..",
-      "url": "https://www.bilibili.com/video/BV19naF66Ezb",
-      "hot_value": "300953播放",
-      "index": 18
-    },
-    {
-      "title": "六亿七小电驴环游大陆 ep129 以为高级软卧会很舒服，结果一晚上没消停！台湾人坐火车穿越新疆",
-      "url": "https://www.bilibili.com/video/BV1xKhn6mEJH",
-      "hot_value": "1620338播放",
-      "index": 19
-    },
-    {
-      "title": "从白宫国宴到庄园会晤：美国如何接待中国领导人？",
-      "url": "https://www.bilibili.com/video/BV1n5aw6WEnD",
-      "hot_value": "513704播放",
-      "index": 20
-    },
-    {
-      "title": "游本昌爷爷，一路走好！我们会继续向前",
-      "url": "https://www.bilibili.com/video/BV17Eaw6DEMi",
-      "hot_value": "634315播放",
-      "index": 21
-    },
-    {
-      "title": "杭州.嘚嘚面馆 厨子探店¥2536",
-      "url": "https://www.bilibili.com/video/BV1dWaw6jEYY",
-      "hot_value": "410820播放",
-      "index": 22
-    },
-    {
-      "title": "6013栋逸夫楼，慈善零丑闻的秘密",
-      "url": "https://www.bilibili.com/video/BV1Tfhb65E2r",
-      "hot_value": "595712播放",
-      "index": 23
     },
     {
       "title": "《缅北讲师》",
       "url": "https://www.bilibili.com/video/BV1NWaA6TEfg",
-      "hot_value": "278840播放",
-      "index": 24
+      "hot_value": "621973播放",
+      "index": 7
     },
     {
-      "title": "周年彩蛋，钢琴鸟窝和飞机模型！",
-      "url": "https://www.bilibili.com/video/BV1j7ht6WEkQ",
-      "hot_value": "620358播放",
-      "index": 25
+      "title": "叮咚，您的好友发来语音——真珠的「金嗓子生成器」",
+      "url": "https://www.bilibili.com/video/BV1RHaw6mEDR",
+      "hot_value": "536565播放",
+      "index": 8
+    },
+    {
+      "title": "超市里已经……没有人类了……",
+      "url": "https://www.bilibili.com/video/BV18fhb65EGs",
+      "hot_value": "513289播放",
+      "index": 9
+    },
+    {
+      "title": "赴一场星河之约，守一段洲年荣光。三角洲二洲年快乐！",
+      "url": "https://www.bilibili.com/video/BV1Pwhx6dETi",
+      "hot_value": "658044播放",
+      "index": 10
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第8集 血色风浪【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1cDhj6wEMV",
+      "hot_value": "484644播放",
+      "index": 11
+    },
+    {
+      "title": "六亿七小电驴环游大陆 ep129 以为高级软卧会很舒服，结果一晚上没消停！台湾人坐火车穿越新疆",
+      "url": "https://www.bilibili.com/video/BV1xKhn6mEJH",
+      "hot_value": "1883374播放",
+      "index": 12
+    },
+    {
+      "title": "我把 雀巢 变成美少女 ？？？",
+      "url": "https://www.bilibili.com/video/BV1PUaw6cEZs",
+      "hot_value": "505325播放",
+      "index": 13
+    },
+    {
+      "title": "毁尸灭迹、完美犯罪？多线叙事+反转严丝合缝！一口气追完年度黑马韩剧《现在不是出轨的问题》",
+      "url": "https://www.bilibili.com/video/BV1VXaA6jEtr",
+      "hot_value": "547163播放",
+      "index": 14
+    },
+    {
+      "title": "游本昌爷爷，一路走好！我们会继续向前",
+      "url": "https://www.bilibili.com/video/BV17Eaw6DEMi",
+      "hot_value": "969995播放",
+      "index": 15
+    },
+    {
+      "title": "小绿：当年我的拳不够快，更不够狠！",
+      "url": "https://www.bilibili.com/video/BV1DSh46kEN3",
+      "hot_value": "576963播放",
+      "index": 16
+    },
+    {
+      "title": "热烈欢迎易立竞！看看高智感的易老师在工作中和工作外的好东西！（期待我的笔上易老师的节目🙏",
+      "url": "https://www.bilibili.com/video/BV1qdhx6UESM",
+      "hot_value": "634059播放",
+      "index": 17
+    },
+    {
+      "title": "如何只凭一张照片，找到那个地方？",
+      "url": "https://www.bilibili.com/video/BV1tfh46iEH9",
+      "hot_value": "341604播放",
+      "index": 18
+    },
+    {
+      "title": "在家破解¥300一块的上海最贵炸鸡，成本只要...",
+      "url": "https://www.bilibili.com/video/BV1emaA6SE3q",
+      "hot_value": "1208679播放",
+      "index": 19
+    },
+    {
+      "title": "中国最著名的离别曲，朴树都觉得死而无憾的词到底好在哪？",
+      "url": "https://www.bilibili.com/video/BV1HehJ66EJc",
+      "hot_value": "947293播放",
+      "index": 20
+    },
+    {
+      "title": "捍海问潮 | 千年治水，何以安澜",
+      "url": "https://www.bilibili.com/video/BV1A3h86KEtk",
+      "hot_value": "873183播放",
+      "index": 21
     },
     {
       "title": "《奇遇动物城》游戏首曝PV丨搬进动物城，遇见无限可能",
       "url": "https://www.bilibili.com/video/BV1yph76uEdF",
-      "hot_value": "905542播放",
+      "hot_value": "1269027播放",
+      "index": 22
+    },
+    {
+      "title": "【崩坏3十周年生日会】崩坏3躲猫猫？史上最强律者vs现代最强律者！",
+      "url": "https://www.bilibili.com/video/BV15dhv66EHZ",
+      "hot_value": "140470播放",
+      "index": 23
+    },
+    {
+      "title": "今天这套服装谁要的，这么多服装以来最贵的一套",
+      "url": "https://www.bilibili.com/video/BV1Puh86qE8M",
+      "hot_value": "985187播放",
+      "index": 24
+    },
+    {
+      "title": "松客小贡嘎失踪事件，花有重开日，但少年不可用得太满",
+      "url": "https://www.bilibili.com/video/BV1imaN6tEK3",
+      "hot_value": "267917播放",
+      "index": 25
+    },
+    {
+      "title": "还在肝破译点数？究极焚决！直接送1w破译点！挟持哈夫克网站！拿满奖励！",
+      "url": "https://www.bilibili.com/video/BV16XaF6UETJ",
+      "hot_value": "1526744播放",
       "index": 26
     },
     {
-      "title": "与周也，自在撒野——《伊莫》现已全平台上线！",
-      "url": "https://www.bilibili.com/video/BV1xWac6tEKY",
-      "hot_value": "391264播放",
+      "title": "《一不小心给若娜瓦说破防了》",
+      "url": "https://www.bilibili.com/video/BV1bdh46BEUM",
+      "hot_value": "561354播放",
       "index": 27
     },
     {
-      "title": "欢迎来到我的频道!",
-      "url": "https://www.bilibili.com/video/BV1N9hp6WExy",
-      "hot_value": "864249播放",
+      "title": "爱奇艺这是要凉透了，从46跌到1块，纯纯自己作的",
+      "url": "https://www.bilibili.com/video/BV1D3h46BEax",
+      "hot_value": "1298442播放",
       "index": 28
     },
     {
-      "title": "迈克尔·许家印《朋友的酒DJ》史上经典！迈克尔杰克逊致敬过的演唱会开场！人生必看的现场",
-      "url": "https://www.bilibili.com/video/BV18yhp68ER1",
-      "hot_value": "1408050播放",
+      "title": "为什么说狂犬病的一旦发病，体内细胞几乎没有翻盘机会",
+      "url": "https://www.bilibili.com/video/BV1N4h76qEA5",
+      "hot_value": "2040620播放",
       "index": 29
     },
     {
-      "title": "三国把我们俩都救了｜丞相还挺忙·曹云金",
-      "url": "https://www.bilibili.com/video/BV1Johz6xEvE",
-      "hot_value": "293433播放",
+      "title": "看到了很昂贵的op | 飙马野郎动画第二部分9.25开播！",
+      "url": "https://www.bilibili.com/video/BV1Fbhf67EVY",
+      "hot_value": "723937播放",
       "index": 30
     }
   ]

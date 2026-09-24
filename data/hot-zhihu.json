@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-24T13:40:20Z",
+  "update_time": "2026-09-24T18:07:11Z",
   "count": 30,
   "list": [
     {
-      "title": "亚运乒乓球男团决赛，中国 2-3 日本，王楚钦不敌张本成胜负手，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2086477992079745342",
-      "hot_value": "4610 万热度",
+      "title": "亚运乒乓女团决赛，中国 3-0 横扫日本，豪取亚运六连冠，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2086478313287939995",
+      "hot_value": "652 万热度",
       "index": 1
-    },
-    {
-      "title": "人民日报评「第一学历歧视」，为何这一现象长期存在？对教育和个人发展有何影响？",
-      "url": "https://www.zhihu.com/question/2085119055418209469",
-      "hot_value": "666 万热度",
-      "index": 2
     },
     {
       "title": "重庆立法「艾滋病感染者应主动告知配偶、与本人有性关系者等」，有哪些意义？解决了哪些问题？",
       "url": "https://www.zhihu.com/question/2086391671403591117",
-      "hot_value": "594 万热度",
+      "hot_value": "498 万热度",
+      "index": 2
+    },
+    {
+      "title": "日本上半年出口额小于韩国台湾香港，甚至低于广东省，日本到底怎么了？",
+      "url": "https://www.zhihu.com/question/2086202236804322515",
+      "hot_value": "230 万热度",
       "index": 3
     },
     {
-      "title": "亚运会乒乓男子团体决赛，王楚钦让二追三，3-2 击败松岛辉空，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2086490101584852301",
-      "hot_value": "551 万热度",
+      "title": "亚运会羽毛球男团决赛，中国 2-3 不敌印尼，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2086476360046699175",
+      "hot_value": "199 万热度",
       "index": 4
-    },
-    {
-      "title": "余承东首次回应问界品牌调整，称赛力斯主动提出自己主导并表示支持，你怎么看？",
-      "url": "https://www.zhihu.com/question/2086492901455016508",
-      "hot_value": "224 万热度",
-      "index": 5
-    },
-    {
-      "title": "什么是教科书级别的饮食？",
-      "url": "https://www.zhihu.com/question/2082084549165696697",
-      "hot_value": "160 万热度",
-      "index": 6
-    },
-    {
-      "title": "Anthropic 称 Claude 发现类 CRISPR 新型酶系统，这项研究具有哪些意义？",
-      "url": "https://www.zhihu.com/question/2086289357292545059",
-      "hot_value": "149 万热度",
-      "index": 7
     },
     {
       "title": "很多人只上公立学校，不补课，每年教育预算不到 3 千，照样考 985，照样考清北，你支持「躺平式培养」吗？",
       "url": "https://www.zhihu.com/question/2086234571297896020",
-      "hot_value": "135 万热度",
-      "index": 8
+      "hot_value": "170 万热度",
+      "index": 5
     },
     {
-      "title": "亚运男足伊朗 1-4 负于朝鲜，被对手挤出前二惨遭淘汰，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2086113920851206195",
-      "hot_value": "113 万热度",
-      "index": 9
+      "title": "网友吐槽美团抽成太多，一份 25 元的外卖商家实际到手收入 6.08 元，是真的吗？剩下的钱都花在了什么环节？",
+      "url": "https://www.zhihu.com/question/2086444635463705931",
+      "hot_value": "151 万热度",
+      "index": 6
     },
     {
-      "title": "如何看待荣耀官方公布 Magic9 系列 16➕512GB 版本起售价格 5499 元？",
-      "url": "https://www.zhihu.com/question/2086499368111294254",
-      "hot_value": "107 万热度",
-      "index": 10
+      "title": "如何评价大伟哥在米哈游 2027 校园招聘宣讲会上海交通大学专场的演讲？",
+      "url": "https://www.zhihu.com/question/2086256784436740667",
+      "hot_value": "143 万热度",
+      "index": 7
     },
     {
       "title": "山西忻州通报「煤企为抄近道拦腰截断明长城」，将深入调查历年来存在的问题，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2085739185508557174",
-      "hot_value": "103 万热度",
-      "index": 11
-    },
-    {
-      "title": "小岛秀夫在 SIE 取消资助之后，表示「如果小岛工作室倒闭，对独立创作者来说反而是一种倒退」，如何理解？",
-      "url": "https://www.zhihu.com/question/2085698840179619625",
-      "hot_value": "91 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何看待日本艺人水桥舞 (美依礼芽) 离婚一事?",
-      "url": "https://www.zhihu.com/question/2085362088189477868",
-      "hot_value": "91 万热度",
-      "index": 13
+      "hot_value": "135 万热度",
+      "index": 8
     },
     {
       "title": "我国接受过高等教育的人口达 2.7 亿，这意味着什么？哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2041277507777843992",
-      "hot_value": "90 万热度",
+      "hot_value": "104 万热度",
+      "index": 9
+    },
+    {
+      "title": "潮州市住建局回应 5 公里路面 500 个井盖，称井盖密度没法更改，真的没法改吗？井盖排布密集是正常的吗？",
+      "url": "https://www.zhihu.com/question/2085267477965923040",
+      "hot_value": "101 万热度",
+      "index": 10
+    },
+    {
+      "title": "看完曹盾导演、马伯庸编剧的电影《敦煌英雄》你有什么感受？",
+      "url": "https://www.zhihu.com/question/2086451689611945011",
+      "hot_value": "96 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何看待知乎篮球圈出现的攻坚球、困难球、简单球、抗产量等说法？",
+      "url": "https://www.zhihu.com/question/2086219989581837772",
+      "hot_value": "83 万热度",
+      "index": 12
+    },
+    {
+      "title": "你是如何意识到自己只是个普通人的？",
+      "url": "https://www.zhihu.com/question/2075928343661360691",
+      "hot_value": "82 万热度",
+      "index": 13
+    },
+    {
+      "title": "中国之队锦标赛友谊赛，中国男足 3-0 马尔代夫，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2086403406453633590",
+      "hot_value": "81 万热度",
       "index": 14
     },
     {
-      "title": "为什么我家的猫每次拉完屎都要跑酷？",
-      "url": "https://www.zhihu.com/question/7911437334",
-      "hot_value": "89 万热度",
+      "title": "从什么事情做起可以重塑自己?",
+      "url": "https://www.zhihu.com/question/1904220563662152573",
+      "hot_value": "77 万热度",
       "index": 15
     },
     {
-      "title": "草书与瞎写的区别在于什么？",
-      "url": "https://www.zhihu.com/question/436610710",
-      "hot_value": "88 万热度",
+      "title": "蛏子怎么做好吃？",
+      "url": "https://www.zhihu.com/question/495189260",
+      "hot_value": "72 万热度",
       "index": 16
     },
     {
-      "title": "为什么伊朗封锁霍尔木兹海峡没有对美国产生任何不良影响？美国反而从石油上涨中获益了？",
-      "url": "https://www.zhihu.com/question/2085799309111451918",
-      "hot_value": "83 万热度",
+      "title": "为什么有些人明明知道自己想要什么，却还是没有力量往前走？",
+      "url": "https://www.zhihu.com/question/2080656215315690505",
+      "hot_value": "69 万热度",
       "index": 17
     },
     {
-      "title": "《大明王朝 1566》中最让你回味不穷的是哪段剧情？",
-      "url": "https://www.zhihu.com/question/2086019961378584239",
-      "hot_value": "78 万热度",
+      "title": "毁掉职业生涯的坏习惯有哪些？",
+      "url": "https://www.zhihu.com/question/1942850990509363350",
+      "hot_value": "65 万热度",
       "index": 18
     },
     {
-      "title": "如何系统地学习半导体？",
-      "url": "https://www.zhihu.com/question/15321054358",
-      "hot_value": "70 万热度",
+      "title": "为什么游戏的制作组明明知道玩家不喜欢「通马桶」任务，还要用这类任务塞满游戏？",
+      "url": "https://www.zhihu.com/question/2082869009670848763",
+      "hot_value": "59 万热度",
       "index": 19
     },
     {
-      "title": "同样用华为乾崑智驾，「方案上车」和「原生共创」差距到底有多大？",
-      "url": "https://www.zhihu.com/question/2086516610781783855",
-      "hot_value": "62 万热度",
+      "title": "为什么很多企业的绩效考核流于形式？",
+      "url": "https://www.zhihu.com/question/1972024446882648481",
+      "hot_value": "59 万热度",
       "index": 20
     },
     {
       "title": "亚运会乒乓球男团决赛，温瑞博 1-3 松岛辉空，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2086524443459678662",
-      "hot_value": "62 万热度",
+      "hot_value": "59 万热度",
       "index": 21
-    },
-    {
-      "title": "马斯克「无聊公司」计划修建超级高铁，2.5 小时行程缩至 30 分钟内，实现难度有多大？",
-      "url": "https://www.zhihu.com/question/2085293009483068406",
-      "hot_value": "62 万热度",
-      "index": 22
     },
     {
       "title": "如何评价腾讯「龙虾」QClaw 将正式停止运营，用户可申请退款，也可将数据迁移至 WorkBuddy？",
       "url": "https://www.zhihu.com/question/2086390340013876450",
-      "hot_value": "62 万热度",
+      "hot_value": "59 万热度",
+      "index": 22
+    },
+    {
+      "title": "王楚钦回应不敌张本智和，称自己有做的不好的地方，在能力上有一定差距，你怎么看？",
+      "url": "https://www.zhihu.com/question/2086558559337015197",
+      "hot_value": "59 万热度",
       "index": 23
     },
     {
-      "title": "亚运会乒乓球男团决赛，林诗栋 3-1 户上隼辅，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2086508641385805216",
-      "hot_value": "62 万热度",
+      "title": "亚运乒乓球男团决赛，中国 2-3 日本，王楚钦不敌张本成胜负手，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2086477992079745342",
+      "hot_value": "58 万热度",
       "index": 24
     },
     {
-      "title": "亚运会乒乓球男团决赛，王楚钦 0-3 张本智和，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2086517937800573826",
-      "hot_value": "62 万热度",
+      "title": "有没有什么一直坚持的好习惯？",
+      "url": "https://www.zhihu.com/question/603473785",
+      "hot_value": "58 万热度",
       "index": 25
     },
     {
-      "title": "表演艺术家游本昌因病去世，曾扮演济公，如何评价他的艺术生涯？你对他有哪些记忆？",
-      "url": "https://www.zhihu.com/question/2086407884896560904",
-      "hot_value": "62 万热度",
+      "title": "《大明王朝 1566》中最让你回味不穷的是哪段剧情？",
+      "url": "https://www.zhihu.com/question/2086019961378584239",
+      "hot_value": "57 万热度",
       "index": 26
+    },
+    {
+      "title": "「骚扰式」卖课透支教培行业陷入「越骚扰越难招生、越难招生越骚扰」的死循环，行业何以至此？该如何自救？",
+      "url": "https://www.zhihu.com/question/2085675434210084550",
+      "hot_value": "57 万热度",
+      "index": 27
+    },
+    {
+      "title": "你在高中时听说过 / 做过什么轰动全校的事？",
+      "url": "https://www.zhihu.com/question/319923069",
+      "hot_value": "57 万热度",
+      "index": 28
+    },
+    {
+      "title": "真的有人能把 polo 衫穿得好看吗?",
+      "url": "https://www.zhihu.com/question/398588889",
+      "hot_value": "57 万热度",
+      "index": 29
     },
     {
       "title": "有了一千万，你还愿意继续上班吗？",
       "url": "https://www.zhihu.com/question/2079009174395081779",
-      "hot_value": "62 万热度",
-      "index": 27
-    },
-    {
-      "title": "如何看待《无职转生》第三季第十三集的老鲁迪乌斯剧情，引发了巨大争议？",
-      "url": "https://www.zhihu.com/question/2086265110285267572",
-      "hot_value": "59 万热度",
-      "index": 28
-    },
-    {
-      "title": "鸡翅怎么做最好吃？分享一下做法?",
-      "url": "https://www.zhihu.com/question/654074043",
-      "hot_value": "59 万热度",
-      "index": 29
-    },
-    {
-      "title": "在《星际争霸》里面，蒙斯克俘虏了吉姆雷诺，为什么不处决他？",
-      "url": "https://www.zhihu.com/question/594494763",
-      "hot_value": "59 万热度",
+      "hot_value": "57 万热度",
       "index": 30
     }
   ]
