@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-25T15:23:37Z",
+  "update_time": "2026-09-25T19:23:42Z",
   "count": 30,
   "list": [
     {
       "title": "美方称中美「贸易休战」延长至明年 1 月，这对世界局势有何影响？",
       "url": "https://www.zhihu.com/question/2086393162981979290",
-      "hot_value": "1558 万热度",
+      "hot_value": "1679 万热度",
       "index": 1
     },
     {
       "title": "亚运女子 100 米短跑决赛，陈妤颉夺冠，跑出 11.06 秒​​​​刷新亚运会纪录，如何评价本场对决？",
       "url": "https://www.zhihu.com/question/2086885798066878405",
-      "hot_value": "1041 万热度",
+      "hot_value": "671 万热度",
       "index": 2
-    },
-    {
-      "title": "有什么食物是「中国人吃，而外国人基本不怎么吃的」？",
-      "url": "https://www.zhihu.com/question/643098290",
-      "hot_value": "569 万热度",
-      "index": 3
     },
     {
       "title": "中国游泳队亚运会 30 金收官，创历史最好成绩，为何中国队游泳队这几年有如此强劲的上升势头？",
       "url": "https://www.zhihu.com/question/2086877886196052068",
-      "hot_value": "494 万热度",
-      "index": 4
+      "hot_value": "535 万热度",
+      "index": 3
     },
     {
       "title": "全国牛肉批发均价涨至一公斤 71 元，创两年来新高，受哪些因素影响？",
       "url": "https://www.zhihu.com/question/2086609964114634301",
-      "hot_value": "346 万热度",
-      "index": 5
+      "hot_value": "447 万热度",
+      "index": 4
     },
     {
       "title": "韩国奥委会主席柳承敏「如果给本届亚运会打分，那只能是不及格，非常失望，组委会极其无能」，对此你怎么看？",
       "url": "https://www.zhihu.com/question/2086475888606930529",
-      "hot_value": "217 万热度",
+      "hot_value": "225 万热度",
+      "index": 5
+    },
+    {
+      "title": "怎么评价 DeepSeek Harness 桌面版源码正式上线？",
+      "url": "https://www.zhihu.com/question/2086771082363778021",
+      "hot_value": "196 万热度",
       "index": 6
     },
     {
-      "title": "患者投保 10 年后患结肠癌，泰康人寿以「遗传性疾病」拒赔，合理吗？保险公司能仅凭家族患癌史认定遗传性吗？",
-      "url": "https://www.zhihu.com/question/2086141127287994218",
-      "hot_value": "217 万热度",
+      "title": "2 岁女童站「独立洗澡神器」上被父母独留浴室，误触 70℃ 热水致重度烫伤，如何避免此类悲剧？",
+      "url": "https://www.zhihu.com/question/2084210073728041046",
+      "hot_value": "179 万热度",
       "index": 7
     },
     {
       "title": "如何看待各平台所谓「团体赛没有一人两分的义务」「一人一分是本分」「团体赛不能只靠一人」这种说法？",
       "url": "https://www.zhihu.com/question/2086757964514161040",
-      "hot_value": "216 万热度",
+      "hot_value": "176 万热度",
       "index": 8
     },
     {
-      "title": "如何看待 10 后学生走红的 「呆毛」发型，头顶剪一小撮炸起来像海胆？一代人有一代人的发型潮流吗？",
-      "url": "https://www.zhihu.com/question/2083240636430414973",
-      "hot_value": "216 万热度",
+      "title": "有什么食物是「中国人吃，而外国人基本不怎么吃的」？",
+      "url": "https://www.zhihu.com/question/643098290",
+      "hot_value": "173 万热度",
       "index": 9
     },
     {
-      "title": "为什么下雨时，鸭子不跑反而在雨中站着一动不动的？",
-      "url": "https://www.zhihu.com/question/1954295779792491267",
-      "hot_value": "202 万热度",
+      "title": "患者投保 10 年后患结肠癌，泰康人寿以「遗传性疾病」拒赔，合理吗？保险公司能仅凭家族患癌史认定遗传性吗？",
+      "url": "https://www.zhihu.com/question/2086141127287994218",
+      "hot_value": "165 万热度",
       "index": 10
     },
     {
       "title": "王楚钦 4-2 战胜泰国选手普里查扬，晋级亚运会乒乓男单 16 强，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2086801312062992642",
-      "hot_value": "196 万热度",
+      "hot_value": "164 万热度",
       "index": 11
     },
     {
       "title": "国乒男团 36 年来首次无缘亚运会金牌，客观来看，你认为最大的问题出在哪？",
       "url": "https://www.zhihu.com/question/2086533829968098988",
-      "hot_value": "193 万热度",
+      "hot_value": "164 万热度",
       "index": 12
     },
     {
-      "title": "王楚钦 / 孙颖莎 3-0 松岛辉空 / 张本美和，晋级亚运会混双四强，怎样评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2086745929999020976",
-      "hot_value": "189 万热度",
+      "title": "如何看待 10 后学生走红的 「呆毛」发型，头顶剪一小撮炸起来像海胆？一代人有一代人的发型潮流吗？",
+      "url": "https://www.zhihu.com/question/2083240636430414973",
+      "hot_value": "164 万热度",
       "index": 13
     },
     {
       "title": "你拍过最美的月亮照片是怎样的？",
       "url": "https://www.zhihu.com/question/2077862548670628536",
-      "hot_value": "177 万热度",
+      "hot_value": "154 万热度",
       "index": 14
     },
     {
-      "title": "亚运女篮半决赛，中国女篮 80-85 韩国女篮，张子宇 22 分，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2086799538883228770",
-      "hot_value": "164 万热度",
+      "title": "如果没有《繁花》爷叔这个角色，游本昌会不会就慢慢被遗忘了？",
+      "url": "https://www.zhihu.com/question/2086419048779051366",
+      "hot_value": "145 万热度",
       "index": 15
     },
     {
       "title": "苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？",
       "url": "https://www.zhihu.com/question/2084425616397426894",
-      "hot_value": "160 万热度",
+      "hot_value": "138 万热度",
       "index": 16
-    },
-    {
-      "title": "那些家里一夜破产，且负债千万的家庭，最后都怎么样了?",
-      "url": "https://www.zhihu.com/question/338189995",
-      "hot_value": "159 万热度",
-      "index": 17
     },
     {
       "title": "如何看待王皓回应男团丢金，称要把坏事变好事，给年轻运动员试错空间？",
       "url": "https://www.zhihu.com/question/2086743751020345201",
-      "hot_value": "158 万热度",
+      "hot_value": "136 万热度",
+      "index": 17
+    },
+    {
+      "title": "那些家里一夜破产，且负债千万的家庭，最后都怎么样了?",
+      "url": "https://www.zhihu.com/question/338189995",
+      "hot_value": "134 万热度",
       "index": 18
     },
     {
       "title": "现在买月饼的是买来自己吃的人多，还是买来送人的多？",
       "url": "https://www.zhihu.com/question/2081289454325589339",
-      "hot_value": "156 万热度",
+      "hot_value": "130 万热度",
       "index": 19
     },
     {
       "title": "员工态度好，但悟性差，长期业绩不达标，要不要辞退？",
       "url": "https://www.zhihu.com/question/2084101400494084295",
-      "hot_value": "154 万热度",
+      "hot_value": "122 万热度",
       "index": 20
-    },
-    {
-      "title": "如何解读教育司司长介绍「将在全国推行每周至少半天校外实践教学」？该政策能否落实？学校，家长该怎样配合？",
-      "url": "https://www.zhihu.com/question/2086042874961989634",
-      "hot_value": "152 万热度",
-      "index": 21
-    },
-    {
-      "title": "2 岁女童站「独立洗澡神器」上被父母独留浴室，误触 70℃ 热水致重度烫伤，如何避免此类悲剧？",
-      "url": "https://www.zhihu.com/question/2084210073728041046",
-      "hot_value": "148 万热度",
-      "index": 22
-    },
-    {
-      "title": "如果没有《繁花》爷叔这个角色，游本昌会不会就慢慢被遗忘了？",
-      "url": "https://www.zhihu.com/question/2086419048779051366",
-      "hot_value": "129 万热度",
-      "index": 23
-    },
-    {
-      "title": "教室空调开 20 度，我的孩子觉得好冷，老师说「觉得冷的孩子就多穿点」，怎么跟老师沟通这件事情？",
-      "url": "https://www.zhihu.com/question/2085620693169862464",
-      "hot_value": "118 万热度",
-      "index": 24
-    },
-    {
-      "title": "麦当劳多门店被举报售卖到期奶浆、无冷链运输，具体是咋回事？若属实会给麦当劳带来什么影响？",
-      "url": "https://www.zhihu.com/question/2085369534504853504",
-      "hot_value": "107 万热度",
-      "index": 25
-    },
-    {
-      "title": "西游记中卷帘大将为何打碎一个琉璃盏就会被贬下界？",
-      "url": "https://www.zhihu.com/question/2052316688327217463",
-      "hot_value": "106 万热度",
-      "index": 26
-    },
-    {
-      "title": "青岛一烤羊店招牌被六旬师傅装反，变为 「没有手艺，都是科技」，店铺意外走红，为啥这样反而受到大家青睐？",
-      "url": "https://www.zhihu.com/question/2078503228682126355",
-      "hot_value": "106 万热度",
-      "index": 27
-    },
-    {
-      "title": "欠了一周的觉，周末补一天和连续几天早睡，恢复效果一样吗？",
-      "url": "https://www.zhihu.com/question/2078484653346927360",
-      "hot_value": "104 万热度",
-      "index": 28
-    },
-    {
-      "title": "中秋还要被迫上班，是一种什么体验？",
-      "url": "https://www.zhihu.com/question/2084338046015464198",
-      "hot_value": "102 万热度",
-      "index": 29
     },
     {
       "title": "为什么清华不把打酱油的院系砍掉，专注于理工科?",
       "url": "https://www.zhihu.com/question/2028895979387069729",
-      "hot_value": "101 万热度",
+      "hot_value": "114 万热度",
+      "index": 21
+    },
+    {
+      "title": "为什么下雨时，鸭子不跑反而在雨中站着一动不动的？",
+      "url": "https://www.zhihu.com/question/1954295779792491267",
+      "hot_value": "113 万热度",
+      "index": 22
+    },
+    {
+      "title": "青岛一烤羊店招牌被六旬师傅装反，变为 「没有手艺，都是科技」，店铺意外走红，为啥这样反而受到大家青睐？",
+      "url": "https://www.zhihu.com/question/2078503228682126355",
+      "hot_value": "80 万热度",
+      "index": 23
+    },
+    {
+      "title": "为什么有人这么热衷游戏王？",
+      "url": "https://www.zhihu.com/question/21770005",
+      "hot_value": "77 万热度",
+      "index": 24
+    },
+    {
+      "title": "教室空调开 20 度，我的孩子觉得好冷，老师说「觉得冷的孩子就多穿点」，怎么跟老师沟通这件事情？",
+      "url": "https://www.zhihu.com/question/2085620693169862464",
+      "hot_value": "64 万热度",
+      "index": 25
+    },
+    {
+      "title": "网友吐槽美团抽成太多，一份 25 元的外卖商家实际到手收入 6.08 元，是真的吗？其余的钱都花在了什么环节？",
+      "url": "https://www.zhihu.com/question/2086444635463705931",
+      "hot_value": "59 万热度",
+      "index": 26
+    },
+    {
+      "title": "我二十岁，想尝试严肃文学写作，必须依靠天赋吗？没有天赋还有希望吗？",
+      "url": "https://www.zhihu.com/question/2082867641291748904",
+      "hot_value": "59 万热度",
+      "index": 27
+    },
+    {
+      "title": "西游记中卷帘大将为何打碎一个琉璃盏就会被贬下界？",
+      "url": "https://www.zhihu.com/question/2052316688327217463",
+      "hot_value": "59 万热度",
+      "index": 28
+    },
+    {
+      "title": "在体制内你认为需要会的技能是什么？",
+      "url": "https://www.zhihu.com/question/1221975724",
+      "hot_value": "59 万热度",
+      "index": 29
+    },
+    {
+      "title": "如果可以沿着一位古人的足迹去旅行，你最想选择谁？可以怎么规划路线？",
+      "url": "https://www.zhihu.com/question/2083607622570041611",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
