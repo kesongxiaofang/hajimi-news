@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-25T05:10:28Z",
+  "update_time": "2026-09-25T10:22:12Z",
   "count": 30,
   "list": [
     {
-      "title": "糟糕！我的粮食被勋宗抢走了！【神奇组织54】",
-      "url": "https://www.bilibili.com/video/BV1WhaA6hE7s",
-      "hot_value": "313410播放",
+      "title": "EP01 「琦逢对手」全新环节上线！8大国货品牌齐相聚！",
+      "url": "https://www.bilibili.com/video/BV1wSht6aEw4",
+      "hot_value": "1090472播放",
       "index": 1
     },
     {
-      "title": "我记录下了妹妹的最后7天...【自制伪纪录片电影】",
-      "url": "https://www.bilibili.com/video/BV1Deht6rEpZ",
-      "hot_value": "2236198播放",
+      "title": "中秋坐在一起聊聊英皇歌手的幕后故事【霍汶希Manifest】先导｜B站音乐独家视频播客",
+      "url": "https://www.bilibili.com/video/BV1LtaP6pEu7",
+      "hot_value": "1116836播放",
       "index": 2
     },
     {
-      "title": "每百年一次深渊血战，恶魔世界会如何发展？",
-      "url": "https://www.bilibili.com/video/BV1JBaA6oEmA",
-      "hot_value": "1037811播放",
+      "title": "【黄强强】《开学匹配到宝藏舍友》",
+      "url": "https://www.bilibili.com/video/BV16Qhx6HEsL",
+      "hot_value": "1841764播放",
       "index": 3
     },
     {
       "title": "【纪录片】生命奇观2 02 黄渤海湿地",
       "url": "https://www.bilibili.com/video/BV1SxhW6hEK3",
-      "hot_value": "973431播放",
+      "hot_value": "1373605播放",
       "index": 4
-    },
-    {
-      "title": "绷不住就死",
-      "url": "https://www.bilibili.com/video/BV19ee86cEae",
-      "hot_value": "842845播放",
-      "index": 5
     },
     {
       "title": "【非AI】这可能是全网最全实拍冷兵器合集！",
       "url": "https://www.bilibili.com/video/BV1a2h46yE8m",
-      "hot_value": "625042播放",
+      "hot_value": "1318187播放",
+      "index": 5
+    },
+    {
+      "title": "我记录下了妹妹的最后7天...【自制伪纪录片电影】",
+      "url": "https://www.bilibili.com/video/BV1Deht6rEpZ",
+      "hot_value": "3214859播放",
       "index": 6
+    },
+    {
+      "title": "今天抄家 人民的兔娘",
+      "url": "https://www.bilibili.com/video/BV1y6au6UEJp",
+      "hot_value": "399528播放",
+      "index": 7
+    },
+    {
+      "title": "弹 性 势 能 豌 豆",
+      "url": "https://www.bilibili.com/video/BV1tsaN6VEuM",
+      "hot_value": "762589播放",
+      "index": 8
+    },
+    {
+      "title": "在家破解¥300一块的上海最贵炸鸡，成本只要...",
+      "url": "https://www.bilibili.com/video/BV1emaA6SE3q",
+      "hot_value": "2342796播放",
+      "index": 9
+    },
+    {
+      "title": "【剧情】长生契（2026）02【方逸伦 / 谢可寅】",
+      "url": "https://www.bilibili.com/video/BV13Dem6VEhn",
+      "hot_value": "611827播放",
+      "index": 10
+    },
+    {
+      "title": "糟糕！我的粮食被勋宗抢走了！【神奇组织54】",
+      "url": "https://www.bilibili.com/video/BV1WhaA6hE7s",
+      "hot_value": "797890播放",
+      "index": 11
+    },
+    {
+      "title": "在机场当志愿者用六门语言帮助老外是什么体验？！",
+      "url": "https://www.bilibili.com/video/BV1F5h86PEUH",
+      "hot_value": "1861025播放",
+      "index": 12
+    },
+    {
+      "title": "《小杨有约30#》：杨迪",
+      "url": "https://www.bilibili.com/video/BV1JFaN6hEL9",
+      "hot_value": "357466播放",
+      "index": 13
+    },
+    {
+      "title": "2026 热 梗 年 度 总 结 ！！！【上】",
+      "url": "https://www.bilibili.com/video/BV1ZQau63EUf",
+      "hot_value": "277276播放",
+      "index": 14
+    },
+    {
+      "title": "【官方中字】尼古喵喵 第12集",
+      "url": "https://www.bilibili.com/video/BV1ucaK6UEHR",
+      "hot_value": "363102播放",
+      "index": 15
+    },
+    {
+      "title": "嚯！全自动高速运转流麻！！？",
+      "url": "https://www.bilibili.com/video/BV1F8ac6pEaA",
+      "hot_value": "573362播放",
+      "index": 16
+    },
+    {
+      "title": "鱼：什么打窝仙人！？ 叫榜一大哥！【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV13qh86EEGb",
+      "hot_value": "1451615播放",
+      "index": 17
+    },
+    {
+      "title": "【速凌宇宙】第二十七集：决战前夕！零号大坝有点太热闹了...",
+      "url": "https://www.bilibili.com/video/BV1HfhC66EZp",
+      "hot_value": "93103播放",
+      "index": 18
+    },
+    {
+      "title": "【独家】《罗小黑战记 学前篇》定档10月30日",
+      "url": "https://www.bilibili.com/video/BV1eNaA6EEmi",
+      "hot_value": "331013播放",
+      "index": 19
+    },
+    {
+      "title": "小猪佩奇解说《包青天》陈世美铡美案",
+      "url": "https://www.bilibili.com/video/BV1D3hB6ME7j",
+      "hot_value": "402704播放",
+      "index": 20
+    },
+    {
+      "title": "每百年一次深渊血战，恶魔世界会如何发展？",
+      "url": "https://www.bilibili.com/video/BV1JBaA6oEmA",
+      "hot_value": "1529348播放",
+      "index": 21
+    },
+    {
+      "title": "绷不住就死",
+      "url": "https://www.bilibili.com/video/BV19ee86cEae",
+      "hot_value": "1386171播放",
+      "index": 22
     },
     {
       "title": "《缅北讲师》",
       "url": "https://www.bilibili.com/video/BV1NWaA6TEfg",
-      "hot_value": "1155471播放",
-      "index": 7
+      "hot_value": "1561616播放",
+      "index": 23
     },
     {
-      "title": "当顾客说我的饭难以下咽",
-      "url": "https://www.bilibili.com/video/BV1gQhf6hEPH",
-      "hot_value": "359320播放",
-      "index": 8
+      "title": "游戏全是女性？玩家才是真魅魔！一眼没爱上都算高冷？这游戏开放度恐怖如斯！",
+      "url": "https://www.bilibili.com/video/BV1RAaA6SE9c",
+      "hot_value": "81592播放",
+      "index": 24
     },
     {
-      "title": "二周年彩蛋全流程！一起见证！二洲年快乐！",
-      "url": "https://www.bilibili.com/video/BV1uPaK62EbF",
-      "hot_value": "1500645播放",
-      "index": 9
+      "title": "跳反欧盟，指脸对骂，一口气看懂美国加拿大贸易战",
+      "url": "https://www.bilibili.com/video/BV1kXaw64Eb6",
+      "hot_value": "464069播放",
+      "index": 25
     },
     {
-      "title": "在每一个集体中都被排挤的那个同学，你好（阿晴教学篇op/ed）【27】",
-      "url": "https://www.bilibili.com/video/BV14saA6vEpL",
-      "hot_value": "365564播放",
-      "index": 10
+      "title": "《绝区零》洛克茜角色展示 | 神秘负棺人",
+      "url": "https://www.bilibili.com/video/BV1RMaA6jEXs",
+      "hot_value": "376757播放",
+      "index": 26
     },
     {
-      "title": "【独家】时光代理人 第三季 PartOne 第8集 血色风浪【8月国创】",
-      "url": "https://www.bilibili.com/video/BV1cDhj6wEMV",
-      "hot_value": "670861播放",
-      "index": 11
-    },
-    {
-      "title": "准备了两个月的视频有点长，没刀",
-      "url": "https://www.bilibili.com/video/BV14naA6ME4p",
-      "hot_value": "289117播放",
-      "index": 12
-    },
-    {
-      "title": "平澜起风波 | 书院同窗们，开学啦！",
-      "url": "https://www.bilibili.com/video/BV1yUaw6FEaW",
-      "hot_value": "1036191播放",
-      "index": 13
-    },
-    {
-      "title": "当MC生物都变成了宝宝，生存会变成什么样子？",
-      "url": "https://www.bilibili.com/video/BV1j8hn6wEGC",
-      "hot_value": "343842播放",
-      "index": 14
-    },
-    {
-      "title": "我买下了15万的船票，踏上了前往世界尽头的旅行…..",
-      "url": "https://www.bilibili.com/video/BV19naF66Ezb",
-      "hot_value": "1125178播放",
-      "index": 15
-    },
-    {
-      "title": "希望你们也可以吃到月饼",
-      "url": "https://www.bilibili.com/video/BV1LCac6yEBy",
-      "hot_value": "1353105播放",
-      "index": 16
-    },
-    {
-      "title": "我的行为 vs 爷爷奶奶看到的",
-      "url": "https://www.bilibili.com/video/BV1PMaP6KE5Q",
-      "hot_value": "690294播放",
-      "index": 17
-    },
-    {
-      "title": "超市里已经……没有人类了……",
-      "url": "https://www.bilibili.com/video/BV18fhb65EGs",
-      "hot_value": "1080833播放",
-      "index": 18
-    },
-    {
-      "title": "作业王朝",
-      "url": "https://www.bilibili.com/video/BV1phaA6hE7m",
-      "hot_value": "672430播放",
-      "index": 19
-    },
-    {
-      "title": "【剧情】长生契（2026）01【方逸伦 / 谢可寅】",
-      "url": "https://www.bilibili.com/video/BV13Dem6VE1M",
-      "hot_value": "1278873播放",
-      "index": 20
-    },
-    {
-      "title": "赴一场星河之约，守一段洲年荣光。三角洲二洲年快乐！",
-      "url": "https://www.bilibili.com/video/BV1Pwhx6dETi",
-      "hot_value": "1087797播放",
-      "index": 21
+      "title": "热搜上逆天的“后备箱礼物”事件：多少神人，正在把惊喜变成羞辱",
+      "url": "https://www.bilibili.com/video/BV1bdh46BE2z",
+      "hot_value": "1486698播放",
+      "index": 27
     },
     {
       "title": "猫不理咖啡《史诗级加强》",
       "url": "https://www.bilibili.com/video/BV11WaA6KEBb",
-      "hot_value": "333214播放",
-      "index": 22
-    },
-    {
-      "title": "叮咚，您的好友发来语音——真珠的「金嗓子生成器」",
-      "url": "https://www.bilibili.com/video/BV1RHaw6mEDR",
-      "hot_value": "830626播放",
-      "index": 23
-    },
-    {
-      "title": "我把 雀巢 变成美少女 ？？？",
-      "url": "https://www.bilibili.com/video/BV1PUaw6cEZs",
-      "hot_value": "834801播放",
-      "index": 24
-    },
-    {
-      "title": "你怎么舍得让我的泪流向海",
-      "url": "https://www.bilibili.com/video/BV14KaK6LE8w",
-      "hot_value": "1075077播放",
-      "index": 25
-    },
-    {
-      "title": "当中俄伊塞坐一桌——文化历史大对账01【核频区】",
-      "url": "https://www.bilibili.com/video/BV1rmhZ65EWk",
-      "hot_value": "417610播放",
-      "index": 26
-    },
-    {
-      "title": "胆子肥嘟嘟！两次水淬 血祭附魔 这刀怕是要成精了《锻刀大赛》",
-      "url": "https://www.bilibili.com/video/BV1s8aA6wE59",
-      "hot_value": "536814播放",
-      "index": 27
-    },
-    {
-      "title": "热烈欢迎易立竞！看看高智感的易老师在工作中和工作外的好东西！（期待我的笔上易老师的节目🙏",
-      "url": "https://www.bilibili.com/video/BV1qdhx6UESM",
-      "hot_value": "815395播放",
+      "hot_value": "608123播放",
       "index": 28
     },
     {
-      "title": "『飙马野郎 JOJO的奇妙冒险』 OP Kroi 「SPIN」",
-      "url": "https://www.bilibili.com/video/BV1e6h46UEfG",
-      "hot_value": "2252001播放",
+      "title": "超市里已经……没有人类了……",
+      "url": "https://www.bilibili.com/video/BV18fhb65EGs",
+      "hot_value": "1380460播放",
       "index": 29
     },
     {
-      "title": "徒步1357公里，我后悔了？",
-      "url": "https://www.bilibili.com/video/BV1Pwhx6dExc",
-      "hot_value": "622551播放",
+      "title": "峰哥亡命越南，胡志明一日吃逛vlog",
+      "url": "https://www.bilibili.com/video/BV1Lfau6iEYQ",
+      "hot_value": "318852播放",
       "index": 30
     }
   ]
