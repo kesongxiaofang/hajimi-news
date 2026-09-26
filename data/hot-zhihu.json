@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-26T01:08:19Z",
+  "update_time": "2026-09-26T06:21:10Z",
   "count": 30,
   "list": [
     {
       "title": "美方称中美「贸易休战」延长至明年 1 月，这对世界局势有何影响？",
       "url": "https://www.zhihu.com/question/2086393162981979290",
-      "hot_value": "1557 万热度",
+      "hot_value": "2536 万热度",
       "index": 1
     },
     {
       "title": "樊振东回归能解决目前国乒的问题吗？他回归的可能性有多大？",
       "url": "https://www.zhihu.com/question/2086536830514459879",
-      "hot_value": "569 万热度",
+      "hot_value": "1387 万热度",
       "index": 2
     },
     {
-      "title": "亚运女子 100 米短跑决赛，陈妤颉夺冠，跑出 11.06 秒​​​​刷新亚运会纪录，如何评价本场对决？",
-      "url": "https://www.zhihu.com/question/2086885798066878405",
-      "hot_value": "171 万热度",
+      "title": "亚运会男子 100 米半决赛，泰国选手汶颂跑出 9.91 秒，突破苏炳添亚运纪录，如何评价？",
+      "url": "https://www.zhihu.com/question/2086892833596600701",
+      "hot_value": "417 万热度",
       "index": 3
     },
     {
       "title": "《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗？",
       "url": "https://www.zhihu.com/question/2086446703897310714",
-      "hot_value": "156 万热度",
+      "hot_value": "277 万热度",
       "index": 4
     },
     {
-      "title": "如果没有《繁花》爷叔这个角色，游本昌会不会就慢慢被遗忘了？",
-      "url": "https://www.zhihu.com/question/2086419048779051366",
-      "hot_value": "136 万热度",
+      "title": "网红狗头萝莉自曝负债 650 万成老赖，主播为何频频陷入天价违约金困境？",
+      "url": "https://www.zhihu.com/question/2086478767204086698",
+      "hot_value": "212 万热度",
       "index": 5
     },
     {
-      "title": "2 岁女童站「独立洗澡神器」上被父母独留浴室，误触 70℃ 热水致重度烫伤，如何避免此类悲剧？",
-      "url": "https://www.zhihu.com/question/2084210073728041046",
-      "hot_value": "133 万热度",
+      "title": "中美同意共同构建基于尊重、公平、对等的建设性战略稳定关系，这一新定位有哪些深意和影响？",
+      "url": "https://www.zhihu.com/question/2087138028443668724",
+      "hot_value": "148 万热度",
       "index": 6
     },
     {
-      "title": "怎么评价 DeepSeek Harness 桌面版源码正式上线？",
-      "url": "https://www.zhihu.com/question/2086771082363778021",
-      "hot_value": "131 万热度",
+      "title": "张本智和 3-0 王楚钦，赛后称等这枚金牌等了十年，现在张本智和的水平在哪个层次？对国乒威胁有多大？",
+      "url": "https://www.zhihu.com/question/2086566324948264822",
+      "hot_value": "134 万热度",
       "index": 7
-    },
-    {
-      "title": "全国牛肉批发均价涨至一公斤 71 元，创两年来新高，受哪些因素影响？",
-      "url": "https://www.zhihu.com/question/2086609964114634301",
-      "hot_value": "117 万热度",
-      "index": 8
-    },
-    {
-      "title": "为什么清华不把打酱油的院系砍掉，专注于理工科?",
-      "url": "https://www.zhihu.com/question/2028895979387069729",
-      "hot_value": "104 万热度",
-      "index": 9
-    },
-    {
-      "title": "月球引发的潮汐力可引起大海潮汐涨落，为什么对人体里的水没有反应？",
-      "url": "https://www.zhihu.com/question/2048110316056326927",
-      "hot_value": "99 万热度",
-      "index": 10
-    },
-    {
-      "title": "亚运会男子 100 米半决赛，泰国选手汶颂跑出 9.91 秒，突破苏炳添亚运纪录，如何评价？",
-      "url": "https://www.zhihu.com/question/2086892833596600701",
-      "hot_value": "97 万热度",
-      "index": 11
     },
     {
       "title": "护士突发脑出血倒在工作岗位，人社局称抢救十天不予认定工伤，为何倒在工位上仍无法认定工伤？",
       "url": "https://www.zhihu.com/question/2086839765966348416",
-      "hot_value": "96 万热度",
+      "hot_value": "127 万热度",
+      "index": 8
+    },
+    {
+      "title": "为什么鸡转头是「一下一下」「瞬移」，而不是像人一样有肉眼可见的转头过程？",
+      "url": "https://www.zhihu.com/question/665173840",
+      "hot_value": "119 万热度",
+      "index": 9
+    },
+    {
+      "title": "如何看待千亿航天被曝强制加班、非客观原因开除，其 CEO 回应称管理方式比较粗暴并就不实信息报警？",
+      "url": "https://www.zhihu.com/question/2086212993591857225",
+      "hot_value": "105 万热度",
+      "index": 10
+    },
+    {
+      "title": "著名音乐家刘欢于 9 月 25 日在上海病逝，享年 63 岁，如何评价他在华语乐坛的地位？哪首歌是你的时代记忆？",
+      "url": "https://www.zhihu.com/question/2087120107130598179",
+      "hot_value": "98 万热度",
+      "index": 11
+    },
+    {
+      "title": "现在的孩子要什么有什么，为啥眼里没了光？",
+      "url": "https://www.zhihu.com/question/2086030429858051809",
+      "hot_value": "91 万热度",
       "index": 12
     },
     {
-      "title": "把自己并不喜欢的事情做好，是否算一种重要能力？",
-      "url": "https://www.zhihu.com/question/2085068641758987179",
-      "hot_value": "94 万热度",
+      "title": "王楚钦之后谁还能扛起国乒大旗？为什么感觉新人都差了那么一点？",
+      "url": "https://www.zhihu.com/question/2086538132225091055",
+      "hot_value": "90 万热度",
       "index": 13
     },
     {
-      "title": "客观看国乒男团决赛前的变阵是最好的选择吗？",
-      "url": "https://www.zhihu.com/question/2086537517075886572",
-      "hot_value": "93 万热度",
+      "title": "刘欢 63 岁去世，生前长期受股骨头缺血性坏死困扰，该病被称为「不死的癌症」，它会如何逐步拖垮身体？",
+      "url": "https://www.zhihu.com/question/2087134099702137028",
+      "hot_value": "90 万热度",
       "index": 14
     },
     {
-      "title": "教育部称推动建设 1000 所以上的优质高中，加大完全中学、十二年一贯制学校建设力度，透露哪些信息？",
-      "url": "https://www.zhihu.com/question/2086054245120398456",
-      "hot_value": "91 万热度",
+      "title": "为什么「西游记」里的太上老君没有「封神演义」里的太上老君地位高？",
+      "url": "https://www.zhihu.com/question/497309673",
+      "hot_value": "89 万热度",
       "index": 15
     },
     {
-      "title": "苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？",
-      "url": "https://www.zhihu.com/question/2084425616397426894",
-      "hot_value": "90 万热度",
+      "title": "四川 38 岁男子赴泰失联 79 天获救，称自己「超龄不好卖」被当赠品卖给园区，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2085859065209660285",
+      "hot_value": "87 万热度",
       "index": 16
     },
     {
-      "title": "那些家里一夜破产，且负债千万的家庭，最后都怎么样了?",
-      "url": "https://www.zhihu.com/question/338189995",
-      "hot_value": "90 万热度",
+      "title": "为什么工作看第一学历不是最高学历？有人说上海一本去河南大概率专科，河南一本去上海能上 985，是这样吗？",
+      "url": "https://www.zhihu.com/question/2085135003860711402",
+      "hot_value": "85 万热度",
       "index": 17
     },
     {
-      "title": "如何看待 10 后学生走红的 「呆毛」发型，头顶剪一小撮炸起来像海胆？一代人有一代人的发型潮流吗？",
-      "url": "https://www.zhihu.com/question/2083240636430414973",
-      "hot_value": "89 万热度",
+      "title": "全国牛肉批发均价涨至一公斤 71 元，创两年来新高，受哪些因素影响？",
+      "url": "https://www.zhihu.com/question/2086609964114634301",
+      "hot_value": "84 万热度",
       "index": 18
     },
     {
-      "title": "民国时期有哪些精致的女子？",
-      "url": "https://www.zhihu.com/question/23584359",
-      "hot_value": "88 万热度",
+      "title": "凡人修仙传动画 193 集观众满意吗？",
+      "url": "https://www.zhihu.com/question/2086612911569495726",
+      "hot_value": "77 万热度",
       "index": 19
     },
     {
-      "title": "现在中秋很多人都在出门玩，中秋节「团圆」的属性是不是越来越淡了？",
-      "url": "https://www.zhihu.com/question/2085534768272076826",
-      "hot_value": "86 万热度",
+      "title": "《哦，香雪》中的香雪用 40 个鸡蛋换自动铅笔盒到底值不值得？",
+      "url": "https://www.zhihu.com/question/344589817",
+      "hot_value": "76 万热度",
       "index": 20
     },
     {
-      "title": "王楚钦 4-2 战胜泰国选手普里查扬，晋级亚运会乒乓男单 16 强，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2086801312062992642",
-      "hot_value": "85 万热度",
+      "title": "花小钱办大事是一种怎样的体验？",
+      "url": "https://www.zhihu.com/question/52579522",
+      "hot_value": "75 万热度",
       "index": 21
     },
     {
-      "title": "为什么下雨时，鸭子不跑反而在雨中站着一动不动的？",
-      "url": "https://www.zhihu.com/question/1954295779792491267",
-      "hot_value": "84 万热度",
+      "title": "为什么月饼卖不动了，大家都不喜欢吃了吗？",
+      "url": "https://www.zhihu.com/question/1954114630910710482",
+      "hot_value": "73 万热度",
       "index": 22
     },
     {
-      "title": "韩国奥委会主席柳承敏「如果给本届亚运会打分，那只能是不及格，非常失望，组委会极其无能」，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2086475888606930529",
-      "hot_value": "84 万热度",
+      "title": "如何评价原神 7.1 版本逐月节任务「银翎溯月，玄鸟结璘」？",
+      "url": "https://www.zhihu.com/question/2086406224547934857",
+      "hot_value": "71 万热度",
       "index": 23
     },
     {
-      "title": "为什么工作看第一学历不是最高学历，试卷难度分数上海一本去河南大概率专科，河南一本去上海能上 985？",
-      "url": "https://www.zhihu.com/question/2085135003860711402",
-      "hot_value": "70 万热度",
+      "title": "如果十年前的你。看到今天的自己，你是心疼还是失望？",
+      "url": "https://www.zhihu.com/question/2084221969642345525",
+      "hot_value": "59 万热度",
       "index": 24
     },
     {
-      "title": "神雕原著中有几条隐藏的暗线？",
-      "url": "https://www.zhihu.com/question/2044400630115127445",
-      "hot_value": "70 万热度",
+      "title": "张展硕夺得亚运会男子 400 米自由泳金牌，至此斩获 7 枚金牌，如何评价他的个人表现？",
+      "url": "https://www.zhihu.com/question/2086864513504993403",
+      "hot_value": "58 万热度",
       "index": 25
     },
     {
-      "title": "哪本书明显提高了你的认知，可以分享一下吗？",
-      "url": "https://www.zhihu.com/question/2075361600366699657",
-      "hot_value": "69 万热度",
+      "title": "为什么清华不把打酱油的院系砍掉，专注于理工科?",
+      "url": "https://www.zhihu.com/question/2028895979387069729",
+      "hot_value": "58 万热度",
       "index": 26
     },
     {
-      "title": "中国游泳队亚运会 30 金收官，创历史最好成绩，为何中国队游泳队这几年有如此强劲的上升势头？",
-      "url": "https://www.zhihu.com/question/2086877886196052068",
-      "hot_value": "56 万热度",
+      "title": "古埃及是整个地中海世界最大的粮仓，为啥没有像中华文明一样，安心做个农业文明呢？",
+      "url": "https://www.zhihu.com/question/8983254302",
+      "hot_value": "58 万热度",
       "index": 27
     },
     {
-      "title": "为什么越讨好别人，反而越不被珍惜？",
-      "url": "https://www.zhihu.com/question/2060736130702644476",
-      "hot_value": "56 万热度",
+      "title": "如果没有《繁花》爷叔这个角色，游本昌会不会就慢慢被遗忘了？",
+      "url": "https://www.zhihu.com/question/2086419048779051366",
+      "hot_value": "58 万热度",
       "index": 28
     },
     {
-      "title": "李渊有三个哥哥，为何他获袭唐国公？",
-      "url": "https://www.zhihu.com/question/558770330",
-      "hot_value": "56 万热度",
+      "title": "我二十岁，想尝试严肃文学写作，必须依靠天赋吗？没有天赋还有希望吗？",
+      "url": "https://www.zhihu.com/question/2082867641291748904",
+      "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "在体制内你认为需要会的技能是什么？",
-      "url": "https://www.zhihu.com/question/1221975724",
-      "hot_value": "56 万热度",
+      "title": "如何评价 AI 短剧《我的妹妹不可爱》？",
+      "url": "https://www.zhihu.com/question/2082633591561924694",
+      "hot_value": "57 万热度",
       "index": 30
     }
   ]
