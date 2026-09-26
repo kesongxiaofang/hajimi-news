@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-09-26T18:56:49Z",
+  "update_time": "2026-09-26T21:52:29Z",
   "count": 30,
   "list": [
     {
       "title": "习近平和彭丽媛同特朗普夫妇茶叙",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E5%A6%87%E8%8C%B6%E5%8F%99",
-      "hot_value": "1,278.9万",
+      "hot_value": "1,317.6万",
       "index": 1
     },
     {
       "title": "中美交往档案珍藏在这里",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E7%BE%8E%E4%BA%A4%E5%BE%80%E6%A1%A3%E6%A1%88%E7%8F%8D%E8%97%8F%E5%9C%A8%E8%BF%99%E9%87%8C",
-      "hot_value": "1,277.3万",
+      "hot_value": "1,317.4万",
       "index": 2
     },
     {
       "title": "中美达成八点成果共识",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86",
-      "hot_value": "1,272.5万",
+      "hot_value": "1,317.3万",
       "index": 3
     },
     {
       "title": "林诗栋蒯曼4比0王楚钦孙颖莎",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC4%E6%AF%940%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E",
-      "hot_value": "1,265.8万",
+      "hot_value": "1,317.1万",
       "index": 4
     },
     {
       "title": "我也开始看月亮了",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E4%B9%9F%E5%BC%80%E5%A7%8B%E7%9C%8B%E6%9C%88%E4%BA%AE%E4%BA%86",
-      "hot_value": "1,243.5万",
+      "hot_value": "1,317万",
       "index": 5
     },
     {
       "title": "国乒包揽亚运混双金银牌",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E4%BA%9A%E8%BF%90%E6%B7%B7%E5%8F%8C%E9%87%91%E9%93%B6%E7%89%8C",
-      "hot_value": "1,239.5万",
+      "hot_value": "1,316.8万",
       "index": 6
     },
     {
       "title": "要等到月亮变全你才会回到我身边",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%A6%81%E7%AD%89%E5%88%B0%E6%9C%88%E4%BA%AE%E5%8F%98%E5%85%A8%E4%BD%A0%E6%89%8D%E4%BC%9A%E5%9B%9E%E5%88%B0%E6%88%91%E8%BA%AB%E8%BE%B9",
-      "hot_value": "1,235.3万",
+      "hot_value": "1,316.7万",
       "index": 7
     },
     {
-      "title": "我是人有心会痛",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E6%98%AF%E4%BA%BA%E6%9C%89%E5%BF%83%E4%BC%9A%E7%97%9B",
-      "hot_value": "1,233.4万",
+      "title": "十六的月饼一块钱",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%81%E5%85%AD%E7%9A%84%E6%9C%88%E9%A5%BC%E4%B8%80%E5%9D%97%E9%92%B1",
+      "hot_value": "1,316.7万",
       "index": 8
     },
     {
       "title": "三张照片见证中美关系行稳致远",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%89%E5%BC%A0%E7%85%A7%E7%89%87%E8%A7%81%E8%AF%81%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C",
-      "hot_value": "1,219.6万",
+      "hot_value": "1,257.4万",
       "index": 9
     },
     {
-      "title": "张本智和回应爆冷出局",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%9B%9E%E5%BA%94%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80",
-      "hot_value": "974.9万",
+      "title": "刘欢与水浒传主创唱好汉歌",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%98%E6%AC%A2%E4%B8%8E%E6%B0%B4%E6%B5%92%E4%BC%A0%E4%B8%BB%E5%88%9B%E5%94%B1%E5%A5%BD%E6%B1%89%E6%AD%8C",
+      "hot_value": "1,246.6万",
       "index": 10
     },
     {
       "title": "双节买月饼吃螃蟹的误区",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%8C%E8%8A%82%E4%B9%B0%E6%9C%88%E9%A5%BC%E5%90%83%E8%9E%83%E8%9F%B9%E7%9A%84%E8%AF%AF%E5%8C%BA",
-      "hot_value": "974.8万",
+      "hot_value": "1,153.3万",
       "index": 11
     },
     {
       "title": "著名歌手刘欢去世",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%91%97%E5%90%8D%E6%AD%8C%E6%89%8B%E5%88%98%E6%AC%A2%E5%8E%BB%E4%B8%96",
-      "hot_value": "974.3万",
+      "hot_value": "1,150.3万",
       "index": 12
     },
     {
-      "title": "那英演唱会缅怀刘欢",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BC%85%E6%80%80%E5%88%98%E6%AC%A2",
-      "hot_value": "973.1万",
+      "title": "山西警方打掉色情敲诈团伙",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B1%B1%E8%A5%BF%E8%AD%A6%E6%96%B9%E6%89%93%E6%8E%89%E8%89%B2%E6%83%85%E6%95%B2%E8%AF%88%E5%9B%A2%E4%BC%99",
+      "hot_value": "1,144.7万",
       "index": 13
     },
     {
-      "title": "shyel摇",
-      "url": "https://www.kuaishou.com/search/video?searchKey=shyel%E6%91%87",
-      "hot_value": "972.3万",
+      "title": "女子就诊瘫软护士公主抱",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%B0%B1%E8%AF%8A%E7%98%AB%E8%BD%AF%E6%8A%A4%E5%A3%AB%E5%85%AC%E4%B8%BB%E6%8A%B1",
+      "hot_value": "1,121.8万",
       "index": 14
     },
     {
-      "title": "王祖贤计划回安徽探亲",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%AE%A1%E5%88%92%E5%9B%9E%E5%AE%89%E5%BE%BD%E6%8E%A2%E4%BA%B2",
-      "hot_value": "967.3万",
+      "title": "节日我在岗守万家团圆",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8A%82%E6%97%A5%E6%88%91%E5%9C%A8%E5%B2%97%E5%AE%88%E4%B8%87%E5%AE%B6%E5%9B%A2%E5%9C%86",
+      "hot_value": "1,101.4万",
       "index": 15
+    },
+    {
+      "title": "周深被赞粤语小天才",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%91%A8%E6%B7%B1%E8%A2%AB%E8%B5%9E%E7%B2%A4%E8%AF%AD%E5%B0%8F%E5%A4%A9%E6%89%8D",
+      "hot_value": "1,080.8万",
+      "index": 16
+    },
+    {
+      "title": "贵州石阡民俗巡游开街",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B4%B5%E5%B7%9E%E7%9F%B3%E9%98%A1%E6%B0%91%E4%BF%97%E5%B7%A1%E6%B8%B8%E5%BC%80%E8%A1%97",
+      "hot_value": "1,014.7万",
+      "index": 17
+    },
+    {
+      "title": "孙尚香三丽鸥cos",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AD%99%E5%B0%9A%E9%A6%99%E4%B8%89%E4%B8%BD%E9%B8%A5cos",
+      "hot_value": "1,012万",
+      "index": 18
+    },
+    {
+      "title": "爱知名古屋亚运会奖牌榜",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%88%B1%E7%9F%A5%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A5%96%E7%89%8C%E6%A6%9C",
+      "hot_value": "1,006.5万",
+      "index": 19
+    },
+    {
+      "title": "我是人有心会痛",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E6%98%AF%E4%BA%BA%E6%9C%89%E5%BF%83%E4%BC%9A%E7%97%9B",
+      "hot_value": "1,003.8万",
+      "index": 20
+    },
+    {
+      "title": "高中生深夜偷吃螺蛳粉",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B7%B1%E5%A4%9C%E5%81%B7%E5%90%83%E8%9E%BA%E8%9B%B3%E7%B2%89",
+      "hot_value": "999.4万",
+      "index": 21
     },
     {
       "title": "歌手节目已经痛失两位歌王",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AD%8C%E6%89%8B%E8%8A%82%E7%9B%AE%E5%B7%B2%E7%BB%8F%E7%97%9B%E5%A4%B1%E4%B8%A4%E4%BD%8D%E6%AD%8C%E7%8E%8B",
-      "hot_value": "965.6万",
-      "index": 16
+      "hot_value": "996.1万",
+      "index": 22
     },
     {
-      "title": "男子疑纹身遭议论斗殴获刑",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E7%96%91%E7%BA%B9%E8%BA%AB%E9%81%AD%E8%AE%AE%E8%AE%BA%E6%96%97%E6%AE%B4%E8%8E%B7%E5%88%91",
-      "hot_value": "961.9万",
-      "index": 17
+      "title": "邵阳队1比1战平益阳队",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%82%B5%E9%98%B3%E9%98%9F1%E6%AF%941%E6%88%98%E5%B9%B3%E7%9B%8A%E9%98%B3%E9%98%9F",
+      "hot_value": "990.7万",
+      "index": 23
     },
     {
-      "title": "比尔盖茨警告AI或致十亿人死亡",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-      "hot_value": "959.3万",
-      "index": 18
-    },
-    {
-      "title": "带你体验第一视角抢钱塘江潮头鱼",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B8%A6%E4%BD%A0%E4%BD%93%E9%AA%8C%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E6%8A%A2%E9%92%B1%E5%A1%98%E6%B1%9F%E6%BD%AE%E5%A4%B4%E9%B1%BC",
-      "hot_value": "957.2万",
-      "index": 19
+      "title": "中秋吃火锅配月饼",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E7%A7%8B%E5%90%83%E7%81%AB%E9%94%85%E9%85%8D%E6%9C%88%E9%A5%BC",
+      "hot_value": "985.9万",
+      "index": 24
     },
     {
       "title": "刘欢离世前曾隐瞒病情",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%98%E6%AC%A2%E7%A6%BB%E4%B8%96%E5%89%8D%E6%9B%BE%E9%9A%90%E7%9E%92%E7%97%85%E6%83%85",
-      "hot_value": "953.4万",
-      "index": 20
-    },
-    {
-      "title": "男子盗窃金店开门遇警察",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E9%87%91%E5%BA%97%E5%BC%80%E9%97%A8%E9%81%87%E8%AD%A6%E5%AF%9F",
-      "hot_value": "952.9万",
-      "index": 21
-    },
-    {
-      "title": "王源回应备战奥运",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E6%BA%90%E5%9B%9E%E5%BA%94%E5%A4%87%E6%88%98%E5%A5%A5%E8%BF%90",
-      "hot_value": "951.4万",
-      "index": 22
-    },
-    {
-      "title": "动漫组合4比0胜莎头组合",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8A%A8%E6%BC%AB%E7%BB%84%E5%90%884%E6%AF%940%E8%83%9C%E8%8E%8E%E5%A4%B4%E7%BB%84%E5%90%88",
-      "hot_value": "948.1万",
-      "index": 23
-    },
-    {
-      "title": "韩红发文悼念刘欢",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%9F%A9%E7%BA%A2%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2",
-      "hot_value": "943.6万",
-      "index": 24
-    },
-    {
-      "title": "年轻人赏月有的是力气和手段",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B5%8F%E6%9C%88%E6%9C%89%E7%9A%84%E6%98%AF%E5%8A%9B%E6%B0%94%E5%92%8C%E6%89%8B%E6%AE%B5",
-      "hot_value": "941.4万",
+      "hot_value": "984.7万",
       "index": 25
     },
     {
-      "title": "张本智和亚运会爆冷出局",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80",
-      "hot_value": "938.8万",
+      "title": "女子未婚去婆家送礼",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E6%9C%AA%E5%A9%9A%E5%8E%BB%E5%A9%86%E5%AE%B6%E9%80%81%E7%A4%BC",
+      "hot_value": "981万",
       "index": 26
     },
     {
-      "title": "吴艳妮晋级100米栏决赛",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%B4%E8%89%B3%E5%A6%AE%E6%99%8B%E7%BA%A7100%E7%B1%B3%E6%A0%8F%E5%86%B3%E8%B5%9B",
-      "hot_value": "936.4万",
+      "title": "比尔盖茨警告AI或致十亿人死亡",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+      "hot_value": "978.7万",
       "index": 27
     },
     {
-      "title": "众星悼念刘欢",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2",
-      "hot_value": "931.4万",
+      "title": "纯牛奶倒出水董事长道歉",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BA%AF%E7%89%9B%E5%A5%B6%E5%80%92%E5%87%BA%E6%B0%B4%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%93%E6%AD%89",
+      "hot_value": "976.1万",
       "index": 28
     },
     {
-      "title": "中秋留校生遭本地室友哄抢",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E7%A7%8B%E7%95%99%E6%A0%A1%E7%94%9F%E9%81%AD%E6%9C%AC%E5%9C%B0%E5%AE%A4%E5%8F%8B%E5%93%84%E6%8A%A2",
-      "hot_value": "929.1万",
+      "title": "刘欢妻子发文",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%E5%8F%91%E6%96%87",
+      "hot_value": "973.5万",
       "index": 29
     },
     {
-      "title": "孙千谈做演员感悟",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AD%99%E5%8D%83%E8%B0%88%E5%81%9A%E6%BC%94%E5%91%98%E6%84%9F%E6%82%9F",
-      "hot_value": "926.5万",
+      "title": "平陆运河改变西南货流",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E6%94%B9%E5%8F%98%E8%A5%BF%E5%8D%97%E8%B4%A7%E6%B5%81",
+      "hot_value": "968.8万",
       "index": 30
     }
   ]
