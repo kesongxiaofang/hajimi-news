@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-27T15:44:01Z",
+  "update_time": "2026-09-27T19:29:01Z",
   "count": 30,
   "list": [
     {
       "title": "亚运会乒乓球男双决赛，林诗栋 / 黄友政 4-2 张本智和 / 篠塚大登，获男双金牌，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2087560514792419879",
-      "hot_value": "1684 万热度",
+      "hot_value": "1417 万热度",
       "index": 1
-    },
-    {
-      "title": "一技校 101 名毕业生入职北大，学生一般大二就被预订，主要去实验室做科研助手，这是一种怎样的职业路径？",
-      "url": "https://www.zhihu.com/question/2087469941116990453",
-      "hot_value": "729 万热度",
-      "index": 2
-    },
-    {
-      "title": "亚运会女子标枪决赛，严子怡夺金，投出 70 米 46 刷新亚运纪录，如何评价她的个人表现以及本场比赛？",
-      "url": "https://www.zhihu.com/question/2087637427082851450",
-      "hot_value": "567 万热度",
-      "index": 3
     },
     {
       "title": "交强险 2025 年经营亏损 230 亿元，3.86 亿辆机动车参保，赔付支出 2524 亿元，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2087512663706133685",
-      "hot_value": "393 万热度",
-      "index": 4
-    },
-    {
-      "title": "中美达成八点成果共识，达成「300 亿美元」对等降税安排，哪些信息值得重点关注？",
-      "url": "https://www.zhihu.com/question/2087214676530525535",
-      "hot_value": "332 万热度",
-      "index": 5
-    },
-    {
-      "title": "亚运会女子 100 米栏决赛，福部真子夺冠，吴艳妮铜牌，如何评价她们的表现和本场比赛？",
-      "url": "https://www.zhihu.com/question/2087541086738540004",
-      "hot_value": "316 万热度",
-      "index": 6
-    },
-    {
-      "title": "亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？",
-      "url": "https://www.zhihu.com/question/2087540791207879476",
-      "hot_value": "316 万热度",
-      "index": 7
-    },
-    {
-      "title": "既然国人嫌弃月饼高油高糖，为啥不把月饼出口到喜爱糖油混合物的美国呢？",
-      "url": "https://www.zhihu.com/question/2084270983846875442",
-      "hot_value": "300 万热度",
-      "index": 8
-    },
-    {
-      "title": "刘欢在中国乐坛的地位是怎样的？",
-      "url": "https://www.zhihu.com/question/20404153",
-      "hot_value": "284 万热度",
-      "index": 9
+      "hot_value": "477 万热度",
+      "index": 2
     },
     {
       "title": "小米 18 系列硬件防窥屏线下实测被指可视角度差、侧看偏色，这是翻车了吗？是硬件方案固有缺陷还是调校问题？",
       "url": "https://www.zhihu.com/question/2086829341468577823",
-      "hot_value": "276 万热度",
-      "index": 10
+      "hot_value": "326 万热度",
+      "index": 3
+    },
+    {
+      "title": "中美达成八点成果共识，达成「300 亿美元」对等降税安排，哪些信息值得重点关注？",
+      "url": "https://www.zhihu.com/question/2087214676530525535",
+      "hot_value": "278 万热度",
+      "index": 4
+    },
+    {
+      "title": "亚运会女子 100 米栏决赛，福部真子夺冠，吴艳妮铜牌，如何评价她们的表现和本场比赛？",
+      "url": "https://www.zhihu.com/question/2087541086738540004",
+      "hot_value": "272 万热度",
+      "index": 5
+    },
+    {
+      "title": "刘欢在中国乐坛的地位是怎样的？",
+      "url": "https://www.zhihu.com/question/20404153",
+      "hot_value": "258 万热度",
+      "index": 6
+    },
+    {
+      "title": "26-27 乒乓球德甲联赛，樊振东 3:0 格拉尔多，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2087653538654589356",
+      "hot_value": "257 万热度",
+      "index": 7
     },
     {
       "title": "子弹连钢板都能打穿，为何打不穿麻沙袋？这是什么原理？",
       "url": "https://www.zhihu.com/question/2086150926117750541",
-      "hot_value": "273 万热度",
+      "hot_value": "238 万热度",
+      "index": 8
+    },
+    {
+      "title": "一技校 101 名毕业生入职北大，学生一般大二就被预订，主要去实验室做科研助手，这是一种怎样的职业路径？",
+      "url": "https://www.zhihu.com/question/2087469941116990453",
+      "hot_value": "209 万热度",
+      "index": 9
+    },
+    {
+      "title": "亚运会女子标枪决赛，严子怡夺金，投出 70 米 46 刷新亚运纪录，如何评价她的个人表现以及本场比赛？",
+      "url": "https://www.zhihu.com/question/2087637427082851450",
+      "hot_value": "206 万热度",
+      "index": 10
+    },
+    {
+      "title": "大熊猫「平平」「福双」平安到达美国亚特兰大动物园，对中美两国有哪些意义？",
+      "url": "https://www.zhihu.com/question/2086764289658807574",
+      "hot_value": "174 万热度",
       "index": 11
-    },
-    {
-      "title": "汶颂亚运男子 200 米夺冠，成绩 19.88 秒追平谢震业亚洲纪录，如何评价他的表现？",
-      "url": "https://www.zhihu.com/question/2087613161595564589",
-      "hot_value": "188 万热度",
-      "index": 12
-    },
-    {
-      "title": "为什么中文里堂兄弟姐妹和表兄弟姐妹要分开称呼？",
-      "url": "https://www.zhihu.com/question/2086786098823443178",
-      "hot_value": "187 万热度",
-      "index": 13
-    },
-    {
-      "title": "有没有一种可能，岳不群才是《笑傲江湖》里最想「救」华山派的人，而令狐冲其实是个不负责任的「败家子」？",
-      "url": "https://www.zhihu.com/question/2010306330083229755",
-      "hot_value": "164 万热度",
-      "index": 14
     },
     {
       "title": "交个朋友直播间被曝卖病死鱼，罗永浩连发 16 条内容辟谣，具体是怎么回事？",
       "url": "https://www.zhihu.com/question/2086823700276277732",
-      "hot_value": "150 万热度",
+      "hot_value": "172 万热度",
+      "index": 12
+    },
+    {
+      "title": "有没有一种可能，岳不群才是《笑傲江湖》里最想「救」华山派的人，而令狐冲其实是个不负责任的「败家子」？",
+      "url": "https://www.zhihu.com/question/2010306330083229755",
+      "hot_value": "169 万热度",
+      "index": 13
+    },
+    {
+      "title": "亚运男子 110 米栏，陈圆将 13 秒 15 夺金，如何评价他的表现？",
+      "url": "https://www.zhihu.com/question/2087621166760293310",
+      "hot_value": "168 万热度",
+      "index": 14
+    },
+    {
+      "title": "26-27 赛季乒乓球德甲联赛，樊振东 3:1  维东斯霍特，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2087684300468654683",
+      "hot_value": "165 万热度",
       "index": 15
     },
     {
       "title": "乒乓解说员高菡被指偏向性明显、情绪烘托过多，客观评价她的解说能力如何？不偏袒、中立的解说员应是怎样的？",
       "url": "https://www.zhihu.com/question/2087618421017899157",
-      "hot_value": "138 万热度",
+      "hot_value": "147 万热度",
       "index": 16
     },
     {
-      "title": "大熊猫「平平」「福双」平安到达美国亚特兰大动物园，对中美两国有哪些意义？",
-      "url": "https://www.zhihu.com/question/2086764289658807574",
-      "hot_value": "125 万热度",
+      "title": "为什么中文里堂兄弟姐妹和表兄弟姐妹要分开称呼？",
+      "url": "https://www.zhihu.com/question/2086786098823443178",
+      "hot_value": "128 万热度",
       "index": 17
+    },
+    {
+      "title": "亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？",
+      "url": "https://www.zhihu.com/question/2087540791207879476",
+      "hot_value": "125 万热度",
+      "index": 18
     },
     {
       "title": "男子 8 万救命钱被盗刷并称银行 1 条提醒短信都没发，银行称责任划分需司法机构裁决，银行到底该不该担责？",
       "url": "https://www.zhihu.com/question/2086029809914855744",
-      "hot_value": "101 万热度",
-      "index": 18
-    },
-    {
-      "title": "你小时候有哪些神奇的误解？",
-      "url": "https://www.zhihu.com/question/20484952",
-      "hot_value": "78 万热度",
+      "hot_value": "121 万热度",
       "index": 19
     },
     {
-      "title": "为什么节假日一家人去探亲，旅游感觉比上班还累？",
-      "url": "https://www.zhihu.com/question/2086928790811418875",
-      "hot_value": "71 万热度",
+      "title": "如何评价 9 月 23 日发布的 Claude Opus 5.5？",
+      "url": "https://www.zhihu.com/question/2085935290347275671",
+      "hot_value": "110 万热度",
       "index": 20
-    },
-    {
-      "title": "交个朋友为「售卖的网红溜溜凳被曝用发霉木板、废旧海绵」道歉，称启动退赔，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2086797910025450257",
-      "hot_value": "71 万热度",
-      "index": 21
     },
     {
       "title": "网红训狗师潘宏因「小宝死亡案」终审败诉，被判公开道歉并赔偿 11119 元，法律上如何解读？",
       "url": "https://www.zhihu.com/question/2087455975468786675",
-      "hot_value": "71 万热度",
+      "hot_value": "109 万热度",
+      "index": 21
+    },
+    {
+      "title": "既然国人嫌弃月饼高油高糖，为啥不把月饼出口到喜爱糖油混合物的美国呢？",
+      "url": "https://www.zhihu.com/question/2084270983846875442",
+      "hot_value": "109 万热度",
       "index": 22
+    },
+    {
+      "title": "亚运会乒乓球混双决赛，王楚钦 / 孙颖莎 0-4 林诗栋 / 蒯曼，国乒包揽亚运混双金银牌，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2087238239216034395",
+      "hot_value": "103 万热度",
+      "index": 23
     },
     {
       "title": "集采药都很劣质吗？我能不能加钱用更好的药？",
       "url": "https://www.zhihu.com/question/2081150322496610546",
-      "hot_value": "70 万热度",
-      "index": 23
+      "hot_value": "96 万热度",
+      "index": 24
     },
     {
-      "title": "男子因长期食用生鱼片，感染阔节裂头绦虫，体内排出 4.5 米长虫，为什么能这么长？对身体危害有多大？",
-      "url": "https://www.zhihu.com/question/2086787652607652831",
+      "title": "如何评价《崩坏：星穹铁道》真珠角色 PV——「如何描绘一种希望」？",
+      "url": "https://www.zhihu.com/question/2087512486530627402",
+      "hot_value": "93 万热度",
+      "index": 25
+    },
+    {
+      "title": "你认为什么是「强者心态」？如何拥有「强者心态」？",
+      "url": "https://www.zhihu.com/question/7049477560",
+      "hot_value": "71 万热度",
+      "index": 26
+    },
+    {
+      "title": "交个朋友为「售卖的网红溜溜凳被曝用发霉木板、废旧海绵」道歉，称启动退赔，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2086797910025450257",
+      "hot_value": "65 万热度",
+      "index": 27
+    },
+    {
+      "title": "为什么万象棋能让玩家如此着迷？",
+      "url": "https://www.zhihu.com/question/2087383058064338962",
       "hot_value": "59 万热度",
-      "index": 24
+      "index": 28
+    },
+    {
+      "title": "汶颂亚运男子 200 米夺冠，成绩 19.88 秒追平谢震业亚洲纪录，如何评价他的表现？",
+      "url": "https://www.zhihu.com/question/2087613161595564589",
+      "hot_value": "59 万热度",
+      "index": 29
     },
     {
       "title": "为什么这次名古屋亚运会，围棋象棋这些棋类项目全部都取消了？",
       "url": "https://www.zhihu.com/question/2086164851257078342",
       "hot_value": "58 万热度",
-      "index": 25
-    },
-    {
-      "title": "男子为泄愤拧松他人轿车轮胎螺母获刑三年，从法律角度该如何解读？",
-      "url": "https://www.zhihu.com/question/2085923092581322930",
-      "hot_value": "57 万热度",
-      "index": 26
-    },
-    {
-      "title": "冯小刚承认《抓特务》亏本但否认成本 3 亿，称电影「受到了一种网暴式、非理性的干扰」，你如何看待？",
-      "url": "https://www.zhihu.com/question/2086137290808457127",
-      "hot_value": "56 万热度",
-      "index": 27
-    },
-    {
-      "title": "到底能不能在高速公路服务区停车过夜？",
-      "url": "https://www.zhihu.com/question/654323142",
-      "hot_value": "56 万热度",
-      "index": 28
-    },
-    {
-      "title": "婆婆一直充当透明人，我很排斥她偶尔上门在孩子面前混脸熟，甚至不打招呼去我娘家的行为，怎么办？",
-      "url": "https://www.zhihu.com/question/2086570529029468374",
-      "hot_value": "55 万热度",
-      "index": 29
-    },
-    {
-      "title": "如果张居正决定将白银铸造为银币，要求只能用银币纳税，可以保住铸币权，避免之后经济管理的混乱吗？",
-      "url": "https://www.zhihu.com/question/2084684667953989222",
-      "hot_value": "55 万热度",
       "index": 30
     }
   ]
