@@ -1,54 +1,54 @@
 {
   "platform": "toutiao",
   "name": "今日头条",
-  "update_time": "2026-09-27T00:09:12Z",
+  "update_time": "2026-09-27T05:31:34Z",
   "count": 30,
   "list": [
     {
-      "title": "中美达成300亿美元对等降税安排",
-      "url": "https://www.toutiao.com/trending/7689753031058918975/",
+      "title": "油价将于10月15日24时调整",
+      "url": "https://www.toutiao.com/trending/7689402450922618931/",
       "hot_value": "",
       "index": 1
     },
     {
-      "title": "特朗普第一时间发帖：期待下次会面",
-      "url": "https://www.toutiao.com/trending/7689304243416616490/",
+      "title": "邓亚萍谈日本男单全军覆没：兴奋过头",
+      "url": "https://www.toutiao.com/trending/7690020058327961134/",
       "hot_value": "",
       "index": 2
     },
     {
-      "title": "中美关系持续稳定发展惠及世界",
-      "url": "https://www.toutiao.com/article/7689674538644259374",
+      "title": "大熊猫“平平”“福双”已启程赴美",
+      "url": "https://www.toutiao.com/trending/7688927424532185134/",
       "hot_value": "",
       "index": 3
+    },
+    {
+      "title": "中美八项成果为何未提台湾问题",
+      "url": "https://www.toutiao.com/trending/7689774212667850806/",
+      "hot_value": "",
+      "index": 4
+    },
+    {
+      "title": "温瑞博向鹏遭张本组合逆转无缘决赛",
+      "url": "https://www.toutiao.com/trending/7689227306904125494/",
+      "hot_value": "",
+      "index": 5
     },
     {
       "title": "美军铺红毯让日本网民破防",
       "url": "https://www.toutiao.com/trending/7688878050255077427/",
       "hot_value": "",
-      "index": 4
-    },
-    {
-      "title": "张本智和回应输球：几乎是场完败",
-      "url": "https://www.toutiao.com/trending/7689265854156505139/",
-      "hot_value": "",
-      "index": 5
-    },
-    {
-      "title": "特斯拉一个月降价两次惹怒新车主",
-      "url": "https://www.toutiao.com/trending/7689057978409812004/",
-      "hot_value": "",
       "index": 6
     },
     {
-      "title": "李在明谴责乌方泄露朝鲜战俘移送韩国",
-      "url": "https://www.toutiao.com/trending/7688979785648750611/",
+      "title": "伊朗选手打赢张本冲日本教练面前庆祝",
+      "url": "https://www.toutiao.com/trending/7689024369510796863/",
       "hot_value": "",
       "index": 7
     },
     {
-      "title": "“莎头”遭横扫无缘三连冠",
-      "url": "https://www.toutiao.com/trending/7689368736968998966/",
+      "title": "台湾社会要读懂中美元首会晤意义",
+      "url": "https://www.toutiao.com/trending/7689304243416747562/",
       "hot_value": "",
       "index": 8
     },
@@ -59,20 +59,20 @@
       "index": 9
     },
     {
-      "title": "油价暴涨法国司机给汽车加食用油",
-      "url": "https://www.toutiao.com/trending/7689909832291238410/",
+      "title": "亚运会中国队05后小将占了近三成",
+      "url": "https://www.toutiao.com/trending/7690060057924341267/",
       "hot_value": "",
       "index": 10
     },
     {
-      "title": "人民日报用歌词送别刘欢",
-      "url": "https://www.toutiao.com/trending/7689304243416649258/",
+      "title": "刘欢生前打算推出专辑《忘记刘欢》",
+      "url": "https://www.toutiao.com/trending/7690014676733808166/",
       "hot_value": "",
       "index": 11
     },
     {
-      "title": "比尔·盖茨警告AI或致十亿人死亡",
-      "url": "https://www.toutiao.com/trending/7689043490262269990/",
+      "title": "李亚鹏现身意大利为张雪机车加油",
+      "url": "https://www.toutiao.com/trending/7689664919163289641/",
       "hot_value": "",
       "index": 12
     },
@@ -83,92 +83,92 @@
       "index": 13
     },
     {
-      "title": "刘欢常跟人喝酒聊天到天亮",
-      "url": "https://www.toutiao.com/trending/7688672765620600842/",
+      "title": "刘欢走了 我们怀念的何止是他的歌",
+      "url": "https://www.toutiao.com/trending/7690036054035795498/",
       "hot_value": "",
       "index": 14
     },
     {
-      "title": "林诗栋赢松岛辉空后激动连续跨栏",
-      "url": "https://www.toutiao.com/trending/7688980643824566323/",
+      "title": "麻辣王子大幅广告惊现意大利米兰",
+      "url": "https://www.toutiao.com/trending/7690037972636532799/",
       "hot_value": "",
       "index": 15
     },
     {
-      "title": "中美八项成果为何未提台湾问题",
-      "url": "https://www.toutiao.com/trending/7689774212667850806/",
+      "title": "《千万次的问》33年后答案是什么",
+      "url": "https://www.toutiao.com/trending/7690032550101650995/",
       "hot_value": "",
       "index": 16
     },
     {
-      "title": "刘欢丧事从简不举行追悼会",
-      "url": "https://www.toutiao.com/trending/7689677077649313330/",
+      "title": "人民日报用歌词送别刘欢",
+      "url": "https://www.toutiao.com/trending/7689304243416649258/",
       "hot_value": "",
       "index": 17
     },
     {
-      "title": "孙颖莎回应无缘亚运混双三连冠",
-      "url": "https://www.toutiao.com/trending/7689526067627491366/",
+      "title": "升糖最快的主食不是米饭而是这6种",
+      "url": "https://www.toutiao.com/trending/7689700125220814889/",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "侯英超：阿拉米扬赢张本智和不算爆冷",
-      "url": "https://www.toutiao.com/trending/7689775621573083155/",
+      "title": "亚运颁奖现场升起两面五星红旗",
+      "url": "https://www.toutiao.com/trending/7689223317412266003/",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "刘欢妻子：我永远的爱 永远的痛",
-      "url": "https://www.toutiao.com/trending/7689735023045381678/",
+      "title": "刘欢：时代的异数",
+      "url": "https://www.toutiao.com/trending/7690031792979447332/",
       "hot_value": "",
       "index": 20
     },
     {
-      "title": "中美元首白宫互动的五个细节",
-      "url": "https://www.toutiao.com/trending/7689676294375755315/",
+      "title": "13天内敬一丹游本昌刘欢相继离世",
+      "url": "https://www.toutiao.com/trending/7689894838703260186/",
       "hot_value": "",
       "index": 21
     },
     {
-      "title": "中介带看别墅疑遭“跳单”",
-      "url": "https://www.toutiao.com/trending/7689868520675213353/",
+      "title": "邱毅：“解放军驻台”能震慑分裂势力",
+      "url": "https://www.toutiao.com/trending/7689068161056522294/",
       "hot_value": "",
       "index": 22
     },
     {
-      "title": "刘欢今年1月最后一次公开演出",
-      "url": "https://www.toutiao.com/trending/7689672984231071278/",
+      "title": "媒体评刘欢离世：绕梁余音总关情",
+      "url": "https://www.toutiao.com/trending/7690025937719263295/",
       "hot_value": "",
       "index": 23
     },
     {
-      "title": "94岁老人分享健康心得：心情开朗",
-      "url": "https://www.toutiao.com/trending/7689012053412069439/",
+      "title": "别让香烟“熏”走你的健康",
+      "url": "https://www.toutiao.com/trending/7690033496014798894/",
       "hot_value": "",
       "index": 24
     },
     {
-      "title": "蔡磊确诊渐冻症后夫妻俩的第七个中秋",
-      "url": "https://www.toutiao.com/trending/7688892567630577700/",
+      "title": "特朗普第一时间发帖：期待下次会面",
+      "url": "https://www.toutiao.com/trending/7689304243416616490/",
       "hot_value": "",
       "index": 25
     },
     {
-      "title": "为何股骨头坏死被称为不死癌症",
-      "url": "https://www.toutiao.com/trending/7689674563696721929/",
+      "title": "袁娅维发长文悼念刘欢",
+      "url": "https://www.toutiao.com/trending/7689380136696811051/",
       "hot_value": "",
       "index": 26
     },
     {
-      "title": "中秋国庆白酒卖不动了吗",
-      "url": "https://www.toutiao.com/trending/7689745269675527730/",
+      "title": "粟文打破36年亚运会纪录",
+      "url": "https://www.toutiao.com/trending/7689909995365876262/",
       "hot_value": "",
       "index": 27
     },
     {
-      "title": "五仁月饼成回收香饽饽",
-      "url": "https://www.toutiao.com/trending/7688854582847340580/",
+      "title": "比尔·盖茨警告AI或致十亿人死亡",
+      "url": "https://www.toutiao.com/trending/7689043490262269990/",
       "hot_value": "",
       "index": 28
     },
@@ -179,8 +179,8 @@
       "index": 29
     },
     {
-      "title": "长假为何会对股票市场产生心理影响",
-      "url": "https://www.toutiao.com/trending/7689837160198835731/",
+      "title": "邓亚萍说国乒不能只靠一个人",
+      "url": "https://www.toutiao.com/trending/7689459769069060106/",
       "hot_value": "",
       "index": 30
     }
