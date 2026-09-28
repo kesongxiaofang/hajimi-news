@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-28T07:15:21Z",
+  "update_time": "2026-09-28T15:43:48Z",
   "count": 30,
   "list": [
     {
-      "title": "张雪机车团队多人在意大利被盗，所乘大巴车遭盗匪光顾，为啥意大利的小偷这么猖獗？没有能惩治他们的办法吗？",
-      "url": "https://www.zhihu.com/question/2087632646973276815",
-      "hot_value": "1690 万热度",
+      "title": "2026 亚运会乒乓球男单决赛，林诗栋 4-0 王楚钦夺得金牌，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2087911809458102776",
+      "hot_value": "7593 万热度",
       "index": 1
-    },
-    {
-      "title": "塞尔维亚总统武契奇宣布辞职，他此前表示将以普通公民身份参加竞选，还有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2083115842678665845",
-      "hot_value": "639 万热度",
-      "index": 2
-    },
-    {
-      "title": "如果全球都降到零下 50-100 度，在提前一个月知道的情况下需要准备什么？",
-      "url": "https://www.zhihu.com/question/1980570810759528635",
-      "hot_value": "232 万热度",
-      "index": 3
-    },
-    {
-      "title": "亚运会乒乓球男单半决赛，王楚钦 4-1 伊朗选手阿拉米扬，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2087828746975852506",
-      "hot_value": "191 万热度",
-      "index": 4
-    },
-    {
-      "title": "如何评价李诞与王祖贤的对谈？",
-      "url": "https://www.zhihu.com/question/2086456520439326406",
-      "hot_value": "141 万热度",
-      "index": 5
-    },
-    {
-      "title": "今年中秋国庆假期间仅隔 3 天，你有成功请到这 3 天的假吗？在这 3 天上班的人计划怎么「熬」过去？",
-      "url": "https://www.zhihu.com/question/2083715716289487963",
-      "hot_value": "130 万热度",
-      "index": 6
     },
     {
       "title": "如何看待常德一老人因误解养老金政策拾荒 21 年，最终领到 42 万养老金？暴露了背后哪些问题？",
       "url": "https://www.zhihu.com/question/2087842325703520513",
-      "hot_value": "120 万热度",
-      "index": 7
-    },
-    {
-      "title": "港漫是如何沦落到如今的地步的？",
-      "url": "https://www.zhihu.com/question/267807083",
-      "hot_value": "93 万热度",
-      "index": 8
-    },
-    {
-      "title": "如何看待张家齐妈妈在女儿面前开念家书，公开批评张家齐缺点不少、爱吃零食，指责其反复辜负家人信任？",
-      "url": "https://www.zhihu.com/question/2087678897236045853",
-      "hot_value": "89 万热度",
-      "index": 9
-    },
-    {
-      "title": "如果选择一处古迹或古遗址，来回答我们为什么要访古，你会选择哪一个？为什么？",
-      "url": "https://www.zhihu.com/question/2081389453277230644",
-      "hot_value": "87 万热度",
-      "index": 10
-    },
-    {
-      "title": "我国南疆塔克拉玛干沙漠发现两处大型地下水水源，这意味着什么？将对当地生态和经济带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2083110699207808761",
-      "hot_value": "86 万热度",
-      "index": 11
+      "hot_value": "1204 万热度",
+      "index": 2
     },
     {
       "title": "中美「300 亿对 300 亿」对等降税框架公布，超 90% 产品将享受最惠国关税待遇，将带来哪些利好？",
       "url": "https://www.zhihu.com/question/2087868581669070116",
-      "hot_value": "86 万热度",
+      "hot_value": "611 万热度",
+      "index": 3
+    },
+    {
+      "title": "双汇火腿肠销量连续下滑，传统火腿肠为何越来越卖不动？方便面触底反弹，火腿肠却持续下滑，问题出在哪里？",
+      "url": "https://www.zhihu.com/question/2087819360249144084",
+      "hot_value": "515 万热度",
+      "index": 4
+    },
+    {
+      "title": "如何评价《新大头儿子》系列电影被网友吐槽画风诡异、大头儿子像「鬼火少年」？",
+      "url": "https://www.zhihu.com/question/2087565298354189686",
+      "hot_value": "313 万热度",
+      "index": 5
+    },
+    {
+      "title": "王楚钦本届亚运会一金未拿，怎样评价他的状态？打法上可能有哪些问题？",
+      "url": "https://www.zhihu.com/question/2087999745213949009",
+      "hot_value": "281 万热度",
+      "index": 6
+    },
+    {
+      "title": "为什么厂家不把预制菜直接卖给 c 端用户？省得我叫外卖了?",
+      "url": "https://www.zhihu.com/question/1952882788639417778",
+      "hot_value": "249 万热度",
+      "index": 7
+    },
+    {
+      "title": "SpaceX 星舰第 14 次试飞，首次成功进入地球轨道，有哪些看点值得关注？",
+      "url": "https://www.zhihu.com/question/2087814513273975312",
+      "hot_value": "249 万热度",
+      "index": 8
+    },
+    {
+      "title": "我觉得乾隆的字挺好看呀，为什么在书法界评价很低？",
+      "url": "https://www.zhihu.com/question/2085453188900168444",
+      "hot_value": "249 万热度",
+      "index": 9
+    },
+    {
+      "title": "体育总局局长表示，亚运会部分传统优势项目遇到挑战，成绩不及预期，可能有哪些原因？",
+      "url": "https://www.zhihu.com/question/2087828556701241405",
+      "hot_value": "231 万热度",
+      "index": 10
+    },
+    {
+      "title": "怎么看待超长蛋挞的爆红？",
+      "url": "https://www.zhihu.com/question/2085307820598105501",
+      "hot_value": "148 万热度",
+      "index": 11
+    },
+    {
+      "title": "我国南疆塔克拉玛干沙漠发现两处大型地下水水源，这意味着什么？将对当地生态和经济带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2083110699207808761",
+      "hot_value": "135 万热度",
       "index": 12
     },
     {
-      "title": "博士就业，感觉二本待遇不差还轻松，为什么去 985/211 呢？",
-      "url": "https://www.zhihu.com/question/2086435207851389190",
-      "hot_value": "85 万热度",
+      "title": "怎么看 OpenAI 的 Pro 订阅取消 5x 和 20x 的描述？",
+      "url": "https://www.zhihu.com/question/2087607174948186086",
+      "hot_value": "134 万热度",
       "index": 13
     },
     {
-      "title": "有网友在雷军评论区下呼吁小米 18 系列推出无防窥版，防窥屏真的很影响体验吗？有啥解决的办法吗？",
-      "url": "https://www.zhihu.com/question/2087641499965940247",
-      "hot_value": "82 万热度",
+      "title": "曝携程推新规鼓励「无理由事假」，员工休 1 天无理由事假，团队得 600 元团建经费，如何看待这种激励方式？",
+      "url": "https://www.zhihu.com/question/2087911286118019819",
+      "hot_value": "128 万热度",
       "index": 14
     },
     {
-      "title": "连续三年不进世界赛，天价投入打水漂，JDG 到底做错了什么？",
-      "url": "https://www.zhihu.com/question/2085794258989204404",
-      "hot_value": "79 万热度",
+      "title": "印、美联合团队研究称「混凝土中掺入人粪，抗折强度提高 42%」，如何理解该研究的理论和现实意义？",
+      "url": "https://www.zhihu.com/question/2087853929207787791",
+      "hot_value": "121 万热度",
       "index": 15
     },
     {
       "title": "如何评价吴艳妮夺铜后发言「起跑慢因三年前的阴影，我没有被挫折和网暴打败」？",
       "url": "https://www.zhihu.com/question/2087849328337318049",
-      "hot_value": "78 万热度",
+      "hot_value": "117 万热度",
       "index": 16
     },
     {
-      "title": "孙颖莎直言可能等不到下届亚运会了，并表示决赛时后半程能力有点跟不上，你怎么看？客观来看她现在状态如何？",
-      "url": "https://www.zhihu.com/question/2087674221568553474",
-      "hot_value": "76 万热度",
+      "title": "亚运会乒乓球女双决赛，王曼昱 / 蒯曼 4-0 战胜张本美和 / 早田希娜夺得金牌，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2087912811338920038",
+      "hot_value": "113 万热度",
       "index": 17
     },
     {
-      "title": "假如成年男性先占据优势体位，锁喉住成年老虎，有可能杀死老虎么？几率多大？",
-      "url": "https://www.zhihu.com/question/1890442443511551462",
-      "hot_value": "73 万热度",
+      "title": "张子宇在进攻中接不到球，主要是她自己的问题，还是队友的问题？",
+      "url": "https://www.zhihu.com/question/2087512375096074246",
+      "hot_value": "105 万热度",
       "index": 18
     },
     {
-      "title": "为什么厂家不把预制菜直接卖给 c 端用户？省得我叫外卖了?",
-      "url": "https://www.zhihu.com/question/1952882788639417778",
-      "hot_value": "71 万热度",
+      "title": "有网友在雷军评论区下呼吁小米 18 系列推出无防窥版，防窥屏真的很影响体验吗？有啥解决的办法吗？",
+      "url": "https://www.zhihu.com/question/2087641499965940247",
+      "hot_value": "103 万热度",
       "index": 19
     },
     {
-      "title": "如何评价 2026 年 9 月米哈游《崩坏星穹铁道》4.6 版本卡池，真珠、绯英？",
-      "url": "https://www.zhihu.com/question/2087565868314146549",
-      "hot_value": "70 万热度",
+      "title": "亚奥理事会回应「电子竞技项目将退出亚运会」，称传闻与工作安排不符，具体是怎么回事？",
+      "url": "https://www.zhihu.com/question/2087805520950158517",
+      "hot_value": "102 万热度",
       "index": 20
     },
     {
-      "title": "有哪些大项目是奥运会绝不可能取消的？",
-      "url": "https://www.zhihu.com/question/2086815082923799702",
-      "hot_value": "69 万热度",
+      "title": "亚运会乒乓球男单半决赛，王楚钦 4-1 伊朗选手阿拉米扬，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2087828746975852506",
+      "hot_value": "102 万热度",
       "index": 21
     },
     {
-      "title": "职场里「懂事」到底是优点还是陷阱？很多人因为太懂事反而不断吃亏，你怎么看？",
-      "url": "https://www.zhihu.com/question/2085668941754529676",
-      "hot_value": "65 万热度",
+      "title": "博士就业，感觉二本待遇不差还轻松，为什么去 985/211 呢？",
+      "url": "https://www.zhihu.com/question/2086435207851389190",
+      "hot_value": "101 万热度",
       "index": 22
     },
     {
-      "title": "观音为什么说金毛犼有紫金铃的话十个孙悟空也打不过？",
-      "url": "https://www.zhihu.com/question/558066843",
-      "hot_value": "59 万热度",
+      "title": "一个人开车跑高速犯困了，除了喝红牛和掐大腿，还有什么真正有效的提神方法？",
+      "url": "https://www.zhihu.com/question/2084653683766191673",
+      "hot_value": "96 万热度",
       "index": 23
     },
     {
-      "title": "都说明朝礼教严苛，为什么晚明市井吃喝玩乐的娱乐项目却这么丰富？",
-      "url": "https://www.zhihu.com/question/2079609050019394141",
-      "hot_value": "59 万热度",
+      "title": "网上都说计算机炸了，为什么现实中一堆转专业到计算机的？",
+      "url": "https://www.zhihu.com/question/2075577882076884995",
+      "hot_value": "86 万热度",
       "index": 24
     },
     {
-      "title": "《控制：共振》小黑盒评分 3.1，真没想到控制的二代如此拉垮了么？为何会如此？",
-      "url": "https://www.zhihu.com/question/2086835915310240373",
-      "hot_value": "58 万热度",
+      "title": "沙漠烈日下，用电视播放绿洲画面，能吸引到骆驼吗？",
+      "url": "https://www.zhihu.com/question/2087525916880664139",
+      "hot_value": "82 万热度",
       "index": 25
     },
     {
-      "title": "明月高悬独不照我和明月高悬不独照我哪个更让你心痛？为什么？",
-      "url": "https://www.zhihu.com/question/2069194695239120586",
-      "hot_value": "58 万热度",
+      "title": "发现很多编程语言最后都绕不开 C 语言，C 语言为什么有如此得天独厚的地位呢？",
+      "url": "https://www.zhihu.com/question/2059431846782543837",
+      "hot_value": "68 万热度",
       "index": 26
     },
     {
-      "title": "为什么感觉这几年刑侦剧特别多，是因为刑侦剧的观众群体很稳定吗？",
-      "url": "https://www.zhihu.com/question/2082598817002801116",
-      "hot_value": "58 万热度",
+      "title": "为什么知道该做却一直拖延？",
+      "url": "https://www.zhihu.com/question/2075135268038894113",
+      "hot_value": "65 万热度",
       "index": 27
     },
     {
-      "title": "「薛甄珠找小三」最近被 AI 二创出了好多个版本，这段剧情有啥魔力，能让大家有源源不断的创作灵感？",
-      "url": "https://www.zhihu.com/question/2083583506072826134",
-      "hot_value": "57 万热度",
+      "title": "除了繁衍的自然本能，不同动物间会存在友情吗？",
+      "url": "https://www.zhihu.com/question/2071247758199977830",
+      "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "子弹连钢板都能打穿，为何打不穿麻沙袋？这是什么原理？",
-      "url": "https://www.zhihu.com/question/2086150926117750541",
-      "hot_value": "57 万热度",
+      "title": "小学数学里的「鸡兔同笼」问题到底在训练什么思维？",
+      "url": "https://www.zhihu.com/question/2085627088141341456",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "库里为何愿意降薪续约勇士？",
-      "url": "https://www.zhihu.com/question/2087128360082326663",
-      "hot_value": "57 万热度",
+      "title": "如何评价 2026 年 9 月米哈游《崩坏星穹铁道》4.6 版本剧情任务【月升之前，与兽共舞】？",
+      "url": "https://www.zhihu.com/question/2087565444647540645",
+      "hot_value": "58 万热度",
       "index": 30
     }
   ]
