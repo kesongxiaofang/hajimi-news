@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-27T22:30:24Z",
+  "update_time": "2026-09-28T01:21:44Z",
   "count": 30,
   "list": [
     {
-      "title": "钓鱼被鱼揍了",
-      "url": "https://www.bilibili.com/video/BV1Usat6rEm1",
-      "hot_value": "597570播放",
+      "title": "挑战自助餐最亏本的十类食物！通通吃一遍！",
+      "url": "https://www.bilibili.com/video/BV1tNab65ECw",
+      "hot_value": "932519播放",
       "index": 1
     },
     {
-      "title": "《崩坏：星穹铁道》真珠角色PV——「如何描绘一种希望」",
-      "url": "https://www.bilibili.com/video/BV1Rmh96ZEXh",
-      "hot_value": "2057938播放",
+      "title": "刺激！用胶带捆绑女友全身…让她眼睁睁看我通宵打游戏！",
+      "url": "https://www.bilibili.com/video/BV1sEah6VEBm",
+      "hot_value": "434193播放",
       "index": 2
     },
     {
-      "title": "挑战自助餐最亏本的十类食物！通通吃一遍！",
-      "url": "https://www.bilibili.com/video/BV1tNab65ECw",
-      "hot_value": "779726播放",
+      "title": "十四年的等待，我的世界终于迎来全新第四维度：筛界 Minecraft Live2026",
+      "url": "https://www.bilibili.com/video/BV1m5aY69E8D",
+      "hot_value": "326299播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第102集 大尊",
       "url": "https://www.bilibili.com/video/BV152aA6nEz4",
-      "hot_value": "2089830播放",
+      "hot_value": "2113569播放",
       "index": 4
     },
     {
       "title": "《纯粹の体育精神》",
       "url": "https://www.bilibili.com/video/BV1Kyas6wEuz",
-      "hot_value": "2162957播放",
+      "hot_value": "2338414播放",
       "index": 5
     },
     {
-      "title": "《三角洲行动》群星计划—代号：威龙",
-      "url": "https://www.bilibili.com/video/BV1fAh96ZELn",
-      "hot_value": "1492674播放",
+      "title": "我的新能源男友",
+      "url": "https://www.bilibili.com/video/BV1tuah6JEVC",
+      "hot_value": "563973播放",
       "index": 6
     },
     {
-      "title": "蛙跳爬泰山",
-      "url": "https://www.bilibili.com/video/BV1Hxah6BEGy",
-      "hot_value": "454978播放",
+      "title": "一台汽车，凭什么敢说自己是 \"航空级安全\"？",
+      "url": "https://www.bilibili.com/video/BV1qwhJ6aEAG",
+      "hot_value": "954730播放",
       "index": 7
     },
     {
-      "title": "TES在VCTCN都算战神！无畏契约上海冠军赛门全员光头，一把不赢！【1酱赛评】",
-      "url": "https://www.bilibili.com/video/BV1GYas6zELr",
-      "hot_value": "850976播放",
+      "title": "泽连斯基联合国直播给李在明送上究极大麻烦",
+      "url": "https://www.bilibili.com/video/BV18MaY6ZELc",
+      "hot_value": "393583播放",
       "index": 8
     },
     {
-      "title": "快问快答：历史性时间窗口！中国在华盛顿主动出牌",
-      "url": "https://www.bilibili.com/video/BV1Hsah6uEs3",
-      "hot_value": "577456播放",
+      "title": "《崩坏：星穹铁道》真珠角色PV——「如何描绘一种希望」",
+      "url": "https://www.bilibili.com/video/BV1Rmh96ZEXh",
+      "hot_value": "2077721播放",
       "index": 9
     },
     {
       "title": "【剧情】长生契（2026）07【方逸伦 / 谢可寅】",
       "url": "https://www.bilibili.com/video/BV1aUem6yEur",
-      "hot_value": "470585播放",
+      "hot_value": "471987播放",
       "index": 10
-    },
-    {
-      "title": "消失的队友二",
-      "url": "https://www.bilibili.com/video/BV11ahH6UEbn",
-      "hot_value": "812559播放",
-      "index": 11
-    },
-    {
-      "title": "没人会记得神作之下的第二名，除非那一年都是逆天神梗！",
-      "url": "https://www.bilibili.com/video/BV114h96GEyq",
-      "hot_value": "2383743播放",
-      "index": 12
-    },
-    {
-      "title": "我的新能源男友",
-      "url": "https://www.bilibili.com/video/BV1tuah6JEVC",
-      "hot_value": "448697播放",
-      "index": 13
-    },
-    {
-      "title": "EP03 护肤+彩妆OFFER砍出新高度，集体花式整活！",
-      "url": "https://www.bilibili.com/video/BV1GvhR6dExi",
-      "hot_value": "1950608播放",
-      "index": 14
-    },
-    {
-      "title": "戒赌吧覆灭！1400万赌徒抱团救赎，吧主将他们卖给赌场！【神奇组织17】",
-      "url": "https://www.bilibili.com/video/BV17WhX6xEWn",
-      "hot_value": "1514942播放",
-      "index": 15
-    },
-    {
-      "title": "【说唱】不是，酒保怎么比我先醉啊…",
-      "url": "https://www.bilibili.com/video/BV1JnhX6tEWP",
-      "hot_value": "738281播放",
-      "index": 16
-    },
-    {
-      "title": "【STN快报第8.5季22】史上最刀发布会，玩家看完纷纷感叹太刀了",
-      "url": "https://www.bilibili.com/video/BV16ya86iEWL",
-      "hot_value": "386261播放",
-      "index": 17
-    },
-    {
-      "title": "新的史。。世界。",
-      "url": "https://www.bilibili.com/video/BV1B1h96FEZs",
-      "hot_value": "711272播放",
-      "index": 18
-    },
-    {
-      "title": "将大局逆转吧！",
-      "url": "https://www.bilibili.com/video/BV1QLat6mEe5",
-      "hot_value": "644508播放",
-      "index": 19
     },
     {
       "title": "抄袭者如何把原创者熬成山寨？奥利奥：这事儿我熟",
       "url": "https://www.bilibili.com/video/BV11Cht6vE47",
-      "hot_value": "1099361播放",
-      "index": 20
+      "hot_value": "1178014播放",
+      "index": 11
     },
     {
-      "title": "【漫士】AI怎么让NS方程爆炸的？流体力学不存在了？",
-      "url": "https://www.bilibili.com/video/BV1jWhD6mEwH",
-      "hot_value": "741385播放",
-      "index": 21
+      "title": "聋的传人",
+      "url": "https://www.bilibili.com/video/BV1rra86BEXg",
+      "hot_value": "437576播放",
+      "index": 12
     },
     {
-      "title": "用压缩木剑通关暮色森林是种什么体验？",
-      "url": "https://www.bilibili.com/video/BV1Bwh968Erp",
-      "hot_value": "436017播放",
-      "index": 22
+      "title": "钓鱼被鱼揍了",
+      "url": "https://www.bilibili.com/video/BV1Usat6rEm1",
+      "hot_value": "639807播放",
+      "index": 13
     },
     {
-      "title": "第五人格亚运版本项目助威曲《追光逐梦》MV现已上线！",
-      "url": "https://www.bilibili.com/video/BV1X6ho6cEkQ",
-      "hot_value": "1248513播放",
-      "index": 23
+      "title": "《三角洲行动》群星计划—代号：威龙",
+      "url": "https://www.bilibili.com/video/BV1fAh96ZELn",
+      "hot_value": "1522285播放",
+      "index": 14
     },
     {
-      "title": "延续外观，影像升级？vivo X500 Pro Max 上手",
-      "url": "https://www.bilibili.com/video/BV1Ebho6BE2J",
-      "hot_value": "735971播放",
-      "index": 24
+      "title": "蛙跳爬泰山",
+      "url": "https://www.bilibili.com/video/BV1Hxah6BEGy",
+      "hot_value": "481067播放",
+      "index": 15
     },
     {
-      "title": "见证历史！原版MC第四维度——筛界！古城传送门开启！冰雪洞穴更新！MC直播总结 #MinecraftLive2026-9",
-      "url": "https://www.bilibili.com/video/BV15Max61EgG",
-      "hot_value": "691902播放",
-      "index": 25
+      "title": "当双方互相以为对方是同行3",
+      "url": "https://www.bilibili.com/video/BV1TZac6NEmK",
+      "hot_value": "372998播放",
+      "index": 16
     },
     {
-      "title": "世界 昆山市 老板50人公司大聚餐 烤上两只正宗的新疆馕坑烤全羊#苏州馕坑烤全羊#无锡烤全羊#无锡馕坑烤全羊#上海馕坑烤全羊",
-      "url": "https://www.bilibili.com/video/BV1dMhy6eE1B",
-      "hot_value": "738212播放",
-      "index": 26
-    },
-    {
-      "title": "当你遇到两年前的自己.......",
-      "url": "https://www.bilibili.com/video/BV1m2aP6uELa",
-      "hot_value": "1881412播放",
-      "index": 27
-    },
-    {
-      "title": "美食街，我在森林很想你【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV12AhD6wENZ",
-      "hot_value": "1571638播放",
-      "index": 28
-    },
-    {
-      "title": "【立志成为恶兽】05 我有一个拯救村庄的计划【UP动画】【HiShorts! × updream AI短片大赛-剧情单元】",
-      "url": "https://www.bilibili.com/video/BV1j3hd6wE1w",
-      "hot_value": "1417005播放",
-      "index": 29
+      "title": "没人会记得神作之下的第二名，除非那一年都是逆天神梗！",
+      "url": "https://www.bilibili.com/video/BV114h96GEyq",
+      "hot_value": "2457202播放",
+      "index": 17
     },
     {
       "title": "我们尝试用AI造了一个时空",
       "url": "https://www.bilibili.com/video/BV1TPa46MEwU",
-      "hot_value": "728159播放",
+      "hot_value": "764481播放",
+      "index": 18
+    },
+    {
+      "title": "【说唱】不是，酒保怎么比我先醉啊…",
+      "url": "https://www.bilibili.com/video/BV1JnhX6tEWP",
+      "hot_value": "762748播放",
+      "index": 19
+    },
+    {
+      "title": "将大局逆转吧！",
+      "url": "https://www.bilibili.com/video/BV1QLat6mEe5",
+      "hot_value": "670128播放",
+      "index": 20
+    },
+    {
+      "title": "快问快答：历史性时间窗口！中国在华盛顿主动出牌",
+      "url": "https://www.bilibili.com/video/BV1Hsah6uEs3",
+      "hot_value": "619255播放",
+      "index": 21
+    },
+    {
+      "title": "TES在VCTCN都算战神！无畏契约上海冠军赛门全员光头，一把不赢！【1酱赛评】",
+      "url": "https://www.bilibili.com/video/BV1GYas6zELr",
+      "hot_value": "880748播放",
+      "index": 22
+    },
+    {
+      "title": "在家破解¥300一块的上海最贵炸鸡，成本只要...",
+      "url": "https://www.bilibili.com/video/BV1emaA6SE3q",
+      "hot_value": "4701927播放",
+      "index": 23
+    },
+    {
+      "title": "消失的队友二",
+      "url": "https://www.bilibili.com/video/BV11ahH6UEbn",
+      "hot_value": "874123播放",
+      "index": 24
+    },
+    {
+      "title": "戒赌吧覆灭！1400万赌徒抱团救赎，吧主将他们卖给赌场！【神奇组织17】",
+      "url": "https://www.bilibili.com/video/BV17WhX6xEWn",
+      "hot_value": "1544421播放",
+      "index": 25
+    },
+    {
+      "title": "【STN快报第8.5季22】史上最刀发布会，玩家看完纷纷感叹太刀了",
+      "url": "https://www.bilibili.com/video/BV16ya86iEWL",
+      "hot_value": "411390播放",
+      "index": 26
+    },
+    {
+      "title": "延续外观，影像升级？vivo X500 Pro Max 上手",
+      "url": "https://www.bilibili.com/video/BV1Ebho6BE2J",
+      "hot_value": "754064播放",
+      "index": 27
+    },
+    {
+      "title": "谁更吃力，谁更省力",
+      "url": "https://www.bilibili.com/video/BV1UNhR6jEiW",
+      "hot_value": "1460012播放",
+      "index": 28
+    },
+    {
+      "title": "【特效向】蔡徐坤vs全明星 第二季",
+      "url": "https://www.bilibili.com/video/BV161aa6CERA",
+      "hot_value": "124262播放",
+      "index": 29
+    },
+    {
+      "title": "英雄or小人？封号原因？",
+      "url": "https://www.bilibili.com/video/BV1Vja86dEKT",
+      "hot_value": "179938播放",
       "index": 30
     }
   ]
