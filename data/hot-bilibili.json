@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-09-28T15:43:48Z",
+  "update_time": "2026-09-28T21:32:30Z",
   "count": 30,
   "list": [
     {
       "title": "三幻魔集结！超越神的力量！【水无月菌】",
       "url": "https://www.bilibili.com/video/BV14Qah6DEBL",
-      "hot_value": "501390播放",
+      "hot_value": "848725播放",
       "index": 1
     },
     {
       "title": "《原神》六周年主题曲《风的来信》",
       "url": "https://www.bilibili.com/video/BV14Baa6JENd",
-      "hot_value": "1700766播放",
+      "hot_value": "1855903播放",
       "index": 2
     },
     {
-      "title": "一猫哈气万狗哭！我把哈基米做成了肉鸽游戏！",
-      "url": "https://www.bilibili.com/video/BV1o3hd6cEx8",
-      "hot_value": "1446619播放",
+      "title": "【补档】CN零杠八单曲《大家一起十六强》完整版",
+      "url": "https://www.bilibili.com/video/BV1CDai6dEv9",
+      "hot_value": "525998播放",
       "index": 3
     },
     {
       "title": "【剧情】终极恶女（2014）01【那维勋 / 蔡函岑】",
       "url": "https://www.bilibili.com/video/BV15ieC6TEq3",
-      "hot_value": "1108240播放",
+      "hot_value": "1129518播放",
       "index": 4
     },
     {
-      "title": "⚡️她连唐笑都在调上⚡️",
-      "url": "https://www.bilibili.com/video/BV1X4a36KEuH",
-      "hot_value": "332788播放",
+      "title": "自学动画 爆肝俩月 自创一集《猫和老鼠》【手搓动画大赛】",
+      "url": "https://www.bilibili.com/video/BV1E6aq6pEKR",
+      "hot_value": "110222播放",
       "index": 5
     },
     {
-      "title": "【补档】CN零杠八单曲《大家一起十六强》完整版",
-      "url": "https://www.bilibili.com/video/BV1CDai6dEv9",
-      "hot_value": "319948播放",
+      "title": "【特效向】蔡徐坤vs全明星 第二季",
+      "url": "https://www.bilibili.com/video/BV161aa6CERA",
+      "hot_value": "698401播放",
       "index": 6
     },
     {
-      "title": "假如🤔...全世界发量下降一万倍，而俺不变！",
-      "url": "https://www.bilibili.com/video/BV13Ja869EeZ",
-      "hot_value": "1439567播放",
+      "title": "六十无拘 六十而已",
+      "url": "https://www.bilibili.com/video/BV1N1ai6cExV",
+      "hot_value": "414216播放",
       "index": 7
     },
     {
-      "title": "自制【飞行滑板】体感控制，科幻进入现实",
-      "url": "https://www.bilibili.com/video/BV1euaq6CEKR",
-      "hot_value": "346890播放",
+      "title": "蛙跳爬泰山",
+      "url": "https://www.bilibili.com/video/BV1Hxah6BEGy",
+      "hot_value": "1493418播放",
       "index": 8
     },
     {
-      "title": "《鸣潮》共鸣者「心」PV | 梦阑珊",
-      "url": "https://www.bilibili.com/video/BV1s8aq6FEfJ",
-      "hot_value": "1270262播放",
+      "title": "迈克尔.韩立 《不凡》天南巡回演唱会【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1Dbaa6sEez",
+      "hot_value": "1149075播放",
       "index": 9
     },
     {
       "title": "2026年10-12月国创秋季导视-哔哩哔哩版权国创",
       "url": "https://www.bilibili.com/video/BV1d9h266ECy",
-      "hot_value": "249451播放",
+      "hot_value": "256778播放",
       "index": 10
     },
     {
-      "title": "延续外观，影像升级？vivo X500 Pro Max 上手",
-      "url": "https://www.bilibili.com/video/BV1Ebho6BE2J",
-      "hot_value": "1649804播放",
+      "title": "⚡️她连唐笑都在调上⚡️",
+      "url": "https://www.bilibili.com/video/BV1X4a36KEuH",
+      "hot_value": "488376播放",
       "index": 11
     },
     {
-      "title": "迈克尔.韩立 《不凡》天南巡回演唱会【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV1Dbaa6sEez",
-      "hot_value": "999987播放",
+      "title": "假如🤔...全世界发量下降一万倍，而俺不变！",
+      "url": "https://www.bilibili.com/video/BV13Ja869EeZ",
+      "hot_value": "1601721播放",
       "index": 12
-    },
-    {
-      "title": "“钻玉米地”不划脸教程",
-      "url": "https://www.bilibili.com/video/BV1ntah6TEe9",
-      "hot_value": "1793966播放",
-      "index": 13
-    },
-    {
-      "title": "蛙跳爬泰山",
-      "url": "https://www.bilibili.com/video/BV1Hxah6BEGy",
-      "hot_value": "1348108播放",
-      "index": 14
-    },
-    {
-      "title": "三个两亿像素？OPPO Find X10 Pro Max上手",
-      "url": "https://www.bilibili.com/video/BV1hGaG6vEX2",
-      "hot_value": "381281播放",
-      "index": 15
-    },
-    {
-      "title": "Free Hug（挽袖子版）",
-      "url": "https://www.bilibili.com/video/BV1Nhhy6UEt6",
-      "hot_value": "984788播放",
-      "index": 16
-    },
-    {
-      "title": "驯化玉米：一颗废物野草，怎么统治了世界？",
-      "url": "https://www.bilibili.com/video/BV1gha36eET8",
-      "hot_value": "304473播放",
-      "index": 17
-    },
-    {
-      "title": "你 傻 不 过 我 你 信 吗",
-      "url": "https://www.bilibili.com/video/BV1yBaa6EEky",
-      "hot_value": "470602播放",
-      "index": 18
-    },
-    {
-      "title": "真的有人这样旅游吗？？？【雷霆姐妹花3】",
-      "url": "https://www.bilibili.com/video/BV1nqaq6sEda",
-      "hot_value": "385891播放",
-      "index": 19
     },
     {
       "title": "😨“后室里的乌鲁鲁2”😰",
       "url": "https://www.bilibili.com/video/BV1LraY6KES1",
-      "hot_value": "376544播放",
-      "index": 20
+      "hot_value": "423753播放",
+      "index": 13
     },
     {
-      "title": "【新宿决战】DeepSeek娘VS豆包",
-      "url": "https://www.bilibili.com/video/BV1dsai6CErz",
-      "hot_value": "625072播放",
-      "index": 21
+      "title": "真的有人这样旅游吗？？？【雷霆姐妹花3】",
+      "url": "https://www.bilibili.com/video/BV1nqaq6sEda",
+      "hot_value": "442360播放",
+      "index": 14
     },
     {
-      "title": "【张靓颖】MMM…",
-      "url": "https://www.bilibili.com/video/BV1uDah6HEkM",
-      "hot_value": "508362播放",
-      "index": 22
+      "title": "《鸣潮》共鸣者「心」PV | 梦阑珊",
+      "url": "https://www.bilibili.com/video/BV1s8aq6FEfJ",
+      "hot_value": "1332538播放",
+      "index": 15
     },
     {
-      "title": "第一视角带你沉浸式体验修家电师傅的一天",
-      "url": "https://www.bilibili.com/video/BV18ChR6nE8h",
-      "hot_value": "1128752播放",
-      "index": 23
+      "title": "你管这叫只会一点点？？？",
+      "url": "https://www.bilibili.com/video/BV1jXat6WEwR",
+      "hot_value": "501752播放",
+      "index": 16
     },
     {
-      "title": "张雪机车在意大利被偷麻了",
-      "url": "https://www.bilibili.com/video/BV1W2aV6cEt8",
-      "hot_value": "203665播放",
-      "index": 24
-    },
-    {
-      "title": "刀片4",
-      "url": "https://www.bilibili.com/video/BV1kuaV6xET2",
-      "hot_value": "150943播放",
-      "index": 25
-    },
-    {
-      "title": "这机器人有点东西",
-      "url": "https://www.bilibili.com/video/BV1Dxa86UEpg",
-      "hot_value": "851020播放",
-      "index": 26
-    },
-    {
-      "title": "《坦克模拟器-增强版》",
-      "url": "https://www.bilibili.com/video/BV1V6ho6cEQw",
-      "hot_value": "700858播放",
-      "index": 27
-    },
-    {
-      "title": "【特效向】蔡徐坤vs全明星 第二季",
-      "url": "https://www.bilibili.com/video/BV161aa6CERA",
-      "hot_value": "522981播放",
-      "index": 28
+      "title": "《三角洲行动》群星计划—代号：蝶",
+      "url": "https://www.bilibili.com/video/BV1fwh96bEfH",
+      "hot_value": "1780376播放",
+      "index": 17
     },
     {
       "title": "钓鱼被鱼揍了",
       "url": "https://www.bilibili.com/video/BV1Usat6rEm1",
-      "hot_value": "1487225播放",
+      "hot_value": "1582452播放",
+      "index": 18
+    },
+    {
+      "title": "第一视角带你沉浸式体验修家电师傅的一天",
+      "url": "https://www.bilibili.com/video/BV18ChR6nE8h",
+      "hot_value": "1282097播放",
+      "index": 19
+    },
+    {
+      "title": "《阴阳师》玩家主题曲：《平安拾光物语》",
+      "url": "https://www.bilibili.com/video/BV17fa365EdX",
+      "hot_value": "136818播放",
+      "index": 20
+    },
+    {
+      "title": "【反T1联盟单曲】 |《We Are The World》 LOL群星演唱",
+      "url": "https://www.bilibili.com/video/BV1YKaY6FEkp",
+      "hot_value": "295960播放",
+      "index": 21
+    },
+    {
+      "title": "《坦克模拟器-增强版》",
+      "url": "https://www.bilibili.com/video/BV1V6ho6cEQw",
+      "hot_value": "760196播放",
+      "index": 22
+    },
+    {
+      "title": "《无敌超人》当你拥有无限增强的超能力，会做什么？【Hishorts! × updream AI短片大赛+剧情单元】",
+      "url": "https://www.bilibili.com/video/BV1aJa869EaJ",
+      "hot_value": "263291播放",
+      "index": 23
+    },
+    {
+      "title": "【新宿决战】DeepSeek娘VS豆包",
+      "url": "https://www.bilibili.com/video/BV1dsai6CErz",
+      "hot_value": "696996播放",
+      "index": 24
+    },
+    {
+      "title": "迈克尔·曹操 新三国巡演",
+      "url": "https://www.bilibili.com/video/BV1RMax6yE6V",
+      "hot_value": "767155播放",
+      "index": 25
+    },
+    {
+      "title": "小乔：兰陵王你是个钩*",
+      "url": "https://www.bilibili.com/video/BV1c2h26jECF",
+      "hot_value": "1036737播放",
+      "index": 26
+    },
+    {
+      "title": "张雪机车在意大利被偷麻了",
+      "url": "https://www.bilibili.com/video/BV1W2aV6cEt8",
+      "hot_value": "334608播放",
+      "index": 27
+    },
+    {
+      "title": "当道士下山上大学",
+      "url": "https://www.bilibili.com/video/BV1xLho67Ev1",
+      "hot_value": "1507323播放",
+      "index": 28
+    },
+    {
+      "title": "Free Hug（挽袖子版）",
+      "url": "https://www.bilibili.com/video/BV1Nhhy6UEt6",
+      "hot_value": "1072686播放",
       "index": 29
     },
     {
-      "title": "《胸型审美类别》",
-      "url": "https://www.bilibili.com/video/BV1nAh261Epy",
-      "hot_value": "460971播放",
+      "title": "这机器人有点东西",
+      "url": "https://www.bilibili.com/video/BV1Dxa86UEpg",
+      "hot_value": "950139播放",
       "index": 30
     }
   ]
