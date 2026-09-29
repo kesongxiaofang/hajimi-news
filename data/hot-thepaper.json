@@ -1,24 +1,24 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-09-29T01:25:41Z",
+  "update_time": "2026-09-29T07:14:27Z",
   "count": 20,
   "list": [
-    {
-      "title": "教育部原党组成员、副部长鲁昕被查",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34163360",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "解读丨上海发布商品房销售新政，业内专家怎么看？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34166473",
       "hot_value": "",
-      "index": 2
+      "index": 1
     },
     {
       "title": "解读丨事关稳楼市、促就业、提振内需等，国常会释放积极信号",
       "url": "https://www.thepaper.cn/newsDetail_forward_34166762",
+      "hot_value": "",
+      "index": 2
+    },
+    {
+      "title": "总结男团丢金，王楚钦：国乒永远抱着必胜的心态去比赛",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34166736",
       "hot_value": "",
       "index": 3
     },
@@ -35,32 +35,32 @@
       "index": 5
     },
     {
-      "title": "核心任务抢占科技制高点，《中国科学院“十五五”发展规划》发布",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34162949",
-      "hot_value": "",
-      "index": 6
-    },
-    {
       "title": "马上评｜郑刚罗永浩与其隔空斗法，不如诉之于法",
       "url": "https://www.thepaper.cn/newsDetail_forward_34164630",
       "hot_value": "",
-      "index": 7
+      "index": 6
     },
     {
       "title": "“把城市C位献给国之栋梁”，十位科学家群像亮相上海地铁站",
       "url": "https://www.thepaper.cn/newsDetail_forward_34165294",
       "hot_value": "",
+      "index": 7
+    },
+    {
+      "title": "张雪机车回应“团队在意大利被盗”：局部财务遗失，目前全员安全",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34166407",
+      "hot_value": "",
       "index": 8
     },
     {
-      "title": "体育总局局长高志丹：亚运会部分传统优势项目成绩不及预期，暴露出在人才厚度等方面的短板",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34163349",
+      "title": "王楚钦：说出来像在找客观原因，但现在打球没有享受的感觉",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34166416",
       "hot_value": "",
       "index": 9
     },
     {
-      "title": "博士团解读宁波①｜从“宁波帮”到“宁波创”：新时代宁波的高质量发展机遇",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34134718",
+      "title": "成都文旅局通报那英即兴演唱《弯弯的月亮》：不属于变更节目重新报批情形",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34170993",
       "hot_value": "",
       "index": 10
     },
@@ -71,56 +71,56 @@
       "index": 11
     },
     {
-      "title": "经纬度：从世赛青年身上，何以看见中国未来？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34163209",
+      "title": "鲁昕被查，教育部党组：坚决拥护党中央决定",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34166724",
       "hot_value": "",
       "index": 12
     },
     {
-      "title": "总结男团丢金，王楚钦：国乒永远抱着必胜的心态去比赛",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34166736",
+      "title": "王毅会见日本国际贸易促进协会会长岩屋毅",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34167342",
       "hot_value": "",
       "index": 13
-    },
-    {
-      "title": "美“星舰”实现首次地球轨道飞行，但提前结束任务",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34167665",
-      "hot_value": "",
-      "index": 14
-    },
-    {
-      "title": "武契奇宣布辞职，“没有那把交椅，我们也能赢”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34162969",
-      "hot_value": "",
-      "index": 15
-    },
-    {
-      "title": "商务部公布中美贸易理事会和“300亿对300亿”对等降税框架有关情况",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34163782",
-      "hot_value": "",
-      "index": 16
-    },
-    {
-      "title": "鲁昕被查，教育部党组：坚决拥护党中央决定",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34166724",
-      "hot_value": "",
-      "index": 17
     },
     {
       "title": "广汽集团：拟购买一汽丰田50%股权，推动“南北丰田”协同运营",
       "url": "https://www.thepaper.cn/newsDetail_forward_34166897",
       "hot_value": "",
-      "index": 18
+      "index": 14
+    },
+    {
+      "title": "全国政协办公厅、中共中央统战部、国务院侨办、国务院港澳办、国务院台办、中国侨联联合举行国庆招待会",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34166400",
+      "hot_value": "",
+      "index": 15
+    },
+    {
+      "title": "台湾花莲县海域发生4.7级地震，震源深度23千米",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34167834",
+      "hot_value": "",
+      "index": 16
+    },
+    {
+      "title": "美“星舰”实现首次地球轨道飞行，但提前结束任务",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34167665",
+      "hot_value": "",
+      "index": 17
     },
     {
       "title": "【社论】密集上新，中国高铁加速“织线成网”",
       "url": "https://www.thepaper.cn/newsDetail_forward_34164076",
       "hot_value": "",
+      "index": 18
+    },
+    {
+      "title": "普京签署总统令，俄军再次扩编",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34167693",
+      "hot_value": "",
       "index": 19
     },
     {
-      "title": "涉对等降税、中美直航等，商务部解读第八轮中美经贸磋商成果",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34163088",
+      "title": "湖北赤壁通报“连锁火锅串串店发现虫卵”：责令商家限期整改",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34166936",
       "hot_value": "",
       "index": 20
     }
