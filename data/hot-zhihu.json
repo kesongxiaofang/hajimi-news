@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-09-29T19:32:06Z",
+  "update_time": "2026-09-29T23:23:33Z",
   "count": 30,
   "list": [
     {
       "title": "居民房贷贴息政策 10 月 1 日起实施，年化贴息 1% 、最长补贴 5 年，限定房价 150 万以内，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2088328834617811228",
-      "hot_value": "3169 万热度",
+      "hot_value": "697 万热度",
       "index": 1
     },
     {
       "title": "陕西醉驾碾压教师并拖行 5.9 公里致死案提级审理，罪名变更为故意杀人，法律上如何分析？",
       "url": "https://www.zhihu.com/question/2088119863676089068",
-      "hot_value": "806 万热度",
+      "hot_value": "356 万热度",
       "index": 2
     },
     {
       "title": "8.59 元香菜遭「仅退款」，商家驱车千里跨省讨回，如何评价？电商商家维权成本这么高，症结在哪？",
       "url": "https://www.zhihu.com/question/2087999455794566650",
-      "hot_value": "182 万热度",
+      "hot_value": "187 万热度",
       "index": 3
     },
     {
-      "title": "曾风靡全国的五笔为什么逐渐被拼音输入法取代了？",
-      "url": "https://www.zhihu.com/question/561899452",
-      "hot_value": "139 万热度",
+      "title": "如何评价 OpenAI 发布的 GPT-6.1 Sol？",
+      "url": "https://www.zhihu.com/question/2088438061877178615",
+      "hot_value": "149 万热度",
       "index": 4
-    },
-    {
-      "title": "深蓝董事长称车载冰箱使用率 5%，娱乐屏全年使用不足 10 次，这些配置真的鸡肋吗？那为啥行业在狂卷配置？",
-      "url": "https://www.zhihu.com/question/2087587655189881447",
-      "hot_value": "129 万热度",
-      "index": 5
-    },
-    {
-      "title": "假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样？",
-      "url": "https://www.zhihu.com/question/2086464412991371217",
-      "hot_value": "119 万热度",
-      "index": 6
-    },
-    {
-      "title": "东京奥运前夕，张家齐母亲写了一封满是训诫内容的家书，但教练没有把家书给张家齐，怎样看待教练的做法？",
-      "url": "https://www.zhihu.com/question/2087956519622898632",
-      "hot_value": "118 万热度",
-      "index": 7
-    },
-    {
-      "title": "媒体追问那英临时加唱是否罚款引热议，「举报式采访」为啥引发争议？媒体这样报道合理吗？",
-      "url": "https://www.zhihu.com/question/2088304193140252778",
-      "hot_value": "114 万热度",
-      "index": 8
-    },
-    {
-      "title": "国乒亚运会参加 7 项，拿下 6 金 4 银，仅男团未能夺金，如何评价本届亚运会国乒战绩？",
-      "url": "https://www.zhihu.com/question/2088001437158720152",
-      "hot_value": "109 万热度",
-      "index": 9
-    },
-    {
-      "title": "怎么看媒体曝 Anthropic 提交 IPO 招股书，25 年营收增长 12 倍，净亏损 420 亿美元？",
-      "url": "https://www.zhihu.com/question/2088194648518947828",
-      "hot_value": "104 万热度",
-      "index": 10
     },
     {
       "title": "于和伟、宋佳分封视帝、视后，如何评价第 33 届中国电视金鹰奖获奖名单？",
       "url": "https://www.zhihu.com/question/2088357319029384022",
-      "hot_value": "100 万热度",
-      "index": 11
+      "hot_value": "115 万热度",
+      "index": 5
+    },
+    {
+      "title": "醉酒男子打车多次要求中途下车后溺亡，家属向司机平台索赔 30 万被驳回，如何解读这一判决？",
+      "url": "https://www.zhihu.com/question/2088231915631243421",
+      "hot_value": "93 万热度",
+      "index": 6
     },
     {
       "title": "有运动员称亚运金牌有「瑕疵」，边缘区域存在色差，组委会连夜更换，为什么会这样？可能是哪些环节出现问题？",
       "url": "https://www.zhihu.com/question/2087090532799308553",
-      "hot_value": "81 万热度",
-      "index": 12
+      "hot_value": "87 万热度",
+      "index": 7
     },
     {
-      "title": "如何评价 FPS 游戏《战狗》的【贿赂医疗兵】系统，玩家可以花钱让医疗兵优先救自己？算不算本末倒置？",
-      "url": "https://www.zhihu.com/question/2083645115826959080",
-      "hot_value": "79 万热度",
-      "index": 13
+      "title": "深蓝董事长称车载冰箱使用率 5%，娱乐屏全年使用不足 10 次，这些配置真的鸡肋吗？那为啥行业在狂卷配置？",
+      "url": "https://www.zhihu.com/question/2087587655189881447",
+      "hot_value": "86 万热度",
+      "index": 8
     },
     {
-      "title": "一线导演和编剧是怎样看待普通观众所写的影评的？",
-      "url": "https://www.zhihu.com/question/2065017988923889015",
-      "hot_value": "74 万热度",
-      "index": 14
-    },
-    {
-      "title": "亚运会男女混 4×100 米接力决赛，中国队以 40 秒 78 夺金，拿下该项目亚运会历史首金，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2088247556220400683",
-      "hot_value": "73 万热度",
-      "index": 15
-    },
-    {
-      "title": "神雕侠侣到底是一部拙劣的言情武侠，还是一部高级的隐喻神作？",
+      "title": "《神雕侠侣》到底是一部拙劣的言情武侠，还是一部高级的隐喻神作？",
       "url": "https://www.zhihu.com/question/2068998233511219282",
-      "hot_value": "70 万热度",
-      "index": 16
+      "hot_value": "76 万热度",
+      "index": 9
+    },
+    {
+      "title": "曾风靡全国的五笔为什么逐渐被拼音输入法取代了？",
+      "url": "https://www.zhihu.com/question/561899452",
+      "hot_value": "74 万热度",
+      "index": 10
+    },
+    {
+      "title": "国乒亚运会参加 7 项，拿下 6 金 4 银，仅男团未能夺金，如何评价本届亚运会国乒战绩？",
+      "url": "https://www.zhihu.com/question/2088001437158720152",
+      "hot_value": "72 万热度",
+      "index": 11
+    },
+    {
+      "title": "东京奥运前夕，张家齐母亲写了一封满是训诫内容的家书，但教练没有把家书给张家齐，怎样看待教练的做法？",
+      "url": "https://www.zhihu.com/question/2087956519622898632",
+      "hot_value": "68 万热度",
+      "index": 12
     },
     {
       "title": "手机内置广告一直被骂，为什么没有一个厂商出一款纯净无广告的手机，是给得太多了吗？",
       "url": "https://www.zhihu.com/question/2086472782729196810",
-      "hot_value": "68 万热度",
-      "index": 17
-    },
-    {
-      "title": "周围吵成一片时，我怎么还能一下听见有人叫我的名字？",
-      "url": "https://www.zhihu.com/question/2085687195009037300",
-      "hot_value": "67 万热度",
-      "index": 18
-    },
-    {
-      "title": "秋意渐浓，你最近还能拍到什么花？",
-      "url": "https://www.zhihu.com/question/2078044366388588786",
-      "hot_value": "59 万热度",
-      "index": 19
-    },
-    {
-      "title": "华为 Mate90 系列旗舰定档 10 月 1 日发售，有哪些亮点值得关注？",
-      "url": "https://www.zhihu.com/question/2088199945174177197",
-      "hot_value": "59 万热度",
-      "index": 20
-    },
-    {
-      "title": "很多人吐槽月饼又甜又腻不好吃，你有同感吗？如果有机会，你会怎么改良 /DIY 月饼的做法 / 口味？",
-      "url": "https://www.zhihu.com/question/2082963646145983460",
-      "hot_value": "59 万热度",
-      "index": 21
+      "hot_value": "60 万热度",
+      "index": 13
     },
     {
       "title": "地球上的所有动物都没有穿衣服，还不是活得好好的，为什么只有我们人类才穿衣服，难道不穿衣服就活不了吗？",
       "url": "https://www.zhihu.com/question/2082064671708922600",
       "hot_value": "59 万热度",
-      "index": 22
+      "index": 14
     },
     {
-      "title": "为什么河虾的价格比明虾高那么多？",
-      "url": "https://www.zhihu.com/question/3827459284",
-      "hot_value": "58 万热度",
-      "index": 23
+      "title": "媒体追问那英临时加唱是否罚款引热议，「举报式采访」为啥引发争议？媒体这样报道合理吗？",
+      "url": "https://www.zhihu.com/question/2088304193140252778",
+      "hot_value": "59 万热度",
+      "index": 15
     },
     {
-      "title": "如何看待 AMD 收购李飞飞创立的 World Labs，李飞飞将任 AMD 执行副总裁兼首席科学家？",
-      "url": "https://www.zhihu.com/question/2088185975017153644",
-      "hot_value": "58 万热度",
-      "index": 24
-    },
-    {
-      "title": "2 岁娃疑似连吃 8 个月银鳕鱼汞中毒，生产商回应深海野生银鳕天然存在微量汞，儿童食用银鳕鱼安全吗？",
-      "url": "https://www.zhihu.com/question/2088189824180266345",
-      "hot_value": "57 万热度",
-      "index": 25
+      "title": "亚运会男女混 4×100 米接力决赛，中国队以 40 秒 78 夺金，拿下该项目亚运会历史首金，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2088247556220400683",
+      "hot_value": "59 万热度",
+      "index": 16
     },
     {
       "title": "如何评价荣耀 Magic9 系列起售价 4499 元，在今年集体涨价的大环境下，这个含金量有多高？",
       "url": "https://www.zhihu.com/question/2087863658260984916",
+      "hot_value": "58 万热度",
+      "index": 17
+    },
+    {
+      "title": "怎么看媒体曝 Anthropic 提交 IPO 招股书，25 年营收增长 12 倍，净亏损 420 亿美元？",
+      "url": "https://www.zhihu.com/question/2088194648518947828",
+      "hot_value": "58 万热度",
+      "index": 18
+    },
+    {
+      "title": "为什么河虾的价格比明虾高那么多？",
+      "url": "https://www.zhihu.com/question/3827459284",
       "hot_value": "57 万热度",
-      "index": 26
+      "index": 19
     },
     {
-      "title": "排骨炖土豆和排骨炖玉米你喜欢哪个？",
-      "url": "https://www.zhihu.com/question/1919453015628317456",
+      "title": "华为 Mate90 系列旗舰定档 10 月 1 日发售，有哪些亮点值得关注？",
+      "url": "https://www.zhihu.com/question/2088199945174177197",
       "hot_value": "57 万热度",
-      "index": 27
-    },
-    {
-      "title": "3A 大作动辄几十甚至上百小时的游戏时长，对于现代玩家是否是浪费时间？",
-      "url": "https://www.zhihu.com/question/1887091392431490544",
-      "hot_value": "56 万热度",
-      "index": 28
-    },
-    {
-      "title": "面对「过紧日子」的要求，大学预算中哪些开支「该紧」，哪些「不该紧」？",
-      "url": "https://www.zhihu.com/question/2084700478647039717",
-      "hot_value": "56 万热度",
-      "index": 29
+      "index": 20
     },
     {
       "title": "一个人开车跑高速犯困了，除了喝红牛和掐大腿，还有什么真正有效的提神方法？",
       "url": "https://www.zhihu.com/question/2084653683766191673",
+      "hot_value": "56 万热度",
+      "index": 21
+    },
+    {
+      "title": "国足 0:3 新西兰，邵佳一的执教能力遭怀疑，一场论是否适合足球评价体系？",
+      "url": "https://www.zhihu.com/question/2087913459472131593",
+      "hot_value": "56 万热度",
+      "index": 22
+    },
+    {
+      "title": "自己亲手包饺子好还是买饺子好呢？",
+      "url": "https://www.zhihu.com/question/1975467356403824453",
+      "hot_value": "56 万热度",
+      "index": 23
+    },
+    {
+      "title": "历史长河中为什么没有进化出永生的生物？",
+      "url": "https://www.zhihu.com/question/2010801831337554079",
+      "hot_value": "56 万热度",
+      "index": 24
+    },
+    {
+      "title": "下班后领导还发工作消息该不该秒回，还是装看不见?",
+      "url": "https://www.zhihu.com/question/2075187318625933080",
+      "hot_value": "56 万热度",
+      "index": 25
+    },
+    {
+      "title": "巴菲特是白手起家吗？",
+      "url": "https://www.zhihu.com/question/654756816",
+      "hot_value": "56 万热度",
+      "index": 26
+    },
+    {
+      "title": "如何让一个中学生看懂拉格朗日力学？",
+      "url": "https://www.zhihu.com/question/462287813",
+      "hot_value": "56 万热度",
+      "index": 27
+    },
+    {
+      "title": "如何评价《刃牙》这部动漫？",
+      "url": "https://www.zhihu.com/question/289991681",
+      "hot_value": "56 万热度",
+      "index": 28
+    },
+    {
+      "title": "如果国庆只能选一个省进行深度访古，你会选择哪里？",
+      "url": "https://www.zhihu.com/question/2084421545984620025",
+      "hot_value": "56 万热度",
+      "index": 29
+    },
+    {
+      "title": "格斗家为什么不用鞭锏锤来捶打自己，增加身体的抗击打能力？",
+      "url": "https://www.zhihu.com/question/650263507",
       "hot_value": "56 万热度",
       "index": 30
     }
