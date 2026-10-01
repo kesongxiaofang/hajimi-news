@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-10-01T19:13:41Z",
+  "update_time": "2026-10-01T23:18:54Z",
   "count": 30,
   "list": [
     {
       "title": "国庆节快乐",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E5%BA%86%E8%8A%82%E5%BF%AB%E4%B9%90",
-      "hot_value": "1,308.4万",
+      "hot_value": "1,335万",
       "index": 1
     },
     {
       "title": "天安门广场国庆升旗仪式",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F",
-      "hot_value": "1,302.3万",
+      "hot_value": "1,334.9万",
       "index": 2
     },
     {
       "title": "我爱你中国",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD",
-      "hot_value": "1,296.8万",
+      "hot_value": "1,334.7万",
       "index": 3
     },
     {
       "title": "央视国庆晚会",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A",
-      "hot_value": "1,272.3万",
+      "hot_value": "1,334.6万",
       "index": 4
     },
     {
       "title": "国庆节中国队金金金金",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E5%BA%86%E8%8A%82%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%87%91%E9%87%91%E9%87%91%E9%87%91",
-      "hot_value": "1,270.2万",
+      "hot_value": "1,334.5万",
       "index": 5
     },
     {
       "title": "人人人国庆首日人人人",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BA%BA%E4%BA%BA%E4%BA%BA%E5%9B%BD%E5%BA%86%E9%A6%96%E6%97%A5%E4%BA%BA%E4%BA%BA%E4%BA%BA",
-      "hot_value": "1,269.1万",
+      "hot_value": "1,334.3万",
       "index": 6
     },
     {
-      "title": "买不起房用集装箱造别墅",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B9%B0%E4%B8%8D%E8%B5%B7%E6%88%BF%E7%94%A8%E9%9B%86%E8%A3%85%E7%AE%B1%E9%80%A0%E5%88%AB%E5%A2%85",
-      "hot_value": "1,263.7万",
+      "title": "竹笋顺水运下山",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AB%B9%E7%AC%8B%E9%A1%BA%E6%B0%B4%E8%BF%90%E4%B8%8B%E5%B1%B1",
+      "hot_value": "1,334.3万",
       "index": 7
     },
     {
-      "title": "中国队包揽亚运网球女单金银牌",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%85%E6%8F%BD%E4%BA%9A%E8%BF%90%E7%BD%91%E7%90%83%E5%A5%B3%E5%8D%95%E9%87%91%E9%93%B6%E7%89%8C",
-      "hot_value": "1,139万",
+      "title": "猫学长国庆值班摸鱼",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8C%AB%E5%AD%A6%E9%95%BF%E5%9B%BD%E5%BA%86%E5%80%BC%E7%8F%AD%E6%91%B8%E9%B1%BC",
+      "hot_value": "1,236.6万",
       "index": 8
     },
     {
       "title": "国庆大军已抵达全世界",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E5%BA%86%E5%A4%A7%E5%86%9B%E5%B7%B2%E6%8A%B5%E8%BE%BE%E5%85%A8%E4%B8%96%E7%95%8C",
-      "hot_value": "1,130.2万",
+      "hot_value": "1,204.8万",
       "index": 9
     },
     {
-      "title": "国庆吃遍全国烟火味",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E5%BA%86%E5%90%83%E9%81%8D%E5%85%A8%E5%9B%BD%E7%83%9F%E7%81%AB%E5%91%B3",
-      "hot_value": "1,118.8万",
+      "title": "吉林巨旗漫卷满目中国红",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%89%E6%9E%97%E5%B7%A8%E6%97%97%E6%BC%AB%E5%8D%B7%E6%BB%A1%E7%9B%AE%E4%B8%AD%E5%9B%BD%E7%BA%A2",
+      "hot_value": "1,167.6万",
       "index": 10
     },
     {
       "title": "饮用无醇啤酒后开车不会构成酒驾",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A5%AE%E7%94%A8%E6%97%A0%E9%86%87%E5%95%A4%E9%85%92%E5%90%8E%E5%BC%80%E8%BD%A6%E4%B8%8D%E4%BC%9A%E6%9E%84%E6%88%90%E9%85%92%E9%A9%BE",
-      "hot_value": "1,099万",
+      "hot_value": "1,158.8万",
       "index": 11
     },
     {
-      "title": "各地国庆假期实时路况",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%84%E5%9C%B0%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%86%B5",
-      "hot_value": "1,098.1万",
+      "title": "赵今麦胡意旋抢项目后生疏",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E8%83%A1%E6%84%8F%E6%97%8B%E6%8A%A2%E9%A1%B9%E7%9B%AE%E5%90%8E%E7%94%9F%E7%96%8F",
+      "hot_value": "1,147万",
       "index": 12
     },
     {
-      "title": "熊大熊二失忆了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%86%8A%E5%A4%A7%E7%86%8A%E4%BA%8C%E5%A4%B1%E5%BF%86%E4%BA%86",
-      "hot_value": "1,076万",
+      "title": "外耗型人格整治奇葩",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%96%E8%80%97%E5%9E%8B%E4%BA%BA%E6%A0%BC%E6%95%B4%E6%B2%BB%E5%A5%87%E8%91%A9",
+      "hot_value": "1,125.5万",
       "index": 13
     },
     {
-      "title": "国庆的泰山有一亿人",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E5%BA%86%E7%9A%84%E6%B3%B0%E5%B1%B1%E6%9C%89%E4%B8%80%E4%BA%BF%E4%BA%BA",
-      "hot_value": "1,031.1万",
+      "title": "买不起房用集装箱造别墅",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B9%B0%E4%B8%8D%E8%B5%B7%E6%88%BF%E7%94%A8%E9%9B%86%E8%A3%85%E7%AE%B1%E9%80%A0%E5%88%AB%E5%A2%85",
+      "hot_value": "1,081.4万",
       "index": 14
     },
     {
-      "title": "桑多涅闪身步",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%A1%91%E5%A4%9A%E6%B6%85%E9%97%AA%E8%BA%AB%E6%AD%A5",
-      "hot_value": "1,006.8万",
+      "title": "大连局地出现大到暴雨",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E8%BF%9E%E5%B1%80%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8",
+      "hot_value": "1,061万",
       "index": 15
     },
     {
       "title": "江苏高速连环相撞行车视频曝光",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B1%9F%E8%8B%8F%E9%AB%98%E9%80%9F%E8%BF%9E%E7%8E%AF%E7%9B%B8%E6%92%9E%E8%A1%8C%E8%BD%A6%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89",
-      "hot_value": "1,003.9万",
+      "hot_value": "1,038.4万",
       "index": 16
+    },
+    {
+      "title": "烟台游客迎日出歌唱祖国",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%83%9F%E5%8F%B0%E6%B8%B8%E5%AE%A2%E8%BF%8E%E6%97%A5%E5%87%BA%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD",
+      "hot_value": "1,015.9万",
+      "index": 17
+    },
+    {
+      "title": "各地国庆假期实时路况",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%84%E5%9C%B0%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%86%B5",
+      "hot_value": "1,012.9万",
+      "index": 18
     },
     {
       "title": "中方对日本首相称呼发生变化",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E7%A7%B0%E5%91%BC%E5%8F%91%E7%94%9F%E5%8F%98%E5%8C%96",
-      "hot_value": "1,001.3万",
-      "index": 17
-    },
-    {
-      "title": "吴艳妮给自己打一百分",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%B4%E8%89%B3%E5%A6%AE%E7%BB%99%E8%87%AA%E5%B7%B1%E6%89%93%E4%B8%80%E7%99%BE%E5%88%86",
-      "hot_value": "998.6万",
-      "index": 18
-    },
-    {
-      "title": "C罗离队葡萄牙掉粉50万",
-      "url": "https://www.kuaishou.com/search/video?searchKey=C%E7%BD%97%E7%A6%BB%E9%98%9F%E8%91%A1%E8%90%84%E7%89%99%E6%8E%89%E7%B2%8950%E4%B8%87",
-      "hot_value": "994.1万",
+      "hot_value": "1,010.2万",
       "index": 19
+    },
+    {
+      "title": "美国要求伊朗代表团离美",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%A6%BB%E7%BE%8E",
+      "hot_value": "1,007.4万",
+      "index": 20
+    },
+    {
+      "title": "国庆吃遍全国烟火味",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E5%BA%86%E5%90%83%E9%81%8D%E5%85%A8%E5%9B%BD%E7%83%9F%E7%81%AB%E5%91%B3",
+      "hot_value": "1,005.4万",
+      "index": 21
+    },
+    {
+      "title": "宜宾一鱼塘现不明生物",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%9C%E5%AE%BE%E4%B8%80%E9%B1%BC%E5%A1%98%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%94%9F%E7%89%A9",
+      "hot_value": "1,003.3万",
+      "index": 22
+    },
+    {
+      "title": "大范围降温来袭",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%99%8D%E6%B8%A9%E6%9D%A5%E8%A2%AD",
+      "hot_value": "1,000.9万",
+      "index": 23
+    },
+    {
+      "title": "三角洲吴彦祖之镜",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%90%B4%E5%BD%A6%E7%A5%96%E4%B9%8B%E9%95%9C",
+      "hot_value": "998.8万",
+      "index": 24
+    },
+    {
+      "title": "鹤岗百人拉起巨幅国旗",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%B9%A4%E5%B2%97%E7%99%BE%E4%BA%BA%E6%8B%89%E8%B5%B7%E5%B7%A8%E5%B9%85%E5%9B%BD%E6%97%97",
+      "hot_value": "994.3万",
+      "index": 25
+    },
+    {
+      "title": "火箭兵坚守战位送祝福",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%81%AB%E7%AE%AD%E5%85%B5%E5%9D%9A%E5%AE%88%E6%88%98%E4%BD%8D%E9%80%81%E7%A5%9D%E7%A6%8F",
+      "hot_value": "991.7万",
+      "index": 26
+    },
+    {
+      "title": "沈阳法库国庆登高颂山河",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%88%E9%98%B3%E6%B3%95%E5%BA%93%E5%9B%BD%E5%BA%86%E7%99%BB%E9%AB%98%E9%A2%82%E5%B1%B1%E6%B2%B3",
+      "hot_value": "989.1万",
+      "index": 27
+    },
+    {
+      "title": "河南迎下半年最冷白天",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8D%97%E8%BF%8E%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9C%80%E5%86%B7%E7%99%BD%E5%A4%A9",
+      "hot_value": "986.3万",
+      "index": 28
+    },
+    {
+      "title": "长沙10月1至4日有雨",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%95%BF%E6%B2%9910%E6%9C%881%E8%87%B34%E6%97%A5%E6%9C%89%E9%9B%A8",
+      "hot_value": "983.4万",
+      "index": 29
     },
     {
       "title": "俄警告北约或动用核武器",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BF%84%E8%AD%A6%E5%91%8A%E5%8C%97%E7%BA%A6%E6%88%96%E5%8A%A8%E7%94%A8%E6%A0%B8%E6%AD%A6%E5%99%A8",
-      "hot_value": "992.9万",
-      "index": 20
-    },
-    {
-      "title": "三角洲吴彦祖皮肤",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%90%B4%E5%BD%A6%E7%A5%96%E7%9A%AE%E8%82%A4",
-      "hot_value": "988.1万",
-      "index": 21
-    },
-    {
-      "title": "神兵小将入驻快手",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A5%9E%E5%85%B5%E5%B0%8F%E5%B0%86%E5%85%A5%E9%A9%BB%E5%BF%AB%E6%89%8B",
-      "hot_value": "985.3万",
-      "index": 22
-    },
-    {
-      "title": "C罗官宣退出国家队集训",
-      "url": "https://www.kuaishou.com/search/video?searchKey=C%E7%BD%97%E5%AE%98%E5%AE%A3%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD",
-      "hot_value": "982.6万",
-      "index": 23
-    },
-    {
-      "title": "范丞丞太湖湾音乐节",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%A4%AA%E6%B9%96%E6%B9%BE%E9%9F%B3%E4%B9%90%E8%8A%82",
-      "hot_value": "980.4万",
-      "index": 24
-    },
-    {
-      "title": "小伙住9元房国庆吃肯德基",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E4%BC%99%E4%BD%8F9%E5%85%83%E6%88%BF%E5%9B%BD%E5%BA%86%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA",
-      "hot_value": "978万",
-      "index": 25
-    },
-    {
-      "title": "车车车车高速车车车车",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BD%A6%E8%BD%A6%E8%BD%A6%E8%BD%A6%E9%AB%98%E9%80%9F%E8%BD%A6%E8%BD%A6%E8%BD%A6%E8%BD%A6",
-      "hot_value": "973.2万",
-      "index": 26
-    },
-    {
-      "title": "国旗转场",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E6%97%97%E8%BD%AC%E5%9C%BA",
-      "hot_value": "971万",
-      "index": 27
-    },
-    {
-      "title": "景德镇古窑复烧点火",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%99%AF%E5%BE%B7%E9%95%87%E5%8F%A4%E7%AA%91%E5%A4%8D%E7%83%A7%E7%82%B9%E7%81%AB",
-      "hot_value": "965.5万",
-      "index": 28
-    },
-    {
-      "title": "国庆凤凰山云海现中国红",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E5%BA%86%E5%87%A4%E5%87%B0%E5%B1%B1%E4%BA%91%E6%B5%B7%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%BA%A2",
-      "hot_value": "958.5万",
-      "index": 29
-    },
-    {
-      "title": "晒出你的武汉国庆烟花大片",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E6%AD%A6%E6%B1%89%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E5%A4%A7%E7%89%87",
-      "hot_value": "956.1万",
+      "hot_value": "980.8万",
       "index": 30
     }
   ]
