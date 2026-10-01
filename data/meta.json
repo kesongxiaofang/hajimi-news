@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-01T06:18:14Z",
+  "update_time": "2026-10-01T13:41:23Z",
   "platforms": [
     {
       "type": "weibo",
@@ -34,7 +34,8 @@
     {
       "type": "baidu",
       "name": "百度热搜",
-      "count": 30
+      "count": 0,
+      "error": "HTTP Error 522: Origin Connection Time-out"
     },
     {
       "type": "toutiao",
