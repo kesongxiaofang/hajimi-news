@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-01T13:41:23Z",
+  "update_time": "2026-10-01T19:13:41Z",
   "count": 30,
   "list": [
     {
       "title": "《下一个是谁》第七季（5）",
       "url": "https://www.bilibili.com/video/BV1cAYP6YEvj",
-      "hot_value": "699906播放",
+      "hot_value": "1220509播放",
       "index": 1
     },
     {
       "title": "我———问你为什么要折断奥特钥匙!！！（大结局下）",
       "url": "https://www.bilibili.com/video/BV1zmYP6aEdH",
-      "hot_value": "1072890播放",
+      "hot_value": "1378332播放",
       "index": 2
     },
     {
-      "title": "章鱼哥，快乐都去哪了呢？",
-      "url": "https://www.bilibili.com/video/BV1mjad6DEK1",
-      "hot_value": "463728播放",
+      "title": "《大回忆时代》",
+      "url": "https://www.bilibili.com/video/BV1ujaZ68Ea5",
+      "hot_value": "3667863播放",
       "index": 3
     },
     {
       "title": "【独家】时光代理人 第三季 PartOne 第9集 坦白【8月国创】",
       "url": "https://www.bilibili.com/video/BV11UaL6qEnA",
-      "hot_value": "281458播放",
+      "hot_value": "580909播放",
       "index": 4
     },
     {
-      "title": "《大回忆时代》",
-      "url": "https://www.bilibili.com/video/BV1ujaZ68Ea5",
-      "hot_value": "2713873播放",
+      "title": "章鱼哥，快乐都去哪了呢？",
+      "url": "https://www.bilibili.com/video/BV1mjad6DEK1",
+      "hot_value": "872262播放",
       "index": 5
     },
     {
-      "title": "忙活了20个小时炸了47盘的护：打完这单妻离子散，兄弟反目成仇了",
-      "url": "https://www.bilibili.com/video/BV1qAa56JEkn",
-      "hot_value": "344370播放",
+      "title": "你再看看你后面呢！!",
+      "url": "https://www.bilibili.com/video/BV1r8aW6QEsR",
+      "hot_value": "789547播放",
       "index": 6
     },
     {
-      "title": "【亿万级特效！】猫核老鼠：量子网球对决！（全程高能！）",
-      "url": "https://www.bilibili.com/video/BV1s3Yc68EJK",
-      "hot_value": "360848播放",
+      "title": "我和我的室友们",
+      "url": "https://www.bilibili.com/video/BV1XuaZ6PEGR",
+      "hot_value": "1903871播放",
       "index": 7
-    },
-    {
-      "title": "二洲年庆典｜二洲年音乐会",
-      "url": "https://www.bilibili.com/video/BV1PbaW6WETf",
-      "hot_value": "1339725播放",
-      "index": 8
-    },
-    {
-      "title": "高市早苗真没啥面",
-      "url": "https://www.bilibili.com/video/BV1oFaZ6gEtm",
-      "hot_value": "844244播放",
-      "index": 9
-    },
-    {
-      "title": "【纪录片】进化 05 速度如何炼成",
-      "url": "https://www.bilibili.com/video/BV1Hgtu6vEvu",
-      "hot_value": "798636播放",
-      "index": 10
-    },
-    {
-      "title": "第一视角带你沉浸式体验修家电师傅的一天",
-      "url": "https://www.bilibili.com/video/BV18ChR6nE8h",
-      "hot_value": "3831081播放",
-      "index": 11
-    },
-    {
-      "title": "韬定律＋逻辑折叠真的来了！麒麟9050Pro表现到底怎么样",
-      "url": "https://www.bilibili.com/video/BV19JYP6DECJ",
-      "hot_value": "353603播放",
-      "index": 12
-    },
-    {
-      "title": "【不是榨菜】击沉一艘航母有多难？",
-      "url": "https://www.bilibili.com/video/BV1eVaz6UENn",
-      "hot_value": "81443播放",
-      "index": 13
-    },
-    {
-      "title": "【起名TV】给我孩子起叫“爆笑小朋友”是几个意思？？？",
-      "url": "https://www.bilibili.com/video/BV1DVaZ6hEEb",
-      "hot_value": "2512113播放",
-      "index": 14
-    },
-    {
-      "title": "树的世界",
-      "url": "https://www.bilibili.com/video/BV1Faad6rEe7",
-      "hot_value": "1321748播放",
-      "index": 15
-    },
-    {
-      "title": "绝密重庆之旅！！居然当街挑战折耳根咖啡！？",
-      "url": "https://www.bilibili.com/video/BV1chaH65E8K",
-      "hot_value": "454333播放",
-      "index": 16
     },
     {
       "title": "机米售货机第二季大合集！",
       "url": "https://www.bilibili.com/video/BV1x7aY6QE7q",
-      "hot_value": "4347346播放",
+      "hot_value": "5155812播放",
+      "index": 8
+    },
+    {
+      "title": "“诈骗”拯救世界？20世纪规模最大的慈善演唱会是如何诞生的？",
+      "url": "https://www.bilibili.com/video/BV1Q8ae6aED9",
+      "hot_value": "410989播放",
+      "index": 9
+    },
+    {
+      "title": "每一声喵叫，都会唤醒一只更大的喵。#几何图形 #解压",
+      "url": "https://www.bilibili.com/video/BV12Ead6JEXJ",
+      "hot_value": "1045131播放",
+      "index": 10
+    },
+    {
+      "title": "高市早苗真没啥面",
+      "url": "https://www.bilibili.com/video/BV1oFaZ6gEtm",
+      "hot_value": "1145894播放",
+      "index": 11
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第12集】",
+      "url": "https://www.bilibili.com/video/BV1NGa66uEHg",
+      "hot_value": "181047播放",
+      "index": 12
+    },
+    {
+      "title": "【亿万级特效！】猫核老鼠：量子网球对决！（全程高能！）",
+      "url": "https://www.bilibili.com/video/BV1s3Yc68EJK",
+      "hot_value": "595199播放",
+      "index": 13
+    },
+    {
+      "title": "忙活了20个小时炸了47盘的护：打完这单妻离子散，兄弟反目成仇了",
+      "url": "https://www.bilibili.com/video/BV1qAa56JEkn",
+      "hot_value": "642665播放",
+      "index": 14
+    },
+    {
+      "title": "抽象新闻：9月人类迷惑行为大赏（中）",
+      "url": "https://www.bilibili.com/video/BV1raaZ6EEQa",
+      "hot_value": "531688播放",
+      "index": 15
+    },
+    {
+      "title": "【边狱巴士】“我反复感到我更像自己”Mili-Rendezvous（幽会）默尔索 主题曲 【字幕+演出MV】",
+      "url": "https://www.bilibili.com/video/BV1wCYP6KEgC",
+      "hot_value": "445114播放",
+      "index": 16
+    },
+    {
+      "title": "探秘日本最贵关东煮，价格差50倍！到底有多好吃？",
+      "url": "https://www.bilibili.com/video/BV11aaz6iEgN",
+      "hot_value": "811502播放",
       "index": 17
     },
     {
       "title": "祝福祖国！天安门广场举行国庆升旗仪式",
       "url": "https://www.bilibili.com/video/BV1LvYA6QEGP",
-      "hot_value": "1275189播放",
+      "hot_value": "1461013播放",
       "index": 18
     },
     {
-      "title": "我和我的室友们",
-      "url": "https://www.bilibili.com/video/BV1XuaZ6PEGR",
-      "hot_value": "1466816播放",
+      "title": "“爱为世间魔法，抚平满身伤痕.”【This place is a shelter】【亲情治愈の小曲】",
+      "url": "https://www.bilibili.com/video/BV1N2hX66EGV",
+      "hot_value": "1013017播放",
       "index": 19
-    },
-    {
-      "title": "都什么年代，谁还走传统西游路？！！",
-      "url": "https://www.bilibili.com/video/BV1doaR6eEoP",
-      "hot_value": "251386播放",
-      "index": 20
-    },
-    {
-      "title": "【复刻还原】最终鬼畜阿哈哈",
-      "url": "https://www.bilibili.com/video/BV1KxaZ6WEtF",
-      "hot_value": "319784播放",
-      "index": 21
-    },
-    {
-      "title": "学 以 乱 用",
-      "url": "https://www.bilibili.com/video/BV1yJaH6DEV1",
-      "hot_value": "4945856播放",
-      "index": 22
-    },
-    {
-      "title": "全网最爽职业被我找到了！真有这么爽吗？！？！",
-      "url": "https://www.bilibili.com/video/BV1zead6uEnQ",
-      "hot_value": "2122928播放",
-      "index": 23
     },
     {
       "title": "奶茶店倒闭回忆录",
       "url": "https://www.bilibili.com/video/BV1jdaX6tEky",
-      "hot_value": "485387播放",
+      "hot_value": "672237播放",
+      "index": 20
+    },
+    {
+      "title": "宙bin国庆国庆杭州游vlog",
+      "url": "https://www.bilibili.com/video/BV11Maf69Epk",
+      "hot_value": "554839播放",
+      "index": 21
+    },
+    {
+      "title": "全网最爽职业被我找到了！真有这么爽吗？！？！",
+      "url": "https://www.bilibili.com/video/BV1zead6uEnQ",
+      "hot_value": "2589364播放",
+      "index": 22
+    },
+    {
+      "title": "高 人。",
+      "url": "https://www.bilibili.com/video/BV1dgYF63Eu8",
+      "hot_value": "765196播放",
+      "index": 23
+    },
+    {
+      "title": "都什么年代，谁还走传统西游路？！！",
+      "url": "https://www.bilibili.com/video/BV1doaR6eEoP",
+      "hot_value": "369762播放",
       "index": 24
     },
     {
-      "title": "【边狱巴士】“我反复感到我更像自己”Mili-Rendezvous（幽会）默尔索 主题曲 【字幕+演出MV】",
-      "url": "https://www.bilibili.com/video/BV1wCYP6KEgC",
-      "hot_value": "285395播放",
+      "title": "【什么是世面？？？】",
+      "url": "https://www.bilibili.com/video/BV1wbad6CEFf",
+      "hot_value": "2131339播放",
       "index": 25
     },
     {
-      "title": "挑战！约会一天只能说5句话，还怎么吵架？",
-      "url": "https://www.bilibili.com/video/BV17daR6KEVd",
-      "hot_value": "891095播放",
+      "title": "植物人都绷不住的我的世界memes",
+      "url": "https://www.bilibili.com/video/BV19waH6AEqh",
+      "hot_value": "1056276播放",
       "index": 26
     },
     {
-      "title": "从 UWB 到 AI 大模型，小米往这把门锁里塞了多少东西？",
-      "url": "https://www.bilibili.com/video/BV1dxaf6GE8p",
-      "hot_value": "135548播放",
+      "title": "全 网 最 漫 长 的 动 画 教 程 4.5",
+      "url": "https://www.bilibili.com/video/BV1v1aZ6zEjg",
+      "hot_value": "1198820播放",
       "index": 27
+    },
+    {
+      "title": "第一视角带你沉浸式体验修家电师傅的一天",
+      "url": "https://www.bilibili.com/video/BV18ChR6nE8h",
+      "hot_value": "4240246播放",
+      "index": 28
     },
     {
       "title": "地上足球：擅自离队没得洗！C罗到底在任性什么？",
       "url": "https://www.bilibili.com/video/BV1LVYP6dEDP",
-      "hot_value": "335847播放",
-      "index": 28
-    },
-    {
-      "title": "30号的你在学校是怎么过的：",
-      "url": "https://www.bilibili.com/video/BV1QTad6oEVC",
-      "hot_value": "1113458播放",
+      "hot_value": "514444播放",
       "index": 29
     },
     {
-      "title": "内蒙古野生卤虫，真红啊！",
-      "url": "https://www.bilibili.com/video/BV1Bhho6TEkX",
-      "hot_value": "2004929播放",
+      "title": "2026年最刺激的恐怖游戏之一《Rehaunted》全流程攻略解说",
+      "url": "https://www.bilibili.com/video/BV1e2ad6cEK4",
+      "hot_value": "582134播放",
       "index": 30
     }
   ]

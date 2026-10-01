@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-01T13:41:23Z",
+  "update_time": "2026-10-01T19:13:41Z",
   "count": 30,
   "list": [
     {
-      "title": "车企 9 月销量数据出炉，比亚迪超 46 万，小米交付超 4 万台，理想、深蓝交付超 3 万台，怎样解读各家表现？",
-      "url": "https://www.zhihu.com/question/2088948992545484946",
-      "hot_value": "608 万热度",
+      "title": "如何看待华为、赛力斯达成新五年合作：共同升级问界业务推动品牌向上，余承东与张兴海出席签约？",
+      "url": "https://www.zhihu.com/question/2089062587409421035",
+      "hot_value": "1531 万热度",
       "index": 1
-    },
-    {
-      "title": "如何评价 10 月 1 日发布的华为 Mate 90 系列全系旗舰τ芯片，不同版本如何选择？",
-      "url": "https://www.zhihu.com/question/2088956328886678092",
-      "hot_value": "524 万热度",
-      "index": 2
     },
     {
       "title": "男子用土豆当主食半年瘦 25 斤，称脂肪肝没了，血压、血糖稳了，真的会这样吗？这种减肥方法适合什么样的人？",
       "url": "https://www.zhihu.com/question/2088884615444543375",
-      "hot_value": "441 万热度",
+      "hot_value": "567 万热度",
+      "index": 2
+    },
+    {
+      "title": "车企 9 月销量数据出炉，比亚迪超 46 万，小米交付超 4 万台，理想、深蓝交付超 3 万台，怎样解读各家表现？",
+      "url": "https://www.zhihu.com/question/2088948992545484946",
+      "hot_value": "404 万热度",
       "index": 3
     },
     {
-      "title": "如何看待华为、赛力斯达成新五年合作：共同升级问界业务推动品牌向上，余承东与张兴海出席签约？",
-      "url": "https://www.zhihu.com/question/2089062587409421035",
-      "hot_value": "368 万热度",
+      "title": "网传一大学生因公选课老师连续缺课，自己上台用 AI 生成 PPT 讲了一小时课，是真的吗？暴露了哪些问题？",
+      "url": "https://www.zhihu.com/question/2088388963652166144",
+      "hot_value": "155 万热度",
       "index": 4
     },
     {
-      "title": "既然永动机不存在，为何地球自转了 45 亿年，是什么力量在起作用？",
-      "url": "https://www.zhihu.com/question/7464139876",
-      "hot_value": "295 万热度",
+      "title": "30 年期美债收益率冲破 5.6%，到底会带来哪些影响，会如何影响中国资产定价，全球范围内又如何？",
+      "url": "https://www.zhihu.com/question/2088560263545078106",
+      "hot_value": "144 万热度",
       "index": 5
     },
     {
-      "title": "伏地魔为什么非得找有名的东西做魂器？他随便找块石头做成魂器扔海里不行吗？",
-      "url": "https://www.zhihu.com/question/443161370",
-      "hot_value": "154 万热度",
+      "title": "三大运营商全面叫停金融分期「0 元购机」业务，背后有哪些深层原因？已经办理的用户该怎么办？",
+      "url": "https://www.zhihu.com/question/2087296998558938472",
+      "hot_value": "89 万热度",
       "index": 6
     },
     {
-      "title": "如何看待南开大学两位教授胡金牛、陈璟因「实诚」简介再次走红？",
-      "url": "https://www.zhihu.com/question/1928586591108035982",
-      "hot_value": "120 万热度",
+      "title": "C 罗擅自离开葡萄牙队集训或面临最高 6 个月禁赛，这会带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2088897790541932131",
+      "hot_value": "88 万热度",
       "index": 7
     },
     {
-      "title": "如何评价陈思诚执导、编剧，张译、马丽主演的电影《神探之痕迹》？",
-      "url": "https://www.zhihu.com/question/2088300737814061491",
-      "hot_value": "116 万热度",
+      "title": "中国有哪些两站之间相距很近的火车站？",
+      "url": "https://www.zhihu.com/question/662359469",
+      "hot_value": "86 万热度",
       "index": 8
     },
     {
-      "title": "如何评价微软于 2026 年 9 月 30 日发布的 WSL 3.0？",
-      "url": "https://www.zhihu.com/question/2088592261533677179",
-      "hot_value": "115 万热度",
+      "title": "为什么天天喊减负，不在中小学强制执行 5 天 8 小时学习制？",
+      "url": "https://www.zhihu.com/question/2085252425859055694",
+      "hot_value": "85 万热度",
       "index": 9
     },
     {
       "title": "老婆生完孩子想去月子中心坐月子，我觉得没必要怎么办?",
       "url": "https://www.zhihu.com/question/10669456096",
-      "hot_value": "114 万热度",
+      "hot_value": "79 万热度",
       "index": 10
     },
     {
-      "title": "如何看待 zeta5（ζ5）已经被一个大二学生证明是无理数？",
-      "url": "https://www.zhihu.com/question/2086480318463268480",
-      "hot_value": "114 万热度",
+      "title": "如何判断自己属不属于高认知人群？",
+      "url": "https://www.zhihu.com/question/2084664301017740318",
+      "hot_value": "73 万热度",
       "index": 11
     },
     {
       "title": "25 岁画师约稿时遭遇境外网络诈骗，诱导扫码和借贷，被骗 4 万余元最终坠亡离世，这起悲剧留给我们哪些反思？",
       "url": "https://www.zhihu.com/question/2088693062239367611",
-      "hot_value": "113 万热度",
+      "hot_value": "72 万热度",
       "index": 12
     },
     {
-      "title": "如何实现财务自由？",
-      "url": "https://www.zhihu.com/question/20147586",
-      "hot_value": "112 万热度",
+      "title": "如何看待 zeta5（ζ5）已经被一个大二学生证明是无理数？",
+      "url": "https://www.zhihu.com/question/2086480318463268480",
+      "hot_value": "71 万热度",
       "index": 13
     },
     {
       "title": "华为 Mate90 系列售价 5999 元起，余承东称「在内存大涨价的今天，定价很有诚意」，怎样看待这一定价？",
       "url": "https://www.zhihu.com/question/2088953459273725661",
-      "hot_value": "103 万热度",
+      "hot_value": "70 万热度",
       "index": 14
+    },
+    {
+      "title": "以现在内卷的程度，未来高校教职将会如何发展?",
+      "url": "https://www.zhihu.com/question/650022867",
+      "hot_value": "66 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何实现财务自由？",
+      "url": "https://www.zhihu.com/question/20147586",
+      "hot_value": "59 万热度",
+      "index": 16
     },
     {
       "title": "网友称胖东来九成销售额靠外地游客，是真的吗？若数据真实意味着什么？",
       "url": "https://www.zhihu.com/question/2087807933077611808",
-      "hot_value": "93 万热度",
-      "index": 15
-    },
-    {
-      "title": "如果设计一款【​打 BOSS 时 PVE，打完之后 PVP 争夺 BOSS 奖励】的游戏，有搞头吗？",
-      "url": "https://www.zhihu.com/question/2086543319010751800",
-      "hot_value": "92 万热度",
-      "index": 16
-    },
-    {
-      "title": "如果星舰掉下来刚好砸到纽约中央公园，会有多严重？",
-      "url": "https://www.zhihu.com/question/2068028045357856231",
-      "hot_value": "88 万热度",
+      "hot_value": "59 万热度",
       "index": 17
     },
     {
-      "title": "三大运营商全面叫停金融分期「0 元购机」业务，背后有哪些深层原因？已经办理的用户该怎么办？",
-      "url": "https://www.zhihu.com/question/2087296998558938472",
-      "hot_value": "83 万热度",
+      "title": "如何评价陈思诚执导、编剧，张译、马丽主演的电影《神探之痕迹》？",
+      "url": "https://www.zhihu.com/question/2088300737814061491",
+      "hot_value": "58 万热度",
       "index": 18
     },
     {
-      "title": "为什么天天喊减负，不在中小学强制执行 5 天 8 小时学习制？",
-      "url": "https://www.zhihu.com/question/2085252425859055694",
-      "hot_value": "79 万热度",
+      "title": "读者发现番茄小说流量跌跌不休，24 年下滑 31%，25 年下滑 26%，今年下滑 22%，为什么会出现这情况？",
+      "url": "https://www.zhihu.com/question/2087907468932339038",
+      "hot_value": "57 万热度",
       "index": 19
     },
     {
-      "title": "《等待戈多》这部戏剧表达的是什么？",
-      "url": "https://www.zhihu.com/question/24581468",
-      "hot_value": "77 万热度",
+      "title": "如果曼城要被扣联赛积分 70 分，具体怎么扣由英超其他球队决定，可以分赛季扣，但要现在就确定，会怎么扣？",
+      "url": "https://www.zhihu.com/question/2087835385917394951",
+      "hot_value": "57 万热度",
       "index": 20
     },
     {
       "title": "张本智和被文春爆出私下频繁搭讪女性，酒后会爆粗，是真的吗？具体是咋回事？",
       "url": "https://www.zhihu.com/question/2088684813393682608",
-      "hot_value": "74 万热度",
+      "hot_value": "57 万热度",
       "index": 21
     },
     {
-      "title": "在你生活的城市里，还存在着有人间烟火的小吃店吗？",
-      "url": "https://www.zhihu.com/question/1939214479066899065",
-      "hot_value": "70 万热度",
+      "title": "刘备为啥复刻不了刘邦的成功?",
+      "url": "https://www.zhihu.com/question/529025224",
+      "hot_value": "57 万热度",
       "index": 22
     },
     {
-      "title": "读者发现番茄小说流量跌跌不休，24 年下滑 31%，25 年下滑 26%，今年下滑 22%，为什么会出现这情况？",
-      "url": "https://www.zhihu.com/question/2087907468932339038",
-      "hot_value": "69 万热度",
+      "title": "苏轼一生辗转多地，今天有哪些古迹还能找到他生活、任职或游历过的痕迹？",
+      "url": "https://www.zhihu.com/question/2084427343435494213",
+      "hot_value": "56 万热度",
       "index": 23
     },
     {
-      "title": "为什么影视剧中许多女机器人或未来世界的女性都是波波头？",
-      "url": "https://www.zhihu.com/question/29370871",
-      "hot_value": "59 万热度",
+      "title": "如何评价黄霑先生及他的《沧海一声笑》？",
+      "url": "https://www.zhihu.com/question/22235355",
+      "hot_value": "56 万热度",
       "index": 24
     },
     {
-      "title": "如何评价《崩坏星穹铁道》角色：斯科特？",
-      "url": "https://www.zhihu.com/question/2088585823742702315",
-      "hot_value": "59 万热度",
+      "title": "如何评价《原神》2026 年 10 月 1 日更新的幻想真境剧诗（水冰风）？",
+      "url": "https://www.zhihu.com/question/2088877650123277152",
+      "hot_value": "56 万热度",
       "index": 25
     },
     {
-      "title": "现代的数学研究抽象到了哪种地步？",
-      "url": "https://www.zhihu.com/question/594329626",
-      "hot_value": "59 万热度",
+      "title": "如果设计一款【​打 BOSS 时 PVE，打完之后 PVP 争夺 BOSS 奖励】的游戏，有搞头吗？",
+      "url": "https://www.zhihu.com/question/2086543319010751800",
+      "hot_value": "56 万热度",
       "index": 26
     },
     {
-      "title": "我是一个资深程序员，30 岁，每天都用 AI，现在觉得 Agent 的能力太强大了，我未来的路在哪？",
-      "url": "https://www.zhihu.com/question/2083222866280171324",
-      "hot_value": "58 万热度",
+      "title": "为啥以前国营大厂会有保卫科这个机构？",
+      "url": "https://www.zhihu.com/question/2084224840827921718",
+      "hot_value": "55 万热度",
       "index": 27
     },
     {
-      "title": "《鸣潮》3.7 版本的剧情讲了些什么？",
-      "url": "https://www.zhihu.com/question/2088654876393981391",
-      "hot_value": "57 万热度",
+      "title": "网友吐槽「毫无人性关怀的大厂却总致力于打造出充满人性光辉的产品」，你怎么看待这个观点？",
+      "url": "https://www.zhihu.com/question/2087300723268481332",
+      "hot_value": "55 万热度",
       "index": 28
     },
     {
-      "title": "如何评价 Minimax 最新的文本模型 M3.1-Flash-Preview？",
-      "url": "https://www.zhihu.com/question/2087553534740914468",
-      "hot_value": "57 万热度",
+      "title": "曾风靡全国的五笔为什么逐渐被拼音输入法取代了？",
+      "url": "https://www.zhihu.com/question/561899452",
+      "hot_value": "55 万热度",
       "index": 29
     },
     {
-      "title": "为何机械硬盘价格如此离谱？",
-      "url": "https://www.zhihu.com/question/2082856338791706870",
-      "hot_value": "57 万热度",
+      "title": "9 月旗舰手机轮番上台，你觉得今年最值得期待的旗舰是哪一款？最吸引你升级的卖点是什么？",
+      "url": "https://www.zhihu.com/question/2086160452816578310",
+      "hot_value": "55 万热度",
       "index": 30
     }
   ]
