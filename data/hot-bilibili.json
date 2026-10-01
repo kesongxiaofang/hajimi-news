@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-01T00:06:41Z",
+  "update_time": "2026-10-01T06:18:14Z",
   "count": 30,
   "list": [
     {
-      "title": "鳄鱼 我的世界",
-      "url": "https://www.bilibili.com/video/BV1pNaR6gEoY",
-      "hot_value": "1160183播放",
+      "title": "我———问你为什么要折断奥特钥匙!！！（大结局下）",
+      "url": "https://www.bilibili.com/video/BV1zmYP6aEdH",
+      "hot_value": "340108播放",
       "index": 1
     },
     {
-      "title": "【起名TV】给我孩子起叫“爆笑小朋友”是几个意思？？？",
-      "url": "https://www.bilibili.com/video/BV1DVaZ6hEEb",
-      "hot_value": "856026播放",
+      "title": "高市早苗真没啥面",
+      "url": "https://www.bilibili.com/video/BV1oFaZ6gEtm",
+      "hot_value": "370348播放",
       "index": 2
-    },
-    {
-      "title": "内蒙古野生卤虫，真红啊！",
-      "url": "https://www.bilibili.com/video/BV1Bhho6TEkX",
-      "hot_value": "851930播放",
-      "index": 3
-    },
-    {
-      "title": "【给阿嬷的情书】做人得有情义",
-      "url": "https://www.bilibili.com/video/BV1BGa361E2B",
-      "hot_value": "2479671播放",
-      "index": 4
-    },
-    {
-      "title": "学 以 乱 用",
-      "url": "https://www.bilibili.com/video/BV1yJaH6DEV1",
-      "hot_value": "1406521播放",
-      "index": 5
-    },
-    {
-      "title": "什么叫勇者跟被救的公主二阶段打起来了？",
-      "url": "https://www.bilibili.com/video/BV16gap62EPJ",
-      "hot_value": "1030898播放",
-      "index": 6
     },
     {
       "title": "《大回忆时代》",
       "url": "https://www.bilibili.com/video/BV1ujaZ68Ea5",
-      "hot_value": "268092播放",
+      "hot_value": "1161044播放",
+      "index": 3
+    },
+    {
+      "title": "【什么是世面？？？】",
+      "url": "https://www.bilibili.com/video/BV1wbad6CEFf",
+      "hot_value": "915723播放",
+      "index": 4
+    },
+    {
+      "title": "我和我的室友们",
+      "url": "https://www.bilibili.com/video/BV1XuaZ6PEGR",
+      "hot_value": "813112播放",
+      "index": 5
+    },
+    {
+      "title": "【起名TV】给我孩子起叫“爆笑小朋友”是几个意思？？？",
+      "url": "https://www.bilibili.com/video/BV1DVaZ6hEEb",
+      "hot_value": "1752371播放",
+      "index": 6
+    },
+    {
+      "title": "祝福祖国！天安门广场举行国庆升旗仪式",
+      "url": "https://www.bilibili.com/video/BV1LvYA6QEGP",
+      "hot_value": "933565播放",
       "index": 7
     },
     {
-      "title": "单人手搓F站！第一天就把自己干崩溃了...",
-      "url": "https://www.bilibili.com/video/BV1P6aR6jES8",
-      "hot_value": "531724播放",
+      "title": "全 网 最 漫 长 的 动 画 教 程 4.5",
+      "url": "https://www.bilibili.com/video/BV1v1aZ6zEjg",
+      "hot_value": "665881播放",
       "index": 8
     },
     {
-      "title": "兄弟如手足",
-      "url": "https://www.bilibili.com/video/BV1A1ao6DEQ9",
-      "hot_value": "598043播放",
+      "title": "都什么年代，谁还走传统西游路？！！",
+      "url": "https://www.bilibili.com/video/BV1doaR6eEoP",
+      "hot_value": "81346播放",
       "index": 9
     },
     {
-      "title": "【剧情】长生契（2026）08【方逸伦 / 谢可寅】",
-      "url": "https://www.bilibili.com/video/BV1aUem6yEbe",
-      "hot_value": "270117播放",
+      "title": "特厨探店 |加长版!他们说这是杭州最好吃的餐厅？！",
+      "url": "https://www.bilibili.com/video/BV1pgaf6pEpQ",
+      "hot_value": "207265播放",
       "index": 10
     },
     {
-      "title": "《艾希》十周年续作《艾希：续》众筹开启",
-      "url": "https://www.bilibili.com/video/BV1FvaZ67Emr",
-      "hot_value": "515618播放",
+      "title": "学 以 乱 用",
+      "url": "https://www.bilibili.com/video/BV1yJaH6DEV1",
+      "hot_value": "3031270播放",
       "index": 11
     },
     {
-      "title": "大英花了十年脱欧，现在准备加回去",
-      "url": "https://www.bilibili.com/video/BV1N1af6bERj",
-      "hot_value": "391564播放",
+      "title": "你敢弄我小弟？？！「谁是杀手」？？！",
+      "url": "https://www.bilibili.com/video/BV1jFaW6VEqq",
+      "hot_value": "231093播放",
       "index": 12
-    },
-    {
-      "title": "深不可测的恐惧：斯克拉奇溪，溯源之惧 第六章",
-      "url": "https://www.bilibili.com/video/BV1Gtap6NEPB",
-      "hot_value": "1589048播放",
-      "index": 13
     },
     {
       "title": "孙中山在全世界华人中的地位，凭什么那么高？【历史调研室107】",
       "url": "https://www.bilibili.com/video/BV1HUao6UEXN",
-      "hot_value": "329857播放",
+      "hot_value": "650160播放",
+      "index": 13
+    },
+    {
+      "title": "日漫花千股 天才交易员",
+      "url": "https://www.bilibili.com/video/BV1S9aH6tE1S",
+      "hot_value": "578964播放",
       "index": 14
     },
     {
-      "title": "7天穿越哀牢山!千万不要随便采菌子!",
-      "url": "https://www.bilibili.com/video/BV1Rsap6TE4i",
-      "hot_value": "1761576播放",
+      "title": "二洲年庆典｜二洲年音乐会",
+      "url": "https://www.bilibili.com/video/BV1PbaW6WETf",
+      "hot_value": "1021244播放",
       "index": 15
     },
     {
-      "title": "90后，00的童年的含金量还在一步步提升",
-      "url": "https://www.bilibili.com/video/BV1wjaL68EY5",
-      "hot_value": "949147播放",
+      "title": "内蒙古野生卤虫，真红啊！",
+      "url": "https://www.bilibili.com/video/BV1Bhho6TEkX",
+      "hot_value": "1539301播放",
       "index": 16
     },
     {
-      "title": "将最强战绩铭刻于今夜！！160究忍具全毕业达成！拉满五星A忍篮球佐助实战测评！",
-      "url": "https://www.bilibili.com/video/BV1wGao65E3w",
-      "hot_value": "191182播放",
+      "title": "兄弟如手足",
+      "url": "https://www.bilibili.com/video/BV1A1ao6DEQ9",
+      "hot_value": "976213播放",
       "index": 17
-    },
-    {
-      "title": "《最绝望の小兵》",
-      "url": "https://www.bilibili.com/video/BV1odan6TEgR",
-      "hot_value": "1646993播放",
-      "index": 18
-    },
-    {
-      "title": "从哀牢山事故到甘肃越野赛事故，失温是如何让人彻底失能并走向死亡的？",
-      "url": "https://www.bilibili.com/video/BV1P1ao6DEjp",
-      "hot_value": "206379播放",
-      "index": 19
     },
     {
       "title": "我压根不担心火影里的忍者会出完",
       "url": "https://www.bilibili.com/video/BV189aW6KEzD",
-      "hot_value": "945993播放",
+      "hot_value": "2027054播放",
+      "index": 18
+    },
+    {
+      "title": "什么叫勇者跟被救的公主二阶段打起来了？",
+      "url": "https://www.bilibili.com/video/BV16gap62EPJ",
+      "hot_value": "1457170播放",
+      "index": 19
+    },
+    {
+      "title": "哈夫克保险小队全点位来啦！没拿到吴彦祖之镜的抓紧！还送嘉豪的小曲哦！",
+      "url": "https://www.bilibili.com/video/BV1eXYF6kE24",
+      "hot_value": "409205播放",
       "index": 20
     },
     {
-      "title": "当我再次听到这些声音，是不是就代表您从未离开？",
-      "url": "https://www.bilibili.com/video/BV16ead6uEsy",
-      "hot_value": "500470播放",
+      "title": "小心！这个MC生物可以吞掉一切方块！",
+      "url": "https://www.bilibili.com/video/BV1hfYF6BE9A",
+      "hot_value": "169266播放",
       "index": 21
     },
     {
-      "title": "小潮team的欢迎仪式！",
-      "url": "https://www.bilibili.com/video/BV14Fao6HEoL",
-      "hot_value": "561937播放",
+      "title": "【红石音乐】神的随波逐流",
+      "url": "https://www.bilibili.com/video/BV1sPao6UE6p",
+      "hot_value": "110758播放",
       "index": 22
     },
     {
-      "title": "假如🤔...全世界发量下降一万倍，而俺不变！",
-      "url": "https://www.bilibili.com/video/BV13Ja869EeZ",
-      "hot_value": "4559731播放",
+      "title": "【华为Mate 90系列】致敬踏光向前的笃定",
+      "url": "https://www.bilibili.com/video/BV1SMaJ6nETt",
+      "hot_value": "721907播放",
       "index": 23
+    },
+    {
+      "title": "《艾希》十周年续作《艾希：续》众筹开启",
+      "url": "https://www.bilibili.com/video/BV1FvaZ67Emr",
+      "hot_value": "728249播放",
+      "index": 24
+    },
+    {
+      "title": "世界最后一位人类的真实影像",
+      "url": "https://www.bilibili.com/video/BV1QgaZ6YE8c",
+      "hot_value": "506307播放",
+      "index": 25
+    },
+    {
+      "title": "90后，00的童年的含金量还在一步步提升",
+      "url": "https://www.bilibili.com/video/BV1wjaL68EY5",
+      "hot_value": "1138210播放",
+      "index": 26
+    },
+    {
+      "title": "大英花了十年脱欧，现在准备加回去",
+      "url": "https://www.bilibili.com/video/BV1N1af6bERj",
+      "hot_value": "727406播放",
+      "index": 27
+    },
+    {
+      "title": "刀片4",
+      "url": "https://www.bilibili.com/video/BV1kuaV6xET2",
+      "hot_value": "1399547播放",
+      "index": 28
     },
     {
       "title": "28年前宣称可以审判玩家灵魂的电子游戏，究竟是怎么一回事？",
       "url": "https://www.bilibili.com/video/BV1z7af6mEWG",
-      "hot_value": "116316播放",
-      "index": 24
-    },
-    {
-      "title": "《 STAY 》",
-      "url": "https://www.bilibili.com/video/BV1NNh86gEMM",
-      "hot_value": "217891播放",
-      "index": 25
-    },
-    {
-      "title": "恐 怖 生 物",
-      "url": "https://www.bilibili.com/video/BV1rNaX6aEvB",
-      "hot_value": "499604播放",
-      "index": 26
-    },
-    {
-      "title": "⚡️门捷列夫 科学界巡演 怒唱元素周期表⚡️",
-      "url": "https://www.bilibili.com/video/BV1bban6dEJo",
-      "hot_value": "2300032播放",
-      "index": 27
-    },
-    {
-      "title": "跟我一起在农场度过一天",
-      "url": "https://www.bilibili.com/video/BV1x9ab6rE2C",
-      "hot_value": "1407453播放",
-      "index": 28
-    },
-    {
-      "title": "赛尔号史上最阴间BOSS，打了3000回合最后....",
-      "url": "https://www.bilibili.com/video/BV1yxaZ6pEGu",
-      "hot_value": "255274播放",
+      "hot_value": "306449播放",
       "index": 29
     },
     {
-      "title": "《善》善良是什么",
-      "url": "https://www.bilibili.com/video/BV1ygaL6YEbx",
-      "hot_value": "1346223播放",
+      "title": "效果贼强！原神出正版DLSS5了?",
+      "url": "https://www.bilibili.com/video/BV1Mrao6sEwm",
+      "hot_value": "162075播放",
       "index": 30
     }
   ]

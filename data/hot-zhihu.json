@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-01T00:06:41Z",
+  "update_time": "2026-10-01T06:18:14Z",
   "count": 30,
   "list": [
     {
-      "title": "迪拜航空客机发出紧急信号异常改道，飞行员发生争斗一人被刺伤，还有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2088649572151194406",
-      "hot_value": "864 万热度",
-      "index": 1
-    },
-    {
-      "title": "如何看待孙少军的微博内容”走回去，继续合作“，是否意味着鸿蒙智行和问界可能会回到之前的关系？",
-      "url": "https://www.zhihu.com/question/2088766571305092251",
-      "hot_value": "181 万热度",
-      "index": 2
-    },
-    {
-      "title": "为什么 GPT-6 Astra 玩《我的世界》被炸毁进度后连续数小时种植土豆？这种异常行为怎么产生的？",
-      "url": "https://www.zhihu.com/question/2083989447276762504",
-      "hot_value": "172 万热度",
-      "index": 3
-    },
-    {
-      "title": "C 罗社媒官宣离开国家队集训，声称「在适当的时候声明离开国家队的原因」，他这么做的原因是什么？",
-      "url": "https://www.zhihu.com/question/2088829795757048100",
-      "hot_value": "162 万热度",
-      "index": 4
-    },
-    {
       "title": "现在大家都把国庆当纯放假玩，有没有什么「老派」过节体验？",
       "url": "https://www.zhihu.com/question/2085753079916388794",
-      "hot_value": "159 万热度",
-      "index": 5
-    },
-    {
-      "title": "许鞍华复盘《第一炉香》称马思纯拍摄时状态浮肿，她和彭于晏台词功底不好，自己作为导演本该叫停，你怎么看？",
-      "url": "https://www.zhihu.com/question/2088582238271010192",
-      "hot_value": "157 万热度",
-      "index": 6
+      "hot_value": "573 万热度",
+      "index": 1
     },
     {
       "title": "为什么酒精灯里酒精不用 100% 浓度而是用 95% 浓度？",
       "url": "https://www.zhihu.com/question/302935324",
-      "hot_value": "97 万热度",
+      "hot_value": "345 万热度",
+      "index": 2
+    },
+    {
+      "title": "如何评价 10 月 1 日发布的华为 Mate 90 系列全系旗舰τ芯片，不同版本如何选择？",
+      "url": "https://www.zhihu.com/question/2088956328886678092",
+      "hot_value": "335 万热度",
+      "index": 3
+    },
+    {
+      "title": "为啥 80、90 后的人喜欢用电脑的程度大于手机？",
+      "url": "https://www.zhihu.com/question/2079838395874988448",
+      "hot_value": "252 万热度",
+      "index": 4
+    },
+    {
+      "title": "前有张雪机车团队在意大利被盗，后有惠英红团队巴黎遇抢劫，为啥欧洲小偷都这么猖獗？海外遇抢劫该如何应对？",
+      "url": "https://www.zhihu.com/question/2088690399845902204",
+      "hot_value": "233 万热度",
+      "index": 5
+    },
+    {
+      "title": "既然永动机不存在，为何地球自转了 45 亿年，是什么力量在起作用？",
+      "url": "https://www.zhihu.com/question/7464139876",
+      "hot_value": "213 万热度",
+      "index": 6
+    },
+    {
+      "title": "读者发现番茄小说流量跌跌不休，24 年下滑 31%，25 年下滑 26%，今年下滑 22%，为什么会出现这情况？",
+      "url": "https://www.zhihu.com/question/2087907468932339038",
+      "hot_value": "193 万热度",
       "index": 7
     },
     {
-      "title": "如何看待 Tiffany 月饼事件疑似反转，当事人建了 20 个万人群，涉事店员遭网暴？",
-      "url": "https://www.zhihu.com/question/2088731327923053644",
-      "hot_value": "97 万热度",
+      "title": "陈芋汐长高十厘米一斤肉没长，怎样看待这种极度自律？这真的健康吗？",
+      "url": "https://www.zhihu.com/question/2088625016011060624",
+      "hot_value": "176 万热度",
       "index": 8
     },
     {
-      "title": "黄渤称观众看见自己就乐很沮丧，想打破喜剧标签，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2087701224590140233",
-      "hot_value": "96 万热度",
+      "title": "如何看待江苏「十五五」规划提出支持南京大学、东南大学、苏州大学等高校建设世界一流大学？",
+      "url": "https://www.zhihu.com/question/2087929053441479782",
+      "hot_value": "157 万热度",
       "index": 9
     },
     {
       "title": "为什么没有经历过那个时代听《我的祖国》，也就是「一条大河波浪宽」那首歌，竟然感动得哭了？",
       "url": "https://www.zhihu.com/question/268772430",
-      "hot_value": "96 万热度",
+      "hot_value": "152 万热度",
       "index": 10
     },
     {
-      "title": "媒体称逼迫空姐下跪的根源是航空公司以投诉定奖惩的考核机制，是真的吗？这样的考核机制合理吗？该如何完善？",
-      "url": "https://www.zhihu.com/question/2088720344559214605",
-      "hot_value": "95 万热度",
+      "title": "C 罗社媒官宣离开国家队集训，声称「在适当的时候声明离开国家队的原因」，他这么做的原因是什么？",
+      "url": "https://www.zhihu.com/question/2088829795757048100",
+      "hot_value": "150 万热度",
       "index": 11
     },
     {
-      "title": "如何评价博主星无创作的情景喜剧《是，魏王》？",
-      "url": "https://www.zhihu.com/question/2085689524403826769",
-      "hot_value": "95 万热度",
+      "title": "25 岁画师约稿时遭遇境外网络诈骗，诱导扫码和借贷，被骗 4 万余元最终坠亡离世，这起悲剧留给我们哪些反思？",
+      "url": "https://www.zhihu.com/question/2088693062239367611",
+      "hot_value": "150 万热度",
       "index": 12
     },
     {
-      "title": "媒体人曝前 NBA 全明星丹吉洛 - 拉塞尔加盟 CBA 上海男篮，对此你怎么看？",
-      "url": "https://www.zhihu.com/question/2088668664060801935",
-      "hot_value": "90 万热度",
+      "title": "如何评价 10 月 1 号发布的 Gemini 4 Argon？",
+      "url": "https://www.zhihu.com/question/2088845041045337914",
+      "hot_value": "149 万热度",
       "index": 13
     },
     {
-      "title": "纯技术讨论，马龙的正手、张继科的反手、王皓的直板横打，哪个单项技术对乒坛影响最大？",
-      "url": "https://www.zhihu.com/question/2069056042865006448",
-      "hot_value": "77 万热度",
+      "title": "网友称胖东来九成销售额靠外地游客，是真的吗？若数据真实意味着什么？",
+      "url": "https://www.zhihu.com/question/2087807933077611808",
+      "hot_value": "146 万热度",
       "index": 14
     },
     {
-      "title": "人在什么情况下，会展现更真实的自己？",
-      "url": "https://www.zhihu.com/question/2088484118749366215",
-      "hot_value": "74 万热度",
+      "title": "我是一个资深程序员，30 岁，每天都用 AI，现在觉得 Agent 的能力太强大了，我未来的路在哪？",
+      "url": "https://www.zhihu.com/question/2083222866280171324",
+      "hot_value": "142 万热度",
       "index": 15
+    },
+    {
+      "title": "伏地魔为什么非得找有名的东西做魂器？他随便找块石头做成魂器扔海里不行吗？",
+      "url": "https://www.zhihu.com/question/443161370",
+      "hot_value": "134 万热度",
+      "index": 16
+    },
+    {
+      "title": "伊朗货币跌至历史新低，但股市却大涨，为何会出现这种反差？背后的经济、金融逻辑是什么？",
+      "url": "https://www.zhihu.com/question/2088569106697908895",
+      "hot_value": "132 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何看待华为 Mate 90 系列通信能力再升级，首发多人互助通信共享、四卡三待等多项通信技术？",
+      "url": "https://www.zhihu.com/question/2088665188237041777",
+      "hot_value": "131 万热度",
+      "index": 18
     },
     {
       "title": "如何看待南开大学两位教授胡金牛、陈璟因「实诚」简介再次走红？",
       "url": "https://www.zhihu.com/question/1928586591108035982",
-      "hot_value": "74 万热度",
-      "index": 16
-    },
-    {
-      "title": "韦小宝为什么能忽悠住《鹿鼎记》里的各色人等？",
-      "url": "https://www.zhihu.com/question/304506293",
-      "hot_value": "74 万热度",
-      "index": 17
-    },
-    {
-      "title": "如何看待《红楼梦》里贾迎春这个角色？",
-      "url": "https://www.zhihu.com/question/387730942",
-      "hot_value": "65 万热度",
-      "index": 18
-    },
-    {
-      "title": "《崩坏：星穹铁道》剧情中，阿哈貌似一开始就死了。比起白月光烂了，白月光死了更能接受吗？",
-      "url": "https://www.zhihu.com/question/2088403427277722810",
-      "hot_value": "59 万热度",
+      "hot_value": "129 万热度",
       "index": 19
     },
     {
-      "title": "能把一个刺头从个人贡献者培养成为团队管理者吗？?",
-      "url": "https://www.zhihu.com/question/1963395783874295704",
-      "hot_value": "58 万热度",
+      "title": "如何看待华为 Mate 90 首发睿影 Z10 模块相机，或将带来哪些影像体验新突破？",
+      "url": "https://www.zhihu.com/question/2088665087024354912",
+      "hot_value": "124 万热度",
       "index": 20
     },
     {
       "title": "张本智和被文春爆出私下频繁搭讪女性，酒后会爆粗，是真的吗？具体是咋回事？",
       "url": "https://www.zhihu.com/question/2088684813393682608",
-      "hot_value": "57 万热度",
+      "hot_value": "121 万热度",
       "index": 21
     },
     {
-      "title": "广汽集团拟通过发行股份购买一汽丰田 50% 股权，股票 9 月 29 日复牌，怎样解读？对双方将产生哪些影响？",
-      "url": "https://www.zhihu.com/question/2088012562457519505",
-      "hot_value": "57 万热度",
+      "title": "有没有非常喜欢听的红歌？听多少次都不会觉得腻的那种？",
+      "url": "https://www.zhihu.com/question/1983202516142407843",
+      "hot_value": "119 万热度",
       "index": 22
     },
     {
-      "title": "太阳系是扁平的，那向上或向下飞，不就可以快速飞出太阳系了吗？",
-      "url": "https://www.zhihu.com/question/1888618640896657261",
-      "hot_value": "56 万热度",
+      "title": "为何机械硬盘价格如此离谱？",
+      "url": "https://www.zhihu.com/question/2082856338791706870",
+      "hot_value": "109 万热度",
       "index": 23
     },
     {
-      "title": "《火影忍者》中的我爱罗出场强得不行，后期为什么感觉变弱了？",
-      "url": "https://www.zhihu.com/question/585489155",
-      "hot_value": "56 万热度",
+      "title": "为什么影视剧中许多女机器人或未来世界的女性都是波波头？",
+      "url": "https://www.zhihu.com/question/29370871",
+      "hot_value": "97 万热度",
       "index": 24
     },
     {
-      "title": "陈芋汐长高十厘米一斤肉没长，怎样看待这种极度自律？这真的健康吗？",
-      "url": "https://www.zhihu.com/question/2088625016011060624",
-      "hot_value": "56 万热度",
+      "title": "同样是炖肉，为什么有的越炖越柴？",
+      "url": "https://www.zhihu.com/question/2087508676735246552",
+      "hot_value": "85 万热度",
       "index": 25
     },
     {
-      "title": "为啥到底谁是中上 985，谁是中下 985，吵得不可开交，但几乎没人吵谁是中上 211，谁是中下 211？",
-      "url": "https://www.zhihu.com/question/2087821422802507545",
-      "hot_value": "56 万热度",
+      "title": "为什么很多人勤勤恳恳上班，不摸鱼、不摆烂，最后升职加薪却轮不到自己？",
+      "url": "https://www.zhihu.com/question/2079118190358032765",
+      "hot_value": "68 万热度",
       "index": 26
     },
     {
-      "title": "曾风靡全国的五笔为什么逐渐被拼音输入法取代了？",
-      "url": "https://www.zhihu.com/question/561899452",
-      "hot_value": "56 万热度",
+      "title": "孩子在二梯队的小学垫底，现在孩子爸爸要买学区房送孩子进顶级初中，这样对孩子真的是好事吗？",
+      "url": "https://www.zhihu.com/question/2055710194500482083",
+      "hot_value": "66 万热度",
       "index": 27
     },
     {
-      "title": "曝 JDG 中野 JunJia 与 HongQ 已解约，德杯小方、 Angel 出战，是真的吗？为啥选择此时解约？",
-      "url": "https://www.zhihu.com/question/2088335170617045623",
-      "hot_value": "55 万热度",
+      "title": "黄渤称观众看见自己就乐很沮丧，想打破喜剧标签，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2087701224590140233",
+      "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "为什么进化中，没有将妊娠和哺乳工作分配给两性，而都由雌性进行？",
-      "url": "https://www.zhihu.com/question/604018830",
-      "hot_value": "55 万热度",
+      "title": "如何看待 Claude 发明的 C-HD 最短路算法，在特定图上可超越 Dijkstra 算法？",
+      "url": "https://www.zhihu.com/question/2087630515687920074",
+      "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "19 岁中非混血球员黄晟豪递补入选国足，如何评价这名小将？",
-      "url": "https://www.zhihu.com/question/2085647608723392050",
-      "hot_value": "55 万热度",
+      "title": "许鞍华复盘《第一炉香》称马思纯拍摄时状态浮肿，她和彭于晏台词功底不好，自己作为导演本该叫停，你怎么看？",
+      "url": "https://www.zhihu.com/question/2088582238271010192",
+      "hot_value": "57 万热度",
       "index": 30
     }
   ]
