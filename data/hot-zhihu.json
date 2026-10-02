@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-02T15:17:47Z",
+  "update_time": "2026-10-02T20:03:19Z",
   "count": 30,
   "list": [
     {
       "title": "CFA 友谊赛，中国男足 0-5 巴勒斯坦，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2089437755591713926",
-      "hot_value": "795 万热度",
+      "hot_value": "1427 万热度",
       "index": 1
     },
     {
       "title": "中国的 AI 短剧发展得如火如荼，而国外 AI 短剧却没怎么发展起来，是什么原因？",
       "url": "https://www.zhihu.com/question/2087643546463613137",
-      "hot_value": "304 万热度",
+      "hot_value": "415 万热度",
       "index": 2
     },
     {
       "title": "网友称小诊所看病好得快的原因是采用了抗生素、激素等猛药压制症状的疗法，是真的吗？会对健康造成哪些影响？",
       "url": "https://www.zhihu.com/question/2088709467814585476",
-      "hot_value": "233 万热度",
+      "hot_value": "224 万热度",
       "index": 3
     },
     {
-      "title": "继巨型吊牌之后，女装网店启用「防拆带」应对恶意退货，这会更有效吗？有人说市场信任崩溃了，为什么会这样？",
-      "url": "https://www.zhihu.com/question/2088728472214684789",
-      "hot_value": "170 万热度",
+      "title": "莫氏鸡煲总店员工从 180 人减至 30 多人，国庆假期上座率仅六成，为啥网红餐厅总难逃流量暴跌的命运？",
+      "url": "https://www.zhihu.com/question/2089354143802418288",
+      "hot_value": "174 万热度",
       "index": 4
     },
     {
       "title": "为什么很少有可乐造假？",
       "url": "https://www.zhihu.com/question/310184018",
-      "hot_value": "146 万热度",
+      "hot_value": "135 万热度",
       "index": 5
     },
     {
-      "title": "国足热身赛 0-5 巴勒斯坦，如何评价这场比赛主教练邵佳一的战术安排？",
-      "url": "https://www.zhihu.com/question/2089453196381106864",
-      "hot_value": "136 万热度",
+      "title": "继巨型吊牌之后，女装网店启用「防拆带」应对恶意退货，这会更有效吗？有人说市场信任崩溃了，为什么会这样？",
+      "url": "https://www.zhihu.com/question/2088728472214684789",
+      "hot_value": "108 万热度",
       "index": 6
-    },
-    {
-      "title": "如何评价小沈阳夫妇主演的喜剧电影《什么意思夫妇》？",
-      "url": "https://www.zhihu.com/question/2088300737960861976",
-      "hot_value": "122 万热度",
-      "index": 7
-    },
-    {
-      "title": "封神榜有多可怕，为什么所有人都不愿意封神？",
-      "url": "https://www.zhihu.com/question/10192684765",
-      "hot_value": "121 万热度",
-      "index": 8
-    },
-    {
-      "title": "清华北大是本身有含金量，还是因为 13 亿人高考内卷出来的排名靠前的学生有含金量？",
-      "url": "https://www.zhihu.com/question/1978164446527498062",
-      "hot_value": "117 万热度",
-      "index": 9
     },
     {
       "title": "为什么维生素只有 ABCDE 和 K，中间跳过了 FGHIJ？",
       "url": "https://www.zhihu.com/question/1996498851373270061",
-      "hot_value": "112 万热度",
-      "index": 10
-    },
-    {
-      "title": "如果英雄联盟有个英雄的被动是「你的所有装备价格翻倍但获得双倍属性」厉害吗？",
-      "url": "https://www.zhihu.com/question/2061655448890111429",
-      "hot_value": "106 万热度",
-      "index": 11
+      "hot_value": "83 万热度",
+      "index": 7
     },
     {
       "title": "为什么中国车站叫「站」而日韩朝叫「驿」?",
       "url": "https://www.zhihu.com/question/627161952",
-      "hot_value": "97 万热度",
-      "index": 12
+      "hot_value": "80 万热度",
+      "index": 8
+    },
+    {
+      "title": "如果英雄联盟有个英雄的被动是「你的所有装备价格翻倍但获得双倍属性」厉害吗？",
+      "url": "https://www.zhihu.com/question/2061655448890111429",
+      "hot_value": "77 万热度",
+      "index": 9
     },
     {
       "title": "江歌妈妈最新发文「10 年维权路，尘埃终将落定」，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2088971415525356116",
-      "hot_value": "96 万热度",
+      "hot_value": "68 万热度",
+      "index": 10
+    },
+    {
+      "title": "为什么现在的 rts 游戏出一部暴死一部？",
+      "url": "https://www.zhihu.com/question/2038324047910532593",
+      "hot_value": "62 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何评价小沈阳夫妇主演的喜剧电影《什么意思夫妇》？",
+      "url": "https://www.zhihu.com/question/2088300737960861976",
+      "hot_value": "59 万热度",
+      "index": 12
+    },
+    {
+      "title": "清华北大是本身有含金量，还是因为 13 亿人高考内卷出来的排名靠前的学生有含金量？",
+      "url": "https://www.zhihu.com/question/1978164446527498062",
+      "hot_value": "58 万热度",
       "index": 13
     },
     {
-      "title": "如何评价杰伦 - 杜伦 5 年 2 亿美元续约活塞？他跟球队有哪些恩怨情仇，和库明加等人的签约矛盾有什么不同？",
-      "url": "https://www.zhihu.com/question/2089354634410436185",
-      "hot_value": "89 万热度",
+      "title": "孩子国庆放假，你更倾向报班还是自由玩？",
+      "url": "https://www.zhihu.com/question/2088928170728765174",
+      "hot_value": "57 万热度",
       "index": 14
     },
     {
       "title": "网友称高铁候补订单凌晨兑现，早上睡醒发现车已开走，12306 回应可设置截止兑现时间，还有更好的解法吗？",
       "url": "https://www.zhihu.com/question/2089009532022125355",
-      "hot_value": "87 万热度",
+      "hot_value": "57 万热度",
       "index": 15
-    },
-    {
-      "title": "为什么现在的 rts 游戏出一部暴死一部？",
-      "url": "https://www.zhihu.com/question/2038324047910532593",
-      "hot_value": "85 万热度",
-      "index": 16
-    },
-    {
-      "title": "真正毁掉孩子未来的，是游戏和懒惰吗？",
-      "url": "https://www.zhihu.com/question/2087833403680994980",
-      "hot_value": "81 万热度",
-      "index": 17
-    },
-    {
-      "title": "为什么说好团队是带出来的，不是管出来的？",
-      "url": "https://www.zhihu.com/question/2042438170449596770",
-      "hot_value": "73 万热度",
-      "index": 18
     },
     {
       "title": "比亚迪 9 月销量 46.36 万辆，连续数月环比增长，如何看待比亚迪目前的销量走势？",
       "url": "https://www.zhihu.com/question/2089066625966290352",
       "hot_value": "57 万热度",
+      "index": 16
+    },
+    {
+      "title": "省钱省到了极致是一种怎样的体验？",
+      "url": "https://www.zhihu.com/question/324259868",
+      "hot_value": "57 万热度",
+      "index": 17
+    },
+    {
+      "title": "《原神》至冬宫地下封印的「第三降临者的遗产」到底是什么？",
+      "url": "https://www.zhihu.com/question/2088606636986328342",
+      "hot_value": "57 万热度",
+      "index": 18
+    },
+    {
+      "title": "国足热身赛 0-5 巴勒斯坦，如何评价这场比赛主教练邵佳一的战术安排？",
+      "url": "https://www.zhihu.com/question/2089453196381106864",
+      "hot_value": "56 万热度",
       "index": 19
-    },
-    {
-      "title": "老师到底累不累？",
-      "url": "https://www.zhihu.com/question/2073740252477395358",
-      "hot_value": "57 万热度",
-      "index": 20
-    },
-    {
-      "title": "都说明朝文官集团很强，强大到皇帝都难以驾驭，为何明朝皇帝杀文官集团的首脑，那么容易？",
-      "url": "https://www.zhihu.com/question/2061605646366152661",
-      "hot_value": "57 万热度",
-      "index": 21
     },
     {
       "title": "为什么上班盼放假，真放假了却有点空虚？",
       "url": "https://www.zhihu.com/question/2086096617938105779",
-      "hot_value": "57 万热度",
-      "index": 22
+      "hot_value": "56 万热度",
+      "index": 20
     },
     {
-      "title": "现在自动驾驶技术研究是不是进入了瓶颈？",
-      "url": "https://www.zhihu.com/question/598614121",
-      "hot_value": "57 万热度",
-      "index": 23
+      "title": "老师到底累不累？",
+      "url": "https://www.zhihu.com/question/2073740252477395358",
+      "hot_value": "56 万热度",
+      "index": 21
+    },
+    {
+      "title": "如何评价杰伦 - 杜伦 5 年 2 亿美元续约活塞？他跟球队有哪些恩怨情仇，和库明加等人的签约矛盾有什么不同？",
+      "url": "https://www.zhihu.com/question/2089354634410436185",
+      "hot_value": "54 万热度",
+      "index": 22
     },
     {
       "title": "为何机械硬盘价格如此离谱？",
       "url": "https://www.zhihu.com/question/2082856338791706870",
       "hot_value": "54 万热度",
+      "index": 23
+    },
+    {
+      "title": "为什么说好团队是带出来的，不是管出来的？",
+      "url": "https://www.zhihu.com/question/2042438170449596770",
+      "hot_value": "53 万热度",
       "index": 24
-    },
-    {
-      "title": "出身农村，大学生活费 1500，要不要存钱去旅游？",
-      "url": "https://www.zhihu.com/question/13559135992",
-      "hot_value": "53 万热度",
-      "index": 25
-    },
-    {
-      "title": "我是一个资深程序员，30 岁，每天都用 AI，现在觉得 Agent 的能力太强大了，我未来的路在哪？",
-      "url": "https://www.zhihu.com/question/2083222866280171324",
-      "hot_value": "53 万热度",
-      "index": 26
-    },
-    {
-      "title": "有谁知道「脑雾」这种现象？如何改善？",
-      "url": "https://www.zhihu.com/question/277844187",
-      "hot_value": "53 万热度",
-      "index": 27
-    },
-    {
-      "title": "如何评价《崩坏星穹铁道》角色：斯科特？",
-      "url": "https://www.zhihu.com/question/2088585823742702315",
-      "hot_value": "53 万热度",
-      "index": 28
     },
     {
       "title": "如何评价 10 月 1 日发布的华为 Mate 90 系列全系旗舰τ芯片，不同版本如何选择？",
       "url": "https://www.zhihu.com/question/2088956328886678092",
       "hot_value": "53 万热度",
+      "index": 25
+    },
+    {
+      "title": "地球上的所有动物都没有穿衣服，还不是活得好好的，为什么只有我们人类才穿衣服，难道不穿衣服就活不了吗？",
+      "url": "https://www.zhihu.com/question/2082064671708922600",
+      "hot_value": "53 万热度",
+      "index": 26
+    },
+    {
+      "title": "为什么现在新入行金融行业的毕业生更加喜欢量化而不喜欢主观多头策略？",
+      "url": "https://www.zhihu.com/question/10341004625",
+      "hot_value": "53 万热度",
+      "index": 27
+    },
+    {
+      "title": "我是一个资深程序员，30 岁，每天都用 AI，现在觉得 Agent 的能力太强大了，我未来的路在哪？",
+      "url": "https://www.zhihu.com/question/2083222866280171324",
+      "hot_value": "53 万热度",
+      "index": 28
+    },
+    {
+      "title": "有谁知道「脑雾」这种现象？如何改善？",
+      "url": "https://www.zhihu.com/question/277844187",
+      "hot_value": "53 万热度",
       "index": 29
     },
     {
-      "title": "9 月旗舰手机轮番上台，你觉得今年最值得期待的旗舰是哪一款？最吸引你升级的卖点是什么？",
-      "url": "https://www.zhihu.com/question/2086160452816578310",
+      "title": "你认为什么能力才是职场的顶级能力？",
+      "url": "https://www.zhihu.com/question/2060339236742729799",
       "hot_value": "53 万热度",
       "index": 30
     }
