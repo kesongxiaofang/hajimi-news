@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-03T09:37:19Z",
+  "update_time": "2026-10-03T14:31:51Z",
   "count": 30,
   "list": [
     {
       "title": "亚运男足铜牌争夺战，中国 U23 点球 4-3 乌兹别克斯坦 U23，获得铜牌，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2089722594677055841",
-      "hot_value": "1496 万热度",
+      "hot_value": "3322 万热度",
       "index": 1
-    },
-    {
-      "title": "新能源车事故维修平均费用达燃油车 1.7 倍，电车「修不起」的根本原因是什么？车主的用车成本该怎么算？",
-      "url": "https://www.zhihu.com/question/2087701209415271180",
-      "hot_value": "551 万热度",
-      "index": 2
-    },
-    {
-      "title": "你是否曾因为一个很小、很具体的念头，专程去过一个地方？",
-      "url": "https://www.zhihu.com/question/2088339424396276554",
-      "hot_value": "317 万热度",
-      "index": 3
     },
     {
       "title": "网友称纹身是免疫细胞一辈子的战斗，这是真的吗？对健康会有哪些影响？",
       "url": "https://www.zhihu.com/question/2089414718989365661",
-      "hot_value": "209 万热度",
+      "hot_value": "422 万热度",
+      "index": 2
+    },
+    {
+      "title": "亚运会男足铜牌战，李昊扑出两个点球助中国队获得铜牌，完成这样的扑救有多难？会怎样影响球队？",
+      "url": "https://www.zhihu.com/question/2089756234240844300",
+      "hot_value": "309 万热度",
+      "index": 3
+    },
+    {
+      "title": "七国集团将释放 1 亿桶战略石油储备，会带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2089655246322495630",
+      "hot_value": "236 万热度",
       "index": 4
+    },
+    {
+      "title": "国足 U23 屡创佳绩，关键胜因是什么？这支年轻球队正在发生哪些变化？能给中国足球带来更多可能吗？",
+      "url": "https://www.zhihu.com/question/2089761055652012149",
+      "hot_value": "221 万热度",
+      "index": 5
+    },
+    {
+      "title": "如何评价亚运会中国代表团 169 金 89 银 83 铜收官，创境外参加亚运会最佳战绩？有哪些项目发挥关键作用？",
+      "url": "https://www.zhihu.com/question/2089736714340102430",
+      "hot_value": "220 万热度",
+      "index": 6
+    },
+    {
+      "title": "如何评价 Gemini Flash 和 Pro 模型将于 2026 年 10 月 9 日转入付费模式？",
+      "url": "https://www.zhihu.com/question/2089670263927464668",
+      "hot_value": "156 万热度",
+      "index": 7
+    },
+    {
+      "title": "有什么关于福建的冷知识?",
+      "url": "https://www.zhihu.com/question/369833104",
+      "hot_value": "152 万热度",
+      "index": 8
     },
     {
       "title": "六神是怎么做到在花露水市场常年稳居第一的？甚至有不少人除了六神好像都不了解其他的花露水品牌？",
       "url": "https://www.zhihu.com/question/2087306147153666673",
-      "hot_value": "209 万热度",
-      "index": 5
+      "hot_value": "132 万热度",
+      "index": 9
     },
     {
-      "title": "韩国正式废除大检察厅体系，背后的原因是啥？将对该国司法格局及政坛产生哪些深远影响？",
-      "url": "https://www.zhihu.com/question/2089351138206401989",
-      "hot_value": "199 万热度",
-      "index": 6
-    },
-    {
-      "title": "凡人修仙传动画 194 集观众满意吗？",
-      "url": "https://www.zhihu.com/question/2088661195830174451",
-      "hot_value": "190 万热度",
-      "index": 7
+      "title": "怎么看 Claude Code 发布 Mod，崔添翼说 DSH Plugin 是不是要改叫 Mod ？",
+      "url": "https://www.zhihu.com/question/2089377620265910988",
+      "hot_value": "118 万热度",
+      "index": 10
     },
     {
       "title": "如何评价极客湾最新视频《逻辑折叠深度解析！华为 Mate 90 系列韬定律芯片有多强？》？",
       "url": "https://www.zhihu.com/question/2089412797440455404",
-      "hot_value": "176 万热度",
-      "index": 8
-    },
-    {
-      "title": "理论上讲 XX 是女性染色体，那为什么 YY 不是男性染色体，必须是 XY？",
-      "url": "https://www.zhihu.com/question/2088316403992507840",
-      "hot_value": "163 万热度",
-      "index": 9
-    },
-    {
-      "title": "《给阿嬷的情书》院线下映，累计票房 20.05 亿，观影人次 5881.9 万，如何评价这一成绩？",
-      "url": "https://www.zhihu.com/question/2088584992443954470",
-      "hot_value": "141 万热度",
-      "index": 10
-    },
-    {
-      "title": "为什么王祖贤、吴彦祖、陈冠希这些淡出演艺圈的明星，最近又活跃起来了？是北美华人圈出了什么事吗？",
-      "url": "https://www.zhihu.com/question/2087943842360025515",
-      "hot_value": "138 万热度",
+      "hot_value": "117 万热度",
       "index": 11
     },
     {
-      "title": "中国柔道选手唐婧亚运会因「咬对手手臂」被判负，这一判罚合理吗？",
-      "url": "https://www.zhihu.com/question/2089161789263107077",
-      "hot_value": "136 万热度",
+      "title": "葡足协主席希望 C 罗「以体面的方式谢幕」，正推动其重返国家队，如何理解当前各方态度？最终可能怎样收场？",
+      "url": "https://www.zhihu.com/question/2089646327395082321",
+      "hot_value": "116 万热度",
       "index": 12
     },
     {
-      "title": "孙悟空会七十二变，何必请昴日星官降服蝎子精，自己变公鸡不行吗?",
-      "url": "https://www.zhihu.com/question/667866872",
-      "hot_value": "136 万热度",
+      "title": "《艾希》续作众筹破 1200 万元远超预期，为何能引发现象级反响？",
+      "url": "https://www.zhihu.com/question/2089411284261512252",
+      "hot_value": "114 万热度",
       "index": 13
     },
     {
       "title": "汉大帮高育良的外甥女陆亦可为什么被大家厌恶？她和侯亮平是一类人吗？",
       "url": "https://www.zhihu.com/question/2086972101483930401",
-      "hot_value": "135 万热度",
+      "hot_value": "113 万热度",
       "index": 14
     },
     {
       "title": "网友质疑国足 0 比 5 惨败却让 17 岁小将赵松源接受采访，如何看待这种安排？是有意为之吗？",
       "url": "https://www.zhihu.com/question/2089616052405498293",
-      "hot_value": "135 万热度",
+      "hot_value": "113 万热度",
       "index": 15
-    },
-    {
-      "title": "1000 桶水中两桶有毒，猪喝毒水后会在 15 分钟内死去，想用一个小时找到毒水，至少需要几只猪？如何实现？",
-      "url": "https://www.zhihu.com/question/60461214",
-      "hot_value": "135 万热度",
-      "index": 16
-    },
-    {
-      "title": "欧美演员的私生活争议会影响你对其作品的评价吗？",
-      "url": "https://www.zhihu.com/question/2029160035649864782",
-      "hot_value": "131 万热度",
-      "index": 17
-    },
-    {
-      "title": "女子产子后孩子父亲失联遭医院拒办出生证明，法院责令签发，从法律角度该如何解读？",
-      "url": "https://www.zhihu.com/question/2088652981331935553",
-      "hot_value": "128 万热度",
-      "index": 18
-    },
-    {
-      "title": "七国集团将释放 1 亿桶战略石油储备，会带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2089655246322495630",
-      "hot_value": "125 万热度",
-      "index": 19
-    },
-    {
-      "title": "普通家庭对女儿最好的托举是什么？",
-      "url": "https://www.zhihu.com/question/1902612886431459002",
-      "hot_value": "88 万热度",
-      "index": 20
-    },
-    {
-      "title": "格陵兰和南极 40 余年损失 11.3 万亿吨冰，将造成怎样的影响？格陵兰面积比南极小为何损失更多？",
-      "url": "https://www.zhihu.com/question/2084018081123381462",
-      "hot_value": "83 万热度",
-      "index": 21
-    },
-    {
-      "title": "2026 年国庆档总票房破 4 亿，陈思诚《神探之痕迹》领跑，你更看好哪部电影？",
-      "url": "https://www.zhihu.com/question/2089010842784227409",
-      "hot_value": "79 万热度",
-      "index": 22
-    },
-    {
-      "title": "怎样完美战胜拖延症？",
-      "url": "https://www.zhihu.com/question/2074222945971463385",
-      "hot_value": "69 万热度",
-      "index": 23
     },
     {
       "title": "为何家用 WiFi 总觉得 2.4G 反而快于 5G，这是我的错觉吗？",
       "url": "https://www.zhihu.com/question/2066457750947763567",
-      "hot_value": "66 万热度",
+      "hot_value": "112 万热度",
+      "index": 16
+    },
+    {
+      "title": "如何评价马伊琍、王佳佳主演的悬疑剧《余红旧事》？",
+      "url": "https://www.zhihu.com/question/2088305221902587649",
+      "hot_value": "107 万热度",
+      "index": 17
+    },
+    {
+      "title": "为什么秦桧之后没人再用桧字取名，但司马懿之后还有无数人叫懿？",
+      "url": "https://www.zhihu.com/question/2088675997675688683",
+      "hot_value": "99 万热度",
+      "index": 18
+    },
+    {
+      "title": "秋天都有哪些美食？",
+      "url": "https://www.zhihu.com/question/2076630617412978325",
+      "hot_value": "75 万热度",
+      "index": 19
+    },
+    {
+      "title": "《雍正王朝》里李卫的草根逆袭，是运气好还是真有两把刷子？",
+      "url": "https://www.zhihu.com/question/2087549673972167056",
+      "hot_value": "70 万热度",
+      "index": 20
+    },
+    {
+      "title": "警方查处孕妇驾驶摩托别车遭脚踹事件，孕妇罚款 200 元，对踹摩托车者予以批评教育，如何看待这一处罚结果？",
+      "url": "https://www.zhihu.com/question/2089780106344362420",
+      "hot_value": "59 万热度",
+      "index": 21
+    },
+    {
+      "title": "理论上讲 XX 是女性染色体，那为什么 YY 不是男性染色体，必须是 XY？",
+      "url": "https://www.zhihu.com/question/2088316403992507840",
+      "hot_value": "57 万热度",
+      "index": 22
+    },
+    {
+      "title": "《给阿嬷的情书》院线下映，累计票房 20.05 亿，观影人次 5881.9 万，如何评价这一成绩？",
+      "url": "https://www.zhihu.com/question/2088584992443954470",
+      "hot_value": "57 万热度",
+      "index": 23
+    },
+    {
+      "title": "你知道哪些顶级食材？",
+      "url": "https://www.zhihu.com/question/21390049",
+      "hot_value": "55 万热度",
       "index": 24
     },
     {
       "title": "为什么从 1986 年到 2026 年的亚运会几乎都是在亚洲东部举办的？",
       "url": "https://www.zhihu.com/question/2085338424681174616",
-      "hot_value": "65 万热度",
+      "hot_value": "55 万热度",
       "index": 25
     },
     {
-      "title": "不够聪明的人怎么高效学习？",
-      "url": "https://www.zhihu.com/question/431279332",
-      "hot_value": "64 万热度",
+      "title": "你是否曾因为一个很小、很具体的念头，专程去过一个地方？",
+      "url": "https://www.zhihu.com/question/2088339424396276554",
+      "hot_value": "55 万热度",
       "index": 26
     },
     {
-      "title": "作为一名中层领导，赏罚分明得人心，还是对人不对事，和稀泥得人心？",
-      "url": "https://www.zhihu.com/question/1945430642201440710",
-      "hot_value": "59 万热度",
+      "title": "作为一个普通人如何改变自己的命运？",
+      "url": "https://www.zhihu.com/question/421023956",
+      "hot_value": "53 万热度",
       "index": 27
     },
     {
-      "title": "你们在山东碰到「鱼头酒」的问题了吗？",
-      "url": "https://www.zhihu.com/question/14202083660",
-      "hot_value": "58 万热度",
+      "title": "如何评价《帝国时代 2》中的蒙古？",
+      "url": "https://www.zhihu.com/question/320437498",
+      "hot_value": "52 万热度",
       "index": 28
     },
     {
-      "title": "如何评价凡人修仙传 194 集，是否达到预期？",
-      "url": "https://www.zhihu.com/question/2064994320688666285",
-      "hot_value": "58 万热度",
+      "title": "一个新手养鸡，规模先 300 只以内，需要注意什么呢？",
+      "url": "https://www.zhihu.com/question/6871807742",
+      "hot_value": "52 万热度",
       "index": 29
     },
     {
-      "title": "一些网络作者明知道受众雷点，为什么还要故意触雷？这反映了什么心理？",
-      "url": "https://www.zhihu.com/question/2063015464750552205",
-      "hot_value": "57 万热度",
+      "title": "人民日报评本科生「回炉」读技校，是教育浪费还是务实选择？",
+      "url": "https://www.zhihu.com/question/2084001861875643317",
+      "hot_value": "52 万热度",
       "index": 30
     }
   ]
