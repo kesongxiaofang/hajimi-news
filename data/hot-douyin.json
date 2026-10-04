@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-10-04T20:18:49Z",
+  "update_time": "2026-10-04T23:25:03Z",
   "count": 30,
   "list": [
     {
-      "title": "市井人家的炊烟笑语总是令人心安",
-      "url": "https://www.douyin.com/search/%E5%B8%82%E4%BA%95%E4%BA%BA%E5%AE%B6%E7%9A%84%E7%82%8A%E7%83%9F%E7%AC%91%E8%AF%AD%E6%80%BB%E6%98%AF%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%AE%89?type=general",
-      "hot_value": "12408376",
+      "title": "B费谈C罗离队",
+      "url": "https://www.douyin.com/search/B%E8%B4%B9%E8%B0%88C%E7%BD%97%E7%A6%BB%E9%98%9F?type=general",
+      "hot_value": "12405486",
       "index": 1
     },
     {
-      "title": "是谁在重庆免费听了soldout",
-      "url": "https://www.douyin.com/search/%E6%98%AF%E8%B0%81%E5%9C%A8%E9%87%8D%E5%BA%86%E5%85%8D%E8%B4%B9%E5%90%AC%E4%BA%86soldout?type=general",
-      "hot_value": "11176443",
+      "title": "市井人家的炊烟笑语总是令人心安",
+      "url": "https://www.douyin.com/search/%E5%B8%82%E4%BA%95%E4%BA%BA%E5%AE%B6%E7%9A%84%E7%82%8A%E7%83%9F%E7%AC%91%E8%AF%AD%E6%80%BB%E6%98%AF%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%AE%89?type=general",
+      "hot_value": "11697932",
       "index": 2
     },
     {
       "title": "我国假日经济持续升温",
       "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%81%87%E6%97%A5%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%8D%87%E6%B8%A9?type=general",
-      "hot_value": "11100902",
+      "hot_value": "11569794",
       "index": 3
     },
     {
-      "title": "长长长假美食判官",
-      "url": "https://www.douyin.com/search/%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87%E7%BE%8E%E9%A3%9F%E5%88%A4%E5%AE%98?type=general",
-      "hot_value": "11100261",
+      "title": "是谁在重庆免费听了soldout",
+      "url": "https://www.douyin.com/search/%E6%98%AF%E8%B0%81%E5%9C%A8%E9%87%8D%E5%BA%86%E5%85%8D%E8%B4%B9%E5%90%AC%E4%BA%86soldout?type=general",
+      "hot_value": "11386410",
       "index": 4
-    },
-    {
-      "title": "你说得对人是应该多出去走走",
-      "url": "https://www.douyin.com/search/%E4%BD%A0%E8%AF%B4%E5%BE%97%E5%AF%B9%E4%BA%BA%E6%98%AF%E5%BA%94%E8%AF%A5%E5%A4%9A%E5%87%BA%E5%8E%BB%E8%B5%B0%E8%B5%B0?type=general",
-      "hot_value": "10479499",
-      "index": 5
     },
     {
       "title": "第二十届亚运会闭幕",
       "url": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95?type=general",
-      "hot_value": "10463667",
+      "hot_value": "10792124",
+      "index": 5
+    },
+    {
+      "title": "国庆自驾搭子集体陷入沉默",
+      "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E8%87%AA%E9%A9%BE%E6%90%AD%E5%AD%90%E9%9B%86%E4%BD%93%E9%99%B7%E5%85%A5%E6%B2%89%E9%BB%98?type=general",
+      "hot_value": "10677780",
       "index": 6
     },
     {
       "title": "张堃鹏追平个人最佳战绩",
       "url": "https://www.douyin.com/search/%E5%BC%A0%E5%A0%83%E9%B9%8F%E8%BF%BD%E5%B9%B3%E4%B8%AA%E4%BA%BA%E6%9C%80%E4%BD%B3%E6%88%98%E7%BB%A9?type=general",
-      "hot_value": "9263395",
+      "hot_value": "9435308",
       "index": 7
-    },
-    {
-      "title": "苏超盐城2:0宿迁",
-      "url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E7%9B%90%E5%9F%8E2%3A0%E5%AE%BF%E8%BF%81?type=general",
-      "hot_value": "9225805",
-      "index": 8
     },
     {
       "title": "苏超苏州2:1常州",
       "url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E8%8B%8F%E5%B7%9E2%3A1%E5%B8%B8%E5%B7%9E?type=general",
-      "hot_value": "9223130",
-      "index": 9
+      "hot_value": "9433085",
+      "index": 8
     },
     {
-      "title": "这顿饭已严肃品鉴不烧心",
-      "url": "https://www.douyin.com/search/%E8%BF%99%E9%A1%BF%E9%A5%AD%E5%B7%B2%E4%B8%A5%E8%82%83%E5%93%81%E9%89%B4%E4%B8%8D%E7%83%A7%E5%BF%83?type=general",
-      "hot_value": "9135750",
-      "index": 10
+      "title": "你说得对人是应该多出去走走",
+      "url": "https://www.douyin.com/search/%E4%BD%A0%E8%AF%B4%E5%BE%97%E5%AF%B9%E4%BA%BA%E6%98%AF%E5%BA%94%E8%AF%A5%E5%A4%9A%E5%87%BA%E5%8E%BB%E8%B5%B0%E8%B5%B0?type=general",
+      "hot_value": "9341190",
+      "index": 9
     },
     {
       "title": "国庆漂亮旗袍妆",
       "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%BC%82%E4%BA%AE%E6%97%97%E8%A2%8D%E5%A6%86?type=general",
-      "hot_value": "9122326",
+      "hot_value": "9241824",
+      "index": 10
+    },
+    {
+      "title": "长长长假美食判官",
+      "url": "https://www.douyin.com/search/%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87%E7%BE%8E%E9%A3%9F%E5%88%A4%E5%AE%98?type=general",
+      "hot_value": "9230980",
       "index": 11
     },
     {
-      "title": "把假期调成快乐模式",
-      "url": "https://www.douyin.com/search/%E6%8A%8A%E5%81%87%E6%9C%9F%E8%B0%83%E6%88%90%E5%BF%AB%E4%B9%90%E6%A8%A1%E5%BC%8F?type=general",
-      "hot_value": "9110889",
+      "title": "国庆假期宅家无聊怎么办",
+      "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%AE%85%E5%AE%B6%E6%97%A0%E8%81%8A%E6%80%8E%E4%B9%88%E5%8A%9E?type=general",
+      "hot_value": "9175176",
       "index": 12
     },
     {
       "title": "警惕票务诈骗陷阱",
       "url": "https://www.douyin.com/search/%E8%AD%A6%E6%83%95%E7%A5%A8%E5%8A%A1%E8%AF%88%E9%AA%97%E9%99%B7%E9%98%B1?type=general",
-      "hot_value": "9043742",
+      "hot_value": "9173948",
       "index": 13
-    },
-    {
-      "title": "欧国联英格兰7:0克罗地亚",
-      "url": "https://www.douyin.com/search/%E6%AC%A7%E5%9B%BD%E8%81%94%E8%8B%B1%E6%A0%BC%E5%85%B07%3A0%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A?type=general",
-      "hot_value": "8802263",
-      "index": 14
-    },
-    {
-      "title": "黄明昊重庆演唱会",
-      "url": "https://www.douyin.com/search/%E9%BB%84%E6%98%8E%E6%98%8A%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "8779092",
-      "index": 15
-    },
-    {
-      "title": "我的国庆安排belike",
-      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%AE%89%E6%8E%92belike?type=general",
-      "hot_value": "8771146",
-      "index": 16
     },
     {
       "title": "国庆假期过得飞快",
       "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%87%E5%BE%97%E9%A3%9E%E5%BF%AB?type=general",
-      "hot_value": "8751337",
+      "hot_value": "9169846",
+      "index": 14
+    },
+    {
+      "title": "苏超盐城2:0宿迁",
+      "url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E7%9B%90%E5%9F%8E2%3A0%E5%AE%BF%E8%BF%81?type=general",
+      "hot_value": "9162407",
+      "index": 15
+    },
+    {
+      "title": "孙心然闯入中网女单32强",
+      "url": "https://www.douyin.com/search/%E5%AD%99%E5%BF%83%E7%84%B6%E9%97%AF%E5%85%A5%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%9532%E5%BC%BA?type=general",
+      "hot_value": "9125203",
+      "index": 16
+    },
+    {
+      "title": "看完重生2的精神状态",
+      "url": "https://www.douyin.com/search/%E7%9C%8B%E5%AE%8C%E9%87%8D%E7%94%9F2%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81?type=general",
+      "hot_value": "9114061",
       "index": 17
-    },
-    {
-      "title": "袁一琦武汉演唱会",
-      "url": "https://www.douyin.com/search/%E8%A2%81%E4%B8%80%E7%90%A6%E6%AD%A6%E6%B1%89%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "8739070",
-      "index": 18
-    },
-    {
-      "title": "神探之痕迹尺度大到一愣又一愣",
-      "url": "https://www.douyin.com/search/%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E5%B0%BA%E5%BA%A6%E5%A4%A7%E5%88%B0%E4%B8%80%E6%84%A3%E5%8F%88%E4%B8%80%E6%84%A3?type=general",
-      "hot_value": "8727102",
-      "index": 19
-    },
-    {
-      "title": "李羲承DOM摇",
-      "url": "https://www.douyin.com/search/%E6%9D%8E%E7%BE%B2%E6%89%BFDOM%E6%91%87?type=general",
-      "hot_value": "8648450",
-      "index": 20
-    },
-    {
-      "title": "国庆假期宅家无聊怎么办",
-      "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%AE%85%E5%AE%B6%E6%97%A0%E8%81%8A%E6%80%8E%E4%B9%88%E5%8A%9E?type=general",
-      "hot_value": "8606826",
-      "index": 21
-    },
-    {
-      "title": "余红旧事婚后比婚礼还刺激",
-      "url": "https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E5%A9%9A%E5%90%8E%E6%AF%94%E5%A9%9A%E7%A4%BC%E8%BF%98%E5%88%BA%E6%BF%80?type=general",
-      "hot_value": "8547000",
-      "index": 22
-    },
-    {
-      "title": "王橹杰路灯下跳舞好有氛围感",
-      "url": "https://www.douyin.com/search/%E7%8E%8B%E6%A9%B9%E6%9D%B0%E8%B7%AF%E7%81%AF%E4%B8%8B%E8%B7%B3%E8%88%9E%E5%A5%BD%E6%9C%89%E6%B0%9B%E5%9B%B4%E6%84%9F?type=general",
-      "hot_value": "8496158",
-      "index": 23
-    },
-    {
-      "title": "王嘉尔300块帮陈冠希回家",
-      "url": "https://www.douyin.com/search/%E7%8E%8B%E5%98%89%E5%B0%94300%E5%9D%97%E5%B8%AE%E9%99%88%E5%86%A0%E5%B8%8C%E5%9B%9E%E5%AE%B6?type=general",
-      "hot_value": "8211654",
-      "index": 24
     },
     {
       "title": "神探之痕迹细节越扒越有",
       "url": "https://www.douyin.com/search/%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E7%BB%86%E8%8A%82%E8%B6%8A%E6%89%92%E8%B6%8A%E6%9C%89?type=general",
-      "hot_value": "8109250",
-      "index": 25
+      "hot_value": "9100746",
+      "index": 18
     },
     {
-      "title": "怎么一跤就摔到川西了",
-      "url": "https://www.douyin.com/search/%E6%80%8E%E4%B9%88%E4%B8%80%E8%B7%A4%E5%B0%B1%E6%91%94%E5%88%B0%E5%B7%9D%E8%A5%BF%E4%BA%86?type=general",
-      "hot_value": "7835203",
-      "index": 26
-    },
-    {
-      "title": "日本就驻日美军杀人案向美方抗议",
-      "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E5%B0%B1%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E6%9D%80%E4%BA%BA%E6%A1%88%E5%90%91%E7%BE%8E%E6%96%B9%E6%8A%97%E8%AE%AE?type=general",
-      "hot_value": "7814945",
-      "index": 27
-    },
-    {
-      "title": "郭晓东回应被淘汰",
-      "url": "https://www.douyin.com/search/%E9%83%AD%E6%99%93%E4%B8%9C%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%B7%98%E6%B1%B0?type=general",
-      "hot_value": "7785248",
-      "index": 28
+      "title": "一条抖音告别名古屋亚运会",
+      "url": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1%E6%8A%96%E9%9F%B3%E5%91%8A%E5%88%AB%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A?type=general",
+      "hot_value": "9082571",
+      "index": 19
     },
     {
       "title": "像当地人一样旅行",
       "url": "https://www.douyin.com/search/%E5%83%8F%E5%BD%93%E5%9C%B0%E4%BA%BA%E4%B8%80%E6%A0%B7%E6%97%85%E8%A1%8C?type=general",
-      "hot_value": "7743968",
+      "hot_value": "9051144",
+      "index": 20
+    },
+    {
+      "title": "这顿饭已严肃品鉴不烧心",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E9%A1%BF%E9%A5%AD%E5%B7%B2%E4%B8%A5%E8%82%83%E5%93%81%E9%89%B4%E4%B8%8D%E7%83%A7%E5%BF%83?type=general",
+      "hot_value": "8999104",
+      "index": 21
+    },
+    {
+      "title": "怎么一跤就摔到川西了",
+      "url": "https://www.douyin.com/search/%E6%80%8E%E4%B9%88%E4%B8%80%E8%B7%A4%E5%B0%B1%E6%91%94%E5%88%B0%E5%B7%9D%E8%A5%BF%E4%BA%86?type=general",
+      "hot_value": "8984344",
+      "index": 22
+    },
+    {
+      "title": "王嘉尔300块帮陈冠希回家",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E5%98%89%E5%B0%94300%E5%9D%97%E5%B8%AE%E9%99%88%E5%86%A0%E5%B8%8C%E5%9B%9E%E5%AE%B6?type=general",
+      "hot_value": "8846339",
+      "index": 23
+    },
+    {
+      "title": "我的国庆安排belike",
+      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%AE%89%E6%8E%92belike?type=general",
+      "hot_value": "8819736",
+      "index": 24
+    },
+    {
+      "title": "穷游富游不如少年游",
+      "url": "https://www.douyin.com/search/%E7%A9%B7%E6%B8%B8%E5%AF%8C%E6%B8%B8%E4%B8%8D%E5%A6%82%E5%B0%91%E5%B9%B4%E6%B8%B8?type=general",
+      "hot_value": "8713693",
+      "index": 25
+    },
+    {
+      "title": "我的假期有娃陪",
+      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%81%87%E6%9C%9F%E6%9C%89%E5%A8%83%E9%99%AA?type=general",
+      "hot_value": "8448921",
+      "index": 26
+    },
+    {
+      "title": "袁一琦武汉演唱会",
+      "url": "https://www.douyin.com/search/%E8%A2%81%E4%B8%80%E7%90%A6%E6%AD%A6%E6%B1%89%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "hot_value": "8416452",
+      "index": 27
+    },
+    {
+      "title": "余红旧事婚后比婚礼还刺激",
+      "url": "https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E5%A9%9A%E5%90%8E%E6%AF%94%E5%A9%9A%E7%A4%BC%E8%BF%98%E5%88%BA%E6%BF%80?type=general",
+      "hot_value": "8291092",
+      "index": 28
+    },
+    {
+      "title": "日本就驻日美军杀人案向美方抗议",
+      "url": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E5%B0%B1%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E6%9D%80%E4%BA%BA%E6%A1%88%E5%90%91%E7%BE%8E%E6%96%B9%E6%8A%97%E8%AE%AE?type=general",
+      "hot_value": "8125509",
       "index": 29
     },
     {
-      "title": "披哥Believer舞台好燃",
-      "url": "https://www.douyin.com/search/%E6%8A%AB%E5%93%A5Believer%E8%88%9E%E5%8F%B0%E5%A5%BD%E7%87%83?type=general",
-      "hot_value": "7740687",
+      "title": "于子迪当选亚运会女子MVP",
+      "url": "https://www.douyin.com/search/%E4%BA%8E%E5%AD%90%E8%BF%AA%E5%BD%93%E9%80%89%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%A5%B3%E5%AD%90MVP?type=general",
+      "hot_value": "8104988",
       "index": 30
     }
   ]
