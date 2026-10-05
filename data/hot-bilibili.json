@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-05T02:14:18Z",
+  "update_time": "2026-10-05T09:24:15Z",
   "count": 30,
   "list": [
     {
-      "title": "【春物语】我的婚后生活果然有问题 第1话：于是，结婚半年的两人还没叫过对方的名字。",
-      "url": "https://www.bilibili.com/video/BV14sHj62EzS",
-      "hot_value": "739690播放",
-      "index": 1
-    },
-    {
-      "title": "《依旧忆苦思甜》",
-      "url": "https://www.bilibili.com/video/BV1mEad6JEs8",
-      "hot_value": "1314665播放",
-      "index": 2
-    },
-    {
-      "title": "广州街唱《万疆》唱到一半，李玉刚本人来了？！",
-      "url": "https://www.bilibili.com/video/BV1TWHj67ESg",
-      "hot_value": "579367播放",
-      "index": 3
-    },
-    {
-      "title": "【独家】牧神记 第103集 温酒",
-      "url": "https://www.bilibili.com/video/BV1AbaZ6HEfF",
-      "hot_value": "2063010播放",
-      "index": 4
-    },
-    {
       "title": "看这个视频我不烧心！",
       "url": "https://www.bilibili.com/video/BV1WSHL66EdZ",
-      "hot_value": "338264播放",
-      "index": 5
-    },
-    {
-      "title": "再见了地球",
-      "url": "https://www.bilibili.com/video/BV1jSHr6iEcr",
-      "hot_value": "497056播放",
-      "index": 6
-    },
-    {
-      "title": "当 代 假 期 现 状",
-      "url": "https://www.bilibili.com/video/BV18Dad6tESF",
-      "hot_value": "288920播放",
-      "index": 7
-    },
-    {
-      "title": "奥黛塔，快跟沃来比赛吧！",
-      "url": "https://www.bilibili.com/video/BV1U4Hr6HEqw",
-      "hot_value": "307385播放",
-      "index": 8
-    },
-    {
-      "title": "看完不笑的可以确诊为抑郁了",
-      "url": "https://www.bilibili.com/video/BV1YNHv6GE2y",
-      "hot_value": "1270918播放",
-      "index": 9
-    },
-    {
-      "title": "这个bug好啊，这才是我想要的角色界面",
-      "url": "https://www.bilibili.com/video/BV15UHz6bEe6",
-      "hot_value": "226023播放",
-      "index": 10
-    },
-    {
-      "title": "用鳃呼吸吧沃雅妮莎！",
-      "url": "https://www.bilibili.com/video/BV1c6Hr6CEmk",
-      "hot_value": "360503播放",
-      "index": 11
-    },
-    {
-      "title": "hanser「花生与葱花」全程录像",
-      "url": "https://www.bilibili.com/video/BV1r4a96KEfn",
-      "hot_value": "709858播放",
-      "index": 12
-    },
-    {
-      "title": "梦之bug",
-      "url": "https://www.bilibili.com/video/BV1UeHe6YEVM",
-      "hot_value": "996027播放",
-      "index": 13
-    },
-    {
-      "title": "Re:佩恩从零开始的异世界生活！！！【水门篇 下 】",
-      "url": "https://www.bilibili.com/video/BV126Hi6TEAg",
-      "hot_value": "751123播放",
-      "index": 14
-    },
-    {
-      "title": "于是我写了一首歌（原版）",
-      "url": "https://www.bilibili.com/video/BV1JKar6AEgA",
-      "hot_value": "652256播放",
-      "index": 15
-    },
-    {
-      "title": "Mili - Rendezvous（密会）【边狱巴士】",
-      "url": "https://www.bilibili.com/video/BV1yRH66VEHm",
-      "hot_value": "412791播放",
-      "index": 16
-    },
-    {
-      "title": "亚连有点强度都在斩杀上了",
-      "url": "https://www.bilibili.com/video/BV1e3Hz69E5v",
-      "hot_value": "709204播放",
-      "index": 17
-    },
-    {
-      "title": "【抢先版】刑满释放遇女友，我被哄骗踏入缅北炼狱！！！",
-      "url": "https://www.bilibili.com/video/BV1VVaU66EwN",
-      "hot_value": "948511播放",
-      "index": 18
-    },
-    {
-      "title": "为演好农民,他包整层酒店,设专用电梯?【红毯先生】里的黑色幽默万字拉片深度解读②",
-      "url": "https://www.bilibili.com/video/BV1s7aJ6VEjq",
-      "hot_value": "197000播放",
-      "index": 19
-    },
-    {
-      "title": "十八路诸侯小纵队与乌角鲨",
-      "url": "https://www.bilibili.com/video/BV1YrHh6wEPC",
-      "hot_value": "327417播放",
-      "index": 20
-    },
-    {
-      "title": "近期画的",
-      "url": "https://www.bilibili.com/video/BV1Y2Hv65E9Y",
-      "hot_value": "144421播放",
-      "index": 21
-    },
-    {
-      "title": "“这将是一场漫长的别离，在你再次见到我之前.”【Never see me again】【遗忘の小曲】",
-      "url": "https://www.bilibili.com/video/BV1ztHY6UEDv",
-      "hot_value": "3216985播放",
-      "index": 22
-    },
-    {
-      "title": "狼人：我是一匹好人！",
-      "url": "https://www.bilibili.com/video/BV1N8Hj6VEAP",
-      "hot_value": "352063播放",
-      "index": 23
-    },
-    {
-      "title": "必须改革但改革不能：法国高中全国大抗议是咋回事",
-      "url": "https://www.bilibili.com/video/BV1R3HE6PEj5",
-      "hot_value": "320429播放",
-      "index": 24
-    },
-    {
-      "title": "好歌",
-      "url": "https://www.bilibili.com/video/BV1gLHj6XEyy",
-      "hot_value": "581920播放",
-      "index": 25
-    },
-    {
-      "title": "适可而止…好吗？",
-      "url": "https://www.bilibili.com/video/BV1bzHL67EHG",
-      "hot_value": "277115播放",
-      "index": 26
-    },
-    {
-      "title": "老外：这个中国机枪手必须上军事法庭，哪有用机枪扫射医疗兵的？！",
-      "url": "https://www.bilibili.com/video/BV1dPaZ6qEhd",
-      "hot_value": "2111786播放",
-      "index": 27
-    },
-    {
-      "title": "【s16前瞻】基地没爆炸去对面选手脸上嘲讽，难民也来参赛，s16世界赛选手来源多离谱",
-      "url": "https://www.bilibili.com/video/BV1q4H76PENE",
-      "hot_value": "240558播放",
-      "index": 28
-    },
-    {
-      "title": "评分4.7！神人多！神人神！神人又多又神！MewType梦限大完结吐槽！",
-      "url": "https://www.bilibili.com/video/BV1mMHk6WEyS",
-      "hot_value": "453046播放",
-      "index": 29
+      "hot_value": "1613644播放",
+      "index": 1
     },
     {
       "title": "《诡异的她》第一季全集·纯享",
       "url": "https://www.bilibili.com/video/BV1c3HL6qEyq",
-      "hot_value": "93554播放",
+      "hot_value": "784951播放",
+      "index": 2
+    },
+    {
+      "title": "《鸣潮》朝月会特别演出",
+      "url": "https://www.bilibili.com/video/BV1hLHj6XEdb",
+      "hot_value": "688120播放",
+      "index": 3
+    },
+    {
+      "title": "全 站 最 烧 心 版 本！！！",
+      "url": "https://www.bilibili.com/video/BV1wiHj6uEsr",
+      "hot_value": "1036063播放",
+      "index": 4
+    },
+    {
+      "title": "印度军事这次支棱起来了",
+      "url": "https://www.bilibili.com/video/BV11bHE6QEx2",
+      "hot_value": "499805播放",
+      "index": 5
+    },
+    {
+      "title": "《依旧忆苦思甜》",
+      "url": "https://www.bilibili.com/video/BV1mEad6JEs8",
+      "hot_value": "2225486播放",
+      "index": 6
+    },
+    {
+      "title": "近期画的",
+      "url": "https://www.bilibili.com/video/BV1Y2Hv65E9Y",
+      "hot_value": "459089播放",
+      "index": 7
+    },
+    {
+      "title": "今天吃小鱼",
+      "url": "https://www.bilibili.com/video/BV1KGHk6DEiH",
+      "hot_value": "1479905播放",
+      "index": 8
+    },
+    {
+      "title": "结尾喊妈妈",
+      "url": "https://www.bilibili.com/video/BV1kYHj63EuQ",
+      "hot_value": "615068播放",
+      "index": 9
+    },
+    {
+      "title": "再见了地球",
+      "url": "https://www.bilibili.com/video/BV1jSHr6iEcr",
+      "hot_value": "1236051播放",
+      "index": 10
+    },
+    {
+      "title": "奥黛塔，快跟沃来比赛吧！",
+      "url": "https://www.bilibili.com/video/BV1U4Hr6HEqw",
+      "hot_value": "581329播放",
+      "index": 11
+    },
+    {
+      "title": "嗯！?怎么还有弹窗广告",
+      "url": "https://www.bilibili.com/video/BV1e8HL6WEje",
+      "hot_value": "457668播放",
+      "index": 12
+    },
+    {
+      "title": "Mili - Rendezvous（密会）【边狱巴士】",
+      "url": "https://www.bilibili.com/video/BV1yRH66VEHm",
+      "hot_value": "645075播放",
+      "index": 13
+    },
+    {
+      "title": "【春物语】我的婚后生活果然有问题 第1话：于是，结婚半年的两人还没叫过对方的名字。",
+      "url": "https://www.bilibili.com/video/BV14sHj62EzS",
+      "hot_value": "1375376播放",
+      "index": 14
+    },
+    {
+      "title": "敢为人先，向前走，心就属于自己",
+      "url": "https://www.bilibili.com/video/BV1ZMHE6KEwn",
+      "hot_value": "269861播放",
+      "index": 15
+    },
+    {
+      "title": "“实验室制取培根”",
+      "url": "https://www.bilibili.com/video/BV1roH76CEN9",
+      "hot_value": "596847播放",
+      "index": 16
+    },
+    {
+      "title": "势必带着闪身步退场！",
+      "url": "https://www.bilibili.com/video/BV144Hj6LE3W",
+      "hot_value": "392595播放",
+      "index": 17
+    },
+    {
+      "title": "《大回忆时代》战斗篇",
+      "url": "https://www.bilibili.com/video/BV111HL6VEWF",
+      "hot_value": "883967播放",
+      "index": 18
+    },
+    {
+      "title": "看完不笑的可以确诊为抑郁了",
+      "url": "https://www.bilibili.com/video/BV1YNHv6GE2y",
+      "hot_value": "1595404播放",
+      "index": 19
+    },
+    {
+      "title": "6个小时的成果",
+      "url": "https://www.bilibili.com/video/BV1HcHa6EEzd",
+      "hot_value": "575271播放",
+      "index": 20
+    },
+    {
+      "title": "价值百万的泄露事件？半条命被泄露反倒成了最强宣发？！半条命1开发故事 P4",
+      "url": "https://www.bilibili.com/video/BV1EJaf6jEW3",
+      "hot_value": "430315播放",
+      "index": 21
+    },
+    {
+      "title": "hanser「花生与葱花」全程录像",
+      "url": "https://www.bilibili.com/video/BV1r4a96KEfn",
+      "hot_value": "875840播放",
+      "index": 22
+    },
+    {
+      "title": "当我把verity变成双重人格！",
+      "url": "https://www.bilibili.com/video/BV1ubHn68EPd",
+      "hot_value": "325774播放",
+      "index": 23
+    },
+    {
+      "title": "《AIZO》司凤版😍乙骨听完整个人都通透了，轻松新宿一串二【AI音乐】",
+      "url": "https://www.bilibili.com/video/BV1bzHL67E6u",
+      "hot_value": "395833播放",
+      "index": 24
+    },
+    {
+      "title": "用鳃呼吸吧沃雅妮莎！",
+      "url": "https://www.bilibili.com/video/BV1c6Hr6CEmk",
+      "hot_value": "548520播放",
+      "index": 25
+    },
+    {
+      "title": "【抢先版】刑满释放遇女友，我被哄骗踏入缅北炼狱！！！",
+      "url": "https://www.bilibili.com/video/BV1VVaU66EwN",
+      "hot_value": "1176736播放",
+      "index": 26
+    },
+    {
+      "title": "“这将是一场漫长的别离，在你再次见到我之前.”【Never see me again】【遗忘の小曲】",
+      "url": "https://www.bilibili.com/video/BV1ztHY6UEDv",
+      "hot_value": "3846319播放",
+      "index": 27
+    },
+    {
+      "title": "你再看看你后面呢！!",
+      "url": "https://www.bilibili.com/video/BV1r8aW6QEsR",
+      "hot_value": "4365199播放",
+      "index": 28
+    },
+    {
+      "title": "当 代 假 期 现 状",
+      "url": "https://www.bilibili.com/video/BV18Dad6tESF",
+      "hot_value": "730201播放",
+      "index": 29
+    },
+    {
+      "title": "Re:佩恩从零开始的异世界生活！！！【水门篇 下 】",
+      "url": "https://www.bilibili.com/video/BV126Hi6TEAg",
+      "hot_value": "957882播放",
       "index": 30
     }
   ]
