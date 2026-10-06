@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-10-05T18:42:04Z",
+  "update_time": "2026-10-06T00:33:12Z",
   "count": 30,
   "list": [
     {
-      "title": "孙颖莎开始整顿乒乓球观赛礼仪",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E4%B9%92%E4%B9%93%E7%90%83%E8%A7%82%E8%B5%9B%E7%A4%BC%E4%BB%AA%23",
-      "hot_value": "272852",
+      "title": "黄金睡眠时长出炉",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E5%87%BA%E7%82%89%23",
+      "hot_value": "1367755",
       "index": 1
     },
     {
-      "title": "未来几年能留住现金流最重要",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E8%83%BD%E7%95%99%E4%BD%8F%E7%8E%B0%E9%87%91%E6%B5%81%E6%9C%80%E9%87%8D%E8%A6%81%23",
-      "hot_value": "201938",
+      "title": "回老家掰苞米感觉世界割裂",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9E%E8%80%81%E5%AE%B6%E6%8E%B0%E8%8B%9E%E7%B1%B3%E6%84%9F%E8%A7%89%E4%B8%96%E7%95%8C%E5%89%B2%E8%A3%82%23",
+      "hot_value": "893099",
       "index": 2
     },
     {
       "title": "中国空心光纤网速更快了",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%BF%83%E5%85%89%E7%BA%A4%E7%BD%91%E9%80%9F%E6%9B%B4%E5%BF%AB%E4%BA%86%23",
-      "hot_value": "199063",
+      "hot_value": "694311",
       "index": 3
     },
     {
       "title": "代露娃不被同情的原因",
       "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E4%B8%8D%E8%A2%AB%E5%90%8C%E6%83%85%E7%9A%84%E5%8E%9F%E5%9B%A0%23",
-      "hot_value": "193015",
+      "hot_value": "537329",
       "index": 4
     },
     {
-      "title": "谭松韵面相都变了",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86%23",
-      "hot_value": "189759",
+      "title": "参加过的最混乱婚礼",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%82%E5%8A%A0%E8%BF%87%E7%9A%84%E6%9C%80%E6%B7%B7%E4%B9%B1%E5%A9%9A%E7%A4%BC%23",
+      "hot_value": "419567",
       "index": 5
-    },
-    {
-      "title": "刘亦菲 掉代言",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2+%E6%8E%89%E4%BB%A3%E8%A8%80%23",
-      "hot_value": "187513",
-      "index": 6
-    },
-    {
-      "title": "李勒优回应",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%8B%92%E4%BC%98%E5%9B%9E%E5%BA%94%23",
-      "hot_value": "181057",
-      "index": 7
     },
     {
       "title": "三千的工资愣是存了80万",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8D%83%E7%9A%84%E5%B7%A5%E8%B5%84%E6%84%A3%E6%98%AF%E5%AD%98%E4%BA%8680%E4%B8%87%23",
-      "hot_value": "178979",
+      "hot_value": "415895",
+      "index": 6
+    },
+    {
+      "title": "未来几年能留住现金流最重要",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E8%83%BD%E7%95%99%E4%BD%8F%E7%8E%B0%E9%87%91%E6%B5%81%E6%9C%80%E9%87%8D%E8%A6%81%23",
+      "hot_value": "373159",
+      "index": 7
+    },
+    {
+      "title": "缅甸电诈园区或卷土重来",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E6%88%96%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5%23",
+      "hot_value": "337365",
       "index": 8
     },
     {
-      "title": "曝腾讯退了几部大剧",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%85%BE%E8%AE%AF%E9%80%80%E4%BA%86%E5%87%A0%E9%83%A8%E5%A4%A7%E5%89%A7%23",
-      "hot_value": "155280",
+      "title": "谭松韵面相都变了",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86%23",
+      "hot_value": "311199",
       "index": 9
     },
     {
-      "title": "缅北电诈园区枪决底层人员",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E6%9E%AA%E5%86%B3%E5%BA%95%E5%B1%82%E4%BA%BA%E5%91%98%23",
-      "hot_value": "140061",
+      "title": "尼克斯vs76人",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%85%8B%E6%96%AFvs76%E4%BA%BA%23",
+      "hot_value": "225589",
       "index": 10
     },
     {
-      "title": "建议大家买房一定要远离公园",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B9%B0%E6%88%BF%E4%B8%80%E5%AE%9A%E8%A6%81%E8%BF%9C%E7%A6%BB%E5%85%AC%E5%9B%AD%23",
-      "hot_value": "139923",
+      "title": "刘亦菲 掉代言",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2+%E6%8E%89%E4%BB%A3%E8%A8%80%23",
+      "hot_value": "224509",
       "index": 11
     },
     {
-      "title": "刘亦菲一下子加了五个代言",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E4%B8%8B%E5%AD%90%E5%8A%A0%E4%BA%86%E4%BA%94%E4%B8%AA%E4%BB%A3%E8%A8%80%23",
-      "hot_value": "139825",
+      "title": "肖战神之十九秒",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%A5%9E%E4%B9%8B%E5%8D%81%E4%B9%9D%E7%A7%92%23",
+      "hot_value": "222662",
       "index": 12
     },
     {
-      "title": "张居正 胡歌",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B1%85%E6%AD%A3+%E8%83%A1%E6%AD%8C%23",
-      "hot_value": "139485",
+      "title": "黄子韬直播回应王鹤棣为人如何",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E7%8E%8B%E9%B9%A4%E6%A3%A3%E4%B8%BA%E4%BA%BA%E5%A6%82%E4%BD%95%23",
+      "hot_value": "221675",
       "index": 13
-    },
-    {
-      "title": "蔡天凤尸检结果出炉",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%A4%A9%E5%87%A4%E5%B0%B8%E6%A3%80%E7%BB%93%E6%9E%9C%E5%87%BA%E7%82%89%23",
-      "hot_value": "115473",
-      "index": 14
-    },
-    {
-      "title": "港媒拍到杨幂又悄悄到香港了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%8B%8D%E5%88%B0%E6%9D%A8%E5%B9%82%E5%8F%88%E6%82%84%E6%82%84%E5%88%B0%E9%A6%99%E6%B8%AF%E4%BA%86%23",
-      "hot_value": "114528",
-      "index": 15
-    },
-    {
-      "title": "林绣茹救了许兰香",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E7%BB%A3%E8%8C%B9%E6%95%91%E4%BA%86%E8%AE%B8%E5%85%B0%E9%A6%99%23",
-      "hot_value": "114340",
-      "index": 16
-    },
-    {
-      "title": "中网男单决赛",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BD%91%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23",
-      "hot_value": "109798",
-      "index": 17
-    },
-    {
-      "title": "肖战全世界正数第一严谨之人",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%85%A8%E4%B8%96%E7%95%8C%E6%AD%A3%E6%95%B0%E7%AC%AC%E4%B8%80%E4%B8%A5%E8%B0%A8%E4%B9%8B%E4%BA%BA%23",
-      "hot_value": "105120",
-      "index": 18
     },
     {
       "title": "中国警方缅北战火下挖出同胞遗体",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E7%BC%85%E5%8C%97%E6%88%98%E7%81%AB%E4%B8%8B%E6%8C%96%E5%87%BA%E5%90%8C%E8%83%9E%E9%81%97%E4%BD%93%23",
-      "hot_value": "97223",
+      "hot_value": "219495",
+      "index": 14
+    },
+    {
+      "title": "李勒优现在正在拼豆店打工",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%8B%92%E4%BC%98%E7%8E%B0%E5%9C%A8%E6%AD%A3%E5%9C%A8%E6%8B%BC%E8%B1%86%E5%BA%97%E6%89%93%E5%B7%A5%23",
+      "hot_value": "209693",
+      "index": 15
+    },
+    {
+      "title": "王一博CHANEL大秀出图",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9ACHANEL%E5%A4%A7%E7%A7%80%E5%87%BA%E5%9B%BE%23",
+      "hot_value": "187347",
+      "index": 16
+    },
+    {
+      "title": "肖战全世界正数第一严谨之人",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%85%A8%E4%B8%96%E7%95%8C%E6%AD%A3%E6%95%B0%E7%AC%AC%E4%B8%80%E4%B8%A5%E8%B0%A8%E4%B9%8B%E4%BA%BA%23",
+      "hot_value": "186553",
+      "index": 17
+    },
+    {
+      "title": "张居正 胡歌",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B1%85%E6%AD%A3+%E8%83%A1%E6%AD%8C%23",
+      "hot_value": "184837",
+      "index": 18
+    },
+    {
+      "title": "建议大家买房一定要远离公园",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B9%B0%E6%88%BF%E4%B8%80%E5%AE%9A%E8%A6%81%E8%BF%9C%E7%A6%BB%E5%85%AC%E5%9B%AD%23",
+      "hot_value": "182482",
       "index": 19
     },
     {
-      "title": "高芙为孙心然鼓掌",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%8A%99%E4%B8%BA%E5%AD%99%E5%BF%83%E7%84%B6%E9%BC%93%E6%8E%8C%23",
-      "hot_value": "96722",
+      "title": "蔡天凤尸检结果出炉",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%A4%A9%E5%87%A4%E5%B0%B8%E6%A3%80%E7%BB%93%E6%9E%9C%E5%87%BA%E7%82%89%23",
+      "hot_value": "179889",
       "index": 20
     },
     {
-      "title": "刘学义没对谭松韵用绅士手",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E6%B2%A1%E5%AF%B9%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%94%A8%E7%BB%85%E5%A3%AB%E6%89%8B%23",
-      "hot_value": "96363",
+      "title": "博主称已婚宝妈不吃苦是假象",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%B7%B2%E5%A9%9A%E5%AE%9D%E5%A6%88%E4%B8%8D%E5%90%83%E8%8B%A6%E6%98%AF%E5%81%87%E8%B1%A1%23",
+      "hot_value": "179154",
       "index": 21
+    },
+    {
+      "title": "杭州会惩罚每一个不听劝的犟种",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BC%9A%E6%83%A9%E7%BD%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%AC%E5%8A%9D%E7%9A%84%E7%8A%9F%E7%A7%8D%23",
+      "hot_value": "174360",
+      "index": 22
     },
     {
       "title": "游客免费住宿舍学生同意了吗",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%85%8D%E8%B4%B9%E4%BD%8F%E5%AE%BF%E8%88%8D%E5%AD%A6%E7%94%9F%E5%90%8C%E6%84%8F%E4%BA%86%E5%90%97%23",
-      "hot_value": "95422",
-      "index": 22
-    },
-    {
-      "title": "代露娃持续掉粉",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89%23",
-      "hot_value": "94908",
+      "hot_value": "171723",
       "index": 23
     },
     {
-      "title": "华为高通 芯片",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%AB%98%E9%80%9A+%E8%8A%AF%E7%89%87%23",
-      "hot_value": "94047",
+      "title": "刘学义没对谭松韵用绅士手",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E6%B2%A1%E5%AF%B9%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%94%A8%E7%BB%85%E5%A3%AB%E6%89%8B%23",
+      "hot_value": "170877",
       "index": 24
     },
     {
-      "title": "男子信中奖9000万失联3月在放羊",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BF%A1%E4%B8%AD%E5%A5%969000%E4%B8%87%E5%A4%B1%E8%81%943%E6%9C%88%E5%9C%A8%E6%94%BE%E7%BE%8A%23",
-      "hot_value": "93715",
+      "title": "男孩买3瓶饮料连中71瓶",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B9%B03%E7%93%B6%E9%A5%AE%E6%96%99%E8%BF%9E%E4%B8%AD71%E7%93%B6%23",
+      "hot_value": "141851",
       "index": 25
     },
     {
-      "title": "腾讯视频联合张居正官博打假",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E8%81%94%E5%90%88%E5%BC%A0%E5%B1%85%E6%AD%A3%E5%AE%98%E5%8D%9A%E6%89%93%E5%81%87%23",
-      "hot_value": "91405",
+      "title": "恒山悬空寺在科威特火了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%81%92%E5%B1%B1%E6%82%AC%E7%A9%BA%E5%AF%BA%E5%9C%A8%E7%A7%91%E5%A8%81%E7%89%B9%E7%81%AB%E4%BA%86%23",
+      "hot_value": "139190",
       "index": 26
     },
     {
-      "title": "男子嫌九十九元盲盒便宜",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%AB%8C%E4%B9%9D%E5%8D%81%E4%B9%9D%E5%85%83%E7%9B%B2%E7%9B%92%E4%BE%BF%E5%AE%9C%23",
-      "hot_value": "89104",
+      "title": "代露娃多年好友发声",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%9C%B2%E5%A8%83%E5%A4%9A%E5%B9%B4%E5%A5%BD%E5%8F%8B%E5%8F%91%E5%A3%B0%23",
+      "hot_value": "130035",
       "index": 27
     },
     {
-      "title": "黄金睡眠时长出炉",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E5%87%BA%E7%82%89%23",
-      "hot_value": "87944",
+      "title": "李勒优回应",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%8B%92%E4%BC%98%E5%9B%9E%E5%BA%94%23",
+      "hot_value": "113280",
       "index": 28
     },
     {
-      "title": "住酒店真的会感染HPV吗",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%8F%E9%85%92%E5%BA%97%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%84%9F%E6%9F%93HPV%E5%90%97%23",
-      "hot_value": "86775",
+      "title": "刘亦菲一下子加了五个代言",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E4%B8%8B%E5%AD%90%E5%8A%A0%E4%BA%86%E4%BA%94%E4%B8%AA%E4%BB%A3%E8%A8%80%23",
+      "hot_value": "108866",
       "index": 29
     },
     {
-      "title": "想要感染HPV一定得直接接触HPV",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%83%B3%E8%A6%81%E6%84%9F%E6%9F%93HPV%E4%B8%80%E5%AE%9A%E5%BE%97%E7%9B%B4%E6%8E%A5%E6%8E%A5%E8%A7%A6HPV%23",
-      "hot_value": "84525",
+      "title": "缅北电诈园区枪决底层人员",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E6%9E%AA%E5%86%B3%E5%BA%95%E5%B1%82%E4%BA%BA%E5%91%98%23",
+      "hot_value": "107479",
       "index": 30
     }
   ]
