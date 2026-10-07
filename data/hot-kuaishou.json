@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-10-07T17:52:54Z",
+  "update_time": "2026-10-07T22:35:45Z",
   "count": 30,
   "list": [
     {
       "title": "国庆假期就这样结束了",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%B0%B1%E8%BF%99%E6%A0%B7%E7%BB%93%E6%9D%9F%E4%BA%86",
-      "hot_value": "1,268.1万",
+      "hot_value": "1,327.4万",
       "index": 1
     },
     {
       "title": "今日寒露",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%8A%E6%97%A5%E5%AF%92%E9%9C%B2",
-      "hot_value": "1,264.4万",
+      "hot_value": "1,327.4万",
       "index": 2
     },
     {
       "title": "最好的祝福献给祖国",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD",
-      "hot_value": "1,255万",
+      "hot_value": "1,327.4万",
       "index": 3
     },
     {
       "title": "回顾我的国庆假期",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9E%E9%A1%BE%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F",
-      "hot_value": "1,252.6万",
+      "hot_value": "1,327.2万",
       "index": 4
     },
     {
       "title": "长假后警惕节后综合征",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%95%BF%E5%81%87%E5%90%8E%E8%AD%A6%E6%83%95%E8%8A%82%E5%90%8E%E7%BB%BC%E5%90%88%E5%BE%81",
-      "hot_value": "1,250.6万",
+      "hot_value": "1,327.1万",
       "index": 5
     },
     {
       "title": "一支笔一盏灯一个奇迹",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%80%E6%94%AF%E7%AC%94%E4%B8%80%E7%9B%8F%E7%81%AF%E4%B8%80%E4%B8%AA%E5%A5%87%E8%BF%B9",
-      "hot_value": "1,234.1万",
+      "hot_value": "1,326.9万",
       "index": 6
     },
     {
       "title": "寒露养生牢记这3点",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AF%92%E9%9C%B2%E5%85%BB%E7%94%9F%E7%89%A2%E8%AE%B0%E8%BF%993%E7%82%B9",
-      "hot_value": "1,213.4万",
+      "hot_value": "1,326.9万",
       "index": 7
     },
     {
-      "title": "孙颖莎爆冷止步32强",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%88%86%E5%86%B7%E6%AD%A2%E6%AD%A532%E5%BC%BA",
-      "hot_value": "1,209.1万",
+      "title": "大妈偷一车黄豆被抓",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E5%A6%88%E5%81%B7%E4%B8%80%E8%BD%A6%E9%BB%84%E8%B1%86%E8%A2%AB%E6%8A%93",
+      "hot_value": "1,326.6万",
       "index": 8
     },
     {
       "title": "冬天冷不冷就看寒露",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%AC%E5%A4%A9%E5%86%B7%E4%B8%8D%E5%86%B7%E5%B0%B1%E7%9C%8B%E5%AF%92%E9%9C%B2",
-      "hot_value": "1,206.5万",
+      "hot_value": "1,266.7万",
       "index": 9
     },
     {
-      "title": "缅北电诈头目向中国人民道歉",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%81%93%E6%AD%89",
-      "hot_value": "1,111.8万",
+      "title": "摆摊卖巨型正青衣",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%91%86%E6%91%8A%E5%8D%96%E5%B7%A8%E5%9E%8B%E6%AD%A3%E9%9D%92%E8%A1%A3",
+      "hot_value": "1,259.5万",
       "index": 10
     },
     {
       "title": "山楂配可乐预防胃结石是误区",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B1%B1%E6%A5%82%E9%85%8D%E5%8F%AF%E4%B9%90%E9%A2%84%E9%98%B2%E8%83%83%E7%BB%93%E7%9F%B3%E6%98%AF%E8%AF%AF%E5%8C%BA",
-      "hot_value": "1,094万",
+      "hot_value": "1,210.8万",
       "index": 11
     },
     {
-      "title": "郑钦文战胜查拉耶娃",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%83%91%E9%92%A6%E6%96%87%E6%88%98%E8%83%9C%E6%9F%A5%E6%8B%89%E8%80%B6%E5%A8%83",
-      "hot_value": "1,091.3万",
+      "title": "特朗普称伊朗领导人没了",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%B2%A1%E4%BA%86",
+      "hot_value": "1,184.3万",
       "index": 12
     },
     {
-      "title": "吴奇隆举国旗被台方取消开球资格",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%B4%E5%A5%87%E9%9A%86%E4%B8%BE%E5%9B%BD%E6%97%97%E8%A2%AB%E5%8F%B0%E6%96%B9%E5%8F%96%E6%B6%88%E5%BC%80%E7%90%83%E8%B5%84%E6%A0%BC",
-      "hot_value": "1,069.9万",
+      "title": "女子听到异响拦车救7人",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E5%90%AC%E5%88%B0%E5%BC%82%E5%93%8D%E6%8B%A6%E8%BD%A6%E6%95%917%E4%BA%BA",
+      "hot_value": "1,163.1万",
       "index": 13
     },
     {
       "title": "寒露手抄报",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AF%92%E9%9C%B2%E6%89%8B%E6%8A%84%E6%8A%A5",
-      "hot_value": "1,052.1万",
+      "hot_value": "1,141.3万",
       "index": 14
+    },
+    {
+      "title": "胡塞武装称实施毁灭性打击",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%A7%B0%E5%AE%9E%E6%96%BD%E6%AF%81%E7%81%AD%E6%80%A7%E6%89%93%E5%87%BB",
+      "hot_value": "1,140.1万",
+      "index": 15
     },
     {
       "title": "茜茜摇",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%8C%9C%E8%8C%9C%E6%91%87",
-      "hot_value": "1,049.3万",
-      "index": 15
-    },
-    {
-      "title": "国乒无缘中国大满贯混双冠亚军",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E4%B9%92%E6%97%A0%E7%BC%98%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%B7%B7%E5%8F%8C%E5%86%A0%E4%BA%9A%E5%86%9B",
-      "hot_value": "1,027.7万",
+      "hot_value": "1,117.2万",
       "index": 16
     },
     {
-      "title": "26岁白俄罗斯女模特被骗至缅北",
-      "url": "https://www.kuaishou.com/search/video?searchKey=26%E5%B2%81%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B3%E6%A8%A1%E7%89%B9%E8%A2%AB%E9%AA%97%E8%87%B3%E7%BC%85%E5%8C%97",
-      "hot_value": "1,005.9万",
+      "title": "吴奇隆举国旗被台方取消开球资格",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%B4%E5%A5%87%E9%9A%86%E4%B8%BE%E5%9B%BD%E6%97%97%E8%A2%AB%E5%8F%B0%E6%96%B9%E5%8F%96%E6%B6%88%E5%BC%80%E7%90%83%E8%B5%84%E6%A0%BC",
+      "hot_value": "1,075万",
       "index": 17
     },
     {
-      "title": "大乔cos",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E4%B9%94cos",
-      "hot_value": "960.1万",
+      "title": "塞尔维亚总统武契奇辞职",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E6%AD%A6%E5%A5%91%E5%A5%87%E8%BE%9E%E8%81%8C",
+      "hot_value": "1,030.6万",
       "index": 18
     },
     {
-      "title": "15岁女生自创AI漫剧爆火",
-      "url": "https://www.kuaishou.com/search/video?searchKey=15%E5%B2%81%E5%A5%B3%E7%94%9F%E8%87%AA%E5%88%9BAI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB",
-      "hot_value": "954.5万",
+      "title": "巴提巴提摇",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B7%B4%E6%8F%90%E5%B7%B4%E6%8F%90%E6%91%87",
+      "hot_value": "1,028.1万",
       "index": 19
     },
     {
-      "title": "粤J2888T车主展示损坏门把手",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%B2%A4J2888T%E8%BD%A6%E4%B8%BB%E5%B1%95%E7%A4%BA%E6%8D%9F%E5%9D%8F%E9%97%A8%E6%8A%8A%E6%89%8B",
-      "hot_value": "951.5万",
+      "title": "登高赏菊一起向上",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BB%E9%AB%98%E8%B5%8F%E8%8F%8A%E4%B8%80%E8%B5%B7%E5%90%91%E4%B8%8A",
+      "hot_value": "1,026.1万",
       "index": 20
+    },
+    {
+      "title": "黑龙江新一轮冷空气来袭",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%96%B0%E4%B8%80%E8%BD%AE%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD",
+      "hot_value": "1,021.4万",
+      "index": 21
+    },
+    {
+      "title": "缅甸电诈园区如人间炼狱",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%A6%82%E4%BA%BA%E9%97%B4%E7%82%BC%E7%8B%B1",
+      "hot_value": "1,018.5万",
+      "index": 22
+    },
+    {
+      "title": "孙颖莎爆冷止步32强",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%88%86%E5%86%B7%E6%AD%A2%E6%AD%A532%E5%BC%BA",
+      "hot_value": "1,012.9万",
+      "index": 23
     },
     {
       "title": "电诈头目看到中国警察惊讶又嚣张",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B5%E8%AF%88%E5%A4%B4%E7%9B%AE%E7%9C%8B%E5%88%B0%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E6%83%8A%E8%AE%B6%E5%8F%88%E5%9A%A3%E5%BC%A0",
-      "hot_value": "946.8万",
-      "index": 21
-    },
-    {
-      "title": "这下不能时间倒流了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BF%99%E4%B8%8B%E4%B8%8D%E8%83%BD%E6%97%B6%E9%97%B4%E5%80%92%E6%B5%81%E4%BA%86",
-      "hot_value": "944万",
-      "index": 22
-    },
-    {
-      "title": "想了好久还是官宣了",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%83%B3%E4%BA%86%E5%A5%BD%E4%B9%85%E8%BF%98%E6%98%AF%E5%AE%98%E5%AE%A3%E4%BA%86",
-      "hot_value": "941.5万",
-      "index": 23
-    },
-    {
-      "title": "粤J2888T刷新战绩",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%B2%A4J2888T%E5%88%B7%E6%96%B0%E6%88%98%E7%BB%A9",
-      "hot_value": "939.1万",
+      "hot_value": "1,010.4万",
       "index": 24
+    },
+    {
+      "title": "30岁女子确诊老年痴呆",
+      "url": "https://www.kuaishou.com/search/video?searchKey=30%E5%B2%81%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86",
+      "hot_value": "1,008.3万",
+      "index": 25
+    },
+    {
+      "title": "15岁女生自创AI漫剧爆火",
+      "url": "https://www.kuaishou.com/search/video?searchKey=15%E5%B2%81%E5%A5%B3%E7%94%9F%E8%87%AA%E5%88%9BAI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB",
+      "hot_value": "1,003.2万",
+      "index": 26
+    },
+    {
+      "title": "击败孙颖莎的泰国选手发声",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%87%BB%E8%B4%A5%E5%AD%99%E9%A2%96%E8%8E%8E%E7%9A%84%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B%E5%8F%91%E5%A3%B0",
+      "hot_value": "1,000.8万",
+      "index": 27
+    },
+    {
+      "title": "中东战火升级巴土入局",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E4%B8%9C%E6%88%98%E7%81%AB%E5%8D%87%E7%BA%A7%E5%B7%B4%E5%9C%9F%E5%85%A5%E5%B1%80",
+      "hot_value": "998.4万",
+      "index": 28
     },
     {
       "title": "缅北佤邦副总司令落网画面公开",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BC%85%E5%8C%97%E4%BD%A4%E9%82%A6%E5%89%AF%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%90%BD%E7%BD%91%E7%94%BB%E9%9D%A2%E5%85%AC%E5%BC%80",
-      "hot_value": "936.5万",
-      "index": 25
-    },
-    {
-      "title": "孙颖莎坦言身体状况不佳",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9D%A6%E8%A8%80%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E4%B8%8D%E4%BD%B3",
-      "hot_value": "932.1万",
-      "index": 26
-    },
-    {
-      "title": "内蒙古牛奶湖全面排查整改",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%85%E8%92%99%E5%8F%A4%E7%89%9B%E5%A5%B6%E6%B9%96%E5%85%A8%E9%9D%A2%E6%8E%92%E6%9F%A5%E6%95%B4%E6%94%B9",
-      "hot_value": "929.8万",
-      "index": 27
-    },
-    {
-      "title": "今日中国 畅达九州",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%8A%E6%97%A5%E4%B8%AD%E5%9B%BD%20%E7%95%85%E8%BE%BE%E4%B9%9D%E5%B7%9E",
-      "hot_value": "926.8万",
-      "index": 28
-    },
-    {
-      "title": "李玉刚万疆永久免费授权",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E7%8E%89%E5%88%9A%E4%B8%87%E7%96%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E6%8E%88%E6%9D%83",
-      "hot_value": "926.7万",
+      "hot_value": "996.3万",
       "index": 29
     },
     {
-      "title": "缅北刘家诱骗妇女偷渡卖淫",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BC%85%E5%8C%97%E5%88%98%E5%AE%B6%E8%AF%B1%E9%AA%97%E5%A6%87%E5%A5%B3%E5%81%B7%E6%B8%A1%E5%8D%96%E6%B7%AB",
-      "hot_value": "922.1万",
+      "title": "朝鲜称地雷事件系韩方挑衅",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%9D%E9%B2%9C%E7%A7%B0%E5%9C%B0%E9%9B%B7%E4%BA%8B%E4%BB%B6%E7%B3%BB%E9%9F%A9%E6%96%B9%E6%8C%91%E8%A1%85",
+      "hot_value": "994.1万",
       "index": 30
     }
   ]
