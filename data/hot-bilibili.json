@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-08T02:25:40Z",
+  "update_time": "2026-10-08T09:18:02Z",
   "count": 30,
   "list": [
     {
+      "title": "有用版新植物：情敌双发",
+      "url": "https://www.bilibili.com/video/BV1oqHW6DEGi",
+      "hot_value": "2443295播放",
+      "index": 1
+    },
+    {
+      "title": "【男巫ZachKing】2026最佳魔术！",
+      "url": "https://www.bilibili.com/video/BV1BuHC6rEuX",
+      "hot_value": "594228播放",
+      "index": 2
+    },
+    {
+      "title": "矿山上的铜火锅？！特厨来一个沉浸式吃播！",
+      "url": "https://www.bilibili.com/video/BV1S9H26MEAT",
+      "hot_value": "392560播放",
+      "index": 3
+    },
+    {
+      "title": "《我到底要怎么救你》",
+      "url": "https://www.bilibili.com/video/BV1TZH26iEj3",
+      "hot_value": "458843播放",
+      "index": 4
+    },
+    {
+      "title": "【断网补全计划149】太阳之子，闪身步，不烧心，农大科比，雨中霸王龙，超长蛋挞，疯狂水世界，冰冰冰，咕咕嘎嘎小孩，野人先生罗永浩风波，钟薛高复活",
+      "url": "https://www.bilibili.com/video/BV1Yapc6SEZ5",
+      "hot_value": "735270播放",
+      "index": 5
+    },
+    {
+      "title": "⚡️黄仁勋 世界巡演⚡️【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1VRHr6AEZ6",
+      "hot_value": "3338186播放",
+      "index": 6
+    },
+    {
+      "title": "《原神》过场动画-「生与死的流速」",
+      "url": "https://www.bilibili.com/video/BV1rgap62Ez5",
+      "hot_value": "299432播放",
+      "index": 7
+    },
+    {
+      "title": "《人类的沟通根本不需要语言》",
+      "url": "https://www.bilibili.com/video/BV1USHk6sEwY",
+      "hot_value": "1368494播放",
+      "index": 8
+    },
+    {
       "title": "在大山支教 学校宿舍水太小又冷，已经半个月没洗澡了，扛不住了抓住假期的尾巴出山进城开房洗澡 买菜 拿物资..",
       "url": "https://www.bilibili.com/video/BV1aWHC6wEP5",
-      "hot_value": "511509播放",
-      "index": 1
+      "hot_value": "939247播放",
+      "index": 9
+    },
+    {
+      "title": "【剧情】长生契（2026）20【方逸伦 / 谢可寅】",
+      "url": "https://www.bilibili.com/video/BV13Dem6VEp5",
+      "hot_value": "510567播放",
+      "index": 10
+    },
+    {
+      "title": "浑身是刺只是保护壳，内心温柔才是真正的优雅。高分电影《刺猬的优雅》",
+      "url": "https://www.bilibili.com/video/BV1JFaU6JEiu",
+      "hot_value": "246271播放",
+      "index": 11
     },
     {
       "title": "【春物语】我的婚后生活果然有问题 第3话：雪之下雪乃说，要做就正式地做。",
       "url": "https://www.bilibili.com/video/BV1f5pM65EE6",
-      "hot_value": "419074播放",
-      "index": 2
-    },
-    {
-      "title": "莫言的同学，《水浒传》编剧，竟是灭门案凶手？万字解析《悬案：旅馆案》上",
-      "url": "https://www.bilibili.com/video/BV1CXH66yECC",
-      "hot_value": "557103播放",
-      "index": 3
-    },
-    {
-      "title": "【完整版】纪录片《缅北电诈覆灭纪实》第三集《共筑天网》",
-      "url": "https://www.bilibili.com/video/BV1EDHC6CEDJ",
-      "hot_value": "418800播放",
-      "index": 4
-    },
-    {
-      "title": "吃了不烧心是什么梗【梗指南】",
-      "url": "https://www.bilibili.com/video/BV1N2pc6gErK",
-      "hot_value": "1299158播放",
-      "index": 5
-    },
-    {
-      "title": "⚡️如来 三界巡演⚡️【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV1v2Ht6cERH",
-      "hot_value": "1369013播放",
-      "index": 6
-    },
-    {
-      "title": "完美谢幕！39岁梅西👑 1球2助结束21年蓝白生涯 阿根廷3比0贝宁",
-      "url": "https://www.bilibili.com/video/BV1aupu6qEXc",
-      "hot_value": "342280播放",
-      "index": 7
-    },
-    {
-      "title": "反向旅游 陕西铜川！这次我要把铜川拍透…",
-      "url": "https://www.bilibili.com/video/BV1QuHx6mE4e",
-      "hot_value": "2437250播放",
-      "index": 8
-    },
-    {
-      "title": "【科学史】那些年，科学家用光遗传做的鬼畜实验……",
-      "url": "https://www.bilibili.com/video/BV1aMpu6MEdc",
-      "hot_value": "615825播放",
-      "index": 9
-    },
-    {
-      "title": "对面牢玩家一整局都在偷塔，怎么把我的活干了",
-      "url": "https://www.bilibili.com/video/BV1aSHZ66ErJ",
-      "hot_value": "910989播放",
-      "index": 10
-    },
-    {
-      "title": "泰森已经打不过他了 叫泰罗来吧",
-      "url": "https://www.bilibili.com/video/BV1nVao6kEas",
-      "hot_value": "832433播放",
-      "index": 11
-    },
-    {
-      "title": "【春物语】我的婚后生活果然有问题 第2话：兼任讲师的“青春论”，果然没人当真。",
-      "url": "https://www.bilibili.com/video/BV1W3pc6PEht",
-      "hot_value": "575918播放",
+      "hot_value": "651155播放",
       "index": 12
     },
     {
       "title": "带三个姑娘相亲，现场真炸裂，这就是乡村爱情故事吗？",
       "url": "https://www.bilibili.com/video/BV1ZfHs6sEHf",
-      "hot_value": "1549546播放",
+      "hot_value": "1815098播放",
       "index": 13
     },
     {
-      "title": "降息没用加息失败，日本彻底“货币战败”，是咋回事？",
-      "url": "https://www.bilibili.com/video/BV1uYpM6AEa1",
-      "hot_value": "357609播放",
+      "title": "【完整版】纪录片《缅北电诈覆灭纪实》第三集《共筑天网》",
+      "url": "https://www.bilibili.com/video/BV1EDHC6CEDJ",
+      "hot_value": "649250播放",
       "index": 14
     },
     {
-      "title": "“幸好你玩游戏，明白这个视频的意义。”",
-      "url": "https://www.bilibili.com/video/BV1S1HJ6fE1G",
-      "hot_value": "1209225播放",
+      "title": "【我在现代当幽差】：赶着去投胎啊！！！！【UP动画】",
+      "url": "https://www.bilibili.com/video/BV1VRpw69E6V",
+      "hot_value": "1107524播放",
       "index": 15
     },
     {
-      "title": "史蒂夫 单人JT8-3 ?!",
-      "url": "https://www.bilibili.com/video/BV1FKpP6NEcu",
-      "hot_value": "490517播放",
+      "title": "带班主任体验黄毛的一天",
+      "url": "https://www.bilibili.com/video/BV1X6Hk6hE8v",
+      "hot_value": "468344播放",
       "index": 16
-    },
-    {
-      "title": "花1150元网购80斤无人认领盲盒，商家保证血赚不亏，真的吗",
-      "url": "https://www.bilibili.com/video/BV1dApF6SE7s",
-      "hot_value": "943546播放",
-      "index": 17
-    },
-    {
-      "title": "3台尊界V800  刹车踏板支架断裂",
-      "url": "https://www.bilibili.com/video/BV1XXHU62EHm",
-      "hot_value": "66608播放",
-      "index": 18
-    },
-    {
-      "title": "当道士下山上大学",
-      "url": "https://www.bilibili.com/video/BV17Kpw64EMX",
-      "hot_value": "1997892播放",
-      "index": 19
-    },
-    {
-      "title": "《要是我能快点长大就好了》",
-      "url": "https://www.bilibili.com/video/BV1x1Hf6AE5V",
-      "hot_value": "584256播放",
-      "index": 20
-    },
-    {
-      "title": "一次心跳的0.8秒",
-      "url": "https://www.bilibili.com/video/BV1V3Hz6REAG",
-      "hot_value": "412283播放",
-      "index": 21
-    },
-    {
-      "title": "【哥布林故事总集篇】愿你也能像哥布林一样，开启逆袭翻盘的旅途",
-      "url": "https://www.bilibili.com/video/BV1fnHL68EPT",
-      "hot_value": "2218793播放",
-      "index": 22
-    },
-    {
-      "title": "【数据删除】54名干员慨然赴死，以遗志刺破停滞的时间——《k-96时停对策雷》",
-      "url": "https://www.bilibili.com/video/BV1Zypw68EaG",
-      "hot_value": "598644播放",
-      "index": 23
-    },
-    {
-      "title": "⚡️黄仁勋 世界巡演⚡️【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV1VRHr6AEZ6",
-      "hot_value": "2998312播放",
-      "index": 24
     },
     {
       "title": "耗时一年，改造善良老人晚年，完整后续来了！",
       "url": "https://www.bilibili.com/video/BV1pMH46MEmw",
-      "hot_value": "776400播放",
+      "hot_value": "900070播放",
+      "index": 17
+    },
+    {
+      "title": "【EPL表演赛】当CS的最强教练们再次进入服务器",
+      "url": "https://www.bilibili.com/video/BV1PxH26tENo",
+      "hot_value": "353346播放",
+      "index": 18
+    },
+    {
+      "title": "对面牢玩家一整局都在偷塔，怎么把我的活干了",
+      "url": "https://www.bilibili.com/video/BV1aSHZ66ErJ",
+      "hot_value": "1105401播放",
+      "index": 19
+    },
+    {
+      "title": "吃了不烧心是什么梗【梗指南】",
+      "url": "https://www.bilibili.com/video/BV1N2pc6gErK",
+      "hot_value": "1525644播放",
+      "index": 20
+    },
+    {
+      "title": "感觉不到我能赢的情况下，我是绝对不会发力的",
+      "url": "https://www.bilibili.com/video/BV11dHk6nEyr",
+      "hot_value": "311341播放",
+      "index": 21
+    },
+    {
+      "title": "第二次来美国，活下去",
+      "url": "https://www.bilibili.com/video/BV12qpM6bE9w",
+      "hot_value": "899983播放",
+      "index": 22
+    },
+    {
+      "title": "人生最残忍的从来不是离别，而是等待！",
+      "url": "https://www.bilibili.com/video/BV1CTam6REv7",
+      "hot_value": "608331播放",
+      "index": 23
+    },
+    {
+      "title": "从未见过如此「好笑」之人丨丞相还挺忙·于洋",
+      "url": "https://www.bilibili.com/video/BV1j4af6rEN7",
+      "hot_value": "123977播放",
+      "index": 24
+    },
+    {
+      "title": "国庆快乐！和李玉刚老师合唱一首《万疆》",
+      "url": "https://www.bilibili.com/video/BV1eEHC6vEC2",
+      "hot_value": "135424播放",
       "index": 25
     },
     {
-      "title": "旧秩序正在失灵，今日的中国该如何迎接新秩序？丨中国坐标",
-      "url": "https://www.bilibili.com/video/BV1Wxpu6dEk5",
-      "hot_value": "442080播放",
+      "title": "⚡️如来 三界巡演⚡️【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1v2Ht6cERH",
+      "hot_value": "1665210播放",
       "index": 26
     },
     {
-      "title": "克莱门莎的输出数值有多高？【明日方舟】",
-      "url": "https://www.bilibili.com/video/BV1Vhpc6nEdL",
-      "hot_value": "647739播放",
+      "title": "“幸好你玩游戏，明白这个视频的意义。”",
+      "url": "https://www.bilibili.com/video/BV1S1HJ6fE1G",
+      "hot_value": "1334311播放",
       "index": 27
     },
     {
-      "title": "我锻造了一把39亿的绝世宝剑！",
-      "url": "https://www.bilibili.com/video/BV1xupA6VEGc",
-      "hot_value": "406686播放",
+      "title": "莫言的同学，《水浒传》编剧，竟是灭门案凶手？万字解析《悬案：旅馆案》上",
+      "url": "https://www.bilibili.com/video/BV1CXH66yECC",
+      "hot_value": "747634播放",
       "index": 28
     },
     {
-      "title": "烧 心 大 赛 ！【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1xNH46gEkv",
-      "hot_value": "3340911播放",
+      "title": "动态视频｜把硬币丢进杯子里赢得10000元！",
+      "url": "https://www.bilibili.com/video/BV175Hp6mE6c",
+      "hot_value": "1580726播放",
       "index": 29
     },
     {
-      "title": "老师太显小",
-      "url": "https://www.bilibili.com/video/BV1xaHC6dE98",
-      "hot_value": "446875播放",
+      "title": "《要是我能快点长大就好了》",
+      "url": "https://www.bilibili.com/video/BV1x1Hf6AE5V",
+      "hot_value": "742729播放",
       "index": 30
     }
   ]
