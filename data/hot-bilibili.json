@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-10T00:11:18Z",
+  "update_time": "2026-10-10T06:10:26Z",
   "count": 30,
   "list": [
     {
-      "title": "极极极极，极限战场👉🏻首曝极首测，所见极所玩",
-      "url": "https://www.bilibili.com/video/BV1PTHS6MEC5",
-      "hot_value": "5662077播放",
+      "title": "【独家】《凡人修仙传之慕兰之战》第19集【总第195集】",
+      "url": "https://www.bilibili.com/video/BV1JLpY6DEWU",
+      "hot_value": "2047440播放",
       "index": 1
     },
     {
-      "title": "2026英雄联盟全球总决赛主题曲《KNOW MY NAME》（以我之名）",
-      "url": "https://www.bilibili.com/video/BV1DRHU6LELy",
-      "hot_value": "3121852播放",
+      "title": "《原神》过场动画-「遗赠」",
+      "url": "https://www.bilibili.com/video/BV1pTap6UE1w",
+      "hot_value": "177668播放",
       "index": 2
+    },
+    {
+      "title": "极极极极，极限战场👉🏻首曝极首测，所见极所玩",
+      "url": "https://www.bilibili.com/video/BV1PTHS6MEC5",
+      "hot_value": "6558466播放",
+      "index": 3
+    },
+    {
+      "title": "螃蟹蒸出来的白色固体是螃蟹血？原来这些动物的血都不是红色的！【主播说三农】",
+      "url": "https://www.bilibili.com/video/BV1Rcp86YE8k",
+      "hot_value": "737099播放",
+      "index": 4
+    },
+    {
+      "title": "从什么时候开始，报喜不报忧成了本能？｜暗叫 - きくお",
+      "url": "https://www.bilibili.com/video/BV1hxHR68E24",
+      "hot_value": "245409播放",
+      "index": 5
     },
     {
       "title": "影视飓风的直升机？怪东西分享9.0",
       "url": "https://www.bilibili.com/video/BV1gHps6yEHL",
-      "hot_value": "710535播放",
-      "index": 3
-    },
-    {
-      "title": "三年之期已到，恭迎世一上归位！【第13集】",
-      "url": "https://www.bilibili.com/video/BV12gpt6UER4",
-      "hot_value": "776474播放",
-      "index": 4
-    },
-    {
-      "title": "法国最近太烧心了",
-      "url": "https://www.bilibili.com/video/BV1gTHd6aE5e",
-      "hot_value": "1200418播放",
-      "index": 5
-    },
-    {
-      "title": "《绝区零》3.3版本PV | 重返天空的旅程",
-      "url": "https://www.bilibili.com/video/BV1rAp46vEaB",
-      "hot_value": "484508播放",
+      "hot_value": "1034996播放",
       "index": 6
     },
     {
-      "title": "史上最大现金收购案 富二代如何正确拼爹",
-      "url": "https://www.bilibili.com/video/BV1FCps68EGf",
-      "hot_value": "415917播放",
+      "title": "3个月怒花100万洗出80红神装！终于霸服咸鱼之王！",
+      "url": "https://www.bilibili.com/video/BV1dNpe6jEAq",
+      "hot_value": "100326播放",
       "index": 7
     },
     {
-      "title": "全网首发《银松镇》正式版 高质量生化危机+寂静岭风格恐怖游戏 全收集 全结局",
-      "url": "https://www.bilibili.com/video/BV1fkHD6wEXt",
-      "hot_value": "653698播放",
+      "title": "donk变态级英雄AK满血五杀猎鹰，下哭了。。。",
+      "url": "https://www.bilibili.com/video/BV11KpY6oEP9",
+      "hot_value": "310467播放",
       "index": 8
-    },
-    {
-      "title": "【手术TV】先生！我知道这很荒诞，但人还得往前看......",
-      "url": "https://www.bilibili.com/video/BV1Xdps6nEhe",
-      "hot_value": "612027播放",
-      "index": 9
-    },
-    {
-      "title": "《原神》过场动画-「『死』，从不讲道理」",
-      "url": "https://www.bilibili.com/video/BV1zLap6VEz1",
-      "hot_value": "578451播放",
-      "index": 10
-    },
-    {
-      "title": "“我穿越成了一棵树。”",
-      "url": "https://www.bilibili.com/video/BV1qsHQ6YEs4",
-      "hot_value": "883777播放",
-      "index": 11
-    },
-    {
-      "title": "【新宿决战】皮特VS鸡哥",
-      "url": "https://www.bilibili.com/video/BV1CLHQ6zEHC",
-      "hot_value": "977376播放",
-      "index": 12
-    },
-    {
-      "title": "《柯洁围棋入门课2:切断和连接》",
-      "url": "https://www.bilibili.com/video/BV1qMp46wE1n",
-      "hot_value": "368550播放",
-      "index": 13
-    },
-    {
-      "title": "一起生！一起熟！猕猴桃为啥这么团结？猕猴桃园结义了吗？【主播说三农】",
-      "url": "https://www.bilibili.com/video/BV1Y6H96cEkz",
-      "hot_value": "930610播放",
-      "index": 14
     },
     {
       "title": "雨哥到处跑新车曝光！居然是……",
       "url": "https://www.bilibili.com/video/BV13Apt6sEhK",
-      "hot_value": "331820播放",
+      "hot_value": "514173播放",
+      "index": 9
+    },
+    {
+      "title": "【纪录片】威尔史密斯的极地纵横 02 深入亚马逊丛林",
+      "url": "https://www.bilibili.com/video/BV1wUao6UEp9",
+      "hot_value": "516703播放",
+      "index": 10
+    },
+    {
+      "title": "动态视频｜一根头发认亲？亲子鉴定是怎么做的？",
+      "url": "https://www.bilibili.com/video/BV1ffpY6nEZR",
+      "hot_value": "165796播放",
+      "index": 11
+    },
+    {
+      "title": "讨伐型人格大合集",
+      "url": "https://www.bilibili.com/video/BV1rSpM6nEtm",
+      "hot_value": "412243播放",
+      "index": 12
+    },
+    {
+      "title": "【2026·双11电脑配置推荐】爆肝2万字！不恰饭！教你性价比装机，2000~3W预算22套性价比电脑配置，全实拍实测，小白不踩坑，建议收藏！",
+      "url": "https://www.bilibili.com/video/BV1uNpx6LE39",
+      "hot_value": "499344播放",
+      "index": 13
+    },
+    {
+      "title": "【手术TV】先生！我知道这很荒诞，但人还得往前看......",
+      "url": "https://www.bilibili.com/video/BV1Xdps6nEhe",
+      "hot_value": "1120460播放",
+      "index": 14
+    },
+    {
+      "title": "大学讲GalGame这一块",
+      "url": "https://www.bilibili.com/video/BV1vWHm6mEmF",
+      "hot_value": "561678播放",
       "index": 15
     },
     {
-      "title": "【昨日海】YW-1至YW-8 摆完挂机 简单好抄",
-      "url": "https://www.bilibili.com/video/BV1DHps6yELs",
-      "hot_value": "739794播放",
+      "title": "四大家族覆灭后，纪录片之外的电诈如何了？",
+      "url": "https://www.bilibili.com/video/BV1bmpt6WEUR",
+      "hot_value": "453166播放",
       "index": 16
     },
     {
-      "title": "【WHAT IF/虫琴】当彼得带琴见钢铁侠⚡️⚡️⚡️",
-      "url": "https://www.bilibili.com/video/BV1r5HS6aEMA",
-      "hot_value": "536570播放",
+      "title": "《柯洁围棋入门课2:切断和连接》",
+      "url": "https://www.bilibili.com/video/BV1qMp46wE1n",
+      "hot_value": "608665播放",
       "index": 17
     },
     {
-      "title": "【颠覆】我用AI魔改周星驰电影宇宙  【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1akH96fEaW",
-      "hot_value": "298336播放",
+      "title": "《绝区零》3.3版本PV | 重返天空的旅程",
+      "url": "https://www.bilibili.com/video/BV1rAp46vEaB",
+      "hot_value": "637135播放",
       "index": 18
     },
     {
-      "title": "《绝区零》3.3版本「重返天空的旅程」前瞻特别节目",
-      "url": "https://www.bilibili.com/video/BV1h4pb6oEWC",
-      "hot_value": "508926播放",
+      "title": "法国最近太烧心了",
+      "url": "https://www.bilibili.com/video/BV1gTHd6aE5e",
+      "hot_value": "1451887播放",
       "index": 19
-    },
-    {
-      "title": "男子放生清道夫引热议，这鱼为何非灭不可？再遇本土大鱼的开心",
-      "url": "https://www.bilibili.com/video/BV1DXaG6TETt",
-      "hot_value": "1509214播放",
-      "index": 20
-    },
-    {
-      "title": "水结冰要膨胀，如果阻止它膨胀会怎么样？",
-      "url": "https://www.bilibili.com/video/BV1HRHS6NEPn",
-      "hot_value": "949962播放",
-      "index": 21
-    },
-    {
-      "title": "西班牙住房危机大爆发，桑切斯掀桌提前大选",
-      "url": "https://www.bilibili.com/video/BV1svp46CEbA",
-      "hot_value": "388440播放",
-      "index": 22
-    },
-    {
-      "title": "嘘声一片：委内瑞拉感谢美国，以色列送伊朗星链——联大一般性辩论02",
-      "url": "https://www.bilibili.com/video/BV1wrp46zERC",
-      "hot_value": "287854播放",
-      "index": 23
-    },
-    {
-      "title": "赌上 1500 公里路程｜世界最窄酒店，真的能住人吗？",
-      "url": "https://www.bilibili.com/video/BV1z7HS68EKy",
-      "hot_value": "1594947播放",
-      "index": 24
-    },
-    {
-      "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
-      "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
-      "hot_value": "247625播放",
-      "index": 25
     },
     {
       "title": "【大鸣王潮1566】岁主帮岁共",
       "url": "https://www.bilibili.com/video/BV1Jupb6uEXY",
-      "hot_value": "230945播放",
+      "hot_value": "425772播放",
+      "index": 20
+    },
+    {
+      "title": "爬完直上坡到林芝，心里只剩一句“想回家”",
+      "url": "https://www.bilibili.com/video/BV1c9pY6REZP",
+      "hot_value": "76228播放",
+      "index": 21
+    },
+    {
+      "title": "4个牢玩家队友，不压分也评分第五",
+      "url": "https://www.bilibili.com/video/BV17HpY62EqR",
+      "hot_value": "232344播放",
+      "index": 22
+    },
+    {
+      "title": "【春物语】我的婚后生活果然有问题 第4话：小町的嫂子分数，加上前社长的经验。",
+      "url": "https://www.bilibili.com/video/BV1qkpa6VENV",
+      "hot_value": "142090播放",
+      "index": 23
+    },
+    {
+      "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+      "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
+      "hot_value": "370149播放",
+      "index": 24
+    },
+    {
+      "title": "对话孙宇晨：年轻人如何抓住AI时代的机会？",
+      "url": "https://www.bilibili.com/video/BV1fcHD6cEw3",
+      "hot_value": "48097播放",
+      "index": 25
+    },
+    {
+      "title": "S16MV讲了什么？来点细节彩蛋分析！",
+      "url": "https://www.bilibili.com/video/BV1Yyp86PEAp",
+      "hot_value": "308529播放",
       "index": 26
     },
     {
-      "title": "你碗里的饭，怎么会被一块黄色石头牵着走？",
-      "url": "https://www.bilibili.com/video/BV1swpM6WEYj",
-      "hot_value": "1301599播放",
+      "title": "嘘声一片：委内瑞拉感谢美国，以色列送伊朗星链——联大一般性辩论02",
+      "url": "https://www.bilibili.com/video/BV1wrp46zERC",
+      "hot_value": "500787播放",
       "index": 27
     },
     {
-      "title": "我还没开始发力呢，机制就已经先发力了",
-      "url": "https://www.bilibili.com/video/BV1GgHU6jE12",
-      "hot_value": "527013播放",
+      "title": "史上最大现金收购案 富二代如何正确拼爹",
+      "url": "https://www.bilibili.com/video/BV1FCps68EGf",
+      "hot_value": "640063播放",
       "index": 28
     },
     {
-      "title": "【男巫ZachKing】2026最佳魔术！",
-      "url": "https://www.bilibili.com/video/BV1BuHC6rEuX",
-      "hot_value": "2065931播放",
+      "title": "【明日方舟】克莱门莎实战测评：实力为超大杯上！当之无愧的近卫第一！强烈推荐抽取！",
+      "url": "https://www.bilibili.com/video/BV1r3ph61EFq",
+      "hot_value": "353750播放",
       "index": 29
     },
     {
-      "title": "自己喂的猪，才有这个家乡味，这大油，这肥膘，这颜色",
-      "url": "https://www.bilibili.com/video/BV1XWpM6MECx",
-      "hot_value": "1528299播放",
+      "title": "【颠覆】我用AI魔改周星驰电影宇宙  【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1akH96fEaW",
+      "hot_value": "471022播放",
       "index": 30
     }
   ]
