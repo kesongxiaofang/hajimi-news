@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-11T13:14:29Z",
+  "update_time": "2026-10-11T18:15:25Z",
   "count": 30,
   "list": [
     {
-      "title": "沙特利雅得机场遭袭，造成 12 人死亡 309 人受伤，哪些信息值得关注？对中东局势有何影响？",
-      "url": "https://www.zhihu.com/question/2092513467722719411",
-      "hot_value": "1811 万热度",
+      "title": "中网女单决赛，郑钦文 2-0 战胜安德列娃夺得冠军，如何评价本场比赛以及她的亮眼表现？",
+      "url": "https://www.zhihu.com/question/2092635424363476073",
+      "hot_value": "1389 万热度",
       "index": 1
-    },
-    {
-      "title": "大二专科生自述靠切片三年赚七百万，直播切片究竟是怎么赚钱的？这种赚钱模式能复制吗？",
-      "url": "https://www.zhihu.com/question/2092562681433514181",
-      "hot_value": "922 万热度",
-      "index": 2
     },
     {
       "title": "为什么五子棋始终没有发展起来？",
       "url": "https://www.zhihu.com/question/284634562",
-      "hot_value": "474 万热度",
+      "hot_value": "428 万热度",
+      "index": 2
+    },
+    {
+      "title": "大二专科生自述靠切片三年赚七百万，直播切片究竟是怎么赚钱的？这种赚钱模式能复制吗？",
+      "url": "https://www.zhihu.com/question/2092562681433514181",
+      "hot_value": "348 万热度",
       "index": 3
     },
     {
-      "title": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？",
-      "url": "https://www.zhihu.com/question/2092203524230754555",
-      "hot_value": "347 万热度",
+      "title": "为什么大部分医院的院长副院长都是心外科胸外科上任的？",
+      "url": "https://www.zhihu.com/question/1904336392173093128",
+      "hot_value": "234 万热度",
       "index": 4
+    },
+    {
+      "title": "沙特利雅得机场遭袭，造成 12 人死亡 309 人受伤，哪些信息值得关注？对中东局势有何影响？",
+      "url": "https://www.zhihu.com/question/2092513467722719411",
+      "hot_value": "199 万热度",
+      "index": 5
     },
     {
       "title": "岸本齐史的全新漫画《火影忍者：暗影崛起》正式公布，对此你有哪些期待？",
       "url": "https://www.zhihu.com/question/2092554410895171870",
-      "hot_value": "317 万热度",
-      "index": 5
+      "hot_value": "197 万热度",
+      "index": 6
     },
     {
-      "title": "WTT 中国大满贯女单决赛，王曼昱 4-0 佐藤瞳成功卫冕，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2092634676540039677",
-      "hot_value": "298 万热度",
-      "index": 6
+      "title": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？",
+      "url": "https://www.zhihu.com/question/2092203524230754555",
+      "hot_value": "183 万热度",
+      "index": 7
+    },
+    {
+      "title": "广东 5 人吃野生红尾鲤确诊哈夫病，这种病是如何引发的？日常吃鱼该怎样防范？",
+      "url": "https://www.zhihu.com/question/2091593487581975365",
+      "hot_value": "161 万热度",
+      "index": 8
+    },
+    {
+      "title": "我国验证出一种全新抗癌疗法，一针纳米材料打进肿瘤可让癌细胞生锈死亡，原理是什么？这一成果具有哪些意义？",
+      "url": "https://www.zhihu.com/question/2092387652544589909",
+      "hot_value": "147 万热度",
+      "index": 9
     },
     {
       "title": "深圳中小学将迎春秋假且不调休，会对双职工家庭带来哪些影响？",
       "url": "https://www.zhihu.com/question/2092006267560649453",
-      "hot_value": "219 万热度",
-      "index": 7
-    },
-    {
-      "title": "中超第 27 轮，成都蓉城 0-1 天津津门虎，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2092337410356896927",
-      "hot_value": "116 万热度",
-      "index": 8
-    },
-    {
-      "title": "《血观音》棠夫人如果放弃对权力的钻营，守着棠将军的遗产和棠宁棠真过日子，能过得下去吗？",
-      "url": "https://www.zhihu.com/question/2087917395851723033",
-      "hot_value": "109 万热度",
-      "index": 9
-    },
-    {
-      "title": "杨过童年在桃花岛受尽折磨，为什么还是喜欢回忆那个时候的事物，而且心情还不错？",
-      "url": "https://www.zhihu.com/question/2091863659819620081",
-      "hot_value": "106 万热度",
+      "hot_value": "146 万热度",
       "index": 10
     },
     {
       "title": "因长期辱骂江秋莲被判道歉 + 赔付，网红黄建生公开发文向江秋莲道歉，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2092373331072612285",
-      "hot_value": "105 万热度",
+      "hot_value": "145 万热度",
       "index": 11
     },
     {
-      "title": "广东 5 人吃野生红尾鲤确诊哈夫病，这种病是如何引发的？日常吃鱼该怎样防范？",
-      "url": "https://www.zhihu.com/question/2091593487581975365",
-      "hot_value": "105 万热度",
+      "title": "第四届衢州烂柯杯世界围棋公开赛，韩国申真谞、申旻埈、卞相壹、李志贤包揽四强，如何看待这一结果？",
+      "url": "https://www.zhihu.com/question/2092304359237406726",
+      "hot_value": "144 万热度",
       "index": 12
     },
     {
       "title": "OpenAI 发布 175 页四维挂谷猜想证明稿，这意味着什么？",
       "url": "https://www.zhihu.com/question/2092197283857175132",
-      "hot_value": "101 万热度",
+      "hot_value": "138 万热度",
       "index": 13
     },
     {
-      "title": "第四届衢州烂柯杯世界围棋公开赛，韩国申真谞、申旻埈、卞相壹、李志贤包揽四强，如何看待这一结果？",
-      "url": "https://www.zhihu.com/question/2092304359237406726",
-      "hot_value": "97 万热度",
+      "title": "为什么喝酒喝到微醺会让人感到快乐？",
+      "url": "https://www.zhihu.com/question/614889347",
+      "hot_value": "131 万热度",
       "index": 14
     },
     {
       "title": "WTT 中国大满贯赛，男世一松岛辉空 4-3 林昀儒夺冠，怎么评价本场比赛以及 19 岁松岛辉空的上升势头？",
       "url": "https://www.zhihu.com/question/2092697880695928022",
-      "hot_value": "93 万热度",
+      "hot_value": "118 万热度",
       "index": 15
     },
     {
       "title": "人社部提出「通过政策优化、数据找人等措施，力争基本养老保险参保率稳定在 95% 以上」，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2092332439364489582",
-      "hot_value": "91 万热度",
+      "hot_value": "111 万热度",
       "index": 16
     },
     {
-      "title": "红果短剧为何让人着迷？",
-      "url": "https://www.zhihu.com/question/2081873980173174282",
-      "hot_value": "89 万热度",
+      "title": "女子 3 个月对盒马 399 件商品申请仅退款，快递员取件退还吃剩的，涉嫌诈骗罪被采取刑事强制，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2092372203266487423",
+      "hot_value": "104 万热度",
       "index": 17
     },
     {
       "title": "史上最大退休潮来了，未来 14 年，平均每天 6 万人退休 ​，养老金体系该如何应对？",
       "url": "https://www.zhihu.com/question/2092187029413090572",
-      "hot_value": "87 万热度",
+      "hot_value": "98 万热度",
       "index": 18
     },
     {
-      "title": "为什么一些骑公路车的人和骑山地车的人互相看不起？",
-      "url": "https://www.zhihu.com/question/619682177",
-      "hot_value": "85 万热度",
+      "title": "ai 现在发展到什么程度了？",
+      "url": "https://www.zhihu.com/question/2076955434141873261",
+      "hot_value": "91 万热度",
       "index": 19
     },
     {
-      "title": "为什么苏轼说平生功业在黄州、惠州、儋州？",
-      "url": "https://www.zhihu.com/question/8594675598",
-      "hot_value": "82 万热度",
+      "title": "红果短剧为何让人着迷？",
+      "url": "https://www.zhihu.com/question/2081873980173174282",
+      "hot_value": "91 万热度",
       "index": 20
     },
     {
       "title": "如何看待四川巴中 12345 被指拖欠员工工资，工作人员称欠薪问题已在解决，常拖欠不属实，暴露了哪些问题？",
       "url": "https://www.zhihu.com/question/2091593011432010382",
-      "hot_value": "79 万热度",
+      "hot_value": "66 万热度",
       "index": 21
-    },
-    {
-      "title": "网上很多人鼓吹 agent 有前途，但 agent 开发会不会被 agent 本身取代？",
-      "url": "https://www.zhihu.com/question/2091291972199883979",
-      "hot_value": "76 万热度",
-      "index": 22
-    },
-    {
-      "title": "职场中，「情绪稳定」 应不应该被当作核心能力？",
-      "url": "https://www.zhihu.com/question/2023663009201923518",
-      "hot_value": "74 万热度",
-      "index": 23
     },
     {
       "title": "为什么感觉 gpt6 反而不好用了？",
       "url": "https://www.zhihu.com/question/2079863733422142709",
-      "hot_value": "73 万热度",
+      "hot_value": "59 万热度",
+      "index": 22
+    },
+    {
+      "title": "《天国：拯救》主创说玩家厌倦了「天选之人」，可如果真让亨利当个普通人，玩家能接受不特别的主角吗？",
+      "url": "https://www.zhihu.com/question/2090584961963378643",
+      "hot_value": "56 万热度",
+      "index": 23
+    },
+    {
+      "title": "《三体》3 中褚岩摧毁水滴后为什么直接广播，而不是尝试再次建立威慑？",
+      "url": "https://www.zhihu.com/question/2075269578842816645",
+      "hot_value": "56 万热度",
       "index": 24
     },
     {
-      "title": "国足新生代有复苏迹象，中国足球能焕发第二春吗？闯进 2030 世界杯舞台？",
-      "url": "https://www.zhihu.com/question/2075906663240970315",
-      "hot_value": "72 万热度",
+      "title": "刘欢是怎么做到一天音乐学院都没上过，就能在音乐方面有这么大的造诣的？",
+      "url": "https://www.zhihu.com/question/2090980380291736782",
+      "hot_value": "56 万热度",
       "index": 25
     },
     {
       "title": "多车企扎堆发布猛踩刹车视频，会倒逼行业提高安全冗余标准吗？",
       "url": "https://www.zhihu.com/question/2092302606202946517",
-      "hot_value": "59 万热度",
+      "hot_value": "56 万热度",
       "index": 26
-    },
-    {
-      "title": "女子称 38 元买榴莲，切开后发现里面都是假果肉，还塞着年糕和土豆，是真的吗？可以怎样维权？",
-      "url": "https://www.zhihu.com/question/2092234755576001604",
-      "hot_value": "58 万热度",
-      "index": 27
-    },
-    {
-      "title": "有人说「很多过来人觉得一些事无足轻重，不是因为更成熟而是因为脱离那个环境了」，你怎么看这种说法？",
-      "url": "https://www.zhihu.com/question/2086847201523627947",
-      "hot_value": "57 万热度",
-      "index": 28
     },
     {
       "title": "为什么不把香港元朗、屯门、北区划到深圳，既能帮助香港开发荒地，又能解决深圳的用地不足问题？",
       "url": "https://www.zhihu.com/question/2049776403307029645",
-      "hot_value": "57 万热度",
+      "hot_value": "56 万热度",
+      "index": 27
+    },
+    {
+      "title": "为什么很多人买新能源车之前很兴奋，开了一年后却开始怀念燃油车？",
+      "url": "https://www.zhihu.com/question/2086594998665999640",
+      "hot_value": "56 万热度",
+      "index": 28
+    },
+    {
+      "title": "有什么可以平替梁灿彬微分几何与广义相对论的书吗？",
+      "url": "https://www.zhihu.com/question/2022298794440533518",
+      "hot_value": "56 万热度",
       "index": 29
     },
     {
       "title": "《空之轨迹 2nd》里艾丝蒂尔这种天然呆放现实职场，你会觉得她是真性情还是情商低？",
       "url": "https://www.zhihu.com/question/2083962505064355419",
-      "hot_value": "57 万热度",
+      "hot_value": "56 万热度",
       "index": 30
     }
   ]
