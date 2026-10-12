@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-12T01:30:12Z",
+  "update_time": "2026-10-12T08:30:16Z",
   "count": 30,
   "list": [
     {
-      "title": "逃离闪电侠黄金费德熊！你好邻居Mod",
-      "url": "https://www.bilibili.com/video/BV1QmpE6aEA7",
-      "hot_value": "723192播放",
-      "index": 1
-    },
-    {
-      "title": "【邓肯】新发恐怖事件！女企业家被儿子雇人送入老年护理中心丨诡异的五亿高中生坠楼谜案！",
-      "url": "https://www.bilibili.com/video/BV1wAp76yEu1",
-      "hot_value": "1348562播放",
-      "index": 2
-    },
-    {
-      "title": "如何看待中国和巴西网友激情对线互开左籍？",
-      "url": "https://www.bilibili.com/video/BV1Uopn6PEcf",
-      "hot_value": "388308播放",
-      "index": 3
-    },
-    {
-      "title": "【独家】牧神记 第104集 龙王有请",
-      "url": "https://www.bilibili.com/video/BV1P2pY68EDr",
-      "hot_value": "2012459播放",
-      "index": 4
-    },
-    {
       "title": "我们来到了地中海，重走《奥德赛》十年回家路！",
       "url": "https://www.bilibili.com/video/BV1mopE6xEqv",
-      "hot_value": "754994播放",
-      "index": 5
-    },
-    {
-      "title": "“上大学该谈个女朋友了”。我呀？我去谈恋爱啊？！那无敌了……",
-      "url": "https://www.bilibili.com/video/BV1uvpg6zEdw",
-      "hot_value": "2191259播放",
-      "index": 6
-    },
-    {
-      "title": "《谁家》一周年献礼",
-      "url": "https://www.bilibili.com/video/BV1H2p765E1b",
-      "hot_value": "301700播放",
-      "index": 7
-    },
-    {
-      "title": "在 学 校 最 害 怕 的 声 音？",
-      "url": "https://www.bilibili.com/video/BV1cjpv6fEgz",
-      "hot_value": "784990播放",
-      "index": 8
-    },
-    {
-      "title": "《生》生命是什么",
-      "url": "https://www.bilibili.com/video/BV1zVpJ6yEi3",
-      "hot_value": "362736播放",
-      "index": 9
-    },
-    {
-      "title": "倒查三年流水，顶级商K集体关门！商K经济终于崩盘了？",
-      "url": "https://www.bilibili.com/video/BV1Wqp46GEbP",
-      "hot_value": "1709716播放",
-      "index": 10
-    },
-    {
-      "title": "12个脑洞大开的做饭方式！",
-      "url": "https://www.bilibili.com/video/BV1Jjpg6QEkh",
-      "hot_value": "1637987播放",
-      "index": 11
-    },
-    {
-      "title": "宿主你好，今天我们速通 赤女",
-      "url": "https://www.bilibili.com/video/BV1Gepv6jETs",
-      "hot_value": "259274播放",
-      "index": 12
+      "hot_value": "1621205播放",
+      "index": 1
     },
     {
       "title": "那些无法解释的瞬间心理感受。。。又一次把我心里的画面拍了出来，这次你中了几个？",
       "url": "https://www.bilibili.com/video/BV179p76zEZR",
-      "hot_value": "246874播放",
-      "index": 13
+      "hot_value": "659692播放",
+      "index": 2
     },
     {
-      "title": "厨师长入行20多年开的第一家中餐馆，经营四年后决定搬迁！",
-      "url": "https://www.bilibili.com/video/BV1BjpJ6kEJR",
-      "hot_value": "466730播放",
-      "index": 14
-    },
-    {
-      "title": "新人第1次编曲耶",
-      "url": "https://www.bilibili.com/video/BV1oQHR6rEBB",
-      "hot_value": "448547播放",
-      "index": 15
-    },
-    {
-      "title": "玩家变成魔王，魔王却成了勇者，这款27年前的游戏竟有隐藏结局！",
-      "url": "https://www.bilibili.com/video/BV1yfpj6jEk5",
-      "hot_value": "224613播放",
-      "index": 16
-    },
-    {
-      "title": "【阿哈巨献】全城沦陷！四大虚狩都被邦布病毒感染！",
-      "url": "https://www.bilibili.com/video/BV1u9pu6qE2d",
-      "hot_value": "330780播放",
-      "index": 17
-    },
-    {
-      "title": "也是当上外卖大法官了",
-      "url": "https://www.bilibili.com/video/BV1Vtpg65EnA",
-      "hot_value": "2670179播放",
-      "index": 18
-    },
-    {
-      "title": "关羽全新双血条机制登场！",
-      "url": "https://www.bilibili.com/video/BV1nwp46TEt4",
-      "hot_value": "2499221播放",
-      "index": 19
-    },
-    {
-      "title": "虽然命还在，但是鱼没了啊！！！【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1xTpG6iEbV",
-      "hot_value": "2916873播放",
-      "index": 20
-    },
-    {
-      "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
-      "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
-      "hot_value": "67399播放",
-      "index": 21
-    },
-    {
-      "title": "川普再失诺奖日，中期选举大撒币？",
-      "url": "https://www.bilibili.com/video/BV1Dapg66EL5",
-      "hot_value": "585557播放",
-      "index": 22
-    },
-    {
-      "title": "《明日方舟》× 国家图书馆「恒远津梁」合作宣传PV",
-      "url": "https://www.bilibili.com/video/BV1Gmpu6rE4w",
-      "hot_value": "1019740播放",
-      "index": 23
-    },
-    {
-      "title": "慎点！可能是你见过最变态最猎奇尺度最大的游戏！！！！《克里夫·巴克的养鬼吃人》究竟讲了什么？？？",
-      "url": "https://www.bilibili.com/video/BV16opg6WEcD",
-      "hot_value": "512153播放",
-      "index": 24
-    },
-    {
-      "title": "【雀说】雀巢&鲸尾 | 自卑在哪一天消失",
-      "url": "https://www.bilibili.com/video/BV1Rgpi6DEhX",
-      "hot_value": "832335播放",
-      "index": 25
-    },
-    {
-      "title": "可观测宇宙中最困的一声囔",
-      "url": "https://www.bilibili.com/video/BV1BWHQ6PE3b",
-      "hot_value": "814313播放",
-      "index": 26
-    },
-    {
-      "title": "“和公主，在荒岛求生。”",
-      "url": "https://www.bilibili.com/video/BV16Rpg6REVH",
-      "hot_value": "1005912播放",
-      "index": 27
+      "title": "你 坐 不 过 我 你 信 吗 ？",
+      "url": "https://www.bilibili.com/video/BV1nYpn6DEzp",
+      "hot_value": "295582播放",
+      "index": 3
     },
     {
       "title": "每个生命都值得被善待",
       "url": "https://www.bilibili.com/video/BV1DCpj64Emi",
-      "hot_value": "399912播放",
+      "hot_value": "597083播放",
+      "index": 4
+    },
+    {
+      "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+      "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
+      "hot_value": "221452播放",
+      "index": 5
+    },
+    {
+      "title": "《生》生命是什么",
+      "url": "https://www.bilibili.com/video/BV1zVpJ6yEi3",
+      "hot_value": "633363播放",
+      "index": 6
+    },
+    {
+      "title": "用十三年去拍一部纪录片，然后明白死亡只是一个炎热的夏天午后 【探照灯计划】",
+      "url": "https://www.bilibili.com/video/BV1jkp36XEtz",
+      "hot_value": "322804播放",
+      "index": 7
+    },
+    {
+      "title": "【邓肯】新发恐怖事件！女企业家被儿子雇人送入老年护理中心丨诡异的五亿高中生坠楼谜案！",
+      "url": "https://www.bilibili.com/video/BV1wAp76yEu1",
+      "hot_value": "1962197播放",
+      "index": 8
+    },
+    {
+      "title": "12个脑洞大开的做饭方式！",
+      "url": "https://www.bilibili.com/video/BV1Jjpg6QEkh",
+      "hot_value": "2168806播放",
+      "index": 9
+    },
+    {
+      "title": "新人第1次编曲耶",
+      "url": "https://www.bilibili.com/video/BV1oQHR6rEBB",
+      "hot_value": "587985播放",
+      "index": 10
+    },
+    {
+      "title": "“我酒桶有自己的想法！”369、Karsa重聊纳尔往事【LPL视频播客丨把TA叫过来ep2】",
+      "url": "https://www.bilibili.com/video/BV1KJpn68E2b",
+      "hot_value": "185787播放",
+      "index": 11
+    },
+    {
+      "title": "逃离闪电侠黄金费德熊！你好邻居Mod",
+      "url": "https://www.bilibili.com/video/BV1QmpE6aEA7",
+      "hot_value": "1168587播放",
+      "index": 12
+    },
+    {
+      "title": "这种神人游戏怎么还在出新作啊？",
+      "url": "https://www.bilibili.com/video/BV1F4pj6uEZV",
+      "hot_value": "642947播放",
+      "index": 13
+    },
+    {
+      "title": "后来的我才明白...",
+      "url": "https://www.bilibili.com/video/BV1PDpv6vEsj",
+      "hot_value": "1652118播放",
+      "index": 14
+    },
+    {
+      "title": "礼花炸响那一刻 又有个家庭蒸蒸日上",
+      "url": "https://www.bilibili.com/video/BV1YhpY66E3p",
+      "hot_value": "556175播放",
+      "index": 15
+    },
+    {
+      "title": "可观测宇宙中最困的一声囔",
+      "url": "https://www.bilibili.com/video/BV1BWHQ6PE3b",
+      "hot_value": "1113424播放",
+      "index": 16
+    },
+    {
+      "title": "网络热门长虫视频(124)十岁男孩被太攀蛇咬伤！生命垂危险丧命！",
+      "url": "https://www.bilibili.com/video/BV14GHY6fExG",
+      "hot_value": "256715播放",
+      "index": 17
+    },
+    {
+      "title": "《谁家》一周年献礼",
+      "url": "https://www.bilibili.com/video/BV1H2p765E1b",
+      "hot_value": "575393播放",
+      "index": 18
+    },
+    {
+      "title": "【26年双11显示器推荐】热门型号直降1000+？一条视频讲清楚！2万字爆肝 工业级设备实测 全规格尺寸实拍 1080P/2K/4K的电竞/办公/设计/性价比",
+      "url": "https://www.bilibili.com/video/BV1Eipn6UEQq",
+      "hot_value": "402636播放",
+      "index": 19
+    },
+    {
+      "title": "《不该存在的访客》继续用爱发电，耗费10000分钟制作，花费1000块",
+      "url": "https://www.bilibili.com/video/BV1ZSp46AEF8",
+      "hot_value": "656052播放",
+      "index": 20
+    },
+    {
+      "title": "慎点！可能是你见过最变态最猎奇尺度最大的游戏！！！！《克里夫·巴克的养鬼吃人》究竟讲了什么？？？",
+      "url": "https://www.bilibili.com/video/BV16opg6WEcD",
+      "hot_value": "685301播放",
+      "index": 21
+    },
+    {
+      "title": "🥳每天来上一段感觉人生好通透啊⚡️‌朋 友 的 酒🍺DJ⚡️‌",
+      "url": "https://www.bilibili.com/video/BV1sppE6SENL",
+      "hot_value": "601031播放",
+      "index": 22
+    },
+    {
+      "title": "一镜到底骑行在路边发现一条未知小路，沉浸式体验在城市角落探索",
+      "url": "https://www.bilibili.com/video/BV1KApg6hEa1",
+      "hot_value": "393733播放",
+      "index": 23
+    },
+    {
+      "title": "【全球领先上映】《复仇者联盟5》定档12月16日",
+      "url": "https://www.bilibili.com/video/BV14upj6DEdF",
+      "hot_value": "233633播放",
+      "index": 24
+    },
+    {
+      "title": "特朗普为何“大撒币”？中期选举究竟有多重要？【纸牌屋现实版】",
+      "url": "https://www.bilibili.com/video/BV14LpE6sEx6",
+      "hot_value": "306481播放",
+      "index": 25
+    },
+    {
+      "title": "罗伊冰原的小小救世主    [索拉逐星舞台]",
+      "url": "https://www.bilibili.com/video/BV1K9pj6DEKJ",
+      "hot_value": "229634播放",
+      "index": 26
+    },
+    {
+      "title": "挑战80万笔自制第五人格加页手记动画",
+      "url": "https://www.bilibili.com/video/BV1b8pb6REwN",
+      "hot_value": "387105播放",
+      "index": 27
+    },
+    {
+      "title": "【阿哈巨献】全城沦陷！四大虚狩都被邦布病毒感染！",
+      "url": "https://www.bilibili.com/video/BV1u9pu6qE2d",
+      "hot_value": "502017播放",
       "index": 28
     },
     {
-      "title": "如果把我和男朋友这几年的约会地点列出来",
-      "url": "https://www.bilibili.com/video/BV16xpt6BE6t",
-      "hot_value": "1201096播放",
+      "title": "如何看待中国和巴西网友激情对线互开左籍？",
+      "url": "https://www.bilibili.com/video/BV1Uopn6PEcf",
+      "hot_value": "675822播放",
       "index": 29
     },
     {
-      "title": "《贫道》",
-      "url": "https://www.bilibili.com/video/BV1QJpi6yEPp",
-      "hot_value": "1626958播放",
+      "title": "《结账是你的谎言》",
+      "url": "https://www.bilibili.com/video/BV1yTpg6ZEHs",
+      "hot_value": "1700649播放",
       "index": 30
     }
   ]
