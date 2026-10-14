@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-13T21:23:23Z",
+  "update_time": "2026-10-14T00:26:49Z",
   "count": 30,
   "list": [
     {
-      "title": "雷波县教师被安排与「耻辱」二字合影，近 50 天仍未公布调查结果，为啥迟迟不公布？调查的难点在哪儿？",
-      "url": "https://www.zhihu.com/question/2093376100948599059",
-      "hot_value": "457 万热度",
+      "title": "老人凌晨下地干活被气枪击中身亡，持气枪打猎合法吗？案件还有哪些疑点待查？涉事人员将承担什么法律责任？",
+      "url": "https://www.zhihu.com/question/2093446305422862227",
+      "hot_value": "845 万热度",
       "index": 1
     },
     {
-      "title": "老人凌晨下地干活被气枪击中身亡，持气枪打猎合法吗？案件还有哪些疑点待查？涉事人员将承担什么法律责任？",
-      "url": "https://www.zhihu.com/question/2093446305422862227",
-      "hot_value": "456 万热度",
+      "title": "宜宾一摊主被顾客差评后遭网暴，最后不堪重压选择跳河轻生，如何避免这种悲剧再次发生？",
+      "url": "https://www.zhihu.com/question/2093063796151665961",
+      "hot_value": "553 万热度",
       "index": 2
     },
     {
-      "title": "如何看待 Andrej Karpathy 提出「AI 能力认知漏斗」，少数专业人士已开始有「眩晕感」？",
-      "url": "https://www.zhihu.com/question/2092928330336925348",
-      "hot_value": "194 万热度",
+      "title": "如何看待患者送 1.9 元汽水后举报医院药房工作人员违规收礼，医院已对其进行批评教育？这算违规收礼吗？",
+      "url": "https://www.zhihu.com/question/2093393122902237224",
+      "hot_value": "333 万热度",
       "index": 3
     },
     {
-      "title": "为什么这么多人讨厌陈岩石夫妇在饭桌上向沙瑞金告状的行为？",
-      "url": "https://www.zhihu.com/question/2090843777707537340",
-      "hot_value": "134 万热度",
+      "title": "雷波县教师被安排与「耻辱」二字合影，近 50 天仍未公布调查结果，为啥迟迟不公布？调查的难点在哪儿？",
+      "url": "https://www.zhihu.com/question/2093376100948599059",
+      "hot_value": "300 万热度",
       "index": 4
     },
     {
       "title": "男生高考 522 分被调剂马术专业，成为在校本科生中唯一持证钉蹄师，前景如何？能带给选专业的学生哪些启发？",
       "url": "https://www.zhihu.com/question/2093388530156135905",
-      "hot_value": "119 万热度",
+      "hot_value": "180 万热度",
       "index": 5
-    },
-    {
-      "title": "朱琳真的美貌绝伦吗？为什么我看央视版《西游记》时觉得女儿国国王出场无感，蝎子精出场才有惊艳的感觉？",
-      "url": "https://www.zhihu.com/question/418887484",
-      "hot_value": "110 万热度",
-      "index": 6
     },
     {
       "title": "一男子在悬空寺古建筑横梁做引体向上，警方已立案，涉事者将承担哪些责任？",
       "url": "https://www.zhihu.com/question/2093390624560871266",
-      "hot_value": "107 万热度",
+      "hot_value": "167 万热度",
+      "index": 6
+    },
+    {
+      "title": "如何评价老干妈引入 AI 用于检验辣椒品质，将 600 人生产线减至 48 人？AI 能给食品制造业带来啥改变？",
+      "url": "https://www.zhihu.com/question/2093427934316814825",
+      "hot_value": "149 万热度",
       "index": 7
     },
     {
-      "title": "PS5 全机型遭底层漏洞破解，会对索尼主机生态产生哪些冲击？",
-      "url": "https://www.zhihu.com/question/2088701899113489158",
-      "hot_value": "105 万热度",
+      "title": "如何看待 Andrej Karpathy 提出「AI 能力认知漏斗」，少数专业人士已开始有「眩晕感」？",
+      "url": "https://www.zhihu.com/question/2092928330336925348",
+      "hot_value": "148 万热度",
       "index": 8
+    },
+    {
+      "title": "为什么这么多人讨厌陈岩石夫妇在饭桌上向沙瑞金告状的行为？",
+      "url": "https://www.zhihu.com/question/2090843777707537340",
+      "hot_value": "141 万热度",
+      "index": 9
+    },
+    {
+      "title": "朱琳真的美貌绝伦吗？为什么我看央视版《西游记》时觉得女儿国国王出场无感，蝎子精出场才有惊艳的感觉？",
+      "url": "https://www.zhihu.com/question/418887484",
+      "hot_value": "124 万热度",
+      "index": 10
+    },
+    {
+      "title": "网传郑钦文团队一天就得花五万多块，是这样吗？职业网球选手的运营模式是怎样的？",
+      "url": "https://www.zhihu.com/question/2093240084342335141",
+      "hot_value": "123 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何评价 10 月 13 日正式推出的 Gemini 4 Argon？",
+      "url": "https://www.zhihu.com/question/2093454112922912690",
+      "hot_value": "121 万热度",
+      "index": 12
+    },
+    {
+      "title": "宇树王兴兴在工博会上说，明年的 GPT-7 有可能「击穿」具身智能现在的瓶颈，你怎么看？",
+      "url": "https://www.zhihu.com/question/2093281358667956441",
+      "hot_value": "118 万热度",
+      "index": 13
     },
     {
       "title": "方便面煮着吃为什么比泡着吃更香？",
       "url": "https://www.zhihu.com/question/2088359008025559455",
-      "hot_value": "86 万热度",
-      "index": 9
-    },
-    {
-      "title": "35 焦段做 1.2 光圈意义是什么?",
-      "url": "https://www.zhihu.com/question/1920157962732832567",
-      "hot_value": "68 万热度",
-      "index": 10
-    },
-    {
-      "title": "2027 国考笔试公告发布，共计划招录 3.57 万人，笔试 11 月 29 日举行，今年有哪些变化？",
-      "url": "https://www.zhihu.com/question/2093290893197272727",
-      "hot_value": "59 万热度",
-      "index": 11
-    },
-    {
-      "title": "夫妻点一杯 58 元咖啡只能一人落座，市监局称「一人一座一消费」合理与否不能一刀切判定，如何理解此事？",
-      "url": "https://www.zhihu.com/question/2093309415939991490",
-      "hot_value": "59 万热度",
-      "index": 12
-    },
-    {
-      "title": "《暗影崛起》佐樱感情线挽尊是否必要？",
-      "url": "https://www.zhihu.com/question/2092630676424213746",
-      "hot_value": "58 万热度",
-      "index": 13
-    },
-    {
-      "title": "刘国梁 16 岁女儿刘宇婕登顶高尔夫中国女子公开赛，成赛事创办以来首位业余冠军，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2093019602653536666",
-      "hot_value": "58 万热度",
+      "hot_value": "110 万热度",
       "index": 14
     },
     {
-      "title": "你们认为芯片圈里哪家公司的产品命名最为混乱？",
-      "url": "https://www.zhihu.com/question/1949264896328966810",
-      "hot_value": "58 万热度",
+      "title": "同卵双胞胎能长得几乎一样，为什么偏偏复制不了指纹？",
+      "url": "https://www.zhihu.com/question/2085687194967093393",
+      "hot_value": "99 万热度",
       "index": 15
     },
     {
-      "title": "如何评价动画电影《小猪佩奇·完美假期》？",
-      "url": "https://www.zhihu.com/question/2088300737918940463",
-      "hot_value": "56 万热度",
+      "title": "PS5 全机型遭底层漏洞破解，会对索尼主机生态产生哪些冲击？",
+      "url": "https://www.zhihu.com/question/2088701899113489158",
+      "hot_value": "88 万热度",
       "index": 16
     },
     {
-      "title": "同姓的人一定拥有共同的祖先吗？",
-      "url": "https://www.zhihu.com/question/2091486108169379965",
-      "hot_value": "56 万热度",
+      "title": "叫「大学」的都比叫「学院」的强吗？",
+      "url": "https://www.zhihu.com/question/639527248",
+      "hot_value": "83 万热度",
       "index": 17
     },
     {
       "title": "江淮汽车股价一度大涨近 9%，这一轮上涨是否预示市场情绪迎来反转？涨势能持续多久？",
       "url": "https://www.zhihu.com/question/2093296082310665266",
-      "hot_value": "56 万热度",
+      "hot_value": "80 万热度",
       "index": 18
     },
     {
-      "title": "有的孩子膝盖摔破了贴上创可贴还继续玩，有的稍微摔下什么伤都没有还哭成泪人，背后的真相是什么？",
-      "url": "https://www.zhihu.com/question/2092888914705002908",
-      "hot_value": "56 万热度",
+      "title": "许子东称金庸、倪匡、亦舒均来自江南，如何理解香港通俗文学的地域性？",
+      "url": "https://www.zhihu.com/question/1982474215060951821",
+      "hot_value": "77 万热度",
       "index": 19
     },
     {
-      "title": "出去旅行有必要发朋友圈嘛?",
-      "url": "https://www.zhihu.com/question/1929353795504170205",
-      "hot_value": "56 万热度",
+      "title": "为什么晴朗的夜晚反而更冷？这是由什么原因导致的，从气象学角度该如何解释？",
+      "url": "https://www.zhihu.com/question/2016598998534874636",
+      "hot_value": "74 万热度",
       "index": 20
     },
     {
       "title": "如果你有 25 万的存款，面对 1500 的衣服裤子你会不会犹豫啊？",
       "url": "https://www.zhihu.com/question/2092975777457378886",
-      "hot_value": "55 万热度",
+      "hot_value": "73 万热度",
       "index": 21
     },
     {
-      "title": "如何看待 Anthropic 坚决不用行业标准 AGENTS.md？",
-      "url": "https://www.zhihu.com/question/2076002336334467631",
-      "hot_value": "55 万热度",
+      "title": "为什么大多数所谓「硬科幻」的太空战争类作品中，看不到战锤 40k 那样精彩的跳帮战剧情？",
+      "url": "https://www.zhihu.com/question/2092714865840371158",
+      "hot_value": "72 万热度",
       "index": 22
     },
     {
-      "title": "为什么喝酒喝到微醺会让人感到快乐？",
-      "url": "https://www.zhihu.com/question/614889347",
-      "hot_value": "55 万热度",
+      "title": "孩子身上有不少零花钱，但花钱特别 「 抠 」，能让我出的她坚决不出，怎么引导？",
+      "url": "https://www.zhihu.com/question/2093303322417673130",
+      "hot_value": "71 万热度",
       "index": 23
     },
     {
-      "title": "齐国无法打破田氏代齐的过程吗？",
-      "url": "https://www.zhihu.com/question/641322650",
-      "hot_value": "55 万热度",
+      "title": "为什么 Markdown 成了 AI 时代知识管理的默认格式？",
+      "url": "https://www.zhihu.com/question/2078797038666379704",
+      "hot_value": "66 万热度",
       "index": 24
     },
     {
-      "title": "有哪些好吃的家常菜值得推荐？",
-      "url": "https://www.zhihu.com/question/11496938042",
-      "hot_value": "55 万热度",
+      "title": "长寿的人是否更幸福快乐？",
+      "url": "https://www.zhihu.com/question/2090063268580804388",
+      "hot_value": "62 万热度",
       "index": 25
     },
     {
-      "title": "如果朱元璋先走，马皇后会不会被殉葬？",
-      "url": "https://www.zhihu.com/question/1946280983411262259",
-      "hot_value": "55 万热度",
+      "title": "速度是相对的，怎么确定在近光速的情况下谁的时间变慢了？",
+      "url": "https://www.zhihu.com/question/1933845669233272167",
+      "hot_value": "58 万热度",
       "index": 26
     },
     {
-      "title": "爱吃饺子的你，觉得哪种饺子馅是你心中永远的王？",
-      "url": "https://www.zhihu.com/question/1902764672547021610",
-      "hot_value": "55 万热度",
+      "title": "夫妻点一杯 58 元咖啡只能一人落座，市监局称「一人一座一消费」合理与否不能一刀切判定，如何理解此事？",
+      "url": "https://www.zhihu.com/question/2093309415939991490",
+      "hot_value": "57 万热度",
       "index": 27
     },
     {
-      "title": "为什么人类近几百年的发展突然加快了？",
-      "url": "https://www.zhihu.com/question/294820323",
-      "hot_value": "54 万热度",
+      "title": "为什么「依法」协助当事人进行诉讼不叫「法师」而叫「律师」？",
+      "url": "https://www.zhihu.com/question/2089647041488146843",
+      "hot_value": "56 万热度",
       "index": 28
     },
     {
-      "title": "《复仇者联盟 5》中国内地定档 12 月 16 日上映，领先北美两天，对此你有何期待？",
-      "url": "https://www.zhihu.com/question/2092920367882789069",
-      "hot_value": "54 万热度",
+      "title": "2027 国考笔试公告发布，共计划招录 3.57 万人，笔试 11 月 29 日举行，今年有哪些变化？",
+      "url": "https://www.zhihu.com/question/2093290893197272727",
+      "hot_value": "55 万热度",
       "index": 29
     },
     {
-      "title": "为什么咒术回战不义游戏一个辅助类技能可以打死特级咒灵？",
-      "url": "https://www.zhihu.com/question/492417685",
+      "title": "新能源车没备胎，自驾游该不该自己买一个？不买的人是真懂车，还是心大？",
+      "url": "https://www.zhihu.com/question/2087602058774028958",
       "hot_value": "54 万热度",
       "index": 30
     }
