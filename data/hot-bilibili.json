@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-14T05:12:24Z",
+  "update_time": "2026-10-14T10:24:46Z",
   "count": 30,
   "list": [
     {
-      "title": "《异环》明音凛角色PV丨Letters to me",
-      "url": "https://www.bilibili.com/video/BV1hJp469Eo4",
-      "hot_value": "460949播放",
+      "title": "【萌黄一槽】是谁“电眼逼人”？迪鲁达全技能爆料！",
+      "url": "https://www.bilibili.com/video/BV1phpC6nEjG",
+      "hot_value": "335201播放",
       "index": 1
     },
     {
       "title": "《明日方舟：终末地》干员叙事 [祀：洒扫庭除]",
       "url": "https://www.bilibili.com/video/BV1fspq6cEty",
-      "hot_value": "198776播放",
+      "hot_value": "1050523播放",
       "index": 2
-    },
-    {
-      "title": "我去当司机大家觉得有搞头嘛！",
-      "url": "https://www.bilibili.com/video/BV1kKWA6uEyr",
-      "hot_value": "1279050播放",
-      "index": 3
     },
     {
       "title": "印度排位对局👳🏽绝活天残脚vs丝滑半截山！😱从来没有见过这等招式！",
       "url": "https://www.bilibili.com/video/BV1ezWw6oETf",
-      "hot_value": "530511播放",
+      "hot_value": "1081426播放",
+      "index": 3
+    },
+    {
+      "title": "2026全球总决赛LPL赛区出征片《风起今朝》",
+      "url": "https://www.bilibili.com/video/BV132pr6aEXS",
+      "hot_value": "418421播放",
       "index": 4
     },
     {
-      "title": "《全面战争：幕府将军2 完全版》发售宣传片",
-      "url": "https://www.bilibili.com/video/BV18kpq6UER2",
-      "hot_value": "256996播放",
+      "title": "【亚某爆料时间】王者十一周年限定盾山传说皮限时活动免费换",
+      "url": "https://www.bilibili.com/video/BV1CUpy6oEiY",
+      "hot_value": "408792播放",
       "index": 5
     },
     {
-      "title": "护:哥你这不是给我俩送钱吗？护：不对！我掉进陷阱了！打了两天还是零进度的护子终于发现事情的严重性了",
-      "url": "https://www.bilibili.com/video/BV1utWc6jEo5",
-      "hot_value": "584009播放",
+      "title": "《异环》明音凛角色PV丨Letters to me",
+      "url": "https://www.bilibili.com/video/BV1hJp469Eo4",
+      "hot_value": "1106502播放",
       "index": 6
     },
     {
       "title": "原来502胶水是这么来的！致敬伟大的科研人员！",
       "url": "https://www.bilibili.com/video/BV1mRWw62ErA",
-      "hot_value": "354135播放",
+      "hot_value": "679537播放",
       "index": 7
-    },
-    {
-      "title": "王老菊教你法式烧烤",
-      "url": "https://www.bilibili.com/video/BV1yPp96UEQU",
-      "hot_value": "139090播放",
-      "index": 8
-    },
-    {
-      "title": "苏联版“空中监狱”是什么？【神奇组织55】",
-      "url": "https://www.bilibili.com/video/BV1Cgpd6pEBR",
-      "hot_value": "1616680播放",
-      "index": 9
-    },
-    {
-      "title": "传奇历史人物志——普朗克",
-      "url": "https://www.bilibili.com/video/BV1EKWc6hEmQ",
-      "hot_value": "823929播放",
-      "index": 10
-    },
-    {
-      "title": "《为何要生两个》",
-      "url": "https://www.bilibili.com/video/BV1vGp46bEdw",
-      "hot_value": "2144399播放",
-      "index": 11
-    },
-    {
-      "title": "这下可好了！收养一只咪，迎来一大群！",
-      "url": "https://www.bilibili.com/video/BV1cApB6NEPq",
-      "hot_value": "205487播放",
-      "index": 12
-    },
-    {
-      "title": "或许在某个平行宇宙中，他们的故事是这样展开的.....",
-      "url": "https://www.bilibili.com/video/BV1qPpo6jEqk",
-      "hot_value": "1425336播放",
-      "index": 13
-    },
-    {
-      "title": "《复联5》前必看！《复联4》后到底发生了啥？",
-      "url": "https://www.bilibili.com/video/BV1xZWw6yEix",
-      "hot_value": "536124播放",
-      "index": 14
-    },
-    {
-      "title": "再访",
-      "url": "https://www.bilibili.com/video/BV149WF6zEw2",
-      "hot_value": "858218播放",
-      "index": 15
-    },
-    {
-      "title": "射手牢玩家感觉没什么用，我过来把射手位置占了",
-      "url": "https://www.bilibili.com/video/BV13cpq6mEtR",
-      "hot_value": "219235播放",
-      "index": 16
     },
     {
       "title": "“这波秒开仙人，直接把六小龄童看呆了！”",
       "url": "https://www.bilibili.com/video/BV1Fspj66E66",
-      "hot_value": "1172342播放",
-      "index": 17
-    },
-    {
-      "title": "在冬夜，一块蛋糕，两个冻人",
-      "url": "https://www.bilibili.com/video/BV1uYWA6DEVV",
-      "hot_value": "447901播放",
-      "index": 18
-    },
-    {
-      "title": "皮莱是谁？2026诺贝尔和平奖背后的政治博弈",
-      "url": "https://www.bilibili.com/video/BV1gaWA6HE7S",
-      "hot_value": "531032播放",
-      "index": 19
-    },
-    {
-      "title": "住手 你们不要再摇花手了",
-      "url": "https://www.bilibili.com/video/BV1wQp96mEs7",
-      "hot_value": "1785435播放",
-      "index": 20
-    },
-    {
-      "title": "2026诺贝尔物理学奖，冰立方中微子",
-      "url": "https://www.bilibili.com/video/BV1XWp76FEZR",
-      "hot_value": "417483播放",
-      "index": 21
+      "hot_value": "1440195播放",
+      "index": 8
     },
     {
       "title": "睁眼就是豪赌！炒股买房婚恋整容，韩国普通人的人生只能有一种答案？｜地球观察局EP03【视频播客】",
       "url": "https://www.bilibili.com/video/BV1NGpx66EBh",
-      "hot_value": "436414播放",
+      "hot_value": "619450播放",
+      "index": 9
+    },
+    {
+      "title": "再访",
+      "url": "https://www.bilibili.com/video/BV149WF6zEw2",
+      "hot_value": "1194720播放",
+      "index": 10
+    },
+    {
+      "title": "我去当司机大家觉得有搞头嘛！",
+      "url": "https://www.bilibili.com/video/BV1kKWA6uEyr",
+      "hot_value": "1811698播放",
+      "index": 11
+    },
+    {
+      "title": "在冬夜，一块蛋糕，两个冻人",
+      "url": "https://www.bilibili.com/video/BV1uYWA6DEVV",
+      "hot_value": "596482播放",
+      "index": 12
+    },
+    {
+      "title": "基米呐基米，狗哥断不了情根！",
+      "url": "https://www.bilibili.com/video/BV1uaWA6HESq",
+      "hot_value": "1466158播放",
+      "index": 13
+    },
+    {
+      "title": "今天的飞拉达不简单啊，上来就是悬崖小飞车！",
+      "url": "https://www.bilibili.com/video/BV14Kpv6vE8p",
+      "hot_value": "1199356播放",
+      "index": 14
+    },
+    {
+      "title": "【Re:从零开始的AI学习】第一季总集篇｜从入门到用好 AI",
+      "url": "https://www.bilibili.com/video/BV1VZWc6dECG",
+      "hot_value": "178844播放",
+      "index": 15
+    },
+    {
+      "title": "《动物园之星2》正式上线！纯水族、大鸟舍首度登场，去广袤保护区放归生灵！",
+      "url": "https://www.bilibili.com/video/BV1tTpq6kETo",
+      "hot_value": "388260播放",
+      "index": 16
+    },
+    {
+      "title": "大庆，一座孤独的城市",
+      "url": "https://www.bilibili.com/video/BV1Pupy6sExt",
+      "hot_value": "120142播放",
+      "index": 17
+    },
+    {
+      "title": "《复联5》前必看！《复联4》后到底发生了啥？",
+      "url": "https://www.bilibili.com/video/BV1xZWw6yEix",
+      "hot_value": "667998播放",
+      "index": 18
+    },
+    {
+      "title": "护:哥你这不是给我俩送钱吗？护：不对！我掉进陷阱了！打了两天还是零进度的护子终于发现事情的严重性了",
+      "url": "https://www.bilibili.com/video/BV1utWc6jEo5",
+      "hot_value": "736287播放",
+      "index": 19
+    },
+    {
+      "title": "或许在某个平行宇宙中，他们的故事是这样展开的.....",
+      "url": "https://www.bilibili.com/video/BV1qPpo6jEqk",
+      "hot_value": "1649205播放",
+      "index": 20
+    },
+    {
+      "title": "射手牢玩家感觉没什么用，我过来把射手位置占了",
+      "url": "https://www.bilibili.com/video/BV13cpq6mEtR",
+      "hot_value": "398447播放",
+      "index": 21
+    },
+    {
+      "title": "大家好 我是豆豆apEX, 我来B站啦",
+      "url": "https://www.bilibili.com/video/BV1edpB6ZEap",
+      "hot_value": "296253播放",
       "index": 22
     },
     {
-      "title": "续航干到趴窝, 比亚迪大汉能跑到1000公里吗?",
-      "url": "https://www.bilibili.com/video/BV1TvWA6JEqY",
-      "hot_value": "314156播放",
+      "title": "从银座街头到迪士尼约会，我看到了日本男女关系不为人知的一面",
+      "url": "https://www.bilibili.com/video/BV19zpt6fEM1",
+      "hot_value": "1700776播放",
       "index": 23
     },
     {
-      "title": "8个顶级AI预测S16世界赛丨DeepSeek力挺BLG，豆包坚定选择Faker！某只队伍被AI评价为名气大于实力？AI世界ZUIAN签证反转？",
-      "url": "https://www.bilibili.com/video/BV13zpq6DEbY",
-      "hot_value": "154871播放",
+      "title": "老了也要保持卡点上班的优雅习惯【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1atp96AE8j",
+      "hot_value": "859362播放",
       "index": 24
     },
     {
       "title": "当你和百万人一起挤景区【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1F2Wc6PE5X",
-      "hot_value": "401681播放",
+      "hot_value": "590286播放",
       "index": 25
     },
     {
-      "title": "国内首款！《燕云十六声》携手英伟达将正式支持 DLSS 5，画质突破性革新！",
-      "url": "https://www.bilibili.com/video/BV1GxWA6xE6g",
-      "hot_value": "903722播放",
+      "title": "《银牌的眼泪》｜最痛的，不是失败，是“差一点”",
+      "url": "https://www.bilibili.com/video/BV12DHQ61EhT",
+      "hot_value": "787590播放",
       "index": 26
     },
     {
-      "title": "曼波：最速降线",
-      "url": "https://www.bilibili.com/video/BV1YepZ6yEYq",
-      "hot_value": "926151播放",
+      "title": "常用医学小技能，才不是武术什么的呢",
+      "url": "https://www.bilibili.com/video/BV18Bpd6PEu3",
+      "hot_value": "464856播放",
       "index": 27
     },
     {
-      "title": "一年89万吨！为什么欧美人爱偷奶酪？【食录】",
-      "url": "https://www.bilibili.com/video/BV1dVpB64EWQ",
-      "hot_value": "272873播放",
+      "title": "续航干到趴窝, 比亚迪大汉能跑到1000公里吗?",
+      "url": "https://www.bilibili.com/video/BV1TvWA6JEqY",
+      "hot_value": "432630播放",
       "index": 28
     },
     {
-      "title": "拍个小品",
-      "url": "https://www.bilibili.com/video/BV1dhp56oESQ",
-      "hot_value": "1088931播放",
+      "title": "能玩这游戏十年的人做什么都会成功的",
+      "url": "https://www.bilibili.com/video/BV1tvp96tEZN",
+      "hot_value": "1359516播放",
       "index": 29
     },
     {
       "title": "我对不同假期的态度",
       "url": "https://www.bilibili.com/video/BV1CPWA66EHq",
-      "hot_value": "375979播放",
+      "hot_value": "530614播放",
       "index": 30
     }
   ]

@@ -1,30 +1,30 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-10-14T05:12:24Z",
+  "update_time": "2026-10-14T10:24:46Z",
   "count": 20,
   "list": [
-    {
-      "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34243299",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "马上评｜1.9元汽水引发举报，无端耗费社会资源",
       "url": "https://www.thepaper.cn/newsDetail_forward_34244532",
       "hot_value": "",
-      "index": 2
+      "index": 1
     },
     {
-      "title": "佛山一医生收患者1.9元汽水遭举报，律师：无利益交换且价值极低，不应追责",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34243289",
+      "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34243299",
       "hot_value": "",
-      "index": 3
+      "index": 2
     },
     {
       "title": "医务人员收1.9元汽水被举报，涉事医院：不违反医德医风，当事人已报警",
       "url": "https://www.thepaper.cn/newsDetail_forward_34247162",
+      "hot_value": "",
+      "index": 3
+    },
+    {
+      "title": "佛山一医生收患者1.9元汽水遭举报，律师：无利益交换且价值极低，不应追责",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34243289",
       "hot_value": "",
       "index": 4
     },
@@ -35,8 +35,8 @@
       "index": 5
     },
     {
-      "title": "辽宁鞍山一用户发现十年疑被多收五千多元燃气费，讨要余额被报警敲诈",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34240851",
+      "title": "44亿港元资产被限制！茶百道遭香港证监会停牌：IPO涉嫌人为操纵，募资款或暗中回流至承配人",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34243282",
       "hot_value": "",
       "index": 6
     },
@@ -47,38 +47,38 @@
       "index": 7
     },
     {
-      "title": "7起涉导向违法广告典型案例公布：滴露物化女性广告两公司被罚共超100万",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34242646",
+      "title": "蔡康永现身沈伯洋竞选活动，国台办：在大是大非问题上，没有任何模糊空间",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34247472",
       "hot_value": "",
       "index": 8
     },
     {
-      "title": "人工智能该加速还是踩刹车？读懂AI安全争论背后的“六大派”立场",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34242092",
+      "title": "女子丢身份证后疑遭盗用现“吸毒记录”和异地社保卡流水近590万元，相关案件正在查",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34247433",
       "hot_value": "",
       "index": 9
-    },
-    {
-      "title": "印尼总统称将如家人般保护中方投资者，外交部答澎湃：愿持续深化相关利益互利合作",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34241933",
-      "hot_value": "",
-      "index": 10
     },
     {
       "title": "沙特机场接连遇袭背后：耗资巨大的预警系统为何沉默？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34243110",
       "hot_value": "",
-      "index": 11
+      "index": 10
     },
     {
       "title": "预告丨《大方之谈》对话丘成桐：数学之外，一个永不无聊的人生",
       "url": "https://www.thepaper.cn/newsDetail_forward_34240668",
       "hot_value": "",
+      "index": 11
+    },
+    {
+      "title": "马上评｜“女摊主被差评后轻生”的网络发言警示",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34248612",
+      "hot_value": "",
       "index": 12
     },
     {
-      "title": "领克汽车回应“车辆坠崖”：车主轻微擦伤及局部骨裂，事故原因正调查",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34241809",
+      "title": "媒体：在悬空寺做引体向上“悬空”，不是秀肌肉而是秀无知",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34246600",
       "hot_value": "",
       "index": 13
     },
@@ -95,26 +95,26 @@
       "index": 15
     },
     {
-      "title": "媒体：在悬空寺做引体向上“悬空”，不是秀肌肉而是秀无知",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34246600",
+      "title": "媒体评男子同日与不同女子办婚宴和百日宴：以“进步”为幌子行封建之实",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34247173",
       "hot_value": "",
       "index": 16
+    },
+    {
+      "title": "澎湃回声｜河北深州多地农田架设捕鸟网被曝光后，涉事点位鸟网拆除",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34243641",
+      "hot_value": "",
+      "index": 17
     },
     {
       "title": "财晓得丨研究点什么，更有机会拿诺贝尔经济学奖",
       "url": "https://www.thepaper.cn/newsDetail_forward_34224985",
       "hot_value": "",
-      "index": 17
+      "index": 18
     },
     {
       "title": "记者手记｜王选辉：对冰川科学家来说，“失联”本身就是工作的一部分",
       "url": "https://www.thepaper.cn/newsDetail_forward_34243816",
-      "hot_value": "",
-      "index": 18
-    },
-    {
-      "title": "44亿港元资产被限制！茶百道遭香港证监会停牌：IPO涉嫌人为操纵，募资款或暗中回流至承配人",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34243282",
       "hot_value": "",
       "index": 19
     },

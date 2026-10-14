@@ -1,187 +1,187 @@
 {
   "platform": "kuaishou",
   "name": "快手热搜",
-  "update_time": "2026-10-14T05:12:24Z",
+  "update_time": "2026-10-14T10:24:46Z",
   "count": 30,
   "list": [
     {
       "title": "中朝新鸭绿江大桥将开通",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E6%9C%9D%E6%96%B0%E9%B8%AD%E7%BB%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E5%B0%86%E5%BC%80%E9%80%9A",
-      "hot_value": "1,300.2万",
+      "hot_value": "1,330.9万",
       "index": 1
+    },
+    {
+      "title": "黄奇帆被查重庆市委表态",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%BB%84%E5%A5%87%E5%B8%86%E8%A2%AB%E6%9F%A5%E9%87%8D%E5%BA%86%E5%B8%82%E5%A7%94%E8%A1%A8%E6%80%81",
+      "hot_value": "1,308.1万",
+      "index": 2
+    },
+    {
+      "title": "前三季度我国外贸增长18.8%",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%95%BF18.8%25",
+      "hot_value": "1,289.8万",
+      "index": 3
+    },
+    {
+      "title": "因差评跳河轻生摊主遗书曝光",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%A0%E5%B7%AE%E8%AF%84%E8%B7%B3%E6%B2%B3%E8%BD%BB%E7%94%9F%E6%91%8A%E4%B8%BB%E9%81%97%E4%B9%A6%E6%9B%9D%E5%85%89",
+      "hot_value": "1,244.8万",
+      "index": 4
+    },
+    {
+      "title": "35楼坠楼女子全身器官基本恢复",
+      "url": "https://www.kuaishou.com/search/video?searchKey=35%E6%A5%BC%E5%9D%A0%E6%A5%BC%E5%A5%B3%E5%AD%90%E5%85%A8%E8%BA%AB%E5%99%A8%E5%AE%98%E5%9F%BA%E6%9C%AC%E6%81%A2%E5%A4%8D",
+      "hot_value": "1,227.5万",
+      "index": 5
     },
     {
       "title": "2027国考报名开启",
       "url": "https://www.kuaishou.com/search/video?searchKey=2027%E5%9B%BD%E8%80%83%E6%8A%A5%E5%90%8D%E5%BC%80%E5%90%AF",
-      "hot_value": "1,297.4万",
-      "index": 2
+      "hot_value": "1,181.1万",
+      "index": 6
     },
     {
-      "title": "红军渡口上建起世界级水电站",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BA%A2%E5%86%9B%E6%B8%A1%E5%8F%A3%E4%B8%8A%E5%BB%BA%E8%B5%B7%E4%B8%96%E7%95%8C%E7%BA%A7%E6%B0%B4%E7%94%B5%E7%AB%99",
-      "hot_value": "1,294.8万",
-      "index": 3
+      "title": "外交部回应中朝新鸭绿江大桥",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9D%E6%96%B0%E9%B8%AD%E7%BB%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5",
+      "hot_value": "1,164.9万",
+      "index": 7
     },
     {
-      "title": "郑钦文中网夺冠引爆赛事经济",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%A4%BA%E5%86%A0%E5%BC%95%E7%88%86%E8%B5%9B%E4%BA%8B%E7%BB%8F%E6%B5%8E",
-      "hot_value": "1,282万",
-      "index": 4
+      "title": "洛阳两车相撞致2死4伤",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B4%9B%E9%98%B3%E4%B8%A4%E8%BD%A6%E7%9B%B8%E6%92%9E%E8%87%B42%E6%AD%BB4%E4%BC%A4",
+      "hot_value": "1,163.3万",
+      "index": 8
     },
     {
-      "title": "1.9元汽水涉事医务人员已报警",
-      "url": "https://www.kuaishou.com/search/video?searchKey=1.9%E5%85%83%E6%B1%BD%E6%B0%B4%E6%B6%89%E4%BA%8B%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E5%B7%B2%E6%8A%A5%E8%AD%A6",
-      "hot_value": "1,265.7万",
-      "index": 5
+      "title": "丈夫出轨转700万妻子告小三败诉",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E8%BD%AC700%E4%B8%87%E5%A6%BB%E5%AD%90%E5%91%8A%E5%B0%8F%E4%B8%89%E8%B4%A5%E8%AF%89",
+      "hot_value": "1,077.3万",
+      "index": 9
     },
     {
       "title": "人民日报评双汇处罚到人",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%8F%8C%E6%B1%87%E5%A4%84%E7%BD%9A%E5%88%B0%E4%BA%BA",
-      "hot_value": "1,257.7万",
-      "index": 6
-    },
-    {
-      "title": "女子6毫米结节确诊乳腺癌",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%906%E6%AF%AB%E7%B1%B3%E7%BB%93%E8%8A%82%E7%A1%AE%E8%AF%8A%E4%B9%B3%E8%85%BA%E7%99%8C",
-      "hot_value": "1,248.2万",
-      "index": 7
-    },
-    {
-      "title": "俄称仍在就能源停火进行接触",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BF%84%E7%A7%B0%E4%BB%8D%E5%9C%A8%E5%B0%B1%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB%E8%BF%9B%E8%A1%8C%E6%8E%A5%E8%A7%A6",
-      "hot_value": "1,236万",
-      "index": 8
-    },
-    {
-      "title": "南方暴雨大暴雨再度来袭",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%86%8D%E5%BA%A6%E6%9D%A5%E8%A2%AD",
-      "hot_value": "1,110.1万",
-      "index": 9
-    },
-    {
-      "title": "摩根弗里曼山东分曼",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%91%A9%E6%A0%B9%E5%BC%97%E9%87%8C%E6%9B%BC%E5%B1%B1%E4%B8%9C%E5%88%86%E6%9B%BC",
-      "hot_value": "1,089.8万",
+      "hot_value": "1,057.2万",
       "index": 10
     },
     {
       "title": "电动牙刷会导致牙釉质变薄系误区",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%E4%BC%9A%E5%AF%BC%E8%87%B4%E7%89%99%E9%87%89%E8%B4%A8%E5%8F%98%E8%96%84%E7%B3%BB%E8%AF%AF%E5%8C%BA",
-      "hot_value": "1,054.3万",
+      "hot_value": "1,032.4万",
       "index": 11
     },
     {
-      "title": "官方通报滴露物化女性广告",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%BB%B4%E9%9C%B2%E7%89%A9%E5%8C%96%E5%A5%B3%E6%80%A7%E5%B9%BF%E5%91%8A",
-      "hot_value": "1,045.9万",
+      "title": "A股超4400只个股下跌",
+      "url": "https://www.kuaishou.com/search/video?searchKey=A%E8%82%A1%E8%B6%854400%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8B%E8%B7%8C",
+      "hot_value": "1,013.3万",
       "index": 12
     },
     {
-      "title": "浙江省公安厅原一级高级警长被查",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B5%99%E6%B1%9F%E7%9C%81%E5%85%AC%E5%AE%89%E5%8E%85%E5%8E%9F%E4%B8%80%E7%BA%A7%E9%AB%98%E7%BA%A7%E8%AD%A6%E9%95%BF%E8%A2%AB%E6%9F%A5",
-      "hot_value": "982.1万",
+      "title": "真的很帅手势舞",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%9C%9F%E7%9A%84%E5%BE%88%E5%B8%85%E6%89%8B%E5%8A%BF%E8%88%9E",
+      "hot_value": "1,010.6万",
       "index": 13
     },
     {
-      "title": "河南版师傅教我闪身步",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%B3%E5%8D%97%E7%89%88%E5%B8%88%E5%82%85%E6%95%99%E6%88%91%E9%97%AA%E8%BA%AB%E6%AD%A5",
-      "hot_value": "979.8万",
+      "title": "辽宁盘锦发生3.4级地震",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%BE%BD%E5%AE%81%E7%9B%98%E9%94%A6%E5%8F%91%E7%94%9F3.4%E7%BA%A7%E5%9C%B0%E9%9C%87",
+      "hot_value": "1,008万",
       "index": 14
     },
     {
-      "title": "丈夫出轨转700万妻子告小三败诉",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E8%BD%AC700%E4%B8%87%E5%A6%BB%E5%AD%90%E5%91%8A%E5%B0%8F%E4%B8%89%E8%B4%A5%E8%AF%89",
-      "hot_value": "977.3万",
+      "title": "红军渡口上建起世界级水电站",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BA%A2%E5%86%9B%E6%B8%A1%E5%8F%A3%E4%B8%8A%E5%BB%BA%E8%B5%B7%E4%B8%96%E7%95%8C%E7%BA%A7%E6%B0%B4%E7%94%B5%E7%AB%99",
+      "hot_value": "1,005.7万",
       "index": 15
     },
     {
-      "title": "10岁女童被老师摸脸索赔遭驳",
-      "url": "https://www.kuaishou.com/search/video?searchKey=10%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E8%80%81%E5%B8%88%E6%91%B8%E8%84%B8%E7%B4%A2%E8%B5%94%E9%81%AD%E9%A9%B3",
-      "hot_value": "971.8万",
+      "title": "沙特首都利雅得传出剧烈爆炸声",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%88%A9%E9%9B%85%E5%BE%97%E4%BC%A0%E5%87%BA%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8%E5%A3%B0",
+      "hot_value": "1,003.7万",
       "index": 16
     },
     {
-      "title": "南方暴雨广东却还在过夏",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E5%B9%BF%E4%B8%9C%E5%8D%B4%E8%BF%98%E5%9C%A8%E8%BF%87%E5%A4%8F",
-      "hot_value": "967.2万",
+      "title": "女子腹痛在机场2元买散装布洛芬",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E5%AD%90%E8%85%B9%E7%97%9B%E5%9C%A8%E6%9C%BA%E5%9C%BA2%E5%85%83%E4%B9%B0%E6%95%A3%E8%A3%85%E5%B8%83%E6%B4%9B%E8%8A%AC",
+      "hot_value": "1,001.3万",
       "index": 17
     },
     {
-      "title": "张某窃取内部文件30万份卖境外",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BC%A0%E6%9F%90%E7%AA%83%E5%8F%96%E5%86%85%E9%83%A8%E6%96%87%E4%BB%B630%E4%B8%87%E4%BB%BD%E5%8D%96%E5%A2%83%E5%A4%96",
-      "hot_value": "962.1万",
+      "title": "金晨自曝美国游学遇学校倒闭",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%87%91%E6%99%A8%E8%87%AA%E6%9B%9D%E7%BE%8E%E5%9B%BD%E6%B8%B8%E5%AD%A6%E9%81%87%E5%AD%A6%E6%A0%A1%E5%80%92%E9%97%AD",
+      "hot_value": "998.3万",
       "index": 18
     },
     {
-      "title": "向太称张家齐母亲谎话连篇",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%90%91%E5%A4%AA%E7%A7%B0%E5%BC%A0%E5%AE%B6%E9%BD%90%E6%AF%8D%E4%BA%B2%E8%B0%8E%E8%AF%9D%E8%BF%9E%E7%AF%87",
-      "hot_value": "960.7万",
+      "title": "上海年末演唱会接力开唱",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A%E6%B5%B7%E5%B9%B4%E6%9C%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8E%A5%E5%8A%9B%E5%BC%80%E5%94%B1",
+      "hot_value": "996万",
       "index": 19
     },
     {
-      "title": "沈腾承包全季笑点",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B2%88%E8%85%BE%E6%89%BF%E5%8C%85%E5%85%A8%E5%AD%A3%E7%AC%91%E7%82%B9",
-      "hot_value": "954.8万",
+      "title": "微信上线绿泡泡短剧",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BE%AE%E4%BF%A1%E4%B8%8A%E7%BA%BF%E7%BB%BF%E6%B3%A1%E6%B3%A1%E7%9F%AD%E5%89%A7",
+      "hot_value": "993.8万",
       "index": 20
     },
     {
-      "title": "王者玩家撞脸李白",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E8%80%85%E7%8E%A9%E5%AE%B6%E6%92%9E%E8%84%B8%E6%9D%8E%E7%99%BD",
-      "hot_value": "952万",
+      "title": "我看你的眼神 你还记得吗",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%91%E7%9C%8B%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%A5%9E%20%E4%BD%A0%E8%BF%98%E8%AE%B0%E5%BE%97%E5%90%97",
+      "hot_value": "990.9万",
       "index": 21
     },
     {
-      "title": "陈小纭整骨近10次认不出",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%99%88%E5%B0%8F%E7%BA%AD%E6%95%B4%E9%AA%A8%E8%BF%9110%E6%AC%A1%E8%AE%A4%E4%B8%8D%E5%87%BA",
-      "hot_value": "951.7万",
+      "title": "摩根弗里曼山东分曼",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%91%A9%E6%A0%B9%E5%BC%97%E9%87%8C%E6%9B%BC%E5%B1%B1%E4%B8%9C%E5%88%86%E6%9B%BC",
+      "hot_value": "988.4万",
       "index": 22
     },
     {
-      "title": "员工利用AI辅助工作被公司开除",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%91%98%E5%B7%A5%E5%88%A9%E7%94%A8AI%E8%BE%85%E5%8A%A9%E5%B7%A5%E4%BD%9C%E8%A2%AB%E5%85%AC%E5%8F%B8%E5%BC%80%E9%99%A4",
-      "hot_value": "946.5万",
+      "title": "熊出没连上古妖兽都是文化人",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%86%8A%E5%87%BA%E6%B2%A1%E8%BF%9E%E4%B8%8A%E5%8F%A4%E5%A6%96%E5%85%BD%E9%83%BD%E6%98%AF%E6%96%87%E5%8C%96%E4%BA%BA",
+      "hot_value": "985.5万",
       "index": 23
     },
     {
-      "title": "成都一宠物犬遭电猫电死",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%88%90%E9%83%BD%E4%B8%80%E5%AE%A0%E7%89%A9%E7%8A%AC%E9%81%AD%E7%94%B5%E7%8C%AB%E7%94%B5%E6%AD%BB",
-      "hot_value": "942.1万",
+      "title": "俄称仍在就能源停火进行接触",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BF%84%E7%A7%B0%E4%BB%8D%E5%9C%A8%E5%B0%B1%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB%E8%BF%9B%E8%A1%8C%E6%8E%A5%E8%A7%A6",
+      "hot_value": "982.8万",
       "index": 24
-    },
-    {
-      "title": "山东伦敦腔大爷出口就是哲学",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B1%B1%E4%B8%9C%E4%BC%A6%E6%95%A6%E8%85%94%E5%A4%A7%E7%88%B7%E5%87%BA%E5%8F%A3%E5%B0%B1%E6%98%AF%E5%93%B2%E5%AD%A6",
-      "hot_value": "939.9万",
-      "index": 25
-    },
-    {
-      "title": "美人余余梦发现老公保姆偷情换床",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%BE%8E%E4%BA%BA%E4%BD%99%E4%BD%99%E6%A2%A6%E5%8F%91%E7%8E%B0%E8%80%81%E5%85%AC%E4%BF%9D%E5%A7%86%E5%81%B7%E6%83%85%E6%8D%A2%E5%BA%8A",
-      "hot_value": "935.4万",
-      "index": 26
-    },
-    {
-      "title": "用猪皮做无骨鸡爪",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%A8%E7%8C%AA%E7%9A%AE%E5%81%9A%E6%97%A0%E9%AA%A8%E9%B8%A1%E7%88%AA",
-      "hot_value": "935.3万",
-      "index": 27
     },
     {
       "title": "读懂红军跨越时空的承诺",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E8%AF%BB%E6%87%82%E7%BA%A2%E5%86%9B%E8%B7%A8%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E6%89%BF%E8%AF%BA",
-      "hot_value": "932.6万",
+      "hot_value": "975万",
+      "index": 25
+    },
+    {
+      "title": "包惠被开除党籍",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%85%E6%83%A0%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D",
+      "hot_value": "972.3万",
+      "index": 26
+    },
+    {
+      "title": "姚振华等被执行20.5亿",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A7%9A%E6%8C%AF%E5%8D%8E%E7%AD%89%E8%A2%AB%E6%89%A7%E8%A1%8C20.5%E4%BA%BF",
+      "hot_value": "969.6万",
+      "index": 27
+    },
+    {
+      "title": "官方通报女子高铁开免提打电话",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E5%BC%80%E5%85%8D%E6%8F%90%E6%89%93%E7%94%B5%E8%AF%9D",
+      "hot_value": "966.9万",
       "index": 28
     },
     {
-      "title": "香港警方打击一跨国卖淫集团",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E6%89%93%E5%87%BB%E4%B8%80%E8%B7%A8%E5%9B%BD%E5%8D%96%E6%B7%AB%E9%9B%86%E5%9B%A2",
-      "hot_value": "930万",
+      "title": "10岁女童被老师摸脸索赔遭驳",
+      "url": "https://www.kuaishou.com/search/video?searchKey=10%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E8%80%81%E5%B8%88%E6%91%B8%E8%84%B8%E7%B4%A2%E8%B5%94%E9%81%AD%E9%A9%B3",
+      "hot_value": "964.1万",
       "index": 29
     },
     {
-      "title": "生化危机爆发夜的丧尸雨是实拍",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E7%9A%84%E4%B8%A7%E5%B0%B8%E9%9B%A8%E6%98%AF%E5%AE%9E%E6%8B%8D",
-      "hot_value": "927.6万",
+      "title": "印度10岁女孩寺庙内遭男子强抱",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8D%B0%E5%BA%A610%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%AF%BA%E5%BA%99%E5%86%85%E9%81%AD%E7%94%B7%E5%AD%90%E5%BC%BA%E6%8A%B1",
+      "hot_value": "961.9万",
       "index": 30
     }
   ]
