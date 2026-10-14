@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-14T15:19:00Z",
+  "update_time": "2026-10-14T19:32:59Z",
   "count": 30,
   "list": [
     {
-      "title": "《明日方舟：终末地》干员叙事 [祀：洒扫庭除]",
-      "url": "https://www.bilibili.com/video/BV1fspq6cEty",
-      "hot_value": "1971307播放",
+      "title": "能玩这游戏十年的人做什么都会成功的",
+      "url": "https://www.bilibili.com/video/BV1tvp96tEZN",
+      "hot_value": "1757581播放",
       "index": 1
-    },
-    {
-      "title": "整蛊！骗妈妈说给她接了野生狗奶广告…再和男友偷偷灌入超臭豆汁！",
-      "url": "https://www.bilibili.com/video/BV15Qp16yE5H",
-      "hot_value": "121685播放",
-      "index": 2
-    },
-    {
-      "title": "2026全球总决赛LPL赛区出征片《风起今朝》",
-      "url": "https://www.bilibili.com/video/BV132pr6aEXS",
-      "hot_value": "803948播放",
-      "index": 3
-    },
-    {
-      "title": "【TF家族练习生】《成长档案NO.0915-不熄灭的歌》张奕然生日纪录片",
-      "url": "https://www.bilibili.com/video/BV1fnp269Ew9",
-      "hot_value": "219652播放",
-      "index": 4
-    },
-    {
-      "title": "“这波秒开仙人，直接把六小龄童看呆了！”",
-      "url": "https://www.bilibili.com/video/BV1Fspj66E66",
-      "hot_value": "1870560播放",
-      "index": 5
-    },
-    {
-      "title": "印度排位对局👳🏽绝活天残脚vs丝滑半截山！😱从来没有见过这等招式！",
-      "url": "https://www.bilibili.com/video/BV1ezWw6oETf",
-      "hot_value": "1561362播放",
-      "index": 6
-    },
-    {
-      "title": "我去当司机大家觉得有搞头嘛！",
-      "url": "https://www.bilibili.com/video/BV1kKWA6uEyr",
-      "hot_value": "2302177播放",
-      "index": 7
-    },
-    {
-      "title": "[BDAY Project] Paris texas - Everybody's safe until...",
-      "url": "https://www.bilibili.com/video/BV1MiWA6UETU",
-      "hot_value": "386062播放",
-      "index": 8
-    },
-    {
-      "title": "【萌黄一槽】是谁“电眼逼人”？迪鲁达全技能爆料！",
-      "url": "https://www.bilibili.com/video/BV1phpC6nEjG",
-      "hot_value": "677954播放",
-      "index": 9
-    },
-    {
-      "title": "原来502胶水是这么来的！致敬伟大的科研人员！",
-      "url": "https://www.bilibili.com/video/BV1mRWw62ErA",
-      "hot_value": "1000404播放",
-      "index": 10
     },
     {
       "title": "【Re:从零开始的AI学习】第一季总集篇｜从入门到用好 AI",
       "url": "https://www.bilibili.com/video/BV1VZWc6dECG",
-      "hot_value": "278549播放",
-      "index": 11
+      "hot_value": "343072播放",
+      "index": 2
     },
     {
-      "title": "“优秀的作品都在讲同一件事”",
-      "url": "https://www.bilibili.com/video/BV1wbpR6HE1g",
-      "hot_value": "2159333播放",
-      "index": 12
-    },
-    {
-      "title": "77天1400公里独自横穿羌塘，杨柳松与北方的空地",
-      "url": "https://www.bilibili.com/video/BV14JpC6ZE3U",
-      "hot_value": "309610播放",
-      "index": 13
-    },
-    {
-      "title": "《异环》明音凛角色PV丨Letters to me",
-      "url": "https://www.bilibili.com/video/BV1hJp469Eo4",
-      "hot_value": "1299547播放",
-      "index": 14
-    },
-    {
-      "title": "原来，小猫是这样认识武警哥哥的～",
-      "url": "https://www.bilibili.com/video/BV1Eapz6PErV",
-      "hot_value": "894620播放",
-      "index": 15
-    },
-    {
-      "title": "睁眼就是豪赌！炒股买房婚恋整容，韩国普通人的人生只能有一种答案？｜地球观察局EP03【视频播客】",
-      "url": "https://www.bilibili.com/video/BV1NGpx66EBh",
-      "hot_value": "759453播放",
-      "index": 16
-    },
-    {
-      "title": "我对不同假期的态度",
-      "url": "https://www.bilibili.com/video/BV1CPWA66EHq",
-      "hot_value": "754021播放",
-      "index": 17
-    },
-    {
-      "title": "在冬夜，一块蛋糕，两个冻人",
-      "url": "https://www.bilibili.com/video/BV1uYWA6DEVV",
-      "hot_value": "706471播放",
-      "index": 18
-    },
-    {
-      "title": "时隔9年，我好像变了一个人…",
-      "url": "https://www.bilibili.com/video/BV1Zpp26pEoK",
-      "hot_value": "183302播放",
-      "index": 19
-    },
-    {
-      "title": "常用医学小技能，才不是武术什么的呢",
-      "url": "https://www.bilibili.com/video/BV18Bpd6PEu3",
-      "hot_value": "954235播放",
-      "index": 20
-    },
-    {
-      "title": "【Karsa】终于跟RNG老队友重逢了🥺｜上海VLOG EP2",
-      "url": "https://www.bilibili.com/video/BV1E4pq6fE8A",
-      "hot_value": "227155播放",
-      "index": 21
-    },
-    {
-      "title": "萌新原创末日故事连载《归墟》第十九集-树根【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1F6po6QE2y",
-      "hot_value": "248646播放",
-      "index": 22
-    },
-    {
-      "title": "大庆，一座孤独的城市",
-      "url": "https://www.bilibili.com/video/BV1Pupy6sExt",
-      "hot_value": "290143播放",
-      "index": 23
-    },
-    {
-      "title": "乌鲁鲁总裁1v12全局解说",
-      "url": "https://www.bilibili.com/video/BV1HTWA6BE1R",
-      "hot_value": "319598播放",
-      "index": 24
+      "title": "原来502胶水是这么来的！致敬伟大的科研人员！",
+      "url": "https://www.bilibili.com/video/BV1mRWw62ErA",
+      "hot_value": "1197435播放",
+      "index": 3
     },
     {
       "title": "这下可好了！收养一只咪，迎来一大群！",
       "url": "https://www.bilibili.com/video/BV1cApB6NEPq",
-      "hot_value": "440636播放",
+      "hot_value": "586413播放",
+      "index": 4
+    },
+    {
+      "title": "77天1400公里独自横穿羌塘，杨柳松与北方的空地",
+      "url": "https://www.bilibili.com/video/BV14JpC6ZE3U",
+      "hot_value": "441824播放",
+      "index": 5
+    },
+    {
+      "title": "[BDAY Project] Paris texas - Everybody's safe until...",
+      "url": "https://www.bilibili.com/video/BV1MiWA6UETU",
+      "hot_value": "506271播放",
+      "index": 6
+    },
+    {
+      "title": "大庆，一座孤独的城市",
+      "url": "https://www.bilibili.com/video/BV1Pupy6sExt",
+      "hot_value": "377225播放",
+      "index": 7
+    },
+    {
+      "title": "也是当上外卖大法官了【第二集】",
+      "url": "https://www.bilibili.com/video/BV1d4p26SExE",
+      "hot_value": "189525播放",
+      "index": 8
+    },
+    {
+      "title": "2026全球总决赛LPL赛区出征片《风起今朝》",
+      "url": "https://www.bilibili.com/video/BV132pr6aEXS",
+      "hot_value": "950470播放",
+      "index": 9
+    },
+    {
+      "title": "【Karsa】终于跟RNG老队友重逢了🥺｜上海VLOG EP2",
+      "url": "https://www.bilibili.com/video/BV1E4pq6fE8A",
+      "hot_value": "373051播放",
+      "index": 10
+    },
+    {
+      "title": "“这波秒开仙人，直接把六小龄童看呆了！”",
+      "url": "https://www.bilibili.com/video/BV1Fspj66E66",
+      "hot_value": "2084104播放",
+      "index": 11
+    },
+    {
+      "title": "《明日方舟：终末地》干员叙事 [祀：洒扫庭除]",
+      "url": "https://www.bilibili.com/video/BV1fspq6cEty",
+      "hot_value": "2059211播放",
+      "index": 12
+    },
+    {
+      "title": "印度排位对局👳🏽绝活天残脚vs丝滑半截山！😱从来没有见过这等招式！",
+      "url": "https://www.bilibili.com/video/BV1ezWw6oETf",
+      "hot_value": "1770841播放",
+      "index": 13
+    },
+    {
+      "title": "我去当司机大家觉得有搞头嘛！",
+      "url": "https://www.bilibili.com/video/BV1kKWA6uEyr",
+      "hot_value": "2501851播放",
+      "index": 14
+    },
+    {
+      "title": "李秀满新女团会再次拯救KPOP吗？韩国人怎么评价a2o lite 出道！",
+      "url": "https://www.bilibili.com/video/BV1eRpi6DEq6",
+      "hot_value": "300298播放",
+      "index": 15
+    },
+    {
+      "title": "再访",
+      "url": "https://www.bilibili.com/video/BV149WF6zEw2",
+      "hot_value": "1560619播放",
+      "index": 16
+    },
+    {
+      "title": "《异环》明音凛角色PV丨Letters to me",
+      "url": "https://www.bilibili.com/video/BV1hJp469Eo4",
+      "hot_value": "1417374播放",
+      "index": 17
+    },
+    {
+      "title": "我对不同假期的态度",
+      "url": "https://www.bilibili.com/video/BV1CPWA66EHq",
+      "hot_value": "842372播放",
+      "index": 18
+    },
+    {
+      "title": "在冬夜，一块蛋糕，两个冻人",
+      "url": "https://www.bilibili.com/video/BV1uYWA6DEVV",
+      "hot_value": "759445播放",
+      "index": 19
+    },
+    {
+      "title": "咦？2045年的霍格沃茨，已经是一所国际魔法学校了？｜广东插班生｜第一章",
+      "url": "https://www.bilibili.com/video/BV1VpWA6tE8P",
+      "hot_value": "185556播放",
+      "index": 20
+    },
+    {
+      "title": "“什么情况？杀不死？”“月君，笔记的储备还充足吗？”",
+      "url": "https://www.bilibili.com/video/BV1Sepk6bEZC",
+      "hot_value": "725478播放",
+      "index": 21
+    },
+    {
+      "title": "法军单兵口粮，很像春游大礼包",
+      "url": "https://www.bilibili.com/video/BV1LBpz6FEwR",
+      "hot_value": "430812播放",
+      "index": 22
+    },
+    {
+      "title": "射手牢玩家感觉没什么用，我过来把射手位置占了",
+      "url": "https://www.bilibili.com/video/BV13cpq6mEtR",
+      "hot_value": "587102播放",
+      "index": 23
+    },
+    {
+      "title": "基米呐基米，狗哥断不了情根！",
+      "url": "https://www.bilibili.com/video/BV1uaWA6HESq",
+      "hot_value": "1973958播放",
+      "index": 24
+    },
+    {
+      "title": "【萌黄一槽】是谁“电眼逼人”？迪鲁达全技能爆料！",
+      "url": "https://www.bilibili.com/video/BV1phpC6nEjG",
+      "hot_value": "782984播放",
       "index": 25
     },
     {
       "title": "今天的飞拉达不简单啊，上来就是悬崖小飞车！",
       "url": "https://www.bilibili.com/video/BV14Kpv6vE8p",
-      "hot_value": "1379843播放",
+      "hot_value": "1481707播放",
       "index": 26
     },
     {
-      "title": "基米呐基米，狗哥断不了情根！",
-      "url": "https://www.bilibili.com/video/BV1uaWA6HESq",
-      "hot_value": "1807634播放",
+      "title": "“优秀的作品都在讲同一件事”",
+      "url": "https://www.bilibili.com/video/BV1wbpR6HE1g",
+      "hot_value": "2273590播放",
       "index": 27
     },
     {
-      "title": "再访",
-      "url": "https://www.bilibili.com/video/BV149WF6zEw2",
-      "hot_value": "1416391播放",
+      "title": "当我试图驯服 ai 做视频 063集【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV17zpR6yEg2",
+      "hot_value": "702746播放",
       "index": 28
     },
     {
-      "title": "《银牌的眼泪》｜最痛的，不是失败，是“差一点”",
-      "url": "https://www.bilibili.com/video/BV12DHQ61EhT",
-      "hot_value": "1121025播放",
+      "title": "护:哥你这不是给我俩送钱吗？护：不对！我掉进陷阱了！打了两天还是零进度的护子终于发现事情的严重性了",
+      "url": "https://www.bilibili.com/video/BV1utWc6jEo5",
+      "hot_value": "885159播放",
       "index": 29
     },
     {
-      "title": "游戏史上最权威的游戏？！",
-      "url": "https://www.bilibili.com/video/BV1PGp26cEut",
-      "hot_value": "34632播放",
+      "title": "【抢先版】碰章鱼你就摊上事了",
+      "url": "https://www.bilibili.com/video/BV16Dp76rETG",
+      "hot_value": "1412813播放",
       "index": 30
     }
   ]
