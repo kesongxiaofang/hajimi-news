@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-15T06:08:49Z",
+  "update_time": "2026-10-15T11:52:26Z",
   "count": 30,
   "list": [
     {
-      "title": "10 月 15 日 DeepSeek 网页和 App 显示「服务器暂时不可用」，可能是哪些原因导致的？",
+      "title": "10 月 15 日 DeepSeek 网页和 App 显示「服务器暂时不可用」，后发布补偿方案，可能是啥原因导致的？",
       "url": "https://www.zhihu.com/question/2093997001205445814",
-      "hot_value": "1260 万热度",
+      "hot_value": "2627 万热度",
       "index": 1
-    },
-    {
-      "title": "「耻辱」合影事件最新进展，雷波县教体局局长已被调离，这样的处置方式如何？",
-      "url": "https://www.zhihu.com/question/2093768214543087532",
-      "hot_value": "938 万热度",
-      "index": 2
-    },
-    {
-      "title": "名校硕士辞职去大专教书，年薪 25 万降至月薪 9 千，本人称试过了才知要什么，如何看待这种职业选择？",
-      "url": "https://www.zhihu.com/question/2093748550467437948",
-      "hot_value": "334 万热度",
-      "index": 3
-    },
-    {
-      "title": "短剧被指让人越看越「笨」，高密度反转的短剧真的会影响专注力吗？为啥短剧一刷就停不下来？",
-      "url": "https://www.zhihu.com/question/2093793245977211953",
-      "hot_value": "202 万热度",
-      "index": 4
-    },
-    {
-      "title": "又漂亮又丑的长相是什么样子的？",
-      "url": "https://www.zhihu.com/question/323389488",
-      "hot_value": "194 万热度",
-      "index": 5
-    },
-    {
-      "title": "前中国工程院院士、中南大学原校长张尧学被逮捕，受贿数额特别巨大，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2093694552544470480",
-      "hot_value": "192 万热度",
-      "index": 6
-    },
-    {
-      "title": "南京博物院回应「徐湖平去世」，称目前暂未掌握该消息，具体情况如何？",
-      "url": "https://www.zhihu.com/question/2093705623174996417",
-      "hot_value": "190 万热度",
-      "index": 7
-    },
-    {
-      "title": "《西游记》里的二郎神坑杀了花果山无数猴精，孙悟空为何不计前嫌与其称兄道弟？",
-      "url": "https://www.zhihu.com/question/44016534",
-      "hot_value": "185 万热度",
-      "index": 8
-    },
-    {
-      "title": "豆包手机助手放开屏幕自动化操作权限，阿里、腾讯系等 App 明确拒绝，如何看待此事？存在哪些争议点？",
-      "url": "https://www.zhihu.com/question/2093648090582599188",
-      "hot_value": "181 万热度",
-      "index": 9
-    },
-    {
-      "title": "如何评价京东 iPhone Duo 早鸟包，不能抵手机款且不能退款，被网友指官方黄牛？平台这样做合理吗？",
-      "url": "https://www.zhihu.com/question/2093803354644112874",
-      "hot_value": "179 万热度",
-      "index": 10
-    },
-    {
-      "title": "怎样看待沙特阿美石油公司位于达曼的总部被胡塞武装的导弹击中，遭到大面积破坏？",
-      "url": "https://www.zhihu.com/question/2093669434577646524",
-      "hot_value": "178 万热度",
-      "index": 11
-    },
-    {
-      "title": "研究显示中国高校教师平均年薪 15.54 万元，此收入是高是低，薪酬体系如何影响教学与科研平衡？",
-      "url": "https://www.zhihu.com/question/2031055936807231647",
-      "hot_value": "178 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何评价博主「北美花生就是我」爆料懂车帝曾测试出丰田赛那车型后摆臂断裂，但未进行发布？",
-      "url": "https://www.zhihu.com/question/2093821528492204459",
-      "hot_value": "165 万热度",
-      "index": 13
-    },
-    {
-      "title": "网友称部分华为门店样机试用被限时，门店称「防止小孩长时间占用样机打游戏」，这种规定合理吗？",
-      "url": "https://www.zhihu.com/question/2093023077651177575",
-      "hot_value": "157 万热度",
-      "index": 14
-    },
-    {
-      "title": "苏轼连续被贬惠州儋州，为什么不辞官回乡，过普通人生活？",
-      "url": "https://www.zhihu.com/question/2090920560666612421",
-      "hot_value": "155 万热度",
-      "index": 15
-    },
-    {
-      "title": "火箭为什么非得一级一级扔，做一枚能直接飞上天的「大火箭」不行吗？",
-      "url": "https://www.zhihu.com/question/2092580800571229106",
-      "hot_value": "153 万热度",
-      "index": 16
-    },
-    {
-      "title": "陈妤颉个子不高，咋跑得那么快？身高、腿长和跑步快慢有关吗？",
-      "url": "https://www.zhihu.com/question/2091086803856004225",
-      "hot_value": "149 万热度",
-      "index": 17
-    },
-    {
-      "title": "双 11 促销规则越来越简单，为啥电商平台开始放弃复杂的满减玩法？电商大促正在发生哪些变化？",
-      "url": "https://www.zhihu.com/question/2093836201601890009",
-      "hot_value": "140 万热度",
-      "index": 18
-    },
-    {
-      "title": "欧冠曼城 2:4 不敌巴黎圣日尔曼，哈兰德双响难救主，杜埃、登贝莱传射，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2093931613084181179",
-      "hot_value": "123 万热度",
-      "index": 19
-    },
-    {
-      "title": "「晕车」是否说明人类的身体还未适应现代的生活方式？",
-      "url": "https://www.zhihu.com/question/1923125997043164041",
-      "hot_value": "123 万热度",
-      "index": 20
-    },
-    {
-      "title": "网友称小米 SU7 刹车助力器故障频发，是真的吗？双备份制动系统为何还会出现踏板异常？",
-      "url": "https://www.zhihu.com/question/2092709077810005997",
-      "hot_value": "123 万热度",
-      "index": 21
-    },
-    {
-      "title": "为什么很多玩家认为买断制游戏反而更划算？",
-      "url": "https://www.zhihu.com/question/2032057148964915186",
-      "hot_value": "123 万热度",
-      "index": 22
     },
     {
       "title": "长实集团回应李嘉诚去世传闻称「绝无其事」，目前李嘉诚的身体状况如何？",
       "url": "https://www.zhihu.com/question/2094036953070920084",
-      "hot_value": "117 万热度",
+      "hot_value": "678 万热度",
+      "index": 2
+    },
+    {
+      "title": "「耻辱」合影事件最新进展，雷波县教体局局长已被调离，这样的处置方式如何？",
+      "url": "https://www.zhihu.com/question/2093768214543087532",
+      "hot_value": "536 万热度",
+      "index": 3
+    },
+    {
+      "title": "四部门公布纸尿裤甲酰胺问题调查结果，所有抽检均未检出甲酰胺，还有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2094096740613710016",
+      "hot_value": "344 万热度",
+      "index": 4
+    },
+    {
+      "title": "很久才和爸爸妈妈通一次电话，除了「吃了吗」「考了多少分」，我还能和他们聊什么？",
+      "url": "https://www.zhihu.com/question/2088780580842365978",
+      "hot_value": "314 万热度",
+      "index": 5
+    },
+    {
+      "title": "10 月 15 日全球股市大跌，为什么会这样？相互之间有哪些关联吗？",
+      "url": "https://www.zhihu.com/question/2094053673290528592",
+      "hot_value": "299 万热度",
+      "index": 6
+    },
+    {
+      "title": "看多了 AI 短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？",
+      "url": "https://www.zhihu.com/question/2062123788586726125",
+      "hot_value": "284 万热度",
+      "index": 7
+    },
+    {
+      "title": "酒店因肖战演唱会从 179 元涨到 2193 元，市监部门称「明码标价都是正常的」，你怎么看？这合理吗？",
+      "url": "https://www.zhihu.com/question/2093975692383708744",
+      "hot_value": "282 万热度",
+      "index": 8
+    },
+    {
+      "title": "中国科学家首次用中国大模型攻克世界级数学难题，如何理解这一成果的意义？",
+      "url": "https://www.zhihu.com/question/2094035039738488688",
+      "hot_value": "265 万热度",
+      "index": 9
+    },
+    {
+      "title": "双 11 促销规则越来越简单，为啥电商平台开始放弃复杂的满减玩法？电商大促正在发生哪些变化？",
+      "url": "https://www.zhihu.com/question/2093836201601890009",
+      "hot_value": "214 万热度",
+      "index": 10
+    },
+    {
+      "title": "网友称部分华为门店样机试用被限时，门店称「防止小孩长时间占用样机打游戏」，这种规定合理吗？",
+      "url": "https://www.zhihu.com/question/2093023077651177575",
+      "hot_value": "208 万热度",
+      "index": 11
+    },
+    {
+      "title": "福建工人撞脸陈小春，名字中恰好带陈小春失散弟弟原名中的禄字，当事人回应称仅是巧合，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2093839969966203705",
+      "hot_value": "202 万热度",
+      "index": 12
+    },
+    {
+      "title": "又漂亮又丑的长相是什么样子的？",
+      "url": "https://www.zhihu.com/question/323389488",
+      "hot_value": "182 万热度",
+      "index": 13
+    },
+    {
+      "title": "如何评价京东 iPhone Duo 早鸟包，不能抵手机款且不能退款，被网友指官方黄牛？平台这样做合理吗？",
+      "url": "https://www.zhihu.com/question/2093803354644112874",
+      "hot_value": "173 万热度",
+      "index": 14
+    },
+    {
+      "title": "腾讯上线「绿泡泡短剧」小程序打造短剧闭环，你看好这一产品吗？它该如何撬动红果近 2 亿日活？",
+      "url": "https://www.zhihu.com/question/2093704086344541063",
+      "hot_value": "164 万热度",
+      "index": 15
+    },
+    {
+      "title": "前中国工程院院士、中南大学原校长张尧学被逮捕，受贿数额特别巨大，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2093694552544470480",
+      "hot_value": "154 万热度",
+      "index": 16
+    },
+    {
+      "title": "「晕车」是否说明人类的身体还未适应现代的生活方式？",
+      "url": "https://www.zhihu.com/question/1923125997043164041",
+      "hot_value": "149 万热度",
+      "index": 17
+    },
+    {
+      "title": "为什么古代民窑的瓷器几百块钱就能买到，现在的工艺美术瓷器杯子也要几百块，甚至几千上万?",
+      "url": "https://www.zhihu.com/question/390909665",
+      "hot_value": "144 万热度",
+      "index": 18
+    },
+    {
+      "title": "如何看待 opencode go 将 deepseek v4.1 flash 单独提到了 80 美元额度支持？",
+      "url": "https://www.zhihu.com/question/2093027350602593089",
+      "hot_value": "138 万热度",
+      "index": 19
+    },
+    {
+      "title": "蒙古国草原火灾未越过边境线，3400 余人在边境一线巡护，具体情况如何？可能带来怎样的影响？",
+      "url": "https://www.zhihu.com/question/2092955690059014764",
+      "hot_value": "132 万热度",
+      "index": 20
+    },
+    {
+      "title": "懂车帝先是辟谣北美花生非前员工，三天后改口「夸大员工身份」并法律固证，如何看待这种辟谣口径的变化？",
+      "url": "https://www.zhihu.com/question/2093698720374207159",
+      "hot_value": "123 万热度",
+      "index": 21
+    },
+    {
+      "title": "也门胡塞武装称再次袭击沙特首都机场和阿美石油设施，目前当地局势如何？双方的冲突可能会持续多久？",
+      "url": "https://www.zhihu.com/question/2093972687680796387",
+      "hot_value": "114 万热度",
+      "index": 22
+    },
+    {
+      "title": "新三国的袁绍袁术兄弟为何塑造成宽厚智慧的人物形象？",
+      "url": "https://www.zhihu.com/question/2083073787159897757",
+      "hot_value": "93 万热度",
       "index": 23
     },
     {
-      "title": "2627 欧冠联赛欧冠联赛阶段第 2 轮罗马 3:4 皇家马德里，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2093899231912276703",
-      "hot_value": "104 万热度",
+      "title": "为什么偶像剧最近扎堆出现「二婚男主」？这类设定有什么特点？观众实际接受度高吗？",
+      "url": "https://www.zhihu.com/question/2093004955602739937",
+      "hot_value": "89 万热度",
       "index": 24
     },
     {
-      "title": "三国时期的「挟天子以令诸侯」具体起了多大作用？",
-      "url": "https://www.zhihu.com/question/2091486074048726193",
-      "hot_value": "100 万热度",
+      "title": "LoL 官方宣布经典模式将于 2027 年 1 月下架，怀旧模式为何难以留住玩家？",
+      "url": "https://www.zhihu.com/question/2094017633859408212",
+      "hot_value": "85 万热度",
       "index": 25
     },
     {
-      "title": "中国历史上「分久必合」，而西罗马崩溃后的欧洲，分裂之后再也没实现大一统，为什么？",
-      "url": "https://www.zhihu.com/question/2093575137585115147",
-      "hot_value": "97 万热度",
+      "title": "网友称小米 SU7 刹车助力器故障频发，是真的吗？双备份制动系统为何还会出现踏板异常？",
+      "url": "https://www.zhihu.com/question/2092709077810005997",
+      "hot_value": "79 万热度",
       "index": 26
     },
     {
-      "title": "如何评价 2026 年 10 月 15 日，DeepSeek 官网，App，服务器暂时不可用，是有新的模型要发布吗？",
-      "url": "https://www.zhihu.com/question/2093989124940288385",
-      "hot_value": "96 万热度",
+      "title": "GPT-4 发布三年了，AI 发展符合你当初预期吗，留下你对未来 5 年的预测？",
+      "url": "https://www.zhihu.com/question/2093104847751070034",
+      "hot_value": "73 万热度",
       "index": 27
     },
     {
-      "title": "如何评价《少年张三丰》这部剧？",
-      "url": "https://www.zhihu.com/question/61983416",
-      "hot_value": "96 万热度",
+      "title": "小黄鱼怎么做好吃？",
+      "url": "https://www.zhihu.com/question/296930331",
+      "hot_value": "67 万热度",
       "index": 28
     },
     {
-      "title": "2027 年度国考报名开启，新增实名实人认证防范「围岗」，能根治「围岗」乱象吗？你报名了吗？",
-      "url": "https://www.zhihu.com/question/2093318924318388525",
-      "hot_value": "95 万热度",
+      "title": "钱真的是最重要的吗？",
+      "url": "https://www.zhihu.com/question/617586498",
+      "hot_value": "65 万热度",
       "index": 29
     },
     {
-      "title": "OpenAI 员工涉嫌在高管会议室安装窃听器，结果被自家 AI 协助破案，如何评价这起事件？",
-      "url": "https://www.zhihu.com/question/2093575542540875135",
-      "hot_value": "94 万热度",
+      "title": "管理是应该顺应 / 利用人性，还是对抗 / 压制人性？",
+      "url": "https://www.zhihu.com/question/2068386968807985822",
+      "hot_value": "64 万热度",
       "index": 30
     }
   ]
