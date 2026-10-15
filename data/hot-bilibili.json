@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-15T11:52:26Z",
+  "update_time": "2026-10-15T16:12:32Z",
   "count": 30,
   "list": [
     {
-      "title": "让百万人尖叫的鬼屋？我们发现了这里的秘密……",
-      "url": "https://www.bilibili.com/video/BV1KiJk67Ezw",
-      "hot_value": "209921播放",
-      "index": 1
-    },
-    {
       "title": "《异环》剧情过场丨「God Knows…（异环Cover ver.）」特别动画",
       "url": "https://www.bilibili.com/video/BV1gHp46pER8",
-      "hot_value": "1038653播放",
-      "index": 2
-    },
-    {
-      "title": "泽连斯基有牌打了",
-      "url": "https://www.bilibili.com/video/BV1nyJ66PEPQ",
-      "hot_value": "795305播放",
-      "index": 3
+      "hot_value": "1527768播放",
+      "index": 1
     },
     {
       "title": "《最有耐心の杀手》",
       "url": "https://www.bilibili.com/video/BV1SMJC6sE6R",
-      "hot_value": "606294播放",
+      "hot_value": "1499878播放",
+      "index": 2
+    },
+    {
+      "title": "猜！谁吃到了黑暗料理？",
+      "url": "https://www.bilibili.com/video/BV1RfJk6hENZ",
+      "hot_value": "416389播放",
+      "index": 3
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第11集 消失的出口【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1Nep465Eao",
+      "hot_value": "450689播放",
       "index": 4
     },
     {
-      "title": "《绿梦：时空之声》公测PV | 时序的回响",
-      "url": "https://www.bilibili.com/video/BV1d4p26SE5n",
-      "hot_value": "1247138播放",
+      "title": "《剃刀 》每一个也许都要付钱：0.8⁵ = 33%",
+      "url": "https://www.bilibili.com/video/BV1WkJk6VEqA",
+      "hot_value": "325955播放",
       "index": 5
+    },
+    {
+      "title": "让百万人尖叫的鬼屋？我们发现了这里的秘密……",
+      "url": "https://www.bilibili.com/video/BV1KiJk67Ezw",
+      "hot_value": "557267播放",
+      "index": 6
     },
     {
       "title": "无视风险 继续访问女coser的家",
       "url": "https://www.bilibili.com/video/BV1dfJk6hEjX",
-      "hot_value": "301021播放",
-      "index": 6
-    },
-    {
-      "title": "《明日方舟：终末地》祀EP - 花祀时 & 何处山海万象生",
-      "url": "https://www.bilibili.com/video/BV19ZJ66sEYZ",
-      "hot_value": "702807播放",
+      "hot_value": "664115播放",
       "index": 7
     },
     {
-      "title": "“天 凉 瑕 混”",
-      "url": "https://www.bilibili.com/video/BV1ttp46EEWU",
-      "hot_value": "619713播放",
+      "title": "一家6狗在160m²院子玩水有多快乐?",
+      "url": "https://www.bilibili.com/video/BV1CxJ16DEyK",
+      "hot_value": "208567播放",
       "index": 8
     },
     {
-      "title": "也是当上外卖大法官了【第二集】",
-      "url": "https://www.bilibili.com/video/BV1d4p26SExE",
-      "hot_value": "1747433播放",
+      "title": "【大鸣王潮1566】老实练声骸，很枯燥吧",
+      "url": "https://www.bilibili.com/video/BV14cJ26oE3K",
+      "hot_value": "117087播放",
       "index": 9
     },
     {
-      "title": "百斤玉米 擒巨物",
-      "url": "https://www.bilibili.com/video/BV1Nppn6tEhW",
-      "hot_value": "1106990播放",
+      "title": "扫地机热是热了点，但用着不烧心...",
+      "url": "https://www.bilibili.com/video/BV1N6Jy6pEYq",
+      "hot_value": "145218播放",
       "index": 10
     },
     {
-      "title": "《复联5》前必看！《复联4》后到底发生了啥？",
-      "url": "https://www.bilibili.com/video/BV1xZWw6yEix",
-      "hot_value": "1399720播放",
+      "title": "《绿梦：时空之声》公测PV | 时序的回响",
+      "url": "https://www.bilibili.com/video/BV1d4p26SE5n",
+      "hot_value": "1609731播放",
       "index": 11
+    },
+    {
+      "title": "泽连斯基有牌打了",
+      "url": "https://www.bilibili.com/video/BV1nyJ66PEPQ",
+      "hot_value": "1157666播放",
+      "index": 12
+    },
+    {
+      "title": "《啦嗒铛》1.0正式发售宣传片 | GSE",
+      "url": "https://www.bilibili.com/video/BV1gEps62E1e",
+      "hot_value": "979821播放",
+      "index": 13
     },
     {
       "title": "一觉醒来deepseek和豆包睡在我身边（一）【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1HYp16oE8v",
-      "hot_value": "367114播放",
-      "index": 12
+      "hot_value": "703782播放",
+      "index": 14
     },
     {
       "title": "热烈欢迎袁咏仪！超级爱买的靓靓姐最近又乱买了什么呢？（恭喜靓靓终于演上警察了👏",
       "url": "https://www.bilibili.com/video/BV1Mopr6REu3",
-      "hot_value": "391717播放",
-      "index": 13
-    },
-    {
-      "title": "为什么衣服上Logo越大，穿着反而越不好看?【LKs穿搭理论】",
-      "url": "https://www.bilibili.com/video/BV1L1p16UEof",
-      "hot_value": "84880播放",
-      "index": 14
-    },
-    {
-      "title": "【祀】全方位首发攻略 可C可辅 冰火全能型干员 角色定位/技能解析/配队推荐/装备养成/潜能提升/抽取建议",
-      "url": "https://www.bilibili.com/video/BV1eCJC6hEKN",
-      "hot_value": "320403播放",
+      "hot_value": "643697播放",
       "index": 15
     },
     {
-      "title": "哇青梅竹马天下第一【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1oxp26nELR",
-      "hot_value": "336986播放",
+      "title": "挑战拍出刃牙原作没有的剧情！！宫本武藏vs郭海皇！！",
+      "url": "https://www.bilibili.com/video/BV1KYJk6JEDk",
+      "hot_value": "195936播放",
       "index": 16
-    },
-    {
-      "title": "“老实赚钱，很枯燥对吧 小爱！”",
-      "url": "https://www.bilibili.com/video/BV1PCJy6nEmB",
-      "hot_value": "51223播放",
-      "index": 17
-    },
-    {
-      "title": "《各 地 人 刻 板 印 象》",
-      "url": "https://www.bilibili.com/video/BV1fjpy6UEiN",
-      "hot_value": "685832播放",
-      "index": 18
-    },
-    {
-      "title": "大庆，一座孤独的城市",
-      "url": "https://www.bilibili.com/video/BV1Pupy6sExt",
-      "hot_value": "723243播放",
-      "index": 19
-    },
-    {
-      "title": "婚礼摄影师记录下婚礼后感人一幕……喧闹落幕，新人相视一笑便红了眼眶",
-      "url": "https://www.bilibili.com/video/BV19gp16kEAV",
-      "hot_value": "905136播放",
-      "index": 20
-    },
-    {
-      "title": "《执念尸》第二季14-不蛆【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV16opy6HEwG",
-      "hot_value": "269051播放",
-      "index": 21
-    },
-    {
-      "title": "祀：冰火第四人，锦上添花还是画龙点睛？干员实战攻略，武器装备潜能配队全面测评",
-      "url": "https://www.bilibili.com/video/BV1rCpS6iESY",
-      "hot_value": "259550播放",
-      "index": 22
-    },
-    {
-      "title": "《锻刀大赛》不当人！锻刀前考数学 难哭一众老外",
-      "url": "https://www.bilibili.com/video/BV1Q3J16cEbU",
-      "hot_value": "164900播放",
-      "index": 23
-    },
-    {
-      "title": "结婚3年，但是8口之家",
-      "url": "https://www.bilibili.com/video/BV1a2JC6bENu",
-      "hot_value": "123564播放",
-      "index": 24
-    },
-    {
-      "title": "主播你晚上还能睡得着吗？",
-      "url": "https://www.bilibili.com/video/BV1Z6pC65Ek9",
-      "hot_value": "546240播放",
-      "index": 25
-    },
-    {
-      "title": "【终末地】祀首日攻略 冰队火队两开花 队伍解析+养成推荐",
-      "url": "https://www.bilibili.com/video/BV1ZRJk6PEq8",
-      "hot_value": "105974播放",
-      "index": 26
     },
     {
       "title": "咦？2045年的霍格沃茨，已经是一所国际魔法学校了？｜广东插班生｜第一章",
       "url": "https://www.bilibili.com/video/BV1VpWA6tE8P",
-      "hot_value": "593815播放",
+      "hot_value": "891202播放",
+      "index": 17
+    },
+    {
+      "title": "婚礼摄影师记录下婚礼后感人一幕……喧闹落幕，新人相视一笑便红了眼眶",
+      "url": "https://www.bilibili.com/video/BV19gp16kEAV",
+      "hot_value": "1341281播放",
+      "index": 18
+    },
+    {
+      "title": "《癫佬外传2》第一集【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1phpC6nEjq",
+      "hot_value": "241477播放",
+      "index": 19
+    },
+    {
+      "title": "这期很有教育意义…",
+      "url": "https://www.bilibili.com/video/BV1GRp16kEzQ",
+      "hot_value": "952141播放",
+      "index": 20
+    },
+    {
+      "title": "日本号称最便宜炸鸡，进店价格翻倍！究竟因为啥？",
+      "url": "https://www.bilibili.com/video/BV1DtJk6XE7R",
+      "hot_value": "296434播放",
+      "index": 21
+    },
+    {
+      "title": "《复联5》前必看！《复联4》后到底发生了啥？",
+      "url": "https://www.bilibili.com/video/BV1xZWw6yEix",
+      "hot_value": "1655763播放",
+      "index": 22
+    },
+    {
+      "title": "百斤玉米 擒巨物",
+      "url": "https://www.bilibili.com/video/BV1Nppn6tEhW",
+      "hot_value": "1413535播放",
+      "index": 23
+    },
+    {
+      "title": "大和民族“从来都是吃草的”然而洋大人笑翻了",
+      "url": "https://www.bilibili.com/video/BV1xfJC6nEHu",
+      "hot_value": "260015播放",
+      "index": 24
+    },
+    {
+      "title": "震惊瘫坐！特斯拉，你来真的啊？",
+      "url": "https://www.bilibili.com/video/BV13tJy6hEaS",
+      "hot_value": "149982播放",
+      "index": 25
+    },
+    {
+      "title": "我造了一块会飞的滑板...",
+      "url": "https://www.bilibili.com/video/BV1KiJk67EQ9",
+      "hot_value": "115841播放",
+      "index": 26
+    },
+    {
+      "title": "人类方派出了…一只老鼠！？",
+      "url": "https://www.bilibili.com/video/BV1gFp26uEPD",
+      "hot_value": "1526476播放",
       "index": 27
     },
     {
-      "title": "拖鞋军打崩沙特，愿景烂尾，中东最强80后还坐得稳吗【岛岛连线】",
-      "url": "https://www.bilibili.com/video/BV1TeJk6UE3Z",
-      "hot_value": "132290播放",
+      "title": "也是当上外卖大法官了【第二集】",
+      "url": "https://www.bilibili.com/video/BV1d4p26SExE",
+      "hot_value": "2102013播放",
       "index": 28
     },
     {
-      "title": "现在种菜都直接种绳子了？啥绳子？适合哪些菜？阳台能种吗？【主播说三农】",
-      "url": "https://www.bilibili.com/video/BV1YGp163E4j",
-      "hot_value": "477255播放",
+      "title": "四川妈妈第一次来芬兰中秋庙会摆摊卖花式糖葫芦千人抢！各国老外疯抢中式糕点广式糖水！大排长龙简直停不下来！",
+      "url": "https://www.bilibili.com/video/BV1FoJ26JEY5",
+      "hot_value": "84325播放",
       "index": 29
     },
     {
-      "title": "超⚡级⚡精⚡神⚡力⚡5",
-      "url": "https://www.bilibili.com/video/BV152pC6gEfQ",
-      "hot_value": "581627播放",
+      "title": "给懂王添堵，让老李破防，泽圣现在是越来越行了",
+      "url": "https://www.bilibili.com/video/BV1PsJ16pEqN",
+      "hot_value": "362170播放",
       "index": 30
     }
   ]
