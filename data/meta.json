@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-16T05:40:15Z",
+  "update_time": "2026-10-16T10:34:52Z",
   "platforms": [
     {
       "type": "weibo",
@@ -19,7 +19,8 @@
     {
       "type": "bilibili",
       "name": "B站热搜",
-      "count": 30
+      "count": 0,
+      "error": "IncompleteRead(30496 bytes read, 54415 more expected)"
     },
     {
       "type": "xiaohongshu",
@@ -39,12 +40,14 @@
     {
       "type": "toutiao",
       "name": "今日头条",
-      "count": 30
+      "count": 0,
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "type": "thepaper",
       "name": "澎湃新闻",
-      "count": 20
+      "count": 0,
+      "error": "HTTP Error 502: Bad Gateway"
     }
   ]
 }

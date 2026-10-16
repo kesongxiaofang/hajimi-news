@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-16T05:40:15Z",
+  "update_time": "2026-10-16T10:34:52Z",
   "count": 30,
   "list": [
     {
-      "title": "特斯拉新款 Roadster 正式亮相，能实现离地升空、空中翻滚，如何评价？你看好它的市场前景吗？",
-      "url": "https://www.zhihu.com/question/2094190191133172464",
-      "hot_value": "2464 万热度",
+      "title": "美国肯德基 2027 年起将改用可口可乐，背后是什么原因？消费者实际感受差别大吗？",
+      "url": "https://www.zhihu.com/question/2094346221913690254",
+      "hot_value": "1819 万热度",
       "index": 1
-    },
-    {
-      "title": "如何看待 13 岁女团成员出道仅数小时被曝父母恶意欠薪且被执行 345 万，母亲道歉并承诺会尽快解决？",
-      "url": "https://www.zhihu.com/question/2094093905973044678",
-      "hot_value": "1334 万热度",
-      "index": 2
-    },
-    {
-      "title": "深圳全市全天禁鸣喇叭 5 年，年内乱鸣喇叭第 3 次起罚 500，如何解读这项政策？罚款力度合理吗？",
-      "url": "https://www.zhihu.com/question/2094331791628657808",
-      "hot_value": "612 万热度",
-      "index": 3
     },
     {
       "title": "25 岁韩国网红柳智媛跑半马突发离世，此前她一直有运动的习惯，问题出在哪里？长跑应怎么评估身体状况？",
       "url": "https://www.zhihu.com/question/2093971346942158548",
-      "hot_value": "601 万热度",
+      "hot_value": "1041 万热度",
+      "index": 2
+    },
+    {
+      "title": "如何看待 13 岁女团成员出道仅数小时被曝父母恶意欠薪且被执行 345 万，母亲道歉并承诺会尽快解决？",
+      "url": "https://www.zhihu.com/question/2094093905973044678",
+      "hot_value": "898 万热度",
+      "index": 3
+    },
+    {
+      "title": "大厂员工吐槽新来的校招生特别 mean，被回复不 mean 根本过不了面试，真的吗？面试到底在选什么样的人？",
+      "url": "https://www.zhihu.com/question/2094093125488566874",
+      "hot_value": "438 万热度",
       "index": 4
     },
     {
-      "title": "工厂里那些「看一眼就知道不对」的老师傅，到底凭的是什么？",
-      "url": "https://www.zhihu.com/question/2086781187104810476",
-      "hot_value": "506 万热度",
+      "title": "普通人能接住马龙的发球吗?",
+      "url": "https://www.zhihu.com/question/365520167",
+      "hot_value": "352 万热度",
       "index": 5
-    },
-    {
-      "title": "美国肯德基 2027 年起将改用可口可乐，背后是什么原因？消费者实际感受差别大吗？",
-      "url": "https://www.zhihu.com/question/2094346221913690254",
-      "hot_value": "413 万热度",
-      "index": 6
-    },
-    {
-      "title": "如何看待申真谞获得烂柯杯世界围棋冠军，成为九冠王，彻底超越柯洁？",
-      "url": "https://www.zhihu.com/question/2094115292263736344",
-      "hot_value": "383 万热度",
-      "index": 7
-    },
-    {
-      "title": "「豆包对低认知人群有权威性」引热议，你怎么看这一说法？缺乏辨别力更容易盲目相信 AI，还是会更抵触？",
-      "url": "https://www.zhihu.com/question/2093992911612244313",
-      "hot_value": "252 万热度",
-      "index": 8
-    },
-    {
-      "title": "电影《生化危机：爆发夜》全球票房破 3 亿美元创系列纪录，中国内地首周 4060 万美元，如何看待这一成绩？",
-      "url": "https://www.zhihu.com/question/2093398805949276386",
-      "hot_value": "196 万热度",
-      "index": 9
-    },
-    {
-      "title": "深圳中小学推行春秋假，为什么很多家长反而不支持？春秋假的教育意义究竟是什么？",
-      "url": "https://www.zhihu.com/question/2092722215804461372",
-      "hot_value": "178 万热度",
-      "index": 10
     },
     {
       "title": "四川雷波县学生分低教师拍照事件最新调查结果公布，县长被调离，如何看待该处罚结果？还有哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2094365742414283664",
+      "hot_value": "267 万热度",
+      "index": 6
+    },
+    {
+      "title": "「豆包对低认知人群有权威性」引热议，你怎么看这一说法？缺乏辨别力更容易盲目相信 AI，还是会更抵触？",
+      "url": "https://www.zhihu.com/question/2093992911612244313",
+      "hot_value": "236 万热度",
+      "index": 7
+    },
+    {
+      "title": "如何看待申真谞获得烂柯杯世界围棋冠军，成为九冠王，彻底超越柯洁？",
+      "url": "https://www.zhihu.com/question/2094115292263736344",
+      "hot_value": "198 万热度",
+      "index": 8
+    },
+    {
+      "title": "明朝永乐大钟重 46 吨，钟身刻满 23 万字佛经。当时没有起重机，工匠是怎么把它挂到钟楼上的？",
+      "url": "https://www.zhihu.com/question/1999480914237997057",
+      "hot_value": "170 万热度",
+      "index": 9
+    },
+    {
+      "title": "如何看待首批百余名 AI 学者发起学生「慢科研」联合倡议，并承诺不以论文数量选拔学生？",
+      "url": "https://www.zhihu.com/question/2094414413922918526",
+      "hot_value": "160 万热度",
+      "index": 10
+    },
+    {
+      "title": "珠穆朗玛峰只有一半在中国，为何全世界都认为是我国的？",
+      "url": "https://www.zhihu.com/question/2094299765097882927",
       "hot_value": "159 万热度",
       "index": 11
     },
     {
-      "title": "既然网球发球可以直接 ace 得分，那为什么不专门练发球？",
-      "url": "https://www.zhihu.com/question/2093402795584009589",
-      "hot_value": "138 万热度",
+      "title": "网友自带菜被餐厅多收 300 元，店家称贴有禁带告示对方不听，市监所称会组织调解，店家这么收费合理吗？",
+      "url": "https://www.zhihu.com/question/2094024934624436340",
+      "hot_value": "159 万热度",
       "index": 12
     },
     {
-      "title": "比亚迪披露欧洲建厂计划，法国进入候选名单，为何是法国？若最终落地，会给本土车企带来怎样的竞争压力？",
-      "url": "https://www.zhihu.com/question/2093663563466401117",
-      "hot_value": "137 万热度",
+      "title": "李在明颠覆性推动韩国「双首都迁都」，将外交部、国防部等迁出首尔，全部集中到世宗，怎么看他这一举措？",
+      "url": "https://www.zhihu.com/question/2094352560085628346",
+      "hot_value": "157 万热度",
       "index": 13
     },
     {
-      "title": "网友自带菜被餐厅多收 300 元，店家称贴有禁带告示对方不听，市监所称会组织调解，店家这么收费合理吗？",
-      "url": "https://www.zhihu.com/question/2094024934624436340",
-      "hot_value": "129 万热度",
+      "title": "枪械为什么要造得这么容易拆卸，连个螺丝都不用？",
+      "url": "https://www.zhihu.com/question/1951242084783748156",
+      "hot_value": "147 万热度",
       "index": 14
     },
     {
-      "title": "AI 游戏占 Steam 新游三分之一，销量却只占约 10%，为何游戏生产暴增，玩家需求却没有暴增？",
-      "url": "https://www.zhihu.com/question/2093694435599070363",
-      "hot_value": "106 万热度",
+      "title": "如何评价苹果官方报告称网易、米哈游等中国头部游戏公司会绕过所谓「苹果税」？",
+      "url": "https://www.zhihu.com/question/2093817945038250093",
+      "hot_value": "146 万热度",
       "index": 15
     },
     {
       "title": "如何看待网友说 DeepSeek 在爱里长大？",
       "url": "https://www.zhihu.com/question/2093751116613866755",
-      "hot_value": "106 万热度",
+      "hot_value": "145 万热度",
       "index": 16
     },
     {
-      "title": "特斯拉第二代 Roadster 还是汽车吗？展示的这些技术放在火箭领域算什么水平？",
-      "url": "https://www.zhihu.com/question/2094375637280449777",
-      "hot_value": "105 万热度",
+      "title": "如何看待郭皓回应 ZUIAN 美签三面被拒，称「所有俱乐部统一申请 B 签，从业十三年没贪过一毛钱」？",
+      "url": "https://www.zhihu.com/question/2094334368881832889",
+      "hot_value": "144 万热度",
       "index": 17
     },
     {
-      "title": "黄子韬徐艺洋宣布升级当爸妈，你对他们有哪些祝福？",
-      "url": "https://www.zhihu.com/question/2094102899244655522",
-      "hot_value": "91 万热度",
+      "title": "周迅凭《初次尝到寂寞》获釜山电影节最佳女演员，加封国际 A 类影后，当下在华语演员里，她处于什么地位？",
+      "url": "https://www.zhihu.com/question/2094142905837250428",
+      "hot_value": "127 万热度",
       "index": 18
     },
     {
-      "title": "如何评价《一人之下》漫画第 737（780）话?",
-      "url": "https://www.zhihu.com/question/1952240790886655353",
-      "hot_value": "87 万热度",
+      "title": "全球智能手机出货量第三季度同比降 22% ，创有纪录以来最大降幅，背后是什么原因？",
+      "url": "https://www.zhihu.com/question/2094360204083315679",
+      "hot_value": "115 万热度",
       "index": 19
     },
     {
-      "title": "如何看待苹果首款折叠屏维修费曝光，内屏损坏维修费高达 7998 元？这个价格合理吗？",
-      "url": "https://www.zhihu.com/question/2094005513927316042",
-      "hot_value": "85 万热度",
+      "title": "AI 挑战《杀戮尖塔》A20 被虐惨，最终 BOSS 胜率仅 10%，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2093799397570113914",
+      "hot_value": "113 万热度",
       "index": 20
     },
     {
-      "title": "为什么有些人会喜欢看红果短剧？",
-      "url": "https://www.zhihu.com/question/2048334981529867988",
-      "hot_value": "83 万热度",
+      "title": "特斯拉新款 Roadster 正式亮相，能实现离地升空、空中翻滚，如何评价？你看好它的市场前景吗？",
+      "url": "https://www.zhihu.com/question/2094190191133172464",
+      "hot_value": "110 万热度",
       "index": 21
     },
     {
-      "title": "智谱灰度上线高速模型达 490tokens/s，这预示着什么？",
-      "url": "https://www.zhihu.com/question/2092941251754702719",
-      "hot_value": "82 万热度",
+      "title": "为什么 HR 大部分都是女性呢？",
+      "url": "https://www.zhihu.com/question/11072965104",
+      "hot_value": "106 万热度",
       "index": 22
     },
     {
       "title": "《西游记》中黄眉怪为何如此厉害？",
       "url": "https://www.zhihu.com/question/26447750",
-      "hot_value": "79 万热度",
+      "hot_value": "105 万热度",
       "index": 23
     },
     {
-      "title": "2027 年研究生招生考试正式开始报名，作为考研过来人，你有什么想分享或叮嘱考生的吗？",
-      "url": "https://www.zhihu.com/question/2094054524272862002",
-      "hot_value": "76 万热度",
+      "title": "网传肖战演唱会门票被炒至 25 万元，高溢价黄牛票为何屡禁不止？倒卖和「天价炒票」涉嫌哪些违法违规？",
+      "url": "https://www.zhihu.com/question/2094015917579400301",
+      "hot_value": "103 万热度",
       "index": 24
+    },
+    {
+      "title": "特斯拉第二代 Roadster 还是汽车吗？展示的这些技术放在火箭领域算什么水平？",
+      "url": "https://www.zhihu.com/question/2094375637280449777",
+      "hot_value": "103 万热度",
+      "index": 25
     },
     {
       "title": "惜春她也不擅长绘画，为什么贾母点名要她画大观园呢？交给专业画师不好么？",
       "url": "https://www.zhihu.com/question/2080827289592509229",
-      "hot_value": "73 万热度",
-      "index": 25
-    },
-    {
-      "title": "2026 德玛西亚杯半决赛 WE vs BRO，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2094138813047993765",
-      "hot_value": "70 万热度",
+      "hot_value": "103 万热度",
       "index": 26
     },
     {
-      "title": "请问一下网友，现在回农村创业搞种植养殖，是风口还是大坑？",
-      "url": "https://www.zhihu.com/question/2046716321119917034",
-      "hot_value": "68 万热度",
+      "title": "如何评价于和伟领衔主演的《伟大的长征》，与之前类似的题材有什么不一样的亮点？",
+      "url": "https://www.zhihu.com/question/2092285335807976648",
+      "hot_value": "103 万热度",
       "index": 27
     },
     {
-      "title": "什么信号出现，就该果断选择跳槽？",
-      "url": "https://www.zhihu.com/question/2086577106918564743",
-      "hot_value": "68 万热度",
+      "title": "既然网球发球可以直接 ace 得分，那为什么不专门练发球？",
+      "url": "https://www.zhihu.com/question/2093402795584009589",
+      "hot_value": "96 万热度",
       "index": 28
     },
     {
-      "title": "为啥有人明明很喜欢打羽毛球，但却从不去正儿八经学技巧？",
-      "url": "https://www.zhihu.com/question/2046994155046548870",
-      "hot_value": "68 万热度",
+      "title": "你听过哪些「被逼到没有退路，最后自己硬是走出一条路」的故事？",
+      "url": "https://www.zhihu.com/question/2091827536925872891",
+      "hot_value": "95 万热度",
       "index": 29
     },
     {
-      "title": "怎样扩大词汇量？",
-      "url": "https://www.zhihu.com/question/660963344",
-      "hot_value": "68 万热度",
+      "title": "AnthropicCEO 仅管理未婚妻一人，这种极简模式将带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2048820310569379199",
+      "hot_value": "92 万热度",
       "index": 30
     }
   ]
