@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-17T12:50:28Z",
+  "update_time": "2026-10-17T16:06:10Z",
   "count": 30,
   "list": [
     {
       "title": "【独家】《凡人修仙传之慕兰之战》第20集【总第196集】",
       "url": "https://www.bilibili.com/video/BV1YXJ46nEY9",
-      "hot_value": "3918024播放",
+      "hot_value": "4686559播放",
       "index": 1
+    },
+    {
+      "title": "花费上万！真人版弹丸论破开庭！",
+      "url": "https://www.bilibili.com/video/BV1Y2Je6BEDr",
+      "hot_value": "305867播放",
+      "index": 2
+    },
+    {
+      "title": "【使命召唤23：现代战争4】4K 最高画质 全战役 全剧情流程通关攻略 战役模式 COD23-Call of Duty：Modern Warfare 4【完结】",
+      "url": "https://www.bilibili.com/video/BV1seJb63ENu",
+      "hot_value": "1321971播放",
+      "index": 3
     },
     {
       "title": "科学家们用物理智斗爱因斯坦？",
       "url": "https://www.bilibili.com/video/BV1fZJ26mEiY",
-      "hot_value": "1812940播放",
-      "index": 2
-    },
-    {
-      "title": "一口气看完故宫角楼建造全过程",
-      "url": "https://www.bilibili.com/video/BV1t9pr6oE2i",
-      "hot_value": "837922播放",
-      "index": 3
-    },
-    {
-      "title": "《回合之间》｜致每一位登上闪耀大赛的你！",
-      "url": "https://www.bilibili.com/video/BV1a8Jv6ME77",
-      "hot_value": "299439播放",
+      "hot_value": "2315212播放",
       "index": 4
     },
     {
       "title": "我是人类",
       "url": "https://www.bilibili.com/video/BV1gKJ86JEuP",
-      "hot_value": "610447播放",
+      "hot_value": "975632播放",
       "index": 5
+    },
+    {
+      "title": "洗衣机如何演奏《雨爱》？",
+      "url": "https://www.bilibili.com/video/BV1fNJQ6bEAj",
+      "hot_value": "801035播放",
+      "index": 6
+    },
+    {
+      "title": "一口气看完故宫角楼建造全过程",
+      "url": "https://www.bilibili.com/video/BV1t9pr6oE2i",
+      "hot_value": "1093279播放",
+      "index": 7
+    },
+    {
+      "title": "真人版迪迦奥特曼",
+      "url": "https://www.bilibili.com/video/BV1XJJ96oEXg",
+      "hot_value": "209543播放",
+      "index": 8
     },
     {
       "title": "《遗忘之海》“歌丝莉”剧作者角色PV ——采风记",
       "url": "https://www.bilibili.com/video/BV1TdJX65ENW",
-      "hot_value": "280087播放",
-      "index": 6
-    },
-    {
-      "title": "震撼世界！当《黑神话·钟馗》走进现实，中式美学天花板在此！",
-      "url": "https://www.bilibili.com/video/BV18XJC6sE7i",
-      "hot_value": "575702播放",
-      "index": 7
-    },
-    {
-      "title": "“优秀的作品都在讲同一件事”",
-      "url": "https://www.bilibili.com/video/BV1wbpR6HE1g",
-      "hot_value": "6884818播放",
-      "index": 8
-    },
-    {
-      "title": "美国最肥披萨店！全球第一大50斤70000千卡有多离谱？",
-      "url": "https://www.bilibili.com/video/BV19LJQ6QEa2",
-      "hot_value": "968487播放",
+      "hot_value": "448764播放",
       "index": 9
     },
     {
       "title": "【纪录片】威尔史密斯的极地纵横 03 厄瓜多尔搜寻水蚺",
       "url": "https://www.bilibili.com/video/BV1J9ao6LE9U",
-      "hot_value": "1219982播放",
+      "hot_value": "1300716播放",
       "index": 10
     },
     {
-      "title": "朱棣：“我的侄子走丢了，有好心人能帮帮我吗？”",
-      "url": "https://www.bilibili.com/video/BV1HCpS6iEXh",
-      "hot_value": "1325070播放",
+      "title": "“优秀的作品都在讲同一件事”",
+      "url": "https://www.bilibili.com/video/BV1wbpR6HE1g",
+      "hot_value": "7336245播放",
       "index": 11
     },
     {
-      "title": "啊？61.0",
-      "url": "https://www.bilibili.com/video/BV1sVJ86yEqF",
-      "hot_value": "446422播放",
+      "title": "当代福尔摩斯让我找到了",
+      "url": "https://www.bilibili.com/video/BV17tJD6REUb",
+      "hot_value": "955176播放",
       "index": 12
     },
     {
       "title": "【纪录片】中国救护2 05 家和万事兴",
       "url": "https://www.bilibili.com/video/BV1PoJX6CEyy",
-      "hot_value": "1105360播放",
+      "hot_value": "1423147播放",
       "index": 13
     },
     {
-      "title": "历经一个月！我们做到了！！",
-      "url": "https://www.bilibili.com/video/BV1dWJv6GEoH",
-      "hot_value": "208582播放",
+      "title": "震撼世界！当《黑神话·钟馗》走进现实，中式美学天花板在此！",
+      "url": "https://www.bilibili.com/video/BV18XJC6sE7i",
+      "hot_value": "914467播放",
       "index": 14
-    },
-    {
-      "title": "德小蓝灰鲸鲨战车！这自带音响的小车谁不爱呢？可把玩可合体可扔出！4套检视也是没谁了吧？",
-      "url": "https://www.bilibili.com/video/BV1omJ469ECC",
-      "hot_value": "1041741播放",
-      "index": 15
     },
     {
       "title": "【毕导】不做诺奖科普的第一年，科普博主我还会做多久？",
       "url": "https://www.bilibili.com/video/BV1cpJ86BEys",
-      "hot_value": "786690播放",
+      "hot_value": "1016991播放",
+      "index": 15
+    },
+    {
+      "title": "历经一个月！我们做到了！！",
+      "url": "https://www.bilibili.com/video/BV1dWJv6GEoH",
+      "hot_value": "298313播放",
       "index": 16
     },
     {
-      "title": "让人生理性厌恶的两口子黄子韬徐艺洋",
-      "url": "https://www.bilibili.com/video/BV1ukJD6LE2P",
-      "hot_value": "1118688播放",
+      "title": "啊？61.0",
+      "url": "https://www.bilibili.com/video/BV1sVJ86yEqF",
+      "hot_value": "623655播放",
       "index": 17
     },
     {
-      "title": "浪漫惊悚文字冒险《Rain98》第二支PV公开！Demo现已上线Steam！",
-      "url": "https://www.bilibili.com/video/BV1RjJ96fE1C",
-      "hot_value": "471024播放",
+      "title": "美国最肥披萨店！全球第一大50斤70000千卡有多离谱？",
+      "url": "https://www.bilibili.com/video/BV19LJQ6QEa2",
+      "hot_value": "1215959播放",
       "index": 18
-    },
-    {
-      "title": "英国菜究竟是一种什么刑罚？英国人还有味觉吗？",
-      "url": "https://www.bilibili.com/video/BV18NJX6EE7w",
-      "hot_value": "729134播放",
-      "index": 19
-    },
-    {
-      "title": "“以善为饵，比恶更恶”",
-      "url": "https://www.bilibili.com/video/BV1q3pS6tE4J",
-      "hot_value": "2514055播放",
-      "index": 20
-    },
-    {
-      "title": "如果同一件事用不同演法？你觉得哪个最像？我甚至模仿了ai！哈哈哈哈",
-      "url": "https://www.bilibili.com/video/BV1mSJt63Enj",
-      "hot_value": "578659播放",
-      "index": 21
     },
     {
       "title": "挑战全程扛共享单车登顶峨眉山金顶",
       "url": "https://www.bilibili.com/video/BV1KoJX6CEGT",
-      "hot_value": "841359播放",
-      "index": 22
+      "hot_value": "961534播放",
+      "index": 19
+    },
+    {
+      "title": "浪漫惊悚文字冒险《Rain98》第二支PV公开！Demo现已上线Steam！",
+      "url": "https://www.bilibili.com/video/BV1RjJ96fE1C",
+      "hot_value": "865492播放",
+      "index": 20
     },
     {
       "title": "《夜幕之下》活动版本PV：幸福无罪论",
       "url": "https://www.bilibili.com/video/BV1o2J46sEqf",
-      "hot_value": "474062播放",
-      "index": 23
+      "hot_value": "613636播放",
+      "index": 21
+    },
+    {
+      "title": "【更新至P5】老戴《使命召唤23 现代战争4》老兵难度流程攻略解说",
+      "url": "https://www.bilibili.com/video/BV1BTJb6fEtH",
+      "hot_value": "663046播放",
+      "index": 22
     },
     {
       "title": "【篮球巨星】雷影艾全技能脑洞！Man！What can i say！",
       "url": "https://www.bilibili.com/video/BV1LHpg6EE1r",
-      "hot_value": "673188播放",
+      "hot_value": "801206播放",
+      "index": 23
+    },
+    {
+      "title": "朱棣：“我的侄子走丢了，有好心人能帮帮我吗？”",
+      "url": "https://www.bilibili.com/video/BV1HCpS6iEXh",
+      "hot_value": "1545064播放",
       "index": 24
     },
     {
-      "title": "你跟艾滋患者讲隐私，谁跟咱们老实人讲活命？",
-      "url": "https://www.bilibili.com/video/BV11BJ96yEKE",
-      "hot_value": "608431播放",
+      "title": "鸿蒙7+逻辑折叠芯，游戏体验也起飞？",
+      "url": "https://www.bilibili.com/video/BV1xMJt6gEDN",
+      "hot_value": "122160播放",
       "index": 25
     },
     {
-      "title": "挑战把歌词中的爱换成钱 网友：实在是忧郁不起来了",
-      "url": "https://www.bilibili.com/video/BV1D3J16cEAU",
-      "hot_value": "1947537播放",
+      "title": "如果同一件事用不同演法？你觉得哪个最像？我甚至模仿了ai！哈哈哈哈",
+      "url": "https://www.bilibili.com/video/BV1mSJt63Enj",
+      "hot_value": "723393播放",
       "index": 26
     },
     {
-      "title": "在MC箱子中玩泰拉瑞亚，并互通物品",
-      "url": "https://www.bilibili.com/video/BV14KJU6wEVr",
-      "hot_value": "366094播放",
+      "title": "让人生理性厌恶的两口子黄子韬徐艺洋",
+      "url": "https://www.bilibili.com/video/BV1ukJD6LE2P",
+      "hot_value": "1296211播放",
       "index": 27
     },
     {
-      "title": "女主炒外汇暴亏60万，当场偷老爸的300万加仓！",
-      "url": "https://www.bilibili.com/video/BV1fjJ262EAo",
-      "hot_value": "896032播放",
+      "title": "【先吃饭吧】——吃饱就出发！",
+      "url": "https://www.bilibili.com/video/BV1KAJq6vEX4",
+      "hot_value": "277947播放",
       "index": 28
     },
     {
-      "title": "“这波秒开仙人，直接把六小龄童看呆了！”",
-      "url": "https://www.bilibili.com/video/BV1Fspj66E66",
-      "hot_value": "5005620播放",
+      "title": "和闺蜜穿成了假扮兽人的人类炮灰EP04：🐰：嘬嘬嘬。🐺：你才是狗！🐱：我们是共犯？🐆：对啦，蒸蚌！",
+      "url": "https://www.bilibili.com/video/BV1xiJk67EiT",
+      "hot_value": "754852播放",
       "index": 29
     },
     {
-      "title": "想停在黄河与海的交汇线上，竟然这么难",
-      "url": "https://www.bilibili.com/video/BV1XoHD6QEw4",
-      "hot_value": "891184播放",
+      "title": "【4K】《使命召唤23：现代战争4》无删减｜2026｜单人战役｜英配中字｜最高画质中文剧情流程攻略｜Call of Duty Modern Warfare 4",
+      "url": "https://www.bilibili.com/video/BV17RJh6vE3K",
+      "hot_value": "418752播放",
       "index": 30
     }
   ]
