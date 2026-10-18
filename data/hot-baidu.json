@@ -1,187 +1,187 @@
 {
   "platform": "baidu",
   "name": "百度热搜",
-  "update_time": "2026-10-18T18:13:47Z",
+  "update_time": "2026-10-18T20:56:26Z",
   "count": 30,
   "list": [
     {
       "title": "感悟“统筹区域发展”之道",
       "url": "https://www.baidu.com/s?wd=%E6%84%9F%E6%82%9F%E2%80%9C%E7%BB%9F%E7%AD%B9%E5%8C%BA%E5%9F%9F%E5%8F%91%E5%B1%95%E2%80%9D%E4%B9%8B%E9%81%93&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7904251",
+      "hot_value": "7904393",
       "index": 1
     },
     {
       "title": "建议售价1980的眼镜片批发价30",
       "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%94%AE%E4%BB%B71980%E7%9A%84%E7%9C%BC%E9%95%9C%E7%89%87%E6%89%B9%E5%8F%91%E4%BB%B730&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7808227",
+      "hot_value": "7808501",
       "index": 2
     },
     {
       "title": "白酒放低身段",
       "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%85%92%E6%94%BE%E4%BD%8E%E8%BA%AB%E6%AE%B5&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7713355",
+      "hot_value": "7713711",
       "index": 3
     },
     {
       "title": "广交会见证中国制造硬核升级",
       "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%BA%A4%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E5%8D%87%E7%BA%A7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7618289",
+      "hot_value": "7617870",
       "index": 4
     },
     {
       "title": "为什么4.8分网红餐厅更容易踩雷",
       "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%884.8%E5%88%86%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%E6%9B%B4%E5%AE%B9%E6%98%93%E8%B8%A9%E9%9B%B7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7522430",
+      "hot_value": "7521209",
       "index": 5
     },
     {
       "title": "“最牛文科生”赌中AI",
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E7%89%9B%E6%96%87%E7%A7%91%E7%94%9F%E2%80%9D%E8%B5%8C%E4%B8%ADAI&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7428930",
+      "hot_value": "7425327",
       "index": 6
     },
     {
-      "title": "日本流行“取消吃饭”",
-      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E2%80%9C%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7327631",
+      "title": "伪造演员吴越形象带货账号被封",
+      "url": "https://www.baidu.com/s?wd=%E4%BC%AA%E9%80%A0%E6%BC%94%E5%91%98%E5%90%B4%E8%B6%8A%E5%BD%A2%E8%B1%A1%E5%B8%A6%E8%B4%A7%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7331760",
       "index": 7
     },
     {
       "title": "法国超500名警察宪兵消防员受伤",
       "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E8%B6%85500%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%AE%AA%E5%85%B5%E6%B6%88%E9%98%B2%E5%91%98%E5%8F%97%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7238486",
+      "hot_value": "7231747",
       "index": 8
-    },
-    {
-      "title": "吴越质问“花姐”骗了多少钱",
-      "url": "https://www.baidu.com/s?wd=%E5%90%B4%E8%B6%8A%E8%B4%A8%E9%97%AE%E2%80%9C%E8%8A%B1%E5%A7%90%E2%80%9D%E9%AA%97%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7139049",
-      "index": 9
     },
     {
       "title": "男子称入狱20多天网贷记录多了十几万",
       "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%85%A5%E7%8B%B120%E5%A4%9A%E5%A4%A9%E7%BD%91%E8%B4%B7%E8%AE%B0%E5%BD%95%E5%A4%9A%E4%BA%86%E5%8D%81%E5%87%A0%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "7043004",
+      "hot_value": "7139755",
+      "index": 9
+    },
+    {
+      "title": "吴越质问“花姐”骗了多少钱",
+      "url": "https://www.baidu.com/s?wd=%E5%90%B4%E8%B6%8A%E8%B4%A8%E9%97%AE%E2%80%9C%E8%8A%B1%E5%A7%90%E2%80%9D%E9%AA%97%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "7040987",
       "index": 10
     },
     {
-      "title": "你加的油可能不够量",
-      "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%8A%A0%E7%9A%84%E6%B2%B9%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%9F%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6950889",
+      "title": "结婚偶遇跑男录制 新人喜提站姐神图",
+      "url": "https://www.baidu.com/s?wd=%E7%BB%93%E5%A9%9A%E5%81%B6%E9%81%87%E8%B7%91%E7%94%B7%E5%BD%95%E5%88%B6+%E6%96%B0%E4%BA%BA%E5%96%9C%E6%8F%90%E7%AB%99%E5%A7%90%E7%A5%9E%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6943697",
       "index": 11
     },
     {
       "title": "郑州警方辟谣“一家五口烧炭自杀”",
       "url": "https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E7%83%A7%E7%82%AD%E8%87%AA%E6%9D%80%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6853171",
+      "hot_value": "6852639",
       "index": 12
     },
     {
-      "title": "结婚偶遇跑男录制 新人喜提站姐神图",
-      "url": "https://www.baidu.com/s?wd=%E7%BB%93%E5%A9%9A%E5%81%B6%E9%81%87%E8%B7%91%E7%94%B7%E5%BD%95%E5%88%B6+%E6%96%B0%E4%BA%BA%E5%96%9C%E6%8F%90%E7%AB%99%E5%A7%90%E7%A5%9E%E5%9B%BE&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6756512",
+      "title": "日本流行“取消吃饭”",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E2%80%9C%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6751759",
       "index": 13
-    },
-    {
-      "title": "伪造演员吴越形象带货账号被封",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%AA%E9%80%A0%E6%BC%94%E5%91%98%E5%90%B4%E8%B6%8A%E5%BD%A2%E8%B1%A1%E5%B8%A6%E8%B4%A7%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6665853",
-      "index": 14
-    },
-    {
-      "title": "时隔23年《大长今》又翻红了",
-      "url": "https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%9423%E5%B9%B4%E3%80%8A%E5%A4%A7%E9%95%BF%E4%BB%8A%E3%80%8B%E5%8F%88%E7%BF%BB%E7%BA%A2%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6572091",
-      "index": 15
-    },
-    {
-      "title": "“最强地级市”为何死磕制造业",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E5%BC%BA%E5%9C%B0%E7%BA%A7%E5%B8%82%E2%80%9D%E4%B8%BA%E4%BD%95%E6%AD%BB%E7%A3%95%E5%88%B6%E9%80%A0%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6474569",
-      "index": 16
-    },
-    {
-      "title": "外交部回应“China Haul”",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9CChina+Haul%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6376330",
-      "index": 17
     },
     {
       "title": "律师解读欠薪345万却送孩子韩国出道",
       "url": "https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E6%AC%A0%E8%96%AA345%E4%B8%87%E5%8D%B4%E9%80%81%E5%AD%A9%E5%AD%90%E9%9F%A9%E5%9B%BD%E5%87%BA%E9%81%93&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6278400",
-      "index": 18
+      "hot_value": "6660340",
+      "index": 14
     },
     {
-      "title": "老板吐槽客人吃一碗麻辣烫用三包纸",
-      "url": "https://www.baidu.com/s?wd=%E8%80%81%E6%9D%BF%E5%90%90%E6%A7%BD%E5%AE%A2%E4%BA%BA%E5%90%83%E4%B8%80%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%94%A8%E4%B8%89%E5%8C%85%E7%BA%B8&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6182171",
-      "index": 19
+      "title": "张雪再战“水上漂”冲击吉尼斯纪录",
+      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E5%86%8D%E6%88%98%E2%80%9C%E6%B0%B4%E4%B8%8A%E6%BC%82%E2%80%9D%E5%86%B2%E5%87%BB%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6563322",
+      "index": 15
+    },
+    {
+      "title": "迪士尼1.8亿美元“抢人”",
+      "url": "https://www.baidu.com/s?wd=%E8%BF%AA%E5%A3%AB%E5%B0%BC1.8%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%9C%E6%8A%A2%E4%BA%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6476837",
+      "index": 16
     },
     {
       "title": "蛋白粉大涨价 网友找到了蟑螂粉",
       "url": "https://www.baidu.com/s?wd=%E8%9B%8B%E7%99%BD%E7%B2%89%E5%A4%A7%E6%B6%A8%E4%BB%B7+%E7%BD%91%E5%8F%8B%E6%89%BE%E5%88%B0%E4%BA%86%E8%9F%91%E8%9E%82%E7%B2%89&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "6095639",
+      "hot_value": "6368653",
+      "index": 17
+    },
+    {
+      "title": "国际乒联回应来自中国的举报信",
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E5%9B%9E%E5%BA%94%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%BE%E6%8A%A5%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6272567",
+      "index": 18
+    },
+    {
+      "title": "科学家揭示北方早期粟作人群起源",
+      "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%8F%AD%E7%A4%BA%E5%8C%97%E6%96%B9%E6%97%A9%E6%9C%9F%E7%B2%9F%E4%BD%9C%E4%BA%BA%E7%BE%A4%E8%B5%B7%E6%BA%90&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6185077",
+      "index": 19
+    },
+    {
+      "title": "你加的油可能不够量",
+      "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%8A%A0%E7%9A%84%E6%B2%B9%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%A4%9F%E9%87%8F&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "6083749",
       "index": 20
     },
     {
-      "title": "“我的婚礼被一群追星女孩温柔到了”",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E7%9A%84%E5%A9%9A%E7%A4%BC%E8%A2%AB%E4%B8%80%E7%BE%A4%E8%BF%BD%E6%98%9F%E5%A5%B3%E5%AD%A9%E6%B8%A9%E6%9F%94%E5%88%B0%E4%BA%86%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5994875",
+      "title": "“最强地级市”为何死磕制造业",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%80%E5%BC%BA%E5%9C%B0%E7%BA%A7%E5%B8%82%E2%80%9D%E4%B8%BA%E4%BD%95%E6%AD%BB%E7%A3%95%E5%88%B6%E9%80%A0%E4%B8%9A&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5990583",
       "index": 21
     },
     {
       "title": "苹果客服回应货轮沉没iPhone漂浮海面",
       "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%B4%A7%E8%BD%AE%E6%B2%89%E6%B2%A1iPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5893725",
+      "hot_value": "5895269",
       "index": 22
-    },
-    {
-      "title": "英国中风患者穿外骨骼重新行走哭了",
-      "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E4%B8%AD%E9%A3%8E%E6%82%A3%E8%80%85%E7%A9%BF%E5%A4%96%E9%AA%A8%E9%AA%BC%E9%87%8D%E6%96%B0%E8%A1%8C%E8%B5%B0%E5%93%AD%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5807688",
-      "index": 23
-    },
-    {
-      "title": "一张图片即可让明星带货",
-      "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%BC%A0%E5%9B%BE%E7%89%87%E5%8D%B3%E5%8F%AF%E8%AE%A9%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5709183",
-      "index": 24
     },
     {
       "title": "年轻人为何爱上了“赶场”",
       "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E7%88%B1%E4%B8%8A%E4%BA%86%E2%80%9C%E8%B5%B6%E5%9C%BA%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5603586",
+      "hot_value": "5806941",
+      "index": 23
+    },
+    {
+      "title": "92岁崔道植是警界“定海神针”",
+      "url": "https://www.baidu.com/s?wd=92%E5%B2%81%E5%B4%94%E9%81%93%E6%A4%8D%E6%98%AF%E8%AD%A6%E7%95%8C%E2%80%9C%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5704032",
+      "index": 24
+    },
+    {
+      "title": "曼城3-2伊普斯维奇 哈兰德双响",
+      "url": "https://www.baidu.com/s?wd=%E6%9B%BC%E5%9F%8E3-2%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%87+%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%8C%E5%93%8D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5607708",
       "index": 25
     },
     {
-      "title": "国际乒联回应来自中国的举报信",
-      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E5%9B%9E%E5%BA%94%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%BE%E6%8A%A5%E4%BF%A1&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5518505",
+      "title": "林峯一家三口斐济度假",
+      "url": "https://www.baidu.com/s?wd=%E6%9E%97%E5%B3%AF%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%96%90%E6%B5%8E%E5%BA%A6%E5%81%87&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5517230",
       "index": 26
     },
     {
-      "title": "张雪机车德比斯 年度亚军",
-      "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%BE%B7%E6%AF%94%E6%96%AF+%E5%B9%B4%E5%BA%A6%E4%BA%9A%E5%86%9B&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5409624",
+      "title": "梅艳芳骨灰疑似被寺庙工作人员盗走",
+      "url": "https://www.baidu.com/s?wd=%E6%A2%85%E8%89%B3%E8%8A%B3%E9%AA%A8%E7%81%B0%E7%96%91%E4%BC%BC%E8%A2%AB%E5%AF%BA%E5%BA%99%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9B%97%E8%B5%B0&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5410652",
       "index": 27
     },
     {
-      "title": "央视曝光药企围猎老年人",
-      "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%8D%AF%E4%BC%81%E5%9B%B4%E7%8C%8E%E8%80%81%E5%B9%B4%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5328742",
+      "title": "博主用灶灰与玉米叶制作墨韵荷花",
+      "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8%E7%81%B6%E7%81%B0%E4%B8%8E%E7%8E%89%E7%B1%B3%E5%8F%B6%E5%88%B6%E4%BD%9C%E5%A2%A8%E9%9F%B5%E8%8D%B7%E8%8A%B1&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5333175",
       "index": 28
     },
     {
-      "title": "有钱送孩子出道 没钱还员工欠薪",
-      "url": "https://www.baidu.com/s?wd=%E6%9C%89%E9%92%B1%E9%80%81%E5%AD%A9%E5%AD%90%E5%87%BA%E9%81%93+%E6%B2%A1%E9%92%B1%E8%BF%98%E5%91%98%E5%B7%A5%E6%AC%A0%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5220839",
+      "title": "外交部回应“China Haul”",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9CChina+Haul%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5220882",
       "index": 29
     },
     {
-      "title": "iPhone Duo回收报价每小时都变",
-      "url": "https://www.baidu.com/s?wd=iPhone+Duo%E5%9B%9E%E6%94%B6%E6%8A%A5%E4%BB%B7%E6%AF%8F%E5%B0%8F%E6%97%B6%E9%83%BD%E5%8F%98&sa=fyb_news&rsv_dl=fyb_news",
-      "hot_value": "5134718",
+      "title": "AI手机为何被各大应用说“不”",
+      "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BD%95%E8%A2%AB%E5%90%84%E5%A4%A7%E5%BA%94%E7%94%A8%E8%AF%B4%E2%80%9C%E4%B8%8D%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news",
+      "hot_value": "5145527",
       "index": 30
     }
   ]
