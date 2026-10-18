@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-10-18T20:56:26Z",
+  "update_time": "2026-10-18T22:47:53Z",
   "count": 30,
   "list": [
     {
       "title": "美日将投入6万兵力军演",
       "url": "https://www.douyin.com/search/%E7%BE%8E%E6%97%A5%E5%B0%86%E6%8A%95%E5%85%A56%E4%B8%87%E5%85%B5%E5%8A%9B%E5%86%9B%E6%BC%94?type=general",
-      "hot_value": "12111475",
+      "hot_value": "12112338",
       "index": 1
     },
     {
-      "title": "LOUD战胜VIT夺冠",
-      "url": "https://www.douyin.com/search/LOUD%E6%88%98%E8%83%9CVIT%E5%A4%BA%E5%86%A0?type=general",
-      "hot_value": "11302071",
+      "title": "俄圣彼得堡石油码头遭乌袭击",
+      "url": "https://www.douyin.com/search/%E4%BF%84%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E7%9F%B3%E6%B2%B9%E7%A0%81%E5%A4%B4%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB?type=general",
+      "hot_value": "11926124",
       "index": 2
     },
     {
       "title": "广交会万品联通海内外",
       "url": "https://www.douyin.com/search/%E5%B9%BF%E4%BA%A4%E4%BC%9A%E4%B8%87%E5%93%81%E8%81%94%E9%80%9A%E6%B5%B7%E5%86%85%E5%A4%96?type=general",
-      "hot_value": "11285112",
+      "hot_value": "11769051",
       "index": 3
-    },
-    {
-      "title": "俄圣彼得堡石油码头遭乌袭击",
-      "url": "https://www.douyin.com/search/%E4%BF%84%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E7%9F%B3%E6%B2%B9%E7%A0%81%E5%A4%B4%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB?type=general",
-      "hot_value": "11089758",
-      "index": 4
-    },
-    {
-      "title": "这才是中国功夫的魅力",
-      "url": "https://www.douyin.com/search/%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E7%9A%84%E9%AD%85%E5%8A%9B?type=general",
-      "hot_value": "10421017",
-      "index": 5
     },
     {
       "title": "第一次见到虎跳峡时的震撼",
       "url": "https://www.douyin.com/search/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%88%B0%E8%99%8E%E8%B7%B3%E5%B3%A1%E6%97%B6%E7%9A%84%E9%9C%87%E6%92%BC?type=general",
-      "hot_value": "10313025",
+      "hot_value": "11483587",
+      "index": 4
+    },
+    {
+      "title": "LOUD战胜VIT夺冠",
+      "url": "https://www.douyin.com/search/LOUD%E6%88%98%E8%83%9CVIT%E5%A4%BA%E5%86%A0?type=general",
+      "hot_value": "10859932",
+      "index": 5
+    },
+    {
+      "title": "这才是中国功夫的魅力",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E7%9A%84%E9%AD%85%E5%8A%9B?type=general",
+      "hot_value": "10739044",
       "index": 6
     },
     {
       "title": "利兹联1:1曼联",
       "url": "https://www.douyin.com/search/%E5%88%A9%E5%85%B9%E8%81%941%3A1%E6%9B%BC%E8%81%94?type=general",
-      "hot_value": "9196329",
+      "hot_value": "9405584",
       "index": 7
     },
     {
       "title": "那个熟悉的童年伙伴又见面了",
       "url": "https://www.douyin.com/search/%E9%82%A3%E4%B8%AA%E7%86%9F%E6%82%89%E7%9A%84%E7%AB%A5%E5%B9%B4%E4%BC%99%E4%BC%B4%E5%8F%88%E8%A7%81%E9%9D%A2%E4%BA%86?type=general",
-      "hot_value": "9195969",
+      "hot_value": "9340250",
       "index": 8
-    },
-    {
-      "title": "西安已进入大宽面时代",
-      "url": "https://www.douyin.com/search/%E8%A5%BF%E5%AE%89%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E5%AE%BD%E9%9D%A2%E6%97%B6%E4%BB%A3?type=general",
-      "hot_value": "9183113",
-      "index": 9
     },
     {
       "title": "长春动植物园游客表演杂技太夯了",
       "url": "https://www.douyin.com/search/%E9%95%BF%E6%98%A5%E5%8A%A8%E6%A4%8D%E7%89%A9%E5%9B%AD%E6%B8%B8%E5%AE%A2%E8%A1%A8%E6%BC%94%E6%9D%82%E6%8A%80%E5%A4%AA%E5%A4%AF%E4%BA%86?type=general",
-      "hot_value": "9170364",
+      "hot_value": "9238862",
+      "index": 9
+    },
+    {
+      "title": "用拼豆打开中式美学",
+      "url": "https://www.douyin.com/search/%E7%94%A8%E6%8B%BC%E8%B1%86%E6%89%93%E5%BC%80%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6?type=general",
+      "hot_value": "9199137",
       "index": 10
     },
     {
-      "title": "无畏契约上海冠军赛现场太夯了",
-      "url": "https://www.douyin.com/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E4%B8%8A%E6%B5%B7%E5%86%A0%E5%86%9B%E8%B5%9B%E7%8E%B0%E5%9C%BA%E5%A4%AA%E5%A4%AF%E4%BA%86?type=general",
-      "hot_value": "8952619",
+      "title": "西安已进入大宽面时代",
+      "url": "https://www.douyin.com/search/%E8%A5%BF%E5%AE%89%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E5%AE%BD%E9%9D%A2%E6%97%B6%E4%BB%A3?type=general",
+      "hot_value": "9177753",
       "index": 11
     },
     {
       "title": "辽宁男篮拿下新赛季开门红",
       "url": "https://www.douyin.com/search/%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E6%8B%BF%E4%B8%8B%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%BC%80%E9%97%A8%E7%BA%A2?type=general",
-      "hot_value": "8539797",
+      "hot_value": "9104236",
       "index": 12
     },
     {
-      "title": "法国爆发大规模骚乱",
-      "url": "https://www.douyin.com/search/%E6%B3%95%E5%9B%BD%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%AA%9A%E4%B9%B1?type=general",
-      "hot_value": "8407784",
+      "title": "无畏契约上海冠军赛现场太夯了",
+      "url": "https://www.douyin.com/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E4%B8%8A%E6%B5%B7%E5%86%A0%E5%86%9B%E8%B5%9B%E7%8E%B0%E5%9C%BA%E5%A4%AA%E5%A4%AF%E4%BA%86?type=general",
+      "hot_value": "9051542",
       "index": 13
     },
     {
       "title": "当心“代缴采暖费”陷阱",
       "url": "https://www.douyin.com/search/%E5%BD%93%E5%BF%83%E2%80%9C%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%E2%80%9D%E9%99%B7%E9%98%B1?type=general",
-      "hot_value": "8336239",
+      "hot_value": "8708629",
       "index": 14
     },
     {
       "title": "梅艳芳骨灰疑被寺庙人员盗走",
       "url": "https://www.douyin.com/search/%E6%A2%85%E8%89%B3%E8%8A%B3%E9%AA%A8%E7%81%B0%E7%96%91%E8%A2%AB%E5%AF%BA%E5%BA%99%E4%BA%BA%E5%91%98%E7%9B%97%E8%B5%B0?type=general",
-      "hot_value": "8327995",
+      "hot_value": "8208107",
       "index": 15
     },
     {
       "title": "嫁金钗5步区分魏娆君黛",
       "url": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%975%E6%AD%A5%E5%8C%BA%E5%88%86%E9%AD%8F%E5%A8%86%E5%90%9B%E9%BB%9B?type=general",
-      "hot_value": "8259483",
+      "hot_value": "8129870",
       "index": 16
-    },
-    {
-      "title": "新疆阿达西回应烤馕走红",
-      "url": "https://www.douyin.com/search/%E6%96%B0%E7%96%86%E9%98%BF%E8%BE%BE%E8%A5%BF%E5%9B%9E%E5%BA%94%E7%83%A4%E9%A6%95%E8%B5%B0%E7%BA%A2?type=general",
-      "hot_value": "8197134",
-      "index": 17
     },
     {
       "title": "乐评人眼中的在梅边",
       "url": "https://www.douyin.com/search/%E4%B9%90%E8%AF%84%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%9C%A8%E6%A2%85%E8%BE%B9?type=general",
-      "hot_value": "8187015",
+      "hot_value": "8062867",
+      "index": 17
+    },
+    {
+      "title": "法国爆发大规模骚乱",
+      "url": "https://www.douyin.com/search/%E6%B3%95%E5%9B%BD%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%AA%9A%E4%B9%B1?type=general",
+      "hot_value": "7997629",
       "index": 18
-    },
-    {
-      "title": "谁懂共鸣之战朵莉亚开大的救赎感",
-      "url": "https://www.douyin.com/search/%E8%B0%81%E6%87%82%E5%85%B1%E9%B8%A3%E4%B9%8B%E6%88%98%E6%9C%B5%E8%8E%89%E4%BA%9A%E5%BC%80%E5%A4%A7%E7%9A%84%E6%95%91%E8%B5%8E%E6%84%9F?type=general",
-      "hot_value": "8170273",
-      "index": 19
-    },
-    {
-      "title": "四川男篮终结47连败",
-      "url": "https://www.douyin.com/search/%E5%9B%9B%E5%B7%9D%E7%94%B7%E7%AF%AE%E7%BB%88%E7%BB%9347%E8%BF%9E%E8%B4%A5?type=general",
-      "hot_value": "8161609",
-      "index": 20
-    },
-    {
-      "title": "燕云全新主题区域未央城正式开启",
-      "url": "https://www.douyin.com/search/%E7%87%95%E4%BA%91%E5%85%A8%E6%96%B0%E4%B8%BB%E9%A2%98%E5%8C%BA%E5%9F%9F%E6%9C%AA%E5%A4%AE%E5%9F%8E%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF?type=general",
-      "hot_value": "8145954",
-      "index": 21
     },
     {
       "title": "二郎显圣真君敦煌舞挑战",
       "url": "https://www.douyin.com/search/%E4%BA%8C%E9%83%8E%E6%98%BE%E5%9C%A3%E7%9C%9F%E5%90%9B%E6%95%A6%E7%85%8C%E8%88%9E%E6%8C%91%E6%88%98?type=general",
-      "hot_value": "8076656",
+      "hot_value": "7906001",
+      "index": 19
+    },
+    {
+      "title": "新疆阿达西回应烤馕走红",
+      "url": "https://www.douyin.com/search/%E6%96%B0%E7%96%86%E9%98%BF%E8%BE%BE%E8%A5%BF%E5%9B%9E%E5%BA%94%E7%83%A4%E9%A6%95%E8%B5%B0%E7%BA%A2?type=general",
+      "hot_value": "7799055",
+      "index": 20
+    },
+    {
+      "title": "谁懂共鸣之战朵莉亚开大的救赎感",
+      "url": "https://www.douyin.com/search/%E8%B0%81%E6%87%82%E5%85%B1%E9%B8%A3%E4%B9%8B%E6%88%98%E6%9C%B5%E8%8E%89%E4%BA%9A%E5%BC%80%E5%A4%A7%E7%9A%84%E6%95%91%E8%B5%8E%E6%84%9F?type=general",
+      "hot_value": "7791663",
+      "index": 21
+    },
+    {
+      "title": "辽宁男篮主帅：已重整旗鼓",
+      "url": "https://www.douyin.com/search/%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%B8%85%EF%BC%9A%E5%B7%B2%E9%87%8D%E6%95%B4%E6%97%97%E9%BC%93?type=general",
+      "hot_value": "7769796",
       "index": 22
     },
     {
-      "title": "跑男录制全员大合影名场面",
-      "url": "https://www.douyin.com/search/%E8%B7%91%E7%94%B7%E5%BD%95%E5%88%B6%E5%85%A8%E5%91%98%E5%A4%A7%E5%90%88%E5%BD%B1%E5%90%8D%E5%9C%BA%E9%9D%A2?type=general",
-      "hot_value": "8065069",
+      "title": "WNBA总决赛G1女武神险胜梦想队",
+      "url": "https://www.douyin.com/search/WNBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E5%A5%B3%E6%AD%A6%E7%A5%9E%E9%99%A9%E8%83%9C%E6%A2%A6%E6%83%B3%E9%98%9F?type=general",
+      "hot_value": "7760141",
       "index": 23
     },
     {
-      "title": "嫁金钗田曦薇扇巴掌转场",
-      "url": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E7%94%B0%E6%9B%A6%E8%96%87%E6%89%87%E5%B7%B4%E6%8E%8C%E8%BD%AC%E5%9C%BA?type=general",
-      "hot_value": "7986811",
+      "title": "燕云全新主题区域未央城正式开启",
+      "url": "https://www.douyin.com/search/%E7%87%95%E4%BA%91%E5%85%A8%E6%96%B0%E4%B8%BB%E9%A2%98%E5%8C%BA%E5%9F%9F%E6%9C%AA%E5%A4%AE%E5%9F%8E%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF?type=general",
+      "hot_value": "7759086",
       "index": 24
-    },
-    {
-      "title": "蛋烘糕主理人就是如此权威",
-      "url": "https://www.douyin.com/search/%E8%9B%8B%E7%83%98%E7%B3%95%E4%B8%BB%E7%90%86%E4%BA%BA%E5%B0%B1%E6%98%AF%E5%A6%82%E6%AD%A4%E6%9D%83%E5%A8%81?type=general",
-      "hot_value": "7843287",
-      "index": 25
-    },
-    {
-      "title": "我们都被困在这寂寞的夜晚手势舞",
-      "url": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E9%83%BD%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%BF%99%E5%AF%82%E5%AF%9E%E7%9A%84%E5%A4%9C%E6%99%9A%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
-      "hot_value": "7810172",
-      "index": 26
-    },
-    {
-      "title": "鹿晗同款特效已严肃跟拍",
-      "url": "https://www.douyin.com/search/%E9%B9%BF%E6%99%97%E5%90%8C%E6%AC%BE%E7%89%B9%E6%95%88%E5%B7%B2%E4%B8%A5%E8%82%83%E8%B7%9F%E6%8B%8D?type=general",
-      "hot_value": "7782387",
-      "index": 27
-    },
-    {
-      "title": "嫁金钗君黛智商堪比夏冬春",
-      "url": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E5%90%9B%E9%BB%9B%E6%99%BA%E5%95%86%E5%A0%AA%E6%AF%94%E5%A4%8F%E5%86%AC%E6%98%A5?type=general",
-      "hot_value": "7776029",
-      "index": 28
-    },
-    {
-      "title": "尚公主孟子义李昀锐共进退",
-      "url": "https://www.douyin.com/search/%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E5%85%B1%E8%BF%9B%E9%80%80?type=general",
-      "hot_value": "7770446",
-      "index": 29
     },
     {
       "title": "看玉簟秋无法保持苹果肌扁平",
       "url": "https://www.douyin.com/search/%E7%9C%8B%E7%8E%89%E7%B0%9F%E7%A7%8B%E6%97%A0%E6%B3%95%E4%BF%9D%E6%8C%81%E8%8B%B9%E6%9E%9C%E8%82%8C%E6%89%81%E5%B9%B3?type=general",
-      "hot_value": "7769711",
+      "hot_value": "7733277",
+      "index": 25
+    },
+    {
+      "title": "美人余何润东精神控制妻子",
+      "url": "https://www.douyin.com/search/%E7%BE%8E%E4%BA%BA%E4%BD%99%E4%BD%95%E6%B6%A6%E4%B8%9C%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B6%E5%A6%BB%E5%AD%90?type=general",
+      "hot_value": "7727875",
+      "index": 26
+    },
+    {
+      "title": "嫁金钗田曦薇扇巴掌转场",
+      "url": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E7%94%B0%E6%9B%A6%E8%96%87%E6%89%87%E5%B7%B4%E6%8E%8C%E8%BD%AC%E5%9C%BA?type=general",
+      "hot_value": "7725415",
+      "index": 27
+    },
+    {
+      "title": "王嘉尔世巡再官宣六城",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%96%E5%B7%A1%E5%86%8D%E5%AE%98%E5%AE%A3%E5%85%AD%E5%9F%8E?type=general",
+      "hot_value": "7711554",
+      "index": 28
+    },
+    {
+      "title": "嫁金钗君黛智商堪比夏冬春",
+      "url": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E5%90%9B%E9%BB%9B%E6%99%BA%E5%95%86%E5%A0%AA%E6%AF%94%E5%A4%8F%E5%86%AC%E6%98%A5?type=general",
+      "hot_value": "7708836",
+      "index": 29
+    },
+    {
+      "title": "32分钟杯总决赛",
+      "url": "https://www.douyin.com/search/32%E5%88%86%E9%92%9F%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B?type=general",
+      "hot_value": "7704574",
       "index": 30
     }
   ]
