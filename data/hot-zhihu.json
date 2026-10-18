@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-17T23:17:17Z",
+  "update_time": "2026-10-18T01:20:32Z",
   "count": 30,
   "list": [
     {
       "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
       "url": "https://www.zhihu.com/question/2094715615177085550",
-      "hot_value": "618 万热度",
+      "hot_value": "528 万热度",
       "index": 1
-    },
-    {
-      "title": "如何评价 DeepSeek V4.1 Flash 1017?",
-      "url": "https://www.zhihu.com/question/2094773240036061683",
-      "hot_value": "256 万热度",
-      "index": 2
     },
     {
       "title": "智界将获独立造车资质，内部人士确认公司计划上市，获独立造车资质意味着什么？对华为和奇瑞有怎样的影响？",
       "url": "https://www.zhihu.com/question/2094856257873995052",
-      "hot_value": "219 万热度",
+      "hot_value": "312 万热度",
+      "index": 2
+    },
+    {
+      "title": "如何评价 DeepSeek V4.1 Flash 1017?",
+      "url": "https://www.zhihu.com/question/2094773240036061683",
+      "hot_value": "159 万热度",
       "index": 3
+    },
+    {
+      "title": "有人说常光顾的一家店老板如果突然开始搭话，就再也不想去了，为啥会有这种心理？你有同感吗？",
+      "url": "https://www.zhihu.com/question/2093003760058332999",
+      "hot_value": "141 万热度",
+      "index": 4
+    },
+    {
+      "title": "现在好多演员都开始演伟人的角色了，未来特型演员会消失吗？",
+      "url": "https://www.zhihu.com/question/2093738651259597355",
+      "hot_value": "140 万热度",
+      "index": 5
     },
     {
       "title": "社保新规 11 月 1 日起施行，明确自愿放弃社保无效，怎样解读？企业未足额缴纳社保，员工权益会受到哪些损害？",
       "url": "https://www.zhihu.com/question/2094785686142558570",
-      "hot_value": "176 万热度",
-      "index": 4
+      "hot_value": "138 万热度",
+      "index": 6
+    },
+    {
+      "title": "妈妈因大一儿子未考技能证书，将生活费从 4000 元降至 2000，够花吗？怎样看待这种「降费逼考证」方式？",
+      "url": "https://www.zhihu.com/question/2094821313529565919",
+      "hot_value": "136 万热度",
+      "index": 7
+    },
+    {
+      "title": "申真谞加冕个人第九冠超越柯洁，如何评价其历史地位？",
+      "url": "https://www.zhihu.com/question/2094349174879809687",
+      "hot_value": "129 万热度",
+      "index": 8
+    },
+    {
+      "title": "移动公司在我的名下给别人安装了个宽带，现在取不掉怎么办呢？",
+      "url": "https://www.zhihu.com/question/6084067036",
+      "hot_value": "120 万热度",
+      "index": 9
     },
     {
       "title": "网传世界杯一战封神的佛得角 40 岁门将沃齐尼亚被俱乐部弃用，疑似要提前退役，原因是什么？",
       "url": "https://www.zhihu.com/question/2094399559841726677",
-      "hot_value": "133 万热度",
-      "index": 5
+      "hot_value": "115 万热度",
+      "index": 10
     },
     {
-      "title": "为什么感觉一代教父对任何事情云淡风轻，总可以拿捏很好，但二代教父感觉过的很艰难？",
+      "title": "男子睡梦中蟑螂钻进耳道，拍打水冲后蟑螂死在里面，就医发现耳膜险穿孔，蟑螂等异物进入耳朵怎样处理最安全？",
+      "url": "https://www.zhihu.com/question/2094464362748405033",
+      "hot_value": "109 万热度",
+      "index": 11
+    },
+    {
+      "title": "「加一秒」要消失了，国际计量大会决定取消闰秒，之后时间该怎么校准？这会影响到生活哪些方面？",
+      "url": "https://www.zhihu.com/question/2094361841795388846",
+      "hot_value": "107 万热度",
+      "index": 12
+    },
+    {
+      "title": "日美将举行大规模联合军演，投入兵力近 6 万人，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2094899719134606409",
+      "hot_value": "105 万热度",
+      "index": 13
+    },
+    {
+      "title": "为什么感觉一代教父对任何事情云淡风轻，总可以拿捏很好，但二代教父感觉过得很艰难？",
       "url": "https://www.zhihu.com/question/468869175",
-      "hot_value": "111 万热度",
-      "index": 6
+      "hot_value": "104 万热度",
+      "index": 14
     },
     {
       "title": "做了鸡翅，孩子想多吃一个发现没有了，看到表弟碗里堆积几个，二宝看了一眼之后默默吃饭，你会怎么处理？",
       "url": "https://www.zhihu.com/question/2080368472178030209",
-      "hot_value": "107 万热度",
-      "index": 7
+      "hot_value": "88 万热度",
+      "index": 15
     },
     {
       "title": "班主任休产假遭家长投诉质问「一定要生孩子吗」，教师称举报信数量激增，如何看待近几年兴起的校园投诉潮？",
       "url": "https://www.zhihu.com/question/2094730049790465149",
-      "hot_value": "92 万热度",
-      "index": 8
+      "hot_value": "83 万热度",
+      "index": 16
     },
     {
-      "title": "如何评价《海贼王》第 1196 话？",
-      "url": "https://www.zhihu.com/question/2093508000262768508",
-      "hot_value": "90 万热度",
-      "index": 9
-    },
-    {
-      "title": "一小男孩被曝衣衫不整跟随母亲游荡，官方称孩子母亲多次拒绝救助，具体是什么情况？",
-      "url": "https://www.zhihu.com/question/2094122392523990193",
-      "hot_value": "77 万热度",
-      "index": 10
+      "title": "如果一颗星球黄金极度廉价普通金属昂贵，黄金会成为建材吗？",
+      "url": "https://www.zhihu.com/question/2069044284678829079",
+      "hot_value": "78 万热度",
+      "index": 17
     },
     {
       "title": "多家银行上调存款利率，五年期定存高至 2.1%，怎样看待这一变化？还会持续上调吗？",
       "url": "https://www.zhihu.com/question/2094509189456295461",
-      "hot_value": "76 万热度",
-      "index": 11
-    },
-    {
-      "title": "怎么评价高三学生陈妤颉在近期访谈中提到的「最好不出省不出市」的高考目标？",
-      "url": "https://www.zhihu.com/question/2093673328301159605",
-      "hot_value": "75 万热度",
-      "index": 12
-    },
-    {
-      "title": "央视三国演义，为什么会安排一个徐晃被颜良斩杀的桥段，不觉得诡异吗？",
-      "url": "https://www.zhihu.com/question/2003781433475503740",
-      "hot_value": "72 万热度",
-      "index": 13
-    },
-    {
-      "title": "为什么现在的医院，办理住院就不让回家了？",
-      "url": "https://www.zhihu.com/question/2091040583896848061",
-      "hot_value": "59 万热度",
-      "index": 14
-    },
-    {
-      "title": "中建七局拖欠 118 名农民工合计 320 万工资，为何这些大企业也会拖欠工资？相关负责人可能会面临哪些处罚？",
-      "url": "https://www.zhihu.com/question/2094335476488300413",
-      "hot_value": "59 万热度",
-      "index": 15
-    },
-    {
-      "title": "「懒得管人」的领导，为什么团队执行力反而更强？",
-      "url": "https://www.zhihu.com/question/2071344922704327226",
-      "hot_value": "58 万热度",
-      "index": 16
-    },
-    {
-      "title": "为什么冰箱的冷藏室有灯，但冷冻室没有？",
-      "url": "https://www.zhihu.com/question/2045508310581916080",
-      "hot_value": "58 万热度",
-      "index": 17
-    },
-    {
-      "title": "如果宋江不接受招安，梁山一百单八将真的能夺得天下吗？",
-      "url": "https://www.zhihu.com/question/2084624269972075323",
-      "hot_value": "58 万热度",
+      "hot_value": "77 万热度",
       "index": 18
     },
     {
       "title": "为什么现在很多人宁可把钱放在银行账户上，也不愿意拿出来消费? 再多的钱不拿出来消费，只是一个数字？",
       "url": "https://www.zhihu.com/question/2092898954484753956",
-      "hot_value": "58 万热度",
+      "hot_value": "75 万热度",
       "index": 19
     },
     {
       "title": "女子生下龙凤胎起诉已婚董事长望其承担养育责任，男方质疑其通过人工试管受孕，有哪些疑点待厘清？",
       "url": "https://www.zhihu.com/question/2094717252792578329",
-      "hot_value": "58 万热度",
+      "hot_value": "75 万热度",
       "index": 20
     },
     {
       "title": "以小龙女的外貌，她有很多选择，为什么最后是杨过？",
       "url": "https://www.zhihu.com/question/576351021",
-      "hot_value": "58 万热度",
+      "hot_value": "75 万热度",
       "index": 21
     },
     {
       "title": "华中科技大学女篮与武汉盛帆女篮爆发大规模冲突，华科主帅追打对方球员，具体情况如何？将面临什么处罚？",
       "url": "https://www.zhihu.com/question/2094458019136410730",
-      "hot_value": "58 万热度",
+      "hot_value": "75 万热度",
       "index": 22
     },
     {
       "title": "Roadster 发布后，特斯拉、 SpaceX 仍在大跌，马斯克身家四天缩水 5286 亿元，如何解读？",
       "url": "https://www.zhihu.com/question/2094694840407519249",
-      "hot_value": "58 万热度",
+      "hot_value": "75 万热度",
       "index": 23
     },
     {
-      "title": "职场「隐形压力」，真能让人成长吗？还是只会让人心累？",
-      "url": "https://www.zhihu.com/question/1949867225583427718",
-      "hot_value": "58 万热度",
+      "title": "Steam 上全 AI 搓出来的垃圾游戏越来越多，平台为什么不能完全屏蔽这类作品？",
+      "url": "https://www.zhihu.com/question/2092987882810128061",
+      "hot_value": "74 万热度",
       "index": 24
     },
     {
-      "title": "如何评价《明日方舟：终末地》1.6 版本？",
-      "url": "https://www.zhihu.com/question/2094069188772077851",
-      "hot_value": "58 万热度",
+      "title": "如果请一位古人穿越，陪你一同访古，你会选择谁？为什么？",
+      "url": "https://www.zhihu.com/question/2086484425034949938",
+      "hot_value": "74 万热度",
       "index": 25
     },
     {
-      "title": "如何看待洛阳博物馆回应闭馆一年，称新馆运行超 15 年需要升级，辟谣洛阳挖出「传国玉玺」？",
-      "url": "https://www.zhihu.com/question/2094385669615218922",
-      "hot_value": "57 万热度",
+      "title": "走出低谷后，还会原谅伤害过你的人吗？",
+      "url": "https://www.zhihu.com/question/2090514256538113191",
+      "hot_value": "74 万热度",
       "index": 26
     },
     {
-      "title": "能分享一下你一天的日常吗？",
-      "url": "https://www.zhihu.com/question/1909585432091535055",
-      "hot_value": "57 万热度",
+      "title": "孩子每年生日都想要礼物、要办聚会，你们是怎么安排的？",
+      "url": "https://www.zhihu.com/question/2094394800376133223",
+      "hot_value": "74 万热度",
       "index": 27
     },
     {
-      "title": "德玛西亚杯决赛 BFX 3:1 WE，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2094887630961895086",
-      "hot_value": "57 万热度",
+      "title": "就真的很想知道大家一般都是怎么提高自己的精力?",
+      "url": "https://www.zhihu.com/question/1971005822147469829",
+      "hot_value": "69 万热度",
       "index": 28
     },
     {
-      "title": "如何评价外媒评 S16 参赛选手 Chovy 第一，Knight 第七，Faker 第十四？",
-      "url": "https://www.zhihu.com/question/2094479040576843836",
-      "hot_value": "57 万热度",
+      "title": "央视三国演义，为什么会安排一个徐晃被颜良斩杀的桥段，不觉得诡异吗？",
+      "url": "https://www.zhihu.com/question/2003781433475503740",
+      "hot_value": "67 万热度",
       "index": 29
     },
     {
-      "title": "打工人，早上出门比较急，有什么简单的早餐？",
-      "url": "https://www.zhihu.com/question/1954464354268328036",
-      "hot_value": "57 万热度",
+      "title": "做人最基础的底线是什么？",
+      "url": "https://www.zhihu.com/question/2092879002008564387",
+      "hot_value": "61 万热度",
       "index": 30
     }
   ]
