@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-20T11:58:54Z",
+  "update_time": "2026-10-20T16:40:15Z",
   "count": 30,
   "list": [
     {
+      "title": "未央何处丨燕云X张良仁教授的“考古之旅”",
+      "url": "https://www.bilibili.com/video/BV1QpnA62EBM",
+      "hot_value": "242758播放",
+      "index": 1
+    },
+    {
+      "title": "中文已死：为什么我们越来越不敢好好说话？",
+      "url": "https://www.bilibili.com/video/BV1Xdnc6jEbL",
+      "hot_value": "596037播放",
+      "index": 2
+    },
+    {
+      "title": "爱上纯血世家女孩的混血男孩【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1bKnw6zEsV",
+      "hot_value": "214072播放",
+      "index": 3
+    },
+    {
       "title": "《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩",
       "url": "https://www.bilibili.com/video/BV1SknF6KE5g",
-      "hot_value": "878427播放",
-      "index": 1
+      "hot_value": "1431843播放",
+      "index": 4
+    },
+    {
+      "title": "我得到了，能看到表白率的超能力……",
+      "url": "https://www.bilibili.com/video/BV1ALnw6YE4S",
+      "hot_value": "522955播放",
+      "index": 5
+    },
+    {
+      "title": "【大鸣王潮1566】岁共交流会",
+      "url": "https://www.bilibili.com/video/BV16PnA6fEky",
+      "hot_value": "116373播放",
+      "index": 6
     },
     {
       "title": "“我借你的孤单，今生恐怕难还”【云裳羽衣曲-伴奏】【思念の小曲】",
       "url": "https://www.bilibili.com/video/BV1VNJe6qEMX",
-      "hot_value": "796473播放",
-      "index": 2
+      "hot_value": "1241610播放",
+      "index": 7
+    },
+    {
+      "title": "【萌黄一槽】萌到你了真是抱歉！风祭萌黄[古堡奇遇]全技能爆料",
+      "url": "https://www.bilibili.com/video/BV1gTnP62EEY",
+      "hot_value": "596139播放",
+      "index": 8
     },
     {
       "title": "法国影响力最大的八卦是什么？【神奇组织56】",
       "url": "https://www.bilibili.com/video/BV1Vbnn6iEfG",
-      "hot_value": "803252播放",
-      "index": 3
-    },
-    {
-      "title": "带着100万，我们见了成人网红...",
-      "url": "https://www.bilibili.com/video/BV1pGnn67EbB",
-      "hot_value": "2825746播放",
-      "index": 4
-    },
-    {
-      "title": "iG出征单曲《仁川共鸣》",
-      "url": "https://www.bilibili.com/video/BV1F7nF6WEmD",
-      "hot_value": "399170播放",
-      "index": 5
-    },
-    {
-      "title": "《鸣潮》共鸣者「锁暝」PV | 契阔",
-      "url": "https://www.bilibili.com/video/BV1R8nF65Eme",
-      "hot_value": "630578播放",
-      "index": 6
-    },
-    {
-      "title": "漫展按脚 生意真好",
-      "url": "https://www.bilibili.com/video/BV1tmn36aEAP",
-      "hot_value": "857282播放",
-      "index": 7
-    },
-    {
-      "title": "《是我嘴太小了吗》",
-      "url": "https://www.bilibili.com/video/BV1omnG6nEUJ",
-      "hot_value": "1690485播放",
-      "index": 8
-    },
-    {
-      "title": "里昂叔叔带你通关生化危机爆发夜",
-      "url": "https://www.bilibili.com/video/BV1HNnj6iEQL",
-      "hot_value": "320023播放",
+      "hot_value": "1228044播放",
       "index": 9
     },
     {
       "title": "财神窦占龙 第12集 宿仇【8月国创】",
       "url": "https://www.bilibili.com/video/BV1UbJ96DEbP",
-      "hot_value": "234923播放",
+      "hot_value": "256154播放",
       "index": 10
+    },
+    {
+      "title": "《三过车门而不入》",
+      "url": "https://www.bilibili.com/video/BV1n7nF6WEco",
+      "hot_value": "647030播放",
+      "index": 11
+    },
+    {
+      "title": "老一辈还在坚持手搓",
+      "url": "https://www.bilibili.com/video/BV1uVnJ6ZEHF",
+      "hot_value": "1102872播放",
+      "index": 12
+    },
+    {
+      "title": "《是我嘴太小了吗》",
+      "url": "https://www.bilibili.com/video/BV1omnG6nEUJ",
+      "hot_value": "2177652播放",
+      "index": 13
+    },
+    {
+      "title": "iG出征单曲《仁川共鸣》",
+      "url": "https://www.bilibili.com/video/BV1F7nF6WEmD",
+      "hot_value": "707614播放",
+      "index": 14
+    },
+    {
+      "title": "PCL出事了？那MC下载和联机，我们先顶上了",
+      "url": "https://www.bilibili.com/video/BV1nCnA6AEYB",
+      "hot_value": "114494播放",
+      "index": 15
     },
     {
       "title": "特厨隋坡|排队超久的网红店？！今天我们来说实话！！",
       "url": "https://www.bilibili.com/video/BV1mCnF6vEYn",
-      "hot_value": "470539播放",
-      "index": 11
-    },
-    {
-      "title": "《车底到底有谁在啊》",
-      "url": "https://www.bilibili.com/video/BV1n7nF6WEco",
-      "hot_value": "331406播放",
-      "index": 12
-    },
-    {
-      "title": "一个人去理塘，到达世界高城！！",
-      "url": "https://www.bilibili.com/video/BV1xGnw6vEqs",
-      "hot_value": "41084播放",
-      "index": 13
-    },
-    {
-      "title": "“攻 防 转 换” 叹息之墙",
-      "url": "https://www.bilibili.com/video/BV1g4nj6HEzy",
-      "hot_value": "392038播放",
-      "index": 14
-    },
-    {
-      "title": "赛博监考",
-      "url": "https://www.bilibili.com/video/BV12eJ967EQF",
-      "hot_value": "1006032播放",
-      "index": 15
-    },
-    {
-      "title": "《现在的小孩 vs bro小时候》",
-      "url": "https://www.bilibili.com/video/BV1yJnL6TE3p",
-      "hot_value": "937791播放",
+      "hot_value": "806459播放",
       "index": 16
     },
     {
-      "title": "教妹妹开车，用我的声音，我成功了！",
-      "url": "https://www.bilibili.com/video/BV1YmnJ6eEKE",
-      "hot_value": "1547837播放",
+      "title": "漫展按脚 生意真好",
+      "url": "https://www.bilibili.com/video/BV1tmn36aEAP",
+      "hot_value": "971059播放",
       "index": 17
-    },
-    {
-      "title": "房车自驾1500公里，去看看课本里的大兴安岭到底多美？",
-      "url": "https://www.bilibili.com/video/BV1jYJX6FEtw",
-      "hot_value": "625027播放",
-      "index": 18
-    },
-    {
-      "title": "【NMIXX】\"긴 소원 (Birthday Wish)\" Performance Video",
-      "url": "https://www.bilibili.com/video/BV14Knw6zEd5",
-      "hot_value": "28881播放",
-      "index": 19
-    },
-    {
-      "title": "王扁街头遇袭事件：前经纪人为何欲夺人性命？",
-      "url": "https://www.bilibili.com/video/BV1fgJd6rEkq",
-      "hot_value": "859170播放",
-      "index": 20
-    },
-    {
-      "title": "【S16前瞻】IG首战打GEN！69战宙斯！LPL撸城四杰能抵抗韩门吗？质疑Faker，但不要和Faker为敌！不烧心2W字战队巡礼，",
-      "url": "https://www.bilibili.com/video/BV1spJo6pE2X",
-      "hot_value": "390349播放",
-      "index": 21
-    },
-    {
-      "title": "上课同学穿披日本军旗戴侵略军帽怎么办？",
-      "url": "https://www.bilibili.com/video/BV1APJd62Esz",
-      "hot_value": "997067播放",
-      "index": 22
     },
     {
       "title": "法国55万人大游行！但马克龙和夫人在跳舞",
       "url": "https://www.bilibili.com/video/BV1hqnF66Etz",
-      "hot_value": "122152播放",
+      "hot_value": "374386播放",
+      "index": 18
+    },
+    {
+      "title": "“攻 防 转 换” 叹息之墙",
+      "url": "https://www.bilibili.com/video/BV1g4nj6HEzy",
+      "hot_value": "637232播放",
+      "index": 19
+    },
+    {
+      "title": "社交媒体世界大战：泰韩法巴西已加入抗日全球统一战线",
+      "url": "https://www.bilibili.com/video/BV1AJnP6BEsa",
+      "hot_value": "276240播放",
+      "index": 20
+    },
+    {
+      "title": "⚡赵本山  《绅士Gentle Man》⚡",
+      "url": "https://www.bilibili.com/video/BV1NwJZ6dEiF",
+      "hot_value": "245590播放",
+      "index": 21
+    },
+    {
+      "title": "【極·出征】iG 2026全球总决赛出征片",
+      "url": "https://www.bilibili.com/video/BV1e5nc65E38",
+      "hot_value": "262189播放",
+      "index": 22
+    },
+    {
+      "title": "《现在的小孩 vs bro小时候》",
+      "url": "https://www.bilibili.com/video/BV1yJnL6TE3p",
+      "hot_value": "1282973播放",
       "index": 23
-    },
-    {
-      "title": "“当人生变成曲线，你会看见谁一直陪着你”【把回忆拼好给你-DJ变速】【生命线の小曲】",
-      "url": "https://www.bilibili.com/video/BV1xmn36aEgv",
-      "hot_value": "762469播放",
-      "index": 24
-    },
-    {
-      "title": "【Day 0】我是DeepSeek鲸鱼娘，这个B站账号现在归我了",
-      "url": "https://www.bilibili.com/video/BV1pGnn67EC2",
-      "hot_value": "882284播放",
-      "index": 25
     },
     {
       "title": "《听见你的心声》08“初恋要来我家住，所以爸，你还是去住院吧……”（本故事纯属虚构，请相信科学）",
       "url": "https://www.bilibili.com/video/BV18onJ6tErK",
-      "hot_value": "418078播放",
+      "hot_value": "652161播放",
+      "index": 24
+    },
+    {
+      "title": "\"早期的豺狼\"",
+      "url": "https://www.bilibili.com/video/BV1JFng61E3t",
+      "hot_value": "2029723播放",
+      "index": 25
+    },
+    {
+      "title": "里昂叔叔带你通关生化危机爆发夜",
+      "url": "https://www.bilibili.com/video/BV1HNnj6iEQL",
+      "hot_value": "602097播放",
       "index": 26
     },
     {
-      "title": "磨紫色渐变写悬浮字无题",
-      "url": "https://www.bilibili.com/video/BV1isnu6zErv",
-      "hot_value": "348393播放",
+      "title": "【A2O LITE】A2O LITE正式入驻B站啦！💚",
+      "url": "https://www.bilibili.com/video/BV17ync69E46",
+      "hot_value": "195907播放",
       "index": 27
     },
     {
-      "title": "4名劳工手持AK-74+5千发弹药+燃烧瓶，20分钟狂杀144人！【莫斯科音乐厅恐袭详解】",
-      "url": "https://www.bilibili.com/video/BV1gvnn6aEmA",
-      "hot_value": "533660播放",
+      "title": "被骗1249万，成功上岸！聊聊天顺便来一期Room tour！",
+      "url": "https://www.bilibili.com/video/BV1Qnnc6gE34",
+      "hot_value": "222290播放",
       "index": 28
     },
     {
-      "title": "今天吃红糖糍粑",
-      "url": "https://www.bilibili.com/video/BV1bwnF6eEYV",
-      "hot_value": "184977播放",
+      "title": "带着100万，我们见了成人网红...",
+      "url": "https://www.bilibili.com/video/BV1pGnn67EbB",
+      "hot_value": "3480268播放",
       "index": 29
     },
     {
-      "title": "一锅开水直接加进肉馅里？这样做出来的包子馅汤汁竟然这么多？ 到底是什么原理？",
-      "url": "https://www.bilibili.com/video/BV1BiJe6LERJ",
-      "hot_value": "1153139播放",
+      "title": "【热门拆解】为什么你老能刷到AI动画科普视频？它是怎么做的？vibe动画是什么意思？",
+      "url": "https://www.bilibili.com/video/BV1ALnw6YEM7",
+      "hot_value": "211812播放",
       "index": 30
     }
   ]
