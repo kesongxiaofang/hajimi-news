@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-20T01:30:02Z",
+  "update_time": "2026-10-20T06:29:35Z",
   "count": 30,
   "list": [
     {
+      "title": "中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返，如何评价？他在俄罗斯当地及回国后可能面临哪些实质追责？",
+      "url": "https://www.zhihu.com/question/2095439399555285790",
+      "hot_value": "3571 万热度",
+      "index": 1
+    },
+    {
       "title": "21 岁男子在稻城亚丁徒步时因严重高反去世，官方称「事发地不在景区，系非法穿越」，有哪些警示？",
       "url": "https://www.zhihu.com/question/2095605933854253801",
-      "hot_value": "1286 万热度",
-      "index": 1
+      "hot_value": "1067 万热度",
+      "index": 2
     },
     {
       "title": "法国爆发严重暴力骚乱，超 50 万人上街抗议，马克龙公开谴责，冲突的深层根源是什么？折射出法国怎样的危机？",
       "url": "https://www.zhihu.com/question/2095436236819096015",
-      "hot_value": "672 万热度",
-      "index": 2
-    },
-    {
-      "title": "中国留学生俄罗斯课堂披旭日旗后道歉且已被遣返，如何评价？他在俄罗斯当地及回国后可能面临哪些实质追责？",
-      "url": "https://www.zhihu.com/question/2095439399555285790",
-      "hot_value": "655 万热度",
+      "hot_value": "985 万热度",
       "index": 3
     },
     {
-      "title": "退休后旅游有意义吗?",
-      "url": "https://www.zhihu.com/question/464519099",
-      "hot_value": "487 万热度",
+      "title": "我妈是 1971 年出生的，她是中专学历，请问在那个年代中专学历相当于什么水平？",
+      "url": "https://www.zhihu.com/question/1981378024705389846",
+      "hot_value": "543 万热度",
       "index": 4
     },
     {
       "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
       "url": "https://www.zhihu.com/question/2095476625228019430",
-      "hot_value": "387 万热度",
+      "hot_value": "463 万热度",
       "index": 5
-    },
-    {
-      "title": "星巴克店员称 10 月 20 日起实施「消费入座」新规，你支持吗？落地难度大吗？",
-      "url": "https://www.zhihu.com/question/2095573616037573028",
-      "hot_value": "289 万热度",
-      "index": 6
-    },
-    {
-      "title": "王自如喊话罗永浩，称想与其和解，他们之间有啥过往恩怨？能成功和解吗？",
-      "url": "https://www.zhihu.com/question/2095252005765604562",
-      "hot_value": "174 万热度",
-      "index": 7
-    },
-    {
-      "title": "能不能建议修改火车开车前五分钟停止检票？",
-      "url": "https://www.zhihu.com/question/525603632",
-      "hot_value": "158 万热度",
-      "index": 8
     },
     {
       "title": "为什么嘴吹燃着的木炭，木炭会加速燃烧，呼出来的不是二氧化碳吗?",
       "url": "https://www.zhihu.com/question/1988229083155431753",
-      "hot_value": "142 万热度",
-      "index": 9
+      "hot_value": "385 万热度",
+      "index": 6
     },
     {
-      "title": "如何看待模仿王源博主「王扁」被前经纪人用锤子击打头部约 10 分钟，双方有什么矛盾？",
-      "url": "https://www.zhihu.com/question/2095221593614164784",
-      "hot_value": "141 万热度",
-      "index": 10
-    },
-    {
-      "title": "2026 年前三季度国内生产总值 1071071 亿元，同比增长 4.6%，如何解读这一数据？",
-      "url": "https://www.zhihu.com/question/2095454853577144171",
-      "hot_value": "140 万热度",
-      "index": 11
-    },
-    {
-      "title": "一场高中生罢课为什么能烧到全国，法国社会的火药桶到底是怎么堆起来的？",
-      "url": "https://www.zhihu.com/question/2095225318562689664",
-      "hot_value": "139 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何看待 C 罗遭葡萄牙足协处罚停赛 30 天、罚款 255 欧，仍可入选下期大名单？你觉得处罚力度轻吗？",
-      "url": "https://www.zhihu.com/question/2095768080811148954",
-      "hot_value": "139 万热度",
-      "index": 13
-    },
-    {
-      "title": "MiniMax 发布新模型 M3.1-Flash，主打多模态编程，其实际性能表现如何？",
-      "url": "https://www.zhihu.com/question/2095590617426482384",
-      "hot_value": "127 万热度",
-      "index": 14
-    },
-    {
-      "title": "同样是生活成本抗议，法国这轮骚乱和 2018 年黄背心差在哪？",
-      "url": "https://www.zhihu.com/question/2095227460857983151",
-      "hot_value": "126 万热度",
-      "index": 15
+      "title": "董明珠称格力技工学校禁止谈恋爱、头发不能太长，你觉得合理吗？这对学生而言是束缚还是保护？",
+      "url": "https://www.zhihu.com/question/2095788538184691975",
+      "hot_value": "341 万热度",
+      "index": 7
     },
     {
       "title": "长鑫科技股价跳水，市值跌破 3 万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？",
       "url": "https://www.zhihu.com/question/2095452033461511103",
-      "hot_value": "117 万热度",
-      "index": 16
+      "hot_value": "238 万热度",
+      "index": 8
     },
     {
-      "title": "如何一句话激怒古法程序员？",
-      "url": "https://www.zhihu.com/question/2094246894809473455",
-      "hot_value": "104 万热度",
-      "index": 17
-    },
-    {
-      "title": "汇源集团发布严正声明，宣布和「汇源」品牌切割、推出新品牌咱家果源，具体怎么回事？会带来哪些市场影响？",
-      "url": "https://www.zhihu.com/question/2095447353687815341",
-      "hot_value": "104 万热度",
-      "index": 18
-    },
-    {
-      "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-      "url": "https://www.zhihu.com/question/2093628371448217836",
-      "hot_value": "92 万热度",
-      "index": 19
-    },
-    {
-      "title": "现在越来越多人不接陌生电话了，你有同感吗？这样是更方便还是更麻烦了？",
-      "url": "https://www.zhihu.com/question/2095096931772884671",
-      "hot_value": "88 万热度",
-      "index": 20
-    },
-    {
-      "title": "iPhone Duo 溢价从超 5 万元跌至 3000 元，首销价格为什么会快速回落？",
-      "url": "https://www.zhihu.com/question/2095513862397337640",
-      "hot_value": "82 万热度",
-      "index": 21
-    },
-    {
-      "title": "如何评价《一人之下》第 780（835）话？",
-      "url": "https://www.zhihu.com/question/2094527862711776294",
-      "hot_value": "75 万热度",
-      "index": 22
-    },
-    {
-      "title": "曹丕为何不趁着刘备讨伐孙权的时机灭掉孙权？",
-      "url": "https://www.zhihu.com/question/2900120328",
-      "hot_value": "74 万热度",
-      "index": 23
+      "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
+      "url": "https://www.zhihu.com/question/2095646780692099465",
+      "hot_value": "234 万热度",
+      "index": 9
     },
     {
       "title": "《潜伏》晚秋看起来并不是一个忠诚坚韧之人，为何片尾也进行潜伏任务？",
       "url": "https://www.zhihu.com/question/2074405624293615328",
-      "hot_value": "73 万热度",
+      "hot_value": "159 万热度",
+      "index": 10
+    },
+    {
+      "title": "如何一句话激怒古法程序员？",
+      "url": "https://www.zhihu.com/question/2094246894809473455",
+      "hot_value": "134 万热度",
+      "index": 11
+    },
+    {
+      "title": "退休后旅游有意义吗?",
+      "url": "https://www.zhihu.com/question/464519099",
+      "hot_value": "134 万热度",
+      "index": 12
+    },
+    {
+      "title": "给二十多岁年轻人的成长建议有哪些？",
+      "url": "https://www.zhihu.com/question/2095428125803005649",
+      "hot_value": "133 万热度",
+      "index": 13
+    },
+    {
+      "title": "如何看待媒体评中国留学生身披旭日旗事件，称要对「精日」言行零容忍？",
+      "url": "https://www.zhihu.com/question/2095627907880019601",
+      "hot_value": "129 万热度",
+      "index": 14
+    },
+    {
+      "title": "如何看待湖北 00 后小伙 14 岁辍学，曾被骗负债 240 万，如今踩着自制飞行滑板，成功飞越长江？",
+      "url": "https://www.zhihu.com/question/2095632163530077628",
+      "hot_value": "124 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何评价 LoL 主播齐枫在韩服排位遇 DNS 青训选手摆烂「惩戒炮车」，最终自己的韩服账号反被封禁？",
+      "url": "https://www.zhihu.com/question/2095379408341185117",
+      "hot_value": "119 万热度",
+      "index": 16
+    },
+    {
+      "title": "Key 社核心创作者麻枝准确诊咽喉癌并放弃积极治疗专注创作，如何看待其选择？",
+      "url": "https://www.zhihu.com/question/2095571604134802213",
+      "hot_value": "118 万热度",
+      "index": 17
+    },
+    {
+      "title": "2026 年前三季度国内生产总值 1071071 亿元，同比增长 4.6%，如何解读这一数据？",
+      "url": "https://www.zhihu.com/question/2095454853577144171",
+      "hot_value": "117 万热度",
+      "index": 18
+    },
+    {
+      "title": "如何看待模仿王源博主「王扁」被前经纪人用锤子击打头部约 10 分钟，双方有什么矛盾？",
+      "url": "https://www.zhihu.com/question/2095221593614164784",
+      "hot_value": "116 万热度",
+      "index": 19
+    },
+    {
+      "title": "多家期刊拒绝 AI 参与撰写稿件的声明，称润色也不行，怎么看这一规定？学术规范与 AI 提效如何平衡？",
+      "url": "https://www.zhihu.com/question/2095313609647772520",
+      "hot_value": "113 万热度",
+      "index": 20
+    },
+    {
+      "title": "孕妇取消订单快递员称被登记为投诉，平台称是网点误传信息，反映出哪些管理问题？快递员们面临着怎样的困境？",
+      "url": "https://www.zhihu.com/question/2095440235542925676",
+      "hot_value": "108 万热度",
+      "index": 21
+    },
+    {
+      "title": "水杯闹钟等被改成学生的「藏手机神器」热销，这种产品为什么有市场？背后反映出哪些问题？",
+      "url": "https://www.zhihu.com/question/2092936972809589335",
+      "hot_value": "105 万热度",
+      "index": 22
+    },
+    {
+      "title": "如果没有人类，谁最有可能成为地球上的新霸主？",
+      "url": "https://www.zhihu.com/question/2023299203422593243",
+      "hot_value": "94 万热度",
+      "index": 23
+    },
+    {
+      "title": "国务院学位办发布意见，部分研究生不用写传统学位论文，首批拟在翻译、农业等五个专业试行，将产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2095512919056433831",
+      "hot_value": "92 万热度",
       "index": 24
     },
     {
-      "title": "如果《缅北电诈覆灭纪实》拍续集，你希望包含什么题材？",
-      "url": "https://www.zhihu.com/question/2091580920688070876",
-      "hot_value": "70 万热度",
+      "title": "如何看待 9 月 BBA 旗下无一车型零售破万？这是否意味着消费者不再单纯认豪华车标？",
+      "url": "https://www.zhihu.com/question/2095630667409254223",
+      "hot_value": "87 万热度",
       "index": 25
     },
     {
-      "title": "为什么孙策传位给其弟孙权，而不是儿子？",
-      "url": "https://www.zhihu.com/question/2094538374862333194",
-      "hot_value": "67 万热度",
+      "title": "国家电影局、体育总局鼓励影院打造观赛第二现场，利用空闲影厅直播重大体育赛事，你看好这一模式吗？",
+      "url": "https://www.zhihu.com/question/2094750413681702377",
+      "hot_value": "84 万热度",
       "index": 26
     },
     {
-      "title": "为什么当年欧阳震华在 TVB 会那么红？",
-      "url": "https://www.zhihu.com/question/43016104",
-      "hot_value": "67 万热度",
+      "title": "为什么说 Transformer 有机会实现大一统？",
+      "url": "https://www.zhihu.com/question/510273885",
+      "hot_value": "80 万热度",
       "index": 27
     },
     {
-      "title": "怎样做一个清醒通透的人？",
-      "url": "https://www.zhihu.com/question/2093405677851091775",
-      "hot_value": "67 万热度",
+      "title": "刘姥姥最后为什么能倾家荡产救巧姐?",
+      "url": "https://www.zhihu.com/question/1906628325352408564",
+      "hot_value": "79 万热度",
       "index": 28
     },
     {
-      "title": "昆明一事业编岗位九千人报名，这种「卷王岗」都是怎么出现的？实际备考难度有多大？",
-      "url": "https://www.zhihu.com/question/2095087599677174512",
-      "hot_value": "64 万热度",
+      "title": "俄餐里有哪些世界名菜？",
+      "url": "https://www.zhihu.com/question/373197163",
+      "hot_value": "67 万热度",
       "index": 29
     },
     {
-      "title": "人到三十岁，改变人生到底靠机会还是更换思维？",
-      "url": "https://www.zhihu.com/question/2089277850197160293",
-      "hot_value": "62 万热度",
+      "title": "在职场，为什么都说别太亲近上司？",
+      "url": "https://www.zhihu.com/question/1926701917209343537",
+      "hot_value": "66 万热度",
       "index": 30
     }
   ]
