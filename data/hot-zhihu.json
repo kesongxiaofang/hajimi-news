@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-21T01:48:57Z",
+  "update_time": "2026-10-21T06:58:00Z",
   "count": 30,
   "list": [
     {
       "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
       "url": "https://www.zhihu.com/question/2095938083422262957",
-      "hot_value": "1775 万热度",
+      "hot_value": "1432 万热度",
       "index": 1
     },
     {
       "title": "网友称可用「蟑螂粉」作为蛋白粉平替，商家还强调「野生蟑螂」，先抛开味道，这「蟑螂粉」有可能安全有效吗？",
       "url": "https://www.zhihu.com/question/2095115404402225389",
-      "hot_value": "609 万热度",
+      "hot_value": "1406 万热度",
       "index": 2
     },
     {
-      "title": "「红果短剧降智」引发广泛热议，为什么越是剧情粗糙的短剧越让人停不下来？",
-      "url": "https://www.zhihu.com/question/2095511427201159433",
-      "hot_value": "335 万热度",
+      "title": "医保个人账户跨省共济落地全国，意味着什么？将带来哪些利好？",
+      "url": "https://www.zhihu.com/question/2096149013556721446",
+      "hot_value": "640 万热度",
       "index": 3
     },
     {
-      "title": "Sweet Baby 官网删光合作项目，登记员工从 16 人缩到不足 5 人，DEI 咨询这门生意做不下去了吗？",
-      "url": "https://www.zhihu.com/question/2093639773445529861",
-      "hot_value": "205 万热度",
+      "title": "你是否认同当下电子游戏供给过于「丰富」，导致很多人不缺游戏玩，也根本玩不完？",
+      "url": "https://www.zhihu.com/question/2081867223677794172",
+      "hot_value": "471 万热度",
       "index": 4
     },
     {
-      "title": "如何看待 2026 年 10 月 20 日下午疑似国内所有 mc 相关下载被封禁？",
-      "url": "https://www.zhihu.com/question/2095905104423662975",
-      "hot_value": "201 万热度",
+      "title": "如何看待电视剧《兰香如故》中 兵部尚书韩粱被冻死这一情节？",
+      "url": "https://www.zhihu.com/question/2095950891564151540",
+      "hot_value": "309 万热度",
       "index": 5
-    },
-    {
-      "title": "为什么现在很多高净值人重金培养孩子接班，却收效甚微呢？",
-      "url": "https://www.zhihu.com/question/2092522183788647457",
-      "hot_value": "200 万热度",
-      "index": 6
-    },
-    {
-      "title": "国家数据集团成立，作为新央企以数据资源开发利用为主责主业，会如何重塑国内数据产业格局？",
-      "url": "https://www.zhihu.com/question/2095952438779983313",
-      "hot_value": "199 万热度",
-      "index": 7
-    },
-    {
-      "title": "智驾小蓝灯颜色进入新国标，车灯禁显示文字、禁用语音关灯，这样规定有哪些考虑？会怎样影响今后的设计？",
-      "url": "https://www.zhihu.com/question/2095876727058556423",
-      "hot_value": "196 万热度",
-      "index": 8
-    },
-    {
-      "title": "新能源车渗透率攀升至 67% 创历史新高，燃油车为何加速萎缩？",
-      "url": "https://www.zhihu.com/question/2094934531933468296",
-      "hot_value": "192 万热度",
-      "index": 9
-    },
-    {
-      "title": "每天微信步数都有七八千，为什么爬几层楼还是会喘？",
-      "url": "https://www.zhihu.com/question/2092918840594321984",
-      "hot_value": "177 万热度",
-      "index": 10
-    },
-    {
-      "title": "26-27 赛季欧冠联赛阶段巴黎圣日耳曼 4-2 巴萨，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2096081113722642482",
-      "hot_value": "163 万热度",
-      "index": 11
-    },
-    {
-      "title": "独生女车祸去世 10 年后赔偿所剩不多，父母再次起诉获批 5 年生活费，如何从法律角度解读？",
-      "url": "https://www.zhihu.com/question/2095673449092072909",
-      "hot_value": "109 万热度",
-      "index": 12
     },
     {
       "title": "如何评价山东「仙人跳」犯罪团伙作案 38 起，其中 3 名受害者拒不付款被采取强制措施，有哪些细节值得关注？",
       "url": "https://www.zhihu.com/question/2095821509633774542",
-      "hot_value": "109 万热度",
-      "index": 13
+      "hot_value": "297 万热度",
+      "index": 6
     },
     {
-      "title": "蒙古国草原火灾疑因一企业日籍高管为钓鱼违规进入引燃，此次火灾造成损失有多大？该高管可能要承担哪些责任？",
-      "url": "https://www.zhihu.com/question/2095827235907133939",
-      "hot_value": "109 万热度",
-      "index": 14
+      "title": "星巴克中国称 10 月 22 日起将在全国开始施行消费入座，你支持吗？消费入座对门店业绩和顾客体验有哪些影响？",
+      "url": "https://www.zhihu.com/question/2096194931823830459",
+      "hot_value": "285 万热度",
+      "index": 7
     },
     {
-      "title": "电商女装退货率普遍冲上 80%，背后的原因是什么？",
-      "url": "https://www.zhihu.com/question/2090369917635781397",
-      "hot_value": "109 万热度",
-      "index": 15
-    },
-    {
-      "title": "2627 赛季 NBA 常规赛，凯尔特人 113-121 活塞，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2096075854367478227",
-      "hot_value": "109 万热度",
-      "index": 16
-    },
-    {
-      "title": "《边缘行者》主创说第一季其实是圆满结局，因为「本来可能糟糕得多」，这说法你接受吗？",
-      "url": "https://www.zhihu.com/question/2095490467597116838",
-      "hot_value": "108 万热度",
-      "index": 17
-    },
-    {
-      "title": "既然网友都觉得 C 罗天赋很一般，当初弗格森为什么会一眼就把他当成自己干儿子培养？",
-      "url": "https://www.zhihu.com/question/2060783816797578681",
-      "hot_value": "107 万热度",
-      "index": 18
-    },
-    {
-      "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
-      "url": "https://www.zhihu.com/question/2059660303915397288",
-      "hot_value": "105 万热度",
-      "index": 19
-    },
-    {
-      "title": "关于留学生身披旭日旗事件，莫大学生称「历史学家有祖国」，怎么看待历史研究应有的客观底线？",
-      "url": "https://www.zhihu.com/question/2095779986846081161",
-      "hot_value": "101 万热度",
-      "index": 20
-    },
-    {
-      "title": "生殖隔离解除 24 小时、氧气消失三秒、所有动物失明 72 小时和全球暴雨 10 年，上述哪个灾难危害最大？",
-      "url": "https://www.zhihu.com/question/2095258672733615012",
-      "hot_value": "97 万热度",
-      "index": 21
+      "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
+      "url": "https://www.zhihu.com/question/2095844033167716971",
+      "hot_value": "283 万热度",
+      "index": 8
     },
     {
       "title": "女子下班后绕道买菜，遭遇车祸身亡，人社部门不予认定工伤，法院判决算工伤，如何理解？",
       "url": "https://www.zhihu.com/question/2095276237493102205",
-      "hot_value": "86 万热度",
-      "index": 22
+      "hot_value": "281 万热度",
+      "index": 9
     },
     {
-      "title": "如何看待美国高中模拟带娃课程，学生需把仿真婴儿带回家全天照护，根据照护质量给分？",
-      "url": "https://www.zhihu.com/question/2095539344152818826",
-      "hot_value": "76 万热度",
-      "index": 23
+      "title": "曹雪芹、吴承恩看到「圣黛 CP」是一笑而过还是气活过来？",
+      "url": "https://www.zhihu.com/question/2088956507765338262",
+      "hot_value": "280 万热度",
+      "index": 10
     },
     {
-      "title": "网上很多中年人说让董路当国足主教练，如果真让董路当国足主教练，会打出什么战绩？",
-      "url": "https://www.zhihu.com/question/2093670136460984907",
-      "hot_value": "75 万热度",
-      "index": 24
+      "title": "法国爆发大规模示威，距离 2027 法国总统大选仅剩半年，这次事件会对大选造成什么影响？",
+      "url": "https://www.zhihu.com/question/2095891171730003953",
+      "hot_value": "279 万热度",
+      "index": 11
     },
     {
-      "title": "《多情剑客无情剑》中，兵器谱不列女子，不列魔道中人，有什么意义吗？",
-      "url": "https://www.zhihu.com/question/1891962577841542183",
-      "hot_value": "73 万热度",
-      "index": 25
+      "title": "多家高校家长吐槽大学课太少，担心孩子没课时睡懒觉，你怎么看待这件事？",
+      "url": "https://www.zhihu.com/question/2094714809187149630",
+      "hot_value": "278 万热度",
+      "index": 12
     },
     {
-      "title": "如何评价姚明提出的「体育产业化不能唯金牌论」？",
-      "url": "https://www.zhihu.com/question/2085845423416139911",
-      "hot_value": "72 万热度",
-      "index": 26
-    },
-    {
-      "title": "2026 年维密大秀在洛杉矶举行，刘雯第 10 次登台，奚梦瑶时隔 8 年回归，如何评价此届维密大秀？",
-      "url": "https://www.zhihu.com/question/2095446342763902517",
-      "hot_value": "72 万热度",
-      "index": 27
-    },
-    {
-      "title": "职场中，如何能搞好人际关系？",
-      "url": "https://www.zhihu.com/question/634086213",
-      "hot_value": "67 万热度",
-      "index": 28
-    },
-    {
-      "title": "香港盒饭比大陆贵那么多，那如果从大陆运很多盒饭到香港岂不是赚翻了？",
-      "url": "https://www.zhihu.com/question/2092668605007769932",
-      "hot_value": "66 万热度",
-      "index": 29
+      "title": "OpenAl 证明的朗道 - 西格尔零点问题被数学家重新解释，是否意味着这个问题被解决？",
+      "url": "https://www.zhihu.com/question/2093787788684390525",
+      "hot_value": "268 万热度",
+      "index": 13
     },
     {
       "title": "自己写的遗嘱，不经过公证，有法律效力吗？",
       "url": "https://www.zhihu.com/question/264899656",
-      "hot_value": "64 万热度",
+      "hot_value": "251 万热度",
+      "index": 14
+    },
+    {
+      "title": "一家三口被困酒店卫生间超 4 小时，其间消防喷淋失控致婴儿险失温，当事人索赔 15 万，从法律角度如何解读？",
+      "url": "https://www.zhihu.com/question/2095917714824853457",
+      "hot_value": "234 万热度",
+      "index": 15
+    },
+    {
+      "title": "国家数据集团成立，作为新央企以数据资源开发利用为主责主业，会如何重塑国内数据产业格局？",
+      "url": "https://www.zhihu.com/question/2095952438779983313",
+      "hot_value": "223 万热度",
+      "index": 16
+    },
+    {
+      "title": "电商女装退货率普遍冲上 80%，背后的原因是什么？",
+      "url": "https://www.zhihu.com/question/2090369917635781397",
+      "hot_value": "214 万热度",
+      "index": 17
+    },
+    {
+      "title": "日本年轻人流行「取消吃饭」，背后折射出怎样的现实困境？",
+      "url": "https://www.zhihu.com/question/2095145716528291950",
+      "hot_value": "211 万热度",
+      "index": 18
+    },
+    {
+      "title": "胖东来式的高待遇，是好生意的结果，还是好生意的原因？",
+      "url": "https://www.zhihu.com/question/2095537041911935046",
+      "hot_value": "176 万热度",
+      "index": 19
+    },
+    {
+      "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
+      "url": "https://www.zhihu.com/question/2095115972684112468",
+      "hot_value": "149 万热度",
+      "index": 20
+    },
+    {
+      "title": "假设一个架空世界： AI 取代了所有人类工作，那么它生产的东西由谁购买？",
+      "url": "https://www.zhihu.com/question/2082265101525172714",
+      "hot_value": "141 万热度",
+      "index": 21
+    },
+    {
+      "title": "如何看待特斯拉称马斯克去年考核未达标，收入为零，没现金、没解锁任何股权？其作为老板会被考核哪些指标？",
+      "url": "https://www.zhihu.com/question/2095849647163924819",
+      "hot_value": "141 万热度",
+      "index": 22
+    },
+    {
+      "title": "美测服《英雄联盟》梅尔 W 技能重做，独特反弹效果遭移除，如何评价本次改动？",
+      "url": "https://www.zhihu.com/question/2096092778136711993",
+      "hot_value": "141 万热度",
+      "index": 23
+    },
+    {
+      "title": "2627 赛季 NBA 常规赛 76 人 106-100 尼克斯，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2096139083923854402",
+      "hot_value": "137 万热度",
+      "index": 24
+    },
+    {
+      "title": "2627 赛季 NBA 常规赛，凯尔特人 113-121 活塞，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2096075854367478227",
+      "hot_value": "130 万热度",
+      "index": 25
+    },
+    {
+      "title": "SpaceX 单季营收大增 161%，AI 与星链双轮驱动意味着什么？",
+      "url": "https://www.zhihu.com/question/2096153708019110178",
+      "hot_value": "105 万热度",
+      "index": 26
+    },
+    {
+      "title": "一学校给个别学生设晚自习如厕放行条，每月 10 张，教育局称防止学生借上厕所逃晚修，这合理吗？有效果吗？",
+      "url": "https://www.zhihu.com/question/2095819988661810800",
+      "hot_value": "80 万热度",
+      "index": 27
+    },
+    {
+      "title": "你有没有为了「显得真实、随性」，反而费过更多心思？最近一次让你觉得「这人好有活人感」的瞬间是什么？",
+      "url": "https://www.zhihu.com/question/2095525573263205278",
+      "hot_value": "79 万热度",
+      "index": 28
+    },
+    {
+      "title": "如何评价 2026 年 10 月米哈游《绝区零》3.3 版本卡池，菲欧妮，维琳娜？",
+      "url": "https://www.zhihu.com/question/2095919773611836017",
+      "hot_value": "76 万热度",
+      "index": 29
+    },
+    {
+      "title": "9 月份一线城市商品住宅销售价格环比继续上涨，二三线城市环比降幅总体收窄，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2095450098432062778",
+      "hot_value": "75 万热度",
       "index": 30
     }
   ]
