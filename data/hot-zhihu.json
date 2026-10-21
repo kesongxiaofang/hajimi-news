@@ -1,151 +1,151 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-21T17:51:31Z",
+  "update_time": "2026-10-21T21:10:32Z",
   "count": 30,
   "list": [
     {
-      "title": "医保个人账户跨省共济落地全国，意味着什么？将带来哪些利好？",
-      "url": "https://www.zhihu.com/question/2096149013556721446",
-      "hot_value": "1435 万热度",
+      "title": "两部门发布公告，对盾构机、挖泥船、高端无人机等实施出口管制，释放了哪些信号？",
+      "url": "https://www.zhihu.com/question/2095840965227561820",
+      "hot_value": "205 万热度",
       "index": 1
     },
     {
-      "title": "樊振东发文称不管啥心态，都无法改变偷拍不尊重人的本质，如何看待以爱为名的侵扰？怎样算真正支持运动员？",
-      "url": "https://www.zhihu.com/question/2096173845665117950",
-      "hot_value": "467 万热度",
+      "title": "如何看待乘客错过高铁检票后情绪崩溃跪求工作人员，12306 回应无论是否发车不会例外放行？",
+      "url": "https://www.zhihu.com/question/2096332490944110660",
+      "hot_value": "167 万热度",
       "index": 2
-    },
-    {
-      "title": "一家三口被困酒店卫生间超 4 小时，其间消防喷淋失控致婴儿险失温，当事人索赔 15 万，从法律角度如何解读？",
-      "url": "https://www.zhihu.com/question/2095917714824853457",
-      "hot_value": "441 万热度",
-      "index": 3
-    },
-    {
-      "title": "两部门发布公告，对盾构机、挖泥船、高端无人机等实施出口管制，释放了哪些信号？",
-      "url": "https://www.zhihu.com/question/2095840965227561820",
-      "hot_value": "394 万热度",
-      "index": 4
     },
     {
       "title": "《红楼梦》中的「茄鲞」是一道杜撰的菜吗？",
       "url": "https://www.zhihu.com/question/25353387",
-      "hot_value": "304 万热度",
+      "hot_value": "134 万热度",
+      "index": 3
+    },
+    {
+      "title": "连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?",
+      "url": "https://www.zhihu.com/question/2095674841978488596",
+      "hot_value": "128 万热度",
+      "index": 4
+    },
+    {
+      "title": "有哪些国内能看到的书同时在国外是禁书？",
+      "url": "https://www.zhihu.com/question/53557905",
+      "hot_value": "118 万热度",
       "index": 5
     },
     {
       "title": "泽连斯基表示，乌克兰愿在保留至少 75% 领土控制权的基础上达成和平协议，你怎么看？",
       "url": "https://www.zhihu.com/question/2096328160241633097",
-      "hot_value": "290 万热度",
+      "hot_value": "112 万热度",
       "index": 6
-    },
-    {
-      "title": "印度 CA 机构 eMudhra 私钥存严重缺陷遭各大厂商阻断，将带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2096267545154172328",
-      "hot_value": "276 万热度",
-      "index": 7
-    },
-    {
-      "title": "连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?",
-      "url": "https://www.zhihu.com/question/2095674841978488596",
-      "hot_value": "233 万热度",
-      "index": 8
-    },
-    {
-      "title": "为啥这几年双十一、双十二活动周期被拉长、玩法不断改进，反而热度好像还不如以前了？你今年有「剁手」吗？",
-      "url": "https://www.zhihu.com/question/2095972167292643045",
-      "hot_value": "154 万热度",
-      "index": 9
-    },
-    {
-      "title": "如何看待乘客错过高铁检票后情绪崩溃跪求工作人员，12306 回应无论是否发车不会例外放行？",
-      "url": "https://www.zhihu.com/question/2096332490944110660",
-      "hot_value": "148 万热度",
-      "index": 10
-    },
-    {
-      "title": "如何看待 52 岁刘恺威与 32 岁黎纪君恋情公开，两人因匹克球互生情愫，已秘密恋爱两个月？",
-      "url": "https://www.zhihu.com/question/2095834533178208627",
-      "hot_value": "145 万热度",
-      "index": 11
-    },
-    {
-      "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗？",
-      "url": "https://www.zhihu.com/question/2096182082548523173",
-      "hot_value": "141 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何看待人民锐评发表文章「特斯拉能飞，我们就被甩开了？」，中国汽车行业未来该如何发展？",
-      "url": "https://www.zhihu.com/question/2096169041811478462",
-      "hot_value": "134 万热度",
-      "index": 13
-    },
-    {
-      "title": "土耳其人其实大部分是希腊人后裔，是真的吗？为什么现在的土耳其人大部分都不认同？",
-      "url": "https://www.zhihu.com/question/2096313313864803989",
-      "hot_value": "120 万热度",
-      "index": 14
     },
     {
       "title": "丹麦男子卖中国包子一天赚 5 万元，中式面食在海外有多受欢迎？还有哪些中国传统小吃最有可能在海外走红？",
       "url": "https://www.zhihu.com/question/2095237911004145500",
-      "hot_value": "107 万热度",
-      "index": 15
-    },
-    {
-      "title": "如何评价山东「仙人跳」犯罪团伙作案 38 起，其中 3 名受害者拒不付款被采取强制措施，有哪些细节值得关注？",
-      "url": "https://www.zhihu.com/question/2095821509633774542",
-      "hot_value": "105 万热度",
-      "index": 16
-    },
-    {
-      "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
-      "url": "https://www.zhihu.com/question/2095844033167716971",
-      "hot_value": "95 万热度",
-      "index": 17
+      "hot_value": "106 万热度",
+      "index": 7
     },
     {
       "title": "为什么我觉得「强者从不抱怨环境」这句话，本质上是一种对弱者的霸凌？",
       "url": "https://www.zhihu.com/question/2090039238993748666",
-      "hot_value": "94 万热度",
-      "index": 18
+      "hot_value": "101 万热度",
+      "index": 8
+    },
+    {
+      "title": "如何评价山东「仙人跳」犯罪团伙作案 38 起，其中 3 名受害者拒不付款被采取强制措施，有哪些细节值得关注？",
+      "url": "https://www.zhihu.com/question/2095821509633774542",
+      "hot_value": "98 万热度",
+      "index": 9
+    },
+    {
+      "title": "一家三口被困酒店卫生间超 4 小时，其间消防喷淋失控致婴儿险失温，当事人索赔 15 万，从法律角度如何解读？",
+      "url": "https://www.zhihu.com/question/2095917714824853457",
+      "hot_value": "96 万热度",
+      "index": 10
+    },
+    {
+      "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗？",
+      "url": "https://www.zhihu.com/question/2096182082548523173",
+      "hot_value": "96 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何看待人民锐评发表文章「特斯拉能飞，我们就被甩开了？」，中国汽车行业未来该如何发展？",
+      "url": "https://www.zhihu.com/question/2096169041811478462",
+      "hot_value": "95 万热度",
+      "index": 12
+    },
+    {
+      "title": "土耳其人其实大部分是希腊人后裔，是真的吗？为什么现在的土耳其人大部分都不认同？",
+      "url": "https://www.zhihu.com/question/2096313313864803989",
+      "hot_value": "95 万热度",
+      "index": 13
+    },
+    {
+      "title": "如何理解《万箭穿心》中的李宝莉？",
+      "url": "https://www.zhihu.com/question/63633989",
+      "hot_value": "91 万热度",
+      "index": 14
+    },
+    {
+      "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
+      "url": "https://www.zhihu.com/question/2095844033167716971",
+      "hot_value": "90 万热度",
+      "index": 15
+    },
+    {
+      "title": "为啥这几年双十一、双十二活动周期被拉长、玩法不断改进，反而热度好像还不如以前了？你今年有「剁手」吗？",
+      "url": "https://www.zhihu.com/question/2095972167292643045",
+      "hot_value": "88 万热度",
+      "index": 16
+    },
+    {
+      "title": "如何看待 52 岁刘恺威与 32 岁黎纪君恋情公开，两人因匹克球互生情愫，已秘密恋爱两个月？",
+      "url": "https://www.zhihu.com/question/2095834533178208627",
+      "hot_value": "83 万热度",
+      "index": 17
     },
     {
       "title": "女子下班后绕道买菜，遭遇车祸身亡，人社部门不予认定工伤，法院判决算工伤，如何理解？",
       "url": "https://www.zhihu.com/question/2095276237493102205",
-      "hot_value": "85 万热度",
+      "hot_value": "82 万热度",
+      "index": 18
+    },
+    {
+      "title": "医保个人账户跨省共济落地全国，意味着什么？将带来哪些利好？",
+      "url": "https://www.zhihu.com/question/2096149013556721446",
+      "hot_value": "79 万热度",
       "index": 19
     },
     {
       "title": "陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？",
       "url": "https://www.zhihu.com/question/2095840244973004152",
-      "hot_value": "83 万热度",
+      "hot_value": "79 万热度",
       "index": 20
-    },
-    {
-      "title": "「遇事就慌」是阅历太浅还是性格懦弱？",
-      "url": "https://www.zhihu.com/question/49757171",
-      "hot_value": "81 万热度",
-      "index": 21
     },
     {
       "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
       "url": "https://www.zhihu.com/question/2095115972684112468",
-      "hot_value": "80 万热度",
+      "hot_value": "78 万热度",
+      "index": 21
+    },
+    {
+      "title": "印度 CA 机构 eMudhra 私钥存严重缺陷遭各大厂商阻断，将带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2096267545154172328",
+      "hot_value": "77 万热度",
       "index": 22
+    },
+    {
+      "title": "「遇事就慌」是阅历太浅还是性格懦弱？",
+      "url": "https://www.zhihu.com/question/49757171",
+      "hot_value": "72 万热度",
+      "index": 23
     },
     {
       "title": "日本年轻人流行「取消吃饭」，背后折射出怎样的现实困境？",
       "url": "https://www.zhihu.com/question/2095145716528291950",
-      "hot_value": "71 万热度",
-      "index": 23
-    },
-    {
-      "title": "日本独立游戏开发者称发出去就被 AI 抄走，你觉得独立开发者该怎么办？",
-      "url": "https://www.zhihu.com/question/2095491583533658157",
-      "hot_value": "59 万热度",
+      "hot_value": "69 万热度",
       "index": 24
     },
     {
@@ -167,20 +167,20 @@
       "index": 27
     },
     {
-      "title": "法国爆发严重暴力骚乱，超 50 万人上街抗议，马克龙公开谴责，冲突的深层根源是什么？折射出法国怎样的危机？",
-      "url": "https://www.zhihu.com/question/2095436236819096015",
+      "title": "日本独立游戏开发者称发出去就被 AI 抄走，你觉得独立开发者该怎么办？",
+      "url": "https://www.zhihu.com/question/2095491583533658157",
       "hot_value": "58 万热度",
       "index": 28
     },
     {
-      "title": "工信部提出「坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场」，这会给行业带来哪些转向？",
-      "url": "https://www.zhihu.com/question/2095916704706704849",
+      "title": "如何评价姚明提出的「体育产业化不能唯金牌论」？",
+      "url": "https://www.zhihu.com/question/2085845423416139911",
       "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "如何评价姚明提出的「体育产业化不能唯金牌论」？",
-      "url": "https://www.zhihu.com/question/2085845423416139911",
+      "title": "《英雄联盟》海克斯大乱斗 4.0 版本即将上线，如何评价这一大版本更新？",
+      "url": "https://www.zhihu.com/question/2093025626055767060",
       "hot_value": "58 万热度",
       "index": 30
     }
