@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-21T06:58:00Z",
+  "update_time": "2026-10-21T12:47:38Z",
   "count": 30,
   "list": [
     {
-      "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
-      "url": "https://www.zhihu.com/question/2095938083422262957",
-      "hot_value": "1432 万热度",
+      "title": "医保个人账户跨省共济落地全国，意味着什么？将带来哪些利好？",
+      "url": "https://www.zhihu.com/question/2096149013556721446",
+      "hot_value": "1108 万热度",
       "index": 1
     },
     {
-      "title": "网友称可用「蟑螂粉」作为蛋白粉平替，商家还强调「野生蟑螂」，先抛开味道，这「蟑螂粉」有可能安全有效吗？",
-      "url": "https://www.zhihu.com/question/2095115404402225389",
-      "hot_value": "1406 万热度",
+      "title": "樊振东发文称不管啥心态，都无法改变偷拍不尊重人的本质，如何看待以爱为名的侵扰？怎样算真正支持运动员？",
+      "url": "https://www.zhihu.com/question/2096173845665117950",
+      "hot_value": "781 万热度",
       "index": 2
-    },
-    {
-      "title": "医保个人账户跨省共济落地全国，意味着什么？将带来哪些利好？",
-      "url": "https://www.zhihu.com/question/2096149013556721446",
-      "hot_value": "640 万热度",
-      "index": 3
     },
     {
       "title": "你是否认同当下电子游戏供给过于「丰富」，导致很多人不缺游戏玩，也根本玩不完？",
       "url": "https://www.zhihu.com/question/2081867223677794172",
-      "hot_value": "471 万热度",
+      "hot_value": "622 万热度",
+      "index": 3
+    },
+    {
+      "title": "一家三口被困酒店卫生间超 4 小时，其间消防喷淋失控致婴儿险失温，当事人索赔 15 万，从法律角度如何解读？",
+      "url": "https://www.zhihu.com/question/2095917714824853457",
+      "hot_value": "468 万热度",
       "index": 4
     },
     {
-      "title": "如何看待电视剧《兰香如故》中 兵部尚书韩粱被冻死这一情节？",
+      "title": "如何看待电视剧《兰香如故》兵部尚书韩粱被冻死这一情节？",
       "url": "https://www.zhihu.com/question/2095950891564151540",
-      "hot_value": "309 万热度",
+      "hot_value": "304 万热度",
       "index": 5
-    },
-    {
-      "title": "如何评价山东「仙人跳」犯罪团伙作案 38 起，其中 3 名受害者拒不付款被采取强制措施，有哪些细节值得关注？",
-      "url": "https://www.zhihu.com/question/2095821509633774542",
-      "hot_value": "297 万热度",
-      "index": 6
     },
     {
       "title": "星巴克中国称 10 月 22 日起将在全国开始施行消费入座，你支持吗？消费入座对门店业绩和顾客体验有哪些影响？",
       "url": "https://www.zhihu.com/question/2096194931823830459",
-      "hot_value": "285 万热度",
+      "hot_value": "280 万热度",
+      "index": 6
+    },
+    {
+      "title": "日本年轻人流行「取消吃饭」，背后折射出怎样的现实困境？",
+      "url": "https://www.zhihu.com/question/2095145716528291950",
+      "hot_value": "214 万热度",
       "index": 7
     },
     {
       "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
       "url": "https://www.zhihu.com/question/2095844033167716971",
-      "hot_value": "283 万热度",
+      "hot_value": "214 万热度",
       "index": 8
     },
     {
       "title": "女子下班后绕道买菜，遭遇车祸身亡，人社部门不予认定工伤，法院判决算工伤，如何理解？",
       "url": "https://www.zhihu.com/question/2095276237493102205",
-      "hot_value": "281 万热度",
+      "hot_value": "213 万热度",
       "index": 9
     },
     {
-      "title": "曹雪芹、吴承恩看到「圣黛 CP」是一笑而过还是气活过来？",
-      "url": "https://www.zhihu.com/question/2088956507765338262",
-      "hot_value": "280 万热度",
+      "title": "如何看待人民锐评发表文章「特斯拉能飞，我们就被甩开了？」，中国汽车行业未来该如何发展？",
+      "url": "https://www.zhihu.com/question/2096169041811478462",
+      "hot_value": "194 万热度",
       "index": 10
     },
     {
       "title": "法国爆发大规模示威，距离 2027 法国总统大选仅剩半年，这次事件会对大选造成什么影响？",
       "url": "https://www.zhihu.com/question/2095891171730003953",
-      "hot_value": "279 万热度",
+      "hot_value": "194 万热度",
       "index": 11
     },
     {
-      "title": "多家高校家长吐槽大学课太少，担心孩子没课时睡懒觉，你怎么看待这件事？",
-      "url": "https://www.zhihu.com/question/2094714809187149630",
-      "hot_value": "278 万热度",
+      "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗？",
+      "url": "https://www.zhihu.com/question/2096182082548523173",
+      "hot_value": "193 万热度",
       "index": 12
     },
     {
-      "title": "OpenAl 证明的朗道 - 西格尔零点问题被数学家重新解释，是否意味着这个问题被解决？",
-      "url": "https://www.zhihu.com/question/2093787788684390525",
-      "hot_value": "268 万热度",
+      "title": "孩子 18 了还在说要统一世界建立美好社会并离开太阳系，作为家长应该怎么教育他？",
+      "url": "https://www.zhihu.com/question/2095274180648481993",
+      "hot_value": "192 万热度",
       "index": 13
     },
     {
       "title": "自己写的遗嘱，不经过公证，有法律效力吗？",
       "url": "https://www.zhihu.com/question/264899656",
-      "hot_value": "251 万热度",
+      "hot_value": "191 万热度",
       "index": 14
-    },
-    {
-      "title": "一家三口被困酒店卫生间超 4 小时，其间消防喷淋失控致婴儿险失温，当事人索赔 15 万，从法律角度如何解读？",
-      "url": "https://www.zhihu.com/question/2095917714824853457",
-      "hot_value": "234 万热度",
-      "index": 15
-    },
-    {
-      "title": "国家数据集团成立，作为新央企以数据资源开发利用为主责主业，会如何重塑国内数据产业格局？",
-      "url": "https://www.zhihu.com/question/2095952438779983313",
-      "hot_value": "223 万热度",
-      "index": 16
-    },
-    {
-      "title": "电商女装退货率普遍冲上 80%，背后的原因是什么？",
-      "url": "https://www.zhihu.com/question/2090369917635781397",
-      "hot_value": "214 万热度",
-      "index": 17
-    },
-    {
-      "title": "日本年轻人流行「取消吃饭」，背后折射出怎样的现实困境？",
-      "url": "https://www.zhihu.com/question/2095145716528291950",
-      "hot_value": "211 万热度",
-      "index": 18
-    },
-    {
-      "title": "胖东来式的高待遇，是好生意的结果，还是好生意的原因？",
-      "url": "https://www.zhihu.com/question/2095537041911935046",
-      "hot_value": "176 万热度",
-      "index": 19
     },
     {
       "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
       "url": "https://www.zhihu.com/question/2095115972684112468",
-      "hot_value": "149 万热度",
+      "hot_value": "190 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何评价山东「仙人跳」犯罪团伙作案 38 起，其中 3 名受害者拒不付款被采取强制措施，有哪些细节值得关注？",
+      "url": "https://www.zhihu.com/question/2095821509633774542",
+      "hot_value": "189 万热度",
+      "index": 16
+    },
+    {
+      "title": "两部门发布公告，对盾构机、挖泥船、高端无人机等实施出口管制，释放了哪些信号？",
+      "url": "https://www.zhihu.com/question/2095840965227561820",
+      "hot_value": "167 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何看待武志红和李雪公开互撕，互相指控对方是 NPD？他们之间有什么恩怨？",
+      "url": "https://www.zhihu.com/question/2096232556978860735",
+      "hot_value": "167 万热度",
+      "index": 18
+    },
+    {
+      "title": "连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?",
+      "url": "https://www.zhihu.com/question/2095674841978488596",
+      "hot_value": "165 万热度",
+      "index": 19
+    },
+    {
+      "title": "为啥这几年双十一、双十二活动周期被拉长、玩法不断改进，反而热度好像还不如以前了？你今年有「剁手」吗？",
+      "url": "https://www.zhihu.com/question/2095972167292643045",
+      "hot_value": "158 万热度",
       "index": 20
     },
     {
-      "title": "假设一个架空世界： AI 取代了所有人类工作，那么它生产的东西由谁购买？",
-      "url": "https://www.zhihu.com/question/2082265101525172714",
-      "hot_value": "141 万热度",
+      "title": "如何看待 52 岁刘恺威与 32 岁黎纪君恋情公开，两人因匹克球互生情愫，已秘密恋爱两个月？",
+      "url": "https://www.zhihu.com/question/2095834533178208627",
+      "hot_value": "151 万热度",
       "index": 21
     },
     {
       "title": "如何看待特斯拉称马斯克去年考核未达标，收入为零，没现金、没解锁任何股权？其作为老板会被考核哪些指标？",
       "url": "https://www.zhihu.com/question/2095849647163924819",
-      "hot_value": "141 万热度",
+      "hot_value": "133 万热度",
       "index": 22
     },
     {
-      "title": "美测服《英雄联盟》梅尔 W 技能重做，独特反弹效果遭移除，如何评价本次改动？",
-      "url": "https://www.zhihu.com/question/2096092778136711993",
-      "hot_value": "141 万热度",
+      "title": "马斯克预言钱将变得毫无意义，未来衡量价值的将是物质质量、功率或能量，他这一猜测有什么依据吗？",
+      "url": "https://www.zhihu.com/question/2096267894740838135",
+      "hot_value": "116 万热度",
       "index": 23
     },
     {
-      "title": "2627 赛季 NBA 常规赛 76 人 106-100 尼克斯，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2096139083923854402",
-      "hot_value": "137 万热度",
+      "title": "糜竺作为刘备最早的金主，他投资成功了吗？",
+      "url": "https://www.zhihu.com/question/2094336537567807252",
+      "hot_value": "79 万热度",
       "index": 24
     },
     {
-      "title": "2627 赛季 NBA 常规赛，凯尔特人 113-121 活塞，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2096075854367478227",
-      "hot_value": "130 万热度",
+      "title": "为什么现在的孩子越来越容易厌学、躺平，是家庭教育出了问题吗？",
+      "url": "https://www.zhihu.com/question/2095163163134144726",
+      "hot_value": "73 万热度",
       "index": 25
     },
     {
-      "title": "SpaceX 单季营收大增 161%，AI 与星链双轮驱动意味着什么？",
-      "url": "https://www.zhihu.com/question/2096153708019110178",
-      "hot_value": "105 万热度",
+      "title": "电商女装退货率普遍冲上 80%，背后的原因是什么？",
+      "url": "https://www.zhihu.com/question/2090369917635781397",
+      "hot_value": "73 万热度",
       "index": 26
     },
     {
-      "title": "一学校给个别学生设晚自习如厕放行条，每月 10 张，教育局称防止学生借上厕所逃晚修，这合理吗？有效果吗？",
-      "url": "https://www.zhihu.com/question/2095819988661810800",
-      "hot_value": "80 万热度",
+      "title": "如何评价《原神》7.2 版本前瞻特别节目「坏灭肇始之时」？",
+      "url": "https://www.zhihu.com/question/2096209388084127550",
+      "hot_value": "73 万热度",
       "index": 27
     },
     {
-      "title": "你有没有为了「显得真实、随性」，反而费过更多心思？最近一次让你觉得「这人好有活人感」的瞬间是什么？",
-      "url": "https://www.zhihu.com/question/2095525573263205278",
-      "hot_value": "79 万热度",
+      "title": "物理本科学量子力学和热力学统计物理之前，是否有必要先学概率论与数理统计？",
+      "url": "https://www.zhihu.com/question/1998046252705797816",
+      "hot_value": "69 万热度",
       "index": 28
     },
     {
-      "title": "如何评价 2026 年 10 月米哈游《绝区零》3.3 版本卡池，菲欧妮，维琳娜？",
-      "url": "https://www.zhihu.com/question/2095919773611836017",
-      "hot_value": "76 万热度",
+      "title": "有没有一种食物或酱料，入面之后瞬间「化单调为神奇」？",
+      "url": "https://www.zhihu.com/question/11897621197",
+      "hot_value": "67 万热度",
       "index": 29
     },
     {
-      "title": "9 月份一线城市商品住宅销售价格环比继续上涨，二三线城市环比降幅总体收窄，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2095450098432062778",
-      "hot_value": "75 万热度",
+      "title": "你们吃过最香的家常菜是什么？",
+      "url": "https://www.zhihu.com/question/5824256200",
+      "hot_value": "66 万热度",
       "index": 30
     }
   ]
