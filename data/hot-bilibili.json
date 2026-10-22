@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-22T15:27:28Z",
+  "update_time": "2026-10-22T19:21:31Z",
   "count": 30,
   "list": [
     {
-      "title": "别点！点了就会变成白毛控！",
-      "url": "https://www.bilibili.com/video/BV18Unm6qEPo",
-      "hot_value": "405451播放",
-      "index": 1
-    },
-    {
       "title": "《影之刃零》最终预告",
       "url": "https://www.bilibili.com/video/BV1AHnB6NEhM",
-      "hot_value": "3170973播放",
-      "index": 2
-    },
-    {
-      "title": "《最绝望の守门员》",
-      "url": "https://www.bilibili.com/video/BV1g5nk6xEWk",
-      "hot_value": "1167959播放",
-      "index": 3
-    },
-    {
-      "title": "燕云×1818黄金眼 | 长乐未央，天下无诈",
-      "url": "https://www.bilibili.com/video/BV1nHn16EEkL",
-      "hot_value": "905000播放",
-      "index": 4
-    },
-    {
-      "title": "再鉴定几个洛克王国的精灵",
-      "url": "https://www.bilibili.com/video/BV1mfn662EHb",
-      "hot_value": "679776播放",
-      "index": 5
-    },
-    {
-      "title": "折1万次，会坏吗？iPhone Duo深度评测",
-      "url": "https://www.bilibili.com/video/BV1xrnz6gEVD",
-      "hot_value": "4497245播放",
-      "index": 6
+      "hot_value": "3570036播放",
+      "index": 1
     },
     {
       "title": "用寂静岭的画风打开《周处除三害》【AI MV大赛】",
       "url": "https://www.bilibili.com/video/BV1Cdni6AEQB",
-      "hot_value": "573410播放",
-      "index": 7
-    },
-    {
-      "title": "《代号：神不言》UFSH2026参会实机技术演示&实机特别影像",
-      "url": "https://www.bilibili.com/video/BV1fNnv6EEon",
-      "hot_value": "917614播放",
-      "index": 8
+      "hot_value": "820439播放",
+      "index": 2
     },
     {
       "title": "韩国要收回美国权力指挥美军",
       "url": "https://www.bilibili.com/video/BV1kTnr63EBF",
-      "hot_value": "998892播放",
-      "index": 9
+      "hot_value": "1155891播放",
+      "index": 3
     },
     {
-      "title": "【长征颂歌】90位仪仗兵、90步铿锵正步、90面庄严旗帜，致敬伟大胜利！",
-      "url": "https://www.bilibili.com/video/BV1s3np6dEPT",
-      "hot_value": "151771播放",
-      "index": 10
+      "title": "《最绝望の守门员》",
+      "url": "https://www.bilibili.com/video/BV1g5nk6xEWk",
+      "hot_value": "1399190播放",
+      "index": 4
     },
     {
-      "title": "小伙靠3D打印，硬刚义乌工厂？",
-      "url": "https://www.bilibili.com/video/BV1kTnz6YEJx",
-      "hot_value": "2248401播放",
-      "index": 11
-    },
-    {
-      "title": "《见面》",
-      "url": "https://www.bilibili.com/video/BV1CFnz6MEmW",
-      "hot_value": "1486232播放",
-      "index": 12
-    },
-    {
-      "title": "全球总决赛回忆挑战，谁是LPL全能王？【开麦了LPL】",
-      "url": "https://www.bilibili.com/video/BV1QQnk6FEzG",
-      "hot_value": "725465播放",
-      "index": 13
-    },
-    {
-      "title": "“锁暝 好高好高哦~”",
-      "url": "https://www.bilibili.com/video/BV1k7nm6ZEnX",
-      "hot_value": "204651播放",
-      "index": 14
-    },
-    {
-      "title": "因为智商不够，从EXO到生子，被打脸的嘴硬的一生。【黄子韬徐艺洋官宣生子】",
-      "url": "https://www.bilibili.com/video/BV1WSnC6nEnF",
-      "hot_value": "691170播放",
-      "index": 15
-    },
-    {
-      "title": "【立志成为恶兽】07 新武器等离子大炮！【UP动画】",
-      "url": "https://www.bilibili.com/video/BV1Bxnp6jEN9",
-      "hot_value": "57425播放",
-      "index": 16
-    },
-    {
-      "title": "24岁美国乡下大学天才\"讲师\"：叛逆狂人的潇洒生活！",
-      "url": "https://www.bilibili.com/video/BV12inz6CE4z",
-      "hot_value": "739907播放",
-      "index": 17
-    },
-    {
-      "title": "法国55万人大游行！但马克龙和夫人在跳舞",
-      "url": "https://www.bilibili.com/video/BV1hqnF66Etz",
-      "hot_value": "2293869播放",
-      "index": 18
-    },
-    {
-      "title": "这个视频到底加了什么看得我哈特软软",
-      "url": "https://www.bilibili.com/video/BV14nJo69E6w",
-      "hot_value": "466134播放",
-      "index": 19
-    },
-    {
-      "title": "《失落城堡2》手游公测现已开启！叫上好「鸽」们！再来亿局",
-      "url": "https://www.bilibili.com/video/BV1qsnC6qEtU",
-      "hot_value": "717563播放",
-      "index": 20
-    },
-    {
-      "title": "哈基米vs马尔福大小姐！看完后想明白了很多事",
-      "url": "https://www.bilibili.com/video/BV1t7n661ELv",
-      "hot_value": "504065播放",
-      "index": 21
-    },
-    {
-      "title": "FPS游戏必学两大焚诀，学会胜率直接飙升！",
-      "url": "https://www.bilibili.com/video/BV1i5nz6ZEZv",
-      "hot_value": "1115445播放",
-      "index": 22
-    },
-    {
-      "title": "避障",
-      "url": "https://www.bilibili.com/video/BV1w7nw6wEHZ",
-      "hot_value": "747300播放",
-      "index": 23
-    },
-    {
-      "title": "小狗如奶油般融化…",
-      "url": "https://www.bilibili.com/video/BV1Agnr6gEPk",
-      "hot_value": "1861881播放",
-      "index": 24
+      "title": "你只是怕了",
+      "url": "https://www.bilibili.com/video/BV1sZnm6hE19",
+      "hot_value": "361250播放",
+      "index": 5
     },
     {
       "title": "现实可比电影荒谬多了！这些看似鬼扯的桥段，一查资料全是真事！",
       "url": "https://www.bilibili.com/video/BV1GBni61ELm",
-      "hot_value": "883722播放",
-      "index": 25
+      "hot_value": "1042155播放",
+      "index": 6
     },
     {
       "title": "开超市到底该不该赊账？",
       "url": "https://www.bilibili.com/video/BV1kPnz6vEJK",
-      "hot_value": "1011788播放",
+      "hot_value": "1128402播放",
+      "index": 7
+    },
+    {
+      "title": "因为智商不够，从EXO到生子，被打脸的嘴硬的一生。【黄子韬徐艺洋官宣生子】",
+      "url": "https://www.bilibili.com/video/BV1WSnC6nEnF",
+      "hot_value": "829522播放",
+      "index": 8
+    },
+    {
+      "title": "S16应援曲《以风之名》",
+      "url": "https://www.bilibili.com/video/BV1njnp6pEbF",
+      "hot_value": "182817播放",
+      "index": 9
+    },
+    {
+      "title": "凌晨三点，别和院子里那头鹿对视",
+      "url": "https://www.bilibili.com/video/BV1nBnc6ZEsd",
+      "hot_value": "596937播放",
+      "index": 10
+    },
+    {
+      "title": "日本人为了让你吃蛋包饭的时候也不要忘了吃碗拉面有多拼",
+      "url": "https://www.bilibili.com/video/BV1monB6gEnQ",
+      "hot_value": "661291播放",
+      "index": 11
+    },
+    {
+      "title": "再鉴定几个洛克王国的精灵",
+      "url": "https://www.bilibili.com/video/BV1mfn662EHb",
+      "hot_value": "766698播放",
+      "index": 12
+    },
+    {
+      "title": "《正常人谁去园区吃火锅啊》",
+      "url": "https://www.bilibili.com/video/BV1ionz6FEvX",
+      "hot_value": "589947播放",
+      "index": 13
+    },
+    {
+      "title": "小狗如奶油般融化…",
+      "url": "https://www.bilibili.com/video/BV1Agnr6gEPk",
+      "hot_value": "2112423播放",
+      "index": 14
+    },
+    {
+      "title": "这个视频到底加了什么看得我哈特软软",
+      "url": "https://www.bilibili.com/video/BV14nJo69E6w",
+      "hot_value": "564687播放",
+      "index": 15
+    },
+    {
+      "title": "穿越原始社会必备技能之——蛋黄法鞣制皮毛",
+      "url": "https://www.bilibili.com/video/BV1Junz6AEn3",
+      "hot_value": "437023播放",
+      "index": 16
+    },
+    {
+      "title": "伟大的发现: 曼的一半是man",
+      "url": "https://www.bilibili.com/video/BV1kEn16JE7T",
+      "hot_value": "281173播放",
+      "index": 17
+    },
+    {
+      "title": "小伙靠3D打印，硬刚义乌工厂？",
+      "url": "https://www.bilibili.com/video/BV1kTnz6YEJx",
+      "hot_value": "2570544播放",
+      "index": 18
+    },
+    {
+      "title": "全民撒钱，团队暴雷，民调狂跌，特朗普中期选举有点烧心！",
+      "url": "https://www.bilibili.com/video/BV1tQnm6vEby",
+      "hot_value": "323210播放",
+      "index": 19
+    },
+    {
+      "title": "FPS游戏必学两大焚诀，学会胜率直接飙升！",
+      "url": "https://www.bilibili.com/video/BV1i5nz6ZEZv",
+      "hot_value": "1221029播放",
+      "index": 20
+    },
+    {
+      "title": "【Day 3】致B站所有大肥鱼：鲸鱼娘内部会议，现在开始~",
+      "url": "https://www.bilibili.com/video/BV1XJn26BEa7",
+      "hot_value": "396998播放",
+      "index": 21
+    },
+    {
+      "title": "【何同学】能折！但代价呢？iPhone Duo首发体验",
+      "url": "https://www.bilibili.com/video/BV1XynB6EEiM",
+      "hot_value": "1011492播放",
+      "index": 22
+    },
+    {
+      "title": "全球总决赛回忆挑战，谁是LPL全能王？【开麦了LPL】",
+      "url": "https://www.bilibili.com/video/BV1QQnk6FEzG",
+      "hot_value": "800853播放",
+      "index": 23
+    },
+    {
+      "title": "24岁美国乡下大学天才\"讲师\"：叛逆狂人的潇洒生活！",
+      "url": "https://www.bilibili.com/video/BV12inz6CE4z",
+      "hot_value": "813483播放",
+      "index": 24
+    },
+    {
+      "title": "避障",
+      "url": "https://www.bilibili.com/video/BV1w7nw6wEHZ",
+      "hot_value": "908324播放",
+      "index": 25
+    },
+    {
+      "title": "抗日神剧逆天剧情！女兵战场睡觉？睡醒还要给她找吃的！",
+      "url": "https://www.bilibili.com/video/BV1Cfni6cELz",
+      "hot_value": "1178355播放",
       "index": 26
     },
     {
       "title": "西安油边挑战，2分钟吃一份油边，奖金200元。顾客还能免费试吃",
       "url": "https://www.bilibili.com/video/BV1XXny6TEvf",
-      "hot_value": "214598播放",
+      "hot_value": "339703播放",
       "index": 27
     },
     {
-      "title": "全民撒钱，团队暴雷，民调狂跌，特朗普中期选举有点烧心！",
-      "url": "https://www.bilibili.com/video/BV1tQnm6vEby",
-      "hot_value": "225321播放",
+      "title": "无罪率那么低，我为什么还是建议大家尽早请律师？",
+      "url": "https://www.bilibili.com/video/BV1i3nv65E17",
+      "hot_value": "667177播放",
       "index": 28
     },
     {
-      "title": "《三过车门而不入》",
-      "url": "https://www.bilibili.com/video/BV1n7nF6WEco",
-      "hot_value": "2580928播放",
+      "title": "“锁暝 好高好高哦~”",
+      "url": "https://www.bilibili.com/video/BV1k7nm6ZEnX",
+      "hot_value": "343744播放",
       "index": 29
     },
     {
-      "title": "【何同学】能折！但代价呢？iPhone Duo首发体验",
-      "url": "https://www.bilibili.com/video/BV1XynB6EEiM",
-      "hot_value": "927254播放",
+      "title": "法国55万人大游行！但马克龙和夫人在跳舞",
+      "url": "https://www.bilibili.com/video/BV1hqnF66Etz",
+      "hot_value": "2442707播放",
       "index": 30
     }
   ]
