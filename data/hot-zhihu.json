@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-22T10:24:14Z",
+  "update_time": "2026-10-22T15:27:28Z",
   "count": 30,
   "list": [
     {
-      "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
-      "url": "https://www.zhihu.com/question/2094620721343481537",
-      "hot_value": "406 万热度",
+      "title": "留美在读女博士答辩失利，向实验室同门咖啡机投毒「丙烯酰胺」，如何看待这一事件？",
+      "url": "https://www.zhihu.com/question/2096228188099540232",
+      "hot_value": "692 万热度",
       "index": 1
-    },
-    {
-      "title": "国家癌症中心公布发病前五癌症，较二十年前发生变动，胃癌食管癌跌出前五，背后有哪些原因？反映了什么趋势？",
-      "url": "https://www.zhihu.com/question/2096009520778581952",
-      "hot_value": "314 万热度",
-      "index": 2
-    },
-    {
-      "title": "医生说现在的鸡都是快速养殖，激素多，吃了对孩子身体不好，是这样吗？",
-      "url": "https://www.zhihu.com/question/694420968",
-      "hot_value": "303 万热度",
-      "index": 3
-    },
-    {
-      "title": "为什么我国的中学生大部分都不会做引体向上？",
-      "url": "https://www.zhihu.com/question/661972031",
-      "hot_value": "269 万热度",
-      "index": 4
     },
     {
       "title": "女子离婚后发现前夫婚内继承 400 多万房款，起诉要求分割这笔钱财，法院判决支持，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2096547342124172821",
-      "hot_value": "140 万热度",
+      "hot_value": "477 万热度",
+      "index": 2
+    },
+    {
+      "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
+      "url": "https://www.zhihu.com/question/2096603053763846842",
+      "hot_value": "428 万热度",
+      "index": 3
+    },
+    {
+      "title": "医生说现在的鸡都是快速养殖，激素多，吃了对孩子身体不好，是这样吗？",
+      "url": "https://www.zhihu.com/question/694420968",
+      "hot_value": "300 万热度",
+      "index": 4
+    },
+    {
+      "title": "乒乓亚锦赛女团决赛，中国队 2-3 不敌日本获女团亚军，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2096725438974224368",
+      "hot_value": "257 万热度",
       "index": 5
     },
     {
-      "title": "车灯新国标公布后，「外显大屏」形态的像素灯将成为历史，汽车大灯的技术发展方向将如何调整？",
-      "url": "https://www.zhihu.com/question/2095889644000733143",
-      "hot_value": "129 万热度",
+      "title": "中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响？",
+      "url": "https://www.zhihu.com/question/2096230307561037909",
+      "hot_value": "243 万热度",
       "index": 6
     },
     {
-      "title": "iPhone Duo 要开卖了微信等应用还没适配，为何会出现这样的错位？这会对购买意愿有多大影响？",
-      "url": "https://www.zhihu.com/question/2096569066114610825",
-      "hot_value": "126 万热度",
+      "title": "中国古代人民为什么不用煤炭当燃料呢？",
+      "url": "https://www.zhihu.com/question/331837590",
+      "hot_value": "222 万热度",
       "index": 7
     },
     {
-      "title": "红果短剧宣布将下线金币功能，这一商业决策背后有哪些考虑？是不需要靠「薅羊毛」引流实现增长了吗？",
-      "url": "https://www.zhihu.com/question/2096299255153391558",
-      "hot_value": "119 万热度",
+      "title": "为什么我国的中学生大部分都不会做引体向上？",
+      "url": "https://www.zhihu.com/question/661972031",
+      "hot_value": "202 万热度",
       "index": 8
     },
     {
-      "title": "曝某明星长期借不到高定，自费购买礼服后引该品牌 PR 暴怒，可能会是谁？为啥自费购买也会引起高奢品牌不满？",
-      "url": "https://www.zhihu.com/question/2096378566657012341",
-      "hot_value": "116 万热度",
+      "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
+      "url": "https://www.zhihu.com/question/2096555342171563789",
+      "hot_value": "192 万热度",
       "index": 9
     },
     {
-      "title": "怎么看 Claude 推出 Claude Duet， Personal Bot 真的是下一个战场？",
-      "url": "https://www.zhihu.com/question/2096518672877621746",
-      "hot_value": "112 万热度",
+      "title": "儿子逼父母贷款替其还债被拒，欲断绝父子关系被父亲打致轻伤二级，如何理解法院判父亲免予刑事处罚？",
+      "url": "https://www.zhihu.com/question/2096553146264674983",
+      "hot_value": "177 万热度",
       "index": 10
-    },
-    {
-      "title": "泽连斯基表示，乌克兰愿在保留至少 75% 领土控制权的基础上达成和平协议，你怎么看？",
-      "url": "https://www.zhihu.com/question/2096328160241633097",
-      "hot_value": "112 万热度",
-      "index": 11
-    },
-    {
-      "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？",
-      "url": "https://www.zhihu.com/question/2096284238119228758",
-      "hot_value": "112 万热度",
-      "index": 12
     },
     {
       "title": "女子地铁站内看书 5 个小时被扣 15 元，怎么看待地铁超时收费？其中读书空间等消费场景的设置合理吗？",
       "url": "https://www.zhihu.com/question/2096527240208938063",
-      "hot_value": "111 万热度",
+      "hot_value": "172 万热度",
+      "index": 11
+    },
+    {
+      "title": "如何看待 HLE 以「未带多余队服婉拒 TES 交换队服请求」转头 iG 与 Guma 交换成功？",
+      "url": "https://www.zhihu.com/question/2096626213141705315",
+      "hot_value": "166 万热度",
+      "index": 12
+    },
+    {
+      "title": "曝某明星长期借不到高定，自费购买礼服后引该品牌 PR 暴怒，可能会是谁？为啥自费购买也会引起高奢品牌不满？",
+      "url": "https://www.zhihu.com/question/2096378566657012341",
+      "hot_value": "155 万热度",
       "index": 13
     },
     {
-      "title": "乒乓球亚锦赛男团半决赛，国乒 3-1 中国台北队，将在决赛对阵韩国队，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2096596376046126427",
-      "hot_value": "111 万热度",
+      "title": "如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？",
+      "url": "https://www.zhihu.com/question/2096327185309160809",
+      "hot_value": "144 万热度",
       "index": 14
     },
     {
-      "title": "民进党当局拒绝艺人张凌赫赴台交流，国台办回应称「与广大台湾同胞的意愿背道而驰」，如何看待这件事？",
-      "url": "https://www.zhihu.com/question/2096186688091459646",
-      "hot_value": "110 万热度",
+      "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？",
+      "url": "https://www.zhihu.com/question/2096284238119228758",
+      "hot_value": "140 万热度",
       "index": 15
     },
     {
       "title": "日本关键稀土钇储备将耗尽，求助美国敦促中方放宽管制，稀土将耗尽一事将对日方产生多大影响？",
       "url": "https://www.zhihu.com/question/2096043493517013110",
-      "hot_value": "109 万热度",
+      "hot_value": "129 万热度",
       "index": 16
+    },
+    {
+      "title": "为啥孙策传位给其弟孙权，而不是儿子？",
+      "url": "https://www.zhihu.com/question/2094538424543982842",
+      "hot_value": "118 万热度",
+      "index": 17
+    },
+    {
+      "title": "2627 赛季 NBA 常规赛独行侠 110:128 火箭，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2096522772457567525",
+      "hot_value": "102 万热度",
+      "index": 18
+    },
+    {
+      "title": "国家癌症中心公布发病前五癌症，较二十年前发生变动，胃癌食管癌跌出前五，背后有哪些原因？反映了什么趋势？",
+      "url": "https://www.zhihu.com/question/2096009520778581952",
+      "hot_value": "98 万热度",
+      "index": 19
+    },
+    {
+      "title": "如何评价英雄联盟 S16 全球总决赛入围赛因阴间时间，解说及二路主播集体加班播到「神志不清」？",
+      "url": "https://www.zhihu.com/question/2095377732439912769",
+      "hot_value": "94 万热度",
+      "index": 20
+    },
+    {
+      "title": "明代运粮为何不走海运？",
+      "url": "https://www.zhihu.com/question/527845779",
+      "hot_value": "94 万热度",
+      "index": 21
+    },
+    {
+      "title": "职场上，为什么不要轻易跟同事说心里话？",
+      "url": "https://www.zhihu.com/question/2094057918685618684",
+      "hot_value": "81 万热度",
+      "index": 22
+    },
+    {
+      "title": "iPhone Duo 要开卖了微信等应用还没适配，为何会出现这样的错位？这会对购买意愿有多大影响？",
+      "url": "https://www.zhihu.com/question/2096569066114610825",
+      "hot_value": "81 万热度",
+      "index": 23
     },
     {
       "title": "吴艳妮面对采访说自己训练强度能达到 12 秒 7 、 12 秒 6 的程度，但是比赛就是达不到，你怎么看？",
       "url": "https://www.zhihu.com/question/2095964207070105819",
-      "hot_value": "108 万热度",
-      "index": 17
-    },
-    {
-      "title": "杨瀚森打满第四节得 5 分 3 板，2627 赛季 NBA 常规赛，太阳 83:124 开拓者，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2096545549797409580",
-      "hot_value": "107 万热度",
-      "index": 18
-    },
-    {
-      "title": "美国政府指示各机构停用 DeepSeek ，外交部表示反对将科技经贸问题政治化，美国此举有何意图？",
-      "url": "https://www.zhihu.com/question/2095898196539073291",
-      "hot_value": "102 万热度",
-      "index": 19
-    },
-    {
-      "title": "儿子逼父母贷款替其还债被拒，欲断绝父子关系被父亲打致轻伤二级，如何理解法院判父亲免予刑事处罚？",
-      "url": "https://www.zhihu.com/question/2096553146264674983",
-      "hot_value": "100 万热度",
-      "index": 20
-    },
-    {
-      "title": "如何评价 10 月 22 日发布的《影之刃零》最终 PV？",
-      "url": "https://www.zhihu.com/question/2096556684730709208",
-      "hot_value": "96 万热度",
-      "index": 21
-    },
-    {
-      "title": "3Blue1Brown 称「现在是学数学的最佳时机」，如何看待此观点？",
-      "url": "https://www.zhihu.com/question/2095500647957378190",
-      "hot_value": "94 万热度",
-      "index": 22
-    },
-    {
-      "title": "泡泡玛特五连跌，段永平称会继续买入，但不会超过公司的 10%，如何看待泡泡玛特近期的表现？",
-      "url": "https://www.zhihu.com/question/2096540698732224991",
-      "hot_value": "83 万热度",
-      "index": 23
-    },
-    {
-      "title": "「汉末三杰」的皇甫嵩、朱儁和卢植三人谁最厉害？",
-      "url": "https://www.zhihu.com/question/2077397398129853207",
-      "hot_value": "83 万热度",
+      "hot_value": "81 万热度",
       "index": 24
     },
     {
-      "title": "理想汽车发布电池保障政策，称将对电池不自燃提供终身保障，你认为这一举措能够赢得市场信任吗？",
-      "url": "https://www.zhihu.com/question/2095997829340558466",
-      "hot_value": "83 万热度",
+      "title": "有哪些在体制内里明白的道理？",
+      "url": "https://www.zhihu.com/question/10238080811",
+      "hot_value": "79 万热度",
       "index": 25
     },
     {
-      "title": "NBA 常规赛湖人 127:105 大胜勇士，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2096570138963211127",
-      "hot_value": "78 万热度",
+      "title": "特朗普称将砸逾 4 亿美元助共和党选举，或成美国历史上烧钱最多的中期选举，共和党胜算有多大？",
+      "url": "https://www.zhihu.com/question/2096563694825992624",
+      "hot_value": "79 万热度",
       "index": 26
     },
     {
-      "title": "OpenAI 的 722 篇论文之后，未来基础数学研究者将何去何从？",
-      "url": "https://www.zhihu.com/question/2092262007995213353",
-      "hot_value": "77 万热度",
+      "title": "为什么曼联的临时主帅成绩看着还行，一转正就拉胯了？",
+      "url": "https://www.zhihu.com/question/2094106102753448246",
+      "hot_value": "79 万热度",
       "index": 27
     },
     {
-      "title": "如果给你 1000 元「改造基金」，对附近的公共设施或场所做一些方便视障朋友生活的小改造，你有什么巧思？",
-      "url": "https://www.zhihu.com/question/2088680825684547497",
-      "hot_value": "73 万热度",
+      "title": "为什么说「及时止损」是一种清醒？",
+      "url": "https://www.zhihu.com/question/2094341501518083772",
+      "hot_value": "76 万热度",
       "index": 28
     },
     {
-      "title": "为什么母语记忆一个词基本上不会忘记，而学习外语第二天就搞忘了呢？",
-      "url": "https://www.zhihu.com/question/7445010389",
-      "hot_value": "68 万热度",
+      "title": "带孩子去某快餐店吃饭，妈妈还在等着取餐，过来时一看，孩子在和别人家（不认识）一起吃他们的餐，气不气？",
+      "url": "https://www.zhihu.com/question/2096382258659776509",
+      "hot_value": "75 万热度",
       "index": 29
     },
     {
-      "title": "能分享一顿你特别日常的一顿晚餐吗？",
-      "url": "https://www.zhihu.com/question/1983200338166167104",
-      "hot_value": "64 万热度",
+      "title": "AI 写代码太快，Review 不过来，要不要违背祖训放弃 Review？",
+      "url": "https://www.zhihu.com/question/2094239068095602796",
+      "hot_value": "74 万热度",
       "index": 30
     }
   ]
