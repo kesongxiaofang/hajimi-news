@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-23T11:54:28Z",
+  "update_time": "2026-10-23T16:21:52Z",
   "count": 30,
   "list": [
     {
-      "title": "为什么我国在黄海要进行持续 47 天的实弹射击？释放了哪些信号？",
-      "url": "https://www.zhihu.com/question/2096358861804511510",
-      "hot_value": "1401 万热度",
-      "index": 1
-    },
-    {
       "title": "原「死了么」App 年费最高 199 元，由政府采购供独居老人免费使用，收费高吗？政府采购有必要吗？",
       "url": "https://www.zhihu.com/question/2096880010871007016",
-      "hot_value": "829 万热度",
-      "index": 2
-    },
-    {
-      "title": "香港餐饮业出现倒闭潮，部分餐厅甩锅深圳抢客，你怎么看待？",
-      "url": "https://www.zhihu.com/question/2089335688500192096",
-      "hot_value": "695 万热度",
-      "index": 3
-    },
-    {
-      "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
-      "url": "https://www.zhihu.com/question/2096713518582179306",
-      "hot_value": "213 万热度",
-      "index": 4
+      "hot_value": "635 万热度",
+      "index": 1
     },
     {
       "title": "如何评价莫大「旭日旗事件」涉事学生开除文件已下达，但因涉及隐私法律规定或将不对外公开？",
       "url": "https://www.zhihu.com/question/2096969379007000835",
-      "hot_value": "208 万热度",
-      "index": 5
+      "hot_value": "535 万热度",
+      "index": 2
+    },
+    {
+      "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+      "url": "https://www.zhihu.com/question/2096713518582179306",
+      "hot_value": "411 万热度",
+      "index": 3
     },
     {
       "title": "一顺风车司机困了让乘客开车，自己睡到目的地还照常收钱，平台最初只赔 20 元代金券，最后全额退款，合理吗？",
       "url": "https://www.zhihu.com/question/2096650914333566731",
-      "hot_value": "196 万热度",
+      "hot_value": "350 万热度",
+      "index": 4
+    },
+    {
+      "title": "如何评价 2026 年 10 月米哈游《原神》7.2 版本前瞻直播【坏灭肇始之时】？",
+      "url": "https://www.zhihu.com/question/2096896047893295237",
+      "hot_value": "326 万热度",
+      "index": 5
+    },
+    {
+      "title": "泽连斯基表态「愿以领土换和平协议」后，普京也确认愿恢复俄美乌三方谈判，为什么各方突然都松口了？",
+      "url": "https://www.zhihu.com/question/2096377609613472454",
+      "hot_value": "226 万热度",
       "index": 6
     },
     {
-      "title": "真的有公司裁员裁到「大动脉」，最后不得不花高价把人请回来的吗？",
-      "url": "https://www.zhihu.com/question/2095467399596266995",
-      "hot_value": "153 万热度",
+      "title": "继母介绍 12 岁女童进黑作坊务工致六级伤残，厂方仅支付 1 万元跑路，各方该承担什么责任？这对孩子影响多大？",
+      "url": "https://www.zhihu.com/question/2095942778563970468",
+      "hot_value": "196 万热度",
       "index": 7
     },
     {
-      "title": "如何看待《令人心动的 offer8》李子祺在节目里诊断用盲猜，称专博不临床，10 篇 SCI 被指为水刊凑数？",
-      "url": "https://www.zhihu.com/question/2096626576456507559",
-      "hot_value": "124 万热度",
+      "title": "广州商学院涨租逼走快递网点，又要求老师每天投诉 6 单，倒逼快递返回学校，如何看待这一操作？暴露什么问题？",
+      "url": "https://www.zhihu.com/question/2096242853957710863",
+      "hot_value": "163 万热度",
       "index": 8
     },
     {
-      "title": "山姆牡蛎精胶囊因检测出污染物质被召回，品牌称污染物其实是无害天然物质，只是中外标准差异，说法靠谱吗？",
-      "url": "https://www.zhihu.com/question/2096639080977253990",
-      "hot_value": "122 万热度",
+      "title": "劳动争议开庭前夕，娃哈哈法定代表人许思敏突然辞职，从宗馥莉卸任到许思敏离职，娃哈哈内部管理发生了什么？",
+      "url": "https://www.zhihu.com/question/2096884177970925776",
+      "hot_value": "154 万热度",
       "index": 9
     },
     {
-      "title": "如果真按小岛说的，做一款充满「偶然性」的 3A 大作，把日常任务和保底全删了，玩家真能玩下去吗？",
-      "url": "https://www.zhihu.com/question/2096012007564637306",
-      "hot_value": "118 万热度",
+      "title": "Anthropic 科学家称「AGI 若三年内到来读博将失去意义」，如何看待这一观点？",
+      "url": "https://www.zhihu.com/question/2096930670463530796",
+      "hot_value": "147 万热度",
       "index": 10
     },
     {
       "title": "曝波兰爆发大规模抗议活动，数百万人涌上街头，具体什么情况？为啥欧洲最近都在陆续爆发大规模的抗议活动？",
       "url": "https://www.zhihu.com/question/2096731185820819857",
-      "hot_value": "111 万热度",
+      "hot_value": "135 万热度",
       "index": 11
     },
     {
-      "title": "Anthropic 最快将于本周提交 S-1 招股说明书，有望冲击史上最大 IPO，会对市场带来怎样的影响？",
-      "url": "https://www.zhihu.com/question/2096551809837790048",
-      "hot_value": "103 万热度",
+      "title": "孩子在幼儿园被抢玩具后推倒了同学，对方家长要求道歉，但孩子坚决拒绝，我该强迫他道歉吗？",
+      "url": "https://www.zhihu.com/question/2096911163732779810",
+      "hot_value": "129 万热度",
       "index": 12
     },
     {
       "title": "外媒发文称「如 BLG 无法在 S16 夺冠，LPL 将无法保持第二赛区地位」如何评价他的观点？",
       "url": "https://www.zhihu.com/question/2095888059124249103",
-      "hot_value": "87 万热度",
+      "hot_value": "106 万热度",
       "index": 13
     },
     {
       "title": "如何看待土耳其计划推出两套新的历史教材，把中国新疆、青海、甘肃等地区，纳入所谓「突厥世界」的版图？",
       "url": "https://www.zhihu.com/question/2096747370075648644",
-      "hot_value": "85 万热度",
+      "hot_value": "106 万热度",
       "index": 14
     },
     {
       "title": "如果 24 小时内会有一颗核弹投放到你的城市，你会做什么？",
       "url": "https://www.zhihu.com/question/1894148700403643273",
-      "hot_value": "84 万热度",
+      "hot_value": "106 万热度",
       "index": 15
     },
     {
-      "title": "曝某明星长期借不到高定，自费购买礼服后引该品牌 PR 暴怒，可能会是谁？为啥自费购买也会引起高奢品牌不满？",
-      "url": "https://www.zhihu.com/question/2096378566657012341",
-      "hot_value": "82 万热度",
+      "title": "真的有公司裁员裁到「大动脉」，最后不得不花高价把人请回来的吗？",
+      "url": "https://www.zhihu.com/question/2095467399596266995",
+      "hot_value": "106 万热度",
       "index": 16
     },
     {
-      "title": "如何看待一人之下 781 话之中，王国平和巴伦的大战？",
-      "url": "https://www.zhihu.com/question/2096290658663376086",
-      "hot_value": "77 万热度",
+      "title": "如何看待一个基本没有朋友，而且一直都是独来独往的人呢？",
+      "url": "https://www.zhihu.com/question/1980211060154856635",
+      "hot_value": "96 万热度",
       "index": 17
     },
     {
-      "title": "当 AI 影像课走向乡村学生，比起作品好不好看，更珍贵的是什么？",
-      "url": "https://www.zhihu.com/question/2096600012532741321",
-      "hot_value": "76 万热度",
+      "title": "前有白冰被指偷穿高定，后有曝一明星自费买高定引品牌方暴怒，为啥奢侈品行业要设置这些普通人看不懂的规矩？",
+      "url": "https://www.zhihu.com/question/2096629150685425874",
+      "hot_value": "85 万热度",
       "index": 18
     },
     {
       "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
       "url": "https://www.zhihu.com/question/2096894678494884280",
-      "hot_value": "72 万热度",
+      "hot_value": "83 万热度",
       "index": 19
     },
     {
-      "title": "如果给最爱的玩具加上 AI，你希望它拥有什么新技能？现在有哪些玩具做到了？",
-      "url": "https://www.zhihu.com/question/2094386767176491314",
-      "hot_value": "71 万热度",
+      "title": "如何评价 iPhone Duo 经拆机，纳米纹理表面并非玻璃而是纳米纹理膜（磨砂膜）？",
+      "url": "https://www.zhihu.com/question/2096744765073126686",
+      "hot_value": "81 万热度",
       "index": 20
     },
     {
       "title": "现货黄金失守 4000 美元关口，避险逻辑为什么失效了？这个位置适合买入吗？",
       "url": "https://www.zhihu.com/question/2096905271801127566",
-      "hot_value": "71 万热度",
+      "hot_value": "81 万热度",
       "index": 21
     },
     {
-      "title": "如何评价 iPhone Duo 经拆机，纳米纹理表面并非玻璃而是纳米纹理膜（磨砂膜）？",
-      "url": "https://www.zhihu.com/question/2096744765073126686",
-      "hot_value": "70 万热度",
+      "title": "月薪两万但毫无意义，该坚持吗？",
+      "url": "https://www.zhihu.com/question/2096685774104163543",
+      "hot_value": "80 万热度",
       "index": 22
     },
     {
-      "title": "可以推荐好吃的面食吗?",
-      "url": "https://www.zhihu.com/question/474291016",
-      "hot_value": "69 万热度",
+      "title": "为什么 4.8 分网红餐厅更容易踩雷？大家现在都是怎么避开「高分刺客」的？",
+      "url": "https://www.zhihu.com/question/2095302477340058129",
+      "hot_value": "80 万热度",
       "index": 23
     },
     {
-      "title": "孩子在幼儿园被抢玩具后推倒了同学，对方家长要求道歉，但孩子坚决拒绝，我该强迫他道歉吗？",
-      "url": "https://www.zhihu.com/question/2096911163732779810",
-      "hot_value": "69 万热度",
+      "title": "你见过植物做过最「不按套路出牌」的事是什么？",
+      "url": "https://www.zhihu.com/question/2050140943165273022",
+      "hot_value": "74 万热度",
       "index": 24
     },
     {
-      "title": "推荐一本好书可以吗？",
-      "url": "https://www.zhihu.com/question/1896299040670454569",
-      "hot_value": "68 万热度",
+      "title": "世界上热量最高的美食有哪些？",
+      "url": "https://www.zhihu.com/question/661648063",
+      "hot_value": "74 万热度",
       "index": 25
     },
     {
-      "title": "孩子回来跟你说这次考试没考好，你是怎么回应的呢？",
-      "url": "https://www.zhihu.com/question/2096858196006721040",
-      "hot_value": "67 万热度",
+      "title": "总把一次失败看成「我什么都不行」，该怎么改变这种思维模式？",
+      "url": "https://www.zhihu.com/question/2096209369360868860",
+      "hot_value": "72 万热度",
       "index": 26
     },
     {
-      "title": "你心目中鸡蛋最好吃的做法是什么？",
-      "url": "https://www.zhihu.com/question/535981474",
-      "hot_value": "66 万热度",
+      "title": "你读过最有意境的诗词有哪些?",
+      "url": "https://www.zhihu.com/question/661734598",
+      "hot_value": "72 万热度",
       "index": 27
     },
     {
-      "title": "古代权贵吃饭吃到虫子怎么办？",
-      "url": "https://www.zhihu.com/question/51730080",
-      "hot_value": "65 万热度",
+      "title": "世界气候类型有哪些，哪种气候更适合人类居住？",
+      "url": "https://www.zhihu.com/question/316040428",
+      "hot_value": "71 万热度",
       "index": 28
     },
     {
-      "title": "为什么学校喜欢让新入职的老师当班主任?",
-      "url": "https://www.zhihu.com/question/1976311722345254963",
-      "hot_value": "63 万热度",
+      "title": "少女动漫里主角变身时为什么常要完整播放一遍？",
+      "url": "https://www.zhihu.com/question/2095836845078745600",
+      "hot_value": "62 万热度",
       "index": 29
     },
     {
-      "title": "留美在读女博士答辩失利，向实验室同门咖啡机投毒「丙烯酰胺」，如何看待这一事件？",
-      "url": "https://www.zhihu.com/question/2096228188099540232",
-      "hot_value": "62 万热度",
+      "title": "星巴克施行消费入座，门店店员称「消费入座」为倡议性质，空座充足时不会劝离，会增加一线员工负担吗？",
+      "url": "https://www.zhihu.com/question/2096615362607445595",
+      "hot_value": "58 万热度",
       "index": 30
     }
   ]
