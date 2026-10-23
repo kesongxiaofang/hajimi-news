@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-23T20:00:50Z",
+  "update_time": "2026-10-23T23:18:02Z",
   "count": 30,
   "list": [
     {
-      "title": "如何评价莫大「旭日旗事件」涉事学生开除文件已下达，但因涉及隐私法律规定或将不对外公开？",
-      "url": "https://www.zhihu.com/question/2096969379007000835",
-      "hot_value": "303 万热度",
-      "index": 1
-    },
-    {
       "title": "如何评价 Kimi K3.1？",
       "url": "https://www.zhihu.com/question/2096972346951198516",
-      "hot_value": "234 万热度",
-      "index": 2
+      "hot_value": "315 万热度",
+      "index": 1
     },
     {
       "title": "Anthropic 科学家称「AGI 若三年内到来读博将失去意义」，如何看待这一观点？",
       "url": "https://www.zhihu.com/question/2096930670463530796",
-      "hot_value": "224 万热度",
+      "hot_value": "255 万热度",
+      "index": 2
+    },
+    {
+      "title": "广州商学院涨租逼走快递网点，又要求老师每天投诉 6 单，倒逼快递返回学校，如何看待这一操作？暴露什么问题？",
+      "url": "https://www.zhihu.com/question/2096242853957710863",
+      "hot_value": "218 万热度",
       "index": 3
     },
     {
-      "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
-      "url": "https://www.zhihu.com/question/2096713518582179306",
-      "hot_value": "207 万热度",
+      "title": "S16 瑞士轮 BLG 0:1 KOI，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2097161907279025390",
+      "hot_value": "178 万热度",
       "index": 4
     },
     {
-      "title": "一顺风车司机困了让乘客开车，自己睡到目的地还照常收钱，平台最初只赔 20 元代金券，最后全额退款，合理吗？",
-      "url": "https://www.zhihu.com/question/2096650914333566731",
-      "hot_value": "205 万热度",
+      "title": "如何看待最高法通报牟某虐待案中曾高频次、长时间、持续性辱骂女友，让其通过人工流产等方式换取心理平衡？",
+      "url": "https://www.zhihu.com/question/2097051890424832268",
+      "hot_value": "157 万热度",
       "index": 5
     },
     {
       "title": "泽连斯基表态「愿以领土换和平协议」后，普京也确认愿恢复俄美乌三方谈判，为什么各方突然都松口了？",
       "url": "https://www.zhihu.com/question/2096377609613472454",
-      "hot_value": "197 万热度",
+      "hot_value": "151 万热度",
       "index": 6
     },
     {
-      "title": "广州商学院涨租逼走快递网点，又要求老师每天投诉 6 单，倒逼快递返回学校，如何看待这一操作？暴露什么问题？",
-      "url": "https://www.zhihu.com/question/2096242853957710863",
-      "hot_value": "189 万热度",
+      "title": "s16 瑞士轮 AL0:1KC，如何评价 LPL 四连败？",
+      "url": "https://www.zhihu.com/question/2097188352629925804",
+      "hot_value": "145 万热度",
       "index": 7
     },
     {
       "title": "劳动争议开庭前夕，娃哈哈法定代表人许思敏突然辞职，从宗馥莉卸任到许思敏离职，娃哈哈内部管理发生了什么？",
       "url": "https://www.zhihu.com/question/2096884177970925776",
-      "hot_value": "149 万热度",
+      "hot_value": "130 万热度",
       "index": 8
-    },
-    {
-      "title": "继母介绍 12 岁女童进黑作坊务工致六级伤残，厂方仅支付 1 万元跑路，各方该承担什么责任？这对孩子影响多大？",
-      "url": "https://www.zhihu.com/question/2095942778563970468",
-      "hot_value": "139 万热度",
-      "index": 9
-    },
-    {
-      "title": "如何看待最高法通报牟某虐待案中曾高频次、长时间、持续性辱骂女友，让其通过人工流产等方式换取心理平衡？",
-      "url": "https://www.zhihu.com/question/2097051890424832268",
-      "hot_value": "131 万热度",
-      "index": 10
-    },
-    {
-      "title": "孩子在幼儿园被抢玩具后推倒了同学，对方家长要求道歉，但孩子坚决拒绝，我该强迫他道歉吗？",
-      "url": "https://www.zhihu.com/question/2096911163732779810",
-      "hot_value": "126 万热度",
-      "index": 11
-    },
-    {
-      "title": "曝波兰爆发大规模抗议活动，数百万人涌上街头，具体什么情况？为啥欧洲最近都在陆续爆发大规模的抗议活动？",
-      "url": "https://www.zhihu.com/question/2096731185820819857",
-      "hot_value": "120 万热度",
-      "index": 12
     },
     {
       "title": "为什么阿里巴巴和腾讯估值低，股价却总是下跌？",
       "url": "https://www.zhihu.com/question/2094836561221251720",
-      "hot_value": "117 万热度",
+      "hot_value": "123 万热度",
+      "index": 9
+    },
+    {
+      "title": "前有白冰被指偷穿高定，后有曝一明星自费买高定引品牌方暴怒，为啥奢侈品行业要设置这些普通人看不懂的规矩？",
+      "url": "https://www.zhihu.com/question/2096629150685425874",
+      "hot_value": "100 万热度",
+      "index": 10
+    },
+    {
+      "title": "曝波兰爆发大规模抗议活动，数百万人涌上街头，具体什么情况？为啥欧洲最近都在陆续爆发大规模的抗议活动？",
+      "url": "https://www.zhihu.com/question/2096731185820819857",
+      "hot_value": "97 万热度",
+      "index": 11
+    },
+    {
+      "title": "S16 瑞士轮 HLE 1:0 TES，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2097149215751385787",
+      "hot_value": "95 万热度",
+      "index": 12
+    },
+    {
+      "title": "如何评价莫大「旭日旗事件」涉事学生开除文件已下达，但因涉及隐私法律规定或将不对外公开？",
+      "url": "https://www.zhihu.com/question/2096969379007000835",
+      "hot_value": "90 万热度",
       "index": 13
     },
     {
       "title": "如何看待土耳其计划推出两套新的历史教材，把中国新疆、青海、甘肃等地区，纳入所谓「突厥世界」的版图？",
       "url": "https://www.zhihu.com/question/2096747370075648644",
-      "hot_value": "108 万热度",
+      "hot_value": "89 万热度",
       "index": 14
     },
     {
-      "title": "如果 24 小时内会有一颗核弹投放到你的城市，你会做什么？",
-      "url": "https://www.zhihu.com/question/1894148700403643273",
-      "hot_value": "104 万热度",
+      "title": "以现代技术打造的冷兵器可以优秀到什么程度？",
+      "url": "https://www.zhihu.com/question/339340496",
+      "hot_value": "88 万热度",
       "index": 15
+    },
+    {
+      "title": "继母介绍 12 岁女童进黑作坊务工致六级伤残，厂方仅支付 1 万元跑路，各方该承担什么责任？这对孩子影响多大？",
+      "url": "https://www.zhihu.com/question/2095942778563970468",
+      "hot_value": "84 万热度",
+      "index": 16
+    },
+    {
+      "title": "月薪两万但毫无意义，该坚持吗？",
+      "url": "https://www.zhihu.com/question/2096685774104163543",
+      "hot_value": "81 万热度",
+      "index": 17
     },
     {
       "title": "S16 瑞士轮首日首战 GEN 1:0 击败 iG，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2097118911602995512",
-      "hot_value": "99 万热度",
-      "index": 16
-    },
-    {
-      "title": "如何评价《英雄联盟》10 月 22 日上线的海克斯大乱斗 4.0 版本「巨星之路」？",
-      "url": "https://www.zhihu.com/question/2096599799009224394",
-      "hot_value": "96 万热度",
-      "index": 17
-    },
-    {
-      "title": "前有白冰被指偷穿高定，后有曝一明星自费买高定引品牌方暴怒，为啥奢侈品行业要设置这些普通人看不懂的规矩？",
-      "url": "https://www.zhihu.com/question/2096629150685425874",
-      "hot_value": "95 万热度",
+      "hot_value": "76 万热度",
       "index": 18
     },
     {
-      "title": "FX 战士久留美、伊藤开司、蛇喰梦子，如果同时找你借钱，你会借给谁？谁更适合当朋友？",
-      "url": "https://www.zhihu.com/question/2096387393884525089",
-      "hot_value": "88 万热度",
+      "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
+      "url": "https://www.zhihu.com/question/2096894678494884280",
+      "hot_value": "76 万热度",
       "index": 19
     },
     {
       "title": "如何评价 iPhone Duo 经拆机，纳米纹理表面并非玻璃而是纳米纹理膜（磨砂膜）？",
       "url": "https://www.zhihu.com/question/2096744765073126686",
-      "hot_value": "85 万热度",
+      "hot_value": "76 万热度",
       "index": 20
     },
     {
       "title": "现货黄金失守 4000 美元关口，避险逻辑为什么失效了？这个位置适合买入吗？",
       "url": "https://www.zhihu.com/question/2096905271801127566",
-      "hot_value": "85 万热度",
+      "hot_value": "76 万热度",
       "index": 21
-    },
-    {
-      "title": "月薪两万但毫无意义，该坚持吗？",
-      "url": "https://www.zhihu.com/question/2096685774104163543",
-      "hot_value": "84 万热度",
-      "index": 22
-    },
-    {
-      "title": "原「死了么」App 年费最高 199 元，由政府采购供独居老人免费使用，收费高吗？政府采购有必要吗？",
-      "url": "https://www.zhihu.com/question/2096880010871007016",
-      "hot_value": "84 万热度",
-      "index": 23
-    },
-    {
-      "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
-      "url": "https://www.zhihu.com/question/2096894678494884280",
-      "hot_value": "84 万热度",
-      "index": 24
     },
     {
       "title": "为什么 4.8 分网红餐厅更容易踩雷？大家现在都是怎么避开「高分刺客」的？",
       "url": "https://www.zhihu.com/question/2095302477340058129",
       "hot_value": "76 万热度",
+      "index": 22
+    },
+    {
+      "title": "你的哪些「人生经验」，是可以毫无顾忌地教授给自己孩子的？",
+      "url": "https://www.zhihu.com/question/1918715086857561736",
+      "hot_value": "71 万热度",
+      "index": 23
+    },
+    {
+      "title": "为什么大模型还没有大面积应用到因子挖掘？",
+      "url": "https://www.zhihu.com/question/2073727130379051737",
+      "hot_value": "70 万热度",
+      "index": 24
+    },
+    {
+      "title": "一顺风车司机困了让乘客开车，自己睡到目的地还照常收钱，平台最初只赔 20 元代金券，最后全额退款，合理吗？",
+      "url": "https://www.zhihu.com/question/2096650914333566731",
+      "hot_value": "69 万热度",
       "index": 25
     },
     {
-      "title": "为什么有些人会极度反感万字解析？",
-      "url": "https://www.zhihu.com/question/2095215077356054104",
-      "hot_value": "72 万热度",
+      "title": "孩子在幼儿园被抢玩具后推倒了同学，对方家长要求道歉，但孩子坚决拒绝，我该强迫他道歉吗？",
+      "url": "https://www.zhihu.com/question/2096911163732779810",
+      "hot_value": "65 万热度",
       "index": 26
     },
     {
-      "title": "外媒发文称「如 BLG 无法在 S16 夺冠，LPL 将无法保持第二赛区地位」如何评价他的观点？",
-      "url": "https://www.zhihu.com/question/2095888059124249103",
-      "hot_value": "65 万热度",
+      "title": "为什么 intp 喜欢睡觉？",
+      "url": "https://www.zhihu.com/question/507183959",
+      "hot_value": "61 万热度",
       "index": 27
     },
     {
-      "title": "如何评价 2026 年 10 月米哈游《原神》7.2 版本前瞻直播【坏灭肇始之时】？",
-      "url": "https://www.zhihu.com/question/2096896047893295237",
+      "title": "FX 战士久留美、伊藤开司、蛇喰梦子，如果同时找你借钱，你会借给谁？谁更适合当朋友？",
+      "url": "https://www.zhihu.com/question/2096387393884525089",
       "hot_value": "59 万热度",
       "index": 28
     },
     {
-      "title": "带孩子去某快餐店吃饭，妈妈还在等着取餐，过来时一看，孩子在和别人家（不认识）一起吃他们的餐，气不气？",
-      "url": "https://www.zhihu.com/question/2096382258659776509",
-      "hot_value": "58 万热度",
+      "title": "外媒发文称「如 BLG 无法在 S16 夺冠，LPL 将无法保持第二赛区地位」如何评价他的观点？",
+      "url": "https://www.zhihu.com/question/2095888059124249103",
+      "hot_value": "59 万热度",
       "index": 29
     },
     {
-      "title": "如何看待 HLE 以「未带多余队服婉拒 TES 交换队服请求」转头 iG 与 Guma 交换成功？",
-      "url": "https://www.zhihu.com/question/2096626213141705315",
-      "hot_value": "58 万热度",
+      "title": "claude 对逆向工程的帮助有多大？",
+      "url": "https://www.zhihu.com/question/2016994218661405836",
+      "hot_value": "59 万热度",
       "index": 30
     }
   ]
