@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-24T06:49:27Z",
+  "update_time": "2026-10-24T11:48:59Z",
   "count": 30,
   "list": [
     {
       "title": "《绝区零》先导演示丨挽昼",
       "url": "https://www.bilibili.com/video/BV1U3n46GEzY",
-      "hot_value": "1376819播放",
+      "hot_value": "2705368播放",
       "index": 1
     },
     {
-      "title": "锐评S16瑞士轮MKOI战胜BLG KC战胜AL：LPL首轮全败....",
-      "url": "https://www.bilibili.com/video/BV11CHw6TE5T",
-      "hot_value": "305565播放",
+      "title": "人性、欲望与奇观，自驾拉斯维加斯，现实夜之城什么样？",
+      "url": "https://www.bilibili.com/video/BV12qnt6VEM1",
+      "hot_value": "1724628播放",
       "index": 2
     },
     {
-      "title": "有用版新植物：野狗小喷菇",
-      "url": "https://www.bilibili.com/video/BV1G1nb6oExa",
-      "hot_value": "1668673播放",
+      "title": "《纯阳真气》",
+      "url": "https://www.bilibili.com/video/BV111na6WExX",
+      "hot_value": "1055298播放",
       "index": 3
     },
     {
       "title": " 【独家】《凡人修仙传之慕兰之战》第21集【总第197集】",
       "url": "https://www.bilibili.com/video/BV1ojn86vEeU",
-      "hot_value": "2184787播放",
+      "hot_value": "3490723播放",
       "index": 4
-    },
-    {
-      "title": "人工耳蜗里的声音，到底是什么样的？",
-      "url": "https://www.bilibili.com/video/BV14Enb6LEDe",
-      "hot_value": "1997168播放",
-      "index": 5
-    },
-    {
-      "title": "我的天呐！这S赛太让人痛苦了，突破历史的首日全败！观众做了什么坏事要熬夜看这种比赛？【1酱赛评S赛瑞士轮Day1】",
-      "url": "https://www.bilibili.com/video/BV1WtHA6TEew",
-      "hot_value": "589953播放",
-      "index": 6
     },
     {
       "title": "11天，我们干掉祸害20多年的传销头目！",
       "url": "https://www.bilibili.com/video/BV1oTnW67E4n",
-      "hot_value": "698894播放",
+      "hot_value": "1196656播放",
+      "index": 5
+    },
+    {
+      "title": "人工耳蜗里的声音，到底是什么样的？",
+      "url": "https://www.bilibili.com/video/BV14Enb6LEDe",
+      "hot_value": "2771591播放",
+      "index": 6
+    },
+    {
+      "title": "派大星跳伞是什么梗【梗指南】",
+      "url": "https://www.bilibili.com/video/BV11kn86mEjg",
+      "hot_value": "1085076播放",
       "index": 7
     },
     {
-      "title": "人性、欲望与奇观，自驾拉斯维加斯，现实夜之城什么样？",
-      "url": "https://www.bilibili.com/video/BV12qnt6VEM1",
-      "hot_value": "727012播放",
+      "title": "半夜偷吃的生死体验 3.0",
+      "url": "https://www.bilibili.com/video/BV1SAn168E4B",
+      "hot_value": "1014940播放",
       "index": 8
     },
     {
-      "title": "😨\"后室里的乌鲁鲁3\"😰",
-      "url": "https://www.bilibili.com/video/BV1Honn67ENm",
-      "hot_value": "661903播放",
+      "title": "折多少次才能到达月球？",
+      "url": "https://www.bilibili.com/video/BV1E3nt6wEtb",
+      "hot_value": "2737062播放",
       "index": 9
     },
     {
       "title": "【纪录片】中国救护2 06 此去仍有光",
       "url": "https://www.bilibili.com/video/BV1oXnx6sEnc",
-      "hot_value": "282925播放",
+      "hot_value": "1036183播放",
       "index": 10
+    },
+    {
+      "title": "《星溯》首曝PV丨重启停滞的轮回",
+      "url": "https://www.bilibili.com/video/BV1tjJ16dEJt",
+      "hot_value": "1314050播放",
+      "index": 11
+    },
+    {
+      "title": "“借大圣威名，护我痴儿周全”",
+      "url": "https://www.bilibili.com/video/BV1KMnw6ME1Z",
+      "hot_value": "833149播放",
+      "index": 12
+    },
+    {
+      "title": "「缘缘庄爱情故事」 - 终末地",
+      "url": "https://www.bilibili.com/video/BV15Fnb6bERd",
+      "hot_value": "558484播放",
+      "index": 13
+    },
+    {
+      "title": "😨\"后室里的乌鲁鲁3\"😰",
+      "url": "https://www.bilibili.com/video/BV1Honn67ENm",
+      "hot_value": "827954播放",
+      "index": 14
+    },
+    {
+      "title": "也是当上外卖大法官了【第四集】",
+      "url": "https://www.bilibili.com/video/BV1nbnb6BEVu",
+      "hot_value": "592815播放",
+      "index": 15
+    },
+    {
+      "title": "为什么我说英语?                                                                【手搓动画大赛】",
+      "url": "https://www.bilibili.com/video/BV1a3nh6ZE7n",
+      "hot_value": "567357播放",
+      "index": 16
+    },
+    {
+      "title": "我的天呐！这S赛太让人痛苦了，突破历史的首日全败！观众做了什么坏事要熬夜看这种比赛？【1酱赛评S赛瑞士轮Day1】",
+      "url": "https://www.bilibili.com/video/BV1WtHA6TEew",
+      "hot_value": "1035623播放",
+      "index": 17
+    },
+    {
+      "title": "“即便司凤！仍要前行！”-思老凤乐队的故事！本家原创投稿！",
+      "url": "https://www.bilibili.com/video/BV1zSnt6NEai",
+      "hot_value": "540624播放",
+      "index": 18
+    },
+    {
+      "title": "挑战最快爆发引体",
+      "url": "https://www.bilibili.com/video/BV1nsn46YEYf",
+      "hot_value": "1575981播放",
+      "index": 19
     },
     {
       "title": "【真实锐评】LPL瑞士轮首轮全败！4个0-1 4个BO1加一起凑不出来一条龙魂！牛了！",
       "url": "https://www.bilibili.com/video/BV1sHHA63ELC",
-      "hot_value": "484994播放",
-      "index": 11
-    },
-    {
-      "title": "《纯阳真气》",
-      "url": "https://www.bilibili.com/video/BV111na6WExX",
-      "hot_value": "199053播放",
-      "index": 12
-    },
-    {
-      "title": "【2026全球总决赛】10月24日 BLG vs MKOI",
-      "url": "https://www.bilibili.com/video/BV1QQnh6hEc1",
-      "hot_value": "1066639播放",
-      "index": 13
-    },
-    {
-      "title": "“大肥鱼适合做女朋友吗？”",
-      "url": "https://www.bilibili.com/video/BV166nW6REyR",
-      "hot_value": "1682314播放",
-      "index": 14
-    },
-    {
-      "title": "地牢酒馆-30《够味儿的食物》",
-      "url": "https://www.bilibili.com/video/BV1g9nh6FEna",
-      "hot_value": "108572播放",
-      "index": 15
-    },
-    {
-      "title": "四人行，必有一怂蛋",
-      "url": "https://www.bilibili.com/video/BV1M1np6YE8c",
-      "hot_value": "829876播放",
-      "index": 16
-    },
-    {
-      "title": "《洛克王国：世界》S5赛季「圣龙宝藏」PV首曝，11月5日冒险启程！",
-      "url": "https://www.bilibili.com/video/BV1C8nH69Ekq",
-      "hot_value": "1884323播放",
-      "index": 17
-    },
-    {
-      "title": "派大星跳伞是什么梗【梗指南】",
-      "url": "https://www.bilibili.com/video/BV11kn86mEjg",
-      "hot_value": "558321播放",
-      "index": 18
-    },
-    {
-      "title": "教科书式的优化！蜀面豪杰自来也实战思路",
-      "url": "https://www.bilibili.com/video/BV1Vdny6KE6D",
-      "hot_value": "1069691播放",
-      "index": 19
-    },
-    {
-      "title": "当男摄和女摄相遇……",
-      "url": "https://www.bilibili.com/video/BV1bAnp6wEap",
-      "hot_value": "2758510播放",
+      "hot_value": "840200播放",
       "index": 20
-    },
-    {
-      "title": "《原神》7.2版本PV：「坏灭肇始之时」",
-      "url": "https://www.bilibili.com/video/BV1z9nt6aE5H",
-      "hot_value": "1779699播放",
-      "index": 21
-    },
-    {
-      "title": "【2026全球总决赛】10月24日 GEN vs IG",
-      "url": "https://www.bilibili.com/video/BV1n5na61Eev",
-      "hot_value": "1163824播放",
-      "index": 22
-    },
-    {
-      "title": "带猫去到世界尽头，北极格陵兰岛",
-      "url": "https://www.bilibili.com/video/BV1Pin26oEYz",
-      "hot_value": "363607播放",
-      "index": 23
     },
     {
       "title": "中国贝爷刘教去海岛感受南国美食",
       "url": "https://www.bilibili.com/video/BV12ent6LE2V",
-      "hot_value": "723725播放",
+      "hot_value": "1027819播放",
+      "index": 21
+    },
+    {
+      "title": "马桶家族全集",
+      "url": "https://www.bilibili.com/video/BV1JAnq64EER",
+      "hot_value": "563307播放",
+      "index": 22
+    },
+    {
+      "title": "千钧一发！客运员飞身一脚截停失控行李箱❤️（人民网记者 王连香）",
+      "url": "https://www.bilibili.com/video/BV1Dhnt67EMV",
+      "hot_value": "1722370播放",
+      "index": 23
+    },
+    {
+      "title": "四人行，必有一怂蛋",
+      "url": "https://www.bilibili.com/video/BV1M1np6YE8c",
+      "hot_value": "1031372播放",
       "index": 24
-    },
-    {
-      "title": "1个碳纤维板换到6个大红？！清图大哥不敢拿，怕我是外挂",
-      "url": "https://www.bilibili.com/video/BV1v9nx69E8e",
-      "hot_value": "806792播放",
-      "index": 25
-    },
-    {
-      "title": "小潮生活vlog#10",
-      "url": "https://www.bilibili.com/video/BV1aPnb6REQP",
-      "hot_value": "69069播放",
-      "index": 26
-    },
-    {
-      "title": "舒服了",
-      "url": "https://www.bilibili.com/video/BV1uant6mERH",
-      "hot_value": "896099播放",
-      "index": 27
-    },
-    {
-      "title": "为了妈妈，全校老师同学最团结的一集",
-      "url": "https://www.bilibili.com/video/BV1yjnm68Eud",
-      "hot_value": "3736806播放",
-      "index": 28
     },
     {
       "title": "不减136斤不结婚，减掉还赢25万美金",
       "url": "https://www.bilibili.com/video/BV1XZn26rE8x",
-      "hot_value": "2651955播放",
+      "hot_value": "3628252播放",
+      "index": 25
+    },
+    {
+      "title": "一刀不剪！0-4逗我笑吗？那你成功了",
+      "url": "https://www.bilibili.com/video/BV12qHw63EeR",
+      "hot_value": "426792播放",
+      "index": 26
+    },
+    {
+      "title": "史上最肉，2770万生命值",
+      "url": "https://www.bilibili.com/video/BV1TKne6fE2d",
+      "hot_value": "368708播放",
+      "index": 27
+    },
+    {
+      "title": "影视飓风员工，开什么车？",
+      "url": "https://www.bilibili.com/video/BV16inH6SEvM",
+      "hot_value": "2116318播放",
+      "index": 28
+    },
+    {
+      "title": "⚡⚡逆 天 复 仇 者⚡⚡",
+      "url": "https://www.bilibili.com/video/BV1BZn86qE9n",
+      "hot_value": "852451播放",
       "index": 29
     },
     {
-      "title": "代理人档案丨知更鸟",
-      "url": "https://www.bilibili.com/video/BV1rYnh6CEmd",
-      "hot_value": "287540播放",
+      "title": "“大肥鱼适合做女朋友吗？”",
+      "url": "https://www.bilibili.com/video/BV166nW6REyR",
+      "hot_value": "2056481播放",
       "index": 30
     }
   ]
