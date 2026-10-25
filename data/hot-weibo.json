@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-10-24T23:30:47Z",
+  "update_time": "2026-10-25T02:58:11Z",
   "count": 30,
   "list": [
     {
-      "title": "iG战胜TSW",
-      "url": "https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CTSW%23",
-      "hot_value": "733667",
+      "title": "日剧Vivant抹黑中国",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%23",
+      "hot_value": "1118588",
       "index": 1
     },
     {
-      "title": "女生不要谈太久的恋爱",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%8D%E8%A6%81%E8%B0%88%E5%A4%AA%E4%B9%85%E7%9A%84%E6%81%8B%E7%88%B1%23",
-      "hot_value": "531244",
+      "title": "马山猴子溺亡水柜完成首轮消杀",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B1%B1%E7%8C%B4%E5%AD%90%E6%BA%BA%E4%BA%A1%E6%B0%B4%E6%9F%9C%E5%AE%8C%E6%88%90%E9%A6%96%E8%BD%AE%E6%B6%88%E6%9D%80%23",
+      "hot_value": "804750",
       "index": 2
     },
     {
-      "title": "渝昆高铁全线铺轨完成",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B8%9D%E6%98%86%E9%AB%98%E9%93%81%E5%85%A8%E7%BA%BF%E9%93%BA%E8%BD%A8%E5%AE%8C%E6%88%90%23",
-      "hot_value": "404421",
+      "title": "一图读懂未来五年商务高质量发展蓝图",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E5%95%86%E5%8A%A1%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E8%93%9D%E5%9B%BE%23",
+      "hot_value": "657549",
       "index": 3
     },
     {
-      "title": "iG拿下LPL在S16外战首胜",
-      "url": "https://s.weibo.com/weibo?q=%23iG%E6%8B%BF%E4%B8%8BLPL%E5%9C%A8S16%E5%A4%96%E6%88%98%E9%A6%96%E8%83%9C%23",
-      "hot_value": "262289",
+      "title": "S16抽签",
+      "url": "https://s.weibo.com/weibo?q=%23S16%E6%8A%BD%E7%AD%BE%23",
+      "hot_value": "619037",
       "index": 4
-    },
-    {
-      "title": "TES拿下LPL在S16首胜",
-      "url": "https://s.weibo.com/weibo?q=%23TES%E6%8B%BF%E4%B8%8BLPL%E5%9C%A8S16%E9%A6%96%E8%83%9C%23",
-      "hot_value": "219186",
-      "index": 5
     },
     {
       "title": "鸡蛋别放冰箱门格子里",
       "url": "https://s.weibo.com/weibo?q=%23%E9%B8%A1%E8%9B%8B%E5%88%AB%E6%94%BE%E5%86%B0%E7%AE%B1%E9%97%A8%E6%A0%BC%E5%AD%90%E9%87%8C%23",
-      "hot_value": "170732",
+      "hot_value": "421367",
+      "index": 5
+    },
+    {
+      "title": "女生拒绝表白后照片被发在色情软件",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E8%A1%A8%E7%99%BD%E5%90%8E%E7%85%A7%E7%89%87%E8%A2%AB%E5%8F%91%E5%9C%A8%E8%89%B2%E6%83%85%E8%BD%AF%E4%BB%B6%23",
+      "hot_value": "393097",
       "index": 6
     },
     {
-      "title": "TheShy奎桑提团战发力",
-      "url": "https://s.weibo.com/weibo?q=%23TheShy%E5%A5%8E%E6%A1%91%E6%8F%90%E5%9B%A2%E6%88%98%E5%8F%91%E5%8A%9B%23",
-      "hot_value": "135622",
+      "title": "日剧把日军罪行嫁接给中国人",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%89%A7%E6%8A%8A%E6%97%A5%E5%86%9B%E7%BD%AA%E8%A1%8C%E5%AB%81%E6%8E%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA%23",
+      "hot_value": "361044",
       "index": 7
     },
     {
-      "title": "小城良方 辽宁养蚂蚁骗局",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9+%E8%BE%BD%E5%AE%81%E5%85%BB%E8%9A%82%E8%9A%81%E9%AA%97%E5%B1%80%23",
-      "hot_value": "132326",
+      "title": "iG抽到HLE",
+      "url": "https://s.weibo.com/weibo?q=%23iG%E6%8A%BD%E5%88%B0HLE%23",
+      "hot_value": "352695",
       "index": 8
     },
     {
-      "title": "小说里为什么没有广东霸总",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E5%B9%BF%E4%B8%9C%E9%9C%B8%E6%80%BB%23",
-      "hot_value": "109035",
+      "title": "爱马仕称中国市场目前很困难",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%9B%AE%E5%89%8D%E5%BE%88%E5%9B%B0%E9%9A%BE%23",
+      "hot_value": "345150",
       "index": 9
     },
     {
-      "title": "oner回应Knight评价T1",
-      "url": "https://s.weibo.com/weibo?q=%23oner%E5%9B%9E%E5%BA%94Knight%E8%AF%84%E4%BB%B7T1%23",
-      "hot_value": "76369",
+      "title": "台湾光复纪念日",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5%23",
+      "hot_value": "343893",
       "index": 10
+    },
+    {
+      "title": "祖海态度",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%A5%96%E6%B5%B7%E6%80%81%E5%BA%A6%23",
+      "hot_value": "341691",
+      "index": 11
     },
     {
       "title": "毛不易婚礼发言引网友争议",
       "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E5%BC%95%E7%BD%91%E5%8F%8B%E4%BA%89%E8%AE%AE%23",
-      "hot_value": "74818",
-      "index": 11
-    },
-    {
-      "title": "曝刘学义张予曦差点结婚",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A%23",
-      "hot_value": "73420",
+      "hot_value": "340475",
       "index": 12
     },
     {
-      "title": "迪丽热巴蝴蝶飞走是巧合",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E9%A3%9E%E8%B5%B0%E6%98%AF%E5%B7%A7%E5%90%88%23",
-      "hot_value": "69718",
+      "title": "儿媳愿出钱但不与婆婆同住",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AA%B3%E6%84%BF%E5%87%BA%E9%92%B1%E4%BD%86%E4%B8%8D%E4%B8%8E%E5%A9%86%E5%A9%86%E5%90%8C%E4%BD%8F%23",
+      "hot_value": "338937",
       "index": 13
     },
     {
-      "title": "镜头转到李昀锐真的好清秀帅气啊",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%95%9C%E5%A4%B4%E8%BD%AC%E5%88%B0%E6%9D%8E%E6%98%80%E9%94%90%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%B8%85%E7%A7%80%E5%B8%85%E6%B0%94%E5%95%8A%23",
-      "hot_value": "66227",
+      "title": "李雪健已无法说话",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%B7%B2%E6%97%A0%E6%B3%95%E8%AF%B4%E8%AF%9D%23",
+      "hot_value": "336815",
       "index": 14
     },
     {
-      "title": "尧阿尧回应iG战胜TSW",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%A7%E9%98%BF%E5%B0%A7%E5%9B%9E%E5%BA%94iG%E6%88%98%E8%83%9CTSW%23",
-      "hot_value": "65358",
+      "title": "宋慧乔从出现开始就美得在发光",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E4%BB%8E%E5%87%BA%E7%8E%B0%E5%BC%80%E5%A7%8B%E5%B0%B1%E7%BE%8E%E5%BE%97%E5%9C%A8%E5%8F%91%E5%85%89%23",
+      "hot_value": "335461",
       "index": 15
     },
     {
-      "title": "al再败就止步16强",
-      "url": "https://s.weibo.com/weibo?q=%23al%E5%86%8D%E8%B4%A5%E5%B0%B1%E6%AD%A2%E6%AD%A516%E5%BC%BA%23",
-      "hot_value": "64488",
+      "title": "被状告后高铁宁波站撤掉禁烟标志",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8A%B6%E5%91%8A%E5%90%8E%E9%AB%98%E9%93%81%E5%AE%81%E6%B3%A2%E7%AB%99%E6%92%A4%E6%8E%89%E7%A6%81%E7%83%9F%E6%A0%87%E5%BF%97%23",
+      "hot_value": "334467",
       "index": 16
     },
     {
-      "title": "新郎新娘回应毛不易婚礼发言",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%94%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%23",
-      "hot_value": "64376",
+      "title": "小酒窝捐的旧衣服都是新的",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E6%8D%90%E7%9A%84%E6%97%A7%E8%A1%A3%E6%9C%8D%E9%83%BD%E6%98%AF%E6%96%B0%E7%9A%84%23",
+      "hot_value": "330262",
       "index": 17
-    },
-    {
-      "title": "徐嘉余50米仰泳破世界纪录",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%98%89%E4%BD%9950%E7%B1%B3%E4%BB%B0%E6%B3%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23",
-      "hot_value": "62520",
-      "index": 18
-    },
-    {
-      "title": "乒乓球亚锦赛男单四强",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9A%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8D%95%E5%9B%9B%E5%BC%BA%23",
-      "hot_value": "62493",
-      "index": 19
-    },
-    {
-      "title": "曝手机平板产品线将停更",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%89%8B%E6%9C%BA%E5%B9%B3%E6%9D%BF%E4%BA%A7%E5%93%81%E7%BA%BF%E5%B0%86%E5%81%9C%E6%9B%B4%23",
-      "hot_value": "62440",
-      "index": 20
-    },
-    {
-      "title": "女子怀孕前骨瘦如柴",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%89%8D%E9%AA%A8%E7%98%A6%E5%A6%82%E6%9F%B4%23",
-      "hot_value": "62403",
-      "index": 21
-    },
-    {
-      "title": "女子因丈夫翻垃圾大吵一架",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E4%B8%88%E5%A4%AB%E7%BF%BB%E5%9E%83%E5%9C%BE%E5%A4%A7%E5%90%B5%E4%B8%80%E6%9E%B6%23",
-      "hot_value": "62360",
-      "index": 22
     },
     {
       "title": "曝刘学义张予曦曾在一起三年多",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E6%9B%BE%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%B8%89%E5%B9%B4%E5%A4%9A%23",
-      "hot_value": "62329",
+      "hot_value": "325095",
+      "index": 18
+    },
+    {
+      "title": "女子花22万办婚礼遭商家偷换廉价物料",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B122%E4%B8%87%E5%8A%9E%E5%A9%9A%E7%A4%BC%E9%81%AD%E5%95%86%E5%AE%B6%E5%81%B7%E6%8D%A2%E5%BB%89%E4%BB%B7%E7%89%A9%E6%96%99%23",
+      "hot_value": "324972",
+      "index": 19
+    },
+    {
+      "title": "微信被指在苹果折叠屏上公摊面积过大",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%A2%AB%E6%8C%87%E5%9C%A8%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%B8%8A%E5%85%AC%E6%91%8A%E9%9D%A2%E7%A7%AF%E8%BF%87%E5%A4%A7%23",
+      "hot_value": "322623",
+      "index": 20
+    },
+    {
+      "title": "61岁中国男子泰国芭提雅坠亡",
+      "url": "https://s.weibo.com/weibo?q=%2361%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%B3%B0%E5%9B%BD%E8%8A%AD%E6%8F%90%E9%9B%85%E5%9D%A0%E4%BA%A1%23",
+      "hot_value": "321800",
+      "index": 21
+    },
+    {
+      "title": "这是中国台湾省",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%23",
+      "hot_value": "320934",
+      "index": 22
+    },
+    {
+      "title": "刘学义 张予曦",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89+%E5%BC%A0%E4%BA%88%E6%9B%A6%23",
+      "hot_value": "318892",
       "index": 23
     },
     {
-      "title": "真的建议大家要注意用脑卫生",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E8%A6%81%E6%B3%A8%E6%84%8F%E7%94%A8%E8%84%91%E5%8D%AB%E7%94%9F%23",
-      "hot_value": "62309",
+      "title": "东部战区发布台湾光复纪念日海报",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%8F%91%E5%B8%83%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5%E6%B5%B7%E6%8A%A5%23",
+      "hot_value": "317377",
       "index": 24
     },
     {
-      "title": "朱婷助科内利亚诺超级杯夺冠",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%A9%B7%E5%8A%A9%E7%A7%91%E5%86%85%E5%88%A9%E4%BA%9A%E8%AF%BA%E8%B6%85%E7%BA%A7%E6%9D%AF%E5%A4%BA%E5%86%A0%23",
-      "hot_value": "62275",
+      "title": "易梦玲回应瘦得夸张",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9B%9E%E5%BA%94%E7%98%A6%E5%BE%97%E5%A4%B8%E5%BC%A0%23",
+      "hot_value": "316198",
       "index": 25
     },
     {
-      "title": "没想到何超莲是真的在打电话",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E4%BD%95%E8%B6%85%E8%8E%B2%E6%98%AF%E7%9C%9F%E7%9A%84%E5%9C%A8%E6%89%93%E7%94%B5%E8%AF%9D%23",
-      "hot_value": "62207",
+      "title": "老师你玩不起就别玩",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%BD%A0%E7%8E%A9%E4%B8%8D%E8%B5%B7%E5%B0%B1%E5%88%AB%E7%8E%A9%23",
+      "hot_value": "315767",
       "index": 26
     },
     {
-      "title": "iPhoneDuo破发",
-      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E7%A0%B4%E5%8F%91%23",
-      "hot_value": "62161",
+      "title": "新郎新娘回应毛不易婚礼发言",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%9B%9E%E5%BA%94%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%23",
+      "hot_value": "301565",
       "index": 27
     },
     {
-      "title": "虞书欣侯明昊行程",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BE%AF%E6%98%8E%E6%98%8A%E8%A1%8C%E7%A8%8B%23",
-      "hot_value": "62154",
+      "title": "sakee 郭德纲",
+      "url": "https://s.weibo.com/weibo?q=%23sakee+%E9%83%AD%E5%BE%B7%E7%BA%B2%23",
+      "hot_value": "292492",
       "index": 28
     },
     {
-      "title": "沈阳一商场保洁大叔凭高颜值出圈",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E4%B8%80%E5%95%86%E5%9C%BA%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E5%87%AD%E9%AB%98%E9%A2%9C%E5%80%BC%E5%87%BA%E5%9C%88%23",
-      "hot_value": "62100",
+      "title": "美国稀土大项目黄了",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%A4%A7%E9%A1%B9%E7%9B%AE%E9%BB%84%E4%BA%86%23",
+      "hot_value": "286328",
       "index": 29
     },
     {
-      "title": "王沪宁陪同金正恩访问丹东",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B2%AA%E5%AE%81%E9%99%AA%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E8%AE%BF%E9%97%AE%E4%B8%B9%E4%B8%9C%23",
-      "hot_value": "62065",
+      "title": "迪丽热巴蝴蝶飞走是巧合",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%9D%B4%E8%9D%B6%E9%A3%9E%E8%B5%B0%E6%98%AF%E5%B7%A7%E5%90%88%23",
+      "hot_value": "282234",
       "index": 30
     }
   ]

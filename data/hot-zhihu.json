@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-24T23:30:47Z",
+  "update_time": "2026-10-25T02:58:11Z",
   "count": 30,
   "list": [
     {
-      "title": "男孩偷超市饮料，被父亲拿着戒尺送到派出所「自首」，感受手铐重量后向店主道歉，你支持这种教育方式吗？",
-      "url": "https://www.zhihu.com/question/2097008886175872404",
-      "hot_value": "208 万热度",
+      "title": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
+      "url": "https://www.zhihu.com/question/2097101591828607209",
+      "hot_value": "556 万热度",
       "index": 1
     },
     {
-      "title": "9 月日产本田在华销量均跌超五成，为何日系车遭遇大幅下滑？",
-      "url": "https://www.zhihu.com/question/2095176252785157261",
-      "hot_value": "174 万热度",
+      "title": "S16 瑞士轮 TES 1:0 AL，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2097479998525518163",
+      "hot_value": "368 万热度",
       "index": 2
     },
     {
-      "title": "为什么腾讯有了 QQ 这么庞大的用户基础群之后要开发微信呢？",
-      "url": "https://www.zhihu.com/question/1926924740225922646",
-      "hot_value": "141 万热度",
+      "title": "男孩偷超市饮料，被父亲拿着戒尺送到派出所「自首」，感受手铐重量后向店主道歉，你支持这种教育方式吗？",
+      "url": "https://www.zhihu.com/question/2097008886175872404",
+      "hot_value": "322 万热度",
       "index": 3
     },
     {
       "title": "广西一病人转院被网约车司机丢弃致死，家属索赔 96 万，法院一审判司机平台赔 1.3 万，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2097409044340105309",
-      "hot_value": "138 万热度",
+      "hot_value": "307 万热度",
       "index": 4
     },
     {
-      "title": "S16 瑞士轮 TES 1:0 AL，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2097479998525518163",
-      "hot_value": "136 万热度",
+      "title": "如何看待 85 万新能源车成「电子孤儿」，修不了、卖不掉，连保险也拒绝担保？",
+      "url": "https://www.zhihu.com/question/2096137202719892660",
+      "hot_value": "293 万热度",
       "index": 5
     },
     {
-      "title": "为什么现在很多公立的幼儿园不教拼音，但是到了小学默认你是会拼音的状态？",
-      "url": "https://www.zhihu.com/question/1911014119206818889",
-      "hot_value": "129 万热度",
+      "title": "重点中学教师称高一开学仅一个月，其任教的每个班均有学生因心理问题休学，这是普遍现象吗？为什么会这样？",
+      "url": "https://www.zhihu.com/question/2097263594421188141",
+      "hot_value": "210 万热度",
       "index": 6
+    },
+    {
+      "title": "夫妻花 67.3 万买劳力士却不挑选不试戴，店员果断报警，最终证实夫妻两人遭遇诈骗，这背后有着怎样的骗局？",
+      "url": "https://www.zhihu.com/question/2094830367932770236",
+      "hot_value": "185 万热度",
+      "index": 7
+    },
+    {
+      "title": "假如眼镜王蛇和金环蛇互咬，它们会被对方的毒毒死吗？",
+      "url": "https://www.zhihu.com/question/1890868469970474047",
+      "hot_value": "181 万热度",
+      "index": 8
+    },
+    {
+      "title": "古代偷偷晒海水难道不可以少量自制盐吗？",
+      "url": "https://www.zhihu.com/question/1968296046963701519",
+      "hot_value": "178 万热度",
+      "index": 9
+    },
+    {
+      "title": "76 年过后，抗美援朝战争对当今中国有着怎样的意义？这场战争在历史上留下的痕迹，还在怎样影响着我们？",
+      "url": "https://www.zhihu.com/question/2097019307393802452",
+      "hot_value": "177 万热度",
+      "index": 10
+    },
+    {
+      "title": "你有 5 分钟把一个回形针藏在家里，侦探有 24 小时来找，找不到就给你 1 万美元，你会藏在哪里？",
+      "url": "https://www.zhihu.com/question/2097021346526001046",
+      "hot_value": "176 万热度",
+      "index": 11
     },
     {
       "title": "诺奖得主 Hassabis 称 AGI 最快 2 年内到来，如何看待这一预判？",
       "url": "https://www.zhihu.com/question/2096743580895397227",
-      "hot_value": "118 万热度",
-      "index": 7
-    },
-    {
-      "title": "国务院办公厅称要「有效减缓人工智能应用就业替代影响」，释放出什么信号？可能带来哪些实际影响？",
-      "url": "https://www.zhihu.com/question/2097043375547536464",
-      "hot_value": "117 万热度",
-      "index": 8
-    },
-    {
-      "title": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
-      "url": "https://www.zhihu.com/question/2097101591828607209",
-      "hot_value": "113 万热度",
-      "index": 9
-    },
-    {
-      "title": "证监会核准设立花旗证券（中国）有限公司，将对国内券商行业带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2097003942836007767",
-      "hot_value": "109 万热度",
-      "index": 10
-    },
-    {
-      "title": "为什么 chatgpt 和 claude 防不住蒸馏？",
-      "url": "https://www.zhihu.com/question/2097291551575749628",
-      "hot_value": "104 万热度",
-      "index": 11
-    },
-    {
-      "title": "你怎么看毛不易在女性好友婚礼上的致辞，算越界吗？为什么「结婚越来越不意味着什么」引发热议？",
-      "url": "https://www.zhihu.com/question/2096550287901307789",
-      "hot_value": "99 万热度",
+      "hot_value": "159 万热度",
       "index": 12
     },
     {
-      "title": "年轻人吐槽扔垃圾时小区老人当面翻垃圾、伸手拿纸箱，这种「扔垃圾羞耻症」背后折射出什么？",
-      "url": "https://www.zhihu.com/question/2096151804308189971",
-      "hot_value": "89 万热度",
+      "title": "何刚升任华为董事，继续担任终端 CEO，可能给华为带来哪些变化？",
+      "url": "https://www.zhihu.com/question/2096995356298798326",
+      "hot_value": "152 万热度",
       "index": 13
     },
     {
-      "title": "领导让你去他车里拿茅台，但车里没有怎么办？",
-      "url": "https://www.zhihu.com/question/1919848515183568588",
-      "hot_value": "84 万热度",
+      "title": "雷霆队的杰威在被绊倒后连打了 7 个滚才停下，裁判回看后没有升级犯规，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2097026066346767131",
+      "hot_value": "129 万热度",
       "index": 14
     },
     {
-      "title": "9 岁孩子开门杀致路人死亡，司机获刑 10 个月缓刑 1 年，开门的是乘客，为何判刑的是司机？带给我们哪些启示？",
-      "url": "https://www.zhihu.com/question/2096896642700013908",
-      "hot_value": "79 万热度",
+      "title": "7000 名玩家票选最烂画面效果，动态模糊以 80% 得票率夺冠，为什么这个技术现在如此令人讨厌？",
+      "url": "https://www.zhihu.com/question/2093004562508601270",
+      "hot_value": "84 万热度",
       "index": 15
     },
     {
       "title": "内娱密集曝出好多新孩子，被网友戏称「大怀孕时代」，为什么最近很多明星选择怀孕生子？",
       "url": "https://www.zhihu.com/question/2095558414470309333",
-      "hot_value": "78 万热度",
+      "hot_value": "84 万热度",
       "index": 16
     },
     {
-      "title": "7000 名玩家票选最烂画面效果，动态模糊以 80% 得票率夺冠，为什么这个技术现在如此令人讨厌？",
-      "url": "https://www.zhihu.com/question/2093004562508601270",
-      "hot_value": "77 万热度",
+      "title": "国务院提出「优化家庭财税稳人口」，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2097058448156397670",
+      "hot_value": "83 万热度",
       "index": 17
     },
     {
-      "title": "夫妻花 67.3 万买劳力士却不挑选不试戴，店员果断报警，最终证实夫妻两人遭遇诈骗，这背后有着怎样的骗局？",
-      "url": "https://www.zhihu.com/question/2094830367932770236",
-      "hot_value": "73 万热度",
+      "title": "如何看待 17 岁天才少年陈广宇离开月之暗面赴美？",
+      "url": "https://www.zhihu.com/question/2094503900531405705",
+      "hot_value": "82 万热度",
       "index": 18
     },
     {
-      "title": "为什么现在很多流行的网络小说开始流行使用系统了？",
-      "url": "https://www.zhihu.com/question/2095787988873748826",
-      "hot_value": "69 万热度",
+      "title": "为什么很多计算机书籍都是 PDF，而不是 EPUB？",
+      "url": "https://www.zhihu.com/question/571871669",
+      "hot_value": "81 万热度",
       "index": 19
     },
     {
-      "title": "2026 年中国票房第三名《功夫女足》跌至 5.9 分，是否可以印证冯小刚当年的话是对的？",
-      "url": "https://www.zhihu.com/question/2097104543138030945",
-      "hot_value": "67 万热度",
+      "title": "有什么好吃有快手的菜可以推荐吗？",
+      "url": "https://www.zhihu.com/question/1905048068547655357",
+      "hot_value": "68 万热度",
       "index": 20
     },
     {
-      "title": "iPhone Duo 开售，每人限购两部，你买到了吗？很多人刚开箱就屏幕开裂，你遇到了吗？使用感受如何？",
-      "url": "https://www.zhihu.com/question/2096894681745286436",
-      "hot_value": "65 万热度",
+      "title": "陕西问界车毁人亡后，有人发现懂车帝 2024 年就指出问界汽车油路太靠前，碰撞后容易自燃，如何看待？",
+      "url": "https://www.zhihu.com/question/2096770641013773543",
+      "hot_value": "68 万热度",
       "index": 21
     },
     {
-      "title": "有哪些曾经只有专业车手才能做的事，现在普通人开车也能体验到？",
-      "url": "https://www.zhihu.com/question/2096971448376210626",
-      "hot_value": "63 万热度",
+      "title": "为什么现在很多公立的幼儿园不教拼音，但是到了小学默认你是会拼音的状态？",
+      "url": "https://www.zhihu.com/question/1911014119206818889",
+      "hot_value": "68 万热度",
       "index": 22
     },
     {
-      "title": "宇树机器人侧空翻表演时甩断腿，问题可能出在哪里？出现这种情况正常吗？",
-      "url": "https://www.zhihu.com/question/2097252062257832354",
-      "hot_value": "58 万热度",
+      "title": "有哪些「知道的人很少，却非常好用」的厨房小妙招？",
+      "url": "https://www.zhihu.com/question/3462862338",
+      "hot_value": "65 万热度",
       "index": 23
     },
     {
-      "title": "外媒发文称「如 BLG 无法在 S16 夺冠，LPL 将无法保持第二赛区地位」如何评价他的观点？",
-      "url": "https://www.zhihu.com/question/2095888059124249103",
-      "hot_value": "57 万热度",
+      "title": "年轻人吐槽扔垃圾时小区老人当面翻垃圾、伸手拿纸箱，这种「扔垃圾羞耻症」背后折射出什么？",
+      "url": "https://www.zhihu.com/question/2096151804308189971",
+      "hot_value": "59 万热度",
       "index": 24
     },
     {
-      "title": "特斯拉 FSD 为什么非要选择纯视觉方案？",
-      "url": "https://www.zhihu.com/question/2095965663173071657",
-      "hot_value": "57 万热度",
+      "title": "如何看待 RSI（递归自我改进）？",
+      "url": "https://www.zhihu.com/question/2084269904224581485",
+      "hot_value": "59 万热度",
       "index": 25
     },
     {
-      "title": "带孩子去某快餐店吃饭，妈妈还在等着取餐，过来时一看，孩子在和别人家（不认识）一起吃他们的餐，气不气？",
-      "url": "https://www.zhihu.com/question/2096382258659776509",
+      "title": "如何评价东契奇与勇士新秀的骂战，伦德博格「有人不停假摔，我大开眼界」东契奇「他太嚣张，我本懒得回嘴」？",
+      "url": "https://www.zhihu.com/question/2096596980600238164",
       "hot_value": "57 万热度",
       "index": 26
     },
     {
-      "title": "月薪两万但毫无意义，该坚持吗？",
-      "url": "https://www.zhihu.com/question/2096685774104163543",
+      "title": "如果奥特曼不去打怪兽，那么他们都会去做什么？",
+      "url": "https://www.zhihu.com/question/425394316",
       "hot_value": "57 万热度",
       "index": 27
     },
     {
-      "title": "你最近一次尝试新的美食是什么？感觉如何？",
-      "url": "https://www.zhihu.com/question/14377005902",
+      "title": "为什么上海小孩越来越不会讲上海话了？",
+      "url": "https://www.zhihu.com/question/2083843510869012719",
       "hot_value": "57 万热度",
       "index": 28
     },
     {
-      "title": "医生说现在的鸡都是快速养殖，激素多，吃了对孩子身体不好，是这样吗？",
-      "url": "https://www.zhihu.com/question/694420968",
+      "title": "有哪些技能是学成后终身受益的？",
+      "url": "https://www.zhihu.com/question/27553963",
       "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "三星研发 24 小时工作机器人，正在执行搬运货物等工作，如果机器人不用休息，制造业成本逻辑会彻底变吗？",
-      "url": "https://www.zhihu.com/question/2096004164606243451",
+      "title": "《西游记》中如来佛祖为什么要推蝎子精，而蝎子精又为何胆大到敢扎佛祖？",
+      "url": "https://www.zhihu.com/question/2062453441667117501",
       "hot_value": "57 万热度",
       "index": 30
     }
