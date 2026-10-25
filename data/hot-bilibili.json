@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-25T13:17:05Z",
+  "update_time": "2026-10-25T17:09:15Z",
   "count": 30,
   "list": [
     {
-      "title": "《鸣潮》世界观PV | 超验TRANSCENDO",
-      "url": "https://www.bilibili.com/video/BV1p8nh61Efm",
-      "hot_value": "2135581播放",
-      "index": 1
-    },
-    {
-      "title": "史密斯先生在学说话",
-      "url": "https://www.bilibili.com/video/BV1QeHK6fEqF",
-      "hot_value": "1260451播放",
-      "index": 2
-    },
-    {
-      "title": "【独家】牧神记 第106集 道剑十四篇",
-      "url": "https://www.bilibili.com/video/BV17wnY6CE2R",
-      "hot_value": "1934880播放",
-      "index": 3
-    },
-    {
-      "title": "为什么我们越来越害怕成为“嘉豪”？",
-      "url": "https://www.bilibili.com/video/BV1iynH65Eoq",
-      "hot_value": "1691819播放",
-      "index": 4
-    },
-    {
-      "title": "消防车路权大还是校车路权更大？",
-      "url": "https://www.bilibili.com/video/BV14cHP6yEYj",
-      "hot_value": "3410856播放",
-      "index": 5
-    },
-    {
-      "title": "恭喜Asuka荣获本届歌手争霸赛歌王称号！！【bilibili次元干杯】",
-      "url": "https://www.bilibili.com/video/BV1KrHP67E4C",
-      "hot_value": "835094播放",
-      "index": 6
-    },
-    {
-      "title": "【抢先看】《想拿同事当冤大头，当场翻车》｜我宣布这是2026最解气职场爽剧！同事豪请全组中秋宴花八万六，偷偷刷我的会员卡买单，密码输错当场社死！",
-      "url": "https://www.bilibili.com/video/BV1iYnm6mE15",
-      "hot_value": "1410965播放",
-      "index": 7
-    },
-    {
-      "title": "写了全国所有省份的love me！",
-      "url": "https://www.bilibili.com/video/BV1w2Hw6KE1j",
-      "hot_value": "3953987播放",
-      "index": 8
-    },
-    {
-      "title": "名片交换",
-      "url": "https://www.bilibili.com/video/BV19pn86hEUJ",
-      "hot_value": "1206767播放",
-      "index": 9
-    },
-    {
-      "title": "《一把长椅卡俩头》",
-      "url": "https://www.bilibili.com/video/BV1VyHA6xEY5",
-      "hot_value": "555207播放",
-      "index": 10
-    },
-    {
-      "title": "人生最有意义的15分钟",
-      "url": "https://www.bilibili.com/video/BV1MiHP6DEi2",
-      "hot_value": "625152播放",
-      "index": 11
-    },
-    {
       "title": "高启强&陈淑婷《Trouble Maker》",
       "url": "https://www.bilibili.com/video/BV1DiHK6tESR",
-      "hot_value": "527831播放",
-      "index": 12
-    },
-    {
-      "title": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
-      "url": "https://www.bilibili.com/video/BV1kZHK6VEgZ",
-      "hot_value": "1209102播放",
-      "index": 13
+      "hot_value": "918574播放",
+      "index": 1
     },
     {
       "title": "双人抬棺",
       "url": "https://www.bilibili.com/video/BV1c5HK6CEPu",
-      "hot_value": "1262216播放",
+      "hot_value": "1848269播放",
+      "index": 2
+    },
+    {
+      "title": "⚡赵本山 Dangerous⚡ 某不存在的联欢晚会现场（笑）【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV17pHK6ME2u",
+      "hot_value": "1171865播放",
+      "index": 3
+    },
+    {
+      "title": "【独家】牧神记 第106集 道剑十四篇",
+      "url": "https://www.bilibili.com/video/BV17wnY6CE2R",
+      "hot_value": "2303549播放",
+      "index": 4
+    },
+    {
+      "title": "220w死神薯片vs世界12级薄荷糖，终极冰火挑战！",
+      "url": "https://www.bilibili.com/video/BV1agHN64ErV",
+      "hot_value": "1257965播放",
+      "index": 5
+    },
+    {
+      "title": "史密斯先生在学说话",
+      "url": "https://www.bilibili.com/video/BV1QeHK6fEqF",
+      "hot_value": "1697342播放",
+      "index": 6
+    },
+    {
+      "title": "恭喜Asuka荣获本届歌手争霸赛歌王称号！！【bilibili次元干杯】",
+      "url": "https://www.bilibili.com/video/BV1KrHP67E4C",
+      "hot_value": "1261834播放",
+      "index": 7
+    },
+    {
+      "title": "《鸣潮》世界观PV | 超验TRANSCENDO",
+      "url": "https://www.bilibili.com/video/BV1p8nh61Efm",
+      "hot_value": "2532226播放",
+      "index": 8
+    },
+    {
+      "title": "愚蠢鬼",
+      "url": "https://www.bilibili.com/video/BV1q5HV6dEzo",
+      "hot_value": "367589播放",
+      "index": 9
+    },
+    {
+      "title": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
+      "url": "https://www.bilibili.com/video/BV1kZHK6VEgZ",
+      "hot_value": "1432777播放",
+      "index": 10
+    },
+    {
+      "title": "消防车路权大还是校车路权更大？",
+      "url": "https://www.bilibili.com/video/BV14cHP6yEYj",
+      "hot_value": "4696855播放",
+      "index": 11
+    },
+    {
+      "title": "名片交换 （本条视频由OiiOii.tv制作@OiiOii Ai，不用琢磨复杂提示词，简单操作就能出成片）",
+      "url": "https://www.bilibili.com/video/BV19pn86hEUJ",
+      "hot_value": "1528100播放",
+      "index": 12
+    },
+    {
+      "title": "吴站长携天津站男团激情演唱《Uptown Funk》",
+      "url": "https://www.bilibili.com/video/BV1FtHg6nEE2",
+      "hot_value": "344098播放",
+      "index": 13
+    },
+    {
+      "title": "如何买人生第一辆车？",
+      "url": "https://www.bilibili.com/video/BV15cH56sE1j",
+      "hot_value": "371968播放",
       "index": 14
     },
     {
-      "title": "你看到的博主视频和实际上的博主拍视频？烧心啊！！！哈哈哈",
-      "url": "https://www.bilibili.com/video/BV15mHA6WEMW",
-      "hot_value": "1147152播放",
+      "title": "为什么我们越来越害怕成为“嘉豪”？",
+      "url": "https://www.bilibili.com/video/BV1iynH65Eoq",
+      "hot_value": "1962343播放",
       "index": 15
     },
     {
       "title": "【头文字F4】德彪~德彪~得意的彪",
       "url": "https://www.bilibili.com/video/BV1rDHw6aE7w",
-      "hot_value": "1514067播放",
+      "hot_value": "1740728播放",
       "index": 16
     },
     {
-      "title": "二十国混战：速通复盘中土网友对线大战",
-      "url": "https://www.bilibili.com/video/BV1tcHK6pEZo",
-      "hot_value": "1036936播放",
+      "title": "《一把长椅卡俩头》",
+      "url": "https://www.bilibili.com/video/BV1VyHA6xEY5",
+      "hot_value": "863593播放",
       "index": 17
-    },
-    {
-      "title": "⚡赵本山 Dangerous⚡ 某不存在的联欢晚会现场（笑）【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV17pHK6ME2u",
-      "hot_value": "676952播放",
-      "index": 18
     },
     {
       "title": "人性、欲望与奇观，自驾拉斯维加斯，现实夜之城什么样？",
       "url": "https://www.bilibili.com/video/BV12qnt6VEM1",
-      "hot_value": "4020788播放",
+      "hot_value": "4278178播放",
+      "index": 18
+    },
+    {
+      "title": "AI不会告诉你，王虹到底证明了什么",
+      "url": "https://www.bilibili.com/video/BV1Z6H56oEcQ",
+      "hot_value": "239658播放",
       "index": 19
-    },
-    {
-      "title": "《话术博弈》如何优雅的套出对方的真心话？",
-      "url": "https://www.bilibili.com/video/BV1yVn16XEz7",
-      "hot_value": "1316804播放",
-      "index": 20
-    },
-    {
-      "title": "我花了3个月！把MC爆改成别的游戏！！",
-      "url": "https://www.bilibili.com/video/BV1UnHN6SECP",
-      "hot_value": "2262371播放",
-      "index": 21
-    },
-    {
-      "title": "200万合成玉，803颗源石，672张单抽卷，54张十连卷，我等到她",
-      "url": "https://www.bilibili.com/video/BV1ErHN6KExe",
-      "hot_value": "412917播放",
-      "index": 22
-    },
-    {
-      "title": "羌塘无人区失踪一年多后，自行车意外被人发现，李聪明",
-      "url": "https://www.bilibili.com/video/BV1DqHK6oEu9",
-      "hot_value": "2300461播放",
-      "index": 23
-    },
-    {
-      "title": "穿越原始社会必备技能之——蛋黄法鞣制皮毛",
-      "url": "https://www.bilibili.com/video/BV1Junz6AEn3",
-      "hot_value": "1778084播放",
-      "index": 24
-    },
-    {
-      "title": "愚蠢鬼",
-      "url": "https://www.bilibili.com/video/BV1q5HV6dEzo",
-      "hot_value": "106747播放",
-      "index": 25
     },
     {
       "title": "【导演作/官方授权】用半年! 制作「脑洞学生会」片尾影像",
       "url": "https://www.bilibili.com/video/BV1cZHK65ELz",
-      "hot_value": "571477播放",
+      "hot_value": "680319播放",
+      "index": 20
+    },
+    {
+      "title": "【抢先看】《想拿同事当冤大头，当场翻车》｜我宣布这是2026最解气职场爽剧！同事豪请全组中秋宴花八万六，偷偷刷我的会员卡买单，密码输错当场社死！",
+      "url": "https://www.bilibili.com/video/BV1iYnm6mE15",
+      "hot_value": "1618317播放",
+      "index": 21
+    },
+    {
+      "title": "土豆革命：为什么改变世界的，偏偏是一颗土豆？",
+      "url": "https://www.bilibili.com/video/BV1xvH36eE1P",
+      "hot_value": "698474播放",
+      "index": 22
+    },
+    {
+      "title": "张麻子《鹅城FUNK》",
+      "url": "https://www.bilibili.com/video/BV1RJHV6pECP",
+      "hot_value": "177807播放",
+      "index": 23
+    },
+    {
+      "title": "人生最有意义的15分钟",
+      "url": "https://www.bilibili.com/video/BV1MiHP6DEi2",
+      "hot_value": "753265播放",
+      "index": 24
+    },
+    {
+      "title": "《罗德岛学院》——早八！",
+      "url": "https://www.bilibili.com/video/BV1m9HG6gE4g",
+      "hot_value": "688465播放",
+      "index": 25
+    },
+    {
+      "title": "200万合成玉，803颗源石，672张单抽卷，54张十连卷，我等到她",
+      "url": "https://www.bilibili.com/video/BV1ErHN6KExe",
+      "hot_value": "545150播放",
       "index": 26
     },
     {
-      "title": "装X翻车全网群嘲？医学界有自己的翟天临！深扒李子祺事变",
-      "url": "https://www.bilibili.com/video/BV1EhHg6EEy8",
-      "hot_value": "357602播放",
+      "title": "王老菊教你卖货达人",
+      "url": "https://www.bilibili.com/video/BV1ynnS6eEbN",
+      "hot_value": "175580播放",
       "index": 27
     },
     {
-      "title": "新角色：大肥鱼",
-      "url": "https://www.bilibili.com/video/BV1gVHA6mEbS",
-      "hot_value": "1286895播放",
+      "title": "一线明星参演、高成本制作、高市早苗点名要看？热播日剧背后的认知投毒真危险！",
+      "url": "https://www.bilibili.com/video/BV1wEHM6UES5",
+      "hot_value": "766312播放",
       "index": 28
     },
     {
-      "title": "你需要多少钱，才能财富自由？",
-      "url": "https://www.bilibili.com/video/BV1yUHP6rEYD",
-      "hot_value": "959729播放",
+      "title": "写了全国所有省份的love me！",
+      "url": "https://www.bilibili.com/video/BV1w2Hw6KE1j",
+      "hot_value": "4255933播放",
       "index": 29
     },
     {
-      "title": "派大星跳伞是什么梗【梗指南】",
-      "url": "https://www.bilibili.com/video/BV11kn86mEjg",
-      "hot_value": "2671637播放",
+      "title": "《话术博弈》如何优雅的套出对方的真心话？",
+      "url": "https://www.bilibili.com/video/BV1yVn16XEz7",
+      "hot_value": "1465073播放",
       "index": 30
     }
   ]
