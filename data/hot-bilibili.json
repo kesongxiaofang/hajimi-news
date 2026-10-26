@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-25T22:15:05Z",
+  "update_time": "2026-10-26T00:31:32Z",
   "count": 30,
   "list": [
     {
       "title": "高启强&陈淑婷《Trouble Maker》",
       "url": "https://www.bilibili.com/video/BV1DiHK6tESR",
-      "hot_value": "1156890播放",
+      "hot_value": "1254286播放",
       "index": 1
     },
     {
-      "title": "《鸣潮》世界观PV | 超验TRANSCENDO",
-      "url": "https://www.bilibili.com/video/BV1p8nh61Efm",
-      "hot_value": "2601656播放",
+      "title": "日本人吃自助不好意思多要跟我外国人有什么关系？读鸡毛空气啊，我踏麻吃吃吃！",
+      "url": "https://www.bilibili.com/video/BV1EzH56bE5k",
+      "hot_value": "415588播放",
       "index": 2
     },
     {
-      "title": "人生最有意义的15分钟",
-      "url": "https://www.bilibili.com/video/BV1MiHP6DEi2",
-      "hot_value": "825113播放",
+      "title": "愚蠢鬼",
+      "url": "https://www.bilibili.com/video/BV1q5HV6dEzo",
+      "hot_value": "563473播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第106集 道剑十四篇",
       "url": "https://www.bilibili.com/video/BV17wnY6CE2R",
-      "hot_value": "2395045播放",
+      "hot_value": "2410990播放",
       "index": 4
-    },
-    {
-      "title": "吴站长携天津站男团激情演唱《Uptown Funk》",
-      "url": "https://www.bilibili.com/video/BV1FtHg6nEE2",
-      "hot_value": "484253播放",
-      "index": 5
-    },
-    {
-      "title": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
-      "url": "https://www.bilibili.com/video/BV1kZHK6VEgZ",
-      "hot_value": "1536010播放",
-      "index": 6
-    },
-    {
-      "title": "【导演作/官方授权】用半年! 制作「脑洞学生会」片尾影像",
-      "url": "https://www.bilibili.com/video/BV1cZHK65ELz",
-      "hot_value": "729398播放",
-      "index": 7
-    },
-    {
-      "title": "写了全国所有省份的love me！",
-      "url": "https://www.bilibili.com/video/BV1w2Hw6KE1j",
-      "hot_value": "4347201播放",
-      "index": 8
-    },
-    {
-      "title": "日本人吃自助不好意思多要跟我外国人有什么关系？读鸡毛空气啊，我踏麻吃吃吃！",
-      "url": "https://www.bilibili.com/video/BV1EzH56bE5k",
-      "hot_value": "311504播放",
-      "index": 9
     },
     {
       "title": "中国90%的人都听过的童年阴影BGM！20年后我终于扒出了它的真身……SCARSONG终极溯源！【互联网大冒险】",
       "url": "https://www.bilibili.com/video/BV1xqH36AEPX",
-      "hot_value": "263060播放",
-      "index": 10
-    },
-    {
-      "title": "恭喜Asuka荣获本届歌手争霸赛歌王称号！！【bilibili次元干杯】",
-      "url": "https://www.bilibili.com/video/BV1KrHP67E4C",
-      "hot_value": "1435429播放",
-      "index": 11
-    },
-    {
-      "title": "《罗德岛学院》——早八！",
-      "url": "https://www.bilibili.com/video/BV1m9HG6gE4g",
-      "hot_value": "750964播放",
-      "index": 12
-    },
-    {
-      "title": "双人抬棺",
-      "url": "https://www.bilibili.com/video/BV1c5HK6CEPu",
-      "hot_value": "2141686播放",
-      "index": 13
-    },
-    {
-      "title": "【头文字F4】德彪~德彪~得意的彪",
-      "url": "https://www.bilibili.com/video/BV1rDHw6aE7w",
-      "hot_value": "1818945播放",
-      "index": 14
-    },
-    {
-      "title": "二十国混战：速通复盘中土网友对线大战",
-      "url": "https://www.bilibili.com/video/BV1tcHK6pEZo",
-      "hot_value": "1205080播放",
-      "index": 15
+      "hot_value": "314403播放",
+      "index": 5
     },
     {
       "title": "消防车路权大还是校车路权更大？",
       "url": "https://www.bilibili.com/video/BV14cHP6yEYj",
-      "hot_value": "4829212播放",
-      "index": 16
+      "hot_value": "5048689播放",
+      "index": 6
     },
     {
-      "title": "我花了3个月！把MC爆改成别的游戏！！",
-      "url": "https://www.bilibili.com/video/BV1UnHN6SECP",
-      "hot_value": "2503619播放",
-      "index": 17
+      "title": "吴站长携天津站男团激情演唱《Uptown Funk》",
+      "url": "https://www.bilibili.com/video/BV1FtHg6nEE2",
+      "hot_value": "554745播放",
+      "index": 7
     },
     {
       "title": "土豆革命：为什么改变世界的，偏偏是一颗土豆？",
       "url": "https://www.bilibili.com/video/BV1xvH36eE1P",
-      "hot_value": "801514播放",
-      "index": 18
+      "hot_value": "844913播放",
+      "index": 8
     },
     {
-      "title": "为什么我们越来越害怕成为“嘉豪”？",
-      "url": "https://www.bilibili.com/video/BV1iynH65Eoq",
-      "hot_value": "2050028播放",
-      "index": 19
+      "title": "双人抬棺",
+      "url": "https://www.bilibili.com/video/BV1c5HK6CEPu",
+      "hot_value": "2228573播放",
+      "index": 9
     },
     {
-      "title": "《话术博弈》如何优雅的套出对方的真心话？",
-      "url": "https://www.bilibili.com/video/BV1yVn16XEz7",
-      "hot_value": "1490690播放",
-      "index": 20
-    },
-    {
-      "title": "200万合成玉，803颗源石，672张单抽卷，54张十连卷，我等到她",
-      "url": "https://www.bilibili.com/video/BV1ErHN6KExe",
-      "hot_value": "595386播放",
-      "index": 21
-    },
-    {
-      "title": "一线明星参演、高成本制作、高市早苗点名要看？热播日剧背后的认知投毒真危险！",
-      "url": "https://www.bilibili.com/video/BV1wEHM6UES5",
-      "hot_value": "824121播放",
-      "index": 22
-    },
-    {
-      "title": "你这一生会和很多条线相交，但没有一条能陪你走到最后",
-      "url": "https://www.bilibili.com/video/BV1BFnc69Edn",
-      "hot_value": "360651播放",
-      "index": 23
-    },
-    {
-      "title": "愚蠢鬼",
-      "url": "https://www.bilibili.com/video/BV1q5HV6dEzo",
-      "hot_value": "485812播放",
-      "index": 24
-    },
-    {
-      "title": "全网最高记录，单局十颗非洲之心",
-      "url": "https://www.bilibili.com/video/BV1gcHM6cEc6",
-      "hot_value": "1603538播放",
-      "index": 25
-    },
-    {
-      "title": "新角色：大肥鱼",
-      "url": "https://www.bilibili.com/video/BV1gVHA6mEbS",
-      "hot_value": "1429468播放",
-      "index": 26
+      "title": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
+      "url": "https://www.bilibili.com/video/BV1kZHK6VEgZ",
+      "hot_value": "1577882播放",
+      "index": 10
     },
     {
       "title": "名片交换",
       "url": "https://www.bilibili.com/video/BV19pn86hEUJ",
-      "hot_value": "1638628播放",
-      "index": 27
+      "hot_value": "1687940播放",
+      "index": 11
     },
     {
-      "title": "抽象新闻：10月人类迷惑行为大赏（上）",
-      "url": "https://www.bilibili.com/video/BV1E4ns6WE3R",
-      "hot_value": "4129627播放",
-      "index": 28
+      "title": "美俄乌又准备谈判了，但泽圣还在秀操作",
+      "url": "https://www.bilibili.com/video/BV1TVHG6BEdd",
+      "hot_value": "485205播放",
+      "index": 12
+    },
+    {
+      "title": "《鸣潮》世界观PV | 超验TRANSCENDO",
+      "url": "https://www.bilibili.com/video/BV1p8nh61Efm",
+      "hot_value": "2614562播放",
+      "index": 13
+    },
+    {
+      "title": "《罗德岛学院》——早八！",
+      "url": "https://www.bilibili.com/video/BV1m9HG6gE4g",
+      "hot_value": "779756播放",
+      "index": 14
+    },
+    {
+      "title": "羌塘无人区失踪一年多后，自行车意外被人发现，李聪明",
+      "url": "https://www.bilibili.com/video/BV1DqHK6oEu9",
+      "hot_value": "2770886播放",
+      "index": 15
+    },
+    {
+      "title": "【导演作/官方授权】用半年! 制作「脑洞学生会」片尾影像",
+      "url": "https://www.bilibili.com/video/BV1cZHK65ELz",
+      "hot_value": "744392播放",
+      "index": 16
+    },
+    {
+      "title": "写了全国所有省份的love me！",
+      "url": "https://www.bilibili.com/video/BV1w2Hw6KE1j",
+      "hot_value": "4365258播放",
+      "index": 17
+    },
+    {
+      "title": "人生最有意义的15分钟",
+      "url": "https://www.bilibili.com/video/BV1MiHP6DEi2",
+      "hot_value": "837590播放",
+      "index": 18
+    },
+    {
+      "title": "恭喜Asuka荣获本届歌手争霸赛歌王称号！！【bilibili次元干杯】",
+      "url": "https://www.bilibili.com/video/BV1KrHP67E4C",
+      "hot_value": "1479472播放",
+      "index": 19
+    },
+    {
+      "title": "【头文字F4】德彪~德彪~得意的彪",
+      "url": "https://www.bilibili.com/video/BV1rDHw6aE7w",
+      "hot_value": "1839216播放",
+      "index": 20
+    },
+    {
+      "title": "装X翻车全网群嘲？医学界有自己的翟天临！深扒李子祺事变",
+      "url": "https://www.bilibili.com/video/BV1EhHg6EEy8",
+      "hot_value": "615688播放",
+      "index": 21
     },
     {
       "title": "张麻子《鹅城FUNK》",
       "url": "https://www.bilibili.com/video/BV1RJHV6pECP",
-      "hot_value": "252461播放",
+      "hot_value": "286573播放",
+      "index": 22
+    },
+    {
+      "title": "我花了3个月！把MC爆改成别的游戏！！",
+      "url": "https://www.bilibili.com/video/BV1UnHN6SECP",
+      "hot_value": "2528953播放",
+      "index": 23
+    },
+    {
+      "title": "二十国混战：速通复盘中土网友对线大战",
+      "url": "https://www.bilibili.com/video/BV1tcHK6pEZo",
+      "hot_value": "1222164播放",
+      "index": 24
+    },
+    {
+      "title": "你这一生会和很多条线相交，但没有一条能陪你走到最后",
+      "url": "https://www.bilibili.com/video/BV1BFnc69Edn",
+      "hot_value": "367872播放",
+      "index": 25
+    },
+    {
+      "title": "挑战川普在美国的一天",
+      "url": "https://www.bilibili.com/video/BV1p1H36oEMQ",
+      "hot_value": "424606播放",
+      "index": 26
+    },
+    {
+      "title": "200万合成玉，803颗源石，672张单抽卷，54张十连卷，我等到她",
+      "url": "https://www.bilibili.com/video/BV1ErHN6KExe",
+      "hot_value": "608499播放",
+      "index": 27
+    },
+    {
+      "title": "《话术博弈》如何优雅的套出对方的真心话？",
+      "url": "https://www.bilibili.com/video/BV1yVn16XEz7",
+      "hot_value": "1495233播放",
+      "index": 28
+    },
+    {
+      "title": "七天三场大选：决定世界走向的疯狂选举周大幕拉开",
+      "url": "https://www.bilibili.com/video/BV1xjnS6MEym",
+      "hot_value": "291536播放",
       "index": 29
     },
     {
-      "title": "穿越战锤24年，你终靠实力拿下星球总督王座，你的余生会如何度过？",
-      "url": "https://www.bilibili.com/video/BV1DaHw6yEj4",
-      "hot_value": "2043737播放",
+      "title": "为什么我们越来越害怕成为“嘉豪”？",
+      "url": "https://www.bilibili.com/video/BV1iynH65Eoq",
+      "hot_value": "2064785播放",
       "index": 30
     }
   ]
