@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-26T05:43:26Z",
+  "update_time": "2026-10-26T12:09:26Z",
   "platforms": [
     {
       "type": "weibo",
@@ -9,7 +9,8 @@
     {
       "type": "zhihu",
       "name": "知乎热榜",
-      "count": 30
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "type": "douyin",
