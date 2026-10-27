@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-26T22:59:49Z",
+  "update_time": "2026-10-27T01:57:49Z",
   "count": 30,
   "list": [
     {
-      "title": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
-      "url": "https://www.bilibili.com/video/BV1kZHK6VEgZ",
-      "hot_value": "2607405播放",
-      "index": 1
-    },
-    {
-      "title": "动态视频｜子弹时间再升级，70台iPhone造了个捕捉时空的球",
-      "url": "https://www.bilibili.com/video/BV1aFno6wETM",
-      "hot_value": "941341播放",
-      "index": 2
-    },
-    {
-      "title": "张麻子《鹅城FUNK》",
-      "url": "https://www.bilibili.com/video/BV1RJHV6pECP",
-      "hot_value": "1835232播放",
-      "index": 3
-    },
-    {
-      "title": "中国90%的人都听过的童年阴影BGM！20年后我终于扒出了它的真身……SCARSONG终极溯源！【互联网大冒险】",
-      "url": "https://www.bilibili.com/video/BV1xqH36AEPX",
-      "hot_value": "1444841播放",
-      "index": 4
-    },
-    {
-      "title": "The shy：我不是F6！",
-      "url": "https://www.bilibili.com/video/BV12Wnd6dEqp",
-      "hot_value": "714932播放",
-      "index": 5
-    },
-    {
       "title": "万重山河皆侠骨！剑网3新50级版本MV《万重山》上线",
       "url": "https://www.bilibili.com/video/BV1BBnb6aEww",
-      "hot_value": "1534467播放",
-      "index": 6
+      "hot_value": "1746693播放",
+      "index": 1
     },
     {
       "title": "生命起源：四十亿年前，地球如何诞生第一个生命？",
       "url": "https://www.bilibili.com/video/BV1WYnd6DEAw",
-      "hot_value": "495059播放",
-      "index": 7
+      "hot_value": "765460播放",
+      "index": 2
     },
     {
-      "title": "贵州真是旅游宝藏，贵州人嘴真严！",
-      "url": "https://www.bilibili.com/video/BV1ZjHV6sEfv",
-      "hot_value": "853393播放",
-      "index": 8
+      "title": "动态视频｜子弹时间再升级，70台iPhone造了个捕捉时空的球",
+      "url": "https://www.bilibili.com/video/BV1aFno6wETM",
+      "hot_value": "1186650播放",
+      "index": 3
     },
     {
-      "title": "如果早知道，阿伟可以手搓时光机",
-      "url": "https://www.bilibili.com/video/BV1mZHA62ECT",
-      "hot_value": "1126009播放",
-      "index": 9
-    },
-    {
-      "title": "【抢先看】植物大战僵尸・超长番：从新手村到万物共生，一集封神！",
-      "url": "https://www.bilibili.com/video/BV1LBnP6xEi5",
-      "hot_value": "637875播放",
-      "index": 10
-    },
-    {
-      "title": "中土互联网大战，有多爆笑？",
-      "url": "https://www.bilibili.com/video/BV1jKnd6uE5d",
-      "hot_value": "381019播放",
-      "index": 11
-    },
-    {
-      "title": "【2026全球总决赛】10月26日 IG vs HLE",
-      "url": "https://www.bilibili.com/video/BV19wnQ6sExk",
-      "hot_value": "4548245播放",
-      "index": 12
-    },
-    {
-      "title": "【IGN】10分，《影之刃零》评测： 武侠朋克传奇",
-      "url": "https://www.bilibili.com/video/BV19bHK6AEBD",
-      "hot_value": "1722626播放",
-      "index": 13
-    },
-    {
-      "title": "这游戏给我恐高症治好了",
-      "url": "https://www.bilibili.com/video/BV1S2Hg6TEaL",
-      "hot_value": "1211454播放",
-      "index": 14
-    },
-    {
-      "title": "遇到射手牢玩家，我李信只能急的原地转圈圈",
-      "url": "https://www.bilibili.com/video/BV1ZjHV6sE13",
-      "hot_value": "1012756播放",
-      "index": 15
-    },
-    {
-      "title": "【灰石剧场400杀】摆完挂机 简单好抄",
-      "url": "https://www.bilibili.com/video/BV14ZnS6uEmT",
-      "hot_value": "989492播放",
-      "index": 16
-    },
-    {
-      "title": "装X翻车全网群嘲？医学界有自己的翟天临！深扒李子祺事变",
-      "url": "https://www.bilibili.com/video/BV1EhHg6EEy8",
-      "hot_value": "1509841播放",
-      "index": 17
-    },
-    {
-      "title": "维修报价需要3000，回收报价700，转身修好卖5000。",
-      "url": "https://www.bilibili.com/video/BV1A4H56qE8x",
-      "hot_value": "694312播放",
-      "index": 18
+      "title": "ILLIT 'You're Under Arrest' Official MV",
+      "url": "https://www.bilibili.com/video/BV1imnd6gEHz",
+      "hot_value": "433794播放",
+      "index": 4
     },
     {
       "title": "花4毛钱让1000个蓝色大肥鱼建造故宫",
       "url": "https://www.bilibili.com/video/BV1nJHK6gEtd",
-      "hot_value": "1865166播放",
-      "index": 19
+      "hot_value": "2068036播放",
+      "index": 5
     },
     {
-      "title": "5秒10枪4死1重伤，顶级射手实力有多恐怖？ | 漫谈《枪王》【02】",
-      "url": "https://www.bilibili.com/video/BV1mjnS6TEgT",
-      "hot_value": "430962播放",
-      "index": 20
+      "title": "渡鸦风云记",
+      "url": "https://www.bilibili.com/video/BV1MknR6REkh",
+      "hot_value": "333920播放",
+      "index": 6
     },
     {
-      "title": "双人抬棺",
-      "url": "https://www.bilibili.com/video/BV1c5HK6CEPu",
-      "hot_value": "4210174播放",
-      "index": 21
+      "title": "张麻子《鹅城FUNK》",
+      "url": "https://www.bilibili.com/video/BV1RJHV6pECP",
+      "hot_value": "1940393播放",
+      "index": 7
     },
     {
-      "title": "张雪米饭问题已经解决，让天下没有难吃的米饭！",
-      "url": "https://www.bilibili.com/video/BV19HHw6HE68",
-      "hot_value": "976148播放",
-      "index": 22
+      "title": "中土互联网大战，有多爆笑？",
+      "url": "https://www.bilibili.com/video/BV1jKnd6uE5d",
+      "hot_value": "483249播放",
+      "index": 8
     },
     {
-      "title": "日本人吃自助不好意思多要跟我外国人有什么关系？读鸡毛空气啊，我踏麻吃吃吃！",
-      "url": "https://www.bilibili.com/video/BV1EzH56bE5k",
-      "hot_value": "2621528播放",
-      "index": 23
+      "title": "中国90%的人都听过的童年阴影BGM！20年后我终于扒出了它的真身……SCARSONG终极溯源！【互联网大冒险】",
+      "url": "https://www.bilibili.com/video/BV1xqH36AEPX",
+      "hot_value": "1548569播放",
+      "index": 9
+    },
+    {
+      "title": "极危？这都快养泛滥了！！！！",
+      "url": "https://www.bilibili.com/video/BV1nZnR6yEDF",
+      "hot_value": "227453播放",
+      "index": 10
+    },
+    {
+      "title": "【抢先看】植物大战僵尸・超长番：从新手村到万物共生，一集封神！",
+      "url": "https://www.bilibili.com/video/BV1LBnP6xEi5",
+      "hot_value": "711148播放",
+      "index": 11
+    },
+    {
+      "title": "The shy：我不是F6！",
+      "url": "https://www.bilibili.com/video/BV12Wnd6dEqp",
+      "hot_value": "784092播放",
+      "index": 12
     },
     {
       "title": "接招吧，由精锐弓床弩组成的密集火力网！【帝国时代4】",
       "url": "https://www.bilibili.com/video/BV1Zcnd6rEpn",
-      "hot_value": "335564播放",
+      "hot_value": "405489播放",
+      "index": 13
+    },
+    {
+      "title": "在毛毯上玩一会4399吧（纯手搓版） 超大工程！",
+      "url": "https://www.bilibili.com/video/BV1J7nX6PEu6",
+      "hot_value": "349607播放",
+      "index": 14
+    },
+    {
+      "title": "创造奇迹：卢拉逆转胜选 小博索纳罗要求推翻选举结果",
+      "url": "https://www.bilibili.com/video/BV1wqnZ6dEBr",
+      "hot_value": "370783播放",
+      "index": 15
+    },
+    {
+      "title": "一个“国误奇观”的故事",
+      "url": "https://www.bilibili.com/video/BV1h9n96tEna",
+      "hot_value": "314071播放",
+      "index": 16
+    },
+    {
+      "title": "马尔芙小姐，我能请你共舞一曲吗？｜PV",
+      "url": "https://www.bilibili.com/video/BV1kZHK6VEgZ",
+      "hot_value": "2754114播放",
+      "index": 17
+    },
+    {
+      "title": "定格测试回顾丨永不褪色的电子相册",
+      "url": "https://www.bilibili.com/video/BV1ARnR62E5t",
+      "hot_value": "146905播放",
+      "index": 18
+    },
+    {
+      "title": "遇到射手牢玩家，我李信只能急的原地转圈圈",
+      "url": "https://www.bilibili.com/video/BV1ZjHV6sE13",
+      "hot_value": "1065519播放",
+      "index": 19
+    },
+    {
+      "title": "⚡️老詹狂野单曲《LeBron Funk》乐邦放克⚡️【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1kUHV6YECs",
+      "hot_value": "434644播放",
+      "index": 20
+    },
+    {
+      "title": "装X翻车全网群嘲？医学界有自己的翟天临！深扒李子祺事变",
+      "url": "https://www.bilibili.com/video/BV1EhHg6EEy8",
+      "hot_value": "1576096播放",
+      "index": 21
+    },
+    {
+      "title": "普通女同事的职场纠纷和爱恨情仇【卡黄盘点】",
+      "url": "https://www.bilibili.com/video/BV1HZnR6yEGj",
+      "hot_value": "214231播放",
+      "index": 22
+    },
+    {
+      "title": "为什么你的DeepSeek，和别人不一样？【实测揭秘】",
+      "url": "https://www.bilibili.com/video/BV1btH36uEru",
+      "hot_value": "390257播放",
+      "index": 23
+    },
+    {
+      "title": "想出在荒岛拍视频的人，确实是天才了...",
+      "url": "https://www.bilibili.com/video/BV1nvnh6GEtH",
+      "hot_value": "461891播放",
       "index": 24
     },
     {
       "title": "爽！！！我们能赢LCK！仁川人2026年还在创造奇迹！IG掀翻银河战舰HLE！TES拿下G2！【1酱赛评世界赛瑞士轮day3 】",
       "url": "https://www.bilibili.com/video/BV1G9n96bEX5",
-      "hot_value": "827212播放",
+      "hot_value": "881775播放",
       "index": 25
     },
     {
-      "title": "吴站长携天津站男团激情演唱《Uptown Funk》",
-      "url": "https://www.bilibili.com/video/BV1FtHg6nEE2",
-      "hot_value": "1438208播放",
+      "title": "贵州真是旅游宝藏，贵州人嘴真严！",
+      "url": "https://www.bilibili.com/video/BV1ZjHV6sEfv",
+      "hot_value": "915677播放",
       "index": 26
     },
     {
-      "title": "名片交换",
-      "url": "https://www.bilibili.com/video/BV19pn86hEUJ",
-      "hot_value": "2408597播放",
+      "title": "CNVCT世界赛首胜！ IG逆转拿下HLE! 生化危机爆发夜！【火兰短报14】",
+      "url": "https://www.bilibili.com/video/BV1gznR6oEg4",
+      "hot_value": "456368播放",
       "index": 27
     },
     {
-      "title": "二次元入侵江南水乡！谁懂在古镇听到本命曲的救赎感【bilibili次元干杯】",
-      "url": "https://www.bilibili.com/video/BV1XWHV6SEXh",
-      "hot_value": "991119播放",
+      "title": "【2026全球总决赛】10月26日 IG vs HLE",
+      "url": "https://www.bilibili.com/video/BV19wnQ6sExk",
+      "hot_value": "4620374播放",
       "index": 28
     },
     {
-      "title": "“鸣人 其实我也没有考上中忍”（完整版）",
-      "url": "https://www.bilibili.com/video/BV1honH6KEaW",
-      "hot_value": "493368播放",
+      "title": "梦泪偷塔十周年，《想赢的人脸上是没有笑容的》",
+      "url": "https://www.bilibili.com/video/BV1GPnS6jEPP",
+      "hot_value": "547674播放",
       "index": 29
     },
     {
-      "title": "抽象新闻：10月人类迷惑行为大赏（上）",
-      "url": "https://www.bilibili.com/video/BV1E4ns6WE3R",
-      "hot_value": "4853491播放",
+      "title": "IG战胜HLE后，Zeus找Bin诉苦",
+      "url": "https://www.bilibili.com/video/BV1RjnZ6uEV7",
+      "hot_value": "279803播放",
       "index": 30
     }
   ]
