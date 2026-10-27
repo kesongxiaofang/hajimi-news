@@ -1,133 +1,133 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-27T13:30:13Z",
+  "update_time": "2026-10-27T19:10:34Z",
   "count": 30,
   "list": [
     {
       "title": "央视已全面叫停涉及姆巴佩的赛事和广告播出，姆巴佩社交账号被禁言，此次风波带来的连锁反应有多大？",
       "url": "https://www.zhihu.com/question/2098431727324619649",
-      "hot_value": "17107 万热度",
+      "hot_value": "18808 万热度",
       "index": 1
     },
     {
       "title": "外交部回应姆巴佩代言解约事件，「伤害中国人民感情的言行自然会遭到中国社会各界的共同抵制」，这有何警示？",
       "url": "https://www.zhihu.com/question/2098468913931608699",
-      "hot_value": "339 万热度",
+      "hot_value": "6514 万热度",
       "index": 2
-    },
-    {
-      "title": "红果短剧引发年轻人「戒断潮」，如何看待这一现象？短剧为何让人欲罢不能？",
-      "url": "https://www.zhihu.com/question/2097994971261542927",
-      "hot_value": "287 万热度",
-      "index": 3
     },
     {
       "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，被法院判属退还，你怎么看？",
       "url": "https://www.zhihu.com/question/2098369407378629230",
-      "hot_value": "170 万热度",
+      "hot_value": "541 万热度",
+      "index": 3
+    },
+    {
+      "title": "红果短剧引发年轻人「戒断潮」，如何看待这一现象？短剧为何让人欲罢不能？",
+      "url": "https://www.zhihu.com/question/2097994971261542927",
+      "hot_value": "378 万热度",
       "index": 4
     },
     {
-      "title": "为什么以前老师用钢笔批改作业时，不会只用红墨水，而是要在里面滴一两滴黑墨水呢?",
-      "url": "https://www.zhihu.com/question/2096545633071003440",
-      "hot_value": "158 万热度",
+      "title": "微软向约 60000 名员工开放自愿离职方案，背后有哪些商业考量？为何没有选择强制裁员？",
+      "url": "https://www.zhihu.com/question/2098214224841461913",
+      "hot_value": "282 万热度",
       "index": 5
-    },
-    {
-      "title": "打了马赛克的二维码被 AI 完整复原，原理是什么？什么样的遮挡才真的防 AI 破解？",
-      "url": "https://www.zhihu.com/question/2097626035961455067",
-      "hot_value": "157 万热度",
-      "index": 6
-    },
-    {
-      "title": "offer8 嘉宾称在澳洲已是实习医生，却不会握手术刀、缝合打结，为啥会这样？中外医学教育差异这么大吗？",
-      "url": "https://www.zhihu.com/question/2096928657268635250",
-      "hot_value": "147 万热度",
-      "index": 7
-    },
-    {
-      "title": "巴西总统卢拉赢得连任，巴西主题 ETF 大跌，巴西 ETF 华夏、巴西 ETF 易方达跌停，如何解读？",
-      "url": "https://www.zhihu.com/question/2097997813539943104",
-      "hot_value": "125 万热度",
-      "index": 8
-    },
-    {
-      "title": "为什么晚上更容易 emo？是白天太忙没空难过，还是夜晚本身有某种「情绪放大器」？",
-      "url": "https://www.zhihu.com/question/2088451595327518118",
-      "hot_value": "102 万热度",
-      "index": 9
     },
     {
       "title": "是《兰香如故》里面冻死一个兵部尚书严重，还是《琅琊榜》里面噶掉自家七万精锐严重？",
       "url": "https://www.zhihu.com/question/2096914874018305602",
-      "hot_value": "87 万热度",
+      "hot_value": "188 万热度",
+      "index": 6
+    },
+    {
+      "title": "西甲主席及官方发布声明，为姆巴佩言论深表遗憾，向中国球迷致以诚挚的歉意，此事对西甲联赛影响有多大？",
+      "url": "https://www.zhihu.com/question/2098491499767750682",
+      "hot_value": "184 万热度",
+      "index": 7
+    },
+    {
+      "title": "AL 的 S16 赛事全部结束，如何评价他们在本届赛事上的表现？",
+      "url": "https://www.zhihu.com/question/2098306923565209096",
+      "hot_value": "179 万热度",
+      "index": 8
+    },
+    {
+      "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
+      "url": "https://www.zhihu.com/question/2096860633161545316",
+      "hot_value": "164 万热度",
+      "index": 9
+    },
+    {
+      "title": "富士康员工回应 iPhoneDuo 裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
+      "url": "https://www.zhihu.com/question/2098450605354087492",
+      "hot_value": "144 万热度",
       "index": 10
     },
     {
-      "title": "为什么韩国吃不起肉，却有韩式炸鸡、韩式烤肉等美食呢？",
-      "url": "https://www.zhihu.com/question/1978156984063780703",
-      "hot_value": "85 万热度",
+      "title": "打了马赛克的二维码被 AI 完整复原，原理是什么？什么样的遮挡才真的防 AI 破解？",
+      "url": "https://www.zhihu.com/question/2097626035961455067",
+      "hot_value": "116 万热度",
       "index": 11
     },
     {
       "title": "基金经理重仓 AI 巨亏公开致歉，称没必要低位离场，等流动性恢复，当基金经理也靠信仰持股，算不算风险信号？",
       "url": "https://www.zhihu.com/question/2096884168970061409",
-      "hot_value": "83 万热度",
+      "hot_value": "112 万热度",
       "index": 12
     },
     {
       "title": "东鹏饮料等品牌紧急切割姆巴佩，这种情况品牌用不用赔违约金？已付代言费、物料成本还能追回吗？",
       "url": "https://www.zhihu.com/question/2098358966568882239",
-      "hot_value": "82 万热度",
+      "hot_value": "106 万热度",
       "index": 13
     },
     {
-      "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
-      "url": "https://www.zhihu.com/question/2096860633161545316",
-      "hot_value": "81 万热度",
+      "title": "如何看待网友发布的 30 系及 40 系显卡的 GPU 算力解锁工具 gpu-unlock？",
+      "url": "https://www.zhihu.com/question/2097550220158571365",
+      "hot_value": "100 万热度",
       "index": 14
     },
     {
       "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
       "url": "https://www.zhihu.com/question/2098331248469062137",
-      "hot_value": "80 万热度",
+      "hot_value": "99 万热度",
       "index": 15
     },
     {
       "title": "毛不易婚礼致辞事件会对他的事业造成影响吗？",
       "url": "https://www.zhihu.com/question/2098125716218803635",
-      "hot_value": "80 万热度",
+      "hot_value": "98 万热度",
       "index": 16
     },
     {
-      "title": "《影之刃零》确认包含 30 种主武器且不做完美平衡，如何看待这种设计理念？",
-      "url": "https://www.zhihu.com/question/2094915579853512976",
-      "hot_value": "80 万热度",
+      "title": "为什么韩国吃不起肉，却有韩式炸鸡、韩式烤肉等美食呢？",
+      "url": "https://www.zhihu.com/question/1978156984063780703",
+      "hot_value": "98 万热度",
       "index": 17
     },
     {
-      "title": "苹果 iPad mini 8 发布，首搭 OLED 屏幕，起售价 5499 元，还有哪些亮点值得关注？",
-      "url": "https://www.zhihu.com/question/2098169752493486112",
-      "hot_value": "79 万热度",
+      "title": "樱井政博怒斥 AI 游戏只是「无法游玩的抄袭品」，为什么 AI 能生成完美代码和美术，却很难做得「好玩」？",
+      "url": "https://www.zhihu.com/question/2096639617629939625",
+      "hot_value": "82 万热度",
       "index": 18
     },
     {
-      "title": "高校 10 万元重奖「课讲得好」且评优可直接评职称，能否扭转「重科研轻教学」的现状？",
-      "url": "https://www.zhihu.com/question/2098059478474277764",
-      "hot_value": "79 万热度",
+      "title": "Knight 赛后采访称「我认为今年和 S14 很接近，我想再次冲击冠军」，今年的 BLG 有戏吗？",
+      "url": "https://www.zhihu.com/question/2098420897484727531",
+      "hot_value": "76 万热度",
       "index": 19
     },
     {
       "title": "同事老是跟我抱怨公司待遇，我让他找领导谈他又不肯，但是我听着很烦，该怎么处理？",
       "url": "https://www.zhihu.com/question/2056407207177201120",
-      "hot_value": "77 万热度",
+      "hot_value": "76 万热度",
       "index": 20
     },
     {
       "title": "如何看待张一鸣以 6700 亿元登顶中国首富，刷新中国首富财富纪录？今年的胡润百富榜有哪些新变化？",
       "url": "https://www.zhihu.com/question/2098365544483255409",
-      "hot_value": "77 万热度",
+      "hot_value": "76 万热度",
       "index": 21
     },
     {
@@ -137,51 +137,51 @@
       "index": 22
     },
     {
-      "title": "是否存在既容易泛滥成灾、也好吃的一种动物？",
-      "url": "https://www.zhihu.com/question/2096912079844389508",
+      "title": "wargame 运动，为什么会走向衰亡？",
+      "url": "https://www.zhihu.com/question/60416952",
       "hot_value": "76 万热度",
       "index": 23
     },
     {
-      "title": "在腾冲旅游是什么感受？",
-      "url": "https://www.zhihu.com/question/288374421",
-      "hot_value": "69 万热度",
+      "title": "巴西总统卢拉赢得连任，巴西主题 ETF 大跌，巴西 ETF 华夏、巴西 ETF 易方达跌停，如何解读？",
+      "url": "https://www.zhihu.com/question/2097997813539943104",
+      "hot_value": "74 万热度",
       "index": 24
     },
     {
-      "title": "你对大学生活有什么规划和建议？",
-      "url": "https://www.zhihu.com/question/64499302",
-      "hot_value": "66 万热度",
+      "title": "用什么做捞面条卤最快最方便？",
+      "url": "https://www.zhihu.com/question/2005701508101068025",
+      "hot_value": "70 万热度",
       "index": 25
     },
     {
       "title": "央视网发文称「唯快不破该降温了」，直指速成车等乱象，这释放了哪些信号？",
       "url": "https://www.zhihu.com/question/2098093488340460566",
-      "hot_value": "66 万热度",
+      "hot_value": "70 万热度",
       "index": 26
     },
     {
-      "title": "为什么中国人都执着于买房而不是租房？",
-      "url": "https://www.zhihu.com/question/1977726435545346620",
-      "hot_value": "66 万热度",
+      "title": "高校 10 万元重奖「课讲得好」且评优可直接评职称，能否扭转「重科研轻教学」的现状？",
+      "url": "https://www.zhihu.com/question/2098059478474277764",
+      "hot_value": "70 万热度",
       "index": 27
     },
     {
-      "title": "跟跨部门领导的关系很好，自己部门领导感觉阴阳怪气的，怎么办！求职场大佬解答？",
-      "url": "https://www.zhihu.com/question/1929981614986862871",
-      "hot_value": "66 万热度",
+      "title": "孩子生病了，不想上学，也不想写作业，应该支持吗？",
+      "url": "https://www.zhihu.com/question/8542551267",
+      "hot_value": "69 万热度",
       "index": 28
     },
     {
-      "title": "大佬们能分享一下你们是如何搭建自己的 AI 知识库吗？",
-      "url": "https://www.zhihu.com/question/2018865141895180325",
-      "hot_value": "65 万热度",
+      "title": "性格窝囊内向怎么办？怎么改？",
+      "url": "https://www.zhihu.com/question/2096529416914474792",
+      "hot_value": "68 万热度",
       "index": 29
     },
     {
-      "title": "为什么中餐少用柠檬？",
-      "url": "https://www.zhihu.com/question/603953173",
-      "hot_value": "63 万热度",
+      "title": "作为体制内两年的工作人员，写材料还是会有错别字的情况，如何改正？",
+      "url": "https://www.zhihu.com/question/2045613416711180926",
+      "hot_value": "68 万热度",
       "index": 30
     }
   ]
