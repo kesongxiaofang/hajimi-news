@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-28T15:41:24Z",
+  "update_time": "2026-10-28T20:44:06Z",
   "count": 30,
   "list": [
     {
-      "title": "《异环》1.5版本前瞻特别节目回顾",
-      "url": "https://www.bilibili.com/video/BV1AtxT6tETW",
-      "hot_value": "397640播放",
-      "index": 1
-    },
-    {
-      "title": "爸爸去哪儿 x Counting Stars",
-      "url": "https://www.bilibili.com/video/BV1HYnh6CEJc",
-      "hot_value": "1036598播放",
-      "index": 2
-    },
-    {
       "title": "奶奶的皱纹里，藏着我一生的甜与暖",
       "url": "https://www.bilibili.com/video/BV1chxT6xEyo",
-      "hot_value": "1094320播放",
-      "index": 3
-    },
-    {
-      "title": "特朗普为了中期大选真拼了",
-      "url": "https://www.bilibili.com/video/BV1znxg6fEKA",
-      "hot_value": "1244705播放",
-      "index": 4
-    },
-    {
-      "title": "做了一个错误的决定： 信了贵州辣卤不辣！",
-      "url": "https://www.bilibili.com/video/BV1fexT6pEQr",
-      "hot_value": "1095509播放",
-      "index": 5
-    },
-    {
-      "title": "一瞬成刃【听伊莫不emo 02】",
-      "url": "https://www.bilibili.com/video/BV1xtxu6KEaz",
-      "hot_value": "1217299播放",
-      "index": 6
-    },
-    {
-      "title": "东北八大怪之大缸小缸腌酸菜",
-      "url": "https://www.bilibili.com/video/BV1VDxT6kEFL",
-      "hot_value": "1434903播放",
-      "index": 7
-    },
-    {
-      "title": "【2026王者荣耀共创之夜】晚会完整回放",
-      "url": "https://www.bilibili.com/video/BV1zoxM64E9B",
-      "hot_value": "931011播放",
-      "index": 8
-    },
-    {
-      "title": "对中国34个省的刻板印象",
-      "url": "https://www.bilibili.com/video/BV1oenS6REGE",
-      "hot_value": "1270857播放",
-      "index": 9
-    },
-    {
-      "title": "被人买凶杀死的自媒体人徽剑【热点详解01】",
-      "url": "https://www.bilibili.com/video/BV1mdxN68E7F",
-      "hot_value": "2114312播放",
-      "index": 10
-    },
-    {
-      "title": "“我会亲手阻止你！”",
-      "url": "https://www.bilibili.com/video/BV1FRx76SEB7",
-      "hot_value": "269587播放",
-      "index": 11
-    },
-    {
-      "title": "永远和你在一起",
-      "url": "https://www.bilibili.com/video/BV1hmx56oEPg",
-      "hot_value": "585780播放",
-      "index": 12
+      "hot_value": "1460540播放",
+      "index": 1
     },
     {
       "title": "万万没想到！下完雨的小塘藏着这么大的货",
       "url": "https://www.bilibili.com/video/BV1HunX6zEYa",
-      "hot_value": "863810播放",
-      "index": 13
+      "hot_value": "1163866播放",
+      "index": 2
     },
     {
-      "title": "男生最怕的事也莫过于此",
-      "url": "https://www.bilibili.com/video/BV1eyxj6qEjF",
-      "hot_value": "186923播放",
-      "index": 14
+      "title": "鲸鲸，跑起来吧",
+      "url": "https://www.bilibili.com/video/BV1Qwx56bEig",
+      "hot_value": "271749播放",
+      "index": 3
     },
     {
       "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
       "url": "https://www.bilibili.com/video/BV1U3x56HE7v",
-      "hot_value": "398750播放",
-      "index": 15
+      "hot_value": "536930播放",
+      "index": 4
     },
     {
-      "title": "【捉迷躲猫王】😱太阴了躲在粪坑下面？？大哥你无敌了啊？！废弃监狱超高难度捉迷藏~！",
-      "url": "https://www.bilibili.com/video/BV1KwxM6NESD",
-      "hot_value": "1111260播放",
-      "index": 16
-    },
-    {
-      "title": "刚用四天iPhone Duo，喀嚓一声炸屏了",
-      "url": "https://www.bilibili.com/video/BV1hoxu6jEt8",
-      "hot_value": "1033406播放",
-      "index": 17
-    },
-    {
-      "title": "《信》信仰是什么",
-      "url": "https://www.bilibili.com/video/BV1TanZ6FEu2",
-      "hot_value": "815893播放",
-      "index": 18
-    },
-    {
-      "title": "“一丝温脉相牵，爱藏岁岁流年”【把回忆拼好给你DJ-变速】【母子连心の小曲】",
-      "url": "https://www.bilibili.com/video/BV1Bnxg6fEuq",
-      "hot_value": "416279播放",
-      "index": 19
-    },
-    {
-      "title": "疯狂十六强，启动！",
-      "url": "https://www.bilibili.com/video/BV1kaxT6RETB",
-      "hot_value": "1556282播放",
-      "index": 20
-    },
-    {
-      "title": "在F1赛道里提车，我终于拿到“大结果”了！",
-      "url": "https://www.bilibili.com/video/BV1qFxu6sE2v",
-      "hot_value": "60389播放",
-      "index": 21
-    },
-    {
-      "title": "可观测宇宙最可爱的古风大肥鱼",
-      "url": "https://www.bilibili.com/video/BV16VxM6dEeb",
-      "hot_value": "1720975播放",
-      "index": 22
-    },
-    {
-      "title": "胎盘是如何照顾胎儿的-山东方言",
-      "url": "https://www.bilibili.com/video/BV1o1nd6rE8j",
-      "hot_value": "847956播放",
-      "index": 23
-    },
-    {
-      "title": "《胡闹厨房》",
-      "url": "https://www.bilibili.com/video/BV1Xun96tEjo",
-      "hot_value": "2806593播放",
-      "index": 24
-    },
-    {
-      "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
-      "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
-      "hot_value": "2191899播放",
-      "index": 25
+      "title": "爸爸去哪儿 x Counting Stars",
+      "url": "https://www.bilibili.com/video/BV1HYnh6CEJc",
+      "hot_value": "1220423播放",
+      "index": 5
     },
     {
       "title": "AL十六强单曲《游过太平洋》",
       "url": "https://www.bilibili.com/video/BV1QSxT6GE64",
-      "hot_value": "793054播放",
-      "index": 26
+      "hot_value": "909614播放",
+      "index": 6
     },
     {
-      "title": "挑战穿轮滑鞋全程爬武功山登顶后在滑下来",
-      "url": "https://www.bilibili.com/video/BV1rLxM6sEPk",
-      "hot_value": "920414播放",
-      "index": 27
+      "title": "【捉迷躲猫王】😱太阴了躲在粪坑下面？？大哥你无敌了啊？！废弃监狱超高难度捉迷藏~！",
+      "url": "https://www.bilibili.com/video/BV1KwxM6NESD",
+      "hot_value": "1346271播放",
+      "index": 7
     },
     {
-      "title": "⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV14zHV6zE9m",
-      "hot_value": "933507播放",
-      "index": 28
+      "title": "永远和你在一起",
+      "url": "https://www.bilibili.com/video/BV1hmx56oEPg",
+      "hot_value": "664125播放",
+      "index": 8
     },
     {
-      "title": "不错的治愈电影",
-      "url": "https://www.bilibili.com/video/BV1iCn96NEH5",
-      "hot_value": "796579播放",
-      "index": 29
+      "title": "做了一个错误的决定： 信了贵州辣卤不辣！",
+      "url": "https://www.bilibili.com/video/BV1fexT6pEQr",
+      "hot_value": "1305262播放",
+      "index": 9
+    },
+    {
+      "title": "男生最怕的事也莫过于此",
+      "url": "https://www.bilibili.com/video/BV1eyxj6qEjF",
+      "hot_value": "343775播放",
+      "index": 10
+    },
+    {
+      "title": "东西伯利亚棕熊泛滥成灾，朋友让我帮忙清理熊患。#国外合法狩猎",
+      "url": "https://www.bilibili.com/video/BV1jWnX6FE5K",
+      "hot_value": "1063965播放",
+      "index": 11
+    },
+    {
+      "title": "特朗普为了中期大选真拼了",
+      "url": "https://www.bilibili.com/video/BV1znxg6fEKA",
+      "hot_value": "1401662播放",
+      "index": 12
+    },
+    {
+      "title": "“一丝温脉相牵，爱藏岁岁流年”【把回忆拼好给你DJ-变速】【母子连心の小曲】",
+      "url": "https://www.bilibili.com/video/BV1Bnxg6fEuq",
+      "hot_value": "535457播放",
+      "index": 13
+    },
+    {
+      "title": "东北八大怪之大缸小缸腌酸菜",
+      "url": "https://www.bilibili.com/video/BV1VDxT6kEFL",
+      "hot_value": "1731243播放",
+      "index": 14
+    },
+    {
+      "title": "刚用四天iPhone Duo，喀嚓一声炸屏了",
+      "url": "https://www.bilibili.com/video/BV1hoxu6jEt8",
+      "hot_value": "1156003播放",
+      "index": 15
+    },
+    {
+      "title": "疯狂十六强，启动！",
+      "url": "https://www.bilibili.com/video/BV1kaxT6RETB",
+      "hot_value": "1700724播放",
+      "index": 16
+    },
+    {
+      "title": "王老菊教你童叟无欺",
+      "url": "https://www.bilibili.com/video/BV1jfxL6uEHJ",
+      "hot_value": "249978播放",
+      "index": 17
+    },
+    {
+      "title": "没想到小王这小子这么记仇！",
+      "url": "https://www.bilibili.com/video/BV11gxg6iEAW",
+      "hot_value": "699924播放",
+      "index": 18
+    },
+    {
+      "title": "对中国34个省的刻板印象",
+      "url": "https://www.bilibili.com/video/BV1oenS6REGE",
+      "hot_value": "1345553播放",
+      "index": 19
+    },
+    {
+      "title": "被人买凶杀死的自媒体人徽剑【热点详解01】",
+      "url": "https://www.bilibili.com/video/BV1mdxN68E7F",
+      "hot_value": "2265173播放",
+      "index": 20
     },
     {
       "title": "《不烧心》",
       "url": "https://www.bilibili.com/video/BV1WCnt6gE9X",
-      "hot_value": "1563175播放",
+      "hot_value": "1684833播放",
+      "index": 21
+    },
+    {
+      "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
+      "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
+      "hot_value": "2307689播放",
+      "index": 22
+    },
+    {
+      "title": "不错的治愈电影",
+      "url": "https://www.bilibili.com/video/BV1iCn96NEH5",
+      "hot_value": "871019播放",
+      "index": 23
+    },
+    {
+      "title": "⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV14zHV6zE9m",
+      "hot_value": "1035544播放",
+      "index": 24
+    },
+    {
+      "title": "姆巴佩发表涉华不当言论！全网封杀！没有中国市场，姆巴佩会失去什么？",
+      "url": "https://www.bilibili.com/video/BV1XSxT6GEwQ",
+      "hot_value": "3049307播放",
+      "index": 25
+    },
+    {
+      "title": "贴脸特写，是每个野生动物摄影师的必备技能！",
+      "url": "https://www.bilibili.com/video/BV16nxg6fE3s",
+      "hot_value": "424030播放",
+      "index": 26
+    },
+    {
+      "title": "耻辱淘汰！万字复盘LPL一号种子AL16强回家全过程！",
+      "url": "https://www.bilibili.com/video/BV1Wox56DERQ",
+      "hot_value": "676130播放",
+      "index": 27
+    },
+    {
+      "title": "中国买走秘鲁76%的铜，为啥还是“外人”？",
+      "url": "https://www.bilibili.com/video/BV1mZxj6ZEz3",
+      "hot_value": "333509播放",
+      "index": 28
+    },
+    {
+      "title": "挑战穿轮滑鞋全程爬武功山登顶后在滑下来",
+      "url": "https://www.bilibili.com/video/BV1rLxM6sEPk",
+      "hot_value": "984053播放",
+      "index": 29
+    },
+    {
+      "title": "挑战花一整天的时间，用新出红米笔记本2027不插电重制5年前的游戏！",
+      "url": "https://www.bilibili.com/video/BV1RRx36sEpB",
+      "hot_value": "195574播放",
       "index": 30
     }
   ]
