@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-10-27T23:01:41Z",
+  "update_time": "2026-10-28T02:28:56Z",
   "count": 30,
   "list": [
     {
-      "title": "外交部回应姆巴佩代言解约事件，「伤害中国人民感情的言行自然会遭到中国社会各界的共同抵制」，这有何警示？",
-      "url": "https://www.zhihu.com/question/2098468913931608699",
-      "hot_value": "1229 万热度",
+      "title": "姆巴佩本人、西甲都发声道歉了，为啥皇马一直不道歉？皇马称姆巴佩仅代表个人，是这样吗？皇马会受多大影响？",
+      "url": "https://www.zhihu.com/question/2098548543086490169",
+      "hot_value": "3913 万热度",
       "index": 1
     },
     {
-      "title": "央视已全面叫停涉及姆巴佩的赛事和广告播出，姆巴佩社交账号被禁言，此次风波带来的连锁反应有多大？",
-      "url": "https://www.zhihu.com/question/2098431727324619649",
-      "hot_value": "1086 万热度",
+      "title": "DeepSeek 新版模型单周调用量登顶全球首位，环比暴增 801%，该模型为什么能实现登顶？意味着什么？",
+      "url": "https://www.zhihu.com/question/2098096577525172086",
+      "hot_value": "418 万热度",
       "index": 2
     },
     {
       "title": "微软向约 60000 名员工开放自愿离职方案，背后有哪些商业考量？为何没有选择强制裁员？",
       "url": "https://www.zhihu.com/question/2098214224841461913",
-      "hot_value": "212 万热度",
+      "hot_value": "395 万热度",
       "index": 3
     },
     {
-      "title": "富士康员工回应 iPhoneDuo 裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
-      "url": "https://www.zhihu.com/question/2098450605354087492",
-      "hot_value": "138 万热度",
+      "title": "发布姆巴佩争议言论的节目组《The Bridge》发布英法双语致歉声明，如何看待此次回应？",
+      "url": "https://www.zhihu.com/question/2098681014188864935",
+      "hot_value": "314 万热度",
       "index": 4
     },
     {
-      "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
-      "url": "https://www.zhihu.com/question/2096860633161545316",
-      "hot_value": "119 万热度",
+      "title": "姆巴佩因争议言论被国内品牌集体解约，他这回要付出的代价到底有多大？",
+      "url": "https://www.zhihu.com/question/2098428685644555023",
+      "hot_value": "233 万热度",
       "index": 5
     },
     {
-      "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，被法院判属退还，你怎么看？",
-      "url": "https://www.zhihu.com/question/2098369407378629230",
-      "hot_value": "111 万热度",
+      "title": "领导叫我走人不用来上班了，我录音了，然后我走了，领导这算违法辞退吗？",
+      "url": "https://www.zhihu.com/question/1898518283516347485",
+      "hot_value": "224 万热度",
       "index": 6
     },
     {
-      "title": "西甲主席及官方发布声明，为姆巴佩言论深表遗憾，向中国球迷致以诚挚的歉意，此事对西甲联赛影响有多大？",
-      "url": "https://www.zhihu.com/question/2098491499767750682",
-      "hot_value": "106 万热度",
+      "title": "如何看待极客湾最新视频《旗舰手机芯片大横评》？",
+      "url": "https://www.zhihu.com/question/2098461659014681187",
+      "hot_value": "219 万热度",
       "index": 7
     },
     {
-      "title": "如何看待网友发布的 30 系及 40 系显卡的 GPU 算力解锁工具 gpu-unlock？",
-      "url": "https://www.zhihu.com/question/2097550220158571365",
-      "hot_value": "102 万热度",
+      "title": "黑龙江一婚宴设「外卖席」，每人 100 餐标吃奶茶炸鸡麻辣烫，你支持这种创新吗？是否需要更考虑场合？",
+      "url": "https://www.zhihu.com/question/2098418271040921867",
+      "hot_value": "214 万热度",
       "index": 8
-    },
-    {
-      "title": "红果短剧引发年轻人「戒断潮」，如何看待这一现象？短剧为何让人欲罢不能？",
-      "url": "https://www.zhihu.com/question/2097994971261542927",
-      "hot_value": "98 万热度",
-      "index": 9
-    },
-    {
-      "title": "基金经理重仓 AI 巨亏公开致歉，称没必要低位离场，等流动性恢复，当基金经理也靠信仰持股，算不算风险信号？",
-      "url": "https://www.zhihu.com/question/2096884168970061409",
-      "hot_value": "97 万热度",
-      "index": 10
-    },
-    {
-      "title": "应届生找第一份工作，如果面临「大公司边缘岗」和「小公司核心岗」，如何选择？哪个对长期职业发展更有利？",
-      "url": "https://www.zhihu.com/question/2097098383693557840",
-      "hot_value": "81 万热度",
-      "index": 11
-    },
-    {
-      "title": "巴西总统卢拉赢得连任，巴西主题 ETF 大跌，巴西 ETF 华夏、巴西 ETF 易方达跌停，如何解读？",
-      "url": "https://www.zhihu.com/question/2097997813539943104",
-      "hot_value": "72 万热度",
-      "index": 12
-    },
-    {
-      "title": "东鹏饮料等品牌紧急切割姆巴佩，这种情况品牌用不用赔违约金？已付代言费、物料成本还能追回吗？",
-      "url": "https://www.zhihu.com/question/2098358966568882239",
-      "hot_value": "66 万热度",
-      "index": 13
-    },
-    {
-      "title": "wargame 运动，为什么会走向衰亡？",
-      "url": "https://www.zhihu.com/question/60416952",
-      "hot_value": "60 万热度",
-      "index": 14
-    },
-    {
-      "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
-      "url": "https://www.zhihu.com/question/2098331248469062137",
-      "hot_value": "59 万热度",
-      "index": 15
-    },
-    {
-      "title": "毛不易婚礼致辞事件会对他的事业造成影响吗？",
-      "url": "https://www.zhihu.com/question/2098125716218803635",
-      "hot_value": "59 万热度",
-      "index": 16
-    },
-    {
-      "title": "是《兰香如故》里面冻死一个兵部尚书严重，还是《琅琊榜》里面噶掉自家七万精锐严重？",
-      "url": "https://www.zhihu.com/question/2096914874018305602",
-      "hot_value": "59 万热度",
-      "index": 17
-    },
-    {
-      "title": "打了马赛克的二维码被 AI 完整复原，原理是什么？什么样的遮挡才真的防 AI 破解？",
-      "url": "https://www.zhihu.com/question/2097626035961455067",
-      "hot_value": "59 万热度",
-      "index": 18
-    },
-    {
-      "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗？",
-      "url": "https://www.zhihu.com/question/2095940115537334577",
-      "hot_value": "59 万热度",
-      "index": 19
-    },
-    {
-      "title": "同事老是跟我抱怨公司待遇，我让他找领导谈他又不肯，但是我听着很烦，该怎么处理？",
-      "url": "https://www.zhihu.com/question/2056407207177201120",
-      "hot_value": "59 万热度",
-      "index": 20
-    },
-    {
-      "title": "如何看待张一鸣以 6700 亿元登顶中国首富，刷新中国首富财富纪录？今年的胡润百富榜有哪些新变化？",
-      "url": "https://www.zhihu.com/question/2098365544483255409",
-      "hot_value": "58 万热度",
-      "index": 21
-    },
-    {
-      "title": "你是更喜欢古法编程的时代，还是更喜欢 vibe coding 的时代？",
-      "url": "https://www.zhihu.com/question/2055971021757354301",
-      "hot_value": "58 万热度",
-      "index": 22
     },
     {
       "title": "Knight 赛后采访称「我认为今年和 S14 很接近，我想再次冲击冠军」，今年的 BLG 有戏吗？",
       "url": "https://www.zhihu.com/question/2098420897484727531",
-      "hot_value": "58 万热度",
+      "hot_value": "195 万热度",
+      "index": 9
+    },
+    {
+      "title": "曝国产 TOP5 厂商将集体入局阔直板手机，这一形态会成为未来主流吗？",
+      "url": "https://www.zhihu.com/question/2098187701409297325",
+      "hot_value": "179 万热度",
+      "index": 10
+    },
+    {
+      "title": "反诈博主「徽剑」遇害家属称被逼签谅解书，还有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2098520029004292144",
+      "hot_value": "173 万热度",
+      "index": 11
+    },
+    {
+      "title": "西游记，那个冒充乌鸡国王的妖怪，有何目的，不贪财也不图色？",
+      "url": "https://www.zhihu.com/question/426313664",
+      "hot_value": "167 万热度",
+      "index": 12
+    },
+    {
+      "title": "富士康员工回应 iPhoneDuo 裂屏，称产能吃紧苹果曾降低良率质检标准，是真的吗？消费者能要求赔偿吗？",
+      "url": "https://www.zhihu.com/question/2098450605354087492",
+      "hot_value": "161 万热度",
+      "index": 13
+    },
+    {
+      "title": "以色列议会选举投票结束，出口民调显示内塔尼亚胡阵营未过半，如何理解这一结果？内塔尼亚胡会面临什么下场？",
+      "url": "https://www.zhihu.com/question/2098347359297959735",
+      "hot_value": "154 万热度",
+      "index": 14
+    },
+    {
+      "title": "有哪些你觉得是常识，但大部分人好像并不知道的事？",
+      "url": "https://www.zhihu.com/question/422686198",
+      "hot_value": "148 万热度",
+      "index": 15
+    },
+    {
+      "title": "LPL 历史上最弱的一号种子是哪只队伍？",
+      "url": "https://www.zhihu.com/question/2097984777059922710",
+      "hot_value": "144 万热度",
+      "index": 16
+    },
+    {
+      "title": "巴西总统大选落败者博索纳罗已前往美国，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2098558261054136483",
+      "hot_value": "144 万热度",
+      "index": 17
+    },
+    {
+      "title": "健身两年多，完全没有效果，是什么原因？",
+      "url": "https://www.zhihu.com/question/2040747986096019157",
+      "hot_value": "144 万热度",
+      "index": 18
+    },
+    {
+      "title": "如何看待姆巴佩发布道歉声明之后，央视总台表态希望相关方吸取教训、痛改前非，同时提出听其言更观其行？",
+      "url": "https://www.zhihu.com/question/2098532158843494532",
+      "hot_value": "143 万热度",
+      "index": 19
+    },
+    {
+      "title": "《倚天》中，小昭为什么甘愿做张无忌的丫鬟而不想嫁给他？",
+      "url": "https://www.zhihu.com/question/531862736",
+      "hot_value": "139 万热度",
+      "index": 20
+    },
+    {
+      "title": "巴西大选卢拉首轮落后两百余万票终逆转翻盘，他做对了什么？",
+      "url": "https://www.zhihu.com/question/2098055490227921242",
+      "hot_value": "137 万热度",
+      "index": 21
+    },
+    {
+      "title": "在当今技术下，24 小时内用 AI 克隆一款完整游戏并抢先上架 Steam，这种「像素级截胡」真能实现吗？",
+      "url": "https://www.zhihu.com/question/2096660793991357734",
+      "hot_value": "136 万热度",
+      "index": 22
+    },
+    {
+      "title": "Anthropic 员工总数 5300 人，人均营收超 660 万美元，如何看待如此之高的人均创收？",
+      "url": "https://www.zhihu.com/question/2098412564841329369",
+      "hot_value": "135 万热度",
       "index": 23
     },
     {
-      "title": "用什么做捞面条卤最快最方便？",
-      "url": "https://www.zhihu.com/question/2005701508101068025",
-      "hot_value": "58 万热度",
+      "title": "听别人的就是「没主见」，不听别人的就是「固执」，所以到底要不要听？",
+      "url": "https://www.zhihu.com/question/2095669644967396306",
+      "hot_value": "126 万热度",
       "index": 24
     },
     {
-      "title": "如何评价佛山这座城市？",
-      "url": "https://www.zhihu.com/question/2004552535361483606",
-      "hot_value": "58 万热度",
+      "title": "红果短剧成立 3 年，2026 年收入预测超过 400 亿，有望追上甚至超越全国电影院总票房，如何评价这股势头？",
+      "url": "https://www.zhihu.com/question/2098443203879723486",
+      "hot_value": "117 万热度",
       "index": 25
     },
     {
-      "title": "央视网发文称「唯快不破该降温了」，直指速成车等乱象，这释放了哪些信号？",
-      "url": "https://www.zhihu.com/question/2098093488340460566",
-      "hot_value": "58 万热度",
+      "title": "7 岁娃孩子突然说出也想给妈妈省钱的话，当妈的应该开心吗？",
+      "url": "https://www.zhihu.com/question/1935774276033699850",
+      "hot_value": "110 万热度",
       "index": 26
     },
     {
-      "title": "高校 10 万元重奖「课讲得好」且评优可直接评职称，能否扭转「重科研轻教学」的现状？",
-      "url": "https://www.zhihu.com/question/2098059478474277764",
-      "hot_value": "58 万热度",
+      "title": "应届生找第一份工作，如果面临「大公司边缘岗」和「小公司核心岗」，如何选择？哪个对长期职业发展更有利？",
+      "url": "https://www.zhihu.com/question/2097098383693557840",
+      "hot_value": "103 万热度",
       "index": 27
     },
     {
-      "title": "秦末岭南军团为什么不回援？",
-      "url": "https://www.zhihu.com/question/640432928",
-      "hot_value": "58 万热度",
+      "title": "当孩子问起你的童年，你会如实告诉他那些不快乐吗？",
+      "url": "https://www.zhihu.com/question/2094507271107639011",
+      "hot_value": "102 万热度",
       "index": 28
     },
     {
-      "title": "如何评价国乒在 2026 年亚锦赛 4 金 4 银 4 铜收官，林诗栋减项全胜、李天阳打进决赛、陈熠女单登顶的表现？",
-      "url": "https://www.zhihu.com/question/2097962353572712710",
-      "hot_value": "58 万热度",
+      "title": "银行将存 2500 元错输成 25000 元，储户拒退称「离柜概不负责」，被法院判属退还，你怎么看？",
+      "url": "https://www.zhihu.com/question/2098369407378629230",
+      "hot_value": "100 万热度",
       "index": 29
     },
     {
-      "title": "网友说「桂花香是一种非牛顿流体」，越用力闻气味越淡，越不用力闻气味越浓，这种说法有道理吗？",
-      "url": "https://www.zhihu.com/question/2096546865890190209",
-      "hot_value": "58 万热度",
+      "title": "李寻欢为什么要把自己搞得那么苦？",
+      "url": "https://www.zhihu.com/question/599921015",
+      "hot_value": "89 万热度",
       "index": 30
     }
   ]
