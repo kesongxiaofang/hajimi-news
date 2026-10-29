@@ -1,7 +1,7 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-10-29T00:33:52Z",
+  "update_time": "2026-10-29T06:42:39Z",
   "count": 20,
   "list": [
     {
@@ -35,14 +35,14 @@
       "index": 5
     },
     {
-      "title": "国台办回应蔡康永发文称“没有支持过‘台独’”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34349079",
+      "title": "皇马就姆巴佩错误言论道歉",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34351419",
       "hot_value": "",
       "index": 6
     },
     {
-      "title": "皇马就姆巴佩错误言论道歉",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34351419",
+      "title": "华为“天才少年”杨玉雯加盟南京大学",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34353444",
       "hot_value": "",
       "index": 7
     },
@@ -53,68 +53,68 @@
       "index": 8
     },
     {
-      "title": "反诈博主“徽剑”遭买凶杀害，好友追忆：他经营教培公司，出于正义感反诈",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34349408",
+      "title": "言短意长｜“双头虾”闹剧，重创的是科普出版的科学信誉",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34349995",
       "hot_value": "",
       "index": 9
     },
     {
-      "title": "马上评｜“扫码缴费先看广告”不能再继续了",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34349086",
+      "title": "马上评｜三丽鸥道歉，“可爱”不是遮羞布",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34357576",
       "hot_value": "",
       "index": 10
     },
     {
-      "title": "言短意长｜“双头虾”闹剧，重创的是科普出版的科学信誉",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34349995",
+      "title": "媒体：“坚持一个中国政策”！巴基斯坦已对来自台湾地区航司关闭领空",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34357132",
       "hot_value": "",
       "index": 11
-    },
-    {
-      "title": "体坛联播｜西甲主席称与驻西班牙大使会面，阿森纳联赛杯出局",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34347913",
-      "hot_value": "",
-      "index": 12
-    },
-    {
-      "title": "西甲想当和事佬，皇马还在无所谓，傲慢的皇马还要装多久鸵鸟",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34349415",
-      "hot_value": "",
-      "index": 13
-    },
-    {
-      "title": "人民锐评：姆巴佩的“翻车”，公众人物的镜鉴",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34348063",
-      "hot_value": "",
-      "index": 14
-    },
-    {
-      "title": "云南元谋法院公示：因诈骗获刑5年罪犯再次怀孕，决定继续暂予监外执行",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34349395",
-      "hot_value": "",
-      "index": 15
     },
     {
       "title": "品牌集体解约之后，姆巴佩的“天价”账单才刚刚开始",
       "url": "https://www.thepaper.cn/newsDetail_forward_34350835",
       "hot_value": "",
-      "index": 16
+      "index": 12
+    },
+    {
+      "title": "第1现场｜西班牙再发列车相撞惨剧：已致64死，事故或因人为失误",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34351823",
+      "hot_value": "",
+      "index": 13
     },
     {
       "title": "明查｜网传“皇马发布《关于姆巴佩相关言论的说明》截图”由AI生成",
       "url": "https://www.thepaper.cn/newsDetail_forward_34350138",
       "hot_value": "",
-      "index": 17
+      "index": 14
     },
     {
-      "title": "美古联大吵到休会！美代表爆粗口让古巴代表“滚开”，“这是美国！”",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34348726",
+      "title": "记者探访｜宜家餐厅也要“消费入座”？听听商家考量与顾客感受",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34354649",
       "hot_value": "",
-      "index": 18
+      "index": 15
+    },
+    {
+      "title": "列车顶着红灯高速行驶25公里，已致68死的西班牙高铁追尾本可以避免吗？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34354047",
+      "hot_value": "",
+      "index": 16
     },
     {
       "title": "正午阳光新剧《重庆号》下月开机，孔笙执导，张若昀、胡先煦主演",
       "url": "https://www.thepaper.cn/newsDetail_forward_34349789",
+      "hot_value": "",
+      "index": 17
+    },
+    {
+      "title": "小博索纳罗携妻女“流亡”路线曝光：途径三国，经陆路转私人飞机抵美",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34354524",
+      "hot_value": "",
+      "index": 18
+    },
+    {
+      "title": "以色列大选开票在即，内塔尼亚胡：必须建立强大右翼政府",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34352774",
       "hot_value": "",
       "index": 19
     },
