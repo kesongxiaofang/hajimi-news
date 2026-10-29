@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-10-29T06:42:39Z",
+  "update_time": "2026-10-29T13:54:20Z",
   "count": 30,
   "list": [
     {
-      "title": "秋日山野漫游",
-      "url": "https://www.douyin.com/search/%E7%A7%8B%E6%97%A5%E5%B1%B1%E9%87%8E%E6%BC%AB%E6%B8%B8?type=general",
-      "hot_value": "11599181",
+      "title": "中共中央30日上午举行新闻发布会",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE30%E6%97%A5%E4%B8%8A%E5%8D%88%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A?type=general",
+      "hot_value": "11434124",
       "index": 1
     },
     {
-      "title": "农产品全面提质路线图确定",
-      "url": "https://www.douyin.com/search/%E5%86%9C%E4%BA%A7%E5%93%81%E5%85%A8%E9%9D%A2%E6%8F%90%E8%B4%A8%E8%B7%AF%E7%BA%BF%E5%9B%BE%E7%A1%AE%E5%AE%9A?type=general",
-      "hot_value": "11593909",
+      "title": "国防部称\"以台制华\"必付沉重代价",
+      "url": "https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%22%E4%BB%A5%E5%8F%B0%E5%88%B6%E5%8D%8E%22%E5%BF%85%E4%BB%98%E6%B2%89%E9%87%8D%E4%BB%A3%E4%BB%B7?type=general",
+      "hot_value": "11109513",
       "index": 2
+    },
+    {
+      "title": "秋日山野漫游",
+      "url": "https://www.douyin.com/search/%E7%A7%8B%E6%97%A5%E5%B1%B1%E9%87%8E%E6%BC%AB%E6%B8%B8?type=general",
+      "hot_value": "10955401",
+      "index": 3
     },
     {
       "title": "独家揭秘白鹤滩水电站",
       "url": "https://www.douyin.com/search/%E7%8B%AC%E5%AE%B6%E6%8F%AD%E7%A7%98%E7%99%BD%E9%B9%A4%E6%BB%A9%E6%B0%B4%E7%94%B5%E7%AB%99?type=general",
-      "hot_value": "11442528",
-      "index": 3
-    },
-    {
-      "title": "深圳发放APEC纪念车贴",
-      "url": "https://www.douyin.com/search/%E6%B7%B1%E5%9C%B3%E5%8F%91%E6%94%BEAPEC%E7%BA%AA%E5%BF%B5%E8%BD%A6%E8%B4%B4?type=general",
-      "hot_value": "10397082",
+      "hot_value": "10374569",
       "index": 4
     },
     {
-      "title": "三丽鸥声明与VIVANT终止合作",
-      "url": "https://www.douyin.com/search/%E4%B8%89%E4%B8%BD%E9%B8%A5%E5%A3%B0%E6%98%8E%E4%B8%8EVIVANT%E7%BB%88%E6%AD%A2%E5%90%88%E4%BD%9C?type=general",
-      "hot_value": "9228881",
+      "title": "国防部回应美日近期军演",
+      "url": "https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%97%A5%E8%BF%91%E6%9C%9F%E5%86%9B%E6%BC%94?type=general",
+      "hot_value": "10356992",
       "index": 5
     },
     {
-      "title": "买一杯咖啡来敬重自己",
-      "url": "https://www.douyin.com/search/%E4%B9%B0%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%E6%9D%A5%E6%95%AC%E9%87%8D%E8%87%AA%E5%B7%B1?type=general",
-      "hot_value": "9149358",
+      "title": "U17女足世界杯中国vs法国",
+      "url": "https://www.douyin.com/search/U17%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BDvs%E6%B3%95%E5%9B%BD?type=general",
+      "hot_value": "9264393",
       "index": 6
     },
     {
-      "title": "全国秋粮收获进度已过八成",
-      "url": "https://www.douyin.com/search/%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%BF%87%E5%85%AB%E6%88%90?type=general",
-      "hot_value": "9012911",
+      "title": "中国电影出海步伐加快",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%87%BA%E6%B5%B7%E6%AD%A5%E4%BC%90%E5%8A%A0%E5%BF%AB?type=general",
+      "hot_value": "9198955",
       "index": 7
     },
     {
       "title": "寻味城市招牌美食",
       "url": "https://www.douyin.com/search/%E5%AF%BB%E5%91%B3%E5%9F%8E%E5%B8%82%E6%8B%9B%E7%89%8C%E7%BE%8E%E9%A3%9F?type=general",
-      "hot_value": "8710058",
+      "hot_value": "9162675",
       "index": 8
     },
     {
-      "title": "皇马官方致歉",
-      "url": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89?type=general",
-      "hot_value": "8619644",
+      "title": "“理财即将变相保本”系误读政策",
+      "url": "https://www.douyin.com/search/%E2%80%9C%E7%90%86%E8%B4%A2%E5%8D%B3%E5%B0%86%E5%8F%98%E7%9B%B8%E4%BF%9D%E6%9C%AC%E2%80%9D%E7%B3%BB%E8%AF%AF%E8%AF%BB%E6%94%BF%E7%AD%96?type=general",
+      "hot_value": "8976630",
       "index": 9
     },
     {
-      "title": "历史见证田头“割麦证”",
-      "url": "https://www.douyin.com/search/%E5%8E%86%E5%8F%B2%E8%A7%81%E8%AF%81%E7%94%B0%E5%A4%B4%E2%80%9C%E5%89%B2%E9%BA%A6%E8%AF%81%E2%80%9D?type=general",
-      "hot_value": "8581071",
+      "title": "张升民同志简历",
+      "url": "https://www.douyin.com/search/%E5%BC%A0%E5%8D%87%E6%B0%91%E5%90%8C%E5%BF%97%E7%AE%80%E5%8E%86?type=general",
+      "hot_value": "7874483",
       "index": 10
     },
     {
-      "title": "火箭大胜雄鹿豪取5连胜",
-      "url": "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD%E5%A4%A7%E8%83%9C%E9%9B%84%E9%B9%BF%E8%B1%AA%E5%8F%965%E8%BF%9E%E8%83%9C?type=general",
-      "hot_value": "7784804",
+      "title": "造山女团的阿姨们太有劲了",
+      "url": "https://www.douyin.com/search/%E9%80%A0%E5%B1%B1%E5%A5%B3%E5%9B%A2%E7%9A%84%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%A4%AA%E6%9C%89%E5%8A%B2%E4%BA%86?type=general",
+      "hot_value": "7750310",
       "index": 11
     },
     {
       "title": "影之刃零正式上线",
       "url": "https://www.douyin.com/search/%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF?type=general",
-      "hot_value": "7715539",
+      "hot_value": "7747308",
       "index": 12
     },
     {
-      "title": "造山女团的阿姨们太有劲了",
-      "url": "https://www.douyin.com/search/%E9%80%A0%E5%B1%B1%E5%A5%B3%E5%9B%A2%E7%9A%84%E9%98%BF%E5%A7%A8%E4%BB%AC%E5%A4%AA%E6%9C%89%E5%8A%B2%E4%BA%86?type=general",
-      "hot_value": "7713504",
+      "title": "乌干达军方宣布“食人魔”落网",
+      "url": "https://www.douyin.com/search/%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%86%9B%E6%96%B9%E5%AE%A3%E5%B8%83%E2%80%9C%E9%A3%9F%E4%BA%BA%E9%AD%94%E2%80%9D%E8%90%BD%E7%BD%91?type=general",
+      "hot_value": "7732223",
       "index": 13
     },
     {
       "title": "76人114:109战胜步行者",
       "url": "https://www.douyin.com/search/76%E4%BA%BA114%3A109%E6%88%98%E8%83%9C%E6%AD%A5%E8%A1%8C%E8%80%85?type=general",
-      "hot_value": "7698888",
+      "hot_value": "7726132",
       "index": 14
     },
     {
-      "title": "西班牙高铁相撞已致超60人死亡",
-      "url": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%93%81%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B4%E8%B6%8560%E4%BA%BA%E6%AD%BB%E4%BA%A1?type=general",
-      "hot_value": "7694193",
+      "title": "一不小心就被挖走了",
+      "url": "https://www.douyin.com/search/%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%B0%B1%E8%A2%AB%E6%8C%96%E8%B5%B0%E4%BA%86?type=general",
+      "hot_value": "7723054",
       "index": 15
     },
     {
-      "title": "直播体验影之刃零",
-      "url": "https://www.douyin.com/search/%E7%9B%B4%E6%92%AD%E4%BD%93%E9%AA%8C%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6?type=general",
-      "hot_value": "7693399",
+      "title": "NBA高人切特来祝贺IG晋级了",
+      "url": "https://www.douyin.com/search/NBA%E9%AB%98%E4%BA%BA%E5%88%87%E7%89%B9%E6%9D%A5%E7%A5%9D%E8%B4%BAIG%E6%99%8B%E7%BA%A7%E4%BA%86?type=general",
+      "hot_value": "7709285",
       "index": 16
     },
     {
-      "title": "一身力气撑起了秦师傅的体面",
-      "url": "https://www.douyin.com/search/%E4%B8%80%E8%BA%AB%E5%8A%9B%E6%B0%94%E6%92%91%E8%B5%B7%E4%BA%86%E7%A7%A6%E5%B8%88%E5%82%85%E7%9A%84%E4%BD%93%E9%9D%A2?type=general",
-      "hot_value": "7692558",
+      "title": "无畏契约新英雄遐思上线",
+      "url": "https://www.douyin.com/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E6%96%B0%E8%8B%B1%E9%9B%84%E9%81%90%E6%80%9D%E4%B8%8A%E7%BA%BF?type=general",
+      "hot_value": "7704376",
       "index": 17
+    },
+    {
+      "title": "刘晓艳渲染大赛reaction",
+      "url": "https://www.douyin.com/search/%E5%88%98%E6%99%93%E8%89%B3%E6%B8%B2%E6%9F%93%E5%A4%A7%E8%B5%9Breaction?type=general",
+      "hot_value": "7696460",
+      "index": 18
+    },
+    {
+      "title": "这一口炒饸饹太对胃了",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%80%E5%8F%A3%E7%82%92%E9%A5%B8%E9%A5%B9%E5%A4%AA%E5%AF%B9%E8%83%83%E4%BA%86?type=general",
+      "hot_value": "7691943",
+      "index": 19
     },
     {
       "title": "现场见证IG挺进八强",
       "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81IG%E6%8C%BA%E8%BF%9B%E5%85%AB%E5%BC%BA?type=general",
-      "hot_value": "7691744",
-      "index": 18
-    },
-    {
-      "title": "魏娆上演复仇爽文",
-      "url": "https://www.douyin.com/search/%E9%AD%8F%E5%A8%86%E4%B8%8A%E6%BC%94%E5%A4%8D%E4%BB%87%E7%88%BD%E6%96%87?type=general",
-      "hot_value": "7688210",
-      "index": 19
+      "hot_value": "7680668",
+      "index": 20
     },
     {
       "title": "TheShy说会继续加油",
       "url": "https://www.douyin.com/search/TheShy%E8%AF%B4%E4%BC%9A%E7%BB%A7%E7%BB%AD%E5%8A%A0%E6%B2%B9?type=general",
-      "hot_value": "7687558",
-      "index": 20
+      "hot_value": "7680491",
+      "index": 21
+    },
+    {
+      "title": "三丽鸥声明与VIVANT终止合作",
+      "url": "https://www.douyin.com/search/%E4%B8%89%E4%B8%BD%E9%B8%A5%E5%A3%B0%E6%98%8E%E4%B8%8EVIVANT%E7%BB%88%E6%AD%A2%E5%90%88%E4%BD%9C?type=general",
+      "hot_value": "7675205",
+      "index": 22
     },
     {
       "title": "IG战胜LYON晋级8强",
       "url": "https://www.douyin.com/search/IG%E6%88%98%E8%83%9CLYON%E6%99%8B%E7%BA%A78%E5%BC%BA?type=general",
-      "hot_value": "7680348",
-      "index": 21
+      "hot_value": "7671510",
+      "index": 23
     },
     {
       "title": "萌狗表情包模仿挑战",
       "url": "https://www.douyin.com/search/%E8%90%8C%E7%8B%97%E8%A1%A8%E6%83%85%E5%8C%85%E6%A8%A1%E4%BB%BF%E6%8C%91%E6%88%98?type=general",
-      "hot_value": "7677718",
-      "index": 22
-    },
-    {
-      "title": "叫皮皮的娃果然都很皮",
-      "url": "https://www.douyin.com/search/%E5%8F%AB%E7%9A%AE%E7%9A%AE%E7%9A%84%E5%A8%83%E6%9E%9C%E7%84%B6%E9%83%BD%E5%BE%88%E7%9A%AE?type=general",
-      "hot_value": "7675902",
-      "index": 23
-    },
-    {
-      "title": "郭虞凤最满意的坏孩子魏姝",
-      "url": "https://www.douyin.com/search/%E9%83%AD%E8%99%9E%E5%87%A4%E6%9C%80%E6%BB%A1%E6%84%8F%E7%9A%84%E5%9D%8F%E5%AD%A9%E5%AD%90%E9%AD%8F%E5%A7%9D?type=general",
-      "hot_value": "7669552",
+      "hot_value": "7670629",
       "index": 24
-    },
-    {
-      "title": "肖战评论张百乔抖音合拍视频",
-      "url": "https://www.douyin.com/search/%E8%82%96%E6%88%98%E8%AF%84%E8%AE%BA%E5%BC%A0%E7%99%BE%E4%B9%94%E6%8A%96%E9%9F%B3%E5%90%88%E6%8B%8D%E8%A7%86%E9%A2%91?type=general",
-      "hot_value": "7668970",
-      "index": 25
     },
     {
       "title": "就这样闯进我的心窝",
       "url": "https://www.douyin.com/search/%E5%B0%B1%E8%BF%99%E6%A0%B7%E9%97%AF%E8%BF%9B%E6%88%91%E7%9A%84%E5%BF%83%E7%AA%9D?type=general",
-      "hot_value": "7666722",
-      "index": 26
-    },
-    {
-      "title": "王彦霖车流中救下受伤流浪狗",
-      "url": "https://www.douyin.com/search/%E7%8E%8B%E5%BD%A6%E9%9C%96%E8%BD%A6%E6%B5%81%E4%B8%AD%E6%95%91%E4%B8%8B%E5%8F%97%E4%BC%A4%E6%B5%81%E6%B5%AA%E7%8B%97?type=general",
-      "hot_value": "7664466",
-      "index": 27
-    },
-    {
-      "title": "大麦哥视频播客观后感",
-      "url": "https://www.douyin.com/search/%E5%A4%A7%E9%BA%A6%E5%93%A5%E8%A7%86%E9%A2%91%E6%92%AD%E5%AE%A2%E8%A7%82%E5%90%8E%E6%84%9F?type=general",
-      "hot_value": "7662516",
-      "index": 28
-    },
-    {
-      "title": "听大麦哥聊爱情",
-      "url": "https://www.douyin.com/search/%E5%90%AC%E5%A4%A7%E9%BA%A6%E5%93%A5%E8%81%8A%E7%88%B1%E6%83%85?type=general",
-      "hot_value": "7659022",
-      "index": 29
+      "hot_value": "7668369",
+      "index": 25
     },
     {
       "title": "萌宠滑镜定格挑战",
       "url": "https://www.douyin.com/search/%E8%90%8C%E5%AE%A0%E6%BB%91%E9%95%9C%E5%AE%9A%E6%A0%BC%E6%8C%91%E6%88%98?type=general",
-      "hot_value": "7652793",
+      "hot_value": "7666563",
+      "index": 26
+    },
+    {
+      "title": "番茄好故事之夜阵容官宣",
+      "url": "https://www.douyin.com/search/%E7%95%AA%E8%8C%84%E5%A5%BD%E6%95%85%E4%BA%8B%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3?type=general",
+      "hot_value": "7666100",
+      "index": 27
+    },
+    {
+      "title": "一身力气撑起了秦师傅的体面",
+      "url": "https://www.douyin.com/search/%E4%B8%80%E8%BA%AB%E5%8A%9B%E6%B0%94%E6%92%91%E8%B5%B7%E4%BA%86%E7%A7%A6%E5%B8%88%E5%82%85%E7%9A%84%E4%BD%93%E9%9D%A2?type=general",
+      "hot_value": "7664513",
+      "index": 28
+    },
+    {
+      "title": "赵英博发齐铭时期视频",
+      "url": "https://www.douyin.com/search/%E8%B5%B5%E8%8B%B1%E5%8D%9A%E5%8F%91%E9%BD%90%E9%93%AD%E6%97%B6%E6%9C%9F%E8%A7%86%E9%A2%91?type=general",
+      "hot_value": "7663840",
+      "index": 29
+    },
+    {
+      "title": "再见我的前半生",
+      "url": "https://www.douyin.com/search/%E5%86%8D%E8%A7%81%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F?type=general",
+      "hot_value": "7662925",
       "index": 30
     }
   ]
