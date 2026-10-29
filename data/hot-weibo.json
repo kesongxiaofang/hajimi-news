@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-10-29T13:54:20Z",
+  "update_time": "2026-10-29T19:23:16Z",
   "count": 30,
   "list": [
     {
-      "title": "王腾感谢小米和雷总",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E6%84%9F%E8%B0%A2%E5%B0%8F%E7%B1%B3%E5%92%8C%E9%9B%B7%E6%80%BB%23",
-      "hot_value": "1078923",
+      "title": "红果红了",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E7%BA%A2%E4%BA%86%23",
+      "hot_value": "267843",
       "index": 1
     },
     {
-      "title": "外交部回应三丽鸥取消Vivant联名",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%89%E4%B8%BD%E9%B8%A5%E5%8F%96%E6%B6%88Vivant%E8%81%94%E5%90%8D%23",
-      "hot_value": "757922",
+      "title": "姆巴佩曾代言饮品单日销量为0",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%9B%BE%E4%BB%A3%E8%A8%80%E9%A5%AE%E5%93%81%E5%8D%95%E6%97%A5%E9%94%80%E9%87%8F%E4%B8%BA0%23",
+      "hot_value": "85622",
       "index": 2
     },
     {
-      "title": "百年大党何以永葆生机活力",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%B9%B4%E5%A4%A7%E5%85%9A%E4%BD%95%E4%BB%A5%E6%B0%B8%E8%91%86%E7%94%9F%E6%9C%BA%E6%B4%BB%E5%8A%9B%23",
-      "hot_value": "640891",
+      "title": "全面从严治党是全党的共同责任",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E6%98%AF%E5%85%A8%E5%85%9A%E7%9A%84%E5%85%B1%E5%90%8C%E8%B4%A3%E4%BB%BB%23",
+      "hot_value": "84328",
       "index": 3
     },
     {
-      "title": "比亚迪三季度业绩",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%9A%E7%BB%A9%23",
-      "hot_value": "616294",
+      "title": "王腾创业首款智能戒指",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E5%88%9B%E4%B8%9A%E9%A6%96%E6%AC%BE%E6%99%BA%E8%83%BD%E6%88%92%E6%8C%87%23",
+      "hot_value": "82954",
       "index": 4
     },
     {
-      "title": "ISHORing定价1799元",
-      "url": "https://s.weibo.com/weibo?q=%23ISHORing%E5%AE%9A%E4%BB%B71799%E5%85%83%23",
-      "hot_value": "612480",
+      "title": "小鹏MONAL05价格炸裂",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FMONAL05%E4%BB%B7%E6%A0%BC%E7%82%B8%E8%A3%82%23",
+      "hot_value": "81855",
       "index": 5
     },
     {
-      "title": "母亲照顾截瘫儿子35年出奇迹",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E7%85%A7%E9%A1%BE%E6%88%AA%E7%98%AB%E5%84%BF%E5%AD%9035%E5%B9%B4%E5%87%BA%E5%A5%87%E8%BF%B9%23",
-      "hot_value": "557114",
+      "title": "小城良方云包场强势来袭",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E4%BA%91%E5%8C%85%E5%9C%BA%E5%BC%BA%E5%8A%BF%E6%9D%A5%E8%A2%AD%23",
+      "hot_value": "80286",
       "index": 6
     },
     {
-      "title": "MONAL05车大好开又好玩",
-      "url": "https://s.weibo.com/weibo?q=%23MONAL05%E8%BD%A6%E5%A4%A7%E5%A5%BD%E5%BC%80%E5%8F%88%E5%A5%BD%E7%8E%A9%23",
-      "hot_value": "529142",
+      "title": "王腾感谢小米和雷总",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E6%84%9F%E8%B0%A2%E5%B0%8F%E7%B1%B3%E5%92%8C%E9%9B%B7%E6%80%BB%23",
+      "hot_value": "79015",
       "index": 7
     },
     {
-      "title": "梁靖崑温瑞博从搭档到对手",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E6%B8%A9%E7%91%9E%E5%8D%9A%E4%BB%8E%E6%90%AD%E6%A1%A3%E5%88%B0%E5%AF%B9%E6%89%8B%23",
-      "hot_value": "523890",
+      "title": "中国给姆巴佩皇马亮红牌",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%99%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%87%E9%A9%AC%E4%BA%AE%E7%BA%A2%E7%89%8C%23",
+      "hot_value": "77749",
       "index": 8
     },
     {
       "title": "数说中国海洋经济动力澎湃",
       "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E5%8A%A8%E5%8A%9B%E6%BE%8E%E6%B9%83%23",
-      "hot_value": "474254",
+      "hot_value": "76317",
       "index": 9
     },
     {
-      "title": "多地有暴雪",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E6%9C%89%E6%9A%B4%E9%9B%AA%23",
-      "hot_value": "464280",
+      "title": "小城良方云包场拿下爱奇艺史冠",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E4%BA%91%E5%8C%85%E5%9C%BA%E6%8B%BF%E4%B8%8B%E7%88%B1%E5%A5%87%E8%89%BA%E5%8F%B2%E5%86%A0%23",
+      "hot_value": "74333",
       "index": 10
+    },
+    {
+      "title": "把大体老师遗骨当玩物配当医生吗",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E9%81%97%E9%AA%A8%E5%BD%93%E7%8E%A9%E7%89%A9%E9%85%8D%E5%BD%93%E5%8C%BB%E7%94%9F%E5%90%97%23",
+      "hot_value": "73537",
+      "index": 11
     },
     {
       "title": "给阿嬷的情书为何口碑反转",
       "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E4%B8%BA%E4%BD%95%E5%8F%A3%E7%A2%91%E5%8F%8D%E8%BD%AC%23",
-      "hot_value": "433386",
-      "index": 11
-    },
-    {
-      "title": "二十届五中全会公报一图速览",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88%23",
-      "hot_value": "411056",
+      "hot_value": "71439",
       "index": 12
     },
     {
-      "title": "女高管隆胸死亡前曾抱怨全是坑",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E9%AB%98%E7%AE%A1%E9%9A%86%E8%83%B8%E6%AD%BB%E4%BA%A1%E5%89%8D%E6%9B%BE%E6%8A%B1%E6%80%A8%E5%85%A8%E6%98%AF%E5%9D%91%23",
-      "hot_value": "371671",
+      "title": "人民日报锐评年轻人养不起老人了",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%94%90%E8%AF%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%85%BB%E4%B8%8D%E8%B5%B7%E8%80%81%E4%BA%BA%E4%BA%86%23",
+      "hot_value": "70723",
       "index": 13
     },
     {
-      "title": "王子璇 文吉儿",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87+%E6%96%87%E5%90%89%E5%84%BF%23",
-      "hot_value": "359048",
+      "title": "感觉厉娜能活99岁",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E5%8E%89%E5%A8%9C%E8%83%BD%E6%B4%BB99%E5%B2%81%23",
+      "hot_value": "68679",
       "index": 14
     },
     {
-      "title": "张升民同志简历",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%87%E6%B0%91%E5%90%8C%E5%BF%97%E7%AE%80%E5%8E%86%23",
-      "hot_value": "357768",
+      "title": "肖战小城良方该不该被逐帧审判",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%A2%AB%E9%80%90%E5%B8%A7%E5%AE%A1%E5%88%A4%23",
+      "hot_value": "67914",
       "index": 15
     },
     {
-      "title": "三甲医生回应医学博士不会打方结",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%8C%BB%E5%AD%A6%E5%8D%9A%E5%A3%AB%E4%B8%8D%E4%BC%9A%E6%89%93%E6%96%B9%E7%BB%93%23",
-      "hot_value": "357309",
+      "title": "星巴克遭不消费人群抵制",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E9%81%AD%E4%B8%8D%E6%B6%88%E8%B4%B9%E4%BA%BA%E7%BE%A4%E6%8A%B5%E5%88%B6%23",
+      "hot_value": "60147",
       "index": 16
     },
     {
-      "title": "39岁女高管隆胸因麻醉过敏死亡",
-      "url": "https://s.weibo.com/weibo?q=%2339%E5%B2%81%E5%A5%B3%E9%AB%98%E7%AE%A1%E9%9A%86%E8%83%B8%E5%9B%A0%E9%BA%BB%E9%86%89%E8%BF%87%E6%95%8F%E6%AD%BB%E4%BA%A1%23",
-      "hot_value": "355857",
+      "title": "文吉儿上证据后王子璇失忆表现",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF%E4%B8%8A%E8%AF%81%E6%8D%AE%E5%90%8E%E7%8E%8B%E5%AD%90%E7%92%87%E5%A4%B1%E5%BF%86%E8%A1%A8%E7%8E%B0%23",
+      "hot_value": "60109",
       "index": 17
     },
     {
-      "title": "A股后市稳步走强或是主旋律",
-      "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%90%8E%E5%B8%82%E7%A8%B3%E6%AD%A5%E8%B5%B0%E5%BC%BA%E6%88%96%E6%98%AF%E4%B8%BB%E6%97%8B%E5%BE%8B%23",
-      "hot_value": "355556",
+      "title": "女裤裆部太长做成吊裆裤",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%A4%E8%A3%86%E9%83%A8%E5%A4%AA%E9%95%BF%E5%81%9A%E6%88%90%E5%90%8A%E8%A3%86%E8%A3%A4%23",
+      "hot_value": "56554",
       "index": 18
     },
     {
-      "title": "鹿晗素颜彩排",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%B4%A0%E9%A2%9C%E5%BD%A9%E6%8E%92%23",
-      "hot_value": "354610",
+      "title": "78名学生共用针头调查要给社会交代",
+      "url": "https://s.weibo.com/weibo?q=%2378%E5%90%8D%E5%AD%A6%E7%94%9F%E5%85%B1%E7%94%A8%E9%92%88%E5%A4%B4%E8%B0%83%E6%9F%A5%E8%A6%81%E7%BB%99%E7%A4%BE%E4%BC%9A%E4%BA%A4%E4%BB%A3%23",
+      "hot_value": "55054",
       "index": 19
     },
     {
-      "title": "男生遭假警察殴打家属回应出谅解书",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%81%AD%E5%81%87%E8%AD%A6%E5%AF%9F%E6%AE%B4%E6%89%93%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E5%87%BA%E8%B0%85%E8%A7%A3%E4%B9%A6%23",
-      "hot_value": "353857",
+      "title": "C罗发文感谢球迷",
+      "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E7%90%83%E8%BF%B7%23",
+      "hot_value": "54960",
       "index": 20
+    },
+    {
+      "title": "谁来管管小城良方编剧",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E7%AE%A1%E7%AE%A1%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E7%BC%96%E5%89%A7%23",
+      "hot_value": "54640",
+      "index": 21
     },
     {
       "title": "李宇春翻查何洁婚礼短信到凌晨两点",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E7%BF%BB%E6%9F%A5%E4%BD%95%E6%B4%81%E5%A9%9A%E7%A4%BC%E7%9F%AD%E4%BF%A1%E5%88%B0%E5%87%8C%E6%99%A8%E4%B8%A4%E7%82%B9%23",
-      "hot_value": "352465",
-      "index": 21
+      "hot_value": "54523",
+      "index": 22
     },
     {
       "title": "疑似王子璇文吉儿知情人爆料",
       "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E5%AD%90%E7%92%87%E6%96%87%E5%90%89%E5%84%BF%E7%9F%A5%E6%83%85%E4%BA%BA%E7%88%86%E6%96%99%23",
-      "hot_value": "351322",
-      "index": 22
+      "hot_value": "54250",
+      "index": 23
     },
     {
       "title": "难怪说钟楚曦两年能画出一套房",
       "url": "https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E8%AF%B4%E9%92%9F%E6%A5%9A%E6%9B%A6%E4%B8%A4%E5%B9%B4%E8%83%BD%E7%94%BB%E5%87%BA%E4%B8%80%E5%A5%97%E6%88%BF%23",
-      "hot_value": "350388",
-      "index": 23
-    },
-    {
-      "title": "孙颖莎等10人记大功",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%AD%8910%E4%BA%BA%E8%AE%B0%E5%A4%A7%E5%8A%9F%23",
-      "hot_value": "349631",
+      "hot_value": "54025",
       "index": 24
     },
     {
-      "title": "Meiko打服LYON辅助",
-      "url": "https://s.weibo.com/weibo?q=%23Meiko%E6%89%93%E6%9C%8DLYON%E8%BE%85%E5%8A%A9%23",
-      "hot_value": "348692",
+      "title": "曝某女艺人不敢与梅尼耶妻子合照",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9F%90%E5%A5%B3%E8%89%BA%E4%BA%BA%E4%B8%8D%E6%95%A2%E4%B8%8E%E6%A2%85%E5%B0%BC%E8%80%B6%E5%A6%BB%E5%AD%90%E5%90%88%E7%85%A7%23",
+      "hot_value": "53941",
       "index": 25
     },
     {
-      "title": "何洁曾发和李宇春聊天记录截图",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B4%81%E6%9B%BE%E5%8F%91%E5%92%8C%E6%9D%8E%E5%AE%87%E6%98%A5%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%88%AA%E5%9B%BE%23",
-      "hot_value": "347186",
+      "title": "王安宇直播说了3次田曦薇很好看",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E7%9B%B4%E6%92%AD%E8%AF%B4%E4%BA%863%E6%AC%A1%E7%94%B0%E6%9B%A6%E8%96%87%E5%BE%88%E5%A5%BD%E7%9C%8B%23",
+      "hot_value": "53672",
       "index": 26
     },
     {
-      "title": "魏娆直接废了太子",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A8%86%E7%9B%B4%E6%8E%A5%E5%BA%9F%E4%BA%86%E5%A4%AA%E5%AD%90%23",
-      "hot_value": "347055",
+      "title": "多亏何洁才有初代顶流李宇春",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BA%8F%E4%BD%95%E6%B4%81%E6%89%8D%E6%9C%89%E5%88%9D%E4%BB%A3%E9%A1%B6%E6%B5%81%E6%9D%8E%E5%AE%87%E6%98%A5%23",
+      "hot_value": "53451",
       "index": 27
     },
     {
-      "title": "男子吃凉土豆蘸辣椒面2个月瘦22斤",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E5%87%89%E5%9C%9F%E8%B1%86%E8%98%B8%E8%BE%A3%E6%A4%92%E9%9D%A22%E4%B8%AA%E6%9C%88%E7%98%A622%E6%96%A4%23",
-      "hot_value": "345353",
+      "title": "梁靖崑回应战胜温瑞博",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E6%B8%A9%E7%91%9E%E5%8D%9A%23",
+      "hot_value": "53277",
       "index": 28
     },
     {
-      "title": "长沙一新生摆拍大体老师最新进展",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E6%96%B0%E7%94%9F%E6%91%86%E6%8B%8D%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23",
-      "hot_value": "345049",
+      "title": "崔永熙补篮绝杀",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%B0%B8%E7%86%99%E8%A1%A5%E7%AF%AE%E7%BB%9D%E6%9D%80%23",
+      "hot_value": "53075",
       "index": 29
     },
     {
-      "title": "陈哲远吃猪脚饭吃出男人的浪漫",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%90%83%E7%8C%AA%E8%84%9A%E9%A5%AD%E5%90%83%E5%87%BA%E7%94%B7%E4%BA%BA%E7%9A%84%E6%B5%AA%E6%BC%AB%23",
-      "hot_value": "344983",
+      "title": "日剧VIVANT是赤裸裸敌视中国",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%89%A7VIVANT%E6%98%AF%E8%B5%A4%E8%A3%B8%E8%A3%B8%E6%95%8C%E8%A7%86%E4%B8%AD%E5%9B%BD%23",
+      "hot_value": "52796",
       "index": 30
     }
   ]
