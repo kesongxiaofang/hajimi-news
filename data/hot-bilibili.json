@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-29T23:28:12Z",
+  "update_time": "2026-10-30T02:48:40Z",
   "count": 30,
   "list": [
     {
-      "title": "《崩坏：星穹铁道》千星纪游PV：「有关星空的寓言集•其三」",
-      "url": "https://www.bilibili.com/video/BV1JYsd6sE4k",
-      "hot_value": "3210539播放",
-      "index": 1
-    },
-    {
-      "title": "【2026全球总决赛】10月29日 LYON vs IG",
-      "url": "https://www.bilibili.com/video/BV1Eas967EY9",
-      "hot_value": "6059161播放",
-      "index": 2
-    },
-    {
-      "title": "《原神》米提亚角色PV——「小小伎俩」",
-      "url": "https://www.bilibili.com/video/BV1dAxE6VErW",
-      "hot_value": "966908播放",
-      "index": 3
-    },
-    {
-      "title": "【4K】全网首发《影之刃零》 全支线 全收集 全流程实况解说",
-      "url": "https://www.bilibili.com/video/BV17zsd6nE1Y",
-      "hot_value": "1102846播放",
-      "index": 4
-    },
-    {
       "title": "重庆悬崖火锅自助 现实版饥饿站台？",
       "url": "https://www.bilibili.com/video/BV1Y3sZ67Eat",
-      "hot_value": "764698播放",
-      "index": 5
-    },
-    {
-      "title": "《明日方舟》EP - A Necessary Message",
-      "url": "https://www.bilibili.com/video/BV16fsf6PEBH",
-      "hot_value": "479158播放",
-      "index": 6
+      "hot_value": "1158706播放",
+      "index": 1
     },
     {
       "title": "贴脸特写，是每个野生动物摄影师的必备技能！",
       "url": "https://www.bilibili.com/video/BV16nxg6fE3s",
-      "hot_value": "2669292播放",
+      "hot_value": "3077654播放",
+      "index": 2
+    },
+    {
+      "title": "吴站长&梅姐《Trouble Maker》【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1dEsX6TEGx",
+      "hot_value": "820867播放",
+      "index": 3
+    },
+    {
+      "title": "当我cos亲友喜欢了十年的角色去找她，会是什么反应？",
+      "url": "https://www.bilibili.com/video/BV1Hxxj6DEZv",
+      "hot_value": "312716播放",
+      "index": 4
+    },
+    {
+      "title": "《崩坏：星穹铁道》千星纪游PV：「有关星空的寓言集•其三」",
+      "url": "https://www.bilibili.com/video/BV1JYsd6sE4k",
+      "hot_value": "3309904播放",
+      "index": 5
+    },
+    {
+      "title": "城市大富翁（番外篇）",
+      "url": "https://www.bilibili.com/video/BV1ySsf6gE2C",
+      "hot_value": "709576播放",
+      "index": 6
+    },
+    {
+      "title": "蓝色大肥鱼是什么梗【梗指南】",
+      "url": "https://www.bilibili.com/video/BV1eFs96uE3K",
+      "hot_value": "981461播放",
       "index": 7
     },
     {
-      "title": "做个八鲜捞饭！海鲜一锅端，黏糊糊太上头了！配葱油海肠，嘎吱脆啊",
-      "url": "https://www.bilibili.com/video/BV1Aan96CE6b",
-      "hot_value": "1060600播放",
+      "title": "星爷版《Trouble Maker》喜剧之王&功夫【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV12Lxj64Ejt",
+      "hot_value": "847383播放",
       "index": 8
     },
     {
-      "title": "《明日方舟》限定干员「塔露拉」前瞻PV",
-      "url": "https://www.bilibili.com/video/BV1eZsX66EfW",
-      "hot_value": "887207播放",
+      "title": "《润魂子》1-5合集 纯享版【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1zRx76SEJQ",
+      "hot_value": "489920播放",
       "index": 9
     },
     {
       "title": "五年不见！人生一串4重磅回归",
       "url": "https://www.bilibili.com/video/BV1Nrx76bEZ5",
-      "hot_value": "218915播放",
+      "hot_value": "234276播放",
       "index": 10
-    },
-    {
-      "title": "武林外传续集：第八十五回 白展堂偷懒遭算计 穿越人两世解死局【[AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1cBx36TEEK",
-      "hot_value": "886817播放",
-      "index": 11
-    },
-    {
-      "title": "星河外卖员：无限未来",
-      "url": "https://www.bilibili.com/video/BV1uBnR6tEVm",
-      "hot_value": "889495播放",
-      "index": 12
-    },
-    {
-      "title": "吴站长&梅姐《Trouble Maker》【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV1dEsX6TEGx",
-      "hot_value": "565370播放",
-      "index": 13
-    },
-    {
-      "title": "热烈欢迎张伟丽！原来格斗世界冠军的生活是这样的！！（当天伟丽签了好多名✍️",
-      "url": "https://www.bilibili.com/video/BV1Z9xL6rEDb",
-      "hot_value": "564621播放",
-      "index": 14
-    },
-    {
-      "title": "三年之期已到，恭迎世一上归位！【第15集】",
-      "url": "https://www.bilibili.com/video/BV1Nwso6vEpi",
-      "hot_value": "904823播放",
-      "index": 15
-    },
-    {
-      "title": "强子刚来啊，等你二十年了【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV1LcxE61Euj",
-      "hot_value": "938668播放",
-      "index": 16
-    },
-    {
-      "title": "蓝色大肥鱼是什么梗【梗指南】",
-      "url": "https://www.bilibili.com/video/BV1eFs96uE3K",
-      "hot_value": "779223播放",
-      "index": 17
-    },
-    {
-      "title": "星爷版《Trouble Maker》喜剧之王&功夫【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV12Lxj64Ejt",
-      "hot_value": "684129播放",
-      "index": 18
-    },
-    {
-      "title": "露思闹笑话，刘冲斗娜娜，众星躲娜扎……【近期红毯爆笑盘点】",
-      "url": "https://www.bilibili.com/video/BV1FGso6ZE7x",
-      "hot_value": "1872100播放",
-      "index": 19
     },
     {
       "title": "令人愤怒的“卖1元火鸡面”视频，炸出了多少被毁掉的中国小孩",
       "url": "https://www.bilibili.com/video/BV1frn96iEKG",
-      "hot_value": "488190播放",
-      "index": 20
+      "hot_value": "816312播放",
+      "index": 11
     },
     {
-      "title": "王老菊教你影之刃01：破伤风刀法",
-      "url": "https://www.bilibili.com/video/BV1w7sf6AEVy",
-      "hot_value": "404282播放",
-      "index": 21
+      "title": "《明日方舟》EP - A Necessary Message",
+      "url": "https://www.bilibili.com/video/BV16fsf6PEBH",
+      "hot_value": "583468播放",
+      "index": 12
     },
     {
       "title": "HONG KONG",
       "url": "https://www.bilibili.com/video/BV1SVsd6MEGZ",
-      "hot_value": "392993播放",
-      "index": 22
+      "hot_value": "501314播放",
+      "index": 13
+    },
+    {
+      "title": "影之刃初见一次打赢甄子丹...我怀疑他是假子丹",
+      "url": "https://www.bilibili.com/video/BV1aExF6nEHV",
+      "hot_value": "565425播放",
+      "index": 14
+    },
+    {
+      "title": "【4K】全网首发《影之刃零》 全支线 全收集 全流程实况解说",
+      "url": "https://www.bilibili.com/video/BV17zsd6nE1Y",
+      "hot_value": "1216557播放",
+      "index": 15
+    },
+    {
+      "title": "白蚁豪宅被大象拿来擦屁股，没想到擦出了一个微观水世界！",
+      "url": "https://www.bilibili.com/video/BV14txF65Efd",
+      "hot_value": "243635播放",
+      "index": 16
+    },
+    {
+      "title": "《原神》米提亚角色PV——「小小伎俩」",
+      "url": "https://www.bilibili.com/video/BV1dAxE6VErW",
+      "hot_value": "1013096播放",
+      "index": 17
     },
     {
       "title": "【巫师】马云的资本博弈",
       "url": "https://www.bilibili.com/video/BV1ffso6xEyP",
-      "hot_value": "321474播放",
+      "hot_value": "405980播放",
+      "index": 18
+    },
+    {
+      "title": "《三鞭抽散厌学魂》",
+      "url": "https://www.bilibili.com/video/BV1ibxg6WEKW",
+      "hot_value": "1385944播放",
+      "index": 19
+    },
+    {
+      "title": "强子刚来啊，等你二十年了【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1LcxE61Euj",
+      "hot_value": "1045452播放",
+      "index": 20
+    },
+    {
+      "title": "热烈欢迎张伟丽！原来格斗世界冠军的生活是这样的！！（当天伟丽签了好多名✍️",
+      "url": "https://www.bilibili.com/video/BV1Z9xL6rEDb",
+      "hot_value": "621160播放",
+      "index": 21
+    },
+    {
+      "title": "【2026全球总决赛】10月29日 LYON vs IG",
+      "url": "https://www.bilibili.com/video/BV1Eas967EY9",
+      "hot_value": "6181220播放",
+      "index": 22
+    },
+    {
+      "title": "忙着跟生活对线的你，有多久没上号了？谨以此片，致和游戏一起长大的我们。【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1uGxj68EKt",
+      "hot_value": "1394998播放",
       "index": 23
     },
     {
-      "title": "乱作一团：美国古巴当场互呛，会议被迫中止场面混乱",
-      "url": "https://www.bilibili.com/video/BV1D5sd6qE3M",
-      "hot_value": "642679播放",
+      "title": "10月新番",
+      "url": "https://www.bilibili.com/video/BV1WtsZ6iEfn",
+      "hot_value": "380615播放",
       "index": 24
     },
     {
-      "title": "《润魂子》1-5合集 纯享版【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1zRx76SEJQ",
-      "hot_value": "373820播放",
+      "title": "武林外传续集：第八十五回 白展堂偷懒遭算计 穿越人两世解死局【[AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1cBx36TEEK",
+      "hot_value": "960768播放",
       "index": 25
     },
     {
-      "title": "城市大富翁（番外篇）",
-      "url": "https://www.bilibili.com/video/BV1ySsf6gE2C",
-      "hot_value": "521264播放",
+      "title": "露思闹笑话，刘冲斗娜娜，众星躲娜扎……【近期红毯爆笑盘点】",
+      "url": "https://www.bilibili.com/video/BV1FGso6ZE7x",
+      "hot_value": "1971813播放",
       "index": 26
     },
     {
-      "title": "【暗区突围手游版本PV】破局，「战火重燃」今日上线！",
-      "url": "https://www.bilibili.com/video/BV1zesd69EMw",
-      "hot_value": "945835播放",
+      "title": "王老菊教你影之刃01：破伤风刀法",
+      "url": "https://www.bilibili.com/video/BV1w7sf6AEVy",
+      "hot_value": "483515播放",
       "index": 27
     },
     {
-      "title": "闪身步躲子弹，胡萝卜救壮汉！《兰香如故》像的不止《知否》",
-      "url": "https://www.bilibili.com/video/BV1vrxj6zE1J",
-      "hot_value": "841265播放",
+      "title": "三年之期已到，恭迎世一上归位！【第15集】",
+      "url": "https://www.bilibili.com/video/BV1Nwso6vEpi",
+      "hot_value": "962409播放",
       "index": 28
     },
     {
-      "title": "《异环》1.5版本PV丨致电，空想迷数",
-      "url": "https://www.bilibili.com/video/BV1TExT6eEsF",
-      "hot_value": "836334播放",
+      "title": "花73元从中国坐火车去越南，这里夜生活太夸张，难怪被称为男人的天堂",
+      "url": "https://www.bilibili.com/video/BV1shxF6GENP",
+      "hot_value": "343272播放",
       "index": 29
     },
     {
-      "title": "⚡《新 三 国 FUNK》⚡",
-      "url": "https://www.bilibili.com/video/BV1iXxV6vEmP",
-      "hot_value": "1928746播放",
+      "title": "【TES胜利单曲】九妹九妹！滔博的大腿！",
+      "url": "https://www.bilibili.com/video/BV1hznR6oETN",
+      "hot_value": "1967320播放",
       "index": 30
     }
   ]
