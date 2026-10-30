@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-10-30T16:29:40Z",
+  "update_time": "2026-10-30T20:59:14Z",
   "count": 30,
   "list": [
     {
       "title": "中共中央举行新闻发布会",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A?type=general",
-      "hot_value": "11705856",
+      "hot_value": "11282706",
       "index": 1
     },
     {
       "title": "攻击-21无人机在四川舰成功起降",
       "url": "https://www.douyin.com/search/%E6%94%BB%E5%87%BB-21%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9C%A8%E5%9B%9B%E5%B7%9D%E8%88%B0%E6%88%90%E5%8A%9F%E8%B5%B7%E9%99%8D?type=general",
-      "hot_value": "11577001",
+      "hot_value": "11135486",
       "index": 2
     },
     {
       "title": "不怕远征难",
       "url": "https://www.douyin.com/search/%E4%B8%8D%E6%80%95%E8%BF%9C%E5%BE%81%E9%9A%BE?type=general",
-      "hot_value": "11154788",
+      "hot_value": "11100238",
       "index": 3
     },
     {
       "title": "比冬天先来的是一顿热火锅",
       "url": "https://www.douyin.com/search/%E6%AF%94%E5%86%AC%E5%A4%A9%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E4%B8%80%E9%A1%BF%E7%83%AD%E7%81%AB%E9%94%85?type=general",
-      "hot_value": "11094471",
+      "hot_value": "11098663",
       "index": 4
     },
     {
       "title": "落日与风能发电机同框太治愈",
       "url": "https://www.douyin.com/search/%E8%90%BD%E6%97%A5%E4%B8%8E%E9%A3%8E%E8%83%BD%E5%8F%91%E7%94%B5%E6%9C%BA%E5%90%8C%E6%A1%86%E5%A4%AA%E6%B2%BB%E6%84%88?type=general",
-      "hot_value": "10498117",
+      "hot_value": "10537077",
       "index": 5
     },
     {
       "title": "解放军霸气喊话菲律宾军机",
       "url": "https://www.douyin.com/search/%E8%A7%A3%E6%94%BE%E5%86%9B%E9%9C%B8%E6%B0%94%E5%96%8A%E8%AF%9D%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%86%9B%E6%9C%BA?type=general",
-      "hot_value": "10491891",
+      "hot_value": "10533824",
       "index": 6
-    },
-    {
-      "title": "中国U17女足首进世界杯8强",
-      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA?type=general",
-      "hot_value": "9342600",
-      "index": 7
     },
     {
       "title": "10架美军机飞抵以色列空军基地",
       "url": "https://www.douyin.com/search/10%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%9C%BA%E9%A3%9E%E6%8A%B5%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0?type=general",
-      "hot_value": "9282042",
+      "hot_value": "9411965",
+      "index": 7
+    },
+    {
+      "title": "中国U17女足首进世界杯8强",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA?type=general",
+      "hot_value": "9408892",
       "index": 8
     },
     {
       "title": "南部战区海空兵力黄岩岛战备警巡",
       "url": "https://www.douyin.com/search/%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E6%B5%B7%E7%A9%BA%E5%85%B5%E5%8A%9B%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%88%98%E5%A4%87%E8%AD%A6%E5%B7%A1?type=general",
-      "hot_value": "9272735",
+      "hot_value": "9359996",
       "index": 9
-    },
-    {
-      "title": "孙颖莎3:2战胜申裕斌晋级8强",
-      "url": "https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E3%3A2%E6%88%98%E8%83%9C%E7%94%B3%E8%A3%95%E6%96%8C%E6%99%8B%E7%BA%A78%E5%BC%BA?type=general",
-      "hot_value": "9159794",
-      "index": 10
     },
     {
       "title": "国防部称遵义舰从容应对侵权挑衅",
       "url": "https://www.douyin.com/search/%E5%9B%BD%E9%98%B2%E9%83%A8%E7%A7%B0%E9%81%B5%E4%B9%89%E8%88%B0%E4%BB%8E%E5%AE%B9%E5%BA%94%E5%AF%B9%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85?type=general",
-      "hot_value": "9136662",
-      "index": 11
+      "hot_value": "9342874",
+      "index": 10
     },
     {
       "title": "二十届五中全会公报一图速览",
       "url": "https://www.douyin.com/search/%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88?type=general",
-      "hot_value": "9130216",
-      "index": 12
+      "hot_value": "9333895",
+      "index": 11
     },
     {
       "title": "涉“那曲巴青地震”谣言案例",
       "url": "https://www.douyin.com/search/%E6%B6%89%E2%80%9C%E9%82%A3%E6%9B%B2%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%87%E2%80%9D%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B?type=general",
-      "hot_value": "9077389",
+      "hot_value": "9118389",
+      "index": 12
+    },
+    {
+      "title": "G2对战HLE",
+      "url": "https://www.douyin.com/search/G2%E5%AF%B9%E6%88%98HLE?type=general",
+      "hot_value": "8821927",
       "index": 13
-    },
-    {
-      "title": "匿名玩家导演王巍在抖音有问必答",
-      "url": "https://www.douyin.com/search/%E5%8C%BF%E5%90%8D%E7%8E%A9%E5%AE%B6%E5%AF%BC%E6%BC%94%E7%8E%8B%E5%B7%8D%E5%9C%A8%E6%8A%96%E9%9F%B3%E6%9C%89%E9%97%AE%E5%BF%85%E7%AD%94?type=general",
-      "hot_value": "9033740",
-      "index": 14
-    },
-    {
-      "title": "星穹铁道4.7版本前瞻",
-      "url": "https://www.douyin.com/search/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%934.7%E7%89%88%E6%9C%AC%E5%89%8D%E7%9E%BB?type=general",
-      "hot_value": "9026762",
-      "index": 15
     },
     {
       "title": "披荆斩棘2026总决赛",
       "url": "https://www.douyin.com/search/%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%982026%E6%80%BB%E5%86%B3%E8%B5%9B?type=general",
-      "hot_value": "9002888",
-      "index": 16
-    },
-    {
-      "title": "陈熠3:0王曼昱",
-      "url": "https://www.douyin.com/search/%E9%99%88%E7%86%A03%3A0%E7%8E%8B%E6%9B%BC%E6%98%B1?type=general",
-      "hot_value": "8895932",
-      "index": 17
-    },
-    {
-      "title": "林丹杯桃田贤斗击败羊洋洋",
-      "url": "https://www.douyin.com/search/%E6%9E%97%E4%B8%B9%E6%9D%AF%E6%A1%83%E7%94%B0%E8%B4%A4%E6%96%97%E5%87%BB%E8%B4%A5%E7%BE%8A%E6%B4%8B%E6%B4%8B?type=general",
-      "hot_value": "8622089",
-      "index": 18
-    },
-    {
-      "title": "英特尔暴跌26%",
-      "url": "https://www.douyin.com/search/%E8%8B%B1%E7%89%B9%E5%B0%94%E6%9A%B4%E8%B7%8C26%25?type=general",
-      "hot_value": "8604501",
-      "index": 19
-    },
-    {
-      "title": "星游记官宣正式重启",
-      "url": "https://www.douyin.com/search/%E6%98%9F%E6%B8%B8%E8%AE%B0%E5%AE%98%E5%AE%A3%E6%AD%A3%E5%BC%8F%E9%87%8D%E5%90%AF?type=general",
-      "hot_value": "8432886",
-      "index": 20
+      "hot_value": "8704233",
+      "index": 14
     },
     {
       "title": "复仇者联盟进入氛围感时代",
       "url": "https://www.douyin.com/search/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F%E8%BF%9B%E5%85%A5%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%97%B6%E4%BB%A3?type=general",
-      "hot_value": "8248565",
-      "index": 21
+      "hot_value": "8697275",
+      "index": 15
     },
     {
       "title": "我家有只可爱鬼",
       "url": "https://www.douyin.com/search/%E6%88%91%E5%AE%B6%E6%9C%89%E5%8F%AA%E5%8F%AF%E7%88%B1%E9%AC%BC?type=general",
-      "hot_value": "8114854",
-      "index": 22
-    },
-    {
-      "title": "影之刃零全流程收集攻略",
-      "url": "https://www.douyin.com/search/%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%85%A8%E6%B5%81%E7%A8%8B%E6%94%B6%E9%9B%86%E6%94%BB%E7%95%A5?type=general",
-      "hot_value": "8102645",
-      "index": 23
-    },
-    {
-      "title": "三角洲影之刃零黑伤实录爆料",
-      "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E9%BB%91%E4%BC%A4%E5%AE%9E%E5%BD%95%E7%88%86%E6%96%99?type=general",
-      "hot_value": "7991349",
-      "index": 24
-    },
-    {
-      "title": "影之刃零隐藏武器解锁攻略",
-      "url": "https://www.douyin.com/search/%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E9%9A%90%E8%97%8F%E6%AD%A6%E5%99%A8%E8%A7%A3%E9%94%81%E6%94%BB%E7%95%A5?type=general",
-      "hot_value": "7986864",
-      "index": 25
+      "hot_value": "8300340",
+      "index": 16
     },
     {
       "title": "AI珍珠圣女妆",
       "url": "https://www.douyin.com/search/AI%E7%8F%8D%E7%8F%A0%E5%9C%A3%E5%A5%B3%E5%A6%86?type=general",
-      "hot_value": "7934263",
-      "index": 26
+      "hot_value": "8243151",
+      "index": 17
     },
     {
-      "title": "斜刘海遮不住本萌官的心事",
-      "url": "https://www.douyin.com/search/%E6%96%9C%E5%88%98%E6%B5%B7%E9%81%AE%E4%B8%8D%E4%BD%8F%E6%9C%AC%E8%90%8C%E5%AE%98%E7%9A%84%E5%BF%83%E4%BA%8B?type=general",
-      "hot_value": "7921178",
-      "index": 27
+      "title": "星穹铁道4.7版本前瞻",
+      "url": "https://www.douyin.com/search/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%934.7%E7%89%88%E6%9C%AC%E5%89%8D%E7%9E%BB?type=general",
+      "hot_value": "7935581",
+      "index": 18
+    },
+    {
+      "title": "星游记官宣正式重启",
+      "url": "https://www.douyin.com/search/%E6%98%9F%E6%B8%B8%E8%AE%B0%E5%AE%98%E5%AE%A3%E6%AD%A3%E5%BC%8F%E9%87%8D%E5%90%AF?type=general",
+      "hot_value": "7917883",
+      "index": 19
+    },
+    {
+      "title": "匿名玩家导演王巍在抖音有问必答",
+      "url": "https://www.douyin.com/search/%E5%8C%BF%E5%90%8D%E7%8E%A9%E5%AE%B6%E5%AF%BC%E6%BC%94%E7%8E%8B%E5%B7%8D%E5%9C%A8%E6%8A%96%E9%9F%B3%E6%9C%89%E9%97%AE%E5%BF%85%E7%AD%94?type=general",
+      "hot_value": "7915936",
+      "index": 20
+    },
+    {
+      "title": "我们都在爱情里少一点天分",
+      "url": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E9%83%BD%E5%9C%A8%E7%88%B1%E6%83%85%E9%87%8C%E5%B0%91%E4%B8%80%E7%82%B9%E5%A4%A9%E5%88%86?type=general",
+      "hot_value": "7882098",
+      "index": 21
+    },
+    {
+      "title": "影之刃零全流程收集攻略",
+      "url": "https://www.douyin.com/search/%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%85%A8%E6%B5%81%E7%A8%8B%E6%94%B6%E9%9B%86%E6%94%BB%E7%95%A5?type=general",
+      "hot_value": "7834114",
+      "index": 22
+    },
+    {
+      "title": "影之刃零隐藏武器解锁攻略",
+      "url": "https://www.douyin.com/search/%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E9%9A%90%E8%97%8F%E6%AD%A6%E5%99%A8%E8%A7%A3%E9%94%81%E6%94%BB%E7%95%A5?type=general",
+      "hot_value": "7815792",
+      "index": 23
+    },
+    {
+      "title": "青稚说希望和白小纯和好",
+      "url": "https://www.douyin.com/search/%E9%9D%92%E7%A8%9A%E8%AF%B4%E5%B8%8C%E6%9C%9B%E5%92%8C%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%92%8C%E5%A5%BD?type=general",
+      "hot_value": "7803625",
+      "index": 24
     },
     {
       "title": "明道寻找上海拾金不昧好心人",
       "url": "https://www.douyin.com/search/%E6%98%8E%E9%81%93%E5%AF%BB%E6%89%BE%E4%B8%8A%E6%B5%B7%E6%8B%BE%E9%87%91%E4%B8%8D%E6%98%A7%E5%A5%BD%E5%BF%83%E4%BA%BA?type=general",
-      "hot_value": "7904790",
+      "hot_value": "7796415",
+      "index": 25
+    },
+    {
+      "title": "斜刘海遮不住本萌官的心事",
+      "url": "https://www.douyin.com/search/%E6%96%9C%E5%88%98%E6%B5%B7%E9%81%AE%E4%B8%8D%E4%BD%8F%E6%9C%AC%E8%90%8C%E5%AE%98%E7%9A%84%E5%BF%83%E4%BA%8B?type=general",
+      "hot_value": "7790246",
+      "index": 26
+    },
+    {
+      "title": "三角洲影之刃零黑伤实录爆料",
+      "url": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E9%BB%91%E4%BC%A4%E5%AE%9E%E5%BD%95%E7%88%86%E6%96%99?type=general",
+      "hot_value": "7769868",
+      "index": 27
+    },
+    {
+      "title": "现场见证TES挺入八强",
+      "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81TES%E6%8C%BA%E5%85%A5%E5%85%AB%E5%BC%BA?type=general",
+      "hot_value": "7759056",
       "index": 28
     },
     {
-      "title": "姜乘澜回忆小时候的妈妈",
-      "url": "https://www.douyin.com/search/%E5%A7%9C%E4%B9%98%E6%BE%9C%E5%9B%9E%E5%BF%86%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E5%A6%88%E5%A6%88?type=general",
-      "hot_value": "7862703",
+      "title": "币安疑遭黑客攻击",
+      "url": "https://www.douyin.com/search/%E5%B8%81%E5%AE%89%E7%96%91%E9%81%AD%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB?type=general",
+      "hot_value": "7758902",
       "index": 29
     },
     {
-      "title": "刘铮亮约会全程白忙活",
-      "url": "https://www.douyin.com/search/%E5%88%98%E9%93%AE%E4%BA%AE%E7%BA%A6%E4%BC%9A%E5%85%A8%E7%A8%8B%E7%99%BD%E5%BF%99%E6%B4%BB?type=general",
-      "hot_value": "7842884",
+      "title": "我学会了放过自己",
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%AD%A6%E4%BC%9A%E4%BA%86%E6%94%BE%E8%BF%87%E8%87%AA%E5%B7%B1?type=general",
+      "hot_value": "7757206",
       "index": 30
     }
   ]
