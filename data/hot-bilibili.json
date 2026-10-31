@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-31T17:51:01Z",
+  "update_time": "2026-10-31T20:55:27Z",
   "count": 30,
   "list": [
     {
       "title": " 【独家】《凡人修仙传之慕兰之战》第22集【总第198集】",
       "url": "https://www.bilibili.com/video/BV1vVxi68EWD",
-      "hot_value": "4613770播放",
+      "hot_value": "4775734播放",
       "index": 1
     },
     {
       "title": "全球笑点下降2000倍而我不变【第二集】",
       "url": "https://www.bilibili.com/video/BV1TxxC6vEo4",
-      "hot_value": "1407050播放",
+      "hot_value": "1606372播放",
       "index": 2
-    },
-    {
-      "title": "1944滇缅竹林：远征军教盟军吃虎皮笋，油手把风笛吹成妖笛【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1q8x56uEDU",
-      "hot_value": "3222955播放",
-      "index": 3
     },
     {
       "title": "纯黑《影之刃零》逆天者全程无伤一镜到底攻略解说 第一期",
       "url": "https://www.bilibili.com/video/BV1Ntxr6xEjG",
-      "hot_value": "746199播放",
+      "hot_value": "852258播放",
+      "index": 3
+    },
+    {
+      "title": "1944滇缅竹林：远征军教盟军吃虎皮笋，油手把风笛吹成妖笛【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1q8x56uEDU",
+      "hot_value": "3557499播放",
       "index": 4
     },
     {
-      "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
-      "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
-      "hot_value": "387970播放",
+      "title": "灭建国的超能力",
+      "url": "https://www.bilibili.com/video/BV1ugxq6HEfH",
+      "hot_value": "3690661播放",
       "index": 5
     },
     {
       "title": "小时候直肠子就这样讲话",
       "url": "https://www.bilibili.com/video/BV1QqxY6jEPY",
-      "hot_value": "3142651播放",
+      "hot_value": "3298421播放",
       "index": 6
-    },
-    {
-      "title": "老木师对决橡胶带",
-      "url": "https://www.bilibili.com/video/BV1sVno6pE2M",
-      "hot_value": "1430840播放",
-      "index": 7
-    },
-    {
-      "title": "玩具熊：模仿者的秘密，第5期，全结局",
-      "url": "https://www.bilibili.com/video/BV1upx16LErq",
-      "hot_value": "270793播放",
-      "index": 8
-    },
-    {
-      "title": "『复活局合集』死去的声音突然攻击我.",
-      "url": "https://www.bilibili.com/video/BV1ruxK6DEDY",
-      "hot_value": "1086422播放",
-      "index": 9
-    },
-    {
-      "title": "灭建国的超能力",
-      "url": "https://www.bilibili.com/video/BV1ugxq6HEfH",
-      "hot_value": "3608433播放",
-      "index": 10
-    },
-    {
-      "title": "男生：我到底是不是女生啊？！！",
-      "url": "https://www.bilibili.com/video/BV1v2xr6VEHM",
-      "hot_value": "387640播放",
-      "index": 11
-    },
-    {
-      "title": "做个八鲜捞饭！海鲜一锅端，黏糊糊太上头了！配葱油海肠，嘎吱脆啊",
-      "url": "https://www.bilibili.com/video/BV1Aan96CE6b",
-      "hot_value": "3682034播放",
-      "index": 12
     },
     {
       "title": "【泛式/剧情MAD】你我的故事，写作『相互凌迟』......   [薇欧拉/bilibilionly同人扶持计划]",
       "url": "https://www.bilibili.com/video/BV1sax16uEXm",
-      "hot_value": "346840播放",
-      "index": 13
+      "hot_value": "410271播放",
+      "index": 7
     },
     {
-      "title": "我是草",
-      "url": "https://www.bilibili.com/video/BV1pkxi66ErX",
-      "hot_value": "812664播放",
-      "index": 14
-    },
-    {
-      "title": "涉案2000万的外挂团队被抓！",
-      "url": "https://www.bilibili.com/video/BV1MMxq6XEo7",
-      "hot_value": "778589播放",
-      "index": 15
+      "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
+      "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
+      "hot_value": "465498播放",
+      "index": 8
     },
     {
       "title": "“若神不能理解我，那祂便算不上神！！”",
       "url": "https://www.bilibili.com/video/BV1wbxr6REXk",
-      "hot_value": "442485播放",
-      "index": 16
+      "hot_value": "487113播放",
+      "index": 9
     },
     {
       "title": "全网搬大润发第一人！！！",
       "url": "https://www.bilibili.com/video/BV1sVxv6rEJ7",
-      "hot_value": "1149527播放",
+      "hot_value": "1214779播放",
+      "index": 10
+    },
+    {
+      "title": "『复活局合集』死去的声音突然攻击我.",
+      "url": "https://www.bilibili.com/video/BV1ruxK6DEDY",
+      "hot_value": "1166858播放",
+      "index": 11
+    },
+    {
+      "title": "“回收枪支触发主线任务”",
+      "url": "https://www.bilibili.com/video/BV14uxv65EN3",
+      "hot_value": "1510145播放",
+      "index": 12
+    },
+    {
+      "title": "【鬼谷闲谈】沧龙：问君能有几多愁，恰似鳞龙入海流",
+      "url": "https://www.bilibili.com/video/BV1qfxB6qEjD",
+      "hot_value": "653166播放",
+      "index": 13
+    },
+    {
+      "title": "《烂梗下桌》与其怪食客的嘴，不如让烂梗下桌",
+      "url": "https://www.bilibili.com/video/BV159xe6sE5C",
+      "hot_value": "811927播放",
+      "index": 14
+    },
+    {
+      "title": "不是所有IP都叫CPOPwave 绝区零匠心雕琢的用户品质口碑正在绵延生长",
+      "url": "https://www.bilibili.com/video/BV12Axk6hEhg",
+      "hot_value": "571151播放",
+      "index": 15
+    },
+    {
+      "title": "假如带着豆包和蓝色大肥鱼等一众AI穿越到2018年...[1-5合集]",
+      "url": "https://www.bilibili.com/video/BV1xixi6yELU",
+      "hot_value": "462944播放",
+      "index": 16
+    },
+    {
+      "title": "欢迎收看09年高中生学到电脑关机的一天",
+      "url": "https://www.bilibili.com/video/BV13Fxv6nEqS",
+      "hot_value": "1270064播放",
       "index": 17
     },
     {
       "title": "假如主角身边全是奸臣(大合集)一次性看完!",
       "url": "https://www.bilibili.com/video/BV11Txg6BEPe",
-      "hot_value": "4180904播放",
+      "hot_value": "4327748播放",
       "index": 18
     },
     {
-      "title": "【鬼谷闲谈】沧龙：问君能有几多愁，恰似鳞龙入海流",
-      "url": "https://www.bilibili.com/video/BV1qfxB6qEjD",
-      "hot_value": "600949播放",
+      "title": "老木师对决橡胶带",
+      "url": "https://www.bilibili.com/video/BV1sVno6pE2M",
+      "hot_value": "1523153播放",
       "index": 19
     },
     {
-      "title": "【萌黄一槽】川木[楔二]全技能爆料！“小小”借过一下！",
-      "url": "https://www.bilibili.com/video/BV1KYx16BEG1",
-      "hot_value": "728321播放",
+      "title": "我们这上冻了，你们那几度~",
+      "url": "https://www.bilibili.com/video/BV13QH56nEnV",
+      "hot_value": "1373730播放",
       "index": 20
     },
     {
-      "title": "《派游记》南京赏秋",
-      "url": "https://www.bilibili.com/video/BV13kxv6QEFg",
-      "hot_value": "1553341播放",
+      "title": "“我本该命途齐天”【孙悟空＆新·与天齐】",
+      "url": "https://www.bilibili.com/video/BV1bnsZ6GEN3",
+      "hot_value": "1280101播放",
       "index": 21
     },
     {
-      "title": "不是所有IP都叫CPOPwave 绝区零匠心雕琢的用户品质口碑正在绵延生长",
-      "url": "https://www.bilibili.com/video/BV12Axk6hEhg",
-      "hot_value": "536705播放",
+      "title": "我是草",
+      "url": "https://www.bilibili.com/video/BV1pkxi66ErX",
+      "hot_value": "873935播放",
       "index": 22
     },
     {
-      "title": "挑战点一份煎饼果子加料一只帝王蟹，老板会接单吗？",
-      "url": "https://www.bilibili.com/video/BV1FXxL6VEVf",
-      "hot_value": "2559923播放",
+      "title": "《动物声卡驱动异常》",
+      "url": "https://www.bilibili.com/video/BV1pkxi66EG6",
+      "hot_value": "595385播放",
       "index": 23
     },
     {
       "title": "原歌词越正，改成小调就越阴？你熟悉的童真歌曲变成小调后哪首反差最大？",
       "url": "https://www.bilibili.com/video/BV1KGxv6GEo4",
-      "hot_value": "1433065播放",
+      "hot_value": "1499393播放",
       "index": 24
     },
     {
-      "title": "【大鸣王潮1566】他们不会察觉",
-      "url": "https://www.bilibili.com/video/BV16nxy6oE85",
-      "hot_value": "150588播放",
+      "title": "选一条路，决定你接下来的旅途",
+      "url": "https://www.bilibili.com/video/BV1Nax16uEHm",
+      "hot_value": "124315播放",
       "index": 25
+    },
+    {
+      "title": "波风水门[九喇嘛连结]优化展示！",
+      "url": "https://www.bilibili.com/video/BV1tkxJ6iEbY",
+      "hot_value": "294613播放",
+      "index": 26
     },
     {
       "title": "灭霸跑早操时鞋被踩掉了",
       "url": "https://www.bilibili.com/video/BV1GMxz6hEHT",
-      "hot_value": "400240播放",
-      "index": 26
-    },
-    {
-      "title": "耗资上万！我重制了网页版MC！【B站AI创造公开赛】",
-      "url": "https://www.bilibili.com/video/BV1Nxxr6oES2",
-      "hot_value": "118227播放",
+      "hot_value": "465210播放",
       "index": 27
     },
     {
-      "title": "《飞 升 八 强！》",
-      "url": "https://www.bilibili.com/video/BV1i4xy6XEZX",
-      "hot_value": "213562播放",
+      "title": "【丧病中配】当2077的CV来配音《赛博朋克：边缘行者2》（第一话）",
+      "url": "https://www.bilibili.com/video/BV1VaxY6DE5v",
+      "hot_value": "1057852播放",
       "index": 28
     },
     {
-      "title": "一个学生在3小时内喝了7.6升咖啡，这是他的肾脏发生的变化",
-      "url": "https://www.bilibili.com/video/BV1taxi67EyC",
-      "hot_value": "499724播放",
+      "title": "仁川兄弟《Trouble Faker》瑞士轮晋级结算画面",
+      "url": "https://www.bilibili.com/video/BV1MMxq6XE8g",
+      "hot_value": "1119318播放",
       "index": 29
     },
     {
-      "title": "⚡️艾达王&里昂《Trouble Maker》⚡️",
-      "url": "https://www.bilibili.com/video/BV1RBxq6wEqg",
-      "hot_value": "244500播放",
+      "title": "【萌黄一槽】川木[楔二]全技能爆料！“小小”借过一下！",
+      "url": "https://www.bilibili.com/video/BV1KYx16BEG1",
+      "hot_value": "789081播放",
       "index": 30
     }
   ]
