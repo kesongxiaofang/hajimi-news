@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-10-31T23:55:47Z",
+  "update_time": "2026-11-01T04:22:28Z",
   "count": 30,
   "list": [
     {
-      "title": " 【独家】《凡人修仙传之慕兰之战》第22集【总第198集】",
-      "url": "https://www.bilibili.com/video/BV1vVxi68EWD",
-      "hot_value": "4819946播放",
+      "title": "【2026全球总决赛】11月1日 HLE vs BLG",
+      "url": "https://www.bilibili.com/video/BV1C8xn6YEDA",
+      "hot_value": "3821020播放",
       "index": 1
     },
     {
       "title": "全球笑点下降2000倍而我不变【第二集】",
       "url": "https://www.bilibili.com/video/BV1TxxC6vEo4",
-      "hot_value": "1703051播放",
+      "hot_value": "2632729播放",
       "index": 2
-    },
-    {
-      "title": "灭建国的超能力",
-      "url": "https://www.bilibili.com/video/BV1ugxq6HEfH",
-      "hot_value": "3717048播放",
-      "index": 3
-    },
-    {
-      "title": "【鬼谷闲谈】沧龙：问君能有几多愁，恰似鳞龙入海流",
-      "url": "https://www.bilibili.com/video/BV1qfxB6qEjD",
-      "hot_value": "709331播放",
-      "index": 4
-    },
-    {
-      "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
-      "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
-      "hot_value": "516890播放",
-      "index": 5
-    },
-    {
-      "title": "1944滇缅竹林：远征军教盟军吃虎皮笋，油手把风笛吹成妖笛【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1q8x56uEDU",
-      "hot_value": "3697442播放",
-      "index": 6
-    },
-    {
-      "title": "“若神不能理解我，那祂便算不上神！！”",
-      "url": "https://www.bilibili.com/video/BV1wbxr6REXk",
-      "hot_value": "513299播放",
-      "index": 7
-    },
-    {
-      "title": "纯黑《影之刃零》逆天者全程无伤一镜到底攻略解说 第一期",
-      "url": "https://www.bilibili.com/video/BV1Ntxr6xEjG",
-      "hot_value": "889254播放",
-      "index": 8
     },
     {
       "title": "《动物声卡驱动异常》",
       "url": "https://www.bilibili.com/video/BV1pkxi66EG6",
-      "hot_value": "684139播放",
-      "index": 9
+      "hot_value": "1454457播放",
+      "index": 3
     },
     {
-      "title": "【泛式/剧情MAD】你我的故事，写作『相互凌迟』......   [薇欧拉/bilibilionly同人扶持计划]",
-      "url": "https://www.bilibili.com/video/BV1sax16uEXm",
-      "hot_value": "430499播放",
-      "index": 10
-    },
-    {
-      "title": "小时候直肠子就这样讲话",
-      "url": "https://www.bilibili.com/video/BV1QqxY6jEPY",
-      "hot_value": "3350336播放",
-      "index": 11
-    },
-    {
-      "title": "我是草",
-      "url": "https://www.bilibili.com/video/BV1pkxi66ErX",
-      "hot_value": "911754播放",
-      "index": 12
-    },
-    {
-      "title": "选一条路，决定你接下来的旅途",
-      "url": "https://www.bilibili.com/video/BV1Nax16uEHm",
-      "hot_value": "182622播放",
-      "index": 13
-    },
-    {
-      "title": "不是所有IP都叫CPOPwave 绝区零匠心雕琢的用户品质口碑正在绵延生长",
-      "url": "https://www.bilibili.com/video/BV12Axk6hEhg",
-      "hot_value": "578865播放",
-      "index": 14
-    },
-    {
-      "title": "“我本该命途齐天”【孙悟空＆新·与天齐】",
-      "url": "https://www.bilibili.com/video/BV1bnsZ6GEN3",
-      "hot_value": "1285617播放",
-      "index": 15
-    },
-    {
-      "title": "【逆水寒×中国歌剧舞剧院】再见仍是初遇的惊艳，国家队跳阿初祈月舞！",
-      "url": "https://www.bilibili.com/video/BV1ossf64EKA",
-      "hot_value": "1712083播放",
-      "index": 16
-    },
-    {
-      "title": "《烂梗下桌》与其怪食客的嘴，不如让烂梗下桌",
-      "url": "https://www.bilibili.com/video/BV159xe6sE5C",
-      "hot_value": "815250播放",
-      "index": 17
-    },
-    {
-      "title": "假如带着豆包和蓝色大肥鱼等一众AI穿越到2018年...[1-5合集]",
-      "url": "https://www.bilibili.com/video/BV1xixi6yELU",
-      "hot_value": "498110播放",
-      "index": 18
-    },
-    {
-      "title": "[ONHWA] 吃生肝的九尾狐",
-      "url": "https://www.bilibili.com/video/BV1L3x16XEwA",
-      "hot_value": "237468播放",
-      "index": 19
-    },
-    {
-      "title": "实在抱歉！我哥疯了  （阿晴教学篇op/ed）【28】",
-      "url": "https://www.bilibili.com/video/BV1Z8xv6fEx9",
-      "hot_value": "967150播放",
-      "index": 20
-    },
-    {
-      "title": "全网搬大润发第一人！！！",
-      "url": "https://www.bilibili.com/video/BV1sVxv6rEJ7",
-      "hot_value": "1225458播放",
-      "index": 21
-    },
-    {
-      "title": "原歌词越正，改成小调就越阴？你熟悉的童真歌曲变成小调后哪首反差最大？",
-      "url": "https://www.bilibili.com/video/BV1KGxv6GEo4",
-      "hot_value": "1522199播放",
-      "index": 22
+      "title": "【OC动画】馆长大人，请消消气！🌙酒魔女与她的贵客【魔女夜话小剧场】【手搓动画大赛】",
+      "url": "https://www.bilibili.com/video/BV1dRx16pEPw",
+      "hot_value": "482211播放",
+      "index": 4
     },
     {
       "title": "玩具熊：模仿者的秘密，第5期，全结局",
       "url": "https://www.bilibili.com/video/BV1upx16LErq",
-      "hot_value": "344219播放",
-      "index": 23
+      "hot_value": "1140686播放",
+      "index": 5
     },
     {
-      "title": "【丧病中配】当2077的CV来配音《赛博朋克：边缘行者2》（第一话）",
-      "url": "https://www.bilibili.com/video/BV1VaxY6DE5v",
-      "hot_value": "1065665播放",
-      "index": 24
+      "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
+      "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
+      "hot_value": "1011988播放",
+      "index": 6
     },
     {
-      "title": "最逆天的一节课！！",
-      "url": "https://www.bilibili.com/video/BV1Z7xK6LE8i",
-      "hot_value": "1215099播放",
-      "index": 25
+      "title": "1944滇缅竹林：远征军教盟军吃虎皮笋，油手把风笛吹成妖笛【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1q8x56uEDU",
+      "hot_value": "4703250播放",
+      "index": 7
+    },
+    {
+      "title": "【战双帕弥什】「莱亚·祈星」角色PV | “生日快乐”",
+      "url": "https://www.bilibili.com/video/BV1rFxe6hEmn",
+      "hot_value": "440670播放",
+      "index": 8
+    },
+    {
+      "title": "压抑到极致的爆发，BLG晋级淘汰赛！BLG 2-0 HLE 赛后数据雷达图丨2026全球总决赛-瑞士轮",
+      "url": "https://www.bilibili.com/video/BV1Yfxp6HEaF",
+      "hot_value": "332588播放",
+      "index": 9
+    },
+    {
+      "title": "筋角弓制作",
+      "url": "https://www.bilibili.com/video/BV1LRxi6aEtj",
+      "hot_value": "492708播放",
+      "index": 10
+    },
+    {
+      "title": "耗资上万！我重制了网页版MC！【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1Nxxr6oES2",
+      "hot_value": "275392播放",
+      "index": 11
+    },
+    {
+      "title": "假如带着豆包和蓝色大肥鱼等一众AI穿越到2018年...[1-5合集]",
+      "url": "https://www.bilibili.com/video/BV1xixi6yELU",
+      "hot_value": "816687播放",
+      "index": 12
+    },
+    {
+      "title": "男生：我到底是不是女生啊？！！",
+      "url": "https://www.bilibili.com/video/BV1v2xr6VEHM",
+      "hot_value": "850818播放",
+      "index": 13
+    },
+    {
+      "title": "我是草",
+      "url": "https://www.bilibili.com/video/BV1pkxi66ErX",
+      "hot_value": "1242539播放",
+      "index": 14
+    },
+    {
+      "title": "选一条路，决定你接下来的旅途",
+      "url": "https://www.bilibili.com/video/BV1Nax16uEHm",
+      "hot_value": "562168播放",
+      "index": 15
+    },
+    {
+      "title": "灭霸跑早操时鞋被踩掉了",
+      "url": "https://www.bilibili.com/video/BV1GMxz6hEHT",
+      "hot_value": "785059播放",
+      "index": 16
+    },
+    {
+      "title": "小时候直肠子就这样讲话",
+      "url": "https://www.bilibili.com/video/BV1QqxY6jEPY",
+      "hot_value": "3706608播放",
+      "index": 17
+    },
+    {
+      "title": "[ONHWA] 吃生肝的九尾狐",
+      "url": "https://www.bilibili.com/video/BV1L3x16XEwA",
+      "hot_value": "529623播放",
+      "index": 18
+    },
+    {
+      "title": "【鬼谷闲谈】沧龙：问君能有几多愁，恰似鳞龙入海流",
+      "url": "https://www.bilibili.com/video/BV1qfxB6qEjD",
+      "hot_value": "977518播放",
+      "index": 19
+    },
+    {
+      "title": "【AI翻唱】雨爱（司凤版）· 大鲸鱼版",
+      "url": "https://www.bilibili.com/video/BV1Baxj61ESa",
+      "hot_value": "193776播放",
+      "index": 20
+    },
+    {
+      "title": "灭建国的超能力",
+      "url": "https://www.bilibili.com/video/BV1ugxq6HEfH",
+      "hot_value": "3915634播放",
+      "index": 21
+    },
+    {
+      "title": "当代驾遇到驾校教练",
+      "url": "https://www.bilibili.com/video/BV16gxB6gEy4",
+      "hot_value": "748110播放",
+      "index": 22
     },
     {
       "title": "“回收枪支触发主线任务”",
       "url": "https://www.bilibili.com/video/BV14uxv65EN3",
-      "hot_value": "1552942播放",
+      "hot_value": "1880450播放",
+      "index": 23
+    },
+    {
+      "title": "“若神不能理解我，那祂便算不上神！！”",
+      "url": "https://www.bilibili.com/video/BV1wbxr6REXk",
+      "hot_value": "629345播放",
+      "index": 24
+    },
+    {
+      "title": "老木师对决橡胶带",
+      "url": "https://www.bilibili.com/video/BV1sVno6pE2M",
+      "hot_value": "1850818播放",
+      "index": 25
+    },
+    {
+      "title": "别扯头发啦，没几根啦！",
+      "url": "https://www.bilibili.com/video/BV1aFxv6nEPw",
+      "hot_value": "998961播放",
       "index": 26
     },
     {
-      "title": "『复活局合集』死去的声音突然攻击我.",
-      "url": "https://www.bilibili.com/video/BV1ruxK6DEDY",
-      "hot_value": "1181185播放",
+      "title": "【果然三角洲9】得众乐乐啊",
+      "url": "https://www.bilibili.com/video/BV1xQxy6iEU4",
+      "hot_value": "200676播放",
       "index": 27
     },
     {
-      "title": "仁川兄弟《Trouble Faker》瑞士轮晋级结算画面",
-      "url": "https://www.bilibili.com/video/BV1MMxq6XE8g",
-      "hot_value": "1135298播放",
+      "title": "别害怕，你的后面我在呢",
+      "url": "https://www.bilibili.com/video/BV1Vuxr6BEsT",
+      "hot_value": "418458播放",
       "index": 28
     },
     {
-      "title": "一个学生在3小时内喝了7.6升咖啡，这是他的肾脏发生的变化",
-      "url": "https://www.bilibili.com/video/BV1taxi67EyC",
-      "hot_value": "568603播放",
+      "title": "【泛式/剧情MAD】你我的故事，写作『相互凌迟』......   [薇欧拉/bilibilionly同人扶持计划]",
+      "url": "https://www.bilibili.com/video/BV1sax16uEXm",
+      "hot_value": "547669播放",
       "index": 29
     },
     {
-      "title": "【萌黄一槽】川木[楔二]全技能爆料！“小小”借过一下！",
-      "url": "https://www.bilibili.com/video/BV1KYx16BEG1",
-      "hot_value": "811411播放",
+      "title": "纯黑《影之刃零》逆天者全程无伤一镜到底攻略解说 第一期",
+      "url": "https://www.bilibili.com/video/BV1Ntxr6xEjG",
+      "hot_value": "1065928播放",
       "index": 30
     }
   ]
