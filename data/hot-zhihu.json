@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-02T07:21:32Z",
+  "update_time": "2026-11-02T17:18:55Z",
   "count": 30,
   "list": [
     {
       "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
       "url": "https://www.zhihu.com/question/2100501083466326367",
-      "hot_value": "1037 万热度",
+      "hot_value": "1056 万热度",
       "index": 1
-    },
-    {
-      "title": "网友发现罗技广告又以狗比喻用户，客服回应已展开调查，为什么继此前舆论风波后还会出现这种情况？",
-      "url": "https://www.zhihu.com/question/2100514761490129595",
-      "hot_value": "800 万热度",
-      "index": 2
-    },
-    {
-      "title": "为何 AI 短剧好像放弃了清宫戏，而更倾向于唐 / 宋 / 架空朝代？跟观众偏好、技术、选题、价值观有啥关系吗？",
-      "url": "https://www.zhihu.com/question/2100281204884731770",
-      "hot_value": "689 万热度",
-      "index": 3
-    },
-    {
-      "title": "庆功宴上，领导表扬你一句后夹起一块鱼给你，说「鱼是好鱼，就是刺多」，你该如何高情商地回答？",
-      "url": "https://www.zhihu.com/question/2099783520373756743",
-      "hot_value": "545 万热度",
-      "index": 4
-    },
-    {
-      "title": "孩子主动和我说，不想拿第一名，只想做中等舒服的人，我该怎么办？",
-      "url": "https://www.zhihu.com/question/2098060428395991630",
-      "hot_value": "347 万热度",
-      "index": 5
-    },
-    {
-      "title": "央行、金融监管总局、证监会召开座谈会，研究推动支持资本市场工具使用，这次含金量和 9.24 比能到几成？",
-      "url": "https://www.zhihu.com/question/2100255430828103026",
-      "hot_value": "343 万热度",
-      "index": 6
-    },
-    {
-      "title": "柬埔寨电诈园区转到非洲，主要从事网恋、加密货币及虚假投资诈骗，为什么会转移地点？海外出行需要注意什么？",
-      "url": "https://www.zhihu.com/question/2100488722936328450",
-      "hot_value": "312 万热度",
-      "index": 7
-    },
-    {
-      "title": "《影之刃零》为什么要做出打完 boss 直接进入下一章并会导致前面任务全部失败的设计？",
-      "url": "https://www.zhihu.com/question/2100025998196602808",
-      "hot_value": "199 万热度",
-      "index": 8
-    },
-    {
-      "title": "红果日活 1.68 亿，AI 短剧一集可能只赚一块钱，对此你怎么看？AI 短剧为何不赚钱？",
-      "url": "https://www.zhihu.com/question/2098854103598239840",
-      "hot_value": "182 万热度",
-      "index": 9
-    },
-    {
-      "title": "为什么英雄联盟解说在提 Kanavi 时感觉有很强情绪，这是什么原因？",
-      "url": "https://www.zhihu.com/question/2100132578984289152",
-      "hot_value": "154 万热度",
-      "index": 10
-    },
-    {
-      "title": "法定节假日增至 13 天并优化调休，将对公众生活与休假体验带来哪些改变？",
-      "url": "https://www.zhihu.com/question/2099697728552952157",
-      "hot_value": "150 万热度",
-      "index": 11
-    },
-    {
-      "title": "中国首次载人登月时，航天员走出舱门后的第一句话适合说什么？",
-      "url": "https://www.zhihu.com/question/2099962739854669782",
-      "hot_value": "145 万热度",
-      "index": 12
-    },
-    {
-      "title": "岳不群是一开始就是坏人还是中途变坏？",
-      "url": "https://www.zhihu.com/question/597388955",
-      "hot_value": "141 万热度",
-      "index": 13
-    },
-    {
-      "title": "德国 30 多城爆发抗议，抗议高昂生活成本并要求改善教育，本次席卷欧洲抗议浪潮影响有多大？可能会如何收尾？",
-      "url": "https://www.zhihu.com/question/2100276778795099428",
-      "hot_value": "135 万热度",
-      "index": 14
-    },
-    {
-      "title": "WTT 法兰克福冠军赛签表出炉，王楚钦首战林德与张本智和同半区，你有哪些期待？",
-      "url": "https://www.zhihu.com/question/2100371078866588339",
-      "hot_value": "129 万热度",
-      "index": 15
-    },
-    {
-      "title": "你认为特朗普和共和党能赢下今年的中期选举吗？",
-      "url": "https://www.zhihu.com/question/2008641759798894962",
-      "hot_value": "128 万热度",
-      "index": 16
-    },
-    {
-      "title": "为什么在中国，很多人认为中国球员踢不好球是因为太有钱了？",
-      "url": "https://www.zhihu.com/question/2064955425045352865",
-      "hot_value": "128 万热度",
-      "index": 17
-    },
-    {
-      "title": "热播剧《小城良方》中用甲硝唑磨粉吸进鼻子治鼻炎被质疑，甲硝唑粉真的能治鼻炎吗？可能会有哪些风险？",
-      "url": "https://www.zhihu.com/question/2099543121717454405",
-      "hot_value": "128 万热度",
-      "index": 18
-    },
-    {
-      "title": "全球平板出货量同比下降 12.3%，平板还有必要每年发布新款吗？为啥平板越来越难卖了？",
-      "url": "https://www.zhihu.com/question/2098132006286487589",
-      "hot_value": "128 万热度",
-      "index": 19
     },
     {
       "title": "美国一邮轮推出 246 万元起「终身旅居」套餐，2 年后因燃油成本乘客被赶下船，怎么看邮轮的毁约行为？",
       "url": "https://www.zhihu.com/question/2100494142325223777",
+      "hot_value": "673 万热度",
+      "index": 2
+    },
+    {
+      "title": "如何看待南京一助教老师休息日爬山 5 小时未回工作消息遭辞退？「休息日定时查看 3 次工作号」的要求合法吗？",
+      "url": "https://www.zhihu.com/question/2100514068792661637",
+      "hot_value": "612 万热度",
+      "index": 3
+    },
+    {
+      "title": "如何看待即使在山河四省，也有很多高中生疯狂玩游戏，抄作业，早恋，摆烂，最后全凭高考分数考上 985 的？",
+      "url": "https://www.zhihu.com/question/2097354391070291569",
+      "hot_value": "576 万热度",
+      "index": 4
+    },
+    {
+      "title": "网友发现罗技广告又以狗比喻用户，客服回应已展开调查，为什么继此前舆论风波后还会出现这种情况？",
+      "url": "https://www.zhihu.com/question/2100514761490129595",
+      "hot_value": "297 万热度",
+      "index": 5
+    },
+    {
+      "title": "第二届苏超结束，流量断崖下跌，这个比赛未来还有新的破局增长点吗，未来这个比赛将立足于哪里？",
+      "url": "https://www.zhihu.com/question/2100539974781071970",
+      "hot_value": "273 万热度",
+      "index": 6
+    },
+    {
+      "title": "砍完人就收进剑鞘，剑不会臭吗？",
+      "url": "https://www.zhihu.com/question/2095907153181505492",
+      "hot_value": "253 万热度",
+      "index": 7
+    },
+    {
+      "title": "地球上的动物为什么很多都进化出「睡觉」这一习性？",
+      "url": "https://www.zhihu.com/question/2069724416724952593",
+      "hot_value": "224 万热度",
+      "index": 8
+    },
+    {
+      "title": "微软大裁员后许多印度裔员工的上班 vlog 被扒，上班即食堂、锻炼打球等是真的吗？真实的职场环境是怎样的？",
+      "url": "https://www.zhihu.com/question/2100586352018284799",
+      "hot_value": "200 万热度",
+      "index": 9
+    },
+    {
+      "title": "Bin 赛后采访称「都说 Zeus 是世一上，今天我击败了他就接替了他的位置」对此你有什么想说的？",
+      "url": "https://www.zhihu.com/question/2100542237821986644",
+      "hot_value": "194 万热度",
+      "index": 10
+    },
+    {
+      "title": "美国中期选举临近，捐款榜前十里七家倒向共和党，支持率却不如民主党，为啥金钱失去了以往一锤定音的威力？",
+      "url": "https://www.zhihu.com/question/2099494216397054526",
+      "hot_value": "189 万热度",
+      "index": 11
+    },
+    {
+      "title": "币安被盗资产已补回 90%，剩余 10% 因流动性较低暂未补齐，此次事件还有哪些问题需要解决？",
+      "url": "https://www.zhihu.com/question/2100144466690405284",
+      "hot_value": "185 万热度",
+      "index": 12
+    },
+    {
+      "title": "联想指纹加密 U 盘被曝拆壳即可明文读取数据，为何硬件加密会形同虚设？",
+      "url": "https://www.zhihu.com/question/2100532447242932373",
+      "hot_value": "177 万热度",
+      "index": 13
+    },
+    {
+      "title": "微软向 6 万名员工开放自愿离职方案，为何连 Copilot 部门也成重灾区？",
+      "url": "https://www.zhihu.com/question/2098769070032164639",
+      "hot_value": "144 万热度",
+      "index": 14
+    },
+    {
+      "title": "离职了，前同事直接问我找到工作没，该怎么回复呀？\n",
+      "url": "https://www.zhihu.com/question/659496375",
+      "hot_value": "144 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何评价影之刃零？",
+      "url": "https://www.zhihu.com/question/2099860363948905962",
+      "hot_value": "144 万热度",
+      "index": 16
+    },
+    {
+      "title": "谁最可能成为中国首位登月航天员，他的历史地位将会如何？",
+      "url": "https://www.zhihu.com/question/2099963603109651279",
       "hot_value": "128 万热度",
+      "index": 17
+    },
+    {
+      "title": "gpt 越来越不行了，是为什么？",
+      "url": "https://www.zhihu.com/question/1905941578591211859",
+      "hot_value": "125 万热度",
+      "index": 18
+    },
+    {
+      "title": "仰望 U9Xtreme 将挑战更高极速，国产纯电超跑冲击 500km/h 大关有哪些技术看点？",
+      "url": "https://www.zhihu.com/question/2100545408288175143",
+      "hot_value": "118 万热度",
+      "index": 19
+    },
+    {
+      "title": "如何看待 Rookie 采访称「我想成为第二个世界赛双冠中单选手，想要 iG 再次夺冠重振联赛」？",
+      "url": "https://www.zhihu.com/question/2100541815300388555",
+      "hot_value": "117 万热度",
       "index": 20
+    },
+    {
+      "title": "法定节假日增至 13 天并优化调休，将对公众生活与休假体验带来哪些改变？",
+      "url": "https://www.zhihu.com/question/2099697728552952157",
+      "hot_value": "108 万热度",
+      "index": 21
+    },
+    {
+      "title": "为什么我们会同情文学里的失败者，却常常看不起现实中同样失败的人？",
+      "url": "https://www.zhihu.com/question/2075743262611187508",
+      "hot_value": "80 万热度",
+      "index": 22
+    },
+    {
+      "title": "三只松鼠发布财报，第三季度主营业务日赚不足 1 万元，为什么会这样？三只松鼠目前经营面临哪些问题？",
+      "url": "https://www.zhihu.com/question/2099575888148783135",
+      "hot_value": "79 万热度",
+      "index": 23
+    },
+    {
+      "title": "林肯废奴是不是美国历史上的一个巨大错误?",
+      "url": "https://www.zhihu.com/question/2094887566529000577",
+      "hot_value": "79 万热度",
+      "index": 24
     },
     {
       "title": "金饰年内每克跌近 550 元，30 克手镯一天就能亏 800 元，为什么有人说黄金抄底比登天还难？",
       "url": "https://www.zhihu.com/question/2100190289180861164",
-      "hot_value": "128 万热度",
-      "index": 21
-    },
-    {
-      "title": "影之刃零公布销量，发售 72 小时全平台突破 400 万份，想知道这个数据算卖的好吗？",
-      "url": "https://www.zhihu.com/question/2100531782424715708",
-      "hot_value": "127 万热度",
-      "index": 22
-    },
-    {
-      "title": "2627 赛季 NBA 常规赛快船 112-124 勇士，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2100523689880056632",
-      "hot_value": "127 万热度",
-      "index": 23
-    },
-    {
-      "title": "中国科学院院士李洪钟 37 岁才考研读硕，这件事给面临年龄焦虑的年轻人带来哪些启示？",
-      "url": "https://www.zhihu.com/question/2099720198530118976",
-      "hot_value": "126 万热度",
-      "index": 24
-    },
-    {
-      "title": "有虫眼的菜说明没打农药，这种说法科学吗？",
-      "url": "https://www.zhihu.com/question/2001947486575691589",
-      "hot_value": "119 万热度",
+      "hot_value": "78 万热度",
       "index": 25
     },
     {
-      "title": "《影之刃零》能复刻《黑神话：悟空》的千万级销量神话吗？",
-      "url": "https://www.zhihu.com/question/2098861445219985178",
-      "hot_value": "117 万热度",
+      "title": "你是如何发现一个人的认知远在自己之上的？",
+      "url": "https://www.zhihu.com/question/2099587238094975612",
+      "hot_value": "78 万热度",
       "index": 26
     },
     {
-      "title": "s16 淘汰赛抽签结果出来了，你觉得哪只队伍最有可能进四强？",
-      "url": "https://www.zhihu.com/question/2100139724740608452",
-      "hot_value": "96 万热度",
+      "title": "家里两个男孩，老小介意捡哥哥的旧衣服穿，心生不满，该怎么安抚和引导？",
+      "url": "https://www.zhihu.com/question/2056373448641926329",
+      "hot_value": "75 万热度",
       "index": 27
     },
     {
-      "title": "英国首相表示愿考虑为奴隶贸易正式道歉，但拒绝经济赔偿，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2100181001292833051",
-      "hot_value": "96 万热度",
+      "title": "为什么有些人工作能力很强，却始终找不到适合自己的职业方向？",
+      "url": "https://www.zhihu.com/question/2092339336964583607",
+      "hot_value": "73 万热度",
       "index": 28
     },
     {
-      "title": "多位网友曝博纳影业欠薪，公司称正在核实，具体啥情况？从民营电影巨头到如今陷欠薪传闻，博纳影业怎么了？",
-      "url": "https://www.zhihu.com/question/2099997654327324839",
-      "hot_value": "94 万热度",
+      "title": "孩子说先看二十分钟电视，再去写作业，你会同意吗？",
+      "url": "https://www.zhihu.com/question/2052716901101573266",
+      "hot_value": "72 万热度",
       "index": 29
     },
     {
-      "title": "如何评价明日方舟 SideStory 《时间啊，向前！》活动剧情？",
-      "url": "https://www.zhihu.com/question/2100403413968339631",
-      "hot_value": "86 万热度",
+      "title": "日常养生有什么简单易行的好方法？",
+      "url": "https://www.zhihu.com/question/2081293772848095995",
+      "hot_value": "71 万热度",
       "index": 30
     }
   ]
