@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-01T21:18:52Z",
+  "update_time": "2026-11-02T00:57:03Z",
   "count": 30,
   "list": [
     {
       "title": "如何看待鸿蒙智行五界 2026 年 10 月销量合计 33537 辆？五界是否能生存下去？",
       "url": "https://www.zhihu.com/question/2100246281591510431",
-      "hot_value": "420 万热度",
+      "hot_value": "453 万热度",
       "index": 1
     },
     {
-      "title": "巴菲特天天吃麦当劳还喝那么多可乐，为何还那么长寿？\n",
-      "url": "https://www.zhihu.com/question/279093295",
-      "hot_value": "311 万热度",
+      "title": "江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？",
+      "url": "https://www.zhihu.com/question/2099653516453328673",
+      "hot_value": "199 万热度",
       "index": 2
+    },
+    {
+      "title": "《影之刃零》能复刻《黑神话：悟空》的千万级销量神话吗？",
+      "url": "https://www.zhihu.com/question/2098861445219985178",
+      "hot_value": "197 万热度",
+      "index": 3
+    },
+    {
+      "title": "为何 AI 短剧好像放弃了清宫戏，而更倾向于唐 / 宋 / 架空朝代？跟观众偏好、技术、选题、价值观有啥关系吗？",
+      "url": "https://www.zhihu.com/question/2100281204884731770",
+      "hot_value": "178 万热度",
+      "index": 4
+    },
+    {
+      "title": "庆功宴上，领导表扬你一句后夹起一块鱼给你，说「鱼是好鱼，就是刺多」，你该如何高情商地回答？",
+      "url": "https://www.zhihu.com/question/2099783520373756743",
+      "hot_value": "159 万热度",
+      "index": 5
     },
     {
       "title": "如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？",
       "url": "https://www.zhihu.com/question/2100317442232644379",
-      "hot_value": "277 万热度",
-      "index": 3
-    },
-    {
-      "title": "四川华蓥大摆荡致 1 名 16 岁游客死亡调查报告公布，2 名责任人已移送司法机关处理，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2099965221775173414",
-      "hot_value": "201 万热度",
-      "index": 4
-    },
-    {
-      "title": "怎么看 Anthropic IPO 前夕被黑石评为「垃圾级」？",
-      "url": "https://www.zhihu.com/question/2100203992827557509",
-      "hot_value": "201 万热度",
-      "index": 5
-    },
-    {
-      "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
-      "url": "https://www.zhihu.com/question/2099967799934313950",
-      "hot_value": "175 万热度",
+      "hot_value": "156 万热度",
       "index": 6
     },
     {
-      "title": "鲁迅在《孔乙己》中写民国的普通打工人傍午就下班，下班后喝黄酒，吃盐煮笋、茴香豆是否符合历史？",
-      "url": "https://www.zhihu.com/question/2100159022481532058",
-      "hot_value": "175 万热度",
+      "title": "巴菲特天天吃麦当劳还喝那么多可乐，为何还那么长寿？\n",
+      "url": "https://www.zhihu.com/question/279093295",
+      "hot_value": "152 万热度",
       "index": 7
     },
     {
-      "title": "Anthropic 账面亏损 807 亿美元却冲刺 2 万亿 IPO，背后的原因是什么？",
-      "url": "https://www.zhihu.com/question/2099683580964352612",
-      "hot_value": "174 万热度",
+      "title": "鲁迅在《孔乙己》中写清末的普通打工人傍午就下班，下班后喝黄酒，吃盐煮笋、茴香豆是否符合历史？",
+      "url": "https://www.zhihu.com/question/2100159022481532058",
+      "hot_value": "123 万热度",
       "index": 8
     },
     {
-      "title": "三连冠选手 Gumayusi 生涯首次无缘 S 赛八强，如何评价他本届赛事的表现？",
-      "url": "https://www.zhihu.com/question/2100140951066894432",
-      "hot_value": "174 万热度",
+      "title": "如何评价山东东营 80 后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
+      "url": "https://www.zhihu.com/question/2098799350503699522",
+      "hot_value": "114 万热度",
       "index": 9
     },
     {
-      "title": "你知道的最冷的冷知识是什么？",
-      "url": "https://www.zhihu.com/question/51459956",
-      "hot_value": "161 万热度",
+      "title": "法定节假日增至 13 天并优化调休，将对公众生活与休假体验带来哪些改变？",
+      "url": "https://www.zhihu.com/question/2099697728552952157",
+      "hot_value": "110 万热度",
       "index": 10
     },
     {
       "title": "如何评价懂车帝 MPV 爬坡测试视频？",
       "url": "https://www.zhihu.com/question/2099981621046859004",
-      "hot_value": "160 万热度",
+      "hot_value": "109 万热度",
       "index": 11
     },
     {
-      "title": "如何评价《星布谷地》公测前瞻特别节目？",
-      "url": "https://www.zhihu.com/question/2096909622519001279",
-      "hot_value": "158 万热度",
+      "title": "孩子主动和我说，不想拿第一名，只想做中等舒服的人，我该怎么办？",
+      "url": "https://www.zhihu.com/question/2098060428395991630",
+      "hot_value": "107 万热度",
       "index": 12
     },
     {
-      "title": "我国宣布派遣三名航天员登月，那么他们登上月球后应该说一句什么话才能在历史书上压倒阿姆斯特朗那句话呢？",
-      "url": "https://www.zhihu.com/question/2100177964231149403",
-      "hot_value": "155 万热度",
+      "title": "张雪提出飞行超 5 小时全员必须头等舱，说老板单独坐头等舱很 low，现实里其他公司能照搬吗？",
+      "url": "https://www.zhihu.com/question/2100303604582191689",
+      "hot_value": "103 万热度",
       "index": 13
-    },
-    {
-      "title": "江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？",
-      "url": "https://www.zhihu.com/question/2099653516453328673",
-      "hot_value": "146 万热度",
-      "index": 14
-    },
-    {
-      "title": "如何快速分辨出一个人是否善良？",
-      "url": "https://www.zhihu.com/question/511919341",
-      "hot_value": "128 万热度",
-      "index": 15
-    },
-    {
-      "title": "如何评价山东东营 80 后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
-      "url": "https://www.zhihu.com/question/2098799350503699522",
-      "hot_value": "120 万热度",
-      "index": 16
-    },
-    {
-      "title": "外媒称《影之刃零》后期难度太低甚至初见杀最终 Boss，如何评价该难度设计？",
-      "url": "https://www.zhihu.com/question/2098056295370711750",
-      "hot_value": "119 万热度",
-      "index": 17
-    },
-    {
-      "title": "41 岁 C 罗距职业生涯千球仅差 15 球，这一纪录对世界足坛意味着什么？",
-      "url": "https://www.zhihu.com/question/2099769633012199862",
-      "hot_value": "100 万热度",
-      "index": 18
-    },
-    {
-      "title": "现货黄金跌至一年低点，白银跌破 50 美元，贵金属这波大跌是什么原因？",
-      "url": "https://www.zhihu.com/question/2099792854877058324",
-      "hot_value": "99 万热度",
-      "index": 19
-    },
-    {
-      "title": "自媒体博主称苹果 Duo 中国版偷工减料，取消了卫星通信、 UWB 等组件，是真的吗？使用体验会受到影响吗？",
-      "url": "https://www.zhihu.com/question/2100124169555764715",
-      "hot_value": "98 万热度",
-      "index": 20
-    },
-    {
-      "title": "如何评价 2026 年 10 月小米汽车交付量超过 50000 台？",
-      "url": "https://www.zhihu.com/question/2100160196362384887",
-      "hot_value": "98 万热度",
-      "index": 21
     },
     {
       "title": "几百年后的人看现在，会不会觉得内燃机是人类在汽车制造上的一条弯路?",
       "url": "https://www.zhihu.com/question/14858801086",
-      "hot_value": "96 万热度",
-      "index": 22
+      "hot_value": "101 万热度",
+      "index": 14
     },
     {
-      "title": "如何评价第 43 届物理竞赛决赛？",
-      "url": "https://www.zhihu.com/question/7704826101",
-      "hot_value": "94 万热度",
-      "index": 23
+      "title": "芒果台今年已推出《我家那闺女》《后会友期》《中餐厅》《乘风》等大爆综艺，为啥芒果做综艺这么有「灵性」？",
+      "url": "https://www.zhihu.com/question/2099892792797259253",
+      "hot_value": "98 万热度",
+      "index": 15
+    },
+    {
+      "title": "懂球帝就姆巴佩一事再发补充声明，称在官方恢复皇马转播与报道前将不再主动推送相关内容，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2100245408010036134",
+      "hot_value": "97 万热度",
+      "index": 16
+    },
+    {
+      "title": "热播剧《小城良方》中男主用甲硝唑磨粉吸进鼻子治鼻炎被质疑，甲硝唑粉真的能治鼻炎吗？可能会有哪些风险？",
+      "url": "https://www.zhihu.com/question/2099543121717454405",
+      "hot_value": "97 万热度",
+      "index": 17
+    },
+    {
+      "title": "自媒体博主称苹果 Duo 中国版偷工减料，取消了卫星通信、 UWB 等组件，是真的吗？使用体验会受到影响吗？",
+      "url": "https://www.zhihu.com/question/2100124169555764715",
+      "hot_value": "96 万热度",
+      "index": 18
+    },
+    {
+      "title": "我国宣布派遣三名航天员登月，那么他们登上月球后应该说一句什么话才能在历史书上压倒阿姆斯特朗那句话呢？",
+      "url": "https://www.zhihu.com/question/2100177964231149403",
+      "hot_value": "96 万热度",
+      "index": 19
     },
     {
       "title": "法国爆发第三轮抗议活动，抗议人数从 55 万降至 32 万，是意味着这轮社会抗议正在降温吗？抗议还会持续多久？",
       "url": "https://www.zhihu.com/question/2100178342901019827",
-      "hot_value": "94 万热度",
-      "index": 24
+      "hot_value": "95 万热度",
+      "index": 20
     },
     {
-      "title": "如何看待王子璇和文吉儿的关系？",
-      "url": "https://www.zhihu.com/question/2099506436925548247",
-      "hot_value": "90 万热度",
-      "index": 25
+      "title": "你知道的最冷的冷知识是什么？",
+      "url": "https://www.zhihu.com/question/51459956",
+      "hot_value": "88 万热度",
+      "index": 21
     },
     {
-      "title": "DeepSeek4.1Pro 迟迟不发布的原因有哪些？",
-      "url": "https://www.zhihu.com/question/2099909586245399443",
-      "hot_value": "86 万热度",
-      "index": 26
-    },
-    {
-      "title": "奥特曼称 OpenAI 内部新模型让他兴奋到两晚没睡，这意味着什么？",
-      "url": "https://www.zhihu.com/question/2099437165495300675",
-      "hot_value": "86 万热度",
-      "index": 27
+      "title": "外媒称《影之刃零》后期难度太低甚至初见杀最终 Boss，如何评价该难度设计？",
+      "url": "https://www.zhihu.com/question/2098056295370711750",
+      "hot_value": "87 万热度",
+      "index": 22
     },
     {
       "title": "南京一男子在星巴克不消费占座，被店员提醒后反报警，经调解后离开门店，怎样看待这一行为？",
       "url": "https://www.zhihu.com/question/2099542758293877225",
-      "hot_value": "85 万热度",
-      "index": 28
+      "hot_value": "84 万热度",
+      "index": 23
+    },
+    {
+      "title": "三连冠选手 Gumayusi 生涯首次无缘 S 赛八强，如何评价他本届赛事的表现？",
+      "url": "https://www.zhihu.com/question/2100140951066894432",
+      "hot_value": "83 万热度",
+      "index": 24
     },
     {
       "title": "如何看待钓友钓 58 斤青鱼被拖入 3 米水中，仍紧握鱼竿被连人带鱼救起？你钓鱼时印象最深刻的经历是怎样的？",
       "url": "https://www.zhihu.com/question/2099138301290443082",
-      "hot_value": "81 万热度",
+      "hot_value": "80 万热度",
+      "index": 25
+    },
+    {
+      "title": "怎么看 Anthropic IPO 前夕被黑石评为「垃圾级」？",
+      "url": "https://www.zhihu.com/question/2100203992827557509",
+      "hot_value": "78 万热度",
+      "index": 26
+    },
+    {
+      "title": "41 岁 C 罗距职业生涯千球仅差 15 球，这一纪录对世界足坛意味着什么？",
+      "url": "https://www.zhihu.com/question/2099769633012199862",
+      "hot_value": "76 万热度",
+      "index": 27
+    },
+    {
+      "title": "怎么看百度搜索降价至千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
+      "url": "https://www.zhihu.com/question/2099967799934313950",
+      "hot_value": "72 万热度",
+      "index": 28
+    },
+    {
+      "title": "DeepSeek4.1Pro 迟迟不发布的原因有哪些？",
+      "url": "https://www.zhihu.com/question/2099909586245399443",
+      "hot_value": "72 万热度",
       "index": 29
     },
     {
-      "title": "如何评价《原神》2026 年 11 月 1 日更新的幻想真境剧诗（水雷岩）？",
-      "url": "https://www.zhihu.com/question/2100109742731538482",
-      "hot_value": "81 万热度",
+      "title": "近期吃过的好吃的甜品是什么？",
+      "url": "https://www.zhihu.com/question/2076102767052059963",
+      "hot_value": "68 万热度",
       "index": 30
     }
   ]

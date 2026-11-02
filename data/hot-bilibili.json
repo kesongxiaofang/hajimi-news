@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-11-01T21:18:52Z",
+  "update_time": "2026-11-02T00:57:03Z",
   "count": 30,
   "list": [
     {
-      "title": "【2026全球总决赛】11月1日 HLE vs BLG",
-      "url": "https://www.bilibili.com/video/BV1C8xn6YEDA",
-      "hot_value": "7519323播放",
+      "title": "重大发现！故宫太和殿的天花板上竟藏了颗百年前的监控探头！",
+      "url": "https://www.bilibili.com/video/BV1jTxC6mExW",
+      "hot_value": "864790播放",
       "index": 1
     },
     {
       "title": "选一条路，决定你接下来的旅途",
       "url": "https://www.bilibili.com/video/BV1Nax16uEHm",
-      "hot_value": "2265129播放",
+      "hot_value": "2367949播放",
       "index": 2
     },
     {
-      "title": "老法师把自己当馒头蒸，结果蒸成了中微子",
-      "url": "https://www.bilibili.com/video/BV1VVxe6XE9n",
-      "hot_value": "1514574播放",
+      "title": "大肥鱼适合做女朋友吗？（2）",
+      "url": "https://www.bilibili.com/video/BV1y5xW63EVq",
+      "hot_value": "591711播放",
       "index": 3
     },
     {
       "title": "【独家】牧神记 第107集 上苍",
       "url": "https://www.bilibili.com/video/BV1QMxz6hEV5",
-      "hot_value": "2075327播放",
+      "hot_value": "2106137播放",
       "index": 4
-    },
-    {
-      "title": "这样建？几棵树苗能做什么？【Minecraft】",
-      "url": "https://www.bilibili.com/video/BV1o1xC6DEAa",
-      "hot_value": "895633播放",
-      "index": 5
     },
     {
       "title": "美国中期选举大斗法",
       "url": "https://www.bilibili.com/video/BV15Mxn6UEnt",
-      "hot_value": "1104182播放",
-      "index": 6
-    },
-    {
-      "title": "重大发现！故宫太和殿的天花板上竟藏了颗百年前的监控探头！",
-      "url": "https://www.bilibili.com/video/BV1jTxC6mExW",
-      "hot_value": "717096播放",
-      "index": 7
-    },
-    {
-      "title": "【OC动画】馆长大人，请消消气！🌙酒魔女与她的贵客【魔女夜话小剧场】【手搓动画大赛】",
-      "url": "https://www.bilibili.com/video/BV1dRx16pEPw",
-      "hot_value": "1181839播放",
-      "index": 8
+      "hot_value": "1165606播放",
+      "index": 5
     },
     {
       "title": "世界最最最烂活",
       "url": "https://www.bilibili.com/video/BV15YxH6nEku",
-      "hot_value": "1301305播放",
-      "index": 9
-    },
-    {
-      "title": "【果然三角洲9】得众乐乐啊",
-      "url": "https://www.bilibili.com/video/BV1xQxy6iEU4",
-      "hot_value": "723917播放",
-      "index": 10
-    },
-    {
-      "title": "玩具熊：模仿者的秘密，第5期，全结局",
-      "url": "https://www.bilibili.com/video/BV1upx16LErq",
-      "hot_value": "2112011播放",
-      "index": 11
-    },
-    {
-      "title": "卧槽！！BLG淘汰LCK银河战舰HLE送他们16强！S赛最爽对局有多爽！BLG回来了！【1酱赛评S16瑞士轮day7】",
-      "url": "https://www.bilibili.com/video/BV1Stxs6nExW",
-      "hot_value": "845859播放",
-      "index": 12
-    },
-    {
-      "title": "假如带着豆包和蓝色大肥鱼等一众AI穿越到2018年...[1-5合集]",
-      "url": "https://www.bilibili.com/video/BV1xixi6yELU",
-      "hot_value": "1404057播放",
-      "index": 13
-    },
-    {
-      "title": "耗资上万！我重制了网页版MC！【B站AI创造公开赛】",
-      "url": "https://www.bilibili.com/video/BV1Nxxr6oES2",
-      "hot_value": "476079播放",
-      "index": 14
-    },
-    {
-      "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
-      "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
-      "hot_value": "1885964播放",
-      "index": 15
-    },
-    {
-      "title": "大肥鱼适合做女朋友吗？（2）",
-      "url": "https://www.bilibili.com/video/BV1y5xW63EVq",
-      "hot_value": "482916播放",
-      "index": 16
-    },
-    {
-      "title": "【风笑试玩】啥都治诊所丨全科医生模拟器(Demo) 试玩",
-      "url": "https://www.bilibili.com/video/BV1XXxn6mEK9",
-      "hot_value": "299147播放",
-      "index": 17
-    },
-    {
-      "title": "4941抽，67塔露拉",
-      "url": "https://www.bilibili.com/video/BV1Gpxs6REwB",
-      "hot_value": "644081播放",
-      "index": 18
-    },
-    {
-      "title": "【AI翻唱】雨爱（司凤版）· 大鲸鱼版",
-      "url": "https://www.bilibili.com/video/BV1Baxj61ESa",
-      "hot_value": "571089播放",
-      "index": 19
-    },
-    {
-      "title": "\"从今天起，无论系统是否崩溃，我都不会按下Ctrl+C\"【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1ZAnd6gE8C",
-      "hot_value": "1811182播放",
-      "index": 20
-    },
-    {
-      "title": "BLG八强结算珍贵录像《朝你韩华捏一把》",
-      "url": "https://www.bilibili.com/video/BV1PFx46EEWs",
-      "hot_value": "272807播放",
-      "index": 21
+      "hot_value": "1358781播放",
+      "index": 6
     },
     {
       "title": "创业五十天如何破产",
       "url": "https://www.bilibili.com/video/BV1Yfxs6cESY",
-      "hot_value": "398845播放",
+      "hot_value": "468021播放",
+      "index": 7
+    },
+    {
+      "title": "这！绝对不是儿童餐！",
+      "url": "https://www.bilibili.com/video/BV1hBxJ6uEcy",
+      "hot_value": "486709播放",
+      "index": 8
+    },
+    {
+      "title": "你从未离去 x 平凡之路",
+      "url": "https://www.bilibili.com/video/BV1mVxx6SEJ4",
+      "hot_value": "148920播放",
+      "index": 9
+    },
+    {
+      "title": "【2026全球总决赛】11月1日 HLE vs BLG",
+      "url": "https://www.bilibili.com/video/BV1C8xn6YEDA",
+      "hot_value": "7624518播放",
+      "index": 10
+    },
+    {
+      "title": "这样建？几棵树苗能做什么？【Minecraft】",
+      "url": "https://www.bilibili.com/video/BV1o1xC6DEAa",
+      "hot_value": "946103播放",
+      "index": 11
+    },
+    {
+      "title": "【果然三角洲9】得众乐乐啊",
+      "url": "https://www.bilibili.com/video/BV1xQxy6iEU4",
+      "hot_value": "745972播放",
+      "index": 12
+    },
+    {
+      "title": "⚡️⚡️⚡️猫咖倒闭，救救我们⚡️⚡️⚡️",
+      "url": "https://www.bilibili.com/video/BV1rJxG6ME5x",
+      "hot_value": "169987播放",
+      "index": 13
+    },
+    {
+      "title": "老法师把自己当馒头蒸，结果蒸成了中微子",
+      "url": "https://www.bilibili.com/video/BV1VVxe6XE9n",
+      "hot_value": "1634870播放",
+      "index": 14
+    },
+    {
+      "title": "玩具熊：模仿者的秘密，第5期，全结局",
+      "url": "https://www.bilibili.com/video/BV1upx16LErq",
+      "hot_value": "2123126播放",
+      "index": 15
+    },
+    {
+      "title": "【OC动画】馆长大人，请消消气！🌙酒魔女与她的贵客【魔女夜话小剧场】【手搓动画大赛】",
+      "url": "https://www.bilibili.com/video/BV1dRx16pEPw",
+      "hot_value": "1195361播放",
+      "index": 16
+    },
+    {
+      "title": "BLG八强结算珍贵录像《朝你韩华捏一把》",
+      "url": "https://www.bilibili.com/video/BV1PFx46EEWs",
+      "hot_value": "357420播放",
+      "index": 17
+    },
+    {
+      "title": "卧槽！！BLG淘汰LCK银河战舰HLE送他们16强！S赛最爽对局有多爽！BLG回来了！【1酱赛评S16瑞士轮day7】",
+      "url": "https://www.bilibili.com/video/BV1Stxs6nExW",
+      "hot_value": "869812播放",
+      "index": 18
+    },
+    {
+      "title": "假如带着豆包和蓝色大肥鱼等一众AI穿越到2018年...[1-5合集]",
+      "url": "https://www.bilibili.com/video/BV1xixi6yELU",
+      "hot_value": "1433429播放",
+      "index": 19
+    },
+    {
+      "title": "她拽住了全城的人，可谁来拽住她？【反乌托邦】",
+      "url": "https://www.bilibili.com/video/BV15UxC6SEiR",
+      "hot_value": "399390播放",
+      "index": 20
+    },
+    {
+      "title": "耗资上万！我重制了网页版MC！【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1Nxxr6oES2",
+      "hot_value": "483192播放",
+      "index": 21
+    },
+    {
+      "title": "【明日方舟】塔露拉实战测评：实力为超大杯中！打破强度疑问，重新正视自我！强烈推荐抽取！",
+      "url": "https://www.bilibili.com/video/BV1Mfxt6ZEPZ",
+      "hot_value": "217737播放",
       "index": 22
     },
     {
-      "title": "[ONHWA] 吃生肝的九尾狐",
-      "url": "https://www.bilibili.com/video/BV1L3x16XEwA",
-      "hot_value": "1361225播放",
+      "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
+      "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
+      "hot_value": "1910873播放",
       "index": 23
     },
     {
       "title": "“若神不能理解我，那祂便算不上神！！”",
       "url": "https://www.bilibili.com/video/BV1wbxr6REXk",
-      "hot_value": "950103播放",
+      "hot_value": "983892播放",
       "index": 24
     },
     {
-      "title": "记录忙碌又充实的一天。在大山支教的日子里，总想尽己所能给孩子们最好的。",
-      "url": "https://www.bilibili.com/video/BV1xQxy6iED7",
-      "hot_value": "461548播放",
+      "title": "闪迪消费存储出货量暴跌超过70%｜显卡日报11月2日",
+      "url": "https://www.bilibili.com/video/BV1F5xb62Ese",
+      "hot_value": "272641播放",
       "index": 25
-    },
-    {
-      "title": "她拽住了全城的人，可谁来拽住她？【反乌托邦】",
-      "url": "https://www.bilibili.com/video/BV15UxC6SEiR",
-      "hot_value": "359439播放",
-      "index": 26
-    },
-    {
-      "title": "筋角弓制作",
-      "url": "https://www.bilibili.com/video/BV1LRxi6aEtj",
-      "hot_value": "1697117播放",
-      "index": 27
-    },
-    {
-      "title": "当代驾遇到驾校教练",
-      "url": "https://www.bilibili.com/video/BV16gxB6gEy4",
-      "hot_value": "1697251播放",
-      "index": 28
     },
     {
       "title": "耗时9天，我拼出了终极版复仇者大厦！",
       "url": "https://www.bilibili.com/video/BV1qbxy6HENK",
-      "hot_value": "638232播放",
+      "hot_value": "667510播放",
+      "index": 26
+    },
+    {
+      "title": "记录忙碌又充实的一天。在大山支教的日子里，总想尽己所能给孩子们最好的。",
+      "url": "https://www.bilibili.com/video/BV1xQxy6iED7",
+      "hot_value": "477794播放",
+      "index": 27
+    },
+    {
+      "title": "【风笑试玩】啥都治诊所丨全科医生模拟器(Demo) 试玩",
+      "url": "https://www.bilibili.com/video/BV1XXxn6mEK9",
+      "hot_value": "314721播放",
+      "index": 28
+    },
+    {
+      "title": "4941抽，67塔露拉",
+      "url": "https://www.bilibili.com/video/BV1Gpxs6REwB",
+      "hot_value": "667609播放",
       "index": 29
     },
     {
-      "title": "年度综艺！恨海情天！这个《后会友期》真的太好品了！！",
-      "url": "https://www.bilibili.com/video/BV1i4xy6XE8y",
-      "hot_value": "893708播放",
+      "title": "一个视频告诉你塔露拉3伤害到底有多低",
+      "url": "https://www.bilibili.com/video/BV1Q7xp6JEj1",
+      "hot_value": "887413播放",
       "index": 30
     }
   ]
