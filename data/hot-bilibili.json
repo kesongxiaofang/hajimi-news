@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-11-02T17:18:55Z",
+  "update_time": "2026-11-02T23:58:20Z",
   "count": 30,
   "list": [
     {
-      "title": "宠粉天花板，请我的粉丝朋友清空一家零食店，你来选我买单，看看要花多少钱",
-      "url": "https://www.bilibili.com/video/BV14o4F6EELU",
-      "hot_value": "1169345播放",
+      "title": "哟西！故乡的樱花开了！",
+      "url": "https://www.bilibili.com/video/BV1w34A62Eq2",
+      "hot_value": "784033播放",
       "index": 1
     },
     {
       "title": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
       "url": "https://www.bilibili.com/video/BV1i24P6rEmt",
-      "hot_value": "287158播放",
+      "hot_value": "650636播放",
       "index": 2
     },
     {
-      "title": "你从未离去 x 平凡之路",
-      "url": "https://www.bilibili.com/video/BV1mVxx6SEJ4",
-      "hot_value": "591221播放",
+      "title": "这还能是童年套圈机！？做成世界大赛！",
+      "url": "https://www.bilibili.com/video/BV16Ux46yEsR",
+      "hot_value": "969848播放",
       "index": 3
     },
     {
-      "title": "哟西！故乡的樱花开了！",
-      "url": "https://www.bilibili.com/video/BV1w34A62Eq2",
-      "hot_value": "441442播放",
+      "title": "宠粉天花板，请我的粉丝朋友清空一家零食店，你来选我买单，看看要花多少钱",
+      "url": "https://www.bilibili.com/video/BV14o4F6EELU",
+      "hot_value": "1504268播放",
       "index": 4
-    },
-    {
-      "title": "停停停！别再从电影里学习错误的女性知识啦……！",
-      "url": "https://www.bilibili.com/video/BV13oxa6yEPx",
-      "hot_value": "1046004播放",
-      "index": 5
-    },
-    {
-      "title": "王老菊教你影之刃04：嘬字诀",
-      "url": "https://www.bilibili.com/video/BV1tH4P6ZEhK",
-      "hot_value": "77323播放",
-      "index": 6
     },
     {
       "title": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
       "url": "https://www.bilibili.com/video/BV1REx46NEc4",
-      "hot_value": "548766播放",
+      "hot_value": "675212播放",
+      "index": 5
+    },
+    {
+      "title": "猫咪目前正在恢复，后续还会跟进的~",
+      "url": "https://www.bilibili.com/video/BV1A14c61ERU",
+      "hot_value": "444772播放",
+      "index": 6
+    },
+    {
+      "title": "探访宁夏贺兰山的老矿区，当地还留下了多少人？",
+      "url": "https://www.bilibili.com/video/BV1MTxc6mEMD",
+      "hot_value": "267921播放",
       "index": 7
-    },
-    {
-      "title": "CPOPwave十大优秀出海案例《鸣潮》",
-      "url": "https://www.bilibili.com/video/BV1hV4P6PEc3",
-      "hot_value": "164455播放",
-      "index": 8
-    },
-    {
-      "title": "以此朋克，倚老卖老。",
-      "url": "https://www.bilibili.com/video/BV1uQxx69E7x",
-      "hot_value": "879195播放",
-      "index": 9
-    },
-    {
-      "title": "⚡️⚡️⚡️猫咖倒闭，救救我们⚡️⚡️⚡️",
-      "url": "https://www.bilibili.com/video/BV1rJxG6ME5x",
-      "hot_value": "735421播放",
-      "index": 10
     },
     {
       "title": "【纸绘动画/卡点】爆肝600张！！数形结合！让你爱上数学【手搓动画大赛】",
       "url": "https://www.bilibili.com/video/BV1yhxp66Ez8",
-      "hot_value": "915595播放",
-      "index": 11
-    },
-    {
-      "title": "小黑你爸回你消息了",
-      "url": "https://www.bilibili.com/video/BV1Lrxt6uEuR",
-      "hot_value": "1008001播放",
-      "index": 12
-    },
-    {
-      "title": "整蛊！把人体黄金油彩灌进女友沐浴露…把她全身染成黄金铜人！",
-      "url": "https://www.bilibili.com/video/BV1Ly4w6NEbN",
-      "hot_value": "292064播放",
-      "index": 13
-    },
-    {
-      "title": "原来10后也有自己的老歌了",
-      "url": "https://www.bilibili.com/video/BV1xWH56zEb8",
-      "hot_value": "305252播放",
-      "index": 14
-    },
-    {
-      "title": "⚡️如来演唱《金刚FUNK》⚡️【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV1RLxs6bEJW",
-      "hot_value": "602410播放",
-      "index": 15
-    },
-    {
-      "title": "MSI冠军16强回家！万字解析BLG零封HLE背后的原因！",
-      "url": "https://www.bilibili.com/video/BV1JLxh69EgU",
-      "hot_value": "953801播放",
-      "index": 16
-    },
-    {
-      "title": "年度综艺！恨海情天！这个《后会友期》真的太好品了！！",
-      "url": "https://www.bilibili.com/video/BV1i4xy6XE8y",
-      "hot_value": "1480859播放",
-      "index": 17
-    },
-    {
-      "title": "【STN快报第8.5季25】不觉得边缘行者2的预期违背也是一种反抗精神吗",
-      "url": "https://www.bilibili.com/video/BV13D4w6cEKG",
-      "hot_value": "355863播放",
-      "index": 18
-    },
-    {
-      "title": "BLG：雪原双子回归！",
-      "url": "https://www.bilibili.com/video/BV1Q34P6vEhw",
-      "hot_value": "173176播放",
-      "index": 19
-    },
-    {
-      "title": "CPOPwave长红IP《原神》",
-      "url": "https://www.bilibili.com/video/BV1Eq4P6mESu",
-      "hot_value": "160649播放",
-      "index": 20
-    },
-    {
-      "title": "升级HarmonyOS 7后，我发现做App这事彻底变天？",
-      "url": "https://www.bilibili.com/video/BV161x168Egh",
-      "hot_value": "543095播放",
-      "index": 21
-    },
-    {
-      "title": "自然选择：是谁为生命写下了生存规则？",
-      "url": "https://www.bilibili.com/video/BV1wM4A6UEvT",
-      "hot_value": "331951播放",
-      "index": 22
-    },
-    {
-      "title": "《这个我也没教啊》",
-      "url": "https://www.bilibili.com/video/BV1V2x86CEmZ",
-      "hot_value": "625741播放",
-      "index": 23
-    },
-    {
-      "title": "BLG 赛事语音 | Nice，晋级！",
-      "url": "https://www.bilibili.com/video/BV1WW4w6UErY",
-      "hot_value": "248757播放",
-      "index": 24
-    },
-    {
-      "title": "小众美食吃法实力排行",
-      "url": "https://www.bilibili.com/video/BV1Ttxp6CEc6",
-      "hot_value": "892129播放",
-      "index": 25
-    },
-    {
-      "title": "导弹般坠机9人死亡：但为何什么也不会改变？",
-      "url": "https://www.bilibili.com/video/BV1jz4w6BEzp",
-      "hot_value": "371688播放",
-      "index": 26
-    },
-    {
-      "title": "【一百日】第八日:未知通讯",
-      "url": "https://www.bilibili.com/video/BV13CxW6HECV",
-      "hot_value": "1022568播放",
-      "index": 27
+      "hot_value": "964523播放",
+      "index": 8
     },
     {
       "title": "清理熊患后续，只因西伯利亚棕熊泛滥成灾。",
       "url": "https://www.bilibili.com/video/BV13ixh6gEeq",
-      "hot_value": "277375播放",
-      "index": 28
+      "hot_value": "347918播放",
+      "index": 9
     },
     {
-      "title": "一口气2个小时看完猎奇韩剧《末路兼职》八种怪谈，夺命兼职！日薪一亿的危险工作你干吗？爆肝三万字！",
-      "url": "https://www.bilibili.com/video/BV1Zo4c6TEg4",
-      "hot_value": "119814播放",
-      "index": 29
+      "title": "是该让爸妈兑现催生时的承诺了",
+      "url": "https://www.bilibili.com/video/BV1M5xz64EFq",
+      "hot_value": "3277560播放",
+      "index": 10
+    },
+    {
+      "title": "停停停！别再从电影里学习错误的女性知识啦……！",
+      "url": "https://www.bilibili.com/video/BV13oxa6yEPx",
+      "hot_value": "1143380播放",
+      "index": 11
+    },
+    {
+      "title": "你从未离去 x 平凡之路",
+      "url": "https://www.bilibili.com/video/BV1mVxx6SEJ4",
+      "hot_value": "627472播放",
+      "index": 12
+    },
+    {
+      "title": "原来10后也有自己的老歌了",
+      "url": "https://www.bilibili.com/video/BV1xWH56zEb8",
+      "hot_value": "397477播放",
+      "index": 13
+    },
+    {
+      "title": "⚡️⚡️⚡️猫咖倒闭，救救我们⚡️⚡️⚡️",
+      "url": "https://www.bilibili.com/video/BV1rJxG6ME5x",
+      "hot_value": "774397播放",
+      "index": 14
+    },
+    {
+      "title": "小黑你爸回你消息了",
+      "url": "https://www.bilibili.com/video/BV1Lrxt6uEuR",
+      "hot_value": "1106450播放",
+      "index": 15
+    },
+    {
+      "title": "导弹般坠机9人死亡：但为何什么也不会改变？",
+      "url": "https://www.bilibili.com/video/BV1jz4w6BEzp",
+      "hot_value": "455238播放",
+      "index": 16
+    },
+    {
+      "title": "【一百日】第八日:未知通讯",
+      "url": "https://www.bilibili.com/video/BV13CxW6HECV",
+      "hot_value": "1077017播放",
+      "index": 17
+    },
+    {
+      "title": "以此朋克，倚老卖老。",
+      "url": "https://www.bilibili.com/video/BV1uQxx69E7x",
+      "hot_value": "976885播放",
+      "index": 18
+    },
+    {
+      "title": "冷知识:没 长 眼 睛 不 要 来 开  车 ！",
+      "url": "https://www.bilibili.com/video/BV12j4F61Em7",
+      "hot_value": "280648播放",
+      "index": 19
+    },
+    {
+      "title": "【2026·双11电脑配置推荐】爆肝2万字！无恰饭！教你性价比装机，2000~3W预算共20套性价比电脑配置，含《影之刃零》实测，小白建议收藏！",
+      "url": "https://www.bilibili.com/video/BV1vy4w6NEmR",
+      "hot_value": "246964播放",
+      "index": 20
+    },
+    {
+      "title": "⚡️如来演唱《金刚FUNK》⚡️【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1RLxs6bEJW",
+      "hot_value": "662443播放",
+      "index": 21
+    },
+    {
+      "title": "《原神》角色预告-「瓦列里：执序之理」",
+      "url": "https://www.bilibili.com/video/BV1LBxx6YEqJ",
+      "hot_value": "510075播放",
+      "index": 22
+    },
+    {
+      "title": "CPOPwave十大优秀出海案例《鸣潮》",
+      "url": "https://www.bilibili.com/video/BV1hV4P6PEc3",
+      "hot_value": "258668播放",
+      "index": 23
+    },
+    {
+      "title": "为什么游戏里的稀有道具，我们总舍不得用？",
+      "url": "https://www.bilibili.com/video/BV1fwxp68EW2",
+      "hot_value": "784172播放",
+      "index": 24
     },
     {
       "title": "BLG八强结算珍贵录像《朝你韩华捏一把》",
       "url": "https://www.bilibili.com/video/BV1PFx46EEWs",
-      "hot_value": "1297249播放",
+      "hot_value": "1390466播放",
+      "index": 25
+    },
+    {
+      "title": "【STN快报第8.5季25】不觉得边缘行者2的预期违背也是一种反抗精神吗",
+      "url": "https://www.bilibili.com/video/BV13D4w6cEKG",
+      "hot_value": "413677播放",
+      "index": 26
+    },
+    {
+      "title": "小众美食吃法实力排行",
+      "url": "https://www.bilibili.com/video/BV1Ttxp6CEc6",
+      "hot_value": "943076播放",
+      "index": 27
+    },
+    {
+      "title": "【明日方舟】塔露拉实战测评：实力为超大杯中！打破强度疑问，重新正视自我！强烈推荐抽取！",
+      "url": "https://www.bilibili.com/video/BV1Mfxt6ZEPZ",
+      "hot_value": "768632播放",
+      "index": 28
+    },
+    {
+      "title": "《这个我也没教啊》",
+      "url": "https://www.bilibili.com/video/BV1V2x86CEmZ",
+      "hot_value": "675490播放",
+      "index": 29
+    },
+    {
+      "title": "【风笑试玩】啥都治诊所丨全科医生模拟器(Demo) 试玩",
+      "url": "https://www.bilibili.com/video/BV1XXxn6mEK9",
+      "hot_value": "664702播放",
       "index": 30
     }
   ]
