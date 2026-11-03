@@ -1,42 +1,42 @@
 {
   "platform": "thepaper",
   "name": "澎湃新闻",
-  "update_time": "2026-11-02T23:58:20Z",
+  "update_time": "2026-11-03T05:57:53Z",
   "count": 20,
   "list": [
-    {
-      "title": "党的二十届五中全会《决定》诞生记",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34387414",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "女子追讨13年前开店“保证金”申请再审被驳回：已过诉讼时效",
       "url": "https://www.thepaper.cn/newsDetail_forward_34387026",
       "hot_value": "",
+      "index": 1
+    },
+    {
+      "title": "三部门：股票回购增持再贷款利率由1.25%降至1%",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34389524",
+      "hot_value": "",
       "index": 2
     },
     {
-      "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34248283",
+      "title": "证监会稳市再加码：拟优化护盘式回购、鼓励18只主动ETF加快建仓",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34389816",
       "hot_value": "",
       "index": 3
     },
     {
-      "title": "褶皱里的民意｜中期选举倒计时1天：快加不起油的美国人最关心什么？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34351449",
+      "title": "圆桌｜中国车卖到海外后谁来修？专家：售后是最容易被低估的变量",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34389969",
       "hot_value": "",
       "index": 4
     },
     {
-      "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34375606",
+      "title": "马上评｜“床虱地图”走红，能倒逼解决消费痛点吗？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34390518",
       "hot_value": "",
       "index": 5
     },
     {
-      "title": "马上测｜实测儿童手表“壁垒”（1）：充电接口各行其是，配件难互通",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34382238",
+      "title": "影子调查｜甘肃张掖风电项目环评引争议，兔狲等保护动物为何被无视？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34369361",
       "hot_value": "",
       "index": 6
     },
@@ -47,80 +47,80 @@
       "index": 7
     },
     {
-      "title": "马上评｜假乒乓球比赛直播，都怪观众缺少辨识力？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34386553",
+      "title": "地标是如何炼成的丨鲁迅故里：每一代人都在用自己的方式走近鲁迅",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34358780",
       "hot_value": "",
       "index": 8
     },
     {
-      "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34383514",
+      "title": "褶皱里的民意｜打三份工养家，剩6美元存款：一个美国教师的两年挣扎",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34386844",
       "hot_value": "",
       "index": 9
-    },
-    {
-      "title": "纪念｜“陈主编”吕齐：北京人艺最后一位1920年代演员",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34384496",
-      "hot_value": "",
-      "index": 10
     },
     {
       "title": "钟薛高重新开售：预售标价单支约12元，为何选择淡季重出江湖？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34389352",
       "hot_value": "",
+      "index": 10
+    },
+    {
+      "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34382628",
+      "hot_value": "",
       "index": 11
     },
     {
-      "title": "三部门：股票回购增持再贷款利率由1.25%降至1%",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34389524",
+      "title": "马上评｜“押金退还”并不真退，共享寄存柜的缺德生意经",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34393022",
       "hot_value": "",
       "index": 12
     },
     {
-      "title": "证监会稳市再加码：拟优化护盘式回购、鼓励18只主动ETF加快建仓",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34389816",
+      "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34393113",
       "hot_value": "",
       "index": 13
+    },
+    {
+      "title": "平台回应武汉网约车司机被围堵：车是租的，他目前状态还行",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34387607",
+      "hot_value": "",
+      "index": 14
+    },
+    {
+      "title": "央媒谈“字节时间”争议：讨论注意力分配，平台责任不应止于合规",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34392754",
+      "hot_value": "",
+      "index": 15
     },
     {
       "title": "释新闻｜中期选举前不打、选后难测，最后谈判窗口美伊卡在哪里？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34389329",
       "hot_value": "",
-      "index": 14
+      "index": 16
     },
     {
       "title": "AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”",
       "url": "https://www.thepaper.cn/newsDetail_forward_34388778",
       "hot_value": "",
-      "index": 15
+      "index": 17
     },
     {
       "title": "从“考古中国”到深海探秘：未来五年中国考古将如何发力？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34389808",
       "hot_value": "",
-      "index": 16
-    },
-    {
-      "title": "圆桌｜中国车卖到海外后谁来修？专家：售后是最容易被低估的变量",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34389969",
-      "hot_value": "",
-      "index": 17
+      "index": 18
     },
     {
       "title": "十四届全国人大常委会第二十五次会议在京举行，审议检察公益诉讼法草案、水法修订草案等",
       "url": "https://www.thepaper.cn/newsDetail_forward_34390505",
       "hot_value": "",
-      "index": 18
+      "index": 19
     },
     {
       "title": "技术派｜美军考虑将B-21轰炸机改成空战“武库机”，妙招还是险棋？",
       "url": "https://www.thepaper.cn/newsDetail_forward_34386686",
-      "hot_value": "",
-      "index": 19
-    },
-    {
-      "title": "马上评｜“床虱地图”走红，能倒逼解决消费痛点吗？",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34390518",
       "hot_value": "",
       "index": 20
     }

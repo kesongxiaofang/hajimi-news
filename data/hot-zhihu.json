@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-02T23:58:20Z",
+  "update_time": "2026-11-03T05:57:53Z",
   "count": 30,
   "list": [
     {
-      "title": "美国一邮轮推出 246 万元起「终身旅居」套餐，2 年后因燃油成本乘客被赶下船，怎么看邮轮的毁约行为？",
-      "url": "https://www.zhihu.com/question/2100494142325223777",
-      "hot_value": "414 万热度",
+      "title": "如何看待 10 元快剪正暴打全国的「设计总监」？",
+      "url": "https://www.zhihu.com/question/2099419745036650047",
+      "hot_value": "3028 万热度",
       "index": 1
     },
     {
-      "title": "网传《offer8》「垫钱姐」周沁瑶论文疑似造假，已经面临延毕，她的论文疑点可能在哪里呢？",
-      "url": "https://www.zhihu.com/question/2099515931827201374",
-      "hot_value": "240 万热度",
+      "title": "网传九寨沟一老人被劝阻不要插队后发生争执，警方称双方都有责任，具体情况如何？双方应承担什么责任？",
+      "url": "https://www.zhihu.com/question/2100891189767397452",
+      "hot_value": "892 万热度",
       "index": 2
-    },
-    {
-      "title": "谁最可能成为中国首位登月航天员，他的历史地位将会如何？",
-      "url": "https://www.zhihu.com/question/2099963603109651279",
-      "hot_value": "175 万热度",
-      "index": 3
-    },
-    {
-      "title": "如何看 10 元快剪正暴打全国的「设计总监」？",
-      "url": "https://www.zhihu.com/question/2099419745036650047",
-      "hot_value": "163 万热度",
-      "index": 4
-    },
-    {
-      "title": "微软大裁员后许多印度裔员工的上班 vlog 被扒，上班即食堂、锻炼打球等是真的吗？真实的职场环境是怎样的？",
-      "url": "https://www.zhihu.com/question/2100586352018284799",
-      "hot_value": "159 万热度",
-      "index": 5
-    },
-    {
-      "title": "地球上的动物为什么很多都进化出「睡觉」这一习性？",
-      "url": "https://www.zhihu.com/question/2069724416724952593",
-      "hot_value": "155 万热度",
-      "index": 6
-    },
-    {
-      "title": "三只松鼠发布财报，第三季度主营业务日赚不足 1 万元，为什么会这样？三只松鼠目前经营面临哪些问题？",
-      "url": "https://www.zhihu.com/question/2099575888148783135",
-      "hot_value": "147 万热度",
-      "index": 7
-    },
-    {
-      "title": "微软向 6 万名员工开放自愿离职方案，为何连 Copilot 部门也成重灾区？",
-      "url": "https://www.zhihu.com/question/2098769070032164639",
-      "hot_value": "146 万热度",
-      "index": 8
-    },
-    {
-      "title": "百度网盘的摇一摇广告为什么能绕过苹果系统层面的限制？知情人士称为新版本未上线致功能不适配，是这样吗？",
-      "url": "https://www.zhihu.com/question/2099986574264030124",
-      "hot_value": "145 万热度",
-      "index": 9
-    },
-    {
-      "title": "保时捷女销冠再夺第一，所属公司却半年亏 2.7 亿，个人业绩拉满、公司疯狂失血，传统豪华车市场怎么了？",
-      "url": "https://www.zhihu.com/question/2100560990764889476",
-      "hot_value": "144 万热度",
-      "index": 10
-    },
-    {
-      "title": "官方将股票回购增持再贷款政策由阶段性转为长期制度性安排，再贷款利率由 1.25％降至 1%，将有哪些影响？",
-      "url": "https://www.zhihu.com/question/2100683788497810795",
-      "hot_value": "133 万热度",
-      "index": 11
-    },
-    {
-      "title": "为什么我们会同情文学里的失败者，却常常看不起现实中同样失败的人？",
-      "url": "https://www.zhihu.com/question/2075743262611187508",
-      "hot_value": "127 万热度",
-      "index": 12
-    },
-    {
-      "title": "联想指纹加密 U 盘被曝拆壳即可明文读取数据，为何硬件加密会形同虚设？",
-      "url": "https://www.zhihu.com/question/2100532447242932373",
-      "hot_value": "122 万热度",
-      "index": 13
-    },
-    {
-      "title": "广州 8 岁女孩课间被同学冲撞致脑死亡，家长质疑学校未第一时间打 120，具体情况如何？校方要承担哪些责任？",
-      "url": "https://www.zhihu.com/question/2100684381262198615",
-      "hot_value": "117 万热度",
-      "index": 14
     },
     {
       "title": "如何解读 2026 年 10 月汽车销量榜：比亚迪近 49 万稳居第一，小米、小鹏齐破 5 万，鸿蒙智行同比却腰斩？",
       "url": "https://www.zhihu.com/question/2100349565874476266",
-      "hot_value": "115 万热度",
-      "index": 15
+      "hot_value": "763 万热度",
+      "index": 3
     },
     {
-      "title": "怎么看 OpenAI  CEO 说，最好的内存应该留给数据中心，而不是闲置在本地 PC 浪费？",
-      "url": "https://www.zhihu.com/question/2100164407087067932",
-      "hot_value": "113 万热度",
-      "index": 16
+      "title": "保时捷女销冠再夺第一，所属公司却半年亏 2.7 亿，个人业绩拉满、公司疯狂失血，传统豪华车市场怎么了？",
+      "url": "https://www.zhihu.com/question/2100560990764889476",
+      "hot_value": "600 万热度",
+      "index": 4
     },
     {
-      "title": "如何看待围棋中国规则的贴目更改为贴 3.5 子？",
-      "url": "https://www.zhihu.com/question/2100656862240707977",
-      "hot_value": "112 万热度",
-      "index": 17
+      "title": "红果短剧登顶台湾 App 下载榜首，有人退订 Netflix，背后的原因是什么？",
+      "url": "https://www.zhihu.com/question/2100527984583222149",
+      "hot_value": "420 万热度",
+      "index": 5
     },
     {
-      "title": "gpt 越来越不行了，是为什么？",
-      "url": "https://www.zhihu.com/question/1905941578591211859",
-      "hot_value": "98 万热度",
-      "index": 18
+      "title": "如何看待新华社在 11 月 2 日发表的文章《国乒男队怎么了？》中表示「男子乒坛多极格局已成」?",
+      "url": "https://www.zhihu.com/question/2100718638814720770",
+      "hot_value": "416 万热度",
+      "index": 6
     },
     {
-      "title": "如何看待南京一助教老师休息日爬山 5 小时未回工作消息遭辞退？「休息日定时查看 3 次工作号」的要求合法吗？",
-      "url": "https://www.zhihu.com/question/2100514068792661637",
-      "hot_value": "93 万热度",
-      "index": 19
+      "title": "如果当初中国没做电动汽车，而是在发动机上玩命追赶会怎样？",
+      "url": "https://www.zhihu.com/question/2099832629952565725",
+      "hot_value": "412 万热度",
+      "index": 7
     },
     {
-      "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
-      "url": "https://www.zhihu.com/question/2100501083466326367",
-      "hot_value": "87 万热度",
-      "index": 20
+      "title": "李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？",
+      "url": "https://www.zhihu.com/question/2100704253669069587",
+      "hot_value": "405 万热度",
+      "index": 8
     },
     {
-      "title": "美国中期选举临近，捐款榜前十里七家倒向共和党，支持率却不如民主党，为啥金钱失去了以往一锤定音的威力？",
-      "url": "https://www.zhihu.com/question/2099494216397054526",
-      "hot_value": "83 万热度",
-      "index": 21
-    },
-    {
-      "title": "如何看待即使在山河四省，也有很多高中生疯狂玩游戏、抄作业、早恋、摆烂，最后全凭高考分数考上 985 的？",
-      "url": "https://www.zhihu.com/question/2097354391070291569",
-      "hot_value": "82 万热度",
-      "index": 22
-    },
-    {
-      "title": "第二届苏超结束，流量断崖下跌，这个比赛未来还有新的破局增长点吗，未来这个比赛将立足于哪里？",
-      "url": "https://www.zhihu.com/question/2100539974781071970",
-      "hot_value": "80 万热度",
-      "index": 23
-    },
-    {
-      "title": "金饰年内每克跌近 550 元，30 克手镯一天就能亏 800 元，为什么有人说黄金抄底比登天还难？",
-      "url": "https://www.zhihu.com/question/2100190289180861164",
-      "hot_value": "76 万热度",
-      "index": 24
-    },
-    {
-      "title": "为什么郭芙第一次结婚的对象要设定成金国人耶律齐？",
-      "url": "https://www.zhihu.com/question/2078945063942501532",
-      "hot_value": "75 万热度",
-      "index": 25
+      "title": "为什么家禽会产下未受精的蛋？这对它们来说是不是本身能量的损耗，利人不利己？是出于什么样的生物学原理？",
+      "url": "https://www.zhihu.com/question/2003578849498243952",
+      "hot_value": "370 万热度",
+      "index": 9
     },
     {
       "title": "为什么日本韩国作为发达国家，不像美国人那样以大块坨坨肉充饥？",
       "url": "https://www.zhihu.com/question/1894377485455587257",
-      "hot_value": "74 万热度",
+      "hot_value": "335 万热度",
+      "index": 10
+    },
+    {
+      "title": "如何评价《影之刃零》对玩家几乎没有恶意的设计，甚至有很多贴心指引和操作简化，这算现代游戏的趋势吗？",
+      "url": "https://www.zhihu.com/question/2100543337556137322",
+      "hot_value": "332 万热度",
+      "index": 11
+    },
+    {
+      "title": "网传《offer8》「垫钱姐」周沁瑶论文疑似造假，已经面临延毕，她的论文疑点可能在哪里呢？",
+      "url": "https://www.zhihu.com/question/2099515931827201374",
+      "hot_value": "330 万热度",
+      "index": 12
+    },
+    {
+      "title": "男子 32 元买彩票中 1113 万，过期两天兑奖被拒，起诉索赔被驳回承担 8.8 万诉讼费，怎样从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2100595209889497221",
+      "hot_value": "329 万热度",
+      "index": 13
+    },
+    {
+      "title": "于东来建议制度支持「消费入座」及拒外带食物，如何看待这一提议？",
+      "url": "https://www.zhihu.com/question/2099856013738493474",
+      "hot_value": "282 万热度",
+      "index": 14
+    },
+    {
+      "title": "2026 年美国中期选举，共和党与民主党谁能最终获胜？",
+      "url": "https://www.zhihu.com/question/2100152878602131100",
+      "hot_value": "234 万热度",
+      "index": 15
+    },
+    {
+      "title": "百度网盘的摇一摇广告为什么能绕过苹果系统层面的限制？知情人士称为新版本未上线致功能不适配，是这样吗？",
+      "url": "https://www.zhihu.com/question/2099986574264030124",
+      "hot_value": "210 万热度",
+      "index": 16
+    },
+    {
+      "title": "伦德博格这么强，为何大四才参选，11 顺位才被勇士捡漏 ？",
+      "url": "https://www.zhihu.com/question/2100636836854855022",
+      "hot_value": "186 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何看待张雪机车在重庆大学宣讲开的薪资，92 毕业研发人员年薪 12-15 万元？在当地和业内算什么水平？",
+      "url": "https://www.zhihu.com/question/2098392850639730523",
+      "hot_value": "178 万热度",
+      "index": 18
+    },
+    {
+      "title": "古代的苦水水质口感相当于现在的自来水吗？",
+      "url": "https://www.zhihu.com/question/2098924793349288862",
+      "hot_value": "145 万热度",
+      "index": 19
+    },
+    {
+      "title": "一批乒乓球赛事假直播伪造比分、虚假解说、带货变现，观看人数超 20 万，为什么没画面都有人看，还能赚到钱？",
+      "url": "https://www.zhihu.com/question/2100529586890957367",
+      "hot_value": "141 万热度",
+      "index": 20
+    },
+    {
+      "title": "怎么看 OpenAI  CEO 说，最好的内存应该留给数据中心，而不是闲置在本地 PC 浪费？",
+      "url": "https://www.zhihu.com/question/2100164407087067932",
+      "hot_value": "141 万热度",
+      "index": 21
+    },
+    {
+      "title": "国家为什么频繁发行纪念币？",
+      "url": "https://www.zhihu.com/question/38905870",
+      "hot_value": "140 万热度",
+      "index": 22
+    },
+    {
+      "title": "广州环卫工佩戴电子工牌引热议，当地回应仅定位不侵犯隐私，如何看待这一举措？",
+      "url": "https://www.zhihu.com/question/2100687047732229166",
+      "hot_value": "130 万热度",
+      "index": 23
+    },
+    {
+      "title": "长大以后，你弥补了哪些小时候的遗憾？",
+      "url": "https://www.zhihu.com/question/2099241738770695066",
+      "hot_value": "120 万热度",
+      "index": 24
+    },
+    {
+      "title": "26-26 赛季 NBA 常规赛 76 人 126：106 大胜公牛，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2100878141510230160",
+      "hot_value": "113 万热度",
+      "index": 25
+    },
+    {
+      "title": "伊朗最高领袖赋予政府谈判权限，若美落实诉求，两天内可以开谈，国际油价大跌 6%，美伊谈判还有哪些变数？",
+      "url": "https://www.zhihu.com/question/2100716737520058796",
+      "hot_value": "112 万热度",
       "index": 26
     },
     {
-      "title": "在一线城市，不开车只靠公共交通现实吗？",
-      "url": "https://www.zhihu.com/question/2098747939778838530",
-      "hot_value": "68 万热度",
+      "title": "《影之刃零》的什么设计或者细节让你觉得这个 268 元没有白花？",
+      "url": "https://www.zhihu.com/question/2098861847856390611",
+      "hot_value": "112 万热度",
       "index": 27
     },
     {
-      "title": "创业第一步需要干什么?",
-      "url": "https://www.zhihu.com/question/13931744916",
-      "hot_value": "66 万热度",
+      "title": "同样是武侠题材，为何影之刃零里的顶尖高手很难活到后期？",
+      "url": "https://www.zhihu.com/question/2099895804404224163",
+      "hot_value": "87 万热度",
       "index": 28
     },
     {
-      "title": "庆功宴上，领导表扬你一句后夹起一块鱼给你，说「鱼是好鱼，就是刺多」，你该如何高情商地回答？",
-      "url": "https://www.zhihu.com/question/2099783520373756743",
-      "hot_value": "65 万热度",
+      "title": "蝴蝶效应真的是一只蝴蝶扇翅膀就能引发龙卷风吗？",
+      "url": "https://www.zhihu.com/question/2100502819241575305",
+      "hot_value": "86 万热度",
       "index": 29
     },
     {
-      "title": "情绪压抑或临近崩溃时，你会用什么方式来发泄或是自我调节？",
-      "url": "https://www.zhihu.com/question/2100575037858367191",
-      "hot_value": "65 万热度",
+      "title": "全国将有 260 万辆新能源车面临电池脱保，换电比车贵难题该如何破解？",
+      "url": "https://www.zhihu.com/question/2099823962918331016",
+      "hot_value": "83 万热度",
       "index": 30
     }
   ]
