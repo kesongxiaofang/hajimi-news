@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-11-03T13:50:56Z",
+  "update_time": "2026-11-03T20:23:24Z",
   "count": 30,
   "list": [
     {
       "title": "网络热传生物鉴定 第65期",
       "url": "https://www.bilibili.com/video/BV18wxY63Erp",
-      "hot_value": "612989播放",
+      "hot_value": "1287445播放",
       "index": 1
     },
     {
-      "title": "《原神》角色预告-「米提亚：井井有条」",
-      "url": "https://www.bilibili.com/video/BV19b4A6PECX",
-      "hot_value": "1202109播放",
+      "title": "抽象新闻：10月人类迷惑行为大赏（下）",
+      "url": "https://www.bilibili.com/video/BV14g4u6rEeH",
+      "hot_value": "528634播放",
       "index": 2
     },
     {
-      "title": "【抢先版】高价招工是陷阱，剥虾女工看清套路",
-      "url": "https://www.bilibili.com/video/BV11bxn6PEWZ",
-      "hot_value": "957801播放",
+      "title": "三年之期已到，恭迎世一上归位！【第16集】",
+      "url": "https://www.bilibili.com/video/BV1FNxm6iEDp",
+      "hot_value": "120188播放",
       "index": 3
     },
     {
       "title": "【纪录片】蓝色星球 第三季 01 热带海域",
       "url": "https://www.bilibili.com/video/BV13dxa6LEe4",
-      "hot_value": "1074589播放",
+      "hot_value": "1242944播放",
       "index": 4
     },
     {
-      "title": "跑了八个小时。",
-      "url": "https://www.bilibili.com/video/BV1RbxJ6LEzi",
-      "hot_value": "689868播放",
+      "title": "《原神》角色预告-「米提亚：井井有条」",
+      "url": "https://www.bilibili.com/video/BV19b4A6PECX",
+      "hot_value": "1498981播放",
       "index": 5
-    },
-    {
-      "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
-      "url": "https://www.bilibili.com/video/BV1RA4w6AE74",
-      "hot_value": "1802342播放",
-      "index": 6
-    },
-    {
-      "title": "宠粉天花板，请我的粉丝朋友清空一家零食店，你来选我买单，看看要花多少钱",
-      "url": "https://www.bilibili.com/video/BV14o4F6EELU",
-      "hot_value": "3813952播放",
-      "index": 7
-    },
-    {
-      "title": "当你得到了学长的焚决",
-      "url": "https://www.bilibili.com/video/BV1B2xe6FEYA",
-      "hot_value": "1972807播放",
-      "index": 8
-    },
-    {
-      "title": "入职鹰角成为卫戍协议策划的一天",
-      "url": "https://www.bilibili.com/video/BV19P4w6aEk3",
-      "hot_value": "754021播放",
-      "index": 9
-    },
-    {
-      "title": "《崩坏：星穹铁道》走近星穹——「星神★阿哈：为了拖稿竟说自己是星神？」",
-      "url": "https://www.bilibili.com/video/BV1mU4u6yEz5",
-      "hot_value": "1074359播放",
-      "index": 10
-    },
-    {
-      "title": "一条没下巴的鱼杀穿奥陶纪？",
-      "url": "https://www.bilibili.com/video/BV1Xx4c6tEKM",
-      "hot_value": "1836639播放",
-      "index": 11
-    },
-    {
-      "title": "第1期：南山雪地徒步，邂逅新疆冬日浪漫【此生要去的100个地方 第二季】",
-      "url": "https://www.bilibili.com/video/BV13YxJ6kEgu",
-      "hot_value": "233441播放",
-      "index": 12
-    },
-    {
-      "title": "皇四郎！《大清FUNK！》",
-      "url": "https://www.bilibili.com/video/BV1pXxJ6fEE4",
-      "hot_value": "523801播放",
-      "index": 13
-    },
-    {
-      "title": "世界上最贵的象拔蚌，客人嫌贵不吃，厨师长下班了开个小灶",
-      "url": "https://www.bilibili.com/video/BV1czxC6dEKu",
-      "hot_value": "1079803播放",
-      "index": 14
-    },
-    {
-      "title": "BLG vs HLE小曲《狼的诱惑》",
-      "url": "https://www.bilibili.com/video/BV17m4M64Emr",
-      "hot_value": "617000播放",
-      "index": 15
-    },
-    {
-      "title": "《猫和老鼠》中的配乐细节竟然有这么多？！",
-      "url": "https://www.bilibili.com/video/BV17i4w66E7V",
-      "hot_value": "910886播放",
-      "index": 16
     },
     {
       "title": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
       "url": "https://www.bilibili.com/video/BV1i24P6rEmt",
-      "hot_value": "2103341播放",
-      "index": 17
+      "hot_value": "2313671播放",
+      "index": 6
     },
     {
-      "title": "今天喝木薯桃胶炖奶",
-      "url": "https://www.bilibili.com/video/BV18x4M6rEFM",
-      "hot_value": "268663播放",
-      "index": 18
+      "title": "《崩坏：星穹铁道》走近星穹——「星神★阿哈：为了拖稿竟说自己是星神？」",
+      "url": "https://www.bilibili.com/video/BV1mU4u6yEz5",
+      "hot_value": "1292698播放",
+      "index": 7
     },
     {
-      "title": "莽村-但是社会摇MV【多梦综合征】【AI MV大赛】",
-      "url": "https://www.bilibili.com/video/BV1AT4c6rEPE",
-      "hot_value": "591882播放",
-      "index": 19
-    },
-    {
-      "title": "真IG打TES啊！从全军覆没0-4 到精彩复仇3席八强！",
-      "url": "https://www.bilibili.com/video/BV1xV4u6zEPF",
-      "hot_value": "452811播放",
-      "index": 20
-    },
-    {
-      "title": "倍速社会：是谁杀死了你的耐心？",
-      "url": "https://www.bilibili.com/video/BV1ap4g6HEVk",
-      "hot_value": "163298播放",
-      "index": 21
-    },
-    {
-      "title": "哟西！故乡的樱花开了！",
-      "url": "https://www.bilibili.com/video/BV1w34A62Eq2",
-      "hot_value": "2475978播放",
-      "index": 22
-    },
-    {
-      "title": "什么画居然能上央视视频？",
-      "url": "https://www.bilibili.com/video/BV1tnx86hE6i",
-      "hot_value": "636981播放",
-      "index": 23
-    },
-    {
-      "title": "无限流+大逃杀+规则怪谈！网飞又一部重磅神剧《末路兼职》60分钟完整解说",
-      "url": "https://www.bilibili.com/video/BV1XYxh63E8y",
-      "hot_value": "820553播放",
-      "index": 24
-    },
-    {
-      "title": "【文明与地图】12个大模型扮演君主谁能带领人类走向星际文明？",
-      "url": "https://www.bilibili.com/video/BV1onxb6rEeE",
-      "hot_value": "423098播放",
-      "index": 25
-    },
-    {
-      "title": "开破车挑战纽北！证明中国人比德国人更会玩车",
-      "url": "https://www.bilibili.com/video/BV1HH4u6PEsa",
-      "hot_value": "131765播放",
-      "index": 26
+      "title": "【邓肯】恐怖的“林夕的娃娃间”事件丨猜不透的“黛西事件”！",
+      "url": "https://www.bilibili.com/video/BV1yv4M6vEMa",
+      "hot_value": "406694播放",
+      "index": 8
     },
     {
       "title": "【大肥鱼】《secret base ～君がくれたもの～》未闻花名 ED 翻唱❀🐋",
       "url": "https://www.bilibili.com/video/BV1K9xv65EQC",
-      "hot_value": "222296播放",
-      "index": 27
+      "hot_value": "296295播放",
+      "index": 9
     },
     {
-      "title": "漫威盛世开启！票房破15亿美元！MCU第一阶段收官之作《复仇者联盟》",
-      "url": "https://www.bilibili.com/video/BV1ij4g6xEsH",
-      "hot_value": "274208播放",
-      "index": 28
+      "title": "BLG vs HLE小曲《狼的诱惑》",
+      "url": "https://www.bilibili.com/video/BV17m4M64Emr",
+      "hot_value": "824381播放",
+      "index": 10
+    },
+    {
+      "title": "打雪仗。",
+      "url": "https://www.bilibili.com/video/BV16Dx46VEZr",
+      "hot_value": "657461播放",
+      "index": 11
+    },
+    {
+      "title": "【文明与地图】12个大模型扮演君主谁能带领人类走向星际文明？",
+      "url": "https://www.bilibili.com/video/BV1onxb6rEeE",
+      "hot_value": "509275播放",
+      "index": 12
+    },
+    {
+      "title": "第1期：南山雪地徒步，邂逅新疆冬日浪漫【此生要去的100个地方 第二季】",
+      "url": "https://www.bilibili.com/video/BV13YxJ6kEgu",
+      "hot_value": "263730播放",
+      "index": 13
     },
     {
       "title": "山药肉沫蒸蛋！好吃(•؎ •)",
       "url": "https://www.bilibili.com/video/BV1F54A6yE9v",
-      "hot_value": "348279播放",
-      "index": 29
+      "hot_value": "623842播放",
+      "index": 14
+    },
+    {
+      "title": "开破车挑战纽北！证明中国人比德国人更会玩车",
+      "url": "https://www.bilibili.com/video/BV1HH4u6PEsa",
+      "hot_value": "288675播放",
+      "index": 15
+    },
+    {
+      "title": "当你得到了学长的焚决",
+      "url": "https://www.bilibili.com/video/BV1B2xe6FEYA",
+      "hot_value": "2306612播放",
+      "index": 16
     },
     {
       "title": "谁是有史以来最能整活的超级天才！",
       "url": "https://www.bilibili.com/video/BV19sx46cEKB",
-      "hot_value": "739413播放",
+      "hot_value": "879509播放",
+      "index": 17
+    },
+    {
+      "title": "入职鹰角成为卫戍协议策划的一天",
+      "url": "https://www.bilibili.com/video/BV19P4w6aEk3",
+      "hot_value": "980081播放",
+      "index": 18
+    },
+    {
+      "title": "【全网最全】DeepSeek Harness超详细教程！50分钟吃透DSH，让SuperAgent给你干活！",
+      "url": "https://www.bilibili.com/video/BV1REx46NEc4",
+      "hot_value": "1286836播放",
+      "index": 19
+    },
+    {
+      "title": "无限流+大逃杀+规则怪谈！网飞又一部重磅神剧《末路兼职》60分钟完整解说",
+      "url": "https://www.bilibili.com/video/BV1XYxh63E8y",
+      "hot_value": "996227播放",
+      "index": 20
+    },
+    {
+      "title": "《猫和老鼠》中的配乐细节竟然有这么多？！",
+      "url": "https://www.bilibili.com/video/BV17i4w66E7V",
+      "hot_value": "1043797播放",
+      "index": 21
+    },
+    {
+      "title": "漫威盛世开启！票房破15亿美元！MCU第一阶段收官之作《复仇者联盟》",
+      "url": "https://www.bilibili.com/video/BV1ij4g6xEsH",
+      "hot_value": "533584播放",
+      "index": 22
+    },
+    {
+      "title": "经常被问我的场景都是怎么弄的？今天直接带大家参观！",
+      "url": "https://www.bilibili.com/video/BV12R4u66Edd",
+      "hot_value": "256783播放",
+      "index": 23
+    },
+    {
+      "title": "挑战不让店员吃外卖第一期：滑蛋鸡腿肉盖饭！小美说还得是新鲜的香！#谢谢侬传承家宴",
+      "url": "https://www.bilibili.com/video/BV1MQ4u6CEzP",
+      "hot_value": "228491播放",
+      "index": 24
+    },
+    {
+      "title": "周 术 回 战  |魔法Zc目录",
+      "url": "https://www.bilibili.com/video/BV13n4g6QEqx",
+      "hot_value": "373332播放",
+      "index": 25
+    },
+    {
+      "title": "倍速社会：是谁杀死了你的耐心？",
+      "url": "https://www.bilibili.com/video/BV1ap4g6HEVk",
+      "hot_value": "452038播放",
+      "index": 26
+    },
+    {
+      "title": "一口气2个小时看完猎奇韩剧《末路兼职》八种怪谈，夺命兼职！日薪一亿的危险工作你干吗？爆肝三万字！",
+      "url": "https://www.bilibili.com/video/BV1Zo4c6TEg4",
+      "hot_value": "681257播放",
+      "index": 27
+    },
+    {
+      "title": "十五年前，我做了 《去月球》",
+      "url": "https://www.bilibili.com/video/BV1Lo4M6nEAw",
+      "hot_value": "210041播放",
+      "index": 28
+    },
+    {
+      "title": "哟西！故乡的樱花开了！",
+      "url": "https://www.bilibili.com/video/BV1w34A62Eq2",
+      "hot_value": "2792642播放",
+      "index": 29
+    },
+    {
+      "title": "跑了八个小时。",
+      "url": "https://www.bilibili.com/video/BV1RbxJ6LEzi",
+      "hot_value": "896849播放",
       "index": 30
     }
   ]
