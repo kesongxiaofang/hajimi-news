@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-11-05T17:30:52Z",
+  "update_time": "2026-11-05T23:12:13Z",
   "count": 30,
   "list": [
     {
       "title": "《崩坏：因缘精灵》幸福PV：缘汽一下",
       "url": "https://www.bilibili.com/video/BV1nm4g6NE71",
-      "hot_value": "3803933播放",
+      "hot_value": "3873787播放",
       "index": 1
+    },
+    {
+      "title": "《崩坏：星穹铁道》阿哈的抓马小曲",
+      "url": "https://www.bilibili.com/video/BV1LHxQ6gELU",
+      "hot_value": "906094播放",
+      "index": 2
     },
     {
       "title": "物理意义上烫烫的一集",
       "url": "https://www.bilibili.com/video/BV1mpxR6KESh",
-      "hot_value": "908796播放",
-      "index": 2
-    },
-    {
-      "title": "瞎说的什么玩意？",
-      "url": "https://www.bilibili.com/video/BV1ZVxf6ZENs",
-      "hot_value": "702383播放",
+      "hot_value": "1065884播放",
       "index": 3
     },
     {
       "title": "【纪录片】人生一串 第四季 01 同道中人",
       "url": "https://www.bilibili.com/video/BV1KBxS6DEuc",
-      "hot_value": "2508546播放",
+      "hot_value": "2572586播放",
       "index": 4
-    },
-    {
-      "title": "我梭哈的内存就被用来干这种事吗？",
-      "url": "https://www.bilibili.com/video/BV12gxy6eEGQ",
-      "hot_value": "913572播放",
-      "index": 5
-    },
-    {
-      "title": "花4000块让女友和凶猛老虎躺一块睡24小时…她差点被吓破胆！！！",
-      "url": "https://www.bilibili.com/video/BV1SW4b6YECy",
-      "hot_value": "282020播放",
-      "index": 6
-    },
-    {
-      "title": "挑战只带一台笔记本，不带充电器在佛山废弃商场工作一天！",
-      "url": "https://www.bilibili.com/video/BV1J4xZ6cEuu",
-      "hot_value": "146779播放",
-      "index": 7
-    },
-    {
-      "title": "真的需要摸吗？MacBook Pro PROLED XDR上手",
-      "url": "https://www.bilibili.com/video/BV1NS4t6oEXQ",
-      "hot_value": "314108播放",
-      "index": 8
     },
     {
       "title": "不是在拍热点就是在拍热点的路上！终于一次性拍完所有热点了，厉娜！",
       "url": "https://www.bilibili.com/video/BV1Jn4t62ErC",
-      "hot_value": "366661播放",
-      "index": 9
-    },
-    {
-      "title": "一句 “我画地为牢啊厉娜”！揭开埋藏十五年的超女意难平《后会友期》许飞厉娜线解说版",
-      "url": "https://www.bilibili.com/video/BV13vx96uE5h",
-      "hot_value": "755778播放",
-      "index": 10
-    },
-    {
-      "title": "《崩坏：星穹铁道》阿哈的抓马小曲",
-      "url": "https://www.bilibili.com/video/BV1LHxQ6gELU",
-      "hot_value": "868104播放",
-      "index": 11
-    },
-    {
-      "title": "【返场】乐高车过障碍物",
-      "url": "https://www.bilibili.com/video/BV1Zg4g68Ef7",
-      "hot_value": "2594939播放",
-      "index": 12
-    },
-    {
-      "title": "《三角洲行动》全新【微光】赛季故事短片",
-      "url": "https://www.bilibili.com/video/BV1sKxQ6nEiL",
-      "hot_value": "1648003播放",
-      "index": 13
-    },
-    {
-      "title": "特朗普危！中期选举两院全丢，弹劾、调查、政府关门哪项等着他？",
-      "url": "https://www.bilibili.com/video/BV1ybxX6WEJK",
-      "hot_value": "2898055播放",
-      "index": 14
-    },
-    {
-      "title": "当你在过山车上紧急视频会议",
-      "url": "https://www.bilibili.com/video/BV1EWxd6sExz",
-      "hot_value": "531337播放",
-      "index": 15
-    },
-    {
-      "title": "做一副像普通眼镜的智能眼镜，到底有多难？",
-      "url": "https://www.bilibili.com/video/BV1La4t6uEKb",
-      "hot_value": "381068播放",
-      "index": 16
+      "hot_value": "463517播放",
+      "index": 5
     },
     {
       "title": "Roblox 单色",
       "url": "https://www.bilibili.com/video/BV1zk4b6nE21",
-      "hot_value": "345891播放",
-      "index": 17
-    },
-    {
-      "title": "领导不会记得你给过他伞，但是会记得你给他淋过雨#老外#让老外感受中国文化",
-      "url": "https://www.bilibili.com/video/BV19gxX6iEE9",
-      "hot_value": "991919播放",
-      "index": 18
-    },
-    {
-      "title": "【原神一条龙全收集】至冬7.2(成就数232/冰神瞳90/摩拉69/影生翼滴15)新基捷城+如翼之峰/宝箱/摩拉堆/玉帛/冰之印/原神7.2一条龙",
-      "url": "https://www.bilibili.com/video/BV1PyxQ6sEbH",
-      "hot_value": "1606620播放",
-      "index": 19
-    },
-    {
-      "title": "Wei：我不是野核~",
-      "url": "https://www.bilibili.com/video/BV1Ec4b6JE1A",
-      "hot_value": "255672播放",
-      "index": 20
-    },
-    {
-      "title": "带猫狗去动物园，没想到路上差点中毒",
-      "url": "https://www.bilibili.com/video/BV1qExQ6GEq4",
-      "hot_value": "1199172播放",
-      "index": 21
-    },
-    {
-      "title": "《今日得吃朱古力》",
-      "url": "https://www.bilibili.com/video/BV1jcxX6CEyK",
-      "hot_value": "2856608播放",
-      "index": 22
-    },
-    {
-      "title": "《王从天降》",
-      "url": "https://www.bilibili.com/video/BV18XxD6FEC1",
-      "hot_value": "644172播放",
-      "index": 23
-    },
-    {
-      "title": "王老菊教你影之刃06：👠",
-      "url": "https://www.bilibili.com/video/BV11i4h6AE6d",
-      "hot_value": "62726播放",
-      "index": 24
-    },
-    {
-      "title": "7点50，大肥鱼催你上早八",
-      "url": "https://www.bilibili.com/video/BV1PyxS62Ei3",
-      "hot_value": "638528播放",
-      "index": 25
-    },
-    {
-      "title": "女人的身体为什么这么美妙 |  Miniskirt-AOA｜短裙的权威我后知后觉",
-      "url": "https://www.bilibili.com/video/BV1SpxR6KE8w",
-      "hot_value": "163628播放",
-      "index": 26
-    },
-    {
-      "title": "𝟮𝟬𝟮𝟲年最新版！MJ【𝟰𝗞𝟲𝟬𝗙𝗣𝗦｜𝗛𝗗𝗥】无敌！全网最清晰!杜比视界！迈克尔杰克逊《Thriller》MV｜胶片修复｜",
-      "url": "https://www.bilibili.com/video/BV1uzxJ6BEq2",
-      "hot_value": "171181播放",
-      "index": 27
-    },
-    {
-      "title": "花19天，造一把可以吃的剑！",
-      "url": "https://www.bilibili.com/video/BV1Bz446yEx2",
-      "hot_value": "248752播放",
-      "index": 28
-    },
-    {
-      "title": "【短片大芬】以后",
-      "url": "https://www.bilibili.com/video/BV1aCxZ6JEbc",
-      "hot_value": "216460播放",
-      "index": 29
+      "hot_value": "385264播放",
+      "index": 6
     },
     {
       "title": "不看电视不接电话的中国人",
       "url": "https://www.bilibili.com/video/BV15sxS68EFq",
-      "hot_value": "1116383播放",
+      "hot_value": "1148287播放",
+      "index": 7
+    },
+    {
+      "title": "Wei：我不是野核~",
+      "url": "https://www.bilibili.com/video/BV1Ec4b6JE1A",
+      "hot_value": "329373播放",
+      "index": 8
+    },
+    {
+      "title": "一句 “我画地为牢啊厉娜”！揭开埋藏十五年的超女意难平《后会友期》许飞厉娜线解说版",
+      "url": "https://www.bilibili.com/video/BV13vx96uE5h",
+      "hot_value": "828316播放",
+      "index": 9
+    },
+    {
+      "title": "瞎说的什么玩意？",
+      "url": "https://www.bilibili.com/video/BV1ZVxf6ZENs",
+      "hot_value": "772900播放",
+      "index": 10
+    },
+    {
+      "title": "特朗普危！中期选举两院全丢，弹劾、调查、政府关门哪项等着他？",
+      "url": "https://www.bilibili.com/video/BV1ybxX6WEJK",
+      "hot_value": "2958654播放",
+      "index": 11
+    },
+    {
+      "title": "真的需要摸吗？MacBook Pro PROLED XDR上手",
+      "url": "https://www.bilibili.com/video/BV1NS4t6oEXQ",
+      "hot_value": "456045播放",
+      "index": 12
+    },
+    {
+      "title": "7点50，大肥鱼催你上早八",
+      "url": "https://www.bilibili.com/video/BV1PyxS62Ei3",
+      "hot_value": "679766播放",
+      "index": 13
+    },
+    {
+      "title": "【2026全球总决赛】11月5日 GEN vs LYON",
+      "url": "https://www.bilibili.com/video/BV1fAxo6oEPt",
+      "hot_value": "2025814播放",
+      "index": 14
+    },
+    {
+      "title": "你恢复一下，我还是喜欢你刚刚桀骜不驯的样子！",
+      "url": "https://www.bilibili.com/video/BV1794g6cEsm",
+      "hot_value": "1117444播放",
+      "index": 15
+    },
+    {
+      "title": "参众两院全丢，民主党大翻盘，特朗普的中期大选自刎归天了",
+      "url": "https://www.bilibili.com/video/BV1hXxD6FE1Q",
+      "hot_value": "944744播放",
+      "index": 16
+    },
+    {
+      "title": "中期选举两院全丢，万税爷连胜被终结",
+      "url": "https://www.bilibili.com/video/BV1sAxQ6pEEv",
+      "hot_value": "1656996播放",
+      "index": 17
+    },
+    {
+      "title": "【张靓颖】本up抵达心湖（见过沐小葵版）",
+      "url": "https://www.bilibili.com/video/BV17X4h6pE2U",
+      "hot_value": "219326播放",
+      "index": 18
+    },
+    {
+      "title": "暴涨→大跌→倒闭 从行业周期看内存何时降价",
+      "url": "https://www.bilibili.com/video/BV1ZwxR6SEaV",
+      "hot_value": "608597播放",
+      "index": 19
+    },
+    {
+      "title": "《王从天降》",
+      "url": "https://www.bilibili.com/video/BV18XxD6FEC1",
+      "hot_value": "693080播放",
+      "index": 20
+    },
+    {
+      "title": "两把速通双信物！跟全图人机交朋友的来！",
+      "url": "https://www.bilibili.com/video/BV1XDxD6hE3X",
+      "hot_value": "1070678播放",
+      "index": 21
+    },
+    {
+      "title": "《三角洲行动》全新【微光】赛季故事短片",
+      "url": "https://www.bilibili.com/video/BV1sKxQ6nEiL",
+      "hot_value": "1695679播放",
+      "index": 22
+    },
+    {
+      "title": "《今日得吃朱古力》",
+      "url": "https://www.bilibili.com/video/BV1jcxX6CEyK",
+      "hot_value": "2940603播放",
+      "index": 23
+    },
+    {
+      "title": "当你在过山车上紧急视频会议",
+      "url": "https://www.bilibili.com/video/BV1EWxd6sExz",
+      "hot_value": "576217播放",
+      "index": 24
+    },
+    {
+      "title": "《复仇者联盟 78》番外 三国杀",
+      "url": "https://www.bilibili.com/video/BV1MvxQ6hE1g",
+      "hot_value": "703202播放",
+      "index": 25
+    },
+    {
+      "title": "你不会觉得这是人吧？",
+      "url": "https://www.bilibili.com/video/BV1vix26sEoK",
+      "hot_value": "1079590播放",
+      "index": 26
+    },
+    {
+      "title": "【返场】乐高车过障碍物",
+      "url": "https://www.bilibili.com/video/BV1Zg4g68Ef7",
+      "hot_value": "2659341播放",
+      "index": 27
+    },
+    {
+      "title": "带猫狗去动物园，没想到路上差点中毒",
+      "url": "https://www.bilibili.com/video/BV1qExQ6GEq4",
+      "hot_value": "1237950播放",
+      "index": 28
+    },
+    {
+      "title": "在日本体验24小时穷富生活，预算相差100倍！差距究竟有多离谱？",
+      "url": "https://www.bilibili.com/video/BV1FXxS63Eie",
+      "hot_value": "1094795播放",
+      "index": 29
+    },
+    {
+      "title": "盘点猫德学院的败家玩意",
+      "url": "https://www.bilibili.com/video/BV1tRxD6ZEtY",
+      "hot_value": "404484播放",
       "index": 30
     }
   ]
