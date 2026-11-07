@@ -1,186 +1,186 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-07T16:56:24Z",
+  "update_time": "2026-11-07T20:40:03Z",
   "count": 30,
   "list": [
     {
-      "title": "外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
-      "url": "https://www.zhihu.com/question/2102096628895240211",
-      "hot_value": "895 万热度",
+      "title": "如何看待 11 月 7 日 DeepSeek 再次崩溃？",
+      "url": "https://www.zhihu.com/question/2102422630783571434",
+      "hot_value": "540 万热度",
       "index": 1
     },
     {
-      "title": "如何看待 11 月 7 日 DeepSeek 再次崩溃？",
-      "url": "https://www.zhihu.com/question/2102422630783571434",
-      "hot_value": "806 万热度",
+      "title": "外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
+      "url": "https://www.zhihu.com/question/2102096628895240211",
+      "hot_value": "525 万热度",
       "index": 2
-    },
-    {
-      "title": "南京两家「零元面馆」排长队引争议，如何看待这种无门槛免费供餐模式？",
-      "url": "https://www.zhihu.com/question/2100933353553896257",
-      "hot_value": "414 万热度",
-      "index": 3
     },
     {
       "title": "怎么看字节跳动的扣子宣布下线解散，AI 工作流是不是已经没有市场了？",
       "url": "https://www.zhihu.com/question/2101391707430565604",
-      "hot_value": "384 万热度",
-      "index": 4
+      "hot_value": "340 万热度",
+      "index": 3
     },
     {
       "title": "如何看待深圳一机顶盒厂商在 130 万台出厂设备中预埋系统级后门，并将控制权出售给黑产的行为？",
       "url": "https://www.zhihu.com/question/2101846693520085716",
-      "hot_value": "306 万热度",
+      "hot_value": "331 万热度",
+      "index": 4
+    },
+    {
+      "title": "因拖欠工资起争执，男子被雇主扇 9 次耳光后急性脑梗死离世，雇主被判担责七成赔 84 万余元，法律上如何解读？",
+      "url": "https://www.zhihu.com/question/2102507102237476054",
+      "hot_value": "249 万热度",
       "index": 5
     },
     {
-      "title": "男子收 1.98 万误转账约在派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？",
-      "url": "https://www.zhihu.com/question/2102313430409658570",
-      "hot_value": "263 万热度",
+      "title": "南京两家「零元面馆」排长队引争议，如何看待这种无门槛免费供餐模式？",
+      "url": "https://www.zhihu.com/question/2100933353553896257",
+      "hot_value": "187 万热度",
       "index": 6
     },
     {
       "title": "曝美光将暂停 45 亿美元内存厂扩产，为何后续会出现要么 AI 崩要么内存涨价的局面？",
       "url": "https://www.zhihu.com/question/2102194286016082260",
-      "hot_value": "185 万热度",
+      "hot_value": "182 万热度",
       "index": 7
-    },
-    {
-      "title": "因拖欠工资起争执，男子被雇主扇 9 次耳光后急性脑梗死离世，雇主被判担责七成赔 84 万余元，法律上如何解读？",
-      "url": "https://www.zhihu.com/question/2102507102237476054",
-      "hot_value": "179 万热度",
-      "index": 8
     },
     {
       "title": "横店短剧女主半年接不到戏，选择摆摊交房租，当 AI 短剧越来越火，未来真人短剧行业将如何发展？",
       "url": "https://www.zhihu.com/question/2101613309371986604",
-      "hot_value": "169 万热度",
-      "index": 9
-    },
-    {
-      "title": "网友说微信读书是腾讯的「功德产品」，字节没有，是这样吗？字节为什么做不出这种产品？",
-      "url": "https://www.zhihu.com/question/2101703768936904422",
-      "hot_value": "157 万热度",
-      "index": 10
-    },
-    {
-      "title": "现在日本算发达国家守门员吗?",
-      "url": "https://www.zhihu.com/question/658697362",
-      "hot_value": "145 万热度",
-      "index": 11
+      "hot_value": "172 万热度",
+      "index": 8
     },
     {
       "title": "《影之刃零》海外收入占到 55%，一款武侠游戏在欧美卖得比国内好，这事该怎么看？",
       "url": "https://www.zhihu.com/question/2101626484280631616",
-      "hot_value": "143 万热度",
-      "index": 12
+      "hot_value": "153 万热度",
+      "index": 9
+    },
+    {
+      "title": "《球状闪电》讲了一个什么样的故事？",
+      "url": "https://www.zhihu.com/question/273702393",
+      "hot_value": "142 万热度",
+      "index": 10
     },
     {
       "title": "为何美国民主党要推动超级 AI 禁令？个人违规 20 年监禁、企业强制解散，量刑堪比非法研发核武器，动机是啥？",
       "url": "https://www.zhihu.com/question/2101942075734471491",
-      "hot_value": "140 万热度",
+      "hot_value": "135 万热度",
+      "index": 11
+    },
+    {
+      "title": "国漫十年内有机会超越日漫吗？",
+      "url": "https://www.zhihu.com/question/2085157486156423466",
+      "hot_value": "127 万热度",
+      "index": 12
+    },
+    {
+      "title": "网友说微信读书是腾讯的「功德产品」，字节没有，是这样吗？字节为什么做不出这种产品？",
+      "url": "https://www.zhihu.com/question/2101703768936904422",
+      "hot_value": "125 万热度",
       "index": 13
-    },
-    {
-      "title": "如何看待 Faker 称 BLG 具备夺冠的实力，但很遗憾他们在半决赛对上了我们？",
-      "url": "https://www.zhihu.com/question/2102347655133094184",
-      "hot_value": "132 万热度",
-      "index": 14
-    },
-    {
-      "title": "许飞「画地为牢」梗爆火，《后会友期》市占率飙至 74.3%，综艺严重同质化的今天，它为什么能成功？\n",
-      "url": "https://www.zhihu.com/question/2100916472155464866",
-      "hot_value": "126 万热度",
-      "index": 15
     },
     {
       "title": "广州多名小学生家长反映，孩子在校园周边小卖部签名即可赊账买零食，有学生月赊超千元，店家的做法合法吗？",
       "url": "https://www.zhihu.com/question/2102366518650718030",
-      "hot_value": "121 万热度",
-      "index": 16
+      "hot_value": "122 万热度",
+      "index": 14
     },
     {
-      "title": "2026wtt 法兰克福冠军赛，蒯曼 3-4 不敌早田希娜，无缘女单 4 强，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2102510684361832305",
-      "hot_value": "117 万热度",
-      "index": 17
-    },
-    {
-      "title": "教育部推行教师 AI 全覆盖培训，部分教师却表示「越用 AI 反而越累」，为什么会出现这种现象？",
-      "url": "https://www.zhihu.com/question/2101733537099559120",
-      "hot_value": "116 万热度",
-      "index": 18
-    },
-    {
-      "title": "特斯拉宣布终止 Cybertruck 生产，扩大 Cybercab 的产能，怎样解读这一调整？",
-      "url": "https://www.zhihu.com/question/2102306579311588297",
-      "hot_value": "108 万热度",
-      "index": 19
-    },
-    {
-      "title": "任天堂 Switch2 三季度销量同比暴跌 41%，仅卖出 267 万台，销量承压的原因是什么？",
-      "url": "https://www.zhihu.com/question/2101843746547556916",
-      "hot_value": "102 万热度",
-      "index": 20
+      "title": "理论上讲，通缉犯躲进原始森林，能否躲到寿终正寝不被抓？",
+      "url": "https://www.zhihu.com/question/2100529507614581364",
+      "hot_value": "120 万热度",
+      "index": 15
     },
     {
       "title": "如何评价《嫁金钗》大结局女主软禁太后杀死亲王摆下鸿门宴携胚胎以令诸侯，最后以护国长公主身份摄政天下？",
       "url": "https://www.zhihu.com/question/2102316298638250371",
-      "hot_value": "99 万热度",
-      "index": 21
+      "hot_value": "109 万热度",
+      "index": 16
     },
     {
-      "title": "《金瓶梅》里，西门庆那么有钱有势，为什么西门府还是注定崩溃？",
-      "url": "https://www.zhihu.com/question/2040177248003683343",
-      "hot_value": "92 万热度",
-      "index": 22
+      "title": "教育部推行教师 AI 全覆盖培训，部分教师却表示「越用 AI 反而越累」，为什么会出现这种现象？",
+      "url": "https://www.zhihu.com/question/2101733537099559120",
+      "hot_value": "107 万热度",
+      "index": 17
     },
     {
       "title": "黄渤称父母都患有阿尔茨海默症，他担心会被遗传，阿尔茨海默症会遗传吗？有预防方法吗？",
       "url": "https://www.zhihu.com/question/1942309698943541550",
-      "hot_value": "89 万热度",
-      "index": 23
+      "hot_value": "87 万热度",
+      "index": 18
+    },
+    {
+      "title": "男子收 1.98 万误转账约在派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2102313430409658570",
+      "hot_value": "87 万热度",
+      "index": 19
+    },
+    {
+      "title": "西方哲学入门为什么常从古希腊开始？",
+      "url": "https://www.zhihu.com/question/2100908086680729577",
+      "hot_value": "78 万热度",
+      "index": 20
+    },
+    {
+      "title": "许飞「画地为牢」梗爆火，《后会友期》市占率飙至 74.3%，综艺严重同质化的今天，它为什么能成功？\n",
+      "url": "https://www.zhihu.com/question/2100916472155464866",
+      "hot_value": "78 万热度",
+      "index": 21
+    },
+    {
+      "title": "任天堂 Switch2 三季度销量同比暴跌 41%，仅卖出 267 万台，销量承压的原因是什么？",
+      "url": "https://www.zhihu.com/question/2101843746547556916",
+      "hot_value": "63 万热度",
+      "index": 22
     },
     {
       "title": "如何评价李路执导，井柏然主演的税务稽查题材剧《谷雨》？",
       "url": "https://www.zhihu.com/question/2101725226383959133",
-      "hot_value": "85 万热度",
-      "index": 24
-    },
-    {
-      "title": "《影之刃零》10 级以后重置武器等级需要消耗「逆炼符」，这是否是最多余的设计？",
-      "url": "https://www.zhihu.com/question/2101980117081776162",
-      "hot_value": "70 万热度",
-      "index": 25
-    },
-    {
-      "title": "不要太操心孩子，所有的操心基本都是徒劳的。这个命题是真命题还是假命题？",
-      "url": "https://www.zhihu.com/question/2011402934085236059",
       "hot_value": "59 万热度",
-      "index": 26
+      "index": 23
     },
     {
       "title": "如果给你月薪 9000，天天去图书馆看书你愿意吗？",
       "url": "https://www.zhihu.com/question/2096936259998447204",
       "hot_value": "59 万热度",
+      "index": 24
+    },
+    {
+      "title": "2026wtt 法兰克福冠军赛，蒯曼 3-4 不敌早田希娜，无缘女单 4 强，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2102510684361832305",
+      "hot_value": "59 万热度",
+      "index": 25
+    },
+    {
+      "title": "如何看待 Faker 称 BLG 具备夺冠的实力，但很遗憾他们在半决赛对上了我们？",
+      "url": "https://www.zhihu.com/question/2102347655133094184",
+      "hot_value": "58 万热度",
+      "index": 26
+    },
+    {
+      "title": "每天给你 5000 元，但是第二天你的存款会自动消失，你愿意吗？",
+      "url": "https://www.zhihu.com/question/2100563777120909291",
+      "hot_value": "58 万热度",
       "index": 27
     },
     {
-      "title": "研究生导师是更喜欢保研上来的学生还是考研上来的学生？",
-      "url": "https://www.zhihu.com/question/2098191977334445822",
+      "title": "你人生中有没有一件事，像跑马拉松一样需要慢慢坚持？",
+      "url": "https://www.zhihu.com/question/2100986198684612571",
       "hot_value": "58 万热度",
       "index": 28
     },
     {
-      "title": "中国有没有那种中国人不怎么去，但是外国人却很喜欢去的古迹?",
-      "url": "https://www.zhihu.com/question/2098824135749194619",
+      "title": "为啥以前观念里会觉得喝咖啡很高档，现在却觉得喝咖啡的只是打工牛马？是咖啡变便宜了还是大众对咖啡祛魅了？",
+      "url": "https://www.zhihu.com/question/2102124807307227549",
       "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "感恩的最高境界到底是什么？",
-      "url": "https://www.zhihu.com/question/2101936910730110717",
+      "title": "如果军长已经坚决下达了必须执行的命令，而旅长坚定认为命令是错的，一定会导致战役的失败，那怎么办？",
+      "url": "https://www.zhihu.com/question/2099319258408825808",
       "hot_value": "58 万热度",
       "index": 30
     }
