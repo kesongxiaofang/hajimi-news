@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-11-07T20:40:03Z",
+  "update_time": "2026-11-08T00:08:44Z",
   "count": 30,
   "list": [
     {
-      "title": "两枚导弹击中伊朗格什姆岛",
-      "url": "https://www.douyin.com/search/%E4%B8%A4%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B?type=general",
-      "hot_value": "12105026",
+      "title": "盛唐初雪飘落洛阳城",
+      "url": "https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E?type=general",
+      "hot_value": "12148329",
       "index": 1
     },
     {
-      "title": "TTG战胜LGDNBW",
-      "url": "https://www.douyin.com/search/TTG%E6%88%98%E8%83%9CLGDNBW?type=general",
-      "hot_value": "12099694",
+      "title": "天赐官宣入驻抖音直播",
+      "url": "https://www.douyin.com/search/%E5%A4%A9%E8%B5%90%E5%AE%98%E5%AE%A3%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD?type=general",
+      "hot_value": "10759504",
       "index": 2
     },
     {
       "title": "中国第43次南极考察队出征",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%AC%AC43%E6%AC%A1%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E9%98%9F%E5%87%BA%E5%BE%81?type=general",
-      "hot_value": "11474829",
+      "hot_value": "10429123",
       "index": 3
-    },
-    {
-      "title": "盛唐初雪飘落洛阳城",
-      "url": "https://www.douyin.com/search/%E7%9B%9B%E5%94%90%E5%88%9D%E9%9B%AA%E9%A3%98%E8%90%BD%E6%B4%9B%E9%98%B3%E5%9F%8E?type=general",
-      "hot_value": "11329380",
-      "index": 4
     },
     {
       "title": "这口烧烤我画地为牢",
       "url": "https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E7%83%A7%E7%83%A4%E6%88%91%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2?type=general",
-      "hot_value": "10636529",
+      "hot_value": "9285599",
+      "index": 4
+    },
+    {
+      "title": "入冬第一顿火锅爆爽不烧心",
+      "url": "https://www.douyin.com/search/%E5%85%A5%E5%86%AC%E7%AC%AC%E4%B8%80%E9%A1%BF%E7%81%AB%E9%94%85%E7%88%86%E7%88%BD%E4%B8%8D%E7%83%A7%E5%BF%83?type=general",
+      "hot_value": "8779759",
       "index": 5
     },
     {
-      "title": "希金斯对阵凯伦威尔逊完成绝杀",
-      "url": "https://www.douyin.com/search/%E5%B8%8C%E9%87%91%E6%96%AF%E5%AF%B9%E9%98%B5%E5%87%AF%E4%BC%A6%E5%A8%81%E5%B0%94%E9%80%8A%E5%AE%8C%E6%88%90%E7%BB%9D%E6%9D%80?type=general",
-      "hot_value": "10546990",
+      "title": "苹果削皮器才是懒人居家的福音",
+      "url": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E5%89%8A%E7%9A%AE%E5%99%A8%E6%89%8D%E6%98%AF%E6%87%92%E4%BA%BA%E5%B1%85%E5%AE%B6%E7%9A%84%E7%A6%8F%E9%9F%B3?type=general",
+      "hot_value": "8765406",
       "index": 6
     },
     {
-      "title": "立冬初雪被毛茸茸治愈了",
-      "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%88%9D%E9%9B%AA%E8%A2%AB%E6%AF%9B%E8%8C%B8%E8%8C%B8%E6%B2%BB%E6%84%88%E4%BA%86?type=general",
-      "hot_value": "9356270",
+      "title": "寻找你的答案之书",
+      "url": "https://www.douyin.com/search/%E5%AF%BB%E6%89%BE%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6?type=general",
+      "hot_value": "7836313",
       "index": 7
     },
     {
       "title": "IG对战GEN",
       "url": "https://www.douyin.com/search/IG%E5%AF%B9%E6%88%98GEN?type=general",
-      "hot_value": "9269000",
+      "hot_value": "7783328",
       "index": 8
     },
     {
-      "title": "天赐官宣入驻抖音直播",
-      "url": "https://www.douyin.com/search/%E5%A4%A9%E8%B5%90%E5%AE%98%E5%AE%A3%E5%85%A5%E9%A9%BB%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD?type=general",
-      "hot_value": "9122324",
+      "title": "东风61列装火箭军传递出什么信号",
+      "url": "https://www.douyin.com/search/%E4%B8%9C%E9%A3%8E61%E5%88%97%E8%A3%85%E7%81%AB%E7%AE%AD%E5%86%9B%E4%BC%A0%E9%80%92%E5%87%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7?type=general",
+      "hot_value": "7771817",
       "index": 9
     },
     {
-      "title": "云南一剧组拍戏发生意外起火",
-      "url": "https://www.douyin.com/search/%E4%BA%91%E5%8D%97%E4%B8%80%E5%89%A7%E7%BB%84%E6%8B%8D%E6%88%8F%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E8%B5%B7%E7%81%AB?type=general",
-      "hot_value": "9087155",
+      "title": "希金斯对阵凯伦威尔逊完成绝杀",
+      "url": "https://www.douyin.com/search/%E5%B8%8C%E9%87%91%E6%96%AF%E5%AF%B9%E9%98%B5%E5%87%AF%E4%BC%A6%E5%A8%81%E5%B0%94%E9%80%8A%E5%AE%8C%E6%88%90%E7%BB%9D%E6%9D%80?type=general",
+      "hot_value": "7761471",
       "index": 10
     },
     {
-      "title": "寻找你的答案之书",
-      "url": "https://www.douyin.com/search/%E5%AF%BB%E6%89%BE%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88%E4%B9%8B%E4%B9%A6?type=general",
-      "hot_value": "9064131",
+      "title": "林葳替补砍下20分4助",
+      "url": "https://www.douyin.com/search/%E6%9E%97%E8%91%B3%E6%9B%BF%E8%A1%A5%E7%A0%8D%E4%B8%8B20%E5%88%864%E5%8A%A9?type=general",
+      "hot_value": "7742821",
       "index": 11
     },
     {
-      "title": "美丽不冻人的冬季穿搭",
-      "url": "https://www.douyin.com/search/%E7%BE%8E%E4%B8%BD%E4%B8%8D%E5%86%BB%E4%BA%BA%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD?type=general",
-      "hot_value": "9032477",
+      "title": "墨尔本中国公民遇害案嫌犯已归案",
+      "url": "https://www.douyin.com/search/%E5%A2%A8%E5%B0%94%E6%9C%AC%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%87%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%B7%B2%E5%BD%92%E6%A1%88?type=general",
+      "hot_value": "7726052",
       "index": 12
     },
     {
       "title": "10月辟谣榜",
       "url": "https://www.douyin.com/search/10%E6%9C%88%E8%BE%9F%E8%B0%A3%E6%A6%9C?type=general",
-      "hot_value": "8988768",
+      "hot_value": "7717597",
       "index": 13
     },
     {
-      "title": "泰山主场迎战成都蓉城",
-      "url": "https://www.douyin.com/search/%E6%B3%B0%E5%B1%B1%E4%B8%BB%E5%9C%BA%E8%BF%8E%E6%88%98%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E?type=general",
-      "hot_value": "8965312",
+      "title": "郑雨的人生从未放晴",
+      "url": "https://www.douyin.com/search/%E9%83%91%E9%9B%A8%E7%9A%84%E4%BA%BA%E7%94%9F%E4%BB%8E%E6%9C%AA%E6%94%BE%E6%99%B4?type=general",
+      "hot_value": "7712950",
       "index": 14
-    },
-    {
-      "title": "北京下雪",
-      "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA?type=general",
-      "hot_value": "8706508",
-      "index": 15
-    },
-    {
-      "title": "墨尔本遇害中国骑手妻子发声",
-      "url": "https://www.douyin.com/search/%E5%A2%A8%E5%B0%94%E6%9C%AC%E9%81%87%E5%AE%B3%E4%B8%AD%E5%9B%BD%E9%AA%91%E6%89%8B%E5%A6%BB%E5%AD%90%E5%8F%91%E5%A3%B0?type=general",
-      "hot_value": "8553242",
-      "index": 16
-    },
-    {
-      "title": "墨尔本中国公民遇害案嫌犯已归案",
-      "url": "https://www.douyin.com/search/%E5%A2%A8%E5%B0%94%E6%9C%AC%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%87%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%B7%B2%E5%BD%92%E6%A1%88?type=general",
-      "hot_value": "8288597",
-      "index": 17
-    },
-    {
-      "title": "把力量借给IG",
-      "url": "https://www.douyin.com/search/%E6%8A%8A%E5%8A%9B%E9%87%8F%E5%80%9F%E7%BB%99IG?type=general",
-      "hot_value": "8077094",
-      "index": 18
-    },
-    {
-      "title": "入冬第一顿火锅爆爽不烧心",
-      "url": "https://www.douyin.com/search/%E5%85%A5%E5%86%AC%E7%AC%AC%E4%B8%80%E9%A1%BF%E7%81%AB%E9%94%85%E7%88%86%E7%88%BD%E4%B8%8D%E7%83%A7%E5%BF%83?type=general",
-      "hot_value": "7996433",
-      "index": 19
-    },
-    {
-      "title": "抖音缝纫天裁交流大会",
-      "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%BC%9D%E7%BA%AB%E5%A4%A9%E8%A3%81%E4%BA%A4%E6%B5%81%E5%A4%A7%E4%BC%9A?type=general",
-      "hot_value": "7844378",
-      "index": 20
     },
     {
       "title": "纵然我的相思有千千万万重",
       "url": "https://www.douyin.com/search/%E7%BA%B5%E7%84%B6%E6%88%91%E7%9A%84%E7%9B%B8%E6%80%9D%E6%9C%89%E5%8D%83%E5%8D%83%E4%B8%87%E4%B8%87%E9%87%8D?type=general",
-      "hot_value": "7841848",
+      "hot_value": "7711215",
+      "index": 15
+    },
+    {
+      "title": "北京下雪",
+      "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA?type=general",
+      "hot_value": "7710623",
+      "index": 16
+    },
+    {
+      "title": "两部门部署暴雪暴雨防范应对",
+      "url": "https://www.douyin.com/search/%E4%B8%A4%E9%83%A8%E9%97%A8%E9%83%A8%E7%BD%B2%E6%9A%B4%E9%9B%AA%E6%9A%B4%E9%9B%A8%E9%98%B2%E8%8C%83%E5%BA%94%E5%AF%B9?type=general",
+      "hot_value": "7705488",
+      "index": 17
+    },
+    {
+      "title": "立冬心愿是平安顺遂",
+      "url": "https://www.douyin.com/search/%E7%AB%8B%E5%86%AC%E5%BF%83%E6%84%BF%E6%98%AF%E5%B9%B3%E5%AE%89%E9%A1%BA%E9%81%82?type=general",
+      "hot_value": "7686562",
+      "index": 18
+    },
+    {
+      "title": "玉簟秋正式收官",
+      "url": "https://www.douyin.com/search/%E7%8E%89%E7%B0%9F%E7%A7%8B%E6%AD%A3%E5%BC%8F%E6%94%B6%E5%AE%98?type=general",
+      "hot_value": "7685700",
+      "index": 19
+    },
+    {
+      "title": "把力量借给IG",
+      "url": "https://www.douyin.com/search/%E6%8A%8A%E5%8A%9B%E9%87%8F%E5%80%9F%E7%BB%99IG?type=general",
+      "hot_value": "7685648",
+      "index": 20
+    },
+    {
+      "title": "谷雨案件悬念拉满了",
+      "url": "https://www.douyin.com/search/%E8%B0%B7%E9%9B%A8%E6%A1%88%E4%BB%B6%E6%82%AC%E5%BF%B5%E6%8B%89%E6%BB%A1%E4%BA%86?type=general",
+      "hot_value": "7683652",
       "index": 21
     },
     {
-      "title": "东风61列装火箭军传递出什么信号",
-      "url": "https://www.douyin.com/search/%E4%B8%9C%E9%A3%8E61%E5%88%97%E8%A3%85%E7%81%AB%E7%AE%AD%E5%86%9B%E4%BC%A0%E9%80%92%E5%87%BA%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7?type=general",
-      "hot_value": "7835680",
+      "title": "郝熠然也来唱想你就写信了",
+      "url": "https://www.douyin.com/search/%E9%83%9D%E7%86%A0%E7%84%B6%E4%B9%9F%E6%9D%A5%E5%94%B1%E6%83%B3%E4%BD%A0%E5%B0%B1%E5%86%99%E4%BF%A1%E4%BA%86?type=general",
+      "hot_value": "7675872",
       "index": 22
     },
     {
-      "title": "神24任务将有首位外籍航天员",
-      "url": "https://www.douyin.com/search/%E7%A5%9E24%E4%BB%BB%E5%8A%A1%E5%B0%86%E6%9C%89%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98?type=general",
-      "hot_value": "7827458",
+      "title": "美丽不冻人的冬季穿搭",
+      "url": "https://www.douyin.com/search/%E7%BE%8E%E4%B8%BD%E4%B8%8D%E5%86%BB%E4%BA%BA%E7%9A%84%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD?type=general",
+      "hot_value": "7675223",
       "index": 23
     },
     {
-      "title": "林葳替补砍下20分4助",
-      "url": "https://www.douyin.com/search/%E6%9E%97%E8%91%B3%E6%9B%BF%E8%A1%A5%E7%A0%8D%E4%B8%8B20%E5%88%864%E5%8A%A9?type=general",
-      "hot_value": "7795426",
+      "title": "拉塞尔质疑梅奔队内问题频出",
+      "url": "https://www.douyin.com/search/%E6%8B%89%E5%A1%9E%E5%B0%94%E8%B4%A8%E7%96%91%E6%A2%85%E5%A5%94%E9%98%9F%E5%86%85%E9%97%AE%E9%A2%98%E9%A2%91%E5%87%BA?type=general",
+      "hot_value": "7674444",
       "index": 24
     },
     {
-      "title": "王力宏广州演唱会",
-      "url": "https://www.douyin.com/search/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "7773601",
+      "title": "当我把EXO写在脸上被吴世勋看见",
+      "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%8A%8AEXO%E5%86%99%E5%9C%A8%E8%84%B8%E4%B8%8A%E8%A2%AB%E5%90%B4%E4%B8%96%E5%8B%8B%E7%9C%8B%E8%A7%81?type=general",
+      "hot_value": "7667968",
       "index": 25
     },
     {
-      "title": "我很有当老大的天赋",
-      "url": "https://www.douyin.com/search/%E6%88%91%E5%BE%88%E6%9C%89%E5%BD%93%E8%80%81%E5%A4%A7%E7%9A%84%E5%A4%A9%E8%B5%8B?type=general",
-      "hot_value": "7769960",
+      "title": "董思成杨超越像在拍恋综",
+      "url": "https://www.douyin.com/search/%E8%91%A3%E6%80%9D%E6%88%90%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%83%8F%E5%9C%A8%E6%8B%8D%E6%81%8B%E7%BB%BC?type=general",
+      "hot_value": "7665097",
       "index": 26
     },
     {
       "title": "王源镇江演唱会",
       "url": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E9%95%87%E6%B1%9F%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "7758696",
+      "hot_value": "7662745",
       "index": 27
     },
     {
-      "title": "李荣浩嘉兴演唱会",
-      "url": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%98%89%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "hot_value": "7756877",
+      "title": "收到了一枚满是纪念意义的戒指",
+      "url": "https://www.douyin.com/search/%E6%94%B6%E5%88%B0%E4%BA%86%E4%B8%80%E6%9E%9A%E6%BB%A1%E6%98%AF%E7%BA%AA%E5%BF%B5%E6%84%8F%E4%B9%89%E7%9A%84%E6%88%92%E6%8C%87?type=general",
+      "hot_value": "7662106",
       "index": 28
     },
     {
-      "title": "当我把EXO写在脸上被吴世勋看见",
-      "url": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%8A%8AEXO%E5%86%99%E5%9C%A8%E8%84%B8%E4%B8%8A%E8%A2%AB%E5%90%B4%E4%B8%96%E5%8B%8B%E7%9C%8B%E8%A7%81?type=general",
-      "hot_value": "7749332",
+      "title": "许青冷面判官正义执法",
+      "url": "https://www.douyin.com/search/%E8%AE%B8%E9%9D%92%E5%86%B7%E9%9D%A2%E5%88%A4%E5%AE%98%E6%AD%A3%E4%B9%89%E6%89%A7%E6%B3%95?type=general",
+      "hot_value": "7661449",
       "index": 29
     },
     {
-      "title": "谷雨案件悬念拉满了",
-      "url": "https://www.douyin.com/search/%E8%B0%B7%E9%9B%A8%E6%A1%88%E4%BB%B6%E6%82%AC%E5%BF%B5%E6%8B%89%E6%BB%A1%E4%BA%86?type=general",
-      "hot_value": "7748923",
+      "title": "抖音缝纫天裁交流大会",
+      "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%BC%9D%E7%BA%AB%E5%A4%A9%E8%A3%81%E4%BA%A4%E6%B5%81%E5%A4%A7%E4%BC%9A?type=general",
+      "hot_value": "7658079",
       "index": 30
     }
   ]
