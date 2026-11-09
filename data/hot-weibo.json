@@ -1,187 +1,187 @@
 {
   "platform": "weibo",
   "name": "weibo热搜",
-  "update_time": "2026-11-08T22:38:02Z",
+  "update_time": "2026-11-09T02:19:25Z",
   "count": 30,
   "list": [
     {
-      "title": "马斯克突爆孙正义猛料",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E7%88%86%E5%AD%99%E6%AD%A3%E4%B9%89%E7%8C%9B%E6%96%99%23",
-      "hot_value": "464964",
+      "title": "BLG战胜T1",
+      "url": "https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CT1%23",
+      "hot_value": "17843184",
       "index": 1
     },
     {
-      "title": "疑似秦始皇儿子遗骸遭肢解",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E9%81%97%E9%AA%B8%E9%81%AD%E8%82%A2%E8%A7%A3%23",
-      "hot_value": "336514",
+      "title": "白小纯口碑反转",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%8F%A3%E7%A2%91%E5%8F%8D%E8%BD%AC%23",
+      "hot_value": "2227140",
       "index": 2
     },
     {
-      "title": "中国消费图景向新向优",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%9B%BE%E6%99%AF%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%23",
-      "hot_value": "260739",
+      "title": "透过关键词解码进博会",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%A3%E7%A0%81%E8%BF%9B%E5%8D%9A%E4%BC%9A%23",
+      "hot_value": "1747689",
       "index": 3
     },
     {
-      "title": "早田希娜法兰克福站冠军",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E7%AB%99%E5%86%A0%E5%86%9B%23",
-      "hot_value": "182235",
+      "title": "BLG成首支S赛BO5战胜T1的LPL战队",
+      "url": "https://s.weibo.com/weibo?q=%23BLG%E6%88%90%E9%A6%96%E6%94%AFS%E8%B5%9BBO5%E6%88%98%E8%83%9CT1%E7%9A%84LPL%E6%88%98%E9%98%9F%23",
+      "hot_value": "950643",
       "index": 4
     },
     {
-      "title": "太原火灾送医院救治38人",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E7%81%AB%E7%81%BE%E9%80%81%E5%8C%BB%E9%99%A2%E6%95%91%E6%B2%BB38%E4%BA%BA%23",
-      "hot_value": "141464",
+      "title": "多兰 LPL的好兄弟",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%85%B0+LPL%E7%9A%84%E5%A5%BD%E5%85%84%E5%BC%9F%23",
+      "hot_value": "649205",
       "index": 5
     },
     {
-      "title": "徐艺洋这身材穿个麻袋都好看",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E8%BF%99%E8%BA%AB%E6%9D%90%E7%A9%BF%E4%B8%AA%E9%BA%BB%E8%A2%8B%E9%83%BD%E5%A5%BD%E7%9C%8B%23",
-      "hot_value": "140427",
+      "title": "Faker太夸张了",
+      "url": "https://s.weibo.com/weibo?q=%23Faker%E5%A4%AA%E5%A4%B8%E5%BC%A0%E4%BA%86%23",
+      "hot_value": "618160",
       "index": 6
     },
     {
-      "title": "金子涵被骗",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%A2%AB%E9%AA%97%23",
-      "hot_value": "132502",
+      "title": "ON萨勒芬妮大招控到T1四人",
+      "url": "https://s.weibo.com/weibo?q=%23ON%E8%90%A8%E5%8B%92%E8%8A%AC%E5%A6%AE%E5%A4%A7%E6%8B%9B%E6%8E%A7%E5%88%B0T1%E5%9B%9B%E4%BA%BA%23",
+      "hot_value": "590235",
       "index": 7
     },
     {
-      "title": "蔡少芬一家五口在香港住83平的房子",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%B0%91%E8%8A%AC%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%BD%8F83%E5%B9%B3%E7%9A%84%E6%88%BF%E5%AD%90%23",
-      "hot_value": "119939",
+      "title": "BLG晋级S16决赛",
+      "url": "https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S16%E5%86%B3%E8%B5%9B%23",
+      "hot_value": "510200",
       "index": 8
     },
     {
-      "title": "发生日快乐才知老同学已离世",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E6%89%8D%E7%9F%A5%E8%80%81%E5%90%8C%E5%AD%A6%E5%B7%B2%E7%A6%BB%E4%B8%96%23",
-      "hot_value": "87753",
+      "title": "谁再说后会友期是演的",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%86%8D%E8%AF%B4%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%98%AF%E6%BC%94%E7%9A%84%23",
+      "hot_value": "507831",
       "index": 9
     },
     {
-      "title": "曼联4比4阿斯顿维拉",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%944%E6%AF%944%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%89%23",
-      "hot_value": "87589",
+      "title": "Bin 世一上",
+      "url": "https://s.weibo.com/weibo?q=%23Bin+%E4%B8%96%E4%B8%80%E4%B8%8A%23",
+      "hot_value": "470936",
       "index": 10
     },
     {
-      "title": "女子查到男友父亲有案底后崩溃",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9F%A5%E5%88%B0%E7%94%B7%E5%8F%8B%E7%88%B6%E4%BA%B2%E6%9C%89%E6%A1%88%E5%BA%95%E5%90%8E%E5%B4%A9%E6%BA%83%23",
-      "hot_value": "87587",
+      "title": "黄仁勋承认出轨",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8%23",
+      "hot_value": "10370314",
       "index": 11
     },
     {
-      "title": "付鹏称AI漫剧全部亏损",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%98%E9%B9%8F%E7%A7%B0AI%E6%BC%AB%E5%89%A7%E5%85%A8%E9%83%A8%E4%BA%8F%E6%8D%9F%23",
-      "hot_value": "87581",
+      "title": "BLG对战T1",
+      "url": "https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98T1%23",
+      "hot_value": "470322",
       "index": 12
     },
     {
-      "title": "陈浩民家保姆工资每月6000多",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%A9%E6%B0%91%E5%AE%B6%E4%BF%9D%E5%A7%86%E5%B7%A5%E8%B5%84%E6%AF%8F%E6%9C%886000%E5%A4%9A%23",
-      "hot_value": "87560",
+      "title": "黄仁勋出轨马斯克转发帖子回应",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%87%BA%E8%BD%A8%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E5%B8%96%E5%AD%90%E5%9B%9E%E5%BA%94%23",
+      "hot_value": "469388",
       "index": 13
     },
     {
-      "title": "许飞 我作茧自缚",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E+%E6%88%91%E4%BD%9C%E8%8C%A7%E8%87%AA%E7%BC%9A%23",
-      "hot_value": "77192",
+      "title": "金子涵前几天露宿街头",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%89%8D%E5%87%A0%E5%A4%A9%E9%9C%B2%E5%AE%BF%E8%A1%97%E5%A4%B4%23",
+      "hot_value": "468981",
       "index": 14
     },
     {
-      "title": "山姆大牌低价催会员费",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%A4%A7%E7%89%8C%E4%BD%8E%E4%BB%B7%E5%82%AC%E4%BC%9A%E5%91%98%E8%B4%B9%23",
-      "hot_value": "74985",
+      "title": "热巴住酒店15年的真实原因",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E4%BD%8F%E9%85%92%E5%BA%9715%E5%B9%B4%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%8E%9F%E5%9B%A0%23",
+      "hot_value": "468502",
       "index": 15
     },
     {
-      "title": "大连景区对山东人免费",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E6%99%AF%E5%8C%BA%E5%AF%B9%E5%B1%B1%E4%B8%9C%E4%BA%BA%E5%85%8D%E8%B4%B9%23",
-      "hot_value": "72195",
+      "title": "67岁阿姨因颜值恋上78岁大爷",
+      "url": "https://s.weibo.com/weibo?q=%2367%E5%B2%81%E9%98%BF%E5%A7%A8%E5%9B%A0%E9%A2%9C%E5%80%BC%E6%81%8B%E4%B8%8A78%E5%B2%81%E5%A4%A7%E7%88%B7%23",
+      "hot_value": "468110",
       "index": 16
     },
     {
-      "title": "无锡女厕惊现站立式小便厕位",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%94%A1%E5%A5%B3%E5%8E%95%E6%83%8A%E7%8E%B0%E7%AB%99%E7%AB%8B%E5%BC%8F%E5%B0%8F%E4%BE%BF%E5%8E%95%E4%BD%8D%23",
-      "hot_value": "61722",
+      "title": "韦世豪 成都蓉城",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%96%E8%B1%AA+%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%23",
+      "hot_value": "467430",
       "index": 17
     },
     {
-      "title": "金子涵被骗到陌生城市偷走护照",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E8%A2%AB%E9%AA%97%E5%88%B0%E9%99%8C%E7%94%9F%E5%9F%8E%E5%B8%82%E5%81%B7%E8%B5%B0%E6%8A%A4%E7%85%A7%23",
-      "hot_value": "56604",
+      "title": "英伟达大劫案",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A4%A7%E5%8A%AB%E6%A1%88%23",
+      "hot_value": "466747",
       "index": 18
     },
     {
-      "title": "以色列政坛迎来历史性一刻",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%9D%9B%E8%BF%8E%E6%9D%A5%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%88%BB%23",
-      "hot_value": "54150",
+      "title": "BLG做到了",
+      "url": "https://s.weibo.com/weibo?q=%23BLG%E5%81%9A%E5%88%B0%E4%BA%86%23",
+      "hot_value": "466128",
       "index": 19
     },
     {
-      "title": "白小纯叫王子璇姐姐完整过程",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%8F%AB%E7%8E%8B%E5%AD%90%E7%92%87%E5%A7%90%E5%A7%90%E5%AE%8C%E6%95%B4%E8%BF%87%E7%A8%8B%23",
-      "hot_value": "52240",
+      "title": "杨超越人生角色",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%BA%BA%E7%94%9F%E8%A7%92%E8%89%B2%23",
+      "hot_value": "465849",
       "index": 20
+    },
+    {
+      "title": "BLG翻盘T1",
+      "url": "https://s.weibo.com/weibo?q=%23BLG%E7%BF%BB%E7%9B%98T1%23",
+      "hot_value": "464918",
+      "index": 21
     },
     {
       "title": "现在的艾滋可不只是通过性传播了",
       "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E8%89%BE%E6%BB%8B%E5%8F%AF%E4%B8%8D%E5%8F%AA%E6%98%AF%E9%80%9A%E8%BF%87%E6%80%A7%E4%BC%A0%E6%92%AD%E4%BA%86%23",
-      "hot_value": "52164",
-      "index": 21
-    },
-    {
-      "title": "外貌是成本极低收益极高的变量",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E8%B2%8C%E6%98%AF%E6%88%90%E6%9C%AC%E6%9E%81%E4%BD%8E%E6%94%B6%E7%9B%8A%E6%9E%81%E9%AB%98%E7%9A%84%E5%8F%98%E9%87%8F%23",
-      "hot_value": "51823",
+      "hot_value": "464563",
       "index": 22
     },
     {
-      "title": "中国人心目中天庭的样子火了",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%A4%A9%E5%BA%AD%E7%9A%84%E6%A0%B7%E5%AD%90%E7%81%AB%E4%BA%86%23",
-      "hot_value": "48743",
+      "title": "iPhone每年换一次和五年换一次",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone%E6%AF%8F%E5%B9%B4%E6%8D%A2%E4%B8%80%E6%AC%A1%E5%92%8C%E4%BA%94%E5%B9%B4%E6%8D%A2%E4%B8%80%E6%AC%A1%23",
+      "hot_value": "463948",
       "index": 23
     },
     {
-      "title": "马斯克称软银涡轮机订单违约",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%BD%AF%E9%93%B6%E6%B6%A1%E8%BD%AE%E6%9C%BA%E8%AE%A2%E5%8D%95%E8%BF%9D%E7%BA%A6%23",
-      "hot_value": "47170",
+      "title": "黄仁勋出轨对象",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%87%BA%E8%BD%A8%E5%AF%B9%E8%B1%A1%23",
+      "hot_value": "463573",
       "index": 24
     },
     {
-      "title": "代高政要和闫桉参加后会友期",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E9%AB%98%E6%94%BF%E8%A6%81%E5%92%8C%E9%97%AB%E6%A1%89%E5%8F%82%E5%8A%A0%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%23",
-      "hot_value": "46879",
+      "title": "Faker尽力了",
+      "url": "https://s.weibo.com/weibo?q=%23Faker%E5%B0%BD%E5%8A%9B%E4%BA%86%23",
+      "hot_value": "462596",
       "index": 25
     },
     {
-      "title": "颜安退出密逃团综录制",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%AE%89%E9%80%80%E5%87%BA%E5%AF%86%E9%80%83%E5%9B%A2%E7%BB%BC%E5%BD%95%E5%88%B6%23",
-      "hot_value": "45328",
+      "title": "徐艺洋这身材穿个麻袋都好看",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E8%BF%99%E8%BA%AB%E6%9D%90%E7%A9%BF%E4%B8%AA%E9%BA%BB%E8%A2%8B%E9%83%BD%E5%A5%BD%E7%9C%8B%23",
+      "hot_value": "462238",
       "index": 26
     },
     {
-      "title": "小糯米才12岁",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B3%AF%E7%B1%B3%E6%89%8D12%E5%B2%81%23",
-      "hot_value": "41956",
+      "title": "黄乐",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B9%90%23",
+      "hot_value": "461423",
       "index": 27
     },
     {
-      "title": "许飞 厉娜",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E+%E5%8E%89%E5%A8%9C%23",
-      "hot_value": "41230",
+      "title": "山姆全球购上架加拿大鹅始祖鸟",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%85%A8%E7%90%83%E8%B4%AD%E4%B8%8A%E6%9E%B6%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E5%A7%8B%E7%A5%96%E9%B8%9F%23",
+      "hot_value": "461299",
       "index": 28
     },
     {
-      "title": "大连雪大到转播镜头找不到球",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E9%9B%AA%E5%A4%A7%E5%88%B0%E8%BD%AC%E6%92%AD%E9%95%9C%E5%A4%B4%E6%89%BE%E4%B8%8D%E5%88%B0%E7%90%83%23",
-      "hot_value": "40241",
+      "title": "山姆大牌低价催会员费",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%A4%A7%E7%89%8C%E4%BD%8E%E4%BB%B7%E5%82%AC%E4%BC%9A%E5%91%98%E8%B4%B9%23",
+      "hot_value": "460455",
       "index": 29
     },
     {
-      "title": "黄仁勋女儿因家庭原因取消韩国行",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A5%B3%E5%84%BF%E5%9B%A0%E5%AE%B6%E5%BA%AD%E5%8E%9F%E5%9B%A0%E5%8F%96%E6%B6%88%E9%9F%A9%E5%9B%BD%E8%A1%8C%23",
-      "hot_value": "38893",
+      "title": "以色列政坛迎来历史性一刻",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BF%E5%9D%9B%E8%BF%8E%E6%9D%A5%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%88%BB%23",
+      "hot_value": "459671",
       "index": 30
     }
   ]
