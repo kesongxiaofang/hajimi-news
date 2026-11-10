@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-11-09T20:55:07Z",
+  "update_time": "2026-11-10T03:07:04Z",
   "count": 30,
   "list": [
     {
-      "title": "【2026全球总决赛】11月9日 BLG vs T1",
-      "url": "https://www.bilibili.com/video/BV1TgWp6MEHJ",
-      "hot_value": "11613670播放",
+      "title": "On萨勒芬妮大招测试：如果猴子不放分身，能改变时间线吗？",
+      "url": "https://www.bilibili.com/video/BV1eaW86KEr3",
+      "hot_value": "904991播放",
       "index": 1
     },
     {
       "title": "当我死去，群山不会震颤，河水不会倒流｜AI长片《汤症》【AI全民制作人】",
       "url": "https://www.bilibili.com/video/BV1vmWJ6LEmW",
-      "hot_value": "1833825播放",
+      "hot_value": "2528296播放",
       "index": 2
     },
     {
       "title": "《阴阳师》笼梦祸津神CG丨祸至无日（CV：中野彩麻）",
       "url": "https://www.bilibili.com/video/BV1sCWx6GEsH",
-      "hot_value": "1000375播放",
+      "hot_value": "1578194播放",
       "index": 3
     },
     {
-      "title": "On萨勒芬妮大招测试：如果猴子不放分身，能改变时间线吗？",
-      "url": "https://www.bilibili.com/video/BV1eaW86KEr3",
-      "hot_value": "300993播放",
+      "title": "《虚环》PV03｜致过去与未来的歌",
+      "url": "https://www.bilibili.com/video/BV1h4WW6LEEv",
+      "hot_value": "3280794播放",
       "index": 4
     },
     {
-      "title": "锐评BLG打破T1对LPL的十三年来的百胜率神话！击碎梦魇！找回自己！这期不串直接夸！",
-      "url": "https://www.bilibili.com/video/BV1YxWx69Ens",
-      "hot_value": "308822播放",
+      "title": "【2026全球总决赛】11月9日 BLG vs T1",
+      "url": "https://www.bilibili.com/video/BV1TgWp6MEHJ",
+      "hot_value": "12068774播放",
       "index": 5
     },
     {
       "title": "《绝区零》赛维里安EP | Gambit",
       "url": "https://www.bilibili.com/video/BV1xiWW6uESZ",
-      "hot_value": "675299播放",
+      "hot_value": "891131播放",
       "index": 6
     },
     {
-      "title": "《虚环》PV03｜致过去与未来的歌",
-      "url": "https://www.bilibili.com/video/BV1h4WW6LEEv",
-      "hot_value": "2637883播放",
+      "title": "上帝之光：当人类第一次拥有操纵大脑的能力",
+      "url": "https://www.bilibili.com/video/BV1KpWb6WENA",
+      "hot_value": "481366播放",
       "index": 7
-    },
-    {
-      "title": "谁一周后的播放量高，谁就是流量王！！！【流量王番外篇蓝队】",
-      "url": "https://www.bilibili.com/video/BV13zWn66EXB",
-      "hot_value": "514527播放",
-      "index": 8
     },
     {
       "title": "选举大败特朗普和马斯克这下惨了",
       "url": "https://www.bilibili.com/video/BV1WEWs66EBP",
-      "hot_value": "1609531播放",
+      "hot_value": "1913072播放",
+      "index": 8
+    },
+    {
+      "title": "给孩子做了一个半飞行的玩具车",
+      "url": "https://www.bilibili.com/video/BV1QUW46oEuT",
+      "hot_value": "428594播放",
       "index": 9
-    },
-    {
-      "title": "谁一周后的播放量高，谁就是流量王！！！【流量王番外篇红队】",
-      "url": "https://www.bilibili.com/video/BV1RLWW6XEfn",
-      "hot_value": "499450播放",
-      "index": 10
-    },
-    {
-      "title": "“Faker这段人皇步，我至今还没有学会！”",
-      "url": "https://www.bilibili.com/video/BV1vKWb6NE5t",
-      "hot_value": "457364播放",
-      "index": 11
-    },
-    {
-      "title": "耗时5个月，5万元成本，我用AI拍了一部68分钟的原创中国科幻长片《南天门计划：灰蚀危机》【ai全民制作人】",
-      "url": "https://www.bilibili.com/video/BV18GW76hEdg",
-      "hot_value": "218156播放",
-      "index": 12
-    },
-    {
-      "title": "楚钧：Nice！这样我才能看到左右手大战！",
-      "url": "https://www.bilibili.com/video/BV1BdWx6PE9z",
-      "hot_value": "810672播放",
-      "index": 13
-    },
-    {
-      "title": "Bin：世一上只是玩梗，我认为T1比GEN更强！",
-      "url": "https://www.bilibili.com/video/BV1R1W46fEjU",
-      "hot_value": "1017773播放",
-      "index": 14
-    },
-    {
-      "title": "生蚝肚子里这坨黄绿色的是啥？能吃吗？【主播说三农】",
-      "url": "https://www.bilibili.com/video/BV1yQWE6XEK7",
-      "hot_value": "1227735播放",
-      "index": 15
-    },
-    {
-      "title": "你学会了吗",
-      "url": "https://www.bilibili.com/video/BV1oK476jExu",
-      "hot_value": "1986024播放",
-      "index": 16
-    },
-    {
-      "title": "当杀手和律师都以为对方是同行",
-      "url": "https://www.bilibili.com/video/BV1eNW76KEdJ",
-      "hot_value": "799861播放",
-      "index": 17
-    },
-    {
-      "title": "只用0.01秒就接受了音乐放错了",
-      "url": "https://www.bilibili.com/video/BV1b44h6gERq",
-      "hot_value": "954067播放",
-      "index": 18
-    },
-    {
-      "title": "我的世界粒子——建筑",
-      "url": "https://www.bilibili.com/video/BV18k4E66Eic",
-      "hot_value": "1065851播放",
-      "index": 19
-    },
-    {
-      "title": "Three two one带你去纽约 Let's go！",
-      "url": "https://www.bilibili.com/video/BV1ZnW86CEaE",
-      "hot_value": "299743播放",
-      "index": 20
-    },
-    {
-      "title": "人心散了，队伍不好带了！白宫开演“狼人杀”",
-      "url": "https://www.bilibili.com/video/BV13GWb6cEDU",
-      "hot_value": "561194播放",
-      "index": 21
     },
     {
       "title": "就是等到你来捡咯",
       "url": "https://www.bilibili.com/video/BV1i64s6KEQ3",
-      "hot_value": "1043186播放",
+      "hot_value": "1296920播放",
+      "index": 10
+    },
+    {
+      "title": "耗时5个月，5万元成本，我用AI拍了一部68分钟的原创中国科幻长片《南天门计划：灰蚀危机》【ai全民制作人】",
+      "url": "https://www.bilibili.com/video/BV18GW76hEdg",
+      "hot_value": "338090播放",
+      "index": 11
+    },
+    {
+      "title": "人心散了，队伍不好带了！白宫开演“狼人杀”",
+      "url": "https://www.bilibili.com/video/BV13GWb6cEDU",
+      "hot_value": "752673播放",
+      "index": 12
+    },
+    {
+      "title": "锐评BLG打破T1对LPL的十三年来的百胜率神话！击碎梦魇！找回自己！这期不串直接夸！",
+      "url": "https://www.bilibili.com/video/BV1YxWx69Ens",
+      "hot_value": "470956播放",
+      "index": 13
+    },
+    {
+      "title": "你我一起，改变世界.",
+      "url": "https://www.bilibili.com/video/BV1BZWt66EFR",
+      "hot_value": "429020播放",
+      "index": 14
+    },
+    {
+      "title": "最夸张的偷情怎么偷歪了美国的世界线？",
+      "url": "https://www.bilibili.com/video/BV1NAWt6EEvh",
+      "hot_value": "501766播放",
+      "index": 15
+    },
+    {
+      "title": "“Faker这段人皇步，我至今还没有学会！”",
+      "url": "https://www.bilibili.com/video/BV1vKWb6NE5t",
+      "hot_value": "642270播放",
+      "index": 16
+    },
+    {
+      "title": "韩网气疯了！BLG你要干什么！韩国人怎么评价BLG战胜T1 创造新的历史？英雄联盟 电子竞技 s16 多兰 bin",
+      "url": "https://www.bilibili.com/video/BV1rjW86jEbX",
+      "hot_value": "281099播放",
+      "index": 17
+    },
+    {
+      "title": "13年的等待！和宁王赵大哥看BLG击败T1创造历史！【熬夜吧老头！06】",
+      "url": "https://www.bilibili.com/video/BV1nZW86EE77",
+      "hot_value": "428772播放",
+      "index": 18
+    },
+    {
+      "title": "【爱你】王力宏&王心凌「最好的地方Ⅱ」官摄 | 限定 “双王组合”首次同台，甜度加倍！",
+      "url": "https://www.bilibili.com/video/BV1tBWt6WEVw",
+      "hot_value": "331187播放",
+      "index": 19
+    },
+    {
+      "title": "楚钧：Nice！这样我才能看到左右手大战！",
+      "url": "https://www.bilibili.com/video/BV1BdWx6PE9z",
+      "hot_value": "922764播放",
+      "index": 20
+    },
+    {
+      "title": "谁一周后的播放量高，谁就是流量王！！！【流量王番外篇红队】",
+      "url": "https://www.bilibili.com/video/BV1RLWW6XEfn",
+      "hot_value": "560692播放",
+      "index": 21
+    },
+    {
+      "title": "国 运 神 人 大 赛",
+      "url": "https://www.bilibili.com/video/BV1Y3W76wECX",
+      "hot_value": "388554播放",
       "index": 22
     },
     {
-      "title": "一不小心就写出平行世界9.9分的奥美迦主题曲《Open your eyes》",
-      "url": "https://www.bilibili.com/video/BV14c4q6HEQX",
-      "hot_value": "421667播放",
+      "title": "谁一周后的播放量高，谁就是流量王！！！【流量王番外篇蓝队】",
+      "url": "https://www.bilibili.com/video/BV13zWn66EXB",
+      "hot_value": "570625播放",
       "index": 23
     },
     {
-      "title": "BO5战胜Faker！ BLG战胜T1挺进决赛！BLG决赛加油！【2026英雄联盟全球总决赛】",
-      "url": "https://www.bilibili.com/video/BV1kkWW6NEDW",
-      "hot_value": "1020836播放",
+      "title": "全员恶人！影之刃零的侠为何悲壮？《影之刃零》细节解析",
+      "url": "https://www.bilibili.com/video/BV1t7Wb6oEqR",
+      "hot_value": "434307播放",
       "index": 24
     },
     {
-      "title": "【暗区突围手游】 全民防火，突围有我！",
-      "url": "https://www.bilibili.com/video/BV1ESWW68E1h",
-      "hot_value": "247730播放",
+      "title": "生蚝肚子里这坨黄绿色的是啥？能吃吗？【主播说三农】",
+      "url": "https://www.bilibili.com/video/BV1yQWE6XEK7",
+      "hot_value": "1331477播放",
       "index": 25
     },
     {
-      "title": "全球最肥胖 VS 全球最健康！热量相差100倍！一日三餐吃什么？",
-      "url": "https://www.bilibili.com/video/BV1cr476pETN",
-      "hot_value": "4301676播放",
+      "title": "当杀手和律师都以为对方是同行",
+      "url": "https://www.bilibili.com/video/BV1eNW76KEdJ",
+      "hot_value": "964937播放",
       "index": 26
     },
     {
-      "title": "经典中式恐怖回归—这个纸人有点癫！",
-      "url": "https://www.bilibili.com/video/BV1eKW76vEjv",
-      "hot_value": "1117174播放",
+      "title": "这块电池抗冻、抗热、能泡水，和我们有什么关系？",
+      "url": "https://www.bilibili.com/video/BV136xd6CErJ",
+      "hot_value": "2538821播放",
       "index": 27
+    },
+    {
+      "title": "“今日我虽死，却还是！！！”",
+      "url": "https://www.bilibili.com/video/BV1AQ4x6mEUi",
+      "hot_value": "1388947播放",
+      "index": 28
     },
     {
       "title": "突破记录，创造历史，lpl观众最爽的一集，BLG拿下T1 [火兰吐槽]",
       "url": "https://www.bilibili.com/video/BV1vxWt6aEVn",
-      "hot_value": "477763播放",
-      "index": 28
-    },
-    {
-      "title": "锐评BLG战胜T1晋级决赛：创造历史！BLG做到了淘汰T1！",
-      "url": "https://www.bilibili.com/video/BV1JdWx6PEc3",
-      "hot_value": "786001播放",
+      "hot_value": "559025播放",
       "index": 29
     },
     {
-      "title": "同样叫“高地”，为什么DOTA的就这么难上？",
-      "url": "https://www.bilibili.com/video/BV1qAW76qEcz",
-      "hot_value": "694924播放",
+      "title": "BO5战胜Faker！ BLG战胜T1挺进决赛！BLG决赛加油！【2026英雄联盟全球总决赛】",
+      "url": "https://www.bilibili.com/video/BV1kkWW6NEDW",
+      "hot_value": "1078425播放",
       "index": 30
     }
   ]
