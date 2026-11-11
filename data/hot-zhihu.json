@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-10T23:52:53Z",
+  "update_time": "2026-11-11T04:27:40Z",
   "count": 30,
   "list": [
     {
-      "title": "梁家辉、高叶分别拿下影帝、影后，如何评价第 39 届中国电影金鸡奖获奖名单？",
-      "url": "https://www.zhihu.com/question/2103547850734792735",
-      "hot_value": "664 万热度",
+      "title": "山姆现 20 元一包泡面，含肉量 60 克以上，只能下锅煮不能开水泡，被吐槽太贵不方便，你怎么看？觉得值吗？",
+      "url": "https://www.zhihu.com/question/2103546819556762789",
+      "hot_value": "589 万热度",
       "index": 1
     },
     {
-      "title": "为什么说《九州》注定会失败？",
-      "url": "https://www.zhihu.com/question/2103073365011461582",
-      "hot_value": "167 万热度",
+      "title": "女子卡里近 26 万元消失，6 天内被分多笔转走，交易短信提醒被取消，手机曾莫名闪烁，这是什么情况？",
+      "url": "https://www.zhihu.com/question/2103438593268238305",
+      "hot_value": "452 万热度",
       "index": 2
     },
     {
-      "title": "我国外储规模再超 3.4 万亿美元，单月贸易顺差超 1335 亿美元，为何人民币升值下外贸数据却持续超预期？",
-      "url": "https://www.zhihu.com/question/2102439361971339537",
-      "hot_value": "162 万热度",
+      "title": "幼儿园、小学、初中学龄人口已经达峰，对教育行业意味着什么？哪些新变化值得关注？",
+      "url": "https://www.zhihu.com/question/2103478076222826262",
+      "hot_value": "356 万热度",
       "index": 3
     },
     {
-      "title": "女子月薪两万，公司按最低基数交社保，一算账「养老金每月少 2000 元」 ，还会影响哪些待遇？",
-      "url": "https://www.zhihu.com/question/2102858355568072547",
-      "hot_value": "153 万热度",
+      "title": "如何看待网友晒「上海和平饭店 6 人餐花费 51 万元的天价小票」，饭店辟谣称小票系伪造，警方目前已介入？",
+      "url": "https://www.zhihu.com/question/2103428607267885143",
+      "hot_value": "275 万热度",
       "index": 4
+    },
+    {
+      "title": "梁家辉凭《捕风追影》傅隆生一角拿下金鸡影帝，成为第二位三金大满贯得主，他在片中的表现如何？",
+      "url": "https://www.zhihu.com/question/2103601001592615161",
+      "hot_value": "258 万热度",
+      "index": 5
+    },
+    {
+      "title": "如果在床边放一碗血，晚上蚊子还会来咬我吗？",
+      "url": "https://www.zhihu.com/question/32167913",
+      "hot_value": "257 万热度",
+      "index": 6
     },
     {
       "title": "10 月 20 万元以上新能源车销量榜出炉，前三名全是小米，哪些数据值得关注？当前市场格局如何？",
       "url": "https://www.zhihu.com/question/2103425545253778677",
-      "hot_value": "126 万热度",
-      "index": 5
-    },
-    {
-      "title": "《求是》发文「当前我国经济运行中供强需弱矛盾的症结所在」，释放了哪些信号？",
-      "url": "https://www.zhihu.com/question/2103446044839076954",
-      "hot_value": "125 万热度",
-      "index": 6
-    },
-    {
-      "title": "如何评价学院命名冗余的现象？比如「数学学院」「化学学院」，以前都是简单的「数学院」「化学院」？",
-      "url": "https://www.zhihu.com/question/2093992462004102216",
-      "hot_value": "123 万热度",
+      "hot_value": "257 万热度",
       "index": 7
+    },
+    {
+      "title": "拼多多新规「商家若违背上门承诺将未履约每单赔付十元」，为什么要将责任转给商家？落地最大的难点是什么？",
+      "url": "https://www.zhihu.com/question/2102985385932502468",
+      "hot_value": "257 万热度",
+      "index": 8
+    },
+    {
+      "title": "张卫健和周星驰的差距在哪儿？",
+      "url": "https://www.zhihu.com/question/2101027531482833408",
+      "hot_value": "255 万热度",
+      "index": 9
+    },
+    {
+      "title": "回头看考研那段日子，有什么事是你当时很焦虑，后来才发现不必那么担心的？",
+      "url": "https://www.zhihu.com/question/2100972233611130066",
+      "hot_value": "254 万热度",
+      "index": 10
+    },
+    {
+      "title": "一名校毕业生为泄私愤向境外机构匿名举报，诬陷同事是「间谍」，会造成多大不良影响？诬告人将付出什么代价？",
+      "url": "https://www.zhihu.com/question/2103443808469741832",
+      "hot_value": "252 万热度",
+      "index": 11
+    },
+    {
+      "title": "怎么看路透社表示 Anthropic  IPO 估值下调到 1 万亿美元，目标募集 643.5 亿美元？",
+      "url": "https://www.zhihu.com/question/2103576505762820339",
+      "hot_value": "251 万热度",
+      "index": 12
+    },
+    {
+      "title": "S16 半决赛 Doran 选出 VN 对线 Bin 的鳄鱼发挥失常，这手选人有哪些不合理之处？",
+      "url": "https://www.zhihu.com/question/2103077996768800812",
+      "hot_value": "250 万热度",
+      "index": 13
     },
     {
       "title": "S16 决赛 BLG vs GEN，你觉得 BLG 能夺冠吗？",
       "url": "https://www.zhihu.com/question/2103072899493885070",
-      "hot_value": "115 万热度",
-      "index": 8
-    },
-    {
-      "title": "山姆现 20 元一包泡面，含肉量 60 克以上，只能下锅煮不能开水泡，被吐槽太贵不方便，你怎么看？觉得值吗？",
-      "url": "https://www.zhihu.com/question/2103546819556762789",
-      "hot_value": "115 万热度",
-      "index": 9
-    },
-    {
-      "title": "潮汕狮头鹅头为什么售价上千？",
-      "url": "https://www.zhihu.com/question/2087797463000392536",
-      "hot_value": "105 万热度",
-      "index": 10
-    },
-    {
-      "title": "如何评价比亚迪大唐被曝存在轮毂出厂前后装反问题，比亚迪售后称确有部分批次发生该情况？",
-      "url": "https://www.zhihu.com/question/2102801912580067910",
-      "hot_value": "96 万热度",
-      "index": 11
-    },
-    {
-      "title": "中方对美关税调整，两月内继续暂停实施 24% 的加征关税税率，保留 10% 的加征关税税率，如何解读？",
-      "url": "https://www.zhihu.com/question/2103075180645987317",
-      "hot_value": "96 万热度",
-      "index": 12
-    },
-    {
-      "title": "男子靠「鸭形拳」获武术比赛冠军遭调侃动作像舞蹈，这类象形拳实战效果如何？",
-      "url": "https://www.zhihu.com/question/2102413983248541386",
-      "hot_value": "95 万热度",
-      "index": 13
-    },
-    {
-      "title": "如何评价《魔兽世界》无限服？",
-      "url": "https://www.zhihu.com/question/2103067562250708069",
-      "hot_value": "93 万热度",
+      "hot_value": "236 万热度",
       "index": 14
     },
     {
-      "title": "南京「零元面馆」无门槛免费吃面，周边面馆「日营业额下降 2000 元」，有商户想退租，善意是不是该有边界？",
-      "url": "https://www.zhihu.com/question/2103201823708407726",
-      "hot_value": "91 万热度",
+      "title": "有人认为「方言在有形无形中增加沟通成本和不必要的误会，应统一说话标准避免歧义。」你怎么看待此观点？",
+      "url": "https://www.zhihu.com/question/2097817981103490754",
+      "hot_value": "230 万热度",
       "index": 15
     },
     {
-      "title": "为什么没有多少人用五笔了？",
-      "url": "https://www.zhihu.com/question/2034025447210607686",
-      "hot_value": "88 万热度",
+      "title": "如何评价学院命名冗余的现象？比如「数学学院」「化学学院」，以前都是简单的「数学院」「化学院」？",
+      "url": "https://www.zhihu.com/question/2093992462004102216",
+      "hot_value": "225 万热度",
       "index": 16
     },
     {
-      "title": "售价 2499 元平衡指环号称戴上就「推不倒」遭质疑，企业称将请院士级科学家说明，这背后有科学依据吗？",
-      "url": "https://www.zhihu.com/question/2102304920821155808",
-      "hot_value": "87 万热度",
+      "title": "玛莎拉蒂将与尊界合作，将通过江淮进行制造，此次合作能给三方带来什么？同一款车两套身份，谁在薅谁羊毛？",
+      "url": "https://www.zhihu.com/question/2103222658078696264",
+      "hot_value": "222 万热度",
       "index": 17
     },
     {
-      "title": "主持人实测滴滴 21 单平均抽成 13.22%，为何司机普遍感觉抽成超过 20%？抽走的钱最终流向了哪里？",
-      "url": "https://www.zhihu.com/question/2103210334647312807",
-      "hot_value": "85 万热度",
+      "title": "5 元换电池能解决的燃气灶问题要 260 元，记者暗访 5 位上门维修师傅仅 2 人说实话，为什么上门维修总有套路？",
+      "url": "https://www.zhihu.com/question/2103658788679173413",
+      "hot_value": "188 万热度",
       "index": 18
     },
     {
-      "title": "纳斯达克 23 小时连续交易 12 月实施，覆盖 A 股、港股绝大部分交易时段，对国内投资者有何影响？",
-      "url": "https://www.zhihu.com/question/2100880591612811007",
-      "hot_value": "84 万热度",
+      "title": "Claude Fable 5.2 、 GPT-6 Astra 的发展，会对具身智能产生哪些实际影响？",
+      "url": "https://www.zhihu.com/question/2103427446250762464",
+      "hot_value": "185 万热度",
       "index": 19
     },
     {
-      "title": "失业缓冲期首次出现在国家政策内，以应对人工智能带来的冲击，怎么看待这一政策？能够有效落实、缓解焦虑吗？",
-      "url": "https://www.zhihu.com/question/2103115784310322006",
-      "hot_value": "83 万热度",
+      "title": "为啥老有人说李亚鹏版令狐冲成天愁眉苦脸才最符合原著令狐冲形象，理由是令狐冲本身就是个「拧巴」的人？",
+      "url": "https://www.zhihu.com/question/2015970790319875143",
+      "hot_value": "175 万热度",
       "index": 20
     },
     {
-      "title": "如何评价 JiaQi 在 S16 全球总决赛上的综合表现？",
-      "url": "https://www.zhihu.com/question/2102684881629049445",
-      "hot_value": "82 万热度",
+      "title": "为什么《后会友期》中厉娜许飞这对最出圈，甚至带火一众品牌收获「大芒果」？是因为中国观众爱看恨海情天吗？",
+      "url": "https://www.zhihu.com/question/2102172380546033346",
+      "hot_value": "166 万热度",
       "index": 21
+    },
+    {
+      "title": "Bin 淘汰 T1 后喊话决赛队，称 GEN 不如 T1，认为会比 T1 更好打，怎么看待他的说法？",
+      "url": "https://www.zhihu.com/question/2103136590931260382",
+      "hot_value": "149 万热度",
+      "index": 22
+    },
+    {
+      "title": "谷歌正式开放模型 Gemini 4 Carbon，如何评价？实际体验如何？",
+      "url": "https://www.zhihu.com/question/2103666307413680604",
+      "hot_value": "125 万热度",
+      "index": 23
     },
     {
       "title": "空军某部集训不再新发公文包，改为旧包用完回收，消毒后循环使用，这种「过紧日子」的做法值得推广吗？",
       "url": "https://www.zhihu.com/question/2098374497116209385",
-      "hot_value": "79 万热度",
-      "index": 22
-    },
-    {
-      "title": "我国拟修改税收征收管理法，将稳慎加强对个人的税收征管，此举将产生哪些影响？",
-      "url": "https://www.zhihu.com/question/2100596978145031555",
-      "hot_value": "77 万热度",
-      "index": 23
-    },
-    {
-      "title": "山姆多款始祖鸟加拿大鹅被抢空，有商品比官方便宜近 5000 元，为什么能卖这么便宜？背后是怎样的商业策略？",
-      "url": "https://www.zhihu.com/question/2102852244009743862",
-      "hot_value": "76 万热度",
+      "hot_value": "124 万热度",
       "index": 24
     },
     {
-      "title": "理想汽车称「理想 i6 团购返佣」活动与公司无关，已报警，究竟是怎么回事？这种「下单返佣」有哪些风险？",
-      "url": "https://www.zhihu.com/question/2103543470912530322",
-      "hot_value": "74 万热度",
+      "title": "是不是体型越小的动物越不可能摔死？",
+      "url": "https://www.zhihu.com/question/2101414093768937810",
+      "hot_value": "122 万热度",
       "index": 25
     },
     {
-      "title": "如何看待 Viper 采访称「赛前我就在想，LPL 未曾击败 T1 是因为我那会儿还不在」？",
-      "url": "https://www.zhihu.com/question/2103088240676660807",
-      "hot_value": "72 万热度",
+      "title": "网友扒出《后会友期》白小纯与王子璇疑似恋情，具体情况如何？你觉得是真的吗？",
+      "url": "https://www.zhihu.com/question/2103387580813113150",
+      "hot_value": "119 万热度",
       "index": 26
     },
     {
-      "title": "想了解一个地方真正的「底色」，应该去哪里？你会提名哪个地方的哪个角落？",
-      "url": "https://www.zhihu.com/question/2103147783901243140",
-      "hot_value": "71 万热度",
+      "title": "如何看待理论物理学家 Edward Witten 在最新论文中公开致谢  Opus 5.5 ？",
+      "url": "https://www.zhihu.com/question/2102036999985276179",
+      "hot_value": "109 万热度",
       "index": 27
     },
     {
-      "title": "旅行中，你觉得哪种交通工具最「有趣」？",
-      "url": "https://www.zhihu.com/question/650200388",
-      "hot_value": "68 万热度",
+      "title": "纳斯达克 23 小时连续交易 12 月实施，覆盖 A 股、港股绝大部分交易时段，对国内投资者有何影响？",
+      "url": "https://www.zhihu.com/question/2100880591612811007",
+      "hot_value": "102 万热度",
       "index": 28
     },
     {
-      "title": "很多人说影之刃零难度偏低，低难度会不会劝退大部分硬核玩家？",
-      "url": "https://www.zhihu.com/question/2102045069318608307",
-      "hot_value": "67 万热度",
+      "title": "乔治 36 分抢戏，塔图姆 21+6，布朗 13 分，绿军 123:101 76 人，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2103778427635606130",
+      "hot_value": "101 万热度",
       "index": 29
     },
     {
-      "title": "女子银行短信提醒突然被取消卡里近 26 万元消失，手机曾不受控制黑屏闪烁，这一过程发生了什么？该如何防范？",
-      "url": "https://www.zhihu.com/question/2103438593268238305",
-      "hot_value": "67 万热度",
+      "title": "11 月 11 日江苏扬州发生 3.9 级地震，目前情况如何？你那边有震感吗？",
+      "url": "https://www.zhihu.com/question/2103751438463493043",
+      "hot_value": "98 万热度",
       "index": 30
     }
   ]
