@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-12T01:46:09Z",
+  "update_time": "2026-11-12T09:10:55Z",
   "count": 30,
   "list": [
     {
-      "title": "如何评价楚超决赛颁奖典礼，轮到宜昌队领奖时湖北卫视切断直播信号一事？",
-      "url": "https://www.zhihu.com/question/2102851294037795434",
-      "hot_value": "513 万热度",
+      "title": "网传腾讯裁员 15-20%，腾讯辟谣「裁员 50%」的说法，实际什么情况？可能涉及哪些业务？",
+      "url": "https://www.zhihu.com/question/2104132164308530649",
+      "hot_value": "4172 万热度",
       "index": 1
-    },
-    {
-      "title": "如何看待第 39 届金鸡奖《密档》郑大圣打败《南京照相馆》申奥、《给阿嬷的情书》蓝鸿春，爆冷获最佳导演？",
-      "url": "https://www.zhihu.com/question/2103623629674132899",
-      "hot_value": "498 万热度",
-      "index": 2
-    },
-    {
-      "title": "日本药妆连锁品牌松本清称未销售过卡蓓诺洗发水，胖东来此前称未发现国内生产冒充进口情况，到底是怎么回事？",
-      "url": "https://www.zhihu.com/question/2103900559115641120",
-      "hot_value": "393 万热度",
-      "index": 3
-    },
-    {
-      "title": "BLG 打赢 GenG 的概率有多大？",
-      "url": "https://www.zhihu.com/question/2103283329470566406",
-      "hot_value": "312 万热度",
-      "index": 4
     },
     {
       "title": "高三生在拼豆店干坐 1 小时，留下 5 元钱、道歉纸条和父母电话，为什么能引发热议？给孩子教育留下怎样的启发？",
       "url": "https://www.zhihu.com/question/2103852272970987363",
-      "hot_value": "305 万热度",
+      "hot_value": "1142 万热度",
+      "index": 2
+    },
+    {
+      "title": "奔驰 CEO 称「在中国，车要大，非常大，大得惊人」，实际情况是这样吗？为什么国内外会存在这样的区别？",
+      "url": "https://www.zhihu.com/question/2104115931420914593",
+      "hot_value": "632 万热度",
+      "index": 3
+    },
+    {
+      "title": "赵丽颖起诉红果短剧，案由涉及 AI 换脸肖像权纠纷，如何从法律层面解读？出品方、平台该承担什么责任？",
+      "url": "https://www.zhihu.com/question/2103982166627415283",
+      "hot_value": "427 万热度",
+      "index": 4
+    },
+    {
+      "title": "小学生忘带课本遭老师用四十厘米戒尺持续殴打至抽搐倒地，官方已介入，具体情况如何？老师可能承担什么责任？",
+      "url": "https://www.zhihu.com/question/2104148078987104874",
+      "hot_value": "336 万热度",
       "index": 5
     },
     {
-      "title": "如何看待董宇辉回应旗下蛋糕保质期 9 个月，称 -18 度冷冻保质期变长是常识？这是「科技与狠活」吗？",
-      "url": "https://www.zhihu.com/question/2101999833812944347",
-      "hot_value": "284 万热度",
+      "title": "RTX5080 售价暴跌 4000 元，这波降价核心原因是什么，现在适合入手吗？",
+      "url": "https://www.zhihu.com/question/2103812903170318494",
+      "hot_value": "266 万热度",
       "index": 6
-    },
-    {
-      "title": "比亚迪大唐轮毂错装，生产环节为何会出现这样的问题？官方称不影响安全，这样的处理方案能解决车主顾虑吗？",
-      "url": "https://www.zhihu.com/question/2103845080293274006",
-      "hot_value": "260 万热度",
-      "index": 7
-    },
-    {
-      "title": "如何评价羊城晚报对王楚钦反思文的评论「反思写得再好，也不能替你在赛场上多拿一分」？",
-      "url": "https://www.zhihu.com/question/2103624641440961748",
-      "hot_value": "260 万热度",
-      "index": 8
-    },
-    {
-      "title": "沙僧在《西游记》中，除了挑担子外，出场的时候很少，为什么吴承恩在写《西游记》时不把他删掉？",
-      "url": "https://www.zhihu.com/question/2053053168834064898",
-      "hot_value": "260 万热度",
-      "index": 9
-    },
-    {
-      "title": "如果刚在图书馆一个空位子上坐下，有人过来说这是对方的位子，只是有事离开，要不要把位子还回去？",
-      "url": "https://www.zhihu.com/question/2103506850553583603",
-      "hot_value": "260 万热度",
-      "index": 10
-    },
-    {
-      "title": "苹果宣布官方社区将于 11 月 20 日永久关闭，即日起停止新帖仅保留只读模式，可能出于什么原因？会有何影响？",
-      "url": "https://www.zhihu.com/question/2103848943562109943",
-      "hot_value": "256 万热度",
-      "index": 11
-    },
-    {
-      "title": "如何看待马志明收郭德纲为义子？",
-      "url": "https://www.zhihu.com/question/2103957347660051158",
-      "hot_value": "253 万热度",
-      "index": 12
-    },
-    {
-      "title": "离岸信托个税申报累计超 1600 亿元，10 月入库超 1200 亿，带动当月全国个税收入增长 90%，怎样解读？",
-      "url": "https://www.zhihu.com/question/2103903253570249116",
-      "hot_value": "251 万热度",
-      "index": 13
-    },
-    {
-      "title": "为什么民主党能动摇德州这种深红州，而共和党对加州和纽约这种深蓝州却几乎没什么影响？",
-      "url": "https://www.zhihu.com/question/2101176542860666115",
-      "hot_value": "250 万热度",
-      "index": 14
-    },
-    {
-      "title": "「丈夫与第三者做试管婴儿」一案，检察院认为不符合伪造买卖国家机关证件罪立案条件，不予支持，如何解读？",
-      "url": "https://www.zhihu.com/question/2103879423711776967",
-      "hot_value": "246 万热度",
-      "index": 15
-    },
-    {
-      "title": "张雪宣布，冠军车拍卖款不再捐给韩红基金会，你怎么看？",
-      "url": "https://www.zhihu.com/question/2103815372109518240",
-      "hot_value": "205 万热度",
-      "index": 16
-    },
-    {
-      "title": "为什么一个企业的利润率 0%，仍然可以赚钱？",
-      "url": "https://www.zhihu.com/question/2092104476844999911",
-      "hot_value": "185 万热度",
-      "index": 17
-    },
-    {
-      "title": "了凡四训我们都知道，有没有人怀疑，了凡四训里的故事是假的？是劝人向善的鸡汤？",
-      "url": "https://www.zhihu.com/question/2102566575387759873",
-      "hot_value": "175 万热度",
-      "index": 18
-    },
-    {
-      "title": "怎样看待网友驾车撞翻 300 斤切糕赔偿 2 万多元？80 元一斤的定价合理吗？",
-      "url": "https://www.zhihu.com/question/2103922938147772307",
-      "hot_value": "165 万热度",
-      "index": 19
     },
     {
       "title": "韩国有可能再恢复使用汉字吗？",
       "url": "https://www.zhihu.com/question/666784251",
-      "hot_value": "161 万热度",
+      "hot_value": "254 万热度",
+      "index": 7
+    },
+    {
+      "title": "搬家公司 9 公里收费 13900 元，不给钱就扣货威胁，能怎么规避这种「套路搬」团伙？遇到这种情况该怎么办？",
+      "url": "https://www.zhihu.com/question/2103329149985231030",
+      "hot_value": "242 万热度",
+      "index": 8
+    },
+    {
+      "title": "如何看待第 44 届金摇杆奖年度终极游戏被《生化危机 9：安魂曲》拿下，《影之刃零》遗憾屈居第二？",
+      "url": "https://www.zhihu.com/question/2104065139158921877",
+      "hot_value": "221 万热度",
+      "index": 9
+    },
+    {
+      "title": "你做过哪些不算「标准答案」，却「更接近自己」的选择？",
+      "url": "https://www.zhihu.com/question/2088657927603057759",
+      "hot_value": "211 万热度",
+      "index": 10
+    },
+    {
+      "title": "如何看待马志明收郭德纲为义子？",
+      "url": "https://www.zhihu.com/question/2103957347660051158",
+      "hot_value": "209 万热度",
+      "index": 11
+    },
+    {
+      "title": "为什么一个企业的利润率 0%，仍然可以赚钱？",
+      "url": "https://www.zhihu.com/question/2092104476844999911",
+      "hot_value": "207 万热度",
+      "index": 12
+    },
+    {
+      "title": "如何看待 12306 回应外籍游客探出高铁车厢吸烟，称「个人素质行为」无法阻止？高铁站吸烟为何难以管理？",
+      "url": "https://www.zhihu.com/question/2104120328397874660",
+      "hot_value": "204 万热度",
+      "index": 13
+    },
+    {
+      "title": "《GTA6》官方确认主机版目标帧率只有 30 帧，你怎么看？",
+      "url": "https://www.zhihu.com/question/2103799297569470308",
+      "hot_value": "202 万热度",
+      "index": 14
+    },
+    {
+      "title": "2627 赛季 NBA 常规赛勇士 108:115 火箭，库里伤退，斯马特挥拳被驱逐，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2104163559647331876",
+      "hot_value": "183 万热度",
+      "index": 15
+    },
+    {
+      "title": "港媒曝霍启山与娜然喜帖，二人 12 月 12 日将在香港办婚礼，哪些细节值得关注？",
+      "url": "https://www.zhihu.com/question/2103921611434939660",
+      "hot_value": "182 万热度",
+      "index": 16
+    },
+    {
+      "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
+      "url": "https://www.zhihu.com/question/2103845113960952123",
+      "hot_value": "181 万热度",
+      "index": 17
+    },
+    {
+      "title": "不断地向人道歉是什么心理？过多的道歉为什么让人反感？",
+      "url": "https://www.zhihu.com/question/29501821",
+      "hot_value": "178 万热度",
+      "index": 18
+    },
+    {
+      "title": "通过低频脉冲刺激神经的「脉冲训练服」是什么原理？普通人能用来无痛锻炼吗？真能「坐着躺着就能长肌肉」吗？",
+      "url": "https://www.zhihu.com/question/2103430444481864357",
+      "hot_value": "174 万热度",
+      "index": 19
+    },
+    {
+      "title": "网红「疯狂小马哥」离世，家人称是「打 PK」被要求喝 20 瓶酒中途猝死，连麦者与平台应承担责任吗？",
+      "url": "https://www.zhihu.com/question/2103943866126525715",
+      "hot_value": "167 万热度",
       "index": 20
     },
     {
-      "title": "大学生免费领养小猫背上九千多元分期债务，逾期年化利率 131.4%，「猫贷」可能有哪些坑？法律上合理吗？",
-      "url": "https://www.zhihu.com/question/2103824514869978098",
-      "hot_value": "157 万热度",
+      "title": "苹果公司前 CEO 蒂姆·库克被提名作为英伟达现任一把手潜在继任者，库克成为英伟达新掌门的概率大吗？",
+      "url": "https://www.zhihu.com/question/2104153189284931494",
+      "hot_value": "163 万热度",
       "index": 21
     },
     {
-      "title": "我们人类是地球上的第几代文明？",
-      "url": "https://www.zhihu.com/question/21959483",
-      "hot_value": "148 万热度",
+      "title": "为什么公司请了最贵的战略顾问，画出了最漂亮的蓝图，最终却无法落地？",
+      "url": "https://www.zhihu.com/question/1986132271288320336",
+      "hot_value": "162 万热度",
       "index": 22
     },
     {
-      "title": "贾国龙夫妇先后质押西贝直接持股，数额合计超 3200 万元，怎样解读？",
-      "url": "https://www.zhihu.com/question/2103621085199426666",
-      "hot_value": "138 万热度",
+      "title": "了凡四训我们都知道，有没有人怀疑，了凡四训里的故事是假的？是劝人向善的鸡汤？",
+      "url": "https://www.zhihu.com/question/2102566575387759873",
+      "hot_value": "161 万热度",
       "index": 23
     },
     {
-      "title": "有哪些有眼不识泰山的故事？",
-      "url": "https://www.zhihu.com/question/266669718",
-      "hot_value": "135 万热度",
+      "title": "明明工作很负责，晋升却一直受阻，会不会是太执着于「被别人需要」？",
+      "url": "https://www.zhihu.com/question/2089868099969344466",
+      "hot_value": "159 万热度",
       "index": 24
-    },
-    {
-      "title": "贾宝玉的乳母李嬷嬷，为什么那么恨袭人？",
-      "url": "https://www.zhihu.com/question/596119405",
-      "hot_value": "132 万热度",
-      "index": 25
     },
     {
       "title": "员工工作近 9 年离职，被通知退还 17 万余元「预发产值提成差额」，预发提成是什么？这合法吗？",
       "url": "https://www.zhihu.com/question/2102711017331495341",
-      "hot_value": "131 万热度",
+      "hot_value": "155 万热度",
+      "index": 25
+    },
+    {
+      "title": "如何看待卡蓓诺洗发水 (Cabelo) 火速上架亚马逊日本，它还有机会逆转吗？",
+      "url": "https://www.zhihu.com/question/2103784253829993110",
+      "hot_value": "151 万热度",
       "index": 26
     },
     {
-      "title": "为什么英格兰队总是球星很多，但在国际大赛上的成绩却不尽如人意？",
-      "url": "https://www.zhihu.com/question/20305017",
-      "hot_value": "128 万热度",
+      "title": "如何看待院士称: 剑桥大学 50 张病床配 600 位科学家，国内配 5 个大夫就超编了，是否大力扩编医生?",
+      "url": "https://www.zhihu.com/question/2103431538201384541",
+      "hot_value": "109 万热度",
       "index": 27
     },
     {
-      "title": "跑步 8 、 9 年累积约 1.2-1.4 万 km 跑量，10kpb52 分多是否先天不适合长跑？",
-      "url": "https://www.zhihu.com/question/2096408721953928705",
-      "hot_value": "125 万热度",
+      "title": "后会友期究竟有没有剧本？",
+      "url": "https://www.zhihu.com/question/2102491535715713576",
+      "hot_value": "106 万热度",
       "index": 28
     },
     {
-      "title": "某律师为了不把敏感资料上传云端，用 8 张 V100 搭建一台数千瓦功耗的本地 AI 服务器值得吗？",
-      "url": "https://www.zhihu.com/question/2103844614528395225",
-      "hot_value": "122 万热度",
+      "title": "37 岁吴曦回归国足韦世豪落选，本次国家队选人有哪些考量？",
+      "url": "https://www.zhihu.com/question/2102366363121620123",
+      "hot_value": "106 万热度",
       "index": 29
     },
     {
-      "title": "俄方公布本轮俄美乌三方会谈成果，俄乌原则同意进行新一轮大规模在押人员交换，怎样解读？",
-      "url": "https://www.zhihu.com/question/2103932729959999268",
-      "hot_value": "120 万热度",
+      "title": "如何评价崩坏：星穹铁道 5.5 版本「故事之外，有谁还在」？",
+      "url": "https://www.zhihu.com/question/2104173919074885940",
+      "hot_value": "106 万热度",
       "index": 30
     }
   ]
