@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-12T17:40:26Z",
+  "update_time": "2026-11-12T23:08:40Z",
   "count": 30,
   "list": [
     {
-      "title": "网传腾讯裁员 15-20%，腾讯辟谣「裁员 50%」的说法，实际什么情况？可能涉及哪些业务？",
-      "url": "https://www.zhihu.com/question/2104132164308530649",
-      "hot_value": "2801 万热度",
+      "title": "黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？",
+      "url": "https://www.zhihu.com/question/2104342766322808640",
+      "hot_value": "558 万热度",
       "index": 1
     },
     {
       "title": "荷兰法院已驳回捷豹路虎突击调取比亚迪研发资料的申请，还有哪些信息值得关注？这一裁定意味着什么？",
       "url": "https://www.zhihu.com/question/2104195756106019708",
-      "hot_value": "434 万热度",
+      "hot_value": "354 万热度",
       "index": 2
-    },
-    {
-      "title": "德芙因七夕广告宣扬错误婚恋观，代运营方被罚 80 万，怎样看待这一结果？",
-      "url": "https://www.zhihu.com/question/2104239650290098778",
-      "hot_value": "419 万热度",
-      "index": 3
-    },
-    {
-      "title": "女子在西西弗书店买了 200 元的书，想坐咖啡区却被拒，店方称需另行消费才能入座，这一规定合理吗？",
-      "url": "https://www.zhihu.com/question/2104110182112482058",
-      "hot_value": "353 万热度",
-      "index": 4
     },
     {
       "title": "刘欢死因首次曝光，系感染性休克，生前与膀胱癌斗争十几年，膀胱癌有多危险？该怎样预防？",
       "url": "https://www.zhihu.com/question/2104319975074656932",
-      "hot_value": "329 万热度",
-      "index": 5
+      "hot_value": "349 万热度",
+      "index": 3
     },
     {
-      "title": "RTX5080 售价暴跌 4000 元，这波降价核心原因是什么，现在适合入手吗？",
-      "url": "https://www.zhihu.com/question/2103812903170318494",
-      "hot_value": "293 万热度",
-      "index": 6
-    },
-    {
-      "title": "如何看待院士称剑桥大学 50 张病床配 600 位科学家，国内配 5 个大夫就超编了，是否应该大力扩编医生?",
-      "url": "https://www.zhihu.com/question/2103431538201384541",
-      "hot_value": "201 万热度",
-      "index": 7
-    },
-    {
-      "title": "GPT-6.2 开启首测，有网友称其性能可压倒 Opus5.5，二者实际体验差距有多大？",
-      "url": "https://www.zhihu.com/question/2103125335730669300",
-      "hot_value": "162 万热度",
-      "index": 8
+      "title": "网传腾讯裁员 15-20%，腾讯辟谣「裁员 50%」的说法，实际什么情况？可能涉及哪些业务？",
+      "url": "https://www.zhihu.com/question/2104132164308530649",
+      "hot_value": "188 万热度",
+      "index": 4
     },
     {
       "title": "如何看待 28 岁中国留学毕业生在墨尔本遇袭，两根手指被砍断，膝盖被砍伤，还遭朋友卷走 5.4 万澳元医药费？",
       "url": "https://www.zhihu.com/question/2103997936267019794",
-      "hot_value": "142 万热度",
+      "hot_value": "157 万热度",
+      "index": 5
+    },
+    {
+      "title": "德芙因七夕广告宣扬错误婚恋观，代运营方被罚 80 万，怎样看待这一结果？",
+      "url": "https://www.zhihu.com/question/2104239650290098778",
+      "hot_value": "157 万热度",
+      "index": 6
+    },
+    {
+      "title": "杨世光 2026-11-11 确切的说国产 EUV2027 年 8 月发布，如何看待这个消息？",
+      "url": "https://www.zhihu.com/question/2104130661825122762",
+      "hot_value": "139 万热度",
+      "index": 7
+    },
+    {
+      "title": "如何看待 2026 年 10 月特斯拉国内销量暴跌？",
+      "url": "https://www.zhihu.com/question/2103258099138172807",
+      "hot_value": "115 万热度",
+      "index": 8
+    },
+    {
+      "title": "房子已经过剩，为什么一直还在新盖楼盘？",
+      "url": "https://www.zhihu.com/question/2075640740537963785",
+      "hot_value": "102 万热度",
       "index": 9
     },
     {
-      "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
-      "url": "https://www.zhihu.com/question/2103845113960952123",
-      "hot_value": "133 万热度",
+      "title": "成都成中国唯一入选美国《国家地理》全球最佳旅行地城市，凭什么吸引世界目光？",
+      "url": "https://www.zhihu.com/question/2101800244514121260",
+      "hot_value": "95 万热度",
       "index": 10
     },
     {
       "title": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任 CEO，库克成为英伟达新掌门的概率大吗？",
       "url": "https://www.zhihu.com/question/2104153189284931494",
-      "hot_value": "131 万热度",
+      "hot_value": "93 万热度",
       "index": 11
     },
     {
       "title": "如何看待马化腾在腾讯 28 周年庆全员会上的讲话？",
       "url": "https://www.zhihu.com/question/2104232899662669796",
-      "hot_value": "129 万热度",
+      "hot_value": "92 万热度",
       "index": 12
     },
     {
-      "title": "房子已经过剩，为什么一直还在新盖楼盘？",
-      "url": "https://www.zhihu.com/question/2075640740537963785",
-      "hot_value": "125 万热度",
+      "title": "女子在西西弗书店买了 200 元的书，想坐咖啡区却被拒，店方称需另行消费才能入座，这一规定合理吗？",
+      "url": "https://www.zhihu.com/question/2104110182112482058",
+      "hot_value": "89 万热度",
       "index": 13
     },
     {
-      "title": "如何评价《fx 战士久留美》第六集？",
-      "url": "https://www.zhihu.com/question/2101824268556415307",
-      "hot_value": "111 万热度",
+      "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
+      "url": "https://www.zhihu.com/question/2103845113960952123",
+      "hot_value": "79 万热度",
       "index": 14
     },
     {
-      "title": "网红「疯狂小马哥」离世，家人称是「打 PK」被要求喝 20 瓶酒中途猝死，连麦者与平台应承担责任吗？",
-      "url": "https://www.zhihu.com/question/2103943866126525715",
-      "hot_value": "90 万热度",
+      "title": "乡干部捅伤村民潜逃 15 年，其间违规吃空饷 140 万元并升为正科，暴露出哪些问题？",
+      "url": "https://www.zhihu.com/question/2101649988895904476",
+      "hot_value": "77 万热度",
       "index": 15
     },
     {
       "title": "港媒曝霍启山与娜然喜帖，二人 12 月 12 日将在香港办婚礼，哪些细节值得关注？",
       "url": "https://www.zhihu.com/question/2103921611434939660",
-      "hot_value": "89 万热度",
+      "hot_value": "77 万热度",
       "index": 16
     },
     {
       "title": "如何评价黄仁勋任职英伟达 CEO 期间的全部贡献？",
       "url": "https://www.zhihu.com/question/2104242987278546098",
-      "hot_value": "89 万热度",
+      "hot_value": "76 万热度",
       "index": 17
     },
     {
       "title": "如何看待马志明收郭德纲为义子？",
       "url": "https://www.zhihu.com/question/2103957347660051158",
-      "hot_value": "89 万热度",
+      "hot_value": "75 万热度",
       "index": 18
     },
     {
-      "title": "成都成中国唯一入选美国《国家地理》全球最佳旅行地城市，凭什么吸引世界目光？",
-      "url": "https://www.zhihu.com/question/2101800244514121260",
-      "hot_value": "88 万热度",
+      "title": "网红「疯狂小马哥」离世，家人称是「打 PK」被要求喝 20 瓶酒中途猝死，连麦者与平台应承担责任吗？",
+      "url": "https://www.zhihu.com/question/2103943866126525715",
+      "hot_value": "75 万热度",
       "index": 19
     },
     {
-      "title": "怎么看 Anthropic IPO 提到 Claude 适配全芯片训练和推理，接入 AMD 只用 3 天？",
-      "url": "https://www.zhihu.com/question/2103879116948771823",
-      "hot_value": "87 万热度",
+      "title": "某律师为了不把敏感资料上传云端，用 8 张 V100 搭建一台数千瓦功耗的本地 AI 服务器值得吗？",
+      "url": "https://www.zhihu.com/question/2103844614528395225",
+      "hot_value": "75 万热度",
       "index": 20
     },
     {
       "title": "如何看待女子称产后患血小板减少症遭丈夫拒之门外导致其流离失所，后男方因涉遗弃罪被捕？这是怎样的病症？",
       "url": "https://www.zhihu.com/question/2104178867791292079",
-      "hot_value": "84 万热度",
+      "hot_value": "74 万热度",
       "index": 21
     },
     {
-      "title": "如何评价专访《崩坏：星穹铁道》安承男：当星神步入战局，回合制策略的演进、颠覆与平衡？",
-      "url": "https://www.zhihu.com/question/2103532543316326327",
-      "hot_value": "82 万热度",
+      "title": "10 月 20 万元以上新能源车销量榜出炉，前三名全是小米，哪些数据值得关注？当前市场格局如何？",
+      "url": "https://www.zhihu.com/question/2103425545253778677",
+      "hot_value": "74 万热度",
       "index": 22
     },
     {
-      "title": "你支持小区取消物业，实行业主自治管理吗？",
-      "url": "https://www.zhihu.com/question/2089365159668093568",
-      "hot_value": "81 万热度",
+      "title": "中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2102940552853448626",
+      "hot_value": "74 万热度",
       "index": 23
     },
     {
-      "title": "余承东正式官宣华为子品牌「星芒」（OSTA），可能面向哪些用户？它会如何与华为现有产品线区分？",
-      "url": "https://www.zhihu.com/question/2103854627128959557",
-      "hot_value": "79 万热度",
+      "title": "男子与第三者在客栈发生关系后猝死，妻子向第三者和客栈索赔超百万元，一审被驳回，法律上如何分析？",
+      "url": "https://www.zhihu.com/question/2103761363461829217",
+      "hot_value": "73 万热度",
       "index": 24
-    },
-    {
-      "title": "虾真正好吃的做法是什么？",
-      "url": "https://www.zhihu.com/question/667695423",
-      "hot_value": "79 万热度",
-      "index": 25
-    },
-    {
-      "title": "餐饮店用来「过油」的油，炸了那么多不同种类的食物，再用来炒菜难道不会串味吗?",
-      "url": "https://www.zhihu.com/question/2014321032002036362",
-      "hot_value": "79 万热度",
-      "index": 26
-    },
-    {
-      "title": "大学生免费领养小猫背上九千多元分期债务，逾期年化利率 131.4%，「猫贷」可能有哪些坑？法律上合理吗？",
-      "url": "https://www.zhihu.com/question/2103824514869978098",
-      "hot_value": "77 万热度",
-      "index": 27
     },
     {
       "title": "如何看待《影之刃零》双 Boss 战后 QTE 失败会触发「小葵抱憾终身」的悲剧 CG？",
       "url": "https://www.zhihu.com/question/2102857382921618065",
-      "hot_value": "76 万热度",
-      "index": 28
+      "hot_value": "71 万热度",
+      "index": 25
+    },
+    {
+      "title": "余承东正式官宣华为子品牌「星芒」（OSTA），可能面向哪些用户？它会如何与华为现有产品线区分？",
+      "url": "https://www.zhihu.com/question/2103854627128959557",
+      "hot_value": "70 万热度",
+      "index": 26
+    },
+    {
+      "title": "RTX5080 售价暴跌 4000 元，这波降价核心原因是什么，现在适合入手吗？",
+      "url": "https://www.zhihu.com/question/2103812903170318494",
+      "hot_value": "70 万热度",
+      "index": 27
     },
     {
       "title": "如何看待越来越多的医学生 / 医生沉迷实验室科研，不肯上临床?",
       "url": "https://www.zhihu.com/question/2103439990021793593",
-      "hot_value": "76 万热度",
-      "index": 29
+      "hot_value": "70 万热度",
+      "index": 28
     },
     {
       "title": "你觉得最下饭的菜是什么？?",
       "url": "https://www.zhihu.com/question/1965050941905544775",
-      "hot_value": "75 万热度",
+      "hot_value": "69 万热度",
+      "index": 29
+    },
+    {
+      "title": "妈妈嫌儿子预测身高 1 米 75「没法见人」要求拔高，背后原因有哪些？",
+      "url": "https://www.zhihu.com/question/2099720105420763944",
+      "hot_value": "69 万热度",
       "index": 30
     }
   ]
