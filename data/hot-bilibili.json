@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-11-13T18:39:51Z",
+  "update_time": "2026-11-14T00:07:18Z",
   "count": 30,
   "list": [
     {
-      "title": "他真的太优雅了！灰太狼&红太狼【非凡之爱】",
-      "url": "https://www.bilibili.com/video/BV1aNWm6UEeC",
-      "hot_value": "1399219播放",
+      "title": "极致的走线！",
+      "url": "https://www.bilibili.com/video/BV1bkW86bEij",
+      "hot_value": "1095890播放",
       "index": 1
     },
     {
-      "title": "NVIDIA：黄仁勋辞职",
-      "url": "https://www.bilibili.com/video/BV1efWd6CEvF",
-      "hot_value": "318290播放",
+      "title": "在这里，万亿吨水被强行灌进火山……【地理志】",
+      "url": "https://www.bilibili.com/video/BV1GPWi6SECk",
+      "hot_value": "451276播放",
       "index": 2
     },
     {
-      "title": "为什么是最后一期？影视飓风1800万粉丝Q&A！",
-      "url": "https://www.bilibili.com/video/BV1kZWX62ENY",
-      "hot_value": "1696525播放",
+      "title": "假⚡️面⚡️难⚡️藏⚡️泪",
+      "url": "https://www.bilibili.com/video/BV1GbWq6HEct",
+      "hot_value": "457324播放",
       "index": 3
     },
     {
-      "title": "【纪录片】人生一串 第四季 02 心惊肉跳",
-      "url": "https://www.bilibili.com/video/BV16DWj61EoY",
-      "hot_value": "1785182播放",
+      "title": "【独家】《罗小黑战记》第43话 跟师父一起做任务啦【10月国创】",
+      "url": "https://www.bilibili.com/video/BV1nwWd6XEyv",
+      "hot_value": "1996059播放",
       "index": 4
-    },
-    {
-      "title": "臣妾要线上告发熹贵妃 2.0",
-      "url": "https://www.bilibili.com/video/BV1PZWR6xEqv",
-      "hot_value": "384630播放",
-      "index": 5
-    },
-    {
-      "title": "英伟达公司宣布：黄仁勋辞职",
-      "url": "https://www.bilibili.com/video/BV1FuWZ6dEjb",
-      "hot_value": "1699572播放",
-      "index": 6
-    },
-    {
-      "title": "拿什么打手游最过瘾？游戏平板采销推荐",
-      "url": "https://www.bilibili.com/video/BV13VWb68ENP",
-      "hot_value": "896300播放",
-      "index": 7
-    },
-    {
-      "title": "议员儿子涉毒，当红男明星偷拍，黑帮大佬遭绑架？钱已到位，罪恶都市清道夫来活了！《黑白清道夫》",
-      "url": "https://www.bilibili.com/video/BV17uWy6EEjM",
-      "hot_value": "764922播放",
-      "index": 8
-    },
-    {
-      "title": "提辖老妈《暴躁老妈》雷霆丧病配音1~8大合集",
-      "url": "https://www.bilibili.com/video/BV1qAWJ6LER9",
-      "hot_value": "349170播放",
-      "index": 9
-    },
-    {
-      "title": "《崩坏：星穹铁道》EP：「无中生有」",
-      "url": "https://www.bilibili.com/video/BV1nEWu6xEyq",
-      "hot_value": "1221175播放",
-      "index": 10
-    },
-    {
-      "title": "我将负责嘎嘎乱吃！",
-      "url": "https://www.bilibili.com/video/BV1anWd6zEsN",
-      "hot_value": "453553播放",
-      "index": 11
-    },
-    {
-      "title": "伏笔满满、高层改戏、英雄崩溃！漫威口碑“系列最差”的《复联2》到底冤不冤？",
-      "url": "https://www.bilibili.com/video/BV1GpWd6uEcE",
-      "hot_value": "484519播放",
-      "index": 12
-    },
-    {
-      "title": "补档：钢成军的秘密被灭建国发现了，这下可惨了",
-      "url": "https://www.bilibili.com/video/BV1VmWL6fE7z",
-      "hot_value": "924838播放",
-      "index": 13
-    },
-    {
-      "title": "华农兄弟：抓鸭抓鹅一起炖，兄弟都说好吃",
-      "url": "https://www.bilibili.com/video/BV1aFW16VEdr",
-      "hot_value": "470640播放",
-      "index": 14
-    },
-    {
-      "title": "《反方向の忠》",
-      "url": "https://www.bilibili.com/video/BV1MRWm65EMC",
-      "hot_value": "1218967播放",
-      "index": 15
-    },
-    {
-      "title": "《你跟他废什么话》",
-      "url": "https://www.bilibili.com/video/BV1NvWg6YEjs",
-      "hot_value": "2219391播放",
-      "index": 16
-    },
-    {
-      "title": "英伟达显卡美亚销量暴跌超过70%｜显卡日报11月13日",
-      "url": "https://www.bilibili.com/video/BV1ZhWo6DEvt",
-      "hot_value": "265096播放",
-      "index": 17
     },
     {
       "title": "拿中老年病痛玩梗，还被44万人点赞，这是最近最让我恶心的烂梗！",
       "url": "https://www.bilibili.com/video/BV11CWD6EEjf",
-      "hot_value": "243710播放",
-      "index": 18
+      "hot_value": "1512150播放",
+      "index": 5
+    },
+    {
+      "title": "巨型生物袭击村庄，而你却孤身一人！面对你的只有绝望！",
+      "url": "https://www.bilibili.com/video/BV1VxWq6WE4s",
+      "hot_value": "319356播放",
+      "index": 6
+    },
+    {
+      "title": "臣妾要线上告发熹贵妃 2.0",
+      "url": "https://www.bilibili.com/video/BV1PZWR6xEqv",
+      "hot_value": "2152048播放",
+      "index": 7
+    },
+    {
+      "title": "有用版新僵尸：慈祥二爷",
+      "url": "https://www.bilibili.com/video/BV1wyWv6YEJK",
+      "hot_value": "454852播放",
+      "index": 8
+    },
+    {
+      "title": "这辅助塞恩太夸张了！",
+      "url": "https://www.bilibili.com/video/BV1PjWR6WEb6",
+      "hot_value": "1046782播放",
+      "index": 9
+    },
+    {
+      "title": "笑点一高大事件",
+      "url": "https://www.bilibili.com/video/BV1sFWq63E4i",
+      "hot_value": "407522播放",
+      "index": 10
+    },
+    {
+      "title": "如果小时候幻想过的职业真的成真了？会是怎样？",
+      "url": "https://www.bilibili.com/video/BV1JVWq6aECe",
+      "hot_value": "299274播放",
+      "index": 11
+    },
+    {
+      "title": "MJ宇宙校园之末日降临第一集",
+      "url": "https://www.bilibili.com/video/BV1jDW963EWf",
+      "hot_value": "1221177播放",
+      "index": 12
+    },
+    {
+      "title": "耗资上万！我把匠魂做进了网页版mc... 【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1HTWq6iESp",
+      "hot_value": "95782播放",
+      "index": 13
+    },
+    {
+      "title": "当家里的大肥鱼被饿了好几个小时以后",
+      "url": "https://www.bilibili.com/video/BV1GsWv6jErZ",
+      "hot_value": "537758播放",
+      "index": 14
+    },
+    {
+      "title": "离谱答案大合集4",
+      "url": "https://www.bilibili.com/video/BV1jsWu6nEd6",
+      "hot_value": "1439447播放",
+      "index": 15
     },
     {
       "title": "【烂奇迹】三毛：我的一生颠沛流离，活到现在算是个奇迹",
       "url": "https://www.bilibili.com/video/BV14gW16iEq8",
-      "hot_value": "452092播放",
+      "hot_value": "1071700播放",
+      "index": 16
+    },
+    {
+      "title": "THANK YOU nobody",
+      "url": "https://www.bilibili.com/video/BV1VYWT6TEb4",
+      "hot_value": "593708播放",
+      "index": 17
+    },
+    {
+      "title": "你们外卖还有陪聊服务吗？",
+      "url": "https://www.bilibili.com/video/BV1mjWm6gE1T",
+      "hot_value": "683010播放",
+      "index": 18
+    },
+    {
+      "title": "一人扬言能吃三斤脆肉皖，直接拿下8斤大脆肉皖。",
+      "url": "https://www.bilibili.com/video/BV1K3WR6oEjT",
+      "hot_value": "828978播放",
       "index": 19
     },
     {
-      "title": "同是东亚内卷，日韩打工人，生活差距有多大？",
-      "url": "https://www.bilibili.com/video/BV1HTW26tE5A",
-      "hot_value": "571270播放",
+      "title": "我将负责嘎嘎乱吃！",
+      "url": "https://www.bilibili.com/video/BV1anWd6zEsN",
+      "hot_value": "1154453播放",
       "index": 20
     },
     {
-      "title": "蹲后续的兄弟们，花了一周时间终于把水抽干，把华哥也喊到南通来包鱼塘，这次应该稳了吧",
-      "url": "https://www.bilibili.com/video/BV1rFW96LEJA",
-      "hot_value": "449303播放",
+      "title": "全看过的这辈子有了",
+      "url": "https://www.bilibili.com/video/BV1rpWe6ZEWn",
+      "hot_value": "270313播放",
       "index": 21
     },
     {
-      "title": "老师傅教你古法制作纯机械AI大模型",
-      "url": "https://www.bilibili.com/video/BV1EmWy6pECu",
-      "hot_value": "268099播放",
+      "title": "动物:苦日子终于到头了！！！",
+      "url": "https://www.bilibili.com/video/BV1V7WY6VEWg",
+      "hot_value": "598771播放",
       "index": 22
+    },
+    {
+      "title": "多兰：你是不是想踢了我？【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1acW16kEZ6",
+      "hot_value": "1357336播放",
+      "index": 23
+    },
+    {
+      "title": "又报警了，钓鱼佬在河边啥都能捡到",
+      "url": "https://www.bilibili.com/video/BV1bWW96fEWo",
+      "hot_value": "843433播放",
+      "index": 24
+    },
+    {
+      "title": "THANK YOU CHICHOO",
+      "url": "https://www.bilibili.com/video/BV15hWT6BEGz",
+      "hot_value": "564990播放",
+      "index": 25
+    },
+    {
+      "title": "动态视频｜全网最高画质第一人称逛展，会拍到啥？",
+      "url": "https://www.bilibili.com/video/BV1exWq6WEF4",
+      "hot_value": "784293播放",
+      "index": 26
+    },
+    {
+      "title": "我发现了男性职场上的一个万能公式。",
+      "url": "https://www.bilibili.com/video/BV1imW76qEcz",
+      "hot_value": "690353播放",
+      "index": 27
+    },
+    {
+      "title": "《蓝色星原：旅谣》公测预告PV",
+      "url": "https://www.bilibili.com/video/BV1NdWo6vEQL",
+      "hot_value": "1730675播放",
+      "index": 28
     },
     {
       "title": "翻山覆海，以我之名｜2026全球总决赛冠亚军决赛宣传片",
       "url": "https://www.bilibili.com/video/BV1V1Wm6nEJL",
-      "hot_value": "370858播放",
-      "index": 23
-    },
-    {
-      "title": "【带着AI穿越2018】#6 蓝色大肥鱼单刀赴会阿美莉卡",
-      "url": "https://www.bilibili.com/video/BV1GJWy6rEQz",
-      "hot_value": "2048251播放",
-      "index": 24
-    },
-    {
-      "title": "听说新西兰卖1000一只的黑金鲍泛滥了！我临时起意…",
-      "url": "https://www.bilibili.com/video/BV1mVWm6GECM",
-      "hot_value": "1159682播放",
-      "index": 25
-    },
-    {
-      "title": "🐊BLG vs T1🥷（世界赛篇）",
-      "url": "https://www.bilibili.com/video/BV15DWQ6YEkP",
-      "hot_value": "687085播放",
-      "index": 26
-    },
-    {
-      "title": "这都能还原！！？【MC阿哈篇】",
-      "url": "https://www.bilibili.com/video/BV1MdWL6WEiB",
-      "hot_value": "1365174播放",
-      "index": 27
-    },
-    {
-      "title": "《原神》过场动画-「岩与契约」",
-      "url": "https://www.bilibili.com/video/BV1aTWm6jEL8",
-      "hot_value": "833913播放",
-      "index": 28
-    },
-    {
-      "title": "疑似《崩坏：星穹铁道》星神★阿哈★真人角色PV流出",
-      "url": "https://www.bilibili.com/video/BV1CyW26wEad",
-      "hot_value": "775206播放",
+      "hot_value": "883231播放",
       "index": 29
     },
     {
-      "title": "《再 试 一 次！》",
-      "url": "https://www.bilibili.com/video/BV1FQWU6KErd",
-      "hot_value": "1037655播放",
+      "title": "路透社：小四之上，还有小五",
+      "url": "https://www.bilibili.com/video/BV1xoWi6VEQi",
+      "hot_value": "517988播放",
       "index": 30
     }
   ]
