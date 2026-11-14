@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-14T06:50:38Z",
+  "update_time": "2026-11-14T13:54:57Z",
   "count": 30,
   "list": [
     {
       "title": "美国因出现特殊情况及安全原因，所有航班一度暂停起飞，目前停飞令已解除，具体情况如何？造成影响有多大？",
       "url": "https://www.zhihu.com/question/2104838863910690956",
-      "hot_value": "3764 万热度",
+      "hot_value": "683 万热度",
       "index": 1
     },
     {
-      "title": "多地高中严格执行周末双休、厅长公开表示对学生太累深感愧疚，江苏教育这次突然的大动作是何原因？",
-      "url": "https://www.zhihu.com/question/2104242893716309866",
-      "hot_value": "3198 万热度",
+      "title": "多地网约车司机称被特惠车、一口价订单逼「疯」，不开特惠单就变少，怎样才能让乘客打车实惠、司机有单可接？",
+      "url": "https://www.zhihu.com/question/2104661988609614131",
+      "hot_value": "414 万热度",
       "index": 2
-    },
-    {
-      "title": "《给阿嬷的情书》获金鸡奖最佳编剧时无人响应，《密档》获金鸡奖最佳导演时掌声一片，你怎么看？",
-      "url": "https://www.zhihu.com/question/2104243850030204763",
-      "hot_value": "777 万热度",
-      "index": 3
-    },
-    {
-      "title": "怎么看 DeepSeek 发布全家桶 API，这个价格你接受吗？",
-      "url": "https://www.zhihu.com/question/2104704747362054197",
-      "hot_value": "507 万热度",
-      "index": 4
     },
     {
       "title": "马化腾曾坦言腾讯 AI「上了船才发现船漏水」，如今又把员工分成陆军和海军，这释放了什么信号？",
       "url": "https://www.zhihu.com/question/2104265147606889514",
-      "hot_value": "461 万热度",
+      "hot_value": "396 万热度",
+      "index": 3
+    },
+    {
+      "title": "《给阿嬷的情书》获金鸡奖最佳编剧时无人响应，《密档》获金鸡奖最佳导演时掌声一片，你怎么看？",
+      "url": "https://www.zhihu.com/question/2104243850030204763",
+      "hot_value": "302 万热度",
+      "index": 4
+    },
+    {
+      "title": "圆周率中可能存在 100 万个连续的 0 吗？",
+      "url": "https://www.zhihu.com/question/2049344893462565510",
+      "hot_value": "170 万热度",
       "index": 5
+    },
+    {
+      "title": "《持械入宋》制片人称算力投入超百万且没投流，团队每部短剧都盈利，怎样看待这一高收益性？哪些思路能借鉴？",
+      "url": "https://www.zhihu.com/question/2104167693242691717",
+      "hot_value": "165 万热度",
+      "index": 6
     },
     {
       "title": "南京「零元面馆」爆火后被质疑影响周边商家，创始人称如周围有餐饮商家因此受损愿出钱补偿，如何看待此回应？",
       "url": "https://www.zhihu.com/question/2104599557053081171",
-      "hot_value": "461 万热度",
-      "index": 6
-    },
-    {
-      "title": "蜀汉政权为什么没有产生篡国的权臣？是刘禅大智若愚吗？",
-      "url": "https://www.zhihu.com/question/1916994647198242605",
-      "hot_value": "435 万热度",
+      "hot_value": "158 万热度",
       "index": 7
     },
     {
-      "title": "如何评价 11 月 13 日上市的问界新 M8，售价 37.98 万元起，这一价格在如今的市场有竞争力嘛？",
-      "url": "https://www.zhihu.com/question/2104607471683817591",
-      "hot_value": "409 万热度",
+      "title": "工商银行、农业银行、中国人保称合计约 2750 亿元股票定增已经获上交所核准，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2104203733609493479",
+      "hot_value": "154 万热度",
       "index": 8
-    },
-    {
-      "title": "有可以单独猎杀体重大于自身数倍甚至十数倍的动物吗？",
-      "url": "https://www.zhihu.com/question/1937762657991103722",
-      "hot_value": "388 万热度",
-      "index": 9
-    },
-    {
-      "title": "为什么国内止痛药普遍使用布洛芬而不是阿司匹林？",
-      "url": "https://www.zhihu.com/question/316552162",
-      "hot_value": "377 万热度",
-      "index": 10
-    },
-    {
-      "title": "英伟达临时 CEO 被曝是制衡黄仁勋的重要力量，是唯一一位给 AI 投资唱反调的人，她会给英伟达带来哪些变化？",
-      "url": "https://www.zhihu.com/question/2104902252003423010",
-      "hot_value": "371 万热度",
-      "index": 11
-    },
-    {
-      "title": "于东来称胖东来将就洗发水争议出调研报告，消费者该关注哪些信息？",
-      "url": "https://www.zhihu.com/question/2104692031402647745",
-      "hot_value": "366 万热度",
-      "index": 12
-    },
-    {
-      "title": "如何看待《后会友期》中文吉儿一句「顺我一下」，最终让所有人等到晚上 9 点才吃上饭这件事？",
-      "url": "https://www.zhihu.com/question/2104536364930937665",
-      "hot_value": "281 万热度",
-      "index": 13
-    },
-    {
-      "title": "都说 AI 提效，为什么打工人反而更累了？",
-      "url": "https://www.zhihu.com/question/2074136077611298927",
-      "hot_value": "271 万热度",
-      "index": 14
-    },
-    {
-      "title": "鸟山明故居与工作室被曝已开始拆除，是否应作为纪念设施保留？",
-      "url": "https://www.zhihu.com/question/2099668207401550119",
-      "hot_value": "262 万热度",
-      "index": 15
-    },
-    {
-      "title": "黄仁勋还能重返英伟达吗？",
-      "url": "https://www.zhihu.com/question/2104521888450064574",
-      "hot_value": "238 万热度",
-      "index": 16
-    },
-    {
-      "title": "林黛玉吃五香大头菜是败笔吗？",
-      "url": "https://www.zhihu.com/question/316245001",
-      "hot_value": "215 万热度",
-      "index": 17
-    },
-    {
-      "title": "AI 短剧《梦回红楼》被指侵害 17 位演员肖像，还魔改出林黛玉掌掴薛宝钗等情节，制作方要承担哪些法律责任？",
-      "url": "https://www.zhihu.com/question/2104307708622889582",
-      "hot_value": "169 万热度",
-      "index": 18
-    },
-    {
-      "title": "SpaceX 星舰第 15 次试飞发射升空，助推器回收失败改为海上溅落，飞船继续执行飞行任务，目前进展如何？",
-      "url": "https://www.zhihu.com/question/2103048368494793787",
-      "hot_value": "161 万热度",
-      "index": 19
     },
     {
       "title": "2026S16 半决赛 Faker 输给 BLG，为何依然获得 LPL 普遍尊重？",
       "url": "https://www.zhihu.com/question/2104284591246911279",
-      "hot_value": "161 万热度",
+      "hot_value": "115 万热度",
+      "index": 9
+    },
+    {
+      "title": "DeepSeek harness 相比 codex 有什么劣势？",
+      "url": "https://www.zhihu.com/question/2072669811511922890",
+      "hot_value": "100 万热度",
+      "index": 10
+    },
+    {
+      "title": "专家称今冬我国大部大概率是暖冬但寒潮偏多，该如何从气象学角度上理解这一结论？",
+      "url": "https://www.zhihu.com/question/2094963741066522869",
+      "hot_value": "97 万热度",
+      "index": 11
+    },
+    {
+      "title": "为什么要偶尔带孩子去外面吃饭？",
+      "url": "https://www.zhihu.com/question/1971822160084439834",
+      "hot_value": "95 万热度",
+      "index": 12
+    },
+    {
+      "title": "辅导作业时「一点就炸」，这种从耐心到暴怒的情绪失控，是孩子的行为触发的，还是成年人自身情绪管理的问题？",
+      "url": "https://www.zhihu.com/question/2050216374887306081",
+      "hot_value": "93 万热度",
+      "index": 13
+    },
+    {
+      "title": "2627 赛季 NBA 杯小组赛西部 C 组开拓者 120:107 国王，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2104894498987849283",
+      "hot_value": "86 万热度",
+      "index": 14
+    },
+    {
+      "title": "职场上，私人微信发朋友圈，屏蔽领导是否合适？",
+      "url": "https://www.zhihu.com/question/2101586161646957078",
+      "hot_value": "69 万热度",
+      "index": 15
+    },
+    {
+      "title": "2026 年的 iG 还可能保持原班底再来一年吗？",
+      "url": "https://www.zhihu.com/question/2102685936441980307",
+      "hot_value": "64 万热度",
+      "index": 16
+    },
+    {
+      "title": "为什么古人说吃亏是福？",
+      "url": "https://www.zhihu.com/question/2075000063135314826",
+      "hot_value": "62 万热度",
+      "index": 17
+    },
+    {
+      "title": "闻着香吃着却不甜的街边烤红薯，真的是用香精浸泡过的吗？这是什么原理？可以如何辨别？",
+      "url": "https://www.zhihu.com/question/2100400144176919959",
+      "hot_value": "59 万热度",
+      "index": 18
+    },
+    {
+      "title": "上班时才知道昨天同事聚餐了，但是没有叫我，是什么情况？",
+      "url": "https://www.zhihu.com/question/1911047418709022710",
+      "hot_value": "58 万热度",
+      "index": 19
+    },
+    {
+      "title": "鸟山明故居与工作室被曝已开始拆除，是否应作为纪念设施保留？",
+      "url": "https://www.zhihu.com/question/2099668207401550119",
+      "hot_value": "58 万热度",
       "index": 20
     },
     {
-      "title": "辞职后的黄仁勋会干什么？会继续创业吗？最好的出路是什么？",
-      "url": "https://www.zhihu.com/question/2104337801059595148",
-      "hot_value": "151 万热度",
+      "title": "赵本山主演喜剧《走马上任》口碑如何？有哪些亮点与不足？",
+      "url": "https://www.zhihu.com/question/2100641649147778273",
+      "hot_value": "58 万热度",
       "index": 21
     },
     {
-      "title": "国际金价再度跌破 3900 美元，创近 13 个月来新低，2027 年黄金是走向 3000 点还是重回大牛市？",
-      "url": "https://www.zhihu.com/question/2104503233062487324",
-      "hot_value": "146 万热度",
+      "title": "为什么国内止痛药普遍使用布洛芬而不是阿司匹林？",
+      "url": "https://www.zhihu.com/question/316552162",
+      "hot_value": "58 万热度",
       "index": 22
     },
     {
-      "title": "阿里巴巴公告拟分拆平头哥赴港独立上市，已于 9 月 11 日秘密递交上市申请，怎样解读这一动作？上市前景如何？",
-      "url": "https://www.zhihu.com/question/2103593134626009683",
-      "hot_value": "142 万热度",
+      "title": "红薯可以做成什么美食？",
+      "url": "https://www.zhihu.com/question/643298343",
+      "hot_value": "58 万热度",
       "index": 23
     },
     {
-      "title": "为什么现在的很多工厂难招人，真的是工人的原因吗？",
-      "url": "https://www.zhihu.com/question/2082301855573586411",
-      "hot_value": "129 万热度",
+      "title": "2026 年 10 月央行公布金融数据，前 10 月住户贷款大降 1.46 万亿说明了什么？",
+      "url": "https://www.zhihu.com/question/2104665840050356464",
+      "hot_value": "58 万热度",
       "index": 24
     },
     {
-      "title": "河南高校通报「教师赵某彦被举报性骚扰女生」，赵某彦予以开除，并报请撤销其教师资格，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2104690670124233636",
-      "hot_value": "117 万热度",
+      "title": "有哪些本地人常吃，但游客很少知道的美食？",
+      "url": "https://www.zhihu.com/question/2103145415696818763",
+      "hot_value": "58 万热度",
       "index": 25
     },
     {
-      "title": "为什么楚国被攻下首都和陪都后还能存活五十余年？",
-      "url": "https://www.zhihu.com/question/408295051",
-      "hot_value": "115 万热度",
+      "title": "现在的电视剧为何难以让人产生追剧冲动？",
+      "url": "https://www.zhihu.com/question/2065000842206384673",
+      "hot_value": "58 万热度",
       "index": 26
     },
     {
-      "title": "赵本山主演喜剧《走马上任》开播，该剧口碑如何，有哪些亮点与不足？",
-      "url": "https://www.zhihu.com/question/2100641649147778273",
-      "hot_value": "112 万热度",
+      "title": "为什么在香港旅游时，觉得城市很旧但是莫名的高级？",
+      "url": "https://www.zhihu.com/question/638919020",
+      "hot_value": "58 万热度",
       "index": 27
     },
     {
-      "title": "假如你是尼古拉二世，在 1910 年时你会开始采取什么措施让俄国在之后的一战中取胜？",
-      "url": "https://www.zhihu.com/question/14778203800",
-      "hot_value": "111 万热度",
+      "title": "现在全民进入纯过日子时代，请问有什么省钱小方法？",
+      "url": "https://www.zhihu.com/question/2099909869750974058",
+      "hot_value": "57 万热度",
       "index": 28
     },
     {
-      "title": "如何评价清华大学 2026 年本科生特等奖学金的 15 名候选人？",
-      "url": "https://www.zhihu.com/question/2103811077255579353",
-      "hot_value": "111 万热度",
+      "title": "芹菜叶的神仙吃法，你知道几款?",
+      "url": "https://www.zhihu.com/question/1950476207519933457",
+      "hot_value": "57 万热度",
       "index": 29
     },
     {
-      "title": "如何评价电影《珠穆朗玛：云中彼岸》？",
-      "url": "https://www.zhihu.com/question/2101827027674448485",
-      "hot_value": "87 万热度",
+      "title": "员工使用化名上班，离职索赔被拒并称用假名字是欺诈，法院判决不构成欺诈，依据是什么？化名具有法律效应吗？",
+      "url": "https://www.zhihu.com/question/2103462019873649819",
+      "hot_value": "57 万热度",
       "index": 30
     }
   ]
