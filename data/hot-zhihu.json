@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-14T00:07:18Z",
+  "update_time": "2026-11-14T06:50:38Z",
   "count": 30,
   "list": [
     {
-      "title": "多地高中严格执行周末双休、厅长公开表示对学生太累深感愧疚，江苏教育这次突然的大动作是何原因？",
-      "url": "https://www.zhihu.com/question/2104242893716309866",
-      "hot_value": "734 万热度",
+      "title": "美国因出现特殊情况及安全原因，所有航班一度暂停起飞，目前停飞令已解除，具体情况如何？造成影响有多大？",
+      "url": "https://www.zhihu.com/question/2104838863910690956",
+      "hot_value": "3764 万热度",
       "index": 1
     },
     {
-      "title": "如何评价清华大学 2026 年本科生特等奖学金的 15 名候选人？",
-      "url": "https://www.zhihu.com/question/2103811077255579353",
-      "hot_value": "298 万热度",
+      "title": "多地高中严格执行周末双休、厅长公开表示对学生太累深感愧疚，江苏教育这次突然的大动作是何原因？",
+      "url": "https://www.zhihu.com/question/2104242893716309866",
+      "hot_value": "3198 万热度",
       "index": 2
+    },
+    {
+      "title": "《给阿嬷的情书》获金鸡奖最佳编剧时无人响应，《密档》获金鸡奖最佳导演时掌声一片，你怎么看？",
+      "url": "https://www.zhihu.com/question/2104243850030204763",
+      "hot_value": "777 万热度",
+      "index": 3
+    },
+    {
+      "title": "怎么看 DeepSeek 发布全家桶 API，这个价格你接受吗？",
+      "url": "https://www.zhihu.com/question/2104704747362054197",
+      "hot_value": "507 万热度",
+      "index": 4
+    },
+    {
+      "title": "马化腾曾坦言腾讯 AI「上了船才发现船漏水」，如今又把员工分成陆军和海军，这释放了什么信号？",
+      "url": "https://www.zhihu.com/question/2104265147606889514",
+      "hot_value": "461 万热度",
+      "index": 5
+    },
+    {
+      "title": "南京「零元面馆」爆火后被质疑影响周边商家，创始人称如周围有餐饮商家因此受损愿出钱补偿，如何看待此回应？",
+      "url": "https://www.zhihu.com/question/2104599557053081171",
+      "hot_value": "461 万热度",
+      "index": 6
+    },
+    {
+      "title": "蜀汉政权为什么没有产生篡国的权臣？是刘禅大智若愚吗？",
+      "url": "https://www.zhihu.com/question/1916994647198242605",
+      "hot_value": "435 万热度",
+      "index": 7
     },
     {
       "title": "如何评价 11 月 13 日上市的问界新 M8，售价 37.98 万元起，这一价格在如今的市场有竞争力嘛？",
       "url": "https://www.zhihu.com/question/2104607471683817591",
-      "hot_value": "234 万热度",
-      "index": 3
+      "hot_value": "409 万热度",
+      "index": 8
     },
     {
-      "title": "林黛玉吃五香大头菜是败笔吗？",
-      "url": "https://www.zhihu.com/question/316245001",
-      "hot_value": "225 万热度",
-      "index": 4
+      "title": "有可以单独猎杀体重大于自身数倍甚至十数倍的动物吗？",
+      "url": "https://www.zhihu.com/question/1937762657991103722",
+      "hot_value": "388 万热度",
+      "index": 9
     },
     {
       "title": "为什么国内止痛药普遍使用布洛芬而不是阿司匹林？",
       "url": "https://www.zhihu.com/question/316552162",
-      "hot_value": "216 万热度",
-      "index": 5
+      "hot_value": "377 万热度",
+      "index": 10
+    },
+    {
+      "title": "英伟达临时 CEO 被曝是制衡黄仁勋的重要力量，是唯一一位给 AI 投资唱反调的人，她会给英伟达带来哪些变化？",
+      "url": "https://www.zhihu.com/question/2104902252003423010",
+      "hot_value": "371 万热度",
+      "index": 11
     },
     {
       "title": "于东来称胖东来将就洗发水争议出调研报告，消费者该关注哪些信息？",
       "url": "https://www.zhihu.com/question/2104692031402647745",
-      "hot_value": "198 万热度",
-      "index": 6
+      "hot_value": "366 万热度",
+      "index": 12
     },
     {
-      "title": "重庆通报「帮连吃 7 碗米饭母女放钱」视频系摆拍已立案，这类虚假摆拍该承担哪些法律责任？",
-      "url": "https://www.zhihu.com/question/2104310469767054805",
-      "hot_value": "132 万热度",
-      "index": 7
+      "title": "如何看待《后会友期》中文吉儿一句「顺我一下」，最终让所有人等到晚上 9 点才吃上饭这件事？",
+      "url": "https://www.zhihu.com/question/2104536364930937665",
+      "hot_value": "281 万热度",
+      "index": 13
+    },
+    {
+      "title": "都说 AI 提效，为什么打工人反而更累了？",
+      "url": "https://www.zhihu.com/question/2074136077611298927",
+      "hot_value": "271 万热度",
+      "index": 14
+    },
+    {
+      "title": "鸟山明故居与工作室被曝已开始拆除，是否应作为纪念设施保留？",
+      "url": "https://www.zhihu.com/question/2099668207401550119",
+      "hot_value": "262 万热度",
+      "index": 15
+    },
+    {
+      "title": "黄仁勋还能重返英伟达吗？",
+      "url": "https://www.zhihu.com/question/2104521888450064574",
+      "hot_value": "238 万热度",
+      "index": 16
+    },
+    {
+      "title": "林黛玉吃五香大头菜是败笔吗？",
+      "url": "https://www.zhihu.com/question/316245001",
+      "hot_value": "215 万热度",
+      "index": 17
+    },
+    {
+      "title": "AI 短剧《梦回红楼》被指侵害 17 位演员肖像，还魔改出林黛玉掌掴薛宝钗等情节，制作方要承担哪些法律责任？",
+      "url": "https://www.zhihu.com/question/2104307708622889582",
+      "hot_value": "169 万热度",
+      "index": 18
+    },
+    {
+      "title": "SpaceX 星舰第 15 次试飞发射升空，助推器回收失败改为海上溅落，飞船继续执行飞行任务，目前进展如何？",
+      "url": "https://www.zhihu.com/question/2103048368494793787",
+      "hot_value": "161 万热度",
+      "index": 19
+    },
+    {
+      "title": "2026S16 半决赛 Faker 输给 BLG，为何依然获得 LPL 普遍尊重？",
+      "url": "https://www.zhihu.com/question/2104284591246911279",
+      "hot_value": "161 万热度",
+      "index": 20
+    },
+    {
+      "title": "辞职后的黄仁勋会干什么？会继续创业吗？最好的出路是什么？",
+      "url": "https://www.zhihu.com/question/2104337801059595148",
+      "hot_value": "151 万热度",
+      "index": 21
+    },
+    {
+      "title": "国际金价再度跌破 3900 美元，创近 13 个月来新低，2027 年黄金是走向 3000 点还是重回大牛市？",
+      "url": "https://www.zhihu.com/question/2104503233062487324",
+      "hot_value": "146 万热度",
+      "index": 22
     },
     {
       "title": "阿里巴巴公告拟分拆平头哥赴港独立上市，已于 9 月 11 日秘密递交上市申请，怎样解读这一动作？上市前景如何？",
       "url": "https://www.zhihu.com/question/2103593134626009683",
-      "hot_value": "115 万热度",
-      "index": 8
-    },
-    {
-      "title": "为什么楚国被攻下首都和陪都后还能存活五十余年？",
-      "url": "https://www.zhihu.com/question/408295051",
-      "hot_value": "106 万热度",
-      "index": 9
-    },
-    {
-      "title": "中青赛决赛浙江 VS 上海申花发生恶性球场暴力，球员打球童，有球迷受伤，现场发生了什么？",
-      "url": "https://www.zhihu.com/question/2104134110008628047",
-      "hot_value": "98 万热度",
-      "index": 10
-    },
-    {
-      "title": "明明跟梁家辉一起演的《捕风追影》，戏份也不少，为啥成龙没有奖项提名？",
-      "url": "https://www.zhihu.com/question/2103623242048956167",
-      "hot_value": "96 万热度",
-      "index": 11
-    },
-    {
-      "title": "何超琼称「不是让一百个人来澳门一次，而是希望一个人来一百次」，如何看待这一旅游发展理念？",
-      "url": "https://www.zhihu.com/question/2095459699088962414",
-      "hot_value": "93 万热度",
-      "index": 12
+      "hot_value": "142 万热度",
+      "index": 23
     },
     {
       "title": "为什么现在的很多工厂难招人，真的是工人的原因吗？",
       "url": "https://www.zhihu.com/question/2082301855573586411",
-      "hot_value": "90 万热度",
-      "index": 13
-    },
-    {
-      "title": "Ruler 或 Viper 如果此次 S16 夺冠，其历史地位是否会超过 Bang？",
-      "url": "https://www.zhihu.com/question/2103777254467692186",
-      "hot_value": "87 万热度",
-      "index": 14
-    },
-    {
-      "title": "黄仁勋辞职后，英伟达最难交接的究竟是什么？",
-      "url": "https://www.zhihu.com/question/2104348683575587747",
-      "hot_value": "82 万热度",
-      "index": 15
-    },
-    {
-      "title": "前字节美团招聘负责人称「给大模型人才开 1 亿年薪不贵」如何看待此观点？给大模型人才开上亿年薪，算天价吗？",
-      "url": "https://www.zhihu.com/question/2104296182344426925",
-      "hot_value": "77 万热度",
-      "index": 16
-    },
-    {
-      "title": "为什么刘欢在死亡证明上的死因是「感染性休克」而非「膀胱癌」呢？",
-      "url": "https://www.zhihu.com/question/2104342767946176181",
-      "hot_value": "73 万热度",
-      "index": 17
-    },
-    {
-      "title": "你还记得第一次自己下厨的那天吗？当时为什么决定自己做饭，做出了怎样的一餐？",
-      "url": "https://www.zhihu.com/question/2104545207102584756",
-      "hot_value": "69 万热度",
-      "index": 18
-    },
-    {
-      "title": "高架上汽车撞上风筝线，车顶、雷达等多处被割坏，为什么一根线能有这么大威力？遇到这种情况该怎么办？",
-      "url": "https://www.zhihu.com/question/2104171958761777093",
-      "hot_value": "59 万热度",
-      "index": 19
-    },
-    {
-      "title": "国铁规定 Z 字头列车不再读「直」改用英文字母发音，如何看待这种转变？",
-      "url": "https://www.zhihu.com/question/2103584365720744278",
-      "hot_value": "59 万热度",
-      "index": 20
-    },
-    {
-      "title": "金价再度跌破 3900 美元，这轮调整的底部区间大概在哪里？当前位置的中长期配置性价比如何？",
-      "url": "https://www.zhihu.com/question/2104485675286389874",
-      "hot_value": "59 万热度",
-      "index": 21
-    },
-    {
-      "title": "如何看待央视足球之夜为成都蓉城做的专题片《梦的溃败》？",
-      "url": "https://www.zhihu.com/question/2104542523745989474",
-      "hot_value": "59 万热度",
-      "index": 22
-    },
-    {
-      "title": "黄仁勋算是美国中期选举的牺牲品吗？为什么偏偏是他？",
-      "url": "https://www.zhihu.com/question/2104350711869698691",
-      "hot_value": "58 万热度",
-      "index": 23
-    },
-    {
-      "title": "人一定要有一份「稳定」的工作才算好吗？",
-      "url": "https://www.zhihu.com/question/2095624907342325561",
-      "hot_value": "58 万热度",
+      "hot_value": "129 万热度",
       "index": 24
     },
     {
-      "title": "假如你有一天醒来，发现穿越成了《哈利波特》中的汤姆里德尔，你该怎么生存下去？",
-      "url": "https://www.zhihu.com/question/521896424",
-      "hot_value": "58 万热度",
+      "title": "河南高校通报「教师赵某彦被举报性骚扰女生」，赵某彦予以开除，并报请撤销其教师资格，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2104690670124233636",
+      "hot_value": "117 万热度",
       "index": 25
     },
     {
-      "title": "房子已经过剩，为什么一直还在新盖楼盘？",
-      "url": "https://www.zhihu.com/question/2075640740537963785",
-      "hot_value": "58 万热度",
+      "title": "为什么楚国被攻下首都和陪都后还能存活五十余年？",
+      "url": "https://www.zhihu.com/question/408295051",
+      "hot_value": "115 万热度",
       "index": 26
     },
     {
-      "title": "前两年平价牛肉餐饮疯狂开店，现如今牛肉价格涨幅已达 27%，牛肉为何吃不起了？",
-      "url": "https://www.zhihu.com/question/2103784826771862921",
-      "hot_value": "58 万热度",
+      "title": "赵本山主演喜剧《走马上任》开播，该剧口碑如何，有哪些亮点与不足？",
+      "url": "https://www.zhihu.com/question/2100641649147778273",
+      "hot_value": "112 万热度",
       "index": 27
     },
     {
-      "title": "现在全民进入纯过日子时代，请问有什么省钱小方法？",
-      "url": "https://www.zhihu.com/question/2099909869750974058",
-      "hot_value": "58 万热度",
+      "title": "假如你是尼古拉二世，在 1910 年时你会开始采取什么措施让俄国在之后的一战中取胜？",
+      "url": "https://www.zhihu.com/question/14778203800",
+      "hot_value": "111 万热度",
       "index": 28
     },
     {
-      "title": "为什么在香港旅游时，觉得城市很旧但是莫名的高级？",
-      "url": "https://www.zhihu.com/question/638919020",
-      "hot_value": "58 万热度",
+      "title": "如何评价清华大学 2026 年本科生特等奖学金的 15 名候选人？",
+      "url": "https://www.zhihu.com/question/2103811077255579353",
+      "hot_value": "111 万热度",
       "index": 29
     },
     {
-      "title": "显示器从 60Hz 升级到 165Hz 后，日常使用感觉没差别，高刷新率具体体现在哪里？",
-      "url": "https://www.zhihu.com/question/2093395050088735199",
-      "hot_value": "58 万热度",
+      "title": "如何评价电影《珠穆朗玛：云中彼岸》？",
+      "url": "https://www.zhihu.com/question/2101827027674448485",
+      "hot_value": "87 万热度",
       "index": 30
     }
   ]
