@@ -1,187 +1,187 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-15T02:20:58Z",
+  "update_time": "2026-11-15T09:43:04Z",
   "count": 30,
   "list": [
     {
       "title": "S16 总决赛 BLG 3:1 击败 GEN，中国战队时隔 5 年再夺总冠军，如何评价这场比赛？",
       "url": "https://www.zhihu.com/question/2105016991765509602",
-      "hot_value": "5438 万热度",
+      "hot_value": "2915 万热度",
       "index": 1
     },
     {
       "title": "Knight 获得 S16 总决赛 FMVP，成为继田野后 LPL 第二位大满贯，对此你有什么想说的？",
       "url": "https://www.zhihu.com/question/2105214731573096596",
-      "hot_value": "721 万热度",
+      "hot_value": "2175 万热度",
       "index": 2
     },
     {
       "title": "如何看待王传君谈《爱情公寓》言论争议，称当年脑子里只有「关我屁事」和「关你屁事」，现在为冲动买单？",
       "url": "https://www.zhihu.com/question/2103430981067846812",
-      "hot_value": "431 万热度",
+      "hot_value": "1056 万热度",
       "index": 3
-    },
-    {
-      "title": "《影之刃零》沐小葵建模获海外好评，如何看待东西方游戏女性角色审美的差异？",
-      "url": "https://www.zhihu.com/question/2101953371276064259",
-      "hot_value": "186 万热度",
-      "index": 4
-    },
-    {
-      "title": "如何评价 S16 最终决战 Chovy 又「同意」了？",
-      "url": "https://www.zhihu.com/question/2105206197666015097",
-      "hot_value": "183 万热度",
-      "index": 5
     },
     {
       "title": "男子失业后断供房贷靠跑外卖维生，法院判决非恶意断供，涉案房系唯一住所暂不拍卖房产，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2104510599564636472",
-      "hot_value": "181 万热度",
+      "hot_value": "733 万热度",
+      "index": 4
+    },
+    {
+      "title": "GEN 总决赛不敌 BLG 止步亚军，这场比赛他们输在哪？",
+      "url": "https://www.zhihu.com/question/2105209509492822064",
+      "hot_value": "509 万热度",
+      "index": 5
+    },
+    {
+      "title": "BLG 单刷 LCK 赛区四支战队夺冠，这是不是迄今为止最具含金量的冠军？",
+      "url": "https://www.zhihu.com/question/2105210095055459716",
+      "hot_value": "349 万热度",
       "index": 6
     },
     {
-      "title": "台式电脑送人，留下了硬盘，想彻底清除硬盘信息，2个简单方法：用脏水泡，用锤子砸，可靠吗？",
-      "url": "https://www.zhihu.com/question/8693825512",
-      "hot_value": "179 万热度",
+      "title": "奔驰司机以车辆没油为由向路人借钱，收钱后便失联，涉事者将承担哪些责任？遇到类似求助该如何辨别真假？",
+      "url": "https://www.zhihu.com/question/2104966310362879741",
+      "hot_value": "193 万热度",
       "index": 7
     },
     {
-      "title": "董明珠称格力逐步取消文凭考量，本事是硬通行证，格力技校学费 9000 元起，但格力每年补贴 1 亿，如何解读？",
-      "url": "https://www.zhihu.com/question/2104981734446065518",
-      "hot_value": "173 万热度",
+      "title": "外媒曝中国男足再度收紧纹身限制，国脚需佩戴肤色护臂遮盖，对此你怎么看，国家队限制纹身外露是否合理？",
+      "url": "https://www.zhihu.com/question/2104152081246282219",
+      "hot_value": "190 万热度",
       "index": 8
     },
     {
-      "title": "啄木鸟平台屡被曝「小病大修」，为何此类问题屡禁不止？师傅称平台考核严苛，平台经营模式是否助长过度维修？",
-      "url": "https://www.zhihu.com/question/2104979927967561349",
-      "hot_value": "142 万热度",
+      "title": "HR 要求求职者面试时帮忙带咖啡，被拒后取消面试，平台已暂停该招聘账号权限，暴露了背后哪些问题？",
+      "url": "https://www.zhihu.com/question/2104925918871529406",
+      "hot_value": "187 万热度",
       "index": 9
     },
     {
       "title": "遗传角度来看，孙子是和爷爷奶奶血缘更近，还是和外公外婆？",
       "url": "https://www.zhihu.com/question/307479952",
-      "hot_value": "137 万热度",
+      "hot_value": "185 万热度",
       "index": 10
+    },
+    {
+      "title": "Bin 夺得全球总决赛冠军泪洒现场，如何评价他的一路历程？今天的表现他当得起世一上吗？",
+      "url": "https://www.zhihu.com/question/2105212045453018566",
+      "hot_value": "184 万热度",
+      "index": 11
     },
     {
       "title": "乌克兰一夜向俄罗斯发射近 1200 架无人机，创下冲突以来最大规模袭击之一，释放了什么信号？",
       "url": "https://www.zhihu.com/question/2104984568293848683",
-      "hot_value": "134 万热度",
-      "index": 11
+      "hot_value": "184 万热度",
+      "index": 12
+    },
+    {
+      "title": "Windows 系统相比 macOS 系统，真的卡的要死，Windows 明知它的致命短板，为何一直都不解决？",
+      "url": "https://www.zhihu.com/question/2103555144390653684",
+      "hot_value": "183 万热度",
+      "index": 13
+    },
+    {
+      "title": "怎么看崔添翼在 DeepSeek 发布全家桶 API 后说，下一个超级 App 只属于个人的超级 App？",
+      "url": "https://www.zhihu.com/question/2104936968568190204",
+      "hot_value": "159 万热度",
+      "index": 14
+    },
+    {
+      "title": "台式电脑送人，留下了硬盘，想彻底清除硬盘信息，2个简单方法，用脏水泡、用锤子砸，可靠吗？",
+      "url": "https://www.zhihu.com/question/8693825512",
+      "hot_value": "156 万热度",
+      "index": 15
+    },
+    {
+      "title": "如何评价 S16 最终决战 Chovy 又「同意」了？",
+      "url": "https://www.zhihu.com/question/2105206197666015097",
+      "hot_value": "152 万热度",
+      "index": 16
+    },
+    {
+      "title": "风清扬、任我行为什么看出来岳不群是伪君子，宁中则反而没看出来？",
+      "url": "https://www.zhihu.com/question/2038228267216401599",
+      "hot_value": "148 万热度",
+      "index": 17
+    },
+    {
+      "title": "如何评价赵本山在《走马上任》原声演唱的推广曲《慌啥子嘛》？",
+      "url": "https://www.zhihu.com/question/2104898849722602172",
+      "hot_value": "140 万热度",
+      "index": 18
+    },
+    {
+      "title": "Daney 成为历史第一位双赛区全球总决赛冠军教练，如何评价他在 S16 总决赛的 BP 水平？",
+      "url": "https://www.zhihu.com/question/2105217723886035275",
+      "hot_value": "131 万热度",
+      "index": 19
+    },
+    {
+      "title": "「保姆纵火案」当事人林生斌否认携现任妻子定居悉尼富人区，晒报警回执称一直在杭州，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2104264379063428416",
+      "hot_value": "128 万热度",
+      "index": 20
     },
     {
       "title": "如何看待国家卫健委明确：明年 3 月 16 日起，食品包装禁止使用「零添加」「不添加」等用语？",
       "url": "https://www.zhihu.com/question/2104894785022604238",
-      "hot_value": "132 万热度",
-      "index": 12
+      "hot_value": "117 万热度",
+      "index": 21
     },
     {
-      "title": "于东来称胖东来的经营永远不会完美，不要因认知差异而过度争执，时间会给出最好的答案，如何看待这一表态？",
-      "url": "https://www.zhihu.com/question/2105024486391166399",
-      "hot_value": "126 万热度",
-      "index": 13
+      "title": "iPhoneDuo 经 45.7 万次折叠后屏幕完好铰链松动，测试结果说明了啥？能在多大程度上反映手机寿命？",
+      "url": "https://www.zhihu.com/question/2104970594072490759",
+      "hot_value": "93 万热度",
+      "index": 22
     },
     {
-      "title": "郑大圣凭借《密档》拿下金鸡最佳导演，这片子怎么样？实至名归吗？",
-      "url": "https://www.zhihu.com/question/2103793273244598882",
-      "hot_value": "112 万热度",
-      "index": 14
+      "title": "工作中总被要求「情绪稳定」，是不是在要求员工压抑真实感受？",
+      "url": "https://www.zhihu.com/question/2094039702986933819",
+      "hot_value": "72 万热度",
+      "index": 23
     },
     {
-      "title": "奔驰司机以车辆没油为由向路人借钱，收钱后便失联，涉事者将承担哪些责任？遇到类似求助该如何辨别真假？",
-      "url": "https://www.zhihu.com/question/2104966310362879741",
-      "hot_value": "84 万热度",
-      "index": 15
-    },
-    {
-      "title": "比特币一度跌破 6.8 万美元创 8 月以来新低，如何看待当下行情？比特币是否彻底变成顺周期高风险资产了？",
-      "url": "https://www.zhihu.com/question/2104604454595072841",
-      "hot_value": "82 万热度",
-      "index": 16
+      "title": "脚底走多了会长茧，皮肤怎么知道哪里需要变厚？",
+      "url": "https://www.zhihu.com/question/2100460112532058570",
+      "hot_value": "70 万热度",
+      "index": 24
     },
     {
       "title": "为什么年轻人越来越把友情当回事，很怕失去自己亲密的朋友？",
       "url": "https://www.zhihu.com/question/2101633736978559614",
-      "hot_value": "79 万热度",
-      "index": 17
-    },
-    {
-      "title": "黄仁勋辞职前为何频频说「随便」「我不在乎」？一家万亿美元科技巨头的掌舵人究竟经历了什么？",
-      "url": "https://www.zhihu.com/question/2104599978198963431",
-      "hot_value": "76 万热度",
-      "index": 18
-    },
-    {
-      "title": "凡人修仙传动漫 200 集观众满意吗？",
-      "url": "https://www.zhihu.com/question/2102925191101919274",
-      "hot_value": "74 万热度",
-      "index": 19
-    },
-    {
-      "title": "因果关系的本质是什么？",
-      "url": "https://www.zhihu.com/question/270039884",
-      "hot_value": "66 万热度",
-      "index": 20
-    },
-    {
-      "title": "赵本山主演喜剧《走马上任》口碑如何？有哪些亮点与不足？",
-      "url": "https://www.zhihu.com/question/2100641649147778273",
-      "hot_value": "65 万热度",
-      "index": 21
-    },
-    {
-      "title": "黄仁勋为何要单独聘请 Paul Weiss？是否意味着这场风波已经超出公司治理问题的范畴？",
-      "url": "https://www.zhihu.com/question/2104510750513260072",
-      "hot_value": "63 万热度",
-      "index": 22
-    },
-    {
-      "title": "《后会友期》里谁演的成分比较大？",
-      "url": "https://www.zhihu.com/question/2101346539826427020",
-      "hot_value": "60 万热度",
-      "index": 23
-    },
-    {
-      "title": "2026 年 10 月央行公布金融数据，前 10 月住户贷款大降 1.46 万亿说明了什么？",
-      "url": "https://www.zhihu.com/question/2104665840050356464",
-      "hot_value": "59 万热度",
-      "index": 24
-    },
-    {
-      "title": "量子力学中为什么会出现这种 1=0 的悖论?",
-      "url": "https://www.zhihu.com/question/5913805233",
-      "hot_value": "59 万热度",
+      "hot_value": "69 万热度",
       "index": 25
+    },
+    {
+      "title": "你起早做好了早餐，孩子却不想吃，你允许他去外面买他爱吃的吗？",
+      "url": "https://www.zhihu.com/question/2078761078612289395",
+      "hot_value": "68 万热度",
+      "index": 26
+    },
+    {
+      "title": "2026 赛季中超后四轮，成都蓉城队如果场场用大巴阵，追求 0：0 的话，能不能夺冠？",
+      "url": "https://www.zhihu.com/question/2103109630926837692",
+      "hot_value": "64 万热度",
+      "index": 27
     },
     {
       "title": "闻着香吃着却不甜的街边烤红薯，真的是用香精浸泡过的吗？这是什么原理？可以如何辨别？",
       "url": "https://www.zhihu.com/question/2100400144176919959",
-      "hot_value": "59 万热度",
-      "index": 26
+      "hot_value": "58 万热度",
+      "index": 28
     },
     {
       "title": "《持械入宋》制片人称算力投入超百万且没投流，团队每部短剧都盈利，怎样看待这一高收益性？哪些思路能借鉴？",
       "url": "https://www.zhihu.com/question/2104167693242691717",
-      "hot_value": "59 万热度",
-      "index": 27
-    },
-    {
-      "title": "圆周率中可能存在 100 万个连续的 0 吗？",
-      "url": "https://www.zhihu.com/question/2049344893462565510",
-      "hot_value": "59 万热度",
-      "index": 28
-    },
-    {
-      "title": "多地网约车司机称被特惠车、一口价订单逼「疯」，不开特惠单就变少，怎样才能让乘客打车实惠、司机有单可接？",
-      "url": "https://www.zhihu.com/question/2104661988609614131",
-      "hot_value": "57 万热度",
+      "hot_value": "58 万热度",
       "index": 29
     },
     {
-      "title": "做人，一定要坚持以德服人吗？",
-      "url": "https://www.zhihu.com/question/2101437894816810387",
-      "hot_value": "56 万热度",
+      "title": "现在河水普遍感觉比小时候小多了，跟种树多有关吗？",
+      "url": "https://www.zhihu.com/question/1934929915402232124",
+      "hot_value": "58 万热度",
       "index": 30
     }
   ]
