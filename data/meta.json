@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-11-15T09:43:04Z",
+  "update_time": "2026-11-15T16:45:39Z",
   "platforms": [
     {
       "type": "weibo",
       "name": "weibo热搜",
-      "count": 30
+      "count": 20
     },
     {
       "type": "zhihu",
       "name": "知乎热榜",
-      "count": 30
+      "count": 20
     },
     {
       "type": "douyin",
@@ -39,7 +39,7 @@
     {
       "type": "toutiao",
       "name": "今日头条",
-      "count": 30
+      "count": 20
     },
     {
       "type": "thepaper",

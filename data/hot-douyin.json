@@ -1,187 +1,187 @@
 {
   "platform": "douyin",
   "name": "抖音热搜",
-  "update_time": "2026-11-15T09:43:04Z",
+  "update_time": "2026-11-15T16:45:39Z",
   "count": 30,
   "list": [
     {
       "title": "BLG夺冠",
       "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0?type=general",
-      "hot_value": "11971493",
+      "hot_value": "11073869",
       "index": 1
-    },
-    {
-      "title": "Knight夺得FMVP",
-      "url": "https://www.douyin.com/search/Knight%E5%A4%BA%E5%BE%97FMVP?type=general",
-      "hot_value": "11585656",
-      "index": 2
-    },
-    {
-      "title": "一组先行指标看中国经济活力",
-      "url": "https://www.douyin.com/search/%E4%B8%80%E7%BB%84%E5%85%88%E8%A1%8C%E6%8C%87%E6%A0%87%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B?type=general",
-      "hot_value": "11182577",
-      "index": 3
-    },
-    {
-      "title": "BLG 3:1 GEN",
-      "url": "https://www.douyin.com/search/BLG%203%3A1%20GEN?type=general",
-      "hot_value": "10881335",
-      "index": 4
     },
     {
       "title": "葡萄牙不敌丹麦终结四连胜",
       "url": "https://www.douyin.com/search/%E8%91%A1%E8%90%84%E7%89%99%E4%B8%8D%E6%95%8C%E4%B8%B9%E9%BA%A6%E7%BB%88%E7%BB%93%E5%9B%9B%E8%BF%9E%E8%83%9C?type=general",
-      "hot_value": "10148154",
-      "index": 5
+      "hot_value": "11030455",
+      "index": 2
     },
     {
-      "title": "北京WB夺得KPL年总冠军",
-      "url": "https://www.douyin.com/search/%E5%8C%97%E4%BA%ACWB%E5%A4%BA%E5%BE%97KPL%E5%B9%B4%E6%80%BB%E5%86%A0%E5%86%9B?type=general",
-      "hot_value": "10080499",
-      "index": 6
+      "title": "4分钟读懂APEC",
+      "url": "https://www.douyin.com/search/4%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC?type=general",
+      "hot_value": "10845697",
+      "index": 3
     },
     {
       "title": "罗圈村千年银杏树进入最佳观赏期",
       "url": "https://www.douyin.com/search/%E7%BD%97%E5%9C%88%E6%9D%91%E5%8D%83%E5%B9%B4%E9%93%B6%E6%9D%8F%E6%A0%91%E8%BF%9B%E5%85%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F?type=general",
-      "hot_value": "8900991",
+      "hot_value": "10808547",
+      "index": 4
+    },
+    {
+      "title": "新闻联播",
+      "url": "https://www.douyin.com/search/%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD?type=general",
+      "hot_value": "10060073",
+      "index": 5
+    },
+    {
+      "title": "灵山审美已经next level了",
+      "url": "https://www.douyin.com/search/%E7%81%B5%E5%B1%B1%E5%AE%A1%E7%BE%8E%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86?type=general",
+      "hot_value": "10040432",
+      "index": 6
+    },
+    {
+      "title": "在白帝城看到了齐天大圣",
+      "url": "https://www.douyin.com/search/%E5%9C%A8%E7%99%BD%E5%B8%9D%E5%9F%8E%E7%9C%8B%E5%88%B0%E4%BA%86%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3?type=general",
+      "hot_value": "8707691",
       "index": 7
     },
     {
-      "title": "Bin夺冠后晒与奖杯合影",
-      "url": "https://www.douyin.com/search/Bin%E5%A4%BA%E5%86%A0%E5%90%8E%E6%99%92%E4%B8%8E%E5%A5%96%E6%9D%AF%E5%90%88%E5%BD%B1?type=general",
-      "hot_value": "8504211",
+      "title": "369晒Knight合照祝贺BLG夺冠",
+      "url": "https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0?type=general",
+      "hot_value": "8611390",
       "index": 8
     },
     {
-      "title": "温柔白月光冬季穿搭",
-      "url": "https://www.douyin.com/search/%E6%B8%A9%E6%9F%94%E7%99%BD%E6%9C%88%E5%85%89%E5%86%AC%E5%AD%A3%E7%A9%BF%E6%90%AD?type=general",
-      "hot_value": "8255201",
+      "title": "Bin就是世一上",
+      "url": "https://www.douyin.com/search/Bin%E5%B0%B1%E6%98%AF%E4%B8%96%E4%B8%80%E4%B8%8A?type=general",
+      "hot_value": "8346399",
       "index": 9
     },
     {
-      "title": "BLG夺冠了你们知道吗",
-      "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E4%BA%86%E4%BD%A0%E4%BB%AC%E7%9F%A5%E9%81%93%E5%90%97?type=general",
-      "hot_value": "7817781",
+      "title": "中国古诗中的又一村成了他的家",
+      "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E8%AF%97%E4%B8%AD%E7%9A%84%E5%8F%88%E4%B8%80%E6%9D%91%E6%88%90%E4%BA%86%E4%BB%96%E7%9A%84%E5%AE%B6?type=general",
+      "hot_value": "8241673",
       "index": 10
     },
     {
-      "title": "BLG夺冠恰逢联盟重大更新",
-      "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E6%81%B0%E9%80%A2%E8%81%94%E7%9B%9F%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0?type=general",
-      "hot_value": "7802765",
+      "title": "李炮骑三蹦子勇闯泥潭越野赛",
+      "url": "https://www.douyin.com/search/%E6%9D%8E%E7%82%AE%E9%AA%91%E4%B8%89%E8%B9%A6%E5%AD%90%E5%8B%87%E9%97%AF%E6%B3%A5%E6%BD%AD%E8%B6%8A%E9%87%8E%E8%B5%9B?type=general",
+      "hot_value": "7811383",
       "index": 11
     },
     {
-      "title": "影院线下看BLG夺冠太顶了",
-      "url": "https://www.douyin.com/search/%E5%BD%B1%E9%99%A2%E7%BA%BF%E4%B8%8B%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E5%A4%AA%E9%A1%B6%E4%BA%86?type=general",
-      "hot_value": "7781543",
+      "title": "司空震FMVP新皮肤",
+      "url": "https://www.douyin.com/search/%E5%8F%B8%E7%A9%BA%E9%9C%87FMVP%E6%96%B0%E7%9A%AE%E8%82%A4?type=general",
+      "hot_value": "7773346",
       "index": 12
     },
     {
       "title": "高铁为什么完全密封",
       "url": "https://www.douyin.com/search/%E9%AB%98%E9%93%81%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%8C%E5%85%A8%E5%AF%86%E5%B0%81?type=general",
-      "hot_value": "7757996",
+      "hot_value": "7760857",
       "index": 13
     },
     {
-      "title": "慌啥子嘛配什么都好治愈",
-      "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E9%85%8D%E4%BB%80%E4%B9%88%E9%83%BD%E5%A5%BD%E6%B2%BB%E6%84%88?type=general",
-      "hot_value": "7732493",
+      "title": "Knight夺得FMVP",
+      "url": "https://www.douyin.com/search/Knight%E5%A4%BA%E5%BE%97FMVP?type=general",
+      "hot_value": "7739485",
       "index": 14
-    },
-    {
-      "title": "BLG发抖音说我们是冠军",
-      "url": "https://www.douyin.com/search/BLG%E5%8F%91%E6%8A%96%E9%9F%B3%E8%AF%B4%E6%88%91%E4%BB%AC%E6%98%AF%E5%86%A0%E5%86%9B?type=general",
-      "hot_value": "7729561",
-      "index": 15
-    },
-    {
-      "title": "我的BLG夺冠时刻",
-      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB?type=general",
-      "hot_value": "7727249",
-      "index": 16
-    },
-    {
-      "title": "把这份庆祝送给BLG",
-      "url": "https://www.douyin.com/search/%E6%8A%8A%E8%BF%99%E4%BB%BD%E5%BA%86%E7%A5%9D%E9%80%81%E7%BB%99BLG?type=general",
-      "hot_value": "7719627",
-      "index": 17
-    },
-    {
-      "title": "央视新闻祝贺BLG夺冠",
-      "url": "https://www.douyin.com/search/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0?type=general",
-      "hot_value": "7712256",
-      "index": 18
-    },
-    {
-      "title": "湘超永州球员发文庆祝挺进四强",
-      "url": "https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E6%B0%B8%E5%B7%9E%E7%90%83%E5%91%98%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E6%8C%BA%E8%BF%9B%E5%9B%9B%E5%BC%BA?type=general",
-      "hot_value": "7709146",
-      "index": 19
-    },
-    {
-      "title": "369晒Knight合照祝贺BLG夺冠",
-      "url": "https://www.douyin.com/search/369%E6%99%92Knight%E5%90%88%E7%85%A7%E7%A5%9D%E8%B4%BABLG%E5%A4%BA%E5%86%A0?type=general",
-      "hot_value": "7697958",
-      "index": 20
-    },
-    {
-      "title": "我的S16决赛观赛日记",
-      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84S16%E5%86%B3%E8%B5%9B%E8%A7%82%E8%B5%9B%E6%97%A5%E8%AE%B0?type=general",
-      "hot_value": "7697095",
-      "index": 21
-    },
-    {
-      "title": "现场见证SpaceX星舰爆炸",
-      "url": "https://www.douyin.com/search/%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81SpaceX%E6%98%9F%E8%88%B0%E7%88%86%E7%82%B8?type=general",
-      "hot_value": "7691519",
-      "index": 22
-    },
-    {
-      "title": "Tim变装变上瘾了",
-      "url": "https://www.douyin.com/search/Tim%E5%8F%98%E8%A3%85%E5%8F%98%E4%B8%8A%E7%98%BE%E4%BA%86?type=general",
-      "hot_value": "7679982",
-      "index": 23
-    },
-    {
-      "title": "一对父子被夺走的半生",
-      "url": "https://www.douyin.com/search/%E4%B8%80%E5%AF%B9%E7%88%B6%E5%AD%90%E8%A2%AB%E5%A4%BA%E8%B5%B0%E7%9A%84%E5%8D%8A%E7%94%9F?type=general",
-      "hot_value": "7665245",
-      "index": 24
-    },
-    {
-      "title": "BLG夺冠雷鸟看得到底有多远",
-      "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E9%9B%B7%E9%B8%9F%E7%9C%8B%E5%BE%97%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%BF%9C?type=general",
-      "hot_value": "7657802",
-      "index": 25
-    },
-    {
-      "title": "冷都女为什么好看",
-      "url": "https://www.douyin.com/search/%E5%86%B7%E9%83%BD%E5%A5%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9C%8B?type=general",
-      "hot_value": "7656188",
-      "index": 26
-    },
-    {
-      "title": "独属我们的非凡之爱",
-      "url": "https://www.douyin.com/search/%E7%8B%AC%E5%B1%9E%E6%88%91%E4%BB%AC%E7%9A%84%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1?type=general",
-      "hot_value": "7650259",
-      "index": 27
     },
     {
       "title": "最有安全感的覆面系出现了",
       "url": "https://www.douyin.com/search/%E6%9C%80%E6%9C%89%E5%AE%89%E5%85%A8%E6%84%9F%E7%9A%84%E8%A6%86%E9%9D%A2%E7%B3%BB%E5%87%BA%E7%8E%B0%E4%BA%86?type=general",
-      "hot_value": "7648306",
+      "hot_value": "7736834",
+      "index": 15
+    },
+    {
+      "title": "Ruler燃尽了",
+      "url": "https://www.douyin.com/search/Ruler%E7%87%83%E5%B0%BD%E4%BA%86?type=general",
+      "hot_value": "7735311",
+      "index": 16
+    },
+    {
+      "title": "慌啥子嘛配什么都好治愈",
+      "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E9%85%8D%E4%BB%80%E4%B9%88%E9%83%BD%E5%A5%BD%E6%B2%BB%E6%84%88?type=general",
+      "hot_value": "7729232",
+      "index": 17
+    },
+    {
+      "title": "王多多S16结束语",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E5%A4%9A%E5%A4%9AS16%E7%BB%93%E6%9D%9F%E8%AF%AD?type=general",
+      "hot_value": "7726604",
+      "index": 18
+    },
+    {
+      "title": "所有人进入暑假时代",
+      "url": "https://www.douyin.com/search/%E6%89%80%E6%9C%89%E4%BA%BA%E8%BF%9B%E5%85%A5%E6%9A%91%E5%81%87%E6%97%B6%E4%BB%A3?type=general",
+      "hot_value": "7725190",
+      "index": 19
+    },
+    {
+      "title": "宋亚轩胡先煦现发4拳王对决",
+      "url": "https://www.douyin.com/search/%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%83%A1%E5%85%88%E7%85%A6%E7%8E%B0%E5%8F%914%E6%8B%B3%E7%8E%8B%E5%AF%B9%E5%86%B3?type=general",
+      "hot_value": "7713806",
+      "index": 20
+    },
+    {
+      "title": "毛孩子律动舞萌翻了",
+      "url": "https://www.douyin.com/search/%E6%AF%9B%E5%AD%A9%E5%AD%90%E5%BE%8B%E5%8A%A8%E8%88%9E%E8%90%8C%E7%BF%BB%E4%BA%86?type=general",
+      "hot_value": "7711602",
+      "index": 21
+    },
+    {
+      "title": "影院线下看BLG夺冠太顶了",
+      "url": "https://www.douyin.com/search/%E5%BD%B1%E9%99%A2%E7%BA%BF%E4%B8%8B%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E5%A4%AA%E9%A1%B6%E4%BA%86?type=general",
+      "hot_value": "7704434",
+      "index": 22
+    },
+    {
+      "title": "Bin夺冠后晒与奖杯合影",
+      "url": "https://www.douyin.com/search/Bin%E5%A4%BA%E5%86%A0%E5%90%8E%E6%99%92%E4%B8%8E%E5%A5%96%E6%9D%AF%E5%90%88%E5%BD%B1?type=general",
+      "hot_value": "7704305",
+      "index": 23
+    },
+    {
+      "title": "本人郑重向Bin道歉",
+      "url": "https://www.douyin.com/search/%E6%9C%AC%E4%BA%BA%E9%83%91%E9%87%8D%E5%90%91Bin%E9%81%93%E6%AD%89?type=general",
+      "hot_value": "7701283",
+      "index": 24
+    },
+    {
+      "title": "我的BLG夺冠时刻",
+      "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84BLG%E5%A4%BA%E5%86%A0%E6%97%B6%E5%88%BB?type=general",
+      "hot_value": "7695504",
+      "index": 25
+    },
+    {
+      "title": "BLG夺冠雷鸟看得到底有多远",
+      "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E9%9B%B7%E9%B8%9F%E7%9C%8B%E5%BE%97%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%BF%9C?type=general",
+      "hot_value": "7687180",
+      "index": 26
+    },
+    {
+      "title": "十万狂花入梦来开播",
+      "url": "https://www.douyin.com/search/%E5%8D%81%E4%B8%87%E7%8B%82%E8%8A%B1%E5%85%A5%E6%A2%A6%E6%9D%A5%E5%BC%80%E6%92%AD?type=general",
+      "hot_value": "7683099",
+      "index": 27
+    },
+    {
+      "title": "BLG夺冠恰逢联盟重大更新",
+      "url": "https://www.douyin.com/search/BLG%E5%A4%BA%E5%86%A0%E6%81%B0%E9%80%A2%E8%81%94%E7%9B%9F%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0?type=general",
+      "hot_value": "7682235",
       "index": 28
     },
     {
-      "title": "谷雨背后保护伞太敢拍了",
-      "url": "https://www.douyin.com/search/%E8%B0%B7%E9%9B%A8%E8%83%8C%E5%90%8E%E4%BF%9D%E6%8A%A4%E4%BC%9E%E5%A4%AA%E6%95%A2%E6%8B%8D%E4%BA%86?type=general",
-      "hot_value": "7646611",
+      "title": "Doinb谈BLG夺冠",
+      "url": "https://www.douyin.com/search/Doinb%E8%B0%88BLG%E5%A4%BA%E5%86%A0?type=general",
+      "hot_value": "7679024",
       "index": 29
     },
     {
-      "title": "和赵露思一起跳茉茉手势舞",
-      "url": "https://www.douyin.com/search/%E5%92%8C%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%80%E8%B5%B7%E8%B7%B3%E8%8C%89%E8%8C%89%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
-      "hot_value": "7644913",
+      "title": "抖颜一孙恩盛打卡喜悦X",
+      "url": "https://www.douyin.com/search/%E6%8A%96%E9%A2%9C%E4%B8%80%E5%AD%99%E6%81%A9%E7%9B%9B%E6%89%93%E5%8D%A1%E5%96%9C%E6%82%A6X?type=general",
+      "hot_value": "7674491",
       "index": 30
     }
   ]
