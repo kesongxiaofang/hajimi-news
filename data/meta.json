@@ -1,10 +1,11 @@
 {
-  "update_time": "2026-11-16T01:16:34Z",
+  "update_time": "2026-11-16T08:15:25Z",
   "platforms": [
     {
       "type": "weibo",
       "name": "weibo热搜",
-      "count": 20
+      "count": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "type": "zhihu",
@@ -14,7 +15,8 @@
     {
       "type": "douyin",
       "name": "抖音热搜",
-      "count": 30
+      "count": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "type": "bilibili",
@@ -24,7 +26,8 @@
     {
       "type": "xiaohongshu",
       "name": "小红书热搜",
-      "count": 20
+      "count": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "type": "kuaishou",
@@ -34,7 +37,8 @@
     {
       "type": "baidu",
       "name": "百度热搜",
-      "count": 30
+      "count": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "type": "toutiao",
@@ -44,7 +48,8 @@
     {
       "type": "thepaper",
       "name": "澎湃新闻",
-      "count": 20
+      "count": 0,
+      "error": "<urlopen error timed out>"
     }
   ]
 }
