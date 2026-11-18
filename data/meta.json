@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-18T02:01:53Z",
+  "update_time": "2026-11-18T10:28:06Z",
   "platforms": [
     {
       "type": "weibo",
@@ -24,7 +24,8 @@
     {
       "type": "xiaohongshu",
       "name": "小红书热搜",
-      "count": 20
+      "count": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "type": "kuaishou",
