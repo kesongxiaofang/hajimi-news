@@ -1,126 +1,126 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-17T19:37:09Z",
+  "update_time": "2026-11-18T02:01:53Z",
   "count": 20,
   "list": [
     {
-      "title": "传腾讯内部陷空前危机感，因为AI正在冲击其以社交为核心的商业模式，是真的吗？腾讯的商业模式会被颠覆吗？",
-      "url": "https://www.zhihu.com/question/2105734658377741339",
+      "title": "特朗普启程亚洲行，准备参与 APEC 会议，称「可能与金正恩委员长会面」，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2105949199779086374",
       "hot_value": "",
       "index": 1
     },
     {
-      "title": "北大新款羽绒服 399 元含鹅绒量 90%卖断货，校外人士求代购，这类高校文创比商业品牌更有性价比吗？",
-      "url": "https://www.zhihu.com/question/2105477478731067979",
+      "title": "字节能做出超越腾讯的聊天软件吗？",
+      "url": "https://www.zhihu.com/question/2106049410635231561",
       "hot_value": "",
       "index": 2
     },
     {
-      "title": "南京无门槛的「零元面馆」为什么招来那么多质疑与批评？",
-      "url": "https://www.zhihu.com/question/2104559437331568051",
+      "title": "波司登王力宏同款羽绒服售价 2399 元至 5999 元，仅售 16 件，波司登高端化之路走错了吗？",
+      "url": "https://www.zhihu.com/question/2105450993685213313",
       "hot_value": "",
       "index": 3
     },
     {
-      "title": "如何看待中南大学湘雅二医院被曝医学sci论文图片为AI生成？",
-      "url": "https://www.zhihu.com/question/2104854026030522823",
+      "title": "Doggo 就抢女友事件致歉「这完全是我个人的错，没有任何借口」，对此你有什么想说的？",
+      "url": "https://www.zhihu.com/question/2105973381002519255",
       "hot_value": "",
       "index": 4
     },
     {
-      "title": "为什么中国式刺身（鱼脍）在明中期被逐渐淘汰了？",
-      "url": "https://www.zhihu.com/question/470428983",
+      "title": "如何评价信小呆中1亿锦鲤大奖，奖品多为代金券、一度花光积蓄？普通人遇上这种天降流量，该怎么选才不亏？",
+      "url": "https://www.zhihu.com/question/2106009181564178539",
       "hot_value": "",
       "index": 5
     },
     {
-      "title": "为什么AI生成一条5秒钟的视频费用很高，而类似漫剧这样的内容却能大批量生产？",
-      "url": "https://www.zhihu.com/question/2071378238237053951",
+      "title": "国足友谊赛，中国男足 2-2 巴林，拜合拉木、张玉宁破门、王钰栋造点，如何评价本场比赛双方的表现？",
+      "url": "https://www.zhihu.com/question/2106123425273968487",
       "hot_value": "",
       "index": 6
     },
     {
-      "title": "罗伯特⋅帕丁森将出演新一任 007，如何评价这一选角？",
-      "url": "https://www.zhihu.com/question/2105811112532899617",
+      "title": "美联储主席警告美国 AI 热潮若落空将致美股大跌失业率攀升，该判断有哪些现实依据？",
+      "url": "https://www.zhihu.com/question/2105947087221412788",
       "hot_value": "",
       "index": 7
     },
     {
-      "title": "为什么现在的中小学普遍开始春秋假期？",
-      "url": "https://www.zhihu.com/question/2105586557558199490",
+      "title": "连续坚持10秒不呼吸就奖励100元，每再坚持1秒，奖励就会翻倍一次，你认为你能赚多少？",
+      "url": "https://www.zhihu.com/question/2104407572514091928",
       "hot_value": "",
       "index": 8
     },
     {
-      "title": "剧版《哈利·波特》正片片段首曝光，公开了霍格沃茨入学仪式的盛宴片段，角色和场景符合你的预期吗？",
-      "url": "https://www.zhihu.com/question/2105583961661339147",
+      "title": "现在的AI剧制作越来越精良，不久的将来，它是否会完全抢占真人剧市场？",
+      "url": "https://www.zhihu.com/question/2054598994492396545",
       "hot_value": "",
       "index": 9
-    },
-    {
-      "title": "中汽协将对比亚迪、小米等 17 家重点车企开展供应商账款支付情况调研评估，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2105956358176469828",
-      "hot_value": "",
-      "index": 10
-    },
-    {
-      "title": "10 月消费数据低于预期，人民日报发文「怎样看待当前消费形势」，哪些细节值得关注？",
-      "url": "https://www.zhihu.com/question/2105739356858054266",
-      "hot_value": "",
-      "index": 11
-    },
-    {
-      "title": "如何评价 ON 在 S16 全球总决赛上的表现？",
-      "url": "https://www.zhihu.com/question/2105148679128442434",
-      "hot_value": "",
-      "index": 12
-    },
-    {
-      "title": "《哈利波特：魔法觉醒》官宣 2027 年 3 月停服，授权到期，怎么看待这款手游落幕？",
-      "url": "https://www.zhihu.com/question/2105686582837748403",
-      "hot_value": "",
-      "index": 13
-    },
-    {
-      "title": "怎么看谷歌员工成功在  iPhone Duo 上运行 Windows 11 系统？",
-      "url": "https://www.zhihu.com/question/2105723098595059429",
-      "hot_value": "",
-      "index": 14
-    },
-    {
-      "title": "射击教练被控走私武器获刑 10 年，丈夫称涉案物品都是训练耗材，该判罚依据是什么？",
-      "url": "https://www.zhihu.com/question/2104327585756979347",
-      "hot_value": "",
-      "index": 15
-    },
-    {
-      "title": "决赛赛后采访，Viper称希望继续留在BLG，但目前有较多因素待考虑，你觉得Viper会继续留下吗？",
-      "url": "https://www.zhihu.com/question/2105299093589157095",
-      "hot_value": "",
-      "index": 16
     },
     {
       "title": "校招进了一个大公司新成立的部门，只有自己一个人，且直接跟大领导汇报，求经验？",
       "url": "https://www.zhihu.com/question/2104002868328001728",
       "hot_value": "",
+      "index": 10
+    },
+    {
+      "title": "最新研究显示全球冰冻圈已突破安全底线，部分变化不可逆，会带来什么影响？普通人能怎么应对？",
+      "url": "https://www.zhihu.com/question/2105719588914840866",
+      "hot_value": "",
+      "index": 11
+    },
+    {
+      "title": "《地下城与勇士》怀旧服定于 2027 年上线，你认为「八百万勇士」能否如期回归？",
+      "url": "https://www.zhihu.com/question/2022437072498083012",
+      "hot_value": "",
+      "index": 12
+    },
+    {
+      "title": "本山大叔的“慌啥子嘛”能治愈么？",
+      "url": "https://www.zhihu.com/question/2105295066294116943",
+      "hot_value": "",
+      "index": 13
+    },
+    {
+      "title": "为何芒果能精准抓住 NPD特质这一元素，并找到嘉宾做出多档爆款综艺？现实生活中真有这么多 NPD 吗？",
+      "url": "https://www.zhihu.com/question/2088256382164104954",
+      "hot_value": "",
+      "index": 14
+    },
+    {
+      "title": "中国985大学是否全部进入世界前1000？",
+      "url": "https://www.zhihu.com/question/2105232985708566001",
+      "hot_value": "",
+      "index": 15
+    },
+    {
+      "title": "61 岁女子登机口抛硬币祈福致航班延误 58 分钟被拘 5 日，该处罚尺度是否合理？",
+      "url": "https://www.zhihu.com/question/2105818186549666703",
+      "hot_value": "",
+      "index": 16
+    },
+    {
+      "title": "为什么在家带娃会比上班还要累？",
+      "url": "https://www.zhihu.com/question/2105934835910972009",
+      "hot_value": "",
       "index": 17
     },
     {
-      "title": "纵观历史几千年，为什么科技才近一两百年发生了质的飞跃，有了电话、飞机、火车，那么之前的人们在干嘛去了？",
-      "url": "https://www.zhihu.com/question/46853150",
+      "title": "中国汽车出口增长趋势是否可持续?",
+      "url": "https://www.zhihu.com/question/2080253961152488230",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "70 城最新房价出炉，一线城市商品住宅销售价格环比总体上涨，二三线城市环比下降，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2105595287469290375",
+      "title": "为什么诸葛亮没有因为刘备晚年移宠法正而黑化？",
+      "url": "https://www.zhihu.com/question/1976879568955654786",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "江苏3岁女童被父亲女友杀害案即将宣判，凶手作案时怀孕、庭上多次撒谎毫无悔意，最终会面临怎样的刑罚？",
-      "url": "https://www.zhihu.com/question/2105941919675242453",
+      "title": "孩子刚上初中就发现语文成绩特别不好，有没有什么好的方法提高成绩？",
+      "url": "https://www.zhihu.com/question/492306156",
       "hot_value": "",
       "index": 20
     }
