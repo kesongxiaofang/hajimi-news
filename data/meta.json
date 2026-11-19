@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-19T01:00:58Z",
+  "update_time": "2026-11-19T09:04:06Z",
   "platforms": [
     {
       "type": "weibo",
@@ -14,7 +14,8 @@
     {
       "type": "douyin",
       "name": "抖音热搜",
-      "count": 30
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "type": "bilibili",
