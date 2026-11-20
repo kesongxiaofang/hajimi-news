@@ -1,12 +1,12 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-20T07:59:52Z",
+  "update_time": "2026-11-20T16:53:52Z",
   "count": 20,
   "list": [
     {
-      "title": "中俄美和平宣言为何特别强调国际刑事法院不得滥用管辖权？具体针对的是什么？这一表述有何现实背景？",
-      "url": "https://www.zhihu.com/question/2106848715306526025",
+      "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
+      "url": "https://www.zhihu.com/question/2107239235015263538",
       "hot_value": "",
       "index": 1
     },
@@ -17,110 +17,110 @@
       "index": 2
     },
     {
-      "title": "爱奇艺股价已连续 27 个交易日低于 1 美元，最快将于11月23日触发退市警告，它真的会退市吗？",
-      "url": "https://www.zhihu.com/question/2106740458650957442",
+      "title": "王毅介绍中俄美元首会晤情况，称这是一次「和平峰会」，是载入史册的标志性事件，传递出了哪些信号？",
+      "url": "https://www.zhihu.com/question/2107019870122547156",
       "hot_value": "",
       "index": 3
     },
     {
-      "title": "如何看待张朝阳回应搜狐「躺平」：没资源做大模型，但每天凌晨4点起床，讲物理课也是工作？",
-      "url": "https://www.zhihu.com/question/2106691940146331909",
+      "title": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude、GPT，这款模型到底是啥来历？",
+      "url": "https://www.zhihu.com/question/2106839067346350136",
       "hot_value": "",
       "index": 4
     },
     {
-      "title": "为啥中文的一二三笔画简单明了，零的笔画那么多啊?",
-      "url": "https://www.zhihu.com/question/606813087",
+      "title": "酒店的浴室为什么大多是透明的？",
+      "url": "https://www.zhihu.com/question/527454391",
       "hot_value": "",
       "index": 5
     },
     {
-      "title": "很多人说GTA6或者GTA系列玩法单调，无非就是射击+开车，是不是玩法创新在这种3A上遇到瓶颈了？",
-      "url": "https://www.zhihu.com/question/2106787583531409688",
+      "title": "特朗普称如果满分 10 分，可以为中俄美元首会晤打 12 分，此次会晤对他有多重要？美方有哪些收获？",
+      "url": "https://www.zhihu.com/question/2107079876813353010",
       "hot_value": "",
       "index": 6
+    },
+    {
+      "title": "DeepSeek 第二轮融资 1050 多亿元落地，31 家外部股东入局，怎样解读？",
+      "url": "https://www.zhihu.com/question/2106889511993189511",
+      "hot_value": "",
+      "index": 7
+    },
+    {
+      "title": "中国政法、上大、上海交大等多所高校不向2027级研究生提供宿舍，为何各校宿舍紧张问题都迟迟没能解决？",
+      "url": "https://www.zhihu.com/question/2107038570422563911",
+      "hot_value": "",
+      "index": 8
+    },
+    {
+      "title": "中俄美和平宣言为何特别强调国际刑事法院不得滥用管辖权？具体针对的是什么？这一表述有何现实背景？",
+      "url": "https://www.zhihu.com/question/2106848715306526025",
+      "hot_value": "",
+      "index": 9
+    },
+    {
+      "title": "为什么唐僧对猪八戒会有一点偏爱？",
+      "url": "https://www.zhihu.com/question/1977299907032397436",
+      "hot_value": "",
+      "index": 10
     },
     {
       "title": "媒体称中国 AI 人才不再迷恋美国成群回国，这一趋势背后的核心动因是什么？",
       "url": "https://www.zhihu.com/question/2106184065661641559",
       "hot_value": "",
-      "index": 7
-    },
-    {
-      "title": "如何看待丰田员工餐疑似摆拍造假？",
-      "url": "https://www.zhihu.com/question/2106090303207772376",
-      "hot_value": "",
-      "index": 8
-    },
-    {
-      "title": "地暖是24小时开着省钱，还是分时段开更省钱？",
-      "url": "https://www.zhihu.com/question/437934361",
-      "hot_value": "",
-      "index": 9
-    },
-    {
-      "title": "如何评价《影之刃零》的武打与动作设计，放到游戏圈甚至影视圈来说这算一个什么水平？",
-      "url": "https://www.zhihu.com/question/2103165837020488328",
-      "hot_value": "",
-      "index": 10
-    },
-    {
-      "title": "11 月 19 日美股三大指数集体收跌超 2%，AMD 遭做空重挫 8%，英伟达跌超 3%，怎样解读？",
-      "url": "https://www.zhihu.com/question/2107014688521155453",
-      "hot_value": "",
       "index": 11
     },
     {
-      "title": "如何看待美国收紧特定国家地区企业交由三星/台积电代工22/16/14nm及以下高制程芯片许可要求？",
-      "url": "https://www.zhihu.com/question/2106927076238423067",
+      "title": "江南大学回应 「大学英语改为选修」，有通过四六级等免修条件，这一改革会成为趋势吗？",
+      "url": "https://www.zhihu.com/question/2106695521175860644",
       "hot_value": "",
       "index": 12
-    },
-    {
-      "title": "如何评价T1官宣Doran离队？",
-      "url": "https://www.zhihu.com/question/2106855898962466687",
-      "hot_value": "",
-      "index": 13
-    },
-    {
-      "title": "周杰伦武汉演唱会580元大屏观演区引热议，此前有人认为是性价比之王，也有人不接受看不到真人，你怎么看？",
-      "url": "https://www.zhihu.com/question/2105728003292636930",
-      "hot_value": "",
-      "index": 14
-    },
-    {
-      "title": "感觉身边只剩酒肉朋友，聊的不是孩子上学就是社会新闻，再往深就没话了，有时候不明白交情怎么就停在这儿了？",
-      "url": "https://www.zhihu.com/question/2106571582248154942",
-      "hot_value": "",
-      "index": 15
     },
     {
       "title": "驴友穿越秦岭遇难，家属起诉救援队，法院判定救援队、环保部门无过错，组织者赔偿18万余元，如何看待此事？",
       "url": "https://www.zhihu.com/question/2106482614722883876",
       "hot_value": "",
+      "index": 13
+    },
+    {
+      "title": "如何评价华为全新先锋潮流子品牌OSTA星芒？",
+      "url": "https://www.zhihu.com/question/2106692200478269466",
+      "hot_value": "",
+      "index": 14
+    },
+    {
+      "title": "你家的第一台电视是什么样的？为什么小时候总是特别期待看电视？",
+      "url": "https://www.zhihu.com/question/2106780350219120776",
+      "hot_value": "",
+      "index": 15
+    },
+    {
+      "title": "如何看待美国收紧特定国家地区企业交由三星/台积电代工22/16/14nm及以下高制程芯片许可要求？",
+      "url": "https://www.zhihu.com/question/2106927076238423067",
+      "hot_value": "",
       "index": 16
     },
     {
-      "title": "为什么《小城良方》在聘请了相当多医学顾问的前提下，还被医疗专业人士指出医学方面漏洞百出？",
-      "url": "https://www.zhihu.com/question/2099149009570854581",
+      "title": "11 月 19 日美股三大指数集体收跌超 2%，AMD 遭做空重挫 8%，英伟达跌超 3%，怎样解读？",
+      "url": "https://www.zhihu.com/question/2107014688521155453",
       "hot_value": "",
       "index": 17
     },
     {
-      "title": "许飞在《后会有期》追问厉娜能否重新做朋友，破镜的旧友情还能复原吗？",
-      "url": "https://www.zhihu.com/question/2104589985378784063",
+      "title": "中俄美三方的和平宣言发布后，将会为俄乌局势带来哪些变量？",
+      "url": "https://www.zhihu.com/question/2106847799899678337",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "腾讯姚顺雨主导AI架构精简，而全公司11万人面临大调整，这类扁平化变革落地难点在哪？",
-      "url": "https://www.zhihu.com/question/2104663850607965878",
+      "title": "旅行者 1 号飞行近 50 年抵达 1 光日位置，这一深空里程碑有哪些特殊价值？",
+      "url": "https://www.zhihu.com/question/2106398972487136971",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "英伟达有没有可能以后再也不出游戏显卡了，A卡一家独大？",
-      "url": "https://www.zhihu.com/question/2104872147940332930",
+      "title": "黄金大跌，你们会去购买黄金吗？",
+      "url": "https://www.zhihu.com/question/2098797483895828516",
       "hot_value": "",
       "index": 20
     }
