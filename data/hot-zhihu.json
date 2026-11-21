@@ -1,96 +1,96 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-21T03:45:07Z",
+  "update_time": "2026-11-21T12:01:20Z",
   "count": 20,
   "list": [
     {
-      "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
-      "url": "https://www.zhihu.com/question/2107239235015263538",
+      "title": "特朗普返美后召开新闻发布会，称中俄美元首会晤「史无前例」「意义重大」，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2107175088915050633",
       "hot_value": "",
       "index": 1
+    },
+    {
+      "title": "黎曼猜想数学证明长达 25 万页是什么概念？人类还有可能完整读懂吗？",
+      "url": "https://www.zhihu.com/question/2107262299765306294",
+      "hot_value": "",
+      "index": 2
+    },
+    {
+      "title": "胖东来生活广场闭店后周围商户陆续搬走，曝租金降至400万后仍无人接盘，现在来看房东涨租算不算决策失误？",
+      "url": "https://www.zhihu.com/question/2106756998976857637",
+      "hot_value": "",
+      "index": 3
     },
     {
       "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
       "url": "https://www.zhihu.com/question/2106706684672471150",
       "hot_value": "",
-      "index": 2
-    },
-    {
-      "title": "为什么欧美使用壁炉的普遍性这么高，而中国却没有？",
-      "url": "https://www.zhihu.com/question/20796435",
-      "hot_value": "",
-      "index": 3
-    },
-    {
-      "title": "信用卡近一年减少 3400 万张，信用卡为何逐渐失去吸引力？背后反映出消费者支付习惯发生了哪些变化？",
-      "url": "https://www.zhihu.com/question/2107163928622887904",
-      "hot_value": "",
       "index": 4
     },
     {
-      "title": "黄牛称炒茅台已「几乎无利可图」，酒厂逐步拿回定价权，这门「生意」为什么不赚钱了？近十年来发生什么变化？",
-      "url": "https://www.zhihu.com/question/2106114904289718820",
+      "title": "为什么早餐利润这么高大家都不去做呢？",
+      "url": "https://www.zhihu.com/question/621050716",
       "hot_value": "",
       "index": 5
     },
     {
-      "title": "为什么我感觉自己做饭并没有比点外卖省钱？",
-      "url": "https://www.zhihu.com/question/438496778",
+      "title": "特朗普称不允许美企海外建数据中心，如果违反将面临「巨额税收」处罚，这会对美国科技公司发展带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2107449650592445764",
       "hot_value": "",
       "index": 6
     },
     {
-      "title": "雷军称明年小米汽车正式出海，强调和当地供应链深度合作，如何看待小米汽车出海的时机与打法？",
-      "url": "https://www.zhihu.com/question/2106436190547322353",
+      "title": "摩尔线程官宣消费级显卡「庐山」，宣称光追暴涨 50 倍且刷新显存上限，实际体验能达到预期吗？",
+      "url": "https://www.zhihu.com/question/2107187179504006217",
       "hot_value": "",
       "index": 7
     },
     {
-      "title": "发达国家中，日本人出国旅游意愿为何那么低？",
-      "url": "https://www.zhihu.com/question/2062065010873054969",
+      "title": "为什么网络上总是说“外卖小哥藏龙卧虎”，这种刻板印象到底是怎么形成的？",
+      "url": "https://www.zhihu.com/question/2106416810002273776",
       "hot_value": "",
       "index": 8
     },
     {
-      "title": "特朗普返美后召开新闻发布会，称中俄美元首会晤「史无前例」「意义重大」，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2107175088915050633",
+      "title": "网友称零跑A10装啤酒致后备厢储物盒脱落，客服称未接到反馈，具体是怎么回事？储物盒能如何规避承重隐患？",
+      "url": "https://www.zhihu.com/question/2107047283686691607",
       "hot_value": "",
       "index": 9
     },
     {
-      "title": "BLG夺冠，能唤回多少国内玩家的热情重回《英雄联盟》？",
-      "url": "https://www.zhihu.com/question/2105255823601619027",
+      "title": "为什么肠道会精准排出菌群异常的大便（腹泻）却又能把正常菌群的大便留在肠道内？",
+      "url": "https://www.zhihu.com/question/2063277342005391695",
       "hot_value": "",
       "index": 10
     },
     {
-      "title": "11月20日美股三大指数集体重挫，AI交易遭猛烈拋售，Anthropic上市次日跌8.5%，怎样解读？",
-      "url": "https://www.zhihu.com/question/2107375172101432168",
+      "title": "如何评价11月微软悄悄上架的全新中文输入法？",
+      "url": "https://www.zhihu.com/question/2106793828950843511",
       "hot_value": "",
       "index": 11
     },
     {
-      "title": "如果 GTA6明年上 PC，什么配置可以发挥最完全体的画面效果？",
-      "url": "https://www.zhihu.com/question/2107056554713289409",
+      "title": "数学家宣称 Claude 证明黎曼猜想，为啥Anthropic股价仍在暴跌？市场不买账，核心原因是啥？",
+      "url": "https://www.zhihu.com/question/2107267149399947120",
       "hot_value": "",
       "index": 12
     },
     {
-      "title": "如何评价成毅主演的电视剧《两京十五日》？",
-      "url": "https://www.zhihu.com/question/2107165635797071671",
+      "title": "凡人修仙传动漫201集观众满意吗？",
+      "url": "https://www.zhihu.com/question/2106002146114154959",
       "hot_value": "",
       "index": 13
     },
     {
-      "title": "在中世纪时代拒绝骑士决斗，或在美国西部时代拒绝牛仔决斗，直接认怂，能活命么？",
-      "url": "https://www.zhihu.com/question/356942001",
+      "title": "《Gta6》M站用户开分仅3.7分，现已5.4分，如何看待用户评分与媒体评分两极分化？",
+      "url": "https://www.zhihu.com/question/2107390437933707560",
       "hot_value": "",
       "index": 14
     },
     {
-      "title": "数学家宣称 Claude 证明黎曼猜想，为啥Anthropic股价仍在暴跌？市场不买账，核心原因是啥？",
-      "url": "https://www.zhihu.com/question/2107267149399947120",
+      "title": "《后会友期》中马天宇说“青稚原生家庭正常，白小纯原生家庭不正常”，在当时的场合中，这种行为合适吗？",
+      "url": "https://www.zhihu.com/question/2103149759569597917",
       "hot_value": "",
       "index": 15
     },
@@ -101,26 +101,26 @@
       "index": 16
     },
     {
-      "title": "为什么肠道会精准排出菌群异常的大便（腹泻）却又能把正常菌群的大便留在肠道内？",
-      "url": "https://www.zhihu.com/question/2063277342005391695",
+      "title": "BLG夺冠，能唤回多少国内玩家的热情重回《英雄联盟》？",
+      "url": "https://www.zhihu.com/question/2105255823601619027",
       "hot_value": "",
       "index": 17
     },
     {
-      "title": "曝 Viper 可能离开 BLG，是真的吗？离队的原因是啥？若离队谁最有可能接替他？",
-      "url": "https://www.zhihu.com/question/2107159684968706788",
+      "title": "叔本华为什么讨厌黑格尔？",
+      "url": "https://www.zhihu.com/question/379657356",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude、GPT，这款模型到底是啥来历？",
-      "url": "https://www.zhihu.com/question/2106839067346350136",
+      "title": "信用卡近一年减少 3400 万张，信用卡为何逐渐失去吸引力？背后反映出消费者支付习惯发生了哪些变化？",
+      "url": "https://www.zhihu.com/question/2107163928622887904",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "有哪些事情是去了澳门才知道的？",
-      "url": "https://www.zhihu.com/question/554154050",
+      "title": "如何看待11月21日三维ns方程有限时间爆破的形式化证明疑似已经完成？",
+      "url": "https://www.zhihu.com/question/2107281397077500209",
       "hot_value": "",
       "index": 20
     }

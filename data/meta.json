@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-21T03:45:07Z",
+  "update_time": "2026-11-21T12:01:20Z",
   "platforms": [
     {
       "type": "weibo",
@@ -39,7 +39,8 @@
     {
       "type": "toutiao",
       "name": "今日头条",
-      "count": 20
+      "count": 0,
+      "error": "HTTP Error 522: Origin Connection Time-out"
     },
     {
       "type": "thepaper",
