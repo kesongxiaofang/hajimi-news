@@ -1,126 +1,126 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-22T00:03:00Z",
+  "update_time": "2026-11-22T07:13:06Z",
   "count": 20,
   "list": [
-    {
-      "title": "荷兰法院裁定比亚迪Ti7抄袭路虎卫士，颁布销售禁令，对此怎么看？",
-      "url": "https://www.zhihu.com/question/2107417541236805904",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "Lean与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
       "url": "https://www.zhihu.com/question/2107620110105932525",
       "hot_value": "",
+      "index": 1
+    },
+    {
+      "title": "荷兰法院裁定比亚迪Ti7抄袭路虎卫士，颁布销售禁令，对此怎么看？",
+      "url": "https://www.zhihu.com/question/2107417541236805904",
+      "hot_value": "",
       "index": 2
     },
     {
-      "title": "如何看待11月21日三维ns方程有限时间爆破的形式化证明疑似已经完成？",
-      "url": "https://www.zhihu.com/question/2107281397077500209",
+      "title": "商务部回应美拟禁止中国运营商获取电话号码资源，称相关做法破坏中美经贸稳定局面，中方坚决反对，如何解读？",
+      "url": "https://www.zhihu.com/question/2107769225699746266",
       "hot_value": "",
       "index": 3
     },
     {
-      "title": "20多天婴儿被喂白开水中毒肾损伤，新生儿为何不能像成年人一样正常喝白开水？该如何科学喂养？",
-      "url": "https://www.zhihu.com/question/2106868147718284246",
+      "title": "有人说搞南水北调不如搞海水淡化，你是否同意？",
+      "url": "https://www.zhihu.com/question/390865312",
       "hot_value": "",
       "index": 4
-    },
-    {
-      "title": "怎么看 OpenAI 宣布升级反蒸馏防御，隐藏推理提取成功率从 54% 降至 0.2% ？",
-      "url": "https://www.zhihu.com/question/2107430398359885371",
-      "hot_value": "",
-      "index": 5
-    },
-    {
-      "title": "顺丰速运涉嫌存在违规问题，被暂停参加全军采购活动，具体是怎么回事？",
-      "url": "https://www.zhihu.com/question/2107442131073593760",
-      "hot_value": "",
-      "index": 6
-    },
-    {
-      "title": "MIT 团队发布对黎曼猜想证明的验证，超 17 万模块全部编译无错，这意味着黎曼猜想证明多大概率为真？",
-      "url": "https://www.zhihu.com/question/2107387590592525680",
-      "hot_value": "",
-      "index": 7
-    },
-    {
-      "title": "如何看待截至2026年5月11日，米哈游57810 颗英伟达H200获批却未发货，这意味着什么？",
-      "url": "https://www.zhihu.com/question/2107534705163777162",
-      "hot_value": "",
-      "index": 8
-    },
-    {
-      "title": "菲尔兹奖得主邓煜称「人类不能放弃自主思考给 AI 当狗」，如何看待这一观点？",
-      "url": "https://www.zhihu.com/question/2099876169013258150",
-      "hot_value": "",
-      "index": 9
-    },
-    {
-      "title": "如何看待韩国高考中国史题正确率不足一成？这道题难度究竟如何？",
-      "url": "https://www.zhihu.com/question/2107440924695291008",
-      "hot_value": "",
-      "index": 10
-    },
-    {
-      "title": "SEC正调查英伟达潜在会计问题，股价当天跌超14%，这件事后续会如何发展？",
-      "url": "https://www.zhihu.com/question/2107472069340550027",
-      "hot_value": "",
-      "index": 11
     },
     {
       "title": "有比《持械入宋》更好看的短剧吗？",
       "url": "https://www.zhihu.com/question/2103550053273149533",
       "hot_value": "",
-      "index": 12
+      "index": 5
     },
     {
-      "title": "如何评价米哈游电子科技大学校招宣讲会技术负责人曝光原神IP未来的研发方向？",
-      "url": "https://www.zhihu.com/question/2107022824976159802",
+      "title": "为啥北方人没有吐槽供暖费很贵的？",
+      "url": "https://www.zhihu.com/question/1992264026315571821",
       "hot_value": "",
-      "index": 13
+      "index": 6
     },
     {
-      "title": "山东威海发现加拿大飞来的干饭雪雁，威海不是号称雪窝子吗？为啥候鸟会选择在这过冬？",
-      "url": "https://www.zhihu.com/question/2106702040785339278",
+      "title": "如何评价黎曼诞辰200周年之际，黎曼猜测宣布得证？",
+      "url": "https://www.zhihu.com/question/2107264049960282020",
       "hot_value": "",
-      "index": 14
+      "index": 7
+    },
+    {
+      "title": "如何评价华为星芒 O1 Pro 定价 5499 元起引争议，总经理刘赫回应称“我们选择创新优先”？",
+      "url": "https://www.zhihu.com/question/2107408889713115755",
+      "hot_value": "",
+      "index": 8
+    },
+    {
+      "title": "BLG 夺冠能挽救 LPL 吗？能复刻前两个「电竞元年」吗？",
+      "url": "https://www.zhihu.com/question/2106420376573928403",
+      "hot_value": "",
+      "index": 9
     },
     {
       "title": "为啥我军没有名满天下的特种部队？比如海豹部队什么的？",
       "url": "https://www.zhihu.com/question/2107046874389729356",
       "hot_value": "",
+      "index": 10
+    },
+    {
+      "title": "李子柒当选四川文联副主席，如何理解她的这一职务，可能带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2107187453836650425",
+      "hot_value": "",
+      "index": 11
+    },
+    {
+      "title": "怎么看陶哲轩博客下针对 AI 完成黎曼猜想评论：数学变成 F1 赛车，不进 AI 车队都看不到后尾灯？",
+      "url": "https://www.zhihu.com/question/2107581968296760732",
+      "hot_value": "",
+      "index": 12
+    },
+    {
+      "title": "顺丰速运涉嫌存在违规问题，被暂停参加全军采购活动，具体是怎么回事？",
+      "url": "https://www.zhihu.com/question/2107442131073593760",
+      "hot_value": "",
+      "index": 13
+    },
+    {
+      "title": "贾国龙新创品牌「天边」一年内从砂锅焖面转向冰煮鲜羊，频繁调整经营方向背后有哪些考量？他能翻身吗？",
+      "url": "https://www.zhihu.com/question/2106862061669934684",
+      "hot_value": "",
+      "index": 14
+    },
+    {
+      "title": "2627赛季NBA常规赛雄鹿 129:132 76 人，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2107658144403014946",
+      "hot_value": "",
       "index": 15
     },
     {
-      "title": "姚顺雨携腾讯混元团队完成 120 分钟在线问答，有哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2107402315917420498",
+      "title": "特朗普称将与伊朗达成一项永久性协议，为何会在这一时间放出这一消息？永久性协议内可能包含哪些内容？",
+      "url": "https://www.zhihu.com/question/2107616621631988039",
       "hot_value": "",
       "index": 16
     },
     {
-      "title": "邵佳一带队取得 10 战 4 胜 2 平 4 负战绩，亚洲杯延期，该优先补强哪块短板？",
-      "url": "https://www.zhihu.com/question/2106274596567700335",
+      "title": "日本的抹茶为什么很多人说落后？这和现在的抹茶是一个东西吗?",
+      "url": "https://www.zhihu.com/question/665848411",
       "hot_value": "",
       "index": 17
     },
     {
-      "title": "黎曼猜想数学证明长达 25 万页是什么概念？人类还有可能完整读懂吗？",
-      "url": "https://www.zhihu.com/question/2107262299765306294",
+      "title": "为什么现在小学语文课汉语拼音o都教读“哦”？",
+      "url": "https://www.zhihu.com/question/670142853",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "摩尔线程官宣消费级显卡「庐山」，宣称光追暴涨 50 倍且刷新显存上限，实际体验能达到预期吗？",
-      "url": "https://www.zhihu.com/question/2107187179504006217",
+      "title": "如何看待“老婆嫌老公熬夜打游戏，发“追杀令”求助网友狙击老公ID，大哥“你们找不到我”被各路玩家围剿？",
+      "url": "https://www.zhihu.com/question/2106418067513386152",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "如何评价11月微软悄悄上架的全新中文输入法？",
-      "url": "https://www.zhihu.com/question/2106793828950843511",
+      "title": "MIT 团队发布对黎曼猜想证明的验证，超 17 万模块全部编译无错，这意味着黎曼猜想证明多大概率为真？",
+      "url": "https://www.zhihu.com/question/2107387590592525680",
       "hot_value": "",
       "index": 20
     }
