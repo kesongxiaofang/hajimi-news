@@ -1,102 +1,102 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-22T15:30:14Z",
+  "update_time": "2026-11-22T21:28:34Z",
   "count": 20,
   "list": [
     {
-      "title": "商务部回应美拟禁止中国运营商获取电话号码资源，称相关做法破坏中美经贸稳定局面，中方坚决反对，如何解读？",
-      "url": "https://www.zhihu.com/question/2107769225699746266",
+      "title": "交易所打出稳市「组合拳」，沪深北交易所降低融资保证金比例下限至 80%，意味着什么？释放了哪些信号？",
+      "url": "https://www.zhihu.com/question/2107908002430677964",
       "hot_value": "",
       "index": 1
     },
     {
-      "title": "武汉一小学设牌劝返送水壶、作业的家长，让孩子自己承担忘带东西的后果，这种方式怎么样？值得效仿吗？",
-      "url": "https://www.zhihu.com/question/2107829110864966417",
+      "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
+      "url": "https://www.zhihu.com/question/2107848989819326753",
       "hot_value": "",
       "index": 2
+    },
+    {
+      "title": "如何评价《侠盗猎车手 VI》（GTA 6）的结局？",
+      "url": "https://www.zhihu.com/question/2107491544735470766",
+      "hot_value": "",
+      "index": 3
+    },
+    {
+      "title": "编剧芦苇评价《给阿嬷的情书》是合格水准，但很难成为经典，劣币驱逐良币时代是良心之作，怎样理解这一说法？",
+      "url": "https://www.zhihu.com/question/2107906248599234133",
+      "hot_value": "",
+      "index": 4
     },
     {
       "title": "同样是蛋白质，为什么提倡喝牛奶而不是吃鸡蛋?",
       "url": "https://www.zhihu.com/question/623251460",
       "hot_value": "",
-      "index": 3
-    },
-    {
-      "title": "如何评价华为星芒 O1 Pro 定价 5499 元起引争议，总经理刘赫回应称“我们选择创新优先”？",
-      "url": "https://www.zhihu.com/question/2107408889713115755",
-      "hot_value": "",
-      "index": 4
-    },
-    {
-      "title": "Lean与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
-      "url": "https://www.zhihu.com/question/2107620110105932525",
-      "hot_value": "",
       "index": 5
-    },
-    {
-      "title": "交易所打出稳市「组合拳」，沪深北交易所降低融资保证金比例下限至 80%，意味着什么？释放了哪些信号？",
-      "url": "https://www.zhihu.com/question/2107908002430677964",
-      "hot_value": "",
-      "index": 6
-    },
-    {
-      "title": "人能控制自己的长相吗？",
-      "url": "https://www.zhihu.com/question/26497360",
-      "hot_value": "",
-      "index": 7
-    },
-    {
-      "title": "AI 宣称证明黎曼猜想后，数学家又公开了一份完全不使用 AI 的广义黎曼猜想证明，如何看待？",
-      "url": "https://www.zhihu.com/question/2107333891975599197",
-      "hot_value": "",
-      "index": 8
-    },
-    {
-      "title": "特朗普称将与伊朗达成一项永久性协议，为何会在这一时间放出这一消息？永久性协议内可能包含哪些内容？",
-      "url": "https://www.zhihu.com/question/2107616621631988039",
-      "hot_value": "",
-      "index": 9
-    },
-    {
-      "title": "「望梅止渴」的「梅」和「墙角数枝梅」的「梅」是一种植物吗？",
-      "url": "https://www.zhihu.com/question/20246045",
-      "hot_value": "",
-      "index": 10
-    },
-    {
-      "title": "有人说搞南水北调不如搞海水淡化，你是否同意？",
-      "url": "https://www.zhihu.com/question/390865312",
-      "hot_value": "",
-      "index": 11
     },
     {
       "title": "长安大学回应「14日面试13日出结果」，公告误带后台草稿的创建日期，三名人事干部被处分，如何看待此事？",
       "url": "https://www.zhihu.com/question/2107570779529529086",
       "hot_value": "",
-      "index": 12
+      "index": 6
     },
     {
-      "title": "袁记云饺通过港交所聆讯，即将冲击「现制饺子第一股」，为何选择此时上市？登陆港股后你看好它的前景吗？",
-      "url": "https://www.zhihu.com/question/2107202859074679961",
+      "title": "2026年乒乓球德甲联赛第九轮，樊振东1：3负于约内斯库，怎么评价樊振东代表杜塞尔多夫的这一场失利？",
+      "url": "https://www.zhihu.com/question/2107985884800984526",
       "hot_value": "",
-      "index": 13
+      "index": 7
     },
     {
-      "title": "汉字简化的过程中，为何很多汉字的部首被用“又”字和叉代替？",
-      "url": "https://www.zhihu.com/question/6303982848",
+      "title": "日媒逐帧解析高市早苗遭特朗普无视，直呼耻辱，为何日本对此如此破防？反映了日本舆论对日美互动怎样的心态？",
+      "url": "https://www.zhihu.com/question/2107806853543322888",
       "hot_value": "",
-      "index": 14
+      "index": 8
+    },
+    {
+      "title": "P/NP 问题如果被解决，会对计算机科学带来哪些革命性影响？",
+      "url": "https://www.zhihu.com/question/2014398013381043895",
+      "hot_value": "",
+      "index": 9
+    },
+    {
+      "title": "曝 ShowMaker 宁愿大幅度降薪也希望留在 DK，如何评价他的选择？DK 目前情况有多糟？",
+      "url": "https://www.zhihu.com/question/2105979786103191265",
+      "hot_value": "",
+      "index": 10
+    },
+    {
+      "title": "AI短剧、AI漫剧现在这么火爆，为什么我感觉大多数角色的脸都一样？大家不会视觉疲劳吗？",
+      "url": "https://www.zhihu.com/question/2079246734493066423",
+      "hot_value": "",
+      "index": 11
     },
     {
       "title": "为什么看完AI短剧以后，就看不进真人演的剧呢？",
       "url": "https://www.zhihu.com/question/2096651689738687723",
       "hot_value": "",
+      "index": 12
+    },
+    {
+      "title": "为什么现在90后，00后年轻人不再给领导提供情绪价值了？",
+      "url": "https://www.zhihu.com/question/2103088984821871193",
+      "hot_value": "",
+      "index": 13
+    },
+    {
+      "title": "如何评价《斗破苍穹剧场版：双帝之战》？",
+      "url": "https://www.zhihu.com/question/2107829204641489907",
+      "hot_value": "",
+      "index": 14
+    },
+    {
+      "title": "户均 2.52 人开发商却主推三居，为什么现在 89 平方米刚需户型重新走热？",
+      "url": "https://www.zhihu.com/question/2107410857026234017",
+      "hot_value": "",
       "index": 15
     },
     {
-      "title": "纳指跌超5%，英伟达跌14%，BTC跌破6万美元，黄金濒临3500美元，本轮跨市场金融冲击何时止？",
-      "url": "https://www.zhihu.com/question/2107407389817321423",
+      "title": "如何看待女子嫌老公熬夜打游戏，发「追杀令」求助网友狙击老公ID，其老公称「你们找不到我」被玩家围剿？",
+      "url": "https://www.zhihu.com/question/2106418067513386152",
       "hot_value": "",
       "index": 16
     },
@@ -107,20 +107,20 @@
       "index": 17
     },
     {
-      "title": "为啥北方人没有吐槽供暖费很贵的？",
-      "url": "https://www.zhihu.com/question/1992264026315571821",
+      "title": "纳指跌超5%，英伟达跌14%，BTC跌破6万美元，黄金濒临3500美元，本轮跨市场金融冲击何时止？",
+      "url": "https://www.zhihu.com/question/2107407389817321423",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "李子柒当选四川文联副主席，如何理解她的这一职务，可能带来哪些影响？",
-      "url": "https://www.zhihu.com/question/2107187453836650425",
+      "title": "网友称在父母面前切换成「无性别低智儿童」，被问到工作、婚恋话题都说「不知道」，为啥要这样？这招管用吗？",
+      "url": "https://www.zhihu.com/question/2106716173475788406",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "如何看待女子嫌老公熬夜打游戏，发「追杀令」求助网友狙击老公ID，其老公称「你们找不到我」被玩家围剿？",
-      "url": "https://www.zhihu.com/question/2106418067513386152",
+      "title": "2627赛季英超联赛英超第11轮利物浦 4:0 曼联，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2107995201918723751",
       "hot_value": "",
       "index": 20
     }
