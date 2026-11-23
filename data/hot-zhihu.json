@@ -1,126 +1,126 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-22T21:28:34Z",
+  "update_time": "2026-11-23T01:54:39Z",
   "count": 20,
   "list": [
-    {
-      "title": "交易所打出稳市「组合拳」，沪深北交易所降低融资保证金比例下限至 80%，意味着什么？释放了哪些信号？",
-      "url": "https://www.zhihu.com/question/2107908002430677964",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
       "url": "https://www.zhihu.com/question/2107848989819326753",
       "hot_value": "",
-      "index": 2
+      "index": 1
     },
     {
-      "title": "如何评价《侠盗猎车手 VI》（GTA 6）的结局？",
-      "url": "https://www.zhihu.com/question/2107491544735470766",
+      "title": "在黎曼猜想被声称证明后，如何理解袁新意所说的「或许我们高估了黎曼猜想的难度」？",
+      "url": "https://www.zhihu.com/question/2107618428508792525",
       "hot_value": "",
-      "index": 3
+      "index": 2
     },
     {
       "title": "编剧芦苇评价《给阿嬷的情书》是合格水准，但很难成为经典，劣币驱逐良币时代是良心之作，怎样理解这一说法？",
       "url": "https://www.zhihu.com/question/2107906248599234133",
       "hot_value": "",
+      "index": 3
+    },
+    {
+      "title": "交易所打出稳市「组合拳」，沪深北交易所降低融资保证金比例下限至 80%，意味着什么？释放了哪些信号？",
+      "url": "https://www.zhihu.com/question/2107908002430677964",
+      "hot_value": "",
       "index": 4
     },
     {
-      "title": "同样是蛋白质，为什么提倡喝牛奶而不是吃鸡蛋?",
-      "url": "https://www.zhihu.com/question/623251460",
+      "title": "2026年乒乓球德甲联赛第九轮，樊振东1：3负于约内斯库，怎么评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2107985884800984526",
       "hot_value": "",
       "index": 5
     },
     {
-      "title": "长安大学回应「14日面试13日出结果」，公告误带后台草稿的创建日期，三名人事干部被处分，如何看待此事？",
-      "url": "https://www.zhihu.com/question/2107570779529529086",
+      "title": "主播私闯果园直播带货糟蹋千斤苹果，起初仅愿赔偿6000元，官方通报其系误入，相关损失应如何认定和赔偿？",
+      "url": "https://www.zhihu.com/question/2107832519722791972",
       "hot_value": "",
       "index": 6
     },
     {
-      "title": "2026年乒乓球德甲联赛第九轮，樊振东1：3负于约内斯库，怎么评价樊振东代表杜塞尔多夫的这一场失利？",
-      "url": "https://www.zhihu.com/question/2107985884800984526",
+      "title": "张水华黄石马拉松破个人纪录夺冠，6周连跑6场获5冠1亚，如何评价她的表现？",
+      "url": "https://www.zhihu.com/question/2107832295511913619",
       "hot_value": "",
       "index": 7
+    },
+    {
+      "title": "你知道有多少冷知识？",
+      "url": "https://www.zhihu.com/question/652081252",
+      "hot_value": "",
+      "index": 8
+    },
+    {
+      "title": "27岁庞众望完成博士论文答辩，即将从清华毕业，未来有望朝什么方向发展？他的求学之路给我们什么启示？",
+      "url": "https://www.zhihu.com/question/2107184597846975042",
+      "hot_value": "",
+      "index": 9
+    },
+    {
+      "title": "如何看待曝 Tarzan 向 AL 提出解约？若Tarzan离队成功将会对AL产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2107535407227172231",
+      "hot_value": "",
+      "index": 10
     },
     {
       "title": "日媒逐帧解析高市早苗遭特朗普无视，直呼耻辱，为何日本对此如此破防？反映了日本舆论对日美互动怎样的心态？",
       "url": "https://www.zhihu.com/question/2107806853543322888",
       "hot_value": "",
-      "index": 8
+      "index": 11
     },
     {
-      "title": "P/NP 问题如果被解决，会对计算机科学带来哪些革命性影响？",
-      "url": "https://www.zhihu.com/question/2014398013381043895",
+      "title": "刘若川院士谈黎曼猜想证明，称「数学研究进入工业化时代」，如何理解他的这一论断？",
+      "url": "https://www.zhihu.com/question/2107941904419484943",
       "hot_value": "",
-      "index": 9
-    },
-    {
-      "title": "曝 ShowMaker 宁愿大幅度降薪也希望留在 DK，如何评价他的选择？DK 目前情况有多糟？",
-      "url": "https://www.zhihu.com/question/2105979786103191265",
-      "hot_value": "",
-      "index": 10
+      "index": 12
     },
     {
       "title": "AI短剧、AI漫剧现在这么火爆，为什么我感觉大多数角色的脸都一样？大家不会视觉疲劳吗？",
       "url": "https://www.zhihu.com/question/2079246734493066423",
       "hot_value": "",
-      "index": 11
-    },
-    {
-      "title": "为什么看完AI短剧以后，就看不进真人演的剧呢？",
-      "url": "https://www.zhihu.com/question/2096651689738687723",
-      "hot_value": "",
-      "index": 12
-    },
-    {
-      "title": "为什么现在90后，00后年轻人不再给领导提供情绪价值了？",
-      "url": "https://www.zhihu.com/question/2103088984821871193",
-      "hot_value": "",
       "index": 13
-    },
-    {
-      "title": "如何评价《斗破苍穹剧场版：双帝之战》？",
-      "url": "https://www.zhihu.com/question/2107829204641489907",
-      "hot_value": "",
-      "index": 14
     },
     {
       "title": "户均 2.52 人开发商却主推三居，为什么现在 89 平方米刚需户型重新走热？",
       "url": "https://www.zhihu.com/question/2107410857026234017",
       "hot_value": "",
+      "index": 14
+    },
+    {
+      "title": "曝 ShowMaker 宁愿大幅度降薪也希望留在 DK，如何评价他的选择？DK 目前情况有多糟？",
+      "url": "https://www.zhihu.com/question/2105979786103191265",
+      "hot_value": "",
       "index": 15
     },
     {
-      "title": "如何看待女子嫌老公熬夜打游戏，发「追杀令」求助网友狙击老公ID，其老公称「你们找不到我」被玩家围剿？",
-      "url": "https://www.zhihu.com/question/2106418067513386152",
+      "title": "如何看待2026年考CPA人数大幅下降这事？",
+      "url": "https://www.zhihu.com/question/2078984762836922928",
       "hot_value": "",
       "index": 16
     },
     {
-      "title": "朱雀三号回收发动机再次点火试车，具备再次使用条件，里程碑意义有多大？回收火箭发动机如何再次使用？",
-      "url": "https://www.zhihu.com/question/2107054180040959119",
+      "title": "张家齐妈妈按女儿要求写下400字反思并道歉，承认自己太唠叨，一次道歉能修复长期疏远的亲子关系吗？",
+      "url": "https://www.zhihu.com/question/2107891385890071211",
       "hot_value": "",
       "index": 17
     },
     {
-      "title": "纳指跌超5%，英伟达跌14%，BTC跌破6万美元，黄金濒临3500美元，本轮跨市场金融冲击何时止？",
-      "url": "https://www.zhihu.com/question/2107407389817321423",
+      "title": "影视寒冬真的是对影视界流量的清洗吗？",
+      "url": "https://www.zhihu.com/question/2088979672801468909",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "网友称在父母面前切换成「无性别低智儿童」，被问到工作、婚恋话题都说「不知道」，为啥要这样？这招管用吗？",
-      "url": "https://www.zhihu.com/question/2106716173475788406",
+      "title": "为什么现在90后，00后年轻人不再给领导提供情绪价值了？",
+      "url": "https://www.zhihu.com/question/2103088984821871193",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "2627赛季英超联赛英超第11轮利物浦 4:0 曼联，如何评价这场比赛？",
-      "url": "https://www.zhihu.com/question/2107995201918723751",
+      "title": "长征九号为什么放弃了大推力发动机转而用一堆小推力发动机组合？",
+      "url": "https://www.zhihu.com/question/2078097782808769353",
       "hot_value": "",
       "index": 20
     }
