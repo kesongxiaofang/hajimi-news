@@ -1,36 +1,36 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-23T10:13:00Z",
+  "update_time": "2026-11-23T22:08:31Z",
   "count": 20,
   "list": [
-    {
-      "title": "在黎曼猜想被声称证明后，如何理解袁新意所说的「或许我们高估了黎曼猜想的难度」？",
-      "url": "https://www.zhihu.com/question/2107618428508792525",
-      "hot_value": "",
-      "index": 1
-    },
-    {
-      "title": "张雪跨界做外卖骑手电摩，万元定价 10 分钟补能，这款产品踩中真实痛点了吗？能打动外卖骑手吗？",
-      "url": "https://www.zhihu.com/question/2108134885441396854",
-      "hot_value": "",
-      "index": 2
-    },
     {
       "title": "怎么看 Nielsen 发布《黎曼猜想证明无效》的反驳论文？",
       "url": "https://www.zhihu.com/question/2108116147598054620",
       "hot_value": "",
+      "index": 1
+    },
+    {
+      "title": "U17 世界杯小组赛中国 U17 男足 vs 摩洛哥，怎样评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2108346189238067728",
+      "hot_value": "",
+      "index": 2
+    },
+    {
+      "title": "汽车明显在增多，为啥有的洗车店却干不下去了？",
+      "url": "https://www.zhihu.com/question/541903869",
+      "hot_value": "",
       "index": 3
     },
     {
-      "title": "芜湖一住户割断高空作业工人安全绳，警方正在侦办，该住户需承担哪些法律责任？",
-      "url": "https://www.zhihu.com/question/2105992057642865192",
+      "title": "骑手一句「treetree的」带火披萨店炸鸡，老板直言爆单做不过来，为啥此类视频能迅速调起大众购买欲？",
+      "url": "https://www.zhihu.com/question/2108166891873072954",
       "hot_value": "",
       "index": 4
     },
     {
-      "title": "27岁庞众望完成博士论文答辩，即将从清华毕业，未来有望朝什么方向发展？他的求学之路给我们什么启示？",
-      "url": "https://www.zhihu.com/question/2107184597846975042",
+      "title": "如何评价马伯庸的小说《两京十五日》？",
+      "url": "https://www.zhihu.com/question/405078987",
       "hot_value": "",
       "index": 5
     },
@@ -41,86 +41,86 @@
       "index": 6
     },
     {
-      "title": "如何看待母亲拒送8岁女儿上学遭起诉，自称替人类示范在家教育，结果女儿连自己名字都写错、语文仅考6分？",
-      "url": "https://www.zhihu.com/question/2107787943242896234",
+      "title": "张雪跨界做外卖骑手电摩，万元定价 10 分钟补能，这款产品踩中真实痛点了吗？能打动外卖骑手吗？",
+      "url": "https://www.zhihu.com/question/2108134885441396854",
       "hot_value": "",
       "index": 7
-    },
-    {
-      "title": "余文乐自曝因长期高压患上恐慌症，严重到不能开车，心理压力为何会引发躯体化症状？这种情况还能治愈吗？",
-      "url": "https://www.zhihu.com/question/2107780639281735166",
-      "hot_value": "",
-      "index": 8
-    },
-    {
-      "title": "樊振东 3: 0 零封弗朗西斯卡，率队豪取德甲九连胜，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2108138922257733070",
-      "hot_value": "",
-      "index": 9
-    },
-    {
-      "title": "你的家乡有哪些值得记录的人或故事？",
-      "url": "https://www.zhihu.com/question/2104534044243226645",
-      "hot_value": "",
-      "index": 10
     },
     {
       "title": "为什么一到香港就能强烈地感受到那种都市感呢？",
       "url": "https://www.zhihu.com/question/2105832401150666215",
       "hot_value": "",
+      "index": 8
+    },
+    {
+      "title": "Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2107898424943179770",
+      "hot_value": "",
+      "index": 9
+    },
+    {
+      "title": "户均 2.52 人开发商却主推三居，为什么现在 89 平方米刚需户型重新走热？",
+      "url": "https://www.zhihu.com/question/2107410857026234017",
+      "hot_value": "",
+      "index": 10
+    },
+    {
+      "title": "如果《GTA6》最终拿到TGA年度游戏，你会替影之刃惋惜吗？",
+      "url": "https://www.zhihu.com/question/2106459198347293323",
+      "hot_value": "",
       "index": 11
     },
     {
-      "title": "DeepSeek 推出限额规则，不少重度免费用户主动求付费保留长对话，这暴露出哪些行业现实问题？",
-      "url": "https://www.zhihu.com/question/2107183345205626254",
+      "title": "如何看待俄海军20380型护卫舰「水星」号在利比亚班加西港遭袭起火爆炸，泽连斯基证实系乌方无人艇击沉？",
+      "url": "https://www.zhihu.com/question/2107987555467654398",
       "hot_value": "",
       "index": 12
     },
     {
-      "title": "GLM-5.4已经在 GLM Coding Plan 中上线，有何技术亮点？",
-      "url": "https://www.zhihu.com/question/2108174894781445223",
+      "title": "如何评价佟丽娅、王皓主演的喜剧电影《我没错！》？",
+      "url": "https://www.zhihu.com/question/2104633342549300485",
       "hot_value": "",
       "index": 13
     },
     {
-      "title": "如何评价王菲母女三人合唱《爱笑的天使》？从当年王菲唱给刚出生的女儿，到如今母女同台合唱，你有哪些感触？",
-      "url": "https://www.zhihu.com/question/2106866837116016346",
+      "title": "为什么大学生上课越来越不喜欢课本？为什么大学生不喜欢买课本？",
+      "url": "https://www.zhihu.com/question/2106328675356562654",
       "hot_value": "",
       "index": 14
+    },
+    {
+      "title": "NVIDIA董事会宣布即日起恢复黄仁勋的总裁、首席执行官和董事职务。如何评价该事件？",
+      "url": "https://www.zhihu.com/question/2108319925819523250",
+      "hot_value": "",
+      "index": 15
+    },
+    {
+      "title": "男人怎么能让外貌有年轻的感觉？",
+      "url": "https://www.zhihu.com/question/2014041387084030672",
+      "hot_value": "",
+      "index": 16
+    },
+    {
+      "title": "孙权比曹操、刘备晚去世30年，为什么不趁机一统天下，而是沉迷权斗?",
+      "url": "https://www.zhihu.com/question/2086056176236639614",
+      "hot_value": "",
+      "index": 17
+    },
+    {
+      "title": "如果只能让正在秋招的应届生看见你工作中的一天，你会选哪一天？",
+      "url": "https://www.zhihu.com/question/2100685759950709737",
+      "hot_value": "",
+      "index": 18
     },
     {
       "title": "51 岁网络主播性侵未成年获刑四年，其亲属曾付60万给被害人家属要求私了被追责，如何从法律角度解读？",
       "url": "https://www.zhihu.com/question/2107489470031335828",
       "hot_value": "",
-      "index": 15
-    },
-    {
-      "title": "庾纯酒后怒斥贾充：“高贵乡公何在”，他最后为什么连屁事都没有发生？",
-      "url": "https://www.zhihu.com/question/2107770493499712741",
-      "hot_value": "",
-      "index": 16
-    },
-    {
-      "title": "雷克萨斯 ES 纯电版正式上市起售价 33.99 万元，该定价在同级别车型里竞争力如何？",
-      "url": "https://www.zhihu.com/question/2107863773713265749",
-      "hot_value": "",
-      "index": 17
-    },
-    {
-      "title": "小学生试卷现1991年「张大爷」，经核实为虚构，为啥虚构烂梗能被包装成新闻收割流量？带给我们哪些反思？",
-      "url": "https://www.zhihu.com/question/2107936450423382583",
-      "hot_value": "",
-      "index": 18
-    },
-    {
-      "title": "S16总决赛官方把FMVP给到Knight，除了他之外，这场BO5里还有谁有资格拿到这个荣誉？",
-      "url": "https://www.zhihu.com/question/2106033619408110746",
-      "hot_value": "",
       "index": 19
     },
     {
-      "title": "段永平谈字节跳动，「确实很强，好公司未必要上市」，怎样看待这一观点？你觉得字节跳动未来有可能上市吗？",
-      "url": "https://www.zhihu.com/question/2107155488328753245",
+      "title": "黄仁勋回归英伟达后，英伟达的股市将走向何方？能修复此前风波而受损的市场信心吗？",
+      "url": "https://www.zhihu.com/question/2108322859659387417",
       "hot_value": "",
       "index": 20
     }
