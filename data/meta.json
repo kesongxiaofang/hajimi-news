@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-23T01:54:39Z",
+  "update_time": "2026-11-23T10:13:00Z",
   "platforms": [
     {
       "type": "weibo",
@@ -34,7 +34,8 @@
     {
       "type": "baidu",
       "name": "百度热搜",
-      "count": 30
+      "count": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "type": "toutiao",

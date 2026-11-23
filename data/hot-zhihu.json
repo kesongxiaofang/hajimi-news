@@ -1,126 +1,126 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-23T01:54:39Z",
+  "update_time": "2026-11-23T10:13:00Z",
   "count": 20,
   "list": [
-    {
-      "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
-      "url": "https://www.zhihu.com/question/2107848989819326753",
-      "hot_value": "",
-      "index": 1
-    },
     {
       "title": "在黎曼猜想被声称证明后，如何理解袁新意所说的「或许我们高估了黎曼猜想的难度」？",
       "url": "https://www.zhihu.com/question/2107618428508792525",
       "hot_value": "",
+      "index": 1
+    },
+    {
+      "title": "张雪跨界做外卖骑手电摩，万元定价 10 分钟补能，这款产品踩中真实痛点了吗？能打动外卖骑手吗？",
+      "url": "https://www.zhihu.com/question/2108134885441396854",
+      "hot_value": "",
       "index": 2
     },
     {
-      "title": "编剧芦苇评价《给阿嬷的情书》是合格水准，但很难成为经典，劣币驱逐良币时代是良心之作，怎样理解这一说法？",
-      "url": "https://www.zhihu.com/question/2107906248599234133",
+      "title": "怎么看 Nielsen 发布《黎曼猜想证明无效》的反驳论文？",
+      "url": "https://www.zhihu.com/question/2108116147598054620",
       "hot_value": "",
       "index": 3
     },
     {
-      "title": "交易所打出稳市「组合拳」，沪深北交易所降低融资保证金比例下限至 80%，意味着什么？释放了哪些信号？",
-      "url": "https://www.zhihu.com/question/2107908002430677964",
+      "title": "芜湖一住户割断高空作业工人安全绳，警方正在侦办，该住户需承担哪些法律责任？",
+      "url": "https://www.zhihu.com/question/2105992057642865192",
       "hot_value": "",
       "index": 4
-    },
-    {
-      "title": "2026年乒乓球德甲联赛第九轮，樊振东1：3负于约内斯库，怎么评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2107985884800984526",
-      "hot_value": "",
-      "index": 5
-    },
-    {
-      "title": "主播私闯果园直播带货糟蹋千斤苹果，起初仅愿赔偿6000元，官方通报其系误入，相关损失应如何认定和赔偿？",
-      "url": "https://www.zhihu.com/question/2107832519722791972",
-      "hot_value": "",
-      "index": 6
-    },
-    {
-      "title": "张水华黄石马拉松破个人纪录夺冠，6周连跑6场获5冠1亚，如何评价她的表现？",
-      "url": "https://www.zhihu.com/question/2107832295511913619",
-      "hot_value": "",
-      "index": 7
-    },
-    {
-      "title": "你知道有多少冷知识？",
-      "url": "https://www.zhihu.com/question/652081252",
-      "hot_value": "",
-      "index": 8
     },
     {
       "title": "27岁庞众望完成博士论文答辩，即将从清华毕业，未来有望朝什么方向发展？他的求学之路给我们什么启示？",
       "url": "https://www.zhihu.com/question/2107184597846975042",
       "hot_value": "",
+      "index": 5
+    },
+    {
+      "title": "为什么大便之前体重和大便之后的体重一样？难道排泄物没有重量吗？",
+      "url": "https://www.zhihu.com/question/2105195950671245354",
+      "hot_value": "",
+      "index": 6
+    },
+    {
+      "title": "如何看待母亲拒送8岁女儿上学遭起诉，自称替人类示范在家教育，结果女儿连自己名字都写错、语文仅考6分？",
+      "url": "https://www.zhihu.com/question/2107787943242896234",
+      "hot_value": "",
+      "index": 7
+    },
+    {
+      "title": "余文乐自曝因长期高压患上恐慌症，严重到不能开车，心理压力为何会引发躯体化症状？这种情况还能治愈吗？",
+      "url": "https://www.zhihu.com/question/2107780639281735166",
+      "hot_value": "",
+      "index": 8
+    },
+    {
+      "title": "樊振东 3: 0 零封弗朗西斯卡，率队豪取德甲九连胜，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2108138922257733070",
+      "hot_value": "",
       "index": 9
     },
     {
-      "title": "如何看待曝 Tarzan 向 AL 提出解约？若Tarzan离队成功将会对AL产生哪些影响？",
-      "url": "https://www.zhihu.com/question/2107535407227172231",
+      "title": "你的家乡有哪些值得记录的人或故事？",
+      "url": "https://www.zhihu.com/question/2104534044243226645",
       "hot_value": "",
       "index": 10
     },
     {
-      "title": "日媒逐帧解析高市早苗遭特朗普无视，直呼耻辱，为何日本对此如此破防？反映了日本舆论对日美互动怎样的心态？",
-      "url": "https://www.zhihu.com/question/2107806853543322888",
+      "title": "为什么一到香港就能强烈地感受到那种都市感呢？",
+      "url": "https://www.zhihu.com/question/2105832401150666215",
       "hot_value": "",
       "index": 11
     },
     {
-      "title": "刘若川院士谈黎曼猜想证明，称「数学研究进入工业化时代」，如何理解他的这一论断？",
-      "url": "https://www.zhihu.com/question/2107941904419484943",
+      "title": "DeepSeek 推出限额规则，不少重度免费用户主动求付费保留长对话，这暴露出哪些行业现实问题？",
+      "url": "https://www.zhihu.com/question/2107183345205626254",
       "hot_value": "",
       "index": 12
     },
     {
-      "title": "AI短剧、AI漫剧现在这么火爆，为什么我感觉大多数角色的脸都一样？大家不会视觉疲劳吗？",
-      "url": "https://www.zhihu.com/question/2079246734493066423",
+      "title": "GLM-5.4已经在 GLM Coding Plan 中上线，有何技术亮点？",
+      "url": "https://www.zhihu.com/question/2108174894781445223",
       "hot_value": "",
       "index": 13
     },
     {
-      "title": "户均 2.52 人开发商却主推三居，为什么现在 89 平方米刚需户型重新走热？",
-      "url": "https://www.zhihu.com/question/2107410857026234017",
+      "title": "如何评价王菲母女三人合唱《爱笑的天使》？从当年王菲唱给刚出生的女儿，到如今母女同台合唱，你有哪些感触？",
+      "url": "https://www.zhihu.com/question/2106866837116016346",
       "hot_value": "",
       "index": 14
     },
     {
-      "title": "曝 ShowMaker 宁愿大幅度降薪也希望留在 DK，如何评价他的选择？DK 目前情况有多糟？",
-      "url": "https://www.zhihu.com/question/2105979786103191265",
+      "title": "51 岁网络主播性侵未成年获刑四年，其亲属曾付60万给被害人家属要求私了被追责，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2107489470031335828",
       "hot_value": "",
       "index": 15
     },
     {
-      "title": "如何看待2026年考CPA人数大幅下降这事？",
-      "url": "https://www.zhihu.com/question/2078984762836922928",
+      "title": "庾纯酒后怒斥贾充：“高贵乡公何在”，他最后为什么连屁事都没有发生？",
+      "url": "https://www.zhihu.com/question/2107770493499712741",
       "hot_value": "",
       "index": 16
     },
     {
-      "title": "张家齐妈妈按女儿要求写下400字反思并道歉，承认自己太唠叨，一次道歉能修复长期疏远的亲子关系吗？",
-      "url": "https://www.zhihu.com/question/2107891385890071211",
+      "title": "雷克萨斯 ES 纯电版正式上市起售价 33.99 万元，该定价在同级别车型里竞争力如何？",
+      "url": "https://www.zhihu.com/question/2107863773713265749",
       "hot_value": "",
       "index": 17
     },
     {
-      "title": "影视寒冬真的是对影视界流量的清洗吗？",
-      "url": "https://www.zhihu.com/question/2088979672801468909",
+      "title": "小学生试卷现1991年「张大爷」，经核实为虚构，为啥虚构烂梗能被包装成新闻收割流量？带给我们哪些反思？",
+      "url": "https://www.zhihu.com/question/2107936450423382583",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "为什么现在90后，00后年轻人不再给领导提供情绪价值了？",
-      "url": "https://www.zhihu.com/question/2103088984821871193",
+      "title": "S16总决赛官方把FMVP给到Knight，除了他之外，这场BO5里还有谁有资格拿到这个荣誉？",
+      "url": "https://www.zhihu.com/question/2106033619408110746",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "长征九号为什么放弃了大推力发动机转而用一堆小推力发动机组合？",
-      "url": "https://www.zhihu.com/question/2078097782808769353",
+      "title": "段永平谈字节跳动，「确实很强，好公司未必要上市」，怎样看待这一观点？你觉得字节跳动未来有可能上市吗？",
+      "url": "https://www.zhihu.com/question/2107155488328753245",
       "hot_value": "",
       "index": 20
     }
