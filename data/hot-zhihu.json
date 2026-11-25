@@ -1,7 +1,7 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-24T18:03:16Z",
+  "update_time": "2026-11-25T02:41:17Z",
   "count": 20,
   "list": [
     {
@@ -11,38 +11,38 @@
       "index": 1
     },
     {
-      "title": "小米集团 2026 Q3 财报发布，经调整净利润 48.84 亿元，同比下降56.8%，怎样解读？",
-      "url": "https://www.zhihu.com/question/2108615793676137848",
-      "hot_value": "",
-      "index": 2
-    },
-    {
-      "title": "英伟达卖空者预计亏损 122 亿美元，创下 2019 年以来最大单日亏损，怎么看待这次史诗级空头暴击？",
-      "url": "https://www.zhihu.com/question/2108467878504812572",
-      "hot_value": "",
-      "index": 3
-    },
-    {
       "title": "特朗普称黄仁勋是「国家瑰宝」，若在美遇不公可去中国，黄仁勋未来若来华可能有哪些选择？",
       "url": "https://www.zhihu.com/question/2108601916930225865",
       "hot_value": "",
-      "index": 4
-    },
-    {
-      "title": "新版国际高血压指南发布，高压130低压80起被定义为血压升高，意味着啥？普通人该如何判断是否需要干预？",
-      "url": "https://www.zhihu.com/question/2107930943176692229",
-      "hot_value": "",
-      "index": 5
+      "index": 2
     },
     {
       "title": "AI 短剧《丑狐》爆火后引发大量讨论，它能戳中观众的核心原因是什么？",
       "url": "https://www.zhihu.com/question/2108451365806776772",
       "hot_value": "",
+      "index": 3
+    },
+    {
+      "title": "小米集团 2026 Q3 财报发布，经调整净利润 48.84 亿元，同比下降56.8%，怎样解读？",
+      "url": "https://www.zhihu.com/question/2108615793676137848",
+      "hot_value": "",
+      "index": 4
+    },
+    {
+      "title": "高志凯称欧洲在人工智能发展中的作用几乎是零，这一观点是否站得住脚？",
+      "url": "https://www.zhihu.com/question/2104246988380418941",
+      "hot_value": "",
+      "index": 5
+    },
+    {
+      "title": "有没有感觉查酒驾这场闹剧正在慢慢退场呢？",
+      "url": "https://www.zhihu.com/question/2106748863524741946",
+      "hot_value": "",
       "index": 6
     },
     {
-      "title": "网友称很多东西的名字本身就会激发购买欲，这算不算一种营销套路？你有同感吗？商品名为何能左右消费者？",
-      "url": "https://www.zhihu.com/question/2108242686578615043",
+      "title": "谷歌 Android17 全球份额仅约 1%，安卓版本碎片化为何迟迟难解？",
+      "url": "https://www.zhihu.com/question/2099630396027691301",
       "hot_value": "",
       "index": 7
     },
@@ -53,8 +53,8 @@
       "index": 8
     },
     {
-      "title": "为什么让Ai随机说一个1到30之间的数，大部分都会说17？",
-      "url": "https://www.zhihu.com/question/2078883145160582324",
+      "title": "为什么大便之前体重和大便之后的体重一样？难道排泄物没有重量吗？",
+      "url": "https://www.zhihu.com/question/2105195950671245354",
       "hot_value": "",
       "index": 9
     },
@@ -65,32 +65,32 @@
       "index": 10
     },
     {
-      "title": "黄仁勋回归后，英伟达消费级显卡路线会发生哪些变化？这对普通装机玩家显卡选择、价格和升级节奏意味着什么？",
-      "url": "https://www.zhihu.com/question/2108333024727103191",
+      "title": "英伟达卖空者预计亏损 122 亿美元，创下 2019 年以来最大单日亏损，怎么看待这次史诗级空头暴击？",
+      "url": "https://www.zhihu.com/question/2108467878504812572",
       "hot_value": "",
       "index": 11
     },
     {
-      "title": "如何看待 BLG 夺冠后，米勒等 LPL 解说及曾恶意带 Bin 节奏的 UP 主被群起「清算」？",
-      "url": "https://www.zhihu.com/question/2106518167774352141",
+      "title": "为什么老板多数是销售出身，而不是市场出身？",
+      "url": "https://www.zhihu.com/question/21648437",
       "hot_value": "",
       "index": 12
     },
     {
-      "title": "如果用一句话总结，《大明王朝 1566》到底讲了什么？",
-      "url": "https://www.zhihu.com/question/2039767623869666089",
+      "title": "汽车明显在增多，为啥有的洗车店却干不下去了？",
+      "url": "https://www.zhihu.com/question/541903869",
       "hot_value": "",
       "index": 13
     },
     {
-      "title": "如何看待凡人修仙传动漫新年番网络（豆瓣）评分7.7分？",
-      "url": "https://www.zhihu.com/question/2108609727206789343",
+      "title": "患者需要住院，费用一时凑不齐，医生通常能帮到哪一步？",
+      "url": "https://www.zhihu.com/question/2101030666418892918",
       "hot_value": "",
       "index": 14
     },
     {
-      "title": "谷歌 Android17 全球份额仅约 1%，安卓版本碎片化为何迟迟难解？",
-      "url": "https://www.zhihu.com/question/2099630396027691301",
+      "title": "封建王朝难以进行工业化，为何沙俄和奥斯曼却能造出一定的工业体系？",
+      "url": "https://www.zhihu.com/question/2053232217522975966",
       "hot_value": "",
       "index": 15
     },
@@ -101,8 +101,8 @@
       "index": 16
     },
     {
-      "title": "华为Mate 90 Air，作为华为最薄的Mate直板机，算不算重新定义Air品类的行业标准？",
-      "url": "https://www.zhihu.com/question/2108501789800656927",
+      "title": "小学生去上公开课，班主任老师把班级两个孩子留在班级不准去。这样安排合理吗？",
+      "url": "https://www.zhihu.com/question/2107260060166533321",
       "hot_value": "",
       "index": 17
     },
@@ -113,8 +113,8 @@
       "index": 18
     },
     {
-      "title": "高志凯称欧洲在人工智能发展中的作用几乎是零，这一观点是否站得住脚？",
-      "url": "https://www.zhihu.com/question/2104246988380418941",
+      "title": "你喜欢开家长会吗？你家的家长会是爸爸去的多还是妈妈去的多？",
+      "url": "https://www.zhihu.com/question/2107845474560627705",
       "hot_value": "",
       "index": 19
     },
