@@ -1,187 +1,187 @@
 {
   "platform": "bilibili",
   "name": "B站热搜",
-  "update_time": "2026-11-27T14:38:23Z",
+  "update_time": "2026-11-27T23:10:38Z",
   "count": 30,
   "list": [
     {
       "title": "《下一个是谁》第七季（6）",
       "url": "https://www.bilibili.com/video/BV15Q1WzRENh",
-      "hot_value": "566098播放",
+      "hot_value": "1078417播放",
       "index": 1
     },
     {
-      "title": "是水，在撩拨心弦——伊莫S2赛季「鸣海拾音」12月10日正式开启",
-      "url": "https://www.bilibili.com/video/BV1Ph1WzuE6N",
-      "hot_value": "452101播放",
+      "title": "刷新新地点~再三声明！选择中文和日文，无任何不良引导！！",
+      "url": "https://www.bilibili.com/video/BV13T1JzuEeJ",
+      "hot_value": "330699播放",
       "index": 2
     },
     {
-      "title": "《白银之城》世界观PV | 童话的起笔",
-      "url": "https://www.bilibili.com/video/BV1uT17zhEJX",
-      "hot_value": "1991372播放",
+      "title": "《绝区零》挽昼动画短片 | 最后的旅途",
+      "url": "https://www.bilibili.com/video/BV1or1HzXEi1",
+      "hot_value": "1070679播放",
       "index": 3
     },
     {
       "title": "【独家】《罗小黑战记》第45话 美好的暑假如此短暂【10月国创】",
       "url": "https://www.bilibili.com/video/BV1Em1jz5EpX",
-      "hot_value": "2327838播放",
+      "hot_value": "2646328播放",
       "index": 4
-    },
-    {
-      "title": "BLG夺冠后小编大喊NICE！这样我们才能出专访",
-      "url": "https://www.bilibili.com/video/BV1un1xz9E1c",
-      "hot_value": "285910播放",
-      "index": 5
-    },
-    {
-      "title": "「2027明日方舟：终末地终末回响专场演出-镌宇留声」先导预告公开",
-      "url": "https://www.bilibili.com/video/BV1GF17zKEiP",
-      "hot_value": "1011053播放",
-      "index": 6
-    },
-    {
-      "title": "假如篮球博主来宿舍打球",
-      "url": "https://www.bilibili.com/video/BV1bqyUz7EwP",
-      "hot_value": "937166播放",
-      "index": 7
-    },
-    {
-      "title": "《绝区零》挽昼动画短片 | 最后的旅途",
-      "url": "https://www.bilibili.com/video/BV1or1HzXEi1",
-      "hot_value": "850596播放",
-      "index": 8
     },
     {
       "title": "【三角洲全角色/与天齐】⚡我本是天才少年😭👊🏻⚡",
       "url": "https://www.bilibili.com/video/BV15wymzpE6T",
-      "hot_value": "745991播放",
+      "hot_value": "943237播放",
+      "index": 5
+    },
+    {
+      "title": "BLG夺冠后小编大喊NICE！这样我们才能出专访",
+      "url": "https://www.bilibili.com/video/BV1un1xz9E1c",
+      "hot_value": "724016播放",
+      "index": 6
+    },
+    {
+      "title": "【东堂葵无伤宿傩】所谓的拍手，是发自灵魂的喝彩！【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1fY1JznE4D",
+      "hot_value": "294302播放",
+      "index": 7
+    },
+    {
+      "title": "在B站就能玩到的搜打撤游戏，点击即玩！【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1CV1szzEWt",
+      "hot_value": "128680播放",
+      "index": 8
+    },
+    {
+      "title": "一块很宽很宽很宽很宽的人......",
+      "url": "https://www.bilibili.com/video/BV1wv1WziEtR",
+      "hot_value": "328494播放",
       "index": 9
     },
     {
       "title": "【欢迎来龙餐馆】起锅开灶，好好吃饭",
       "url": "https://www.bilibili.com/video/BV14iy2zgE4s",
-      "hot_value": "2672188播放",
+      "hot_value": "3160881播放",
       "index": 10
-    },
-    {
-      "title": "【东堂葵无伤宿傩】所谓的拍手，是发自灵魂的喝彩！【B站AI创造公开赛】",
-      "url": "https://www.bilibili.com/video/BV1fY1JznE4D",
-      "hot_value": "216680播放",
-      "index": 11
-    },
-    {
-      "title": "宠老头早午餐vlog有点高能量了",
-      "url": "https://www.bilibili.com/video/BV1SRyfz1E5Q",
-      "hot_value": "1351051播放",
-      "index": 12
     },
     {
       "title": "我讨厌我的子宫、我的月经和我的胸，讨厌一切女性特质，但没钱做手术，只能靠cosplay来填补内心",
       "url": "https://www.bilibili.com/video/BV1T6pY6eEdT",
-      "hot_value": "1487528播放",
-      "index": 13
-    },
-    {
-      "title": "在B站就能玩到的搜打撤游戏，点击即玩！【B站AI创造公开赛】",
-      "url": "https://www.bilibili.com/video/BV1CV1szzEWt",
-      "hot_value": "68864播放",
-      "index": 14
-    },
-    {
-      "title": "顺直大改造S2EP2——顺直男和通讯录的恩怨情仇",
-      "url": "https://www.bilibili.com/video/BV1EEyUzhEbH",
-      "hot_value": "768064播放",
-      "index": 15
-    },
-    {
-      "title": "《蓝色星原：旅谣》公测版本PV | 星跃始动",
-      "url": "https://www.bilibili.com/video/BV1UByzzRE4K",
-      "hot_value": "7062730播放",
-      "index": 16
+      "hot_value": "1887114播放",
+      "index": 11
     },
     {
       "title": "我把Steam复刻搬进了B站游玩Toy【点击即玩】ToyToy【B站AI创造公开赛】",
       "url": "https://www.bilibili.com/video/BV119yCzcEBd",
-      "hot_value": "795010播放",
-      "index": 17
-    },
-    {
-      "title": "电竞椅、工学椅之外，游戏党还能怎么选？",
-      "url": "https://www.bilibili.com/video/BV1Z7yUzcEBk",
-      "hot_value": "203637播放",
-      "index": 18
-    },
-    {
-      "title": "这下小伙可惨了",
-      "url": "https://www.bilibili.com/video/BV1gZ1WzDEd2",
-      "hot_value": "195648播放",
-      "index": 19
-    },
-    {
-      "title": "何 以 当 归 2",
-      "url": "https://www.bilibili.com/video/BV1uQ1JzuERH",
-      "hot_value": "511689播放",
-      "index": 20
-    },
-    {
-      "title": "热烈欢迎胡兵👏兵哥的字典里没有“随便”两个字！看看今天会给我们带来什么样的震撼🫨",
-      "url": "https://www.bilibili.com/video/BV1dDy6ziEUD",
-      "hot_value": "440899播放",
-      "index": 21
-    },
-    {
-      "title": "DECO*27 - Gesture feat. 初音未来",
-      "url": "https://www.bilibili.com/video/BV1vKyBzZEsL",
-      "hot_value": "112236播放",
-      "index": 22
-    },
-    {
-      "title": "吓哭了！华山长空栈道是人爬的？和有山挑战天下第一奇险",
-      "url": "https://www.bilibili.com/video/BV1dj1EzVE4L",
-      "hot_value": "1307716播放",
-      "index": 23
-    },
-    {
-      "title": "【毕导】最对味的一集！如何放出无声的屁？响屁不臭臭屁不响是真的吗？",
-      "url": "https://www.bilibili.com/video/BV1Dd1HzVENm",
-      "hot_value": "464885播放",
-      "index": 24
-    },
-    {
-      "title": "长得帅就要被网爆么?",
-      "url": "https://www.bilibili.com/video/BV11AyUz6E6h",
-      "hot_value": "2082918播放",
-      "index": 25
-    },
-    {
-      "title": "《明日方舟》SideStory「星星不愿入睡」活动宣传PV",
-      "url": "https://www.bilibili.com/video/BV19k1Jz5Ea8",
-      "hot_value": "1395137播放",
-      "index": 26
-    },
-    {
-      "title": "不同人格便秘belike：",
-      "url": "https://www.bilibili.com/video/BV1cJyrz2Eg6",
-      "hot_value": "973097播放",
-      "index": 27
-    },
-    {
-      "title": "我们成为英雄，哪怕只有一天",
-      "url": "https://www.bilibili.com/video/BV1ioyGzZET8",
-      "hot_value": "3601120播放",
-      "index": 28
+      "hot_value": "935211播放",
+      "index": 12
     },
     {
       "title": "一根手指打破平衡",
       "url": "https://www.bilibili.com/video/BV1wUy2zAEDe",
-      "hot_value": "1118613播放",
+      "hot_value": "1320214播放",
+      "index": 13
+    },
+    {
+      "title": "谁是赛伊德？！！",
+      "url": "https://www.bilibili.com/video/BV1c41JzxEXb",
+      "hot_value": "552987播放",
+      "index": 14
+    },
+    {
+      "title": "大肥鱼你真的是串麻了",
+      "url": "https://www.bilibili.com/video/BV17dy2z4E5f",
+      "hot_value": "955791播放",
+      "index": 15
+    },
+    {
+      "title": "《明日方舟》SideStory「星星不愿入睡」活动宣传PV",
+      "url": "https://www.bilibili.com/video/BV19k1Jz5Ea8",
+      "hot_value": "1537746播放",
+      "index": 16
+    },
+    {
+      "title": "何 以 当 归 2",
+      "url": "https://www.bilibili.com/video/BV1uQ1JzuERH",
+      "hot_value": "639659播放",
+      "index": 17
+    },
+    {
+      "title": "真跳60分钟😡绝望算不算时间啊？ 超高校级的绝望舞步！【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1WvykzsEmt",
+      "hot_value": "1514714播放",
+      "index": 18
+    },
+    {
+      "title": "【毕导】最对味的一集！如何放出无声的屁？响屁不臭臭屁不响是真的吗？",
+      "url": "https://www.bilibili.com/video/BV1Dd1HzVENm",
+      "hot_value": "568983播放",
+      "index": 19
+    },
+    {
+      "title": "吓哭了！华山长空栈道是人爬的？和有山挑战天下第一奇险",
+      "url": "https://www.bilibili.com/video/BV1dj1EzVE4L",
+      "hot_value": "1478500播放",
+      "index": 20
+    },
+    {
+      "title": "大肥鱼害得全校都知道我爸的名字了！【人和肥鱼06】【AI演绎小剧场】",
+      "url": "https://www.bilibili.com/video/BV1f414zBEJ5",
+      "hot_value": "210925播放",
+      "index": 21
+    },
+    {
+      "title": "「2027明日方舟：终末地终末回响专场演出-镌宇留声」先导预告公开",
+      "url": "https://www.bilibili.com/video/BV1GF17zKEiP",
+      "hot_value": "1063309播放",
+      "index": 22
+    },
+    {
+      "title": "花10万人民币在美国玩一天！是什么体验？",
+      "url": "https://www.bilibili.com/video/BV1CMyUzTEuo",
+      "hot_value": "506310播放",
+      "index": 23
+    },
+    {
+      "title": "是水，在撩拨心弦——伊莫S2赛季「鸣海拾音」12月10日正式开启",
+      "url": "https://www.bilibili.com/video/BV1Ph1WzuE6N",
+      "hot_value": "1026581播放",
+      "index": 24
+    },
+    {
+      "title": "中国功夫大战希特勒，非洲武打片爽爆了！万字拆解《非洲功夫战纳粹2》",
+      "url": "https://www.bilibili.com/video/BV1b81EzeEmD",
+      "hot_value": "498761播放",
+      "index": 25
+    },
+    {
+      "title": "顺直大改造S2EP2——顺直男和通讯录的恩怨情仇",
+      "url": "https://www.bilibili.com/video/BV1EEyUzhEbH",
+      "hot_value": "987040播放",
+      "index": 26
+    },
+    {
+      "title": "《蓝色星原：旅谣》公测版本PV | 星跃始动",
+      "url": "https://www.bilibili.com/video/BV1UByzzRE4K",
+      "hot_value": "7278831播放",
+      "index": 27
+    },
+    {
+      "title": "热烈欢迎胡兵👏兵哥的字典里没有“随便”两个字！看看今天会给我们带来什么样的震撼🫨",
+      "url": "https://www.bilibili.com/video/BV1dDy6ziEUD",
+      "hot_value": "563579播放",
+      "index": 28
+    },
+    {
+      "title": "宠老头早午餐vlog有点高能量了",
+      "url": "https://www.bilibili.com/video/BV1SRyfz1E5Q",
+      "hot_value": "1686191播放",
       "index": 29
     },
     {
-      "title": "潜龙谍影/合金装备联动容器！Δ纸箱全点位带跑！裸蛇/夏娃手办来啦！",
-      "url": "https://www.bilibili.com/video/BV1At1HzYEds",
-      "hot_value": "609277播放",
+      "title": "gta6单杀外星人，轻松拿下",
+      "url": "https://www.bilibili.com/video/BV1qVyyz7Ema",
+      "hot_value": "1130664播放",
       "index": 30
     }
   ]
