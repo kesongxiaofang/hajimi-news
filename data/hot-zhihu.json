@@ -1,126 +1,126 @@
 {
   "platform": "zhihu",
   "name": "知乎热榜",
-  "update_time": "2026-11-27T23:10:38Z",
+  "update_time": "2026-11-28T04:49:56Z",
   "count": 20,
   "list": [
     {
-      "title": "A股迎史诗级暴涨，沪深两市成交额重回2万亿，创业板指放量大涨超11%，超400只个股涨停，发生了什么？",
-      "url": "https://www.zhihu.com/question/2109643924381726663",
+      "title": "如何看待女子称因年龄超 40 岁被酒店拒绝入住？预订平台没有醒目提示，这种规定合法吗？",
+      "url": "https://www.zhihu.com/question/2109585824480236082",
       "hot_value": "",
       "index": 1
     },
     {
-      "title": "如何评价懂车帝最新回应“尊界 V800 刹车踏板支架断裂”事件：公司内部仍在等待相关结果？",
-      "url": "https://www.zhihu.com/question/2109005398313391373",
+      "title": "《后会友期》「告密门」播出后，厉娜风评光速下滑，网友要求她向许飞道歉，她们的矛盾真的只是友情问题吗？",
+      "url": "https://www.zhihu.com/question/2109309669831172560",
       "hot_value": "",
       "index": 2
     },
     {
-      "title": "三只松鼠被曝CEO与员工薪资相差 23 倍，这个薪资差距在行业里属于什么水平？算高吗？",
-      "url": "https://www.zhihu.com/question/2109669812406334189",
+      "title": "国常会的通稿首次使用了「国家队」、类「平准基金」这些提法，释放了哪些信号？",
+      "url": "https://www.zhihu.com/question/2109697976268321407",
       "hot_value": "",
       "index": 3
     },
     {
-      "title": "商务部开新闻发布会称机关单位带头过紧日子，透露了什么信号？可能有哪些影响？",
-      "url": "https://www.zhihu.com/question/2109592991497189095",
+      "title": "模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？",
+      "url": "https://www.zhihu.com/question/2109242936701478494",
       "hot_value": "",
       "index": 4
     },
     {
-      "title": "女子入住上海四千一晚酒店，孩子不慎碰坏一摆件被索赔三千元，远高于采购价，这一索赔标准合理吗？",
-      "url": "https://www.zhihu.com/question/2109291472705033135",
+      "title": "如何看待济南医保官方视频号工作人员误以为直播结束，骂咨询者脑子有病，医保局回应称已批评教育并要求道歉？",
+      "url": "https://www.zhihu.com/question/2109655670127605450",
       "hot_value": "",
       "index": 5
     },
     {
-      "title": "为什么计算机现在已经不如土木了？",
-      "url": "https://www.zhihu.com/question/2101179129135642327",
+      "title": "雅迪、爱玛、九号等15家电动自行车企业被点名，部分企业涉违法出售不合格产品情况，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2109686222276622101",
       "hot_value": "",
       "index": 6
     },
     {
-      "title": "招聘为何更看重第一学历而非最高学历？",
-      "url": "https://www.zhihu.com/question/2082987252792169939",
+      "title": "特斯拉和 SpaceX 冲刺年底合并，将成人类史上最大并购案，马斯克为何要合并两家公司？",
+      "url": "https://www.zhihu.com/question/2109592384853861548",
       "hot_value": "",
       "index": 7
+    },
+    {
+      "title": "董明珠直播中数次训斥员工，魏建军帮忙解围，怎样看待魏建军的处理和董明珠对员工的管理方式？",
+      "url": "https://www.zhihu.com/question/2109929626264760542",
+      "hot_value": "",
+      "index": 8
+    },
+    {
+      "title": "如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？",
+      "url": "https://www.zhihu.com/question/2109705664087816135",
+      "hot_value": "",
+      "index": 9
+    },
+    {
+      "title": "中国一旦解决EUV光刻机技术，高端芯片能实现白菜价吗？",
+      "url": "https://www.zhihu.com/question/2020866489717139044",
+      "hot_value": "",
+      "index": 10
+    },
+    {
+      "title": "武汉一烧烤店员工餐有鲍鱼生蚝，大闸蟹基围虾随便吃，老板称「吃饱才有力气干活」，这个福利怎么样？",
+      "url": "https://www.zhihu.com/question/2108558920985863590",
+      "hot_value": "",
+      "index": 11
+    },
+    {
+      "title": "全球首个乙肝功能性治愈新药贝普若韦生国内获批，是不是意味着慢性乙肝有机会实现临床治愈了？",
+      "url": "https://www.zhihu.com/question/2109552078158820704",
+      "hot_value": "",
+      "index": 12
+    },
+    {
+      "title": "极客湾预估 PC 版《GTA6》2K60 帧整机预算约 1.4 万元，你会为玩这款游戏升级整机吗？",
+      "url": "https://www.zhihu.com/question/2109080119901938864",
+      "hot_value": "",
+      "index": 13
     },
     {
       "title": "能拍出《大明王朝 1566》的导演为什么会在《两京十五日》翻车了？",
       "url": "https://www.zhihu.com/question/2108875718960617190",
       "hot_value": "",
-      "index": 8
-    },
-    {
-      "title": "网传「纳米海绵不宜用来洗碗，每磨损一克释放 650 万个微塑料」，是这样吗？用它洗碗安全吗？",
-      "url": "https://www.zhihu.com/question/2108211840027313575",
-      "hot_value": "",
-      "index": 9
-    },
-    {
-      "title": "快手第三季度营收 316 亿元，净利润 7.9 亿元，日活 4.17 亿，如何解读这份财报？",
-      "url": "https://www.zhihu.com/question/2106815239039751997",
-      "hot_value": "",
-      "index": 10
-    },
-    {
-      "title": "媒体曝海康威视取消大小周，严格执行八小时工作制，有员工称每月少近三千元，公司的工时调整为何员工不买账？",
-      "url": "https://www.zhihu.com/question/2108244269681189697",
-      "hot_value": "",
-      "index": 11
-    },
-    {
-      "title": "巴渝民众日常为啥喜欢吃豌杂面？",
-      "url": "https://www.zhihu.com/question/2108159227390960673",
-      "hot_value": "",
-      "index": 12
-    },
-    {
-      "title": "国产显卡过几年是不是也要起来了？",
-      "url": "https://www.zhihu.com/question/2107059907736486674",
-      "hot_value": "",
-      "index": 13
-    },
-    {
-      "title": "北大教师右眼被注入工业气体获赔 388 万，顶格惩罚性赔偿的依据是什么？",
-      "url": "https://www.zhihu.com/question/2109322061701177833",
-      "hot_value": "",
       "index": 14
     },
     {
-      "title": "为什么吕子乔不撩诺澜？",
-      "url": "https://www.zhihu.com/question/497073110",
+      "title": "为什么很多大学老师知道自己的课没有人听，还是坚持签到？",
+      "url": "https://www.zhihu.com/question/2106697611495448583",
       "hot_value": "",
       "index": 15
     },
     {
-      "title": "如何看待白俄罗斯总统卢卡申科在接受采访时表示「如果追溯历史，整个俄罗斯都应该归蒙古所有」？",
-      "url": "https://www.zhihu.com/question/2109299572098995697",
+      "title": "2026年内地电影票房突破400亿可能性有多大？",
+      "url": "https://www.zhihu.com/question/2108616438680383506",
       "hot_value": "",
       "index": 16
     },
     {
-      "title": "为什么植物大战僵尸现在还受欢迎，而愤怒的小鸟却很少有人玩了？",
-      "url": "https://www.zhihu.com/question/2102466524611199485",
+      "title": "怎么看 1Password 于 2026 年 11 月 25 号披露的后端系统入侵事件，密码有影响吗？",
+      "url": "https://www.zhihu.com/question/2109305751055373894",
       "hot_value": "",
       "index": 17
     },
     {
-      "title": "如果红果短剧改为付费观看，那么结果将如何？",
-      "url": "https://www.zhihu.com/question/2108125203414962834",
+      "title": "为什么中国学生学了十几年英语，还是难以做到流利听说？",
+      "url": "https://www.zhihu.com/question/2091566892074923380",
       "hot_value": "",
       "index": 18
     },
     {
-      "title": "中国标准化研究院发布十大最宜居城市，北京、济南、青岛排前三，怎样看待这份榜单？你心中的宜居城市是哪些？",
-      "url": "https://www.zhihu.com/question/2109591033314894380",
+      "title": "如何评价《绝区零》塞西莉亚的立绘？",
+      "url": "https://www.zhihu.com/question/2109953231237523357",
       "hot_value": "",
       "index": 19
     },
     {
-      "title": "欧盟落地混动进口临时配额，中国对应配额为 19.18 万辆，国内混动出口车企该如何应对这一限制？",
-      "url": "https://www.zhihu.com/question/2108663441766598212",
+      "title": "2627赛季NBA杯小组赛东部B组76 人 111:87 步行者，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2109930627231437551",
       "hot_value": "",
       "index": 20
     }
